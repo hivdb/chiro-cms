@@ -1,5 +1,5 @@
 The software "Chiro" and website of Stanford Coronavirus Antiviral Database is built upon many open source resources.
-We'd like to appreciate and acknowledge the authors of these open source resources here.
+We'd like to appreciate and pay tribute to the authors of following open source resources.
 
 ## Softwares / libraries
 
