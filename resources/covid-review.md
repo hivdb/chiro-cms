@@ -110,7 +110,7 @@ This section describes interventions that interfere with virus entry including c
 ### Convalescent Plasma
 There are few randomized controlled studies of convalescent plasma for the treatment of severe viral infections. A systematic review and meta-analysis of seven studies of convalescent plasma or immunoglobulin for SARS-CoV was considered inconclusive with respect to potential benefits and harm[^10.1371/journal.pmed.0030343]. A larger, more recent meta-analysis of 32 studies of severe SARS-CoV and influenza, reported that administration of convalescent plasma early after symptom onset showed a statistically significant 75% reduction in the pooled odds of mortality compared with placebo or no therapy[^10.1093/infdis/jiu396]. There are currently three published observational studies of convalescent plasma in 19 severely ill SARS-CoV-2 patients, including 13 who were receiving mechanical ventilation[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039]. All patients received 200 ml plasma, and in 15 cases, the donor had neutralizing antibody titers >1:640. All 19 patients survived and appeared to experience clinical improvement within three days.
 
-Two risk-benefit analyses have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 likely outweighs the small risk of undetected bloodborne infection and allergic reaction
+Two risk-benefit analyses have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 likely outweighs the small risk of undetected bloodborne infection and allergic reaction[^10.1016/j.tmrv.2020.04.001][^10.1172/JCI138745]
 
 According to FDA guidance, the administration of SARS-CoV-3 convalescent plasma must be under an investigational new drug application. Donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. The recommend neutralizing antibody titers should be  1:160 (minimum >1:80). As of April 17, 2020, there are 28 ongoing (n=8) or planned (n=20) clinical trials containing at least one arm in which recipients will receive convalescent plasma. There are also two planned studies of convalescent immunoglobulin and one of pooled immunoglobulin from healthy donors. One ongoing study is randomizing patients to convalescent plasma or to standard donor plasma and another planned study aims to randomize high-risk exposed persons to convalescent plasma or placebo. The remaining studies are not placebo controlled. Despite its potential for toxicity (i.e., undetected bloodborne infections and allergic reactions) and lot-to-lot variation in functional neutralizing antibodies (Y. Jin et al. 2017)[^10.1007/s11684-017-0596-6], convalescent plasma and potentially other forms of immunoglobulin therapy will likely remain a treatment option particularly in patients with severe disease.
 
@@ -480,6 +480,6 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTcyOTE5OSwtMTQwMTkyNjYxMiwtMT
-c0MDUyMjkzMSwtMTc5NDgyMzU2LDIwNjA3ODg5NDNdfQ==
+eyJoaXN0b3J5IjpbLTE5NjU2OTc4MzIsLTE0MDE5MjY2MTIsLT
+E3NDA1MjI5MzEsLTE3OTQ4MjM1NiwyMDYwNzg4OTQzXX0=
 -->
