@@ -232,6 +232,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1073/pnas.1718806115]: Ferron F, Subissi L, Silveira De Morais AT, Le NTT, Sevajol M, Gluais L, Decroly E, Vonrhein C, Bricogne G, Canard B, Imbert I. 2018. Structural and molecular basis of mismatch correction and ribavirin excision from coronavirus RNA. Proc. Natl. Acad. Sci. U.S.A.
 [^10.1038/s41467-019-10280-3]: Kirchdoerfer RN, Ward AB. 2019. Structure of the SARS-CoV nsp12 polymerase bound to nsp7 and nsp8 co-factors. Nat Commun.
 [^10.1126/science.abb7498]: Gao Y, Yan L, Huang Y, Liu F, Zhao Y, Cao L, Wang T, Sun Q, Ming Z, Zhang L, Ge J, Zheng L, Zhang Y, Wang H, Zhu Y, Zhu C, Hu T, Hua T, Zhang B, Yang X, Li J, Yang H, Liu Z, Xu W, Guddat LW, Wang Q, Lou Z, Rao Z. 2020. Structure of the RNA-dependent RNA polymerase from COVID-19 virus. Science.
+[^10.1126/science.abc1560]: Yin, Wanchao, Chunyou Mao, Xiaodong Luan, Dan-Dan Shen, Qingya Shen, Haixia Su, Xiaoxi Wang, et al. 2020. Structural Basis for Inhibition of the RNA-Dependent RNA Polymerase from SARS-CoV-2 by Remdesivir. _Science_.
 [^10.1021/acs.jmedchem.6b01594]: Siegel D, Hui HC, Doerffler E, Clarke MO, Chun K, Zhang L, Neville S, Carra E, Lew W, Ross B, Wang Q, Wolfe L, Jordan R, Soloveva V, Knox J, Perry J, Perron M, Stray KM, Barauskas O, Feng JY, Xu Y, Lee G, Rheingold AL, Ray AS, Bannister R, Strickley R, Swaminathan S, Lee WA, Bavari S, Cihlar T, Lo MK, Warren TK, Mackman RL. 2017. Discovery and Synthesis of a Phosphoramidate Prodrug of a Pyrrolo[2,1-f][triazin-4-amino] Adenine C-Nucleoside (GS-5734) for the Treatment of Ebola and Emerging Viruses. J. Med. Chem.
 [^10.1038/nature17180]: Warren TK, Jordan R, Lo MK, Ray AS, Mackman RL, Soloveva V, Siegel D, Perron M, Bannister R, Hui HC, Larson N, Strickley R, Wells J, Stuthman KS, Van Tongeren SA, Garza NL, Donnelly G, Shurtleff AC, Retterer CJ, Gharaibeh D, Zamani R, Kenny T, Eaton BP, Grimes E, Welch LS, Gomba L, Wilhelmsen CL, Nichols DK, Nuss JE, Nagle ER, Kugelman JR, Palacios G, Doerffler E, Neville S, Carra E, Clarke MO, Zhang L, Lew W, Ross B, Wang Q, Chun K, Wolfe L, Babusis D, Park Y, Stray KM, Trancheva I, Feng JY, Barauskas O, Xu Y, Wong P, Braun MR, Flint M, McMullan LK, Chen S, Fearns R, Swaminathan S, Mayers DL, Spiropoulou CF, Lee WA, Nichol ST, Cihlar T, Bavari S. 2016. Therapeutic efficacy of the small molecule GS-5734 against Ebola virus in rhesus monkeys. Nature.
 [^10.1074/jbc.AC120.013056]: Gordon CJ, Tchesnokov EP, Feng JY, Porter DP, Gotte M. 2020. The antiviral compound remdesivir potently inhibits RNA-dependent RNA polymerase from Middle East respiratory syndrome coronavirus. J. Biol. Chem.
@@ -477,6 +478,6 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDA1MjI5MzEsLTE3OTQ4MjM1NiwyMD
-YwNzg4OTQzXX0=
+eyJoaXN0b3J5IjpbLTE0MDE5MjY2MTIsLTE3NDA1MjI5MzEsLT
+E3OTQ4MjM1NiwyMDYwNzg4OTQzXX0=
 -->
