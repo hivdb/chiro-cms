@@ -44,7 +44,7 @@ Preliminary results from the NIH Adaptive COVID-19 Treatment Trial (ACTT) were a
 _Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound that appears to be clinically beneficial. The optimal use of this drug will become clearer following the publication of the ACTT trial and two additional Gilead studies. The risks and benefits of using this drug in high-risk persons with mild-to-moderate disease will be important to study. Remdesivir will likely become the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections._
 
 ### β-D-N4-hydroxycytidine-5'-isopropyl ester (aka NHC and EIDD-2801)
-β-D-N4-hydroxycytidine is a cytidine analogue that exerts its activity primarily through viral mutagenesis in that it incorporates into new RNA strands but leads to large numbers of replication errors during subsequent rounds of replication (Pruijssers and Denison 2019)[^10.1016/j.coviro.2019.04.002]. β-D-N4-hydroxycytidine-5'-isopropyl ester is an orally available NHC prodrug. The mechanism by which β-D-N4-hydroxycytidine eludes coronavirus exonucleases is not known.
+β-D-N4-hydroxycytidine is a cytidine analogue that exerts its activity primarily through viral mutagenesis in that it incorporates into new RNA strands but leads to large numbers of replication errors during subsequent rounds of replication (Pruijssers and Denison 2019)[^10.1016/j.coviro.2019.04.002]. β-D-N4-hydroxycytidine-5'-isopropyl ester is an orally available NHC prodrug. The mechanism by which β-D-N4-hydroxycytidine <![endif]--> the proof-reading function of the coronavirus exonucleaseseludes coronavirus exonucleases is not known.
 
 β-D-N4-hydroxycytidine has broad-spectrum antiviral activity against multiple RNA viruses including MERS-CoV, SARS-CoV, and SARS-CoV-2 with most EC<sub>50</sub>s below 1 μM (Barnard et al. 2004; 2006; Agostini et al. 2019; Sheahan, Sims, Zhou, et al. 2020)[^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883]. It has also demonstrated activity in primary human airway epithelial cells and reduced virus levels, disease, and lung damage in mouse models of SARS-CoV and MERS-CoV (Sheahan, Sims, Zhou, et al. 2020)[^10.1126/scitranslmed.abb5883]. Deep sequencing studies have confirmed that viral mutagenesis is the main mechanism by which β-D-N4-hydroxycytidine inhibits coronaviruses (Agostini et al. 2019; Sheahan, Sims, Zhou, et al. 2020)[^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883].
 
@@ -477,5 +477,5 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDc4ODk0M119
+eyJoaXN0b3J5IjpbMTgzMjg5NjEzNCwyMDYwNzg4OTQzXX0=
 -->
