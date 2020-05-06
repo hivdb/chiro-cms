@@ -223,6 +223,7 @@ __Cyclophilin inhibitors__: Cyclosporin and FK-506 are two immunosuppressive dru
 
 __Ivermectin__: Ivermectin is one of an increasing number of additional compounds found to inhibit SARS-CoV-2 without a defined mechanism of action. It has a reported EC<sub>50</sub> of about 2 μM (Caly et al. 2020)[^10.1016/j.antiviral.2020.104787]. Although its plasma levels following oral administration appear too low to inhibit coronavirus replication, its levels in lung tissue appear likely to be higher  (Chaccour et al. 2020; Arshad et al. 2020)[^10.4269/ajtmh.20-0271][^10.1101/2020.04.16.20068379]. Ivermectin is included in four clinical trials – each containing multiple treatment arms.
 
+[^10.1101/2020.04.29.069054]: 
 [^10.1007/978-1-4939-2438-7_1]: Fehr AR, Perlman S. 2015. Coronaviruses: an overview of their replication and pathogenesis. Methods Mol. Biol.
 [^10.1038/s41586-020-2286-9]: Gordon DE, Jang GM, Bouhaddou M, Xu J, Obernier K, White KM, O'Meara MJ, Rezelj VV, Guo JZ, Swaney DL, Tummino TA, Huettenhain R, Kaake RM, Richards AL, Tutuncuoglu B, Foussard H, Batra J, Haas K, Modak M, Kim M, Haas P, Polacco BJ, Braberg H, Fabius JM, Eckhardt M, Soucheray M, Bennett MJ, Cakir M, McGregor MJ, Li Q, Meyer B, Roesch F, Vallet T, Mac Kain A, Miorin L, Moreno E, Naing ZZC, Zhou Y, Peng S, Shi Y, Zhang Z, Shen W, Kirby IT, Melnyk JE, Chorba JS, Lou K, Dai SA, Barrio-Hernandez I, Memon D, Hernandez-Armenta C, Lyu J, Mathy CJP, Perica T, Pilla KB, Ganesan SJ, Saltzberg DJ, Rakesh R, Liu X, Rosenthal SB, Calviello L, Venkataramanan S, Liboy-Lugo J, Lin Y, Huang X, Liu Y, Wankowicz SA, Bohn M, Safari M, Ugur FS, Koh C, Savar NS, Tran QD, Shengjuler D, Fletcher SJ, O'Neal MC, Cai Y, Chang JCJ, Broadhurst DJ, Klippsten S, Sharp PP, Wenzell NA, Kuzuoglu D, Wang H, Trenker R, Young JM, Cavero DA, Hiatt J, Roth TL, Rathore U, Subramanian A, Noack J, Hubert M, Stroud RM, Frankel AD, Rosenberg OS, Verba KA, Agard DA, Ott M, Emerman M, Jura N, Zastrow M, Verdin E, Ashworth A, Schwartz O, Enfert C, Mukherjee S, Jacobson M, Malik HS, Fujimori DG, Ideker T, Craik CS, Floor SN, Fraser JS, Gross JD, Sali A, Roth BL, Ruggero D, Taunton J, Kortemme T, Beltrao P, Vignuzzi M, García-Sastre A, Shokat KM, Shoichet BK, Krogan NJ. 2020. A SARS-CoV-2 protein interaction map reveals targets for drug repurposing. Nature.
 [^10.3390/v11080745]: Peersen OB. 2019. A Comprehensive Superposition of Viral Polymerase Structures. Viruses.
@@ -476,5 +477,6 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQ4MjM1NiwyMDYwNzg4OTQzXX0=
+eyJoaXN0b3J5IjpbODUwNzM1OTIsLTE3OTQ4MjM1NiwyMDYwNz
+g4OTQzXX0=
 -->
