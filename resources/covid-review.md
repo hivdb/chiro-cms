@@ -213,9 +213,9 @@ The kinase inhibitors dasatinib and imatinib were found to inhibit SARS-CoV and 
 
 __Nitazoxanide__: Nitazoxanide is licensed in the U.S. for the treatment of cryptosporidium infections. It has been reported to inhibit a wide range of viruses in vitro. Its potential mechanisms of antiviral activity are not known. It has been proposed to interfere with host regulated pathways involved in viral replication including those involving interferon or mTORC1[^10.1016/j.jiph.2016.04.001]. In one study its EC<sub>50</sub> for SARS-CoV-2 was 2.1 μM[^10.1038/s41422-020-0282-0]. One pharmacokinetic analysis suggested that nitazoxanide plasma levels could reach concentrations above its one reported EC<sub>50</sub> level[^10.1101/2020.04.16.20068379]. As of April 24, it is listed as being studied in six clinical trials, including two placebo-controlled studies.
 
-__Ciclesonide__: Ciclesonide is an inhaled corticosteroid discovered in a high-throughput drug screen to inhibit coronavirus replication in the low μM range[^10.1101/2020.03.11.987016][^10.1101/2020.03.20.999730][^10.1101/2020.02.25.965582]. Although its mechanism of action is not known, virus passage in the presence of ciclesonide led to the selection of a ciclesonide-resistant mutant, characterized by a point mutation in the NSP15 gene. A single mutation in this gene was responsible for ~100-fold reduced susceptibility. A small case series of three patients from Japan who received inhaled ciclesonide has been published[^10.1016/j.jiac.2020.04.007], As of April 21, there are two planned study of inhaled ciclesonide in South Korea.
+__Ciclesonide__: Ciclesonide is an inhaled corticosteroid discovered in a high-throughput drug screen to inhibit coronavirus replication in the low μM range[^10.1101/2020.03.11.987016][^10.1101/2020.03.20.999730][^10.1101/2020.02.25.965582]. Although its mechanism of action is not known, virus passage in the presence of ciclesonide led to the selection of a ciclesonide-resistant mutant, characterized by a point mutation in the NSP15 gene. A single mutation in this gene was responsible for ~100-fold reduced susceptibility. A small case series of three patients from Japan who received inhaled ciclesonide has been published[^10.1016/j.jiac.2020.04.007], As of April 21, there is one ongoing and one planned study of inhaled ciclesonide in South Korea.
 
-__Emetine__: Emetine is an FDA-approved drug for treating amebiases. It is produced from the ipecac root and has been used to induce vomiting. Emetine has been shown in four studies to inhibit multiple coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2 _in vitro_ with EC<sub>50</sub>s consistently below 1.0 μM (Dyall et al. 2014; L. Shen et al. 2019; Ko et al. 2020; Choy et al. 2020)[^10.1128/AAC.03036-14][^10.1128/JVI.00023-19][^10.1101/2020.02.25.965582][^10.1016/j.antiviral.2020.104786].
+__Emetine__: Emetine is an FDA-approved drug for treating amebiasis. It is produced from the ipecac root and has been used to induce vomiting. Emetine has been shown in four studies to inhibit multiple coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2 _in vitro_ with EC<sub>50</sub>s consistently below 1.0 μM[^10.1128/AAC.03036-14][^10.1128/JVI.00023-19][^10.1101/2020.02.25.965582][^10.1016/j.antiviral.2020.104786].
 
 Its mechanism of action is not known for certain, although it did inhibit MERS-CoV in an entry inhibitor assay using a pseudotype virus expressing S protein (L. Shen et al. 2019)[^10.1128/JVI.00023-19]. After oral administration, its levels in the lungs are much higher than in the plasma and well above its reported EC<sub>50</sub> levels (Bleasel and Peterson 2020)[^10.3390/ph13030051]. Emetine is currently not being studied for the treatment of SARS-CoV-2
 
@@ -480,7 +480,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NjY1ODQ0NywtNjg0MzQyMTg5LC03OT
-UwOTQ2MjIsLTE0MDE5MjY2MTIsLTE3NDA1MjI5MzEsLTE3OTQ4
-MjM1NiwyMDYwNzg4OTQzXX0=
+eyJoaXN0b3J5IjpbMzY3Njg3NTcxLC02ODQzNDIxODksLTc5NT
+A5NDYyMiwtMTQwMTkyNjYxMiwtMTc0MDUyMjkzMSwtMTc5NDgy
+MzU2LDIwNjA3ODg5NDNdfQ==
 -->
