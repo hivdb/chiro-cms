@@ -60,6 +60,7 @@ Favipiravir (T-705) is a purine analog prodrug that is ribosylated and phosphory
 In a recent open-label randomized trial of 240 patients, of whom just 40% had PCR-confirmed COVID-19 pneumonia, favipiravir was associated with an improved 7 day clinical recovery rate compared to Arbidol in a subgroup of patients without critical disease (71% vs 56%; p=0.02)[^10.1101/2020.03.17.20037432]. However, the fact that diagnosis was confirmed in just 40% of patients raises the question as to what proportion of patients may have had influenza infections. As of April 20, 2020, there are 7 ongoing or planned clinical trials of favipiravir in about 700 SARS-CoV-2 patients; just one is placebo-controlled.
 
 Galidesivir (BCX4430) is an adenosine analog that inhibits multiple viruses including filoviruses (Ebola virus and Marburg virus) _in vitro_ and in rodents and cynomolgus macaques[^10.1038/nature13027]. However, it has little, if any _in vitro_ activity against MERS-CoV and SARS-CoV with EC<sub>50</sub> levels of about 60 μM for MERS-CoV and SARS-CoV[^10.1038/nature13027] and of >100 μM for SARS-CoV-2[^10.1016/j.antiviral.2020.104786]. At least seven additional nucleoside analogs have been studied _in vitro_ against SARS-CoV, MERs-CoV, or SARS-CoV-2, including four that are either approved (gemcitabine, mizoribine, or mycophenolate) or being studied in humans (merimepodib) as immunosuppressants or anticancer agents[^10.1099/vir.0.061911-0][^10.1016/j.antiviral.2005.01.003][^10.1128/JVI.00023-19][^10.1101/2020.04.07.028589][^10.1016/j.jinf.2013.09.029].
+
 ___Conclusions: There appears to be little benefit for the use or further study of the nucleoside analogs in this section either because they lack meaningful SARS-CoV-2 inhibitory activity or because they are immunosuppressive.___
 
 ## Protease Inhibitors
@@ -478,7 +479,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTQ1NjM2MiwtNjg0MzQyMTg5LC03OT
-UwOTQ2MjIsLTE0MDE5MjY2MTIsLTE3NDA1MjI5MzEsLTE3OTQ4
-MjM1NiwyMDYwNzg4OTQzXX0=
+eyJoaXN0b3J5IjpbLTE0MDQ0OTEyODgsLTY4NDM0MjE4OSwtNz
+k1MDk0NjIyLC0xNDAxOTI2NjEyLC0xNzQwNTIyOTMxLC0xNzk0
+ODIzNTYsMjA2MDc4ODk0M119
 -->
