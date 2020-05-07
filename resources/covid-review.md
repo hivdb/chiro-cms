@@ -1,5 +1,5 @@
 
-## Coronavirus Antiviral Research Database Mission Statement
+## Mission Statement
 The Coronavirus Antiviral Research Database is designed to expedite the development of SARS-CoV-2 antiviral therapy. It will benefit global coronavirus drug development efforts by (1) promoting uniform reporting of experimental results to facilitate comparisons between different candidate antiviral compounds; (2) identifying gaps in coronavirus antiviral drug development research; (3) helping scientists, clinical investigators, public health officials, and funding agencies prioritize the most promising compounds and repurposed drugs for further development; (4) providing an objective, evidenced-based, source of information for the public; and (5) creating a hub for the exchange of ideas among coronavirus researchers whose feedback is sought and welcomed. By comprehensively reviewing all published laboratory, animal model, and clinical data on potential coronavirus therapies, the Database makes it unlikely that promising treatment approaches will be overlooked. In addition, by making it possible to compare the underlying data associated with competing treatment strategies, stakeholders will be better positioned to prioritize the most promising anti-coronavirus compounds for further development.
 
 ## Rationale
@@ -479,7 +479,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDQ0OTEyODgsLTY4NDM0MjE4OSwtNz
-k1MDk0NjIyLC0xNDAxOTI2NjEyLC0xNzQwNTIyOTMxLC0xNzk0
-ODIzNTYsMjA2MDc4ODk0M119
+eyJoaXN0b3J5IjpbLTEyOTA1Mzg0NzksLTE0MDQ0OTEyODgsLT
+Y4NDM0MjE4OSwtNzk1MDk0NjIyLC0xNDAxOTI2NjEyLC0xNzQw
+NTIyOTMxLC0xNzk0ODIzNTYsMjA2MDc4ODk0M119
 -->
