@@ -187,7 +187,7 @@ Several small molecule cathepsin inhibitors have also been shown to inhibit coro
 
 Several synthetic furin inhibitors have also shown to inhibit coronaviruses _in vitro_ including MI-1851, which inhibited SARS-CoV-2 alone and synergistically in combination with TMPRSS2 inhibitors[^10.1101/2020.04.15.042085], while dec-RVKR-CMK, which weakly inhibited MERS-CoV in a pseudovirus entry assay[^10.1073/pnas.1407087111].
 
-_Conclusion: Clinical studies of camostat and nafamostat are just beginning but their numbers are very low. These studies should be a high priority. It remains possible, however, that it may also be necessary to inhibit furin and possibly cathepsins to inhibit SARS-CoV-2 in patients._
+___Conclusion: Clinical studies of camostat and nafamostat are just beginning but they are few in number These studies should be a high priority. It remains possible, however, that it may also be necessary to target furin and possibly cathepsins to inhibit SARS-CoV-2 in patients.___
 
 ### Endosomal Trafficking Inhibitors
 Chloroquine and its analogs have been reported to have multiple intracellular actions that may interfere with virus replication and/or the immune response to viral infections. Chloroquine analogs are weak bases, that, in their non-protonated form, penetrate and concentrate within acidic intracellular organelles such as endosomes and lysosomes. In these organelles, chloroquine analogs may interfere with the trafficking of viruses that require a pH-dependent step for entry (Savarino et al. 2003; Burkard et al. 2014)[^10.1016/s1473-3099(03)00806-5][^10.1371/journal.ppat.1004502]. Chloroquine analogs have also been reported to impair ACE2 glycosylation, which could theoretically diminish the SARS-CoV and SARS-CoV-2 receptor binding (Vincent et al. 2005)[^10.1186/1743-422X-2-69]. They are also anti-inflammatory, which explains their use for autoimmune conditions.
@@ -480,7 +480,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjI0OTY5LC03OTUwOTQ2MjIsLTE0MD
-E5MjY2MTIsLTE3NDA1MjI5MzEsLTE3OTQ4MjM1NiwyMDYwNzg4
-OTQzXX0=
+eyJoaXN0b3J5IjpbLTM5NDg2ODIyNywtNzk1MDk0NjIyLC0xND
+AxOTI2NjEyLC0xNzQwNTIyOTMxLC0xNzk0ODIzNTYsMjA2MDc4
+ODk0M119
 -->
