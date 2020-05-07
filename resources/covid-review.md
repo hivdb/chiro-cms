@@ -41,7 +41,7 @@ A phase 3 placebo-controlled trial begun in China in patients with moderate-to-s
 
 Preliminary results from the NIH Adaptive COVID-19 Treatment Trial (ACTT) were announced on April 29th, 2020. The trial randomly assigned 1,063 hospitalized patients to remdesivir or placebo. There was a statistically significant 31% shortening in the median time to study-defined recovery in the remdesivir group (11 vs. 15 days). Mortality in the remdesivir group was lower than in the placebo group  (8% vs.11%) but this finding did not reach statistical significance. Based on this study, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
 
-_Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound that appears to be clinically beneficial. The optimal use of this drug will become clearer following the publication of the ACTT trial and two additional Gilead studies. The risks and benefits of using this drug in high-risk persons with mild-to-moderate disease will be important to study. Remdesivir will likely become the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections._
+___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound that appears to be clinically beneficial. The optimal use of this drug will become clearer following the publication of the ACTT trial and two additional Gilead studies. The risks and benefits of using this drug in high-risk persons with mild-to-moderate disease will be important to study. Remdesivir will likely become the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
 
 ### β-D-N4-hydroxycytidine-5'-isopropyl ester (aka NHC and EIDD-2801)
 β-D-N4-hydroxycytidine is a cytidine analogue that exerts its activity primarily through viral mutagenesis in that it incorporates into new RNA strands but leads to large numbers of replication errors during subsequent rounds of replication [^10.1016/j.coviro.2019.04.002]. β-D-N4-hydroxycytidine-5'-isopropyl ester is an orally available NHC prodrug. The mechanism by which β-D-N4-hydroxycytidine eludes the proof-reading function of the coronavirus exonucleases is not known.
@@ -478,7 +478,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM0ODQ0NTgsLTY4NDM0MjE4OSwtNz
-k1MDk0NjIyLC0xNDAxOTI2NjEyLC0xNzQwNTIyOTMxLC0xNzk0
-ODIzNTYsMjA2MDc4ODk0M119
+eyJoaXN0b3J5IjpbLTgzNTQ1NjM2MiwtNjg0MzQyMTg5LC03OT
+UwOTQ2MjIsLTE0MDE5MjY2MTIsLTE3NDA1MjI5MzEsLTE3OTQ4
+MjM1NiwyMDYwNzg4OTQzXX0=
 -->
