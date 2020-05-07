@@ -109,7 +109,9 @@ SARS-CoV and SARS-CoV-2 have two main cleavage sites. One is at the S1/S2 bounda
 This section describes interventions that interfere with virus entry including convalescent plasma, monoclonal antibodies that block S1 receptor binding, fusion inhibitors, and several other receptor binding inhibitors. Compounds that inhibit the host protease enzymes required for cleaving the S protein are described in the section on host-acting compounds.
 
 ### Convalescent Plasma
-There are few randomized controlled studies of convalescent plasma for the treatment of severe viral infections. A systematic review and meta-analysis of seven studies of convalescent plasma or immunoglobulin for SARS-CoV was considered inconclusive with respect to potential benefits and harm[^10.1371/journal.pmed.0030343]. A larger, more recent meta-analysis of 32 studies of severe SARS-CoV and influenza, reported that administration of convalescent plasma early after symptom onset showed a statistically significant 75% reduction in the pooled odds of mortality compared with placebo or no therapy[^10.1093/infdis/jiu396]. Moreover, the administration of polyclonal immune globulin preparations have been shown to prevent hepatitis B and There are currently three published observational studies of convalescent plasma in 19 severely ill SARS-CoV-2 patients, including 13 who were receiving mechanical ventilation[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039]. All patients received 200 ml plasma, and in 15 cases, the donor had neutralizing antibody titers >1:640. All 19 patients survived and appeared to experience clinical improvement within three days.
+There are few randomized controlled studies of convalescent plasma for the treatment of severe viral infections. A systematic review and meta-analysis of seven studies of convalescent plasma or immunoglobulin for SARS-CoV was considered inconclusive with respect to potential benefits and harm[^10.1371/journal.pmed.0030343]. A larger, more recent meta-analysis of 32 studies of severe SARS-CoV and influenza, reported that administration of convalescent plasma early after symptom onset showed a statistically significant 75% reduction in the pooled odds of mortality compared with placebo or no therapy[^10.1093/infdis/jiu396]. Moreover, the administration of polyclonal immune globulin preparations have been shown to prevent hepatitis B and rabies infections. 
+
+There are currently three published observational studies of convalescent plasma in 19 severely ill SARS-CoV-2 patients, including 13 who were receiving mechanical ventilation[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039]. All patients received 200 ml plasma, and in 15 cases, the donor had neutralizing antibody titers >1:640. All 19 patients survived and appeared to experience clinical improvement within three days.
 
 Two risk-benefit analyses have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 outweighs the small risk of undetected bloodborne infection and allergic reaction[^10.1016/j.tmrv.2020.04.001][^10.1172/JCI138745][^10.1007/s11684-017-0596-6]. According to FDA guidance, the administration of SARS-CoV-2 convalescent plasma must be under an investigational new drug application. Donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. The recommend neutralizing antibody titers should be 1:160 (minimum >1:80). However, because neutralizing antibodies cannot readily be detected in most clinical settings, this requirement is waived provided blood samples can be stored for possible eventual testing.
 
@@ -483,8 +485,8 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMjE3MTU1LC0zNzcxNzg0MDYsLTEyOT
-A1Mzg0NzksLTE0MDQ0OTEyODgsLTY4NDM0MjE4OSwtNzk1MDk0
-NjIyLC0xNDAxOTI2NjEyLC0xNzQwNTIyOTMxLC0xNzk0ODIzNT
-YsMjA2MDc4ODk0M119
+eyJoaXN0b3J5IjpbMTI2NDMyODc3MywtMzc3MTc4NDA2LC0xMj
+kwNTM4NDc5LC0xNDA0NDkxMjg4LC02ODQzNDIxODksLTc5NTA5
+NDYyMiwtMTQwMTkyNjYxMiwtMTc0MDUyMjkzMSwtMTc5NDgyMz
+U2LDIwNjA3ODg5NDNdfQ==
 -->
