@@ -1,14 +1,14 @@
 
 
 
-###Literature
+### Literature
 [https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
 [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
 
-###Clinical trials
+### Clinical trials
 [https://clinicaltrials.gov/ct2/results?cond=COVID-19](https://clinicaltrials.gov/ct2/results?cond=COVID-19)
 
-Chemical structures:
+### Chemical structures:
 American Chemical Society resources
 cas.org/covid-19-antiviral-compounds-dataset
 
@@ -32,6 +32,6 @@ Sequence analysis tools:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5MTE2NTUxLC0xMTYzOTMzMTU2LC02OD
-Q4OTk1MDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM0MzQ0NDYwMiwtMTE2MzkzMzE1NiwtNj
+g0ODk5NTA3LDczMDk5ODExNl19
 -->
