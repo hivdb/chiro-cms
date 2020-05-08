@@ -88,7 +88,7 @@ There have been multiple drug screens and several structure-based designs target
 
 Another series of peptidomimetics has been shown to inhibit BtCoV-HKU4 (related to MERS-CoV). Asymmetric aromatic disulfides have had low micromolar activity against SARS-CoV[^10.1016/j.ejmech.2017.05.045]. Several other backbones have been shown to have activity against SARS-CoV[^10.1021/jm050184y][^10.1016/j.bmcl.2007.08.031].
 
-The compounds with the most 3CLpro inhibitory activity identified to date are a series of peptidomimetic α-ketoamide and aldehyde derivatives[^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb4489] . Several of these compounds has been co-crystallized with SARS-CoV-2 3CLpro[^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb4489]. One has been modified to increase its solubility. Preliminary pharmacokinetic evaluation has demonstrated metabolic stability in mouse and human microsomes and encouraging plasma and bronco-alveolar lavage fluid levels whether administered subcutaneously or by inhalation[^10.1126/science.abb3405]. Another SARS-CoV-2 crystal structure identified of several inhibitory compounds; including an investigational compound ebselen, which has been studied in humans[^10.1038/s41586-020-2223-y].
+The compounds with the most 3CLpro inhibitory activity identified to date are a series of peptidomimetic α-ketoamide and aldehyde derivatives[^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb4489] . Several of these compounds has been co-crystallized with SARS-CoV-2 3CLpro[^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb4489]. Preliminary pharmacokinetics evaluations have demonstrated metabolic stability in mouse and human microsomes and encouraging plasma and bronco-alveolar lavage fluid levels whether administered subcutaneously or by inhalation[^10.1126/science.abb3405][^10.1126/science.abb4489]. Another SARS-CoV-2 crystal structure identified of several inhibitory compounds; including an investigational compound ebselen, which has been studied in humans[^10.1038/s41586-020-2223-y].
 
 Disulfiram, the licensed oral alcohol antagonist has been reported to inhibit SARS-CoV-2 3CL protease with an IC<sub>50</sub> of about 10 μM[^10.1038/s41586-020-2223-y] and to inhibit SARS-CoV and MERS-CoV PL protease with a slightly higher IC<sub>50</sub> [^10.1016/j.antiviral.2017.12.015]. However, disulfiram has not yet been studied in cell culture, and existing PK data suggests that standard doses may be insufficient to yield inhibitory drug levels.
 
@@ -491,11 +491,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzIxMDEzNDYsMTkwNTIyNjA4MCwyOD
-cwMzg4OTIsMTU4NDU0MjcwMCwtMjUxMTk5OTQ5LC0xMDU5NTcx
-MTEyLC0yMDMzMDc3NDM4LC0xNDkwMTQyOTk1LC0xMTc4MTY0MD
-E3LC0xMjQ1NTUzMjQ0LDIwNjM1Njk1NDUsLTc5ODk1ODA1LDQ0
-ODA5MzY3NywxMjY0MzI4NzczLC0zNzcxNzg0MDYsLTEyOTA1Mz
-g0NzksLTE0MDQ0OTEyODgsLTY4NDM0MjE4OSwtNzk1MDk0NjIy
-LC0xNDAxOTI2NjEyXX0=
+eyJoaXN0b3J5IjpbLTQ1OTQ1MjExOCwtMTM3MjEwMTM0NiwxOT
+A1MjI2MDgwLDI4NzAzODg5MiwxNTg0NTQyNzAwLC0yNTExOTk5
+NDksLTEwNTk1NzExMTIsLTIwMzMwNzc0MzgsLTE0OTAxNDI5OT
+UsLTExNzgxNjQwMTcsLTEyNDU1NTMyNDQsMjA2MzU2OTU0NSwt
+Nzk4OTU4MDUsNDQ4MDkzNjc3LDEyNjQzMjg3NzMsLTM3NzE3OD
+QwNiwtMTI5MDUzODQ3OSwtMTQwNDQ5MTI4OCwtNjg0MzQyMTg5
+LC03OTUwOTQ2MjJdfQ==
 -->
