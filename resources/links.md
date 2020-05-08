@@ -1,5 +1,10 @@
 
 
+
+Literature:
+[https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
+
+
 Sequences:
 [https://www.gisaid.org/](https://www.gisaid.org/)
 [http://genome.ucsc.edu/covid19.html](http://genome.ucsc.edu/covid19.html)
@@ -14,6 +19,6 @@ Sequence analysis tools:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzE1MTM4OSwtNjg0ODk5NTA3LDczMD
+eyJoaXN0b3J5IjpbMTM4NjY2NTc3NSwtNjg0ODk5NTA3LDczMD
 k5ODExNl19
 -->
