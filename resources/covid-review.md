@@ -84,7 +84,7 @@ ___Conclusion: As of April 21, 2020, there were 16 recruiting trials and 7 plann
 ### 3CLpro Investigational Inhibitors
 Most coronavirus PI drug discovery efforts have targeted 3CLpro: it shares a conserved substrate recognition pocket with the 3C like protease (3Cpro) of human picornaviruses, which have already been successfully targeted with antiviral agents. In addition, 3CLpro can also be purified in large quantities and readily crystallized[^10.1016/j.virusres.2007.02.015].
 
-There have been multiple drug screens and several structure-based designs targeting 3CLpro. Several related peptidomimetic compounds have inhibited SARS-CoV and SARS-CoV-2 in biochemical assays with IC<sub>50</sub>s ranging between 0.02 and 0.2 μM[^10.1021/jm050184y][^10.1101/2020.04.20.051581][^10.1016/j.bmc.2016.05.013][
+There have been multiple drug screens and several structure-based designs targeting 3CLpro. Several related peptidomimetic compounds have inhibited SARS-CoV and SARS-CoV-2 in biochemical assays with IC<sub>50</sub>s ranging between 0.02 and 0.2 μM[^10.1021/jm050184y][^10.1101/2020.04.20.051581][^10.1016/j.bmc.2016.05.013]
 
 [^10.1021/jm050184y][^10.1016/j.antiviral.2017.02.007][^10.1101/2020.04.20.051581][^10.1126/science.abb4489][^doi.org/10.1126/science.abb3405][^10.1126/science.abb3405].
 
@@ -493,7 +493,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyNzk3NTY3LDI4NzAzODg5MiwxNTg0NT
+eyJoaXN0b3J5IjpbMzUzODU1NTg0LDI4NzAzODg5MiwxNTg0NT
 QyNzAwLC0yNTExOTk5NDksLTEwNTk1NzExMTIsLTIwMzMwNzc0
 MzgsLTE0OTAxNDI5OTUsLTExNzgxNjQwMTcsLTEyNDU1NTMyND
 QsMjA2MzU2OTU0NSwtNzk4OTU4MDUsNDQ4MDkzNjc3LDEyNjQz
