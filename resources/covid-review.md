@@ -159,6 +159,8 @@ VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell
 
 Arbidol is an oral drug used in Russia and China to treat influenza and other viral infections[^10.1016/j.antiviral.2014.04.006][^10.1128/JVI.02077-15]. It is reported to have _in vitro_ activity against multiple viruses and to inhibit viral entry by binding viral surface glycoproteins[^10.1016/j.antiviral.2008.10.009]. Its SARS-CoV-2 EC<sub>50</sub>s has been reported to be between 5 and 10 μM with a selectivity index of about 8[^10.1101/2020.04.03.023846][^10.1038/s41421-020-0169-8]. A crystal structure of arbidol in complex with influenza hemagglutinin showed that arbidol binds to a hydrophobic cavity in the hemagglutinin trimer stem[^10.1073/pnas.1617020114]. There have been five small studies of arbidol in patients with SARS-CoV-2, including two open-label controlled studies[^10.1101/2020.03.17.20037432][^10.1101/2020.03.19.20038984] and three observational studies[^10.1016/j.jinf.2020.03.002][^10.1016/j.jinf.2020.03.060][^10.1101/2020.04.06.20042580]. One controlled trial suggested it was inferior to favipiravir at reducing time to clinical recovery[^10.1101/2020.03.17.20037432]; one observational trial suggested it was inferior to nebulized interferon α2b at reducing viral shedding; and one observational trial suggested that it may have been more effective than lopinavir/r at reducing viral shedding[^10.1016/j.jinf.2020.03.060].
 
+One group has reported that certain anticoagulants such as heparin and enoxaparin 
+
 ___Conclusion: Most of the compounds in this section have not been well studied and therefore appear unlikely at the present time to lead to useful treatments.___
 
 ## Interferons
@@ -491,11 +493,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTQ1MjExOCwtMTM3MjEwMTM0NiwxOT
-A1MjI2MDgwLDI4NzAzODg5MiwxNTg0NTQyNzAwLC0yNTExOTk5
-NDksLTEwNTk1NzExMTIsLTIwMzMwNzc0MzgsLTE0OTAxNDI5OT
-UsLTExNzgxNjQwMTcsLTEyNDU1NTMyNDQsMjA2MzU2OTU0NSwt
-Nzk4OTU4MDUsNDQ4MDkzNjc3LDEyNjQzMjg3NzMsLTM3NzE3OD
-QwNiwtMTI5MDUzODQ3OSwtMTQwNDQ5MTI4OCwtNjg0MzQyMTg5
-LC03OTUwOTQ2MjJdfQ==
+eyJoaXN0b3J5IjpbMTQ0OTcxNjQ4NCwtNDU5NDUyMTE4LC0xMz
+cyMTAxMzQ2LDE5MDUyMjYwODAsMjg3MDM4ODkyLDE1ODQ1NDI3
+MDAsLTI1MTE5OTk0OSwtMTA1OTU3MTExMiwtMjAzMzA3NzQzOC
+wtMTQ5MDE0Mjk5NSwtMTE3ODE2NDAxNywtMTI0NTU1MzI0NCwy
+MDYzNTY5NTQ1LC03OTg5NTgwNSw0NDgwOTM2NzcsMTI2NDMyOD
+c3MywtMzc3MTc4NDA2LC0xMjkwNTM4NDc5LC0xNDA0NDkxMjg4
+LC02ODQzNDIxODldfQ==
 -->
