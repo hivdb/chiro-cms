@@ -3,7 +3,7 @@
 
 Literature:
 [https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
-
+[https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
 
 Clinical trials:
 [https://clinicaltrials.gov/ct2/results?cond=COVID-19](https://clinicaltrials.gov/ct2/results?cond=COVID-19)
@@ -30,6 +30,6 @@ Sequence analysis tools:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjQ2MjgyNSwtMTE2MzkzMzE1NiwtNj
-g0ODk5NTA3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjMwNjAyNTEyLC0xMTYzOTMzMTU2LC02OD
+Q4OTk1MDcsNzMwOTk4MTE2XX0=
 -->
