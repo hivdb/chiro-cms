@@ -22,7 +22,9 @@
 - STAT's Drug and Vaccine Tracker:
   [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
 - Milken Institute Drug and Vaccine Tracker:
-  [https://docs.google.com/spreadsheets/d/16DbPhF9OD0MHHtCR12of6yUcfiRzP_-XGkynEbnipds/edit#gid=2075421071](https://docs.google.com/spreadsheets/d/16DbPhF9OD0MHHtCR12of6yUcfiRzP_-XGkynEbnipds/edit#gid=2075421071)
+ https://docs.google.com/spreadsheets/d/16DbPhF9OD0MHHtCR12of6yUcfiRzP_-XGkynEbnipds/edit#gid=2075421071](https://docs.google.com/spreadsheets/d/16DbPhF9OD0MHHtCR12of6yUcfiRzP_-XGkynEbnipds/edit#gid=2075421071)
+- INATO:
+[https://inato.com/](https://inato.com/)
 
 ### Sequences
 - Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
@@ -53,7 +55,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQzNjk5NDksLTEzOTc2MzQ3MTksLT
-EzNjQzNDg2OTcsLTQ4NTMzNTk5LC0xMTYzOTMzMTU2LC02ODQ4
-OTk1MDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTAzNDUxMjk3OSwtMTAzNDM2OTk0OSwtMT
+M5NzYzNDcxOSwtMTM2NDM0ODY5NywtNDg1MzM1OTksLTExNjM5
+MzMxNTYsLTY4NDg5OTUwNyw3MzA5OTgxMTZdfQ==
 -->
