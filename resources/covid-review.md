@@ -17,7 +17,7 @@ Additional planned work includes (1) the collection of human pharmacokinetic dat
 ## Work Completed To Date
 As of April 28, 2020, we have extracted data linking antiviral compounds to coronaviruses from 225 publications including 180 peer-reviewed publications and 45 non-peer-reviewed pre-prints. The database contains results from 1121 cell culture experiments, 350 biochemical experiments, 308 entry assay experiments, 147 animal model experiments, and 36 clinical studies. More than 50% of the results are from studies of SARS-CoV (41%) or SARS-CoV-2 (15%); while the remainder are from studies of MERS-CoV (24%), endemic human coronaviruses (11%), and mammalian/bat coronaviruses (9%). There are currently 192 ongoing or planned clinical trials in which one or more of the treatment arms contains a compound intended to inhibit SARS-CoV-2 replication.
 
-The schema of the database can be found at [covdb.stanford.edu/database-schema/](/database-schema/). The database has been populated with the data described in the preceding paragraph and these data have been linked to eight additional core look-up tables containing references, compounds, drug targets, virus species, virus strains, cell lines, virus measurements, and animal models. The look-up tables, which contain definitions and continually updated explanatory text, ensure referential integrity and are designed to be educational. Their explanations are continually updated.
+The schema of the database can be found at covdb.stanford.edu/database-schema/](/database-schema/). The database has been populated with the data described in the preceding paragraph and these data have been linked to eight additional core look-up tables containing references, compounds, drug targets, virus species, virus strains, cell lines, virus measurements, and animal models. The look-up tables, which contain definitions and continually updated explanatory text, ensure referential integrity and are designed to be educational. Their explanations are continually updated.
 
 Each compound is categorized according to its most likely target including both virus and host targets. The compounds with viral targets include entry inhibitors (monoclonal antibodies, fusion inhibitors, and additional small and large molecule inhibitors of receptor binding), nucleoside analog RdRp (polymerase) inhibitors; 3CL protease inhibitors; PL protease inhibitors; and helicase inhibitors. The compounds with host targets include interferons and inhibitors of host proteases that cleave coronavirus spike (S) proteins. A large number of additional compounds, particularly those purported to target host pathways, act by less well defined or completely uncertain mechanisms; these include inhibitors of endosomal trafficking, compounds that modulate signaling phosphorylation pathways, cyclophilin inhibitors, and compounds that may induce interferon production. Although coronaviruses contains four structural proteins (spike, envelope, membrane, and nucleocapsid), 16 non-structural proteins (nsp1-nsp16), and several accessory proteins [^10.1007/978-1-4939-2438-7_1][^10.1038/s41586-020-2286-9] most antiviral research has focused on the targets reviewed here.
 
@@ -491,10 +491,10 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzMwNzc0MzgsLTE0OTAxNDI5OTUsLT
-ExNzgxNjQwMTcsLTEyNDU1NTMyNDQsMjA2MzU2OTU0NSwtNzk4
-OTU4MDUsNDQ4MDkzNjc3LDEyNjQzMjg3NzMsLTM3NzE3ODQwNi
-wtMTI5MDUzODQ3OSwtMTQwNDQ5MTI4OCwtNjg0MzQyMTg5LC03
-OTUwOTQ2MjIsLTE0MDE5MjY2MTIsLTE3NDA1MjI5MzEsLTE3OT
-Q4MjM1NiwyMDYwNzg4OTQzXX0=
+eyJoaXN0b3J5IjpbLTEwNTk1NzExMTIsLTIwMzMwNzc0MzgsLT
+E0OTAxNDI5OTUsLTExNzgxNjQwMTcsLTEyNDU1NTMyNDQsMjA2
+MzU2OTU0NSwtNzk4OTU4MDUsNDQ4MDkzNjc3LDEyNjQzMjg3Nz
+MsLTM3NzE3ODQwNiwtMTI5MDUzODQ3OSwtMTQwNDQ5MTI4OCwt
+Njg0MzQyMTg5LC03OTUwOTQ2MjIsLTE0MDE5MjY2MTIsLTE3ND
+A1MjI5MzEsLTE3OTQ4MjM1NiwyMDYwNzg4OTQzXX0=
 -->
