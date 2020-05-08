@@ -6,6 +6,8 @@
 ### Organizations
 NIH:
 [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
+FDA:
+[https://reaganudall.org/covid-19](https://reaganudall.org/covid-19)
 
 ### Clinical trials
 ClinicalTrials.gov:
@@ -45,6 +47,7 @@ PubChem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQzNDg2OTcsLTQ4NTMzNTk5LC0xMT
-YzOTMzMTU2LC02ODQ4OTk1MDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzOTc2MzQ3MTksLTEzNjQzNDg2OTcsLT
+Q4NTMzNTk5LC0xMTYzOTMzMTU2LC02ODQ4OTk1MDcsNzMwOTk4
+MTE2XX0=
 -->
