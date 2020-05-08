@@ -15,6 +15,8 @@ UCSC Genome Browser:
 [http://genome.ucsc.edu/covid19.html](http://genome.ucsc.edu/covid19.html)
 Sequence Read Archive:
 [https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=search_obj&m=&s=&term=txid2697049%5Borgn%5D&go=Search](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=search_obj&m=&s=&term=txid2697049%5Borgn%5D&go=Search)
+Sequence datasets:
+[http://covseq.baidu.com/browse](http://covseq.baidu.com/browse)
 
 ### Protein Structures
 [https://coronavirus3d.org/](https://coronavirus3d.org/)
@@ -34,6 +36,6 @@ PubChem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTQyODU2MiwtMTE2MzkzMzE1NiwtNj
+eyJoaXN0b3J5IjpbLTEzMTA5MzQ1NSwtMTE2MzkzMzE1NiwtNj
 g0ODk5NTA3LDczMDk5ODExNl19
 -->
