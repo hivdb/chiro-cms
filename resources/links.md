@@ -15,7 +15,7 @@ Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
 [https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D)
 UCSC Genome Browser:
 [http://genome.ucsc.edu/covid19.html](http://genome.ucsc.edu/covid19.html)
-
+Sequence Read A
 
 Structures:
 [https://coronavirus3d.org/](https://coronavirus3d.org/)
@@ -33,6 +33,6 @@ Sequence analysis tools:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQzODk1NDksLTExNjM5MzMxNTYsLT
-Y4NDg5OTUwNyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTk5NTkwMzA4NywtMTE2MzkzMzE1NiwtNj
+g0ODk5NTA3LDczMDk5ODExNl19
 -->
