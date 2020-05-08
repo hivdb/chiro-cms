@@ -113,7 +113,7 @@ There are few randomized controlled studies of convalescent plasma for the treat
 
 There are currently three published observational studies of convalescent plasma in 19 severely ill SARS-CoV-2 patients, including 13 who were receiving mechanical ventilation[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039]. All patients received 200 ml plasma, and in 15 cases, the donor had neutralizing antibody titers >1:640. All 19 patients survived and appeared to experience clinical improvement within three days.
 
-Two risk-benefit analyses and several experts have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 outweighs the small risk of undetected bloodborne infection and allergic reaction[^10.1016/j.tmrv.2020.04.001][^10.1172/JCI138745][^10.1007/s11684-017-0596-6][^10.1172/JCI138003]. According to FDA guidance, the administration of SARS-CoV-2 convalescent plasma must be under an investigational new drug application. Donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. The recommend neutralizing antibody titers should be 1:160 (minimum >1:80). However, because neutralizing antibodies cannot readily be detected in most clinical settings, this requirement is waived provided blood samples can be stored for possible eventual testing.
+Two risk-benefit analyses and several experts have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 outweighs the small risk of undetected bloodborne infection and allergic reaction[^10.1016/j.tmrv.2020.04.001][^10.1172/JCI138745][^10.1007/s11684-017-0596-6][^10.1172/JCI138003]. According to FDA guidance, the administration of SARS-CoV-2 convalescent plasma must be under an investigational new drug application. Donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. The recommend neutralizing antibody titers should be 1:160 (minimum >1:80). However, because neutralizing antibodies cannot readily be detected in most clinical settings, this requirement is waived provided blood samples can be stored for possible eventual testing. A recent publication, however, 
 
 As of April 24, 2020, there are 32 ongoing (n=12) or planned (n=20) clinical trials containing at least one arm in which recipients will receive convalescent plasma. There are also two planned studies of convalescent immunoglobulin and one of pooled immunoglobulin from healthy donors. One ongoing study is randomizing patients to convalescent plasma or to standard donor plasma and another planned study aims to randomize high-risk exposed persons to convalescent plasma or placebo. The remaining studies are not placebo controlled. Despite its potential for toxicity and lot-to-lot variation in functional neutralizing antibodies, convalescent plasma and potentially other forms of immunoglobulin therapy will likely remain a treatment option particularly in patients with severe disease.
 
@@ -491,11 +491,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDU0MjcwMCwtMjUxMTk5OTQ5LC0xMD
-U5NTcxMTEyLC0yMDMzMDc3NDM4LC0xNDkwMTQyOTk1LC0xMTc4
-MTY0MDE3LC0xMjQ1NTUzMjQ0LDIwNjM1Njk1NDUsLTc5ODk1OD
-A1LDQ0ODA5MzY3NywxMjY0MzI4NzczLC0zNzcxNzg0MDYsLTEy
-OTA1Mzg0NzksLTE0MDQ0OTEyODgsLTY4NDM0MjE4OSwtNzk1MD
-k0NjIyLC0xNDAxOTI2NjEyLC0xNzQwNTIyOTMxLC0xNzk0ODIz
-NTYsMjA2MDc4ODk0M119
+eyJoaXN0b3J5IjpbLTExMzExOTEyMTIsMTU4NDU0MjcwMCwtMj
+UxMTk5OTQ5LC0xMDU5NTcxMTEyLC0yMDMzMDc3NDM4LC0xNDkw
+MTQyOTk1LC0xMTc4MTY0MDE3LC0xMjQ1NTUzMjQ0LDIwNjM1Nj
+k1NDUsLTc5ODk1ODA1LDQ0ODA5MzY3NywxMjY0MzI4NzczLC0z
+NzcxNzg0MDYsLTEyOTA1Mzg0NzksLTE0MDQ0OTEyODgsLTY4ND
+M0MjE4OSwtNzk1MDk0NjIyLC0xNDAxOTI2NjEyLC0xNzQwNTIy
+OTMxLC0xNzk0ODIzNTZdfQ==
 -->
