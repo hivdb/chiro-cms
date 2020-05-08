@@ -3,6 +3,11 @@
 - [https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
 - [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
 
+### Treatment guidelines
+- NIH:
+[https://covid19treatmentguidelines.nih.gov/therapeutic-options-under-investigation/antiviral-therapy/](https://covid19treatmentguidelines.nih.gov/therapeutic-options-under-investigation/antiviral-therapy/)
+
+
 ### Organizations
 
 - NIH:
@@ -21,8 +26,8 @@
 
 ### Sequences
 - Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
-  - GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
-  - GenBank protein: [https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D)
+- GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
+- GenBank protein: [https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D)
 - UCSC Genome Browser:
   [http://genome.ucsc.edu/covid19.html](http://genome.ucsc.edu/covid19.html)
 - Sequence Read Archive:
@@ -48,7 +53,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc2MzQ3MTksLTEzNjQzNDg2OTcsLT
-Q4NTMzNTk5LC0xMTYzOTMzMTU2LC02ODQ4OTk1MDcsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwMzQzNjk5NDksLTEzOTc2MzQ3MTksLT
+EzNjQzNDg2OTcsLTQ4NTMzNTk5LC0xMTYzOTMzMTU2LC02ODQ4
+OTk1MDcsNzMwOTk4MTE2XX0=
 -->
