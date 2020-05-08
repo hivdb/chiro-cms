@@ -157,7 +157,7 @@ Griffithsin, a 121 amino acid protein isolated from red algae, inhibits SARS-CoV
 
 VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.chembiol.2004.07.013] but does not appear to have been studied further. HTCC polymers are cationacally modified chitosan derivatives that appear to inhibit cell entry of multiple coronaviruses including MERS-CoV and SARS-CoV[^10.1101/2020.03.29.014183][^10.1371/journal.pone.0156552]. SARS-RBD-Hexapeptide is weak inhibitor of SARS-CoV viral entry, but nonetheless suggests the possibility that small peptides may be able to inhibit the interaction of coronavirus S1 receptor binding domains and ACE2[^10.1016/j.antiviral.2011.12.012]. Emodin is a plant derivative that appears to weakly inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.antiviral.2006.04.014], although it has also been proposed to inhibit SARS-CoV release from cells[^10.1016/j.antiviral.2011.02.008].
 
-Arbidol is an oral drug used in Russia and China to treat influenza and other viral infections[^10.1016/j.antiviral.2014.04.006][^10.1128/JVI.02077-15]. It is reported to have _in vitro_ activity against multiple viruses and to inhibit viral entry by binding viral surface glycoproteins[^10.1016/j.antiviral.2008.10.009]. Its EC50 has been reported A crystal structure of arbidol in complex with influenza hemagglutinin showed that arbidol binds to a hydrophobic cavity in the hemagglutinin trimer stem[^10.1073/pnas.1617020114]. There have been five small studies of arbidol in patients with SARS-CoV-2, including two open-label controlled studies[^10.1101/2020.03.17.20037432][^10.1101/2020.03.19.20038984] and three observational studies[^10.1016/j.jinf.2020.03.002][^10.1016/j.jinf.2020.03.060][^10.1101/2020.04.06.20042580]. One controlled trial suggested it was inferior to favipiravir at reducing time to clinical recovery[^10.1101/2020.03.17.20037432]; one observational trial suggested it was inferior to nebulized interferon α2b at reducing viral shedding; and one observational trial suggested that it may have been more effective than lopinavir/r at reducing viral shedding[^10.1016/j.jinf.2020.03.060].
+Arbidol is an oral drug used in Russia and China to treat influenza and other viral infections[^10.1016/j.antiviral.2014.04.006][^10.1128/JVI.02077-15]. It is reported to have _in vitro_ activity against multiple viruses and to inhibit viral entry by binding viral surface glycoproteins[^10.1016/j.antiviral.2008.10.009]. Its SARS-CoV-2 EC50 has been reported to be 4 and 11A crystal structure of arbidol in complex with influenza hemagglutinin showed that arbidol binds to a hydrophobic cavity in the hemagglutinin trimer stem[^10.1073/pnas.1617020114]. There have been five small studies of arbidol in patients with SARS-CoV-2, including two open-label controlled studies[^10.1101/2020.03.17.20037432][^10.1101/2020.03.19.20038984] and three observational studies[^10.1016/j.jinf.2020.03.002][^10.1016/j.jinf.2020.03.060][^10.1101/2020.04.06.20042580]. One controlled trial suggested it was inferior to favipiravir at reducing time to clinical recovery[^10.1101/2020.03.17.20037432]; one observational trial suggested it was inferior to nebulized interferon α2b at reducing viral shedding; and one observational trial suggested that it may have been more effective than lopinavir/r at reducing viral shedding[^10.1016/j.jinf.2020.03.060].
 
 ___Conclusion: Most of the compounds in this section have not been well studied and therefore appear unlikely at the present time to lead to useful treatments.___
 
@@ -485,10 +485,10 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzNzUyODA3LC0xMTc4MTY0MDE3LC0xMj
-Q1NTUzMjQ0LDIwNjM1Njk1NDUsLTc5ODk1ODA1LDQ0ODA5MzY3
-NywxMjY0MzI4NzczLC0zNzcxNzg0MDYsLTEyOTA1Mzg0NzksLT
-E0MDQ0OTEyODgsLTY4NDM0MjE4OSwtNzk1MDk0NjIyLC0xNDAx
-OTI2NjEyLC0xNzQwNTIyOTMxLC0xNzk0ODIzNTYsMjA2MDc4OD
-k0M119
+eyJoaXN0b3J5IjpbMTQ3NjkyMTg3NSwtMTE3ODE2NDAxNywtMT
+I0NTU1MzI0NCwyMDYzNTY5NTQ1LC03OTg5NTgwNSw0NDgwOTM2
+NzcsMTI2NDMyODc3MywtMzc3MTc4NDA2LC0xMjkwNTM4NDc5LC
+0xNDA0NDkxMjg4LC02ODQzNDIxODksLTc5NTA5NDYyMiwtMTQw
+MTkyNjYxMiwtMTc0MDUyMjkzMSwtMTc5NDgyMzU2LDIwNjA3OD
+g5NDNdfQ==
 -->
