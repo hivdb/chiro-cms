@@ -10,8 +10,7 @@
 
 ### Sequences
 ##### Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
-#### GenBank nucleotide
-[https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
+##### GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
 
 [http://genome.ucsc.edu/covid19.html](http://genome.ucsc.edu/covid19.html)
 
@@ -32,6 +31,6 @@ Sequence analysis tools:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDk0MTYyMSwtMTE2MzkzMzE1NiwtNj
-g0ODk5NTA3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODE1NTkxMjQwLC0xMTYzOTMzMTU2LC02OD
+Q4OTk1MDcsNzMwOTk4MTE2XX0=
 -->
