@@ -4,7 +4,11 @@
 [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
 
 ### Clinical trials
+ClinicalTrials.gov:
 [https://clinicaltrials.gov/ct2/results?cond=COVID-19](https://clinicaltrials.gov/ct2/results?cond=COVID-19)
+STAT's Drug and Vaccine Tracker:
+[https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
+
 
 ### Sequences
 Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
@@ -36,6 +40,6 @@ PubChem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA5MzQ1NSwtMTE2MzkzMzE1NiwtNj
-g0ODk5NTA3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTExOTY0NzAzMDQsLTExNjM5MzMxNTYsLT
+Y4NDg5OTUwNyw3MzA5OTgxMTZdfQ==
 -->
