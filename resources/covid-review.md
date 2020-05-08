@@ -88,7 +88,7 @@ There have been multiple drug screens and several structure-based designs target
 
 Another derivative, GC376, forms covalent bonds with three active site cysteines and inhibits multiple coronaviruses[^10.1128/JVI.01348-12]. GC376 inhibits SARS-CoV (4.3 μM) and MERS-CoV (1.7 μM) and displays sub-micromolar inhibitory against several other coronaviruses including the alphacoronavirus FIPV, TGEV, and HCoV 229E and the betacoronavirus BCV. It is highly effective in treating cats with the rapidly fatal coronavirus disease FIPV[^10.1371/journal.ppat.1005531]. Crystal structures of MERS-CoV 3CLpro bound to GC376 has led to the identification of piperidene peptidomimetics with greater inhibitory activity against SARS-CoV and MERS-CoV[^10.1016/j.ejmech.2018.03.004]. Another series of peptidomimetics has been shown to inhibit BtCoV-HKU4 (related to MERS-CoV). Asymmetric aromatic disulfides have had low micromolar activity against SARS-CoV[^10.1016/j.ejmech.2017.05.045]. Several other backbones have been shown to have activity against SARS-CoV[^10.1021/jm050184y][^10.1016/j.bmcl.2007.08.031].
 
-The compounds with the most 3CLpr inhibitory activity identified to date are a series of peptidomimetic α-ketoamide derivatives[^10.1021/acs.jmedchem.9b01828]. One of these compounds has been co-crystallized with SARS-CoV-2 3CLpro and has been modified to increase its solubility. Preliminary pharmacokinetic evaluation has demonstrated metabolic stability in mouse and human microsomes and encouraging plasma and bronco-alveolar lavage fluid levels whether administered subcutaneously or by inhalation[^10.1126/science.abb3405]. A second SARS-CoV-2 crystal structure identified of several inhibitory compounds; of these, the most active were N3 and an investigational compound ebselen, which has been studied in humans[^10.1038/s41586-020-2223-y].
+The compounds with the most 3CLpro inhibitory activity identified to date are a series of peptidomimetic α-ketoamide and aldehyde derivatives[^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb4489] . One of these compounds has been co-crystallized with SARS-CoV-2 3CLpro and has been modified to increase its solubility. Preliminary pharmacokinetic evaluation has demonstrated metabolic stability in mouse and human microsomes and encouraging plasma and bronco-alveolar lavage fluid levels whether administered subcutaneously or by inhalation[^10.1126/science.abb3405]. A second SARS-CoV-2 crystal structure identified of several inhibitory compounds; of these, the most active were N3 and an investigational compound ebselen, which has been studied in humans[^10.1038/s41586-020-2223-y].
 
 Disulfiram, the licensed oral alcohol antagonist has been reported to inhibit SARS-CoV-2 3CL protease with an IC<sub>50</sub> of about 10 μM[^10.1038/s41586-020-2223-y] and to inhibit SARS-CoV and MERS-CoV PL protease with a slightly higher IC<sub>50</sub> [^10.1016/j.antiviral.2017.12.015]. However, disulfiram has not yet been studied in cell culture, and existing PK data suggests that standard doses may be insufficient to yield inhibitory drug levels.
 
@@ -491,11 +491,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTE5OTk0OSwtMTA1OTU3MTExMiwtMj
-AzMzA3NzQzOCwtMTQ5MDE0Mjk5NSwtMTE3ODE2NDAxNywtMTI0
-NTU1MzI0NCwyMDYzNTY5NTQ1LC03OTg5NTgwNSw0NDgwOTM2Nz
-csMTI2NDMyODc3MywtMzc3MTc4NDA2LC0xMjkwNTM4NDc5LC0x
-NDA0NDkxMjg4LC02ODQzNDIxODksLTc5NTA5NDYyMiwtMTQwMT
-kyNjYxMiwtMTc0MDUyMjkzMSwtMTc5NDgyMzU2LDIwNjA3ODg5
-NDNdfQ==
+eyJoaXN0b3J5IjpbMTgzMTYwMzA3LC0yNTExOTk5NDksLTEwNT
+k1NzExMTIsLTIwMzMwNzc0MzgsLTE0OTAxNDI5OTUsLTExNzgx
+NjQwMTcsLTEyNDU1NTMyNDQsMjA2MzU2OTU0NSwtNzk4OTU4MD
+UsNDQ4MDkzNjc3LDEyNjQzMjg3NzMsLTM3NzE3ODQwNiwtMTI5
+MDUzODQ3OSwtMTQwNDQ5MTI4OCwtNjg0MzQyMTg5LC03OTUwOT
+Q2MjIsLTE0MDE5MjY2MTIsLTE3NDA1MjI5MzEsLTE3OTQ4MjM1
+NiwyMDYwNzg4OTQzXX0=
 -->
