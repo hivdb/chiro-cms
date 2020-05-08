@@ -12,7 +12,7 @@ ClinicalTrials.gov:
 [https://clinicaltrials.gov/ct2/results?cond=COVID-19](https://clinicaltrials.gov/ct2/results?cond=COVID-19)
 STAT's Drug and Vaccine Tracker:
 [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
-
+Milken Institute Drug and Vaccine Tracker
 
 ### Sequences
 Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
@@ -44,6 +44,6 @@ PubChem
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTMzNTk5LC0xMTYzOTMzMTU2LC02OD
-Q4OTk1MDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTcxMzc1NjE2NiwtNDg1MzM1OTksLTExNj
+M5MzMxNTYsLTY4NDg5OTUwNyw3MzA5OTgxMTZdfQ==
 -->
