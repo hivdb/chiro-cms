@@ -1,6 +1,4 @@
 
-
-
 ### Literature
 [https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
 [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
@@ -27,15 +25,15 @@ cas.org/covid-19-antiviral-compounds-dataset
 PubChem
 [https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus](https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus)
 
-Sequence analyses:
+### Sequence analyses
 [https://nextstrain.org/ncov/global](https://nextstrain.org/ncov/global)
 
-Sequence analysis tools:
+### Sequence analysis tools
 [https://github.com/CDCgov/SARS-CoV-2_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjE1ODg3MiwtMTE2MzkzMzE1NiwtNj
+eyJoaXN0b3J5IjpbLTMwNTQyODU2MiwtMTE2MzkzMzE1NiwtNj
 g0ODk5NTA3LDczMDk5ODExNl19
 -->
