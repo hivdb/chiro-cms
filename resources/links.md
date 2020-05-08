@@ -15,14 +15,17 @@ Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
 [https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D)
 UCSC Genome Browser:
 [http://genome.ucsc.edu/covid19.html](http://genome.ucsc.edu/covid19.html)
-Sequence Read A
+Sequence Read Archive:
+[https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=search_obj&m=&s=&term=txid2697049%5Borgn%5D&go=Search](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=search_obj&m=&s=&term=txid2697049%5Borgn%5D&go=Search)
 
-Structures:
+### Protein Structures
 [https://coronavirus3d.org/](https://coronavirus3d.org/)
 
-### Chemical structures:
+### Chemical structures
 American Chemical Society resources
 cas.org/covid-19-antiviral-compounds-dataset
+PubChem
+[https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus](https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus)
 
 Sequence analyses:
 [https://nextstrain.org/ncov/global](https://nextstrain.org/ncov/global)
@@ -33,6 +36,6 @@ Sequence analysis tools:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTkwMzA4NywtMTE2MzkzMzE1NiwtNj
+eyJoaXN0b3J5IjpbLTM0MjE1ODg3MiwtMTE2MzkzMzE1NiwtNj
 g0ODk5NTA3LDczMDk5ODExNl19
 -->
