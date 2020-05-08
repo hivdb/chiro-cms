@@ -9,9 +9,11 @@
 [https://clinicaltrials.gov/ct2/results?cond=COVID-19](https://clinicaltrials.gov/ct2/results?cond=COVID-19)
 
 ### Sequences
-##### Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
-##### GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
-
+Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
+ GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
+ GenBank protein:
+[https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D)
+UCSC Genome Browser:
 [http://genome.ucsc.edu/covid19.html](http://genome.ucsc.edu/covid19.html)
 
 
@@ -31,6 +33,6 @@ Sequence analysis tools:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NTkxMjQwLC0xMTYzOTMzMTU2LC02OD
-Q4OTk1MDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzODQzODk1NDksLTExNjM5MzMxNTYsLT
+Y4NDg5OTUwNyw3MzA5OTgxMTZdfQ==
 -->
