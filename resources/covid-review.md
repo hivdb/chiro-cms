@@ -84,7 +84,7 @@ ___Conclusion: As of April 21, 2020, there were 16 recruiting trials and 7 plann
 ### 3CLpro Investigational Inhibitors
 Most coronavirus PI drug discovery efforts have targeted 3CLpro: it shares a conserved substrate recognition pocket with the 3C like protease (3Cpro) of human picornaviruses, which have already been successfully targeted with antiviral agents. In addition, 3CLpro can also be purified in large quantities and readily crystallized[^10.1016/j.virusres.2007.02.015].
 
-There have been multiple drug screens and several structure-based designs targeting 3CLpro The 3Cpro inhibitor rupintrivir (AG7088), which has demonstrated safety and symptom improvement in humans has not demonstrated significant activity against coronavirus 3CLpro[^10.1128/JVI.01348-12]. However, several derivatives of this peptidomimetic have inhibited SARS-CoV and MERS-CoV in biochemical assays with IC<sub>50</sub>s ranging between 0.02 μM and 0.72 μM for SARS-CoV  and SARS-CoV-2.
+There have been multiple drug screens and several structure-based designs targeting 3CLpro The 3Cpro inhibitor rupintrivir (AG7088), which has demonstrated safety and symptom improvement in humans has not demonstrated significant activity against coronavirus 3CLpro[^10.1128/JVI.01348-12]. However, several derivatives of this peptidomimetic have inhibited SARS-CoV and MERS-CoV in biochemical assays with IC<sub>50</sub>s ranging between 0.02 μM and 0.72 μM for SARS-CoV  and SARS-CoV-2[^10.1101/2020.04.20.051581].
 
 Another derivative, GC376, forms covalent bonds with three active site cysteines and inhibits multiple coronaviruses[^10.1128/JVI.01348-12]. GC376 inhibits SARS-CoV (4.3 μM) and MERS-CoV (1.7 μM) and displays sub-micromolar inhibitory against several other coronaviruses including the alphacoronavirus FIPV, TGEV, and HCoV 229E and the betacoronavirus BCV. It is highly effective in treating cats with the rapidly fatal coronavirus disease FIPV[^10.1371/journal.ppat.1005531]. Crystal structures of MERS-CoV 3CLpro bound to GC376 has led to the identification of piperidene peptidomimetics with greater inhibitory activity against SARS-CoV and MERS-CoV[^10.1016/j.ejmech.2018.03.004]. Another series of peptidomimetics has been shown to inhibit BtCoV-HKU4 (related to MERS-CoV). Asymmetric aromatic disulfides have had low micromolar activity against SARS-CoV[^10.1016/j.ejmech.2017.05.045]. Several other backbones have been shown to have activity against SARS-CoV[^10.1021/jm050184y][^10.1016/j.bmcl.2007.08.031].
 
@@ -491,7 +491,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Mzc1NDU3MywyODcwMzg4OTIsMTU4ND
+eyJoaXN0b3J5IjpbMTEwMTI0NDE3NCwyODcwMzg4OTIsMTU4ND
 U0MjcwMCwtMjUxMTk5OTQ5LC0xMDU5NTcxMTEyLC0yMDMzMDc3
 NDM4LC0xNDkwMTQyOTk1LC0xMTc4MTY0MDE3LC0xMjQ1NTUzMj
 Q0LDIwNjM1Njk1NDUsLTc5ODk1ODA1LDQ0ODA5MzY3NywxMjY0
