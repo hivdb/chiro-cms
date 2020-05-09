@@ -22,7 +22,7 @@ The schema of the database can be found at covdb.stanford.edu/database-schema/](
 Each compound is categorized according to its most likely target including both virus and host targets. The compounds with viral targets include entry inhibitors (monoclonal antibodies, fusion inhibitors, and additional small and large molecule inhibitors of receptor binding), nucleoside analog RdRp (polymerase) inhibitors; 3CL protease inhibitors; PL protease inhibitors; and helicase inhibitors. The compounds with host targets include interferons and inhibitors of host proteases that cleave coronavirus spike (S) proteins. A large number of additional compounds, particularly those purported to target host pathways, act by less well defined or completely uncertain mechanisms; these include inhibitors of endosomal trafficking, compounds that modulate signaling phosphorylation pathways, cyclophilin inhibitors, and compounds that may induce interferon production. Although coronaviruses contains four structural proteins (spike, envelope, membrane, and nucleocapsid), 16 non-structural proteins (nsp1-nsp16), and several accessory proteins [^10.1007/978-1-4939-2438-7_1][^10.1038/s41586-020-2286-9] most antiviral research has focused on the targets reviewed here.
 
 ## Polymerase Inhibitors
-RNA-dependent RNA polymerases (RdRps) catalyze phosphodiester bond formation between nucleoside triphosphates in an RNA-templated manner. RdRps are highly conserved in their structural and functional features, even among diverse RNA viruses belonging to different families [^10.3390/v11080745]. Coronavirus RNA polymerization, however, is more complex than that of other viruses. First, coronaviruses contain a 3’-to-5’ exoribonuclease (ExoN; nsp14) which is required for replication fidelity[^10.1073/pnas.0508200103]. ExoN is responsible for the intrinsic resistance of coronavirus species such as SARS-CoV to ribavirin and several other nucleoside analogs [^10.1371/journal.ppat.1003565][^10.1073/pnas.1718806115]. Second, coronavirus RdRp (nsp12) requires two accessory proteins (nsp7 and nsp8). The 3D structure of the nsp12-nsp7-nsp8 complex of SARS-CoV [^10.1038/s41467-019-10280-3] and SARS-CoV-2 [^10.1126/science.abb7498][^10.1126/science.abc1560] have been solved by cryo-EM.
+RNA-dependent RNA polymerases (RdRps) catalyze phosphodiester bond formation between nucleoside triphosphates in an RNA-templated manner. RdRps are highly conserved in their structural and functional features, even among diverse RNA viruses belonging to different families[^10.3390/v11080745]. Coronavirus RNA polymerization, however, is more complex than that of other viruses. First, coronaviruses contain a 3’-to-5’ exoribonuclease (ExoN; nsp14) which is required for replication fidelity[^10.1073/pnas.0508200103]. ExoN is responsible for the intrinsic resistance of coronavirus species such as SARS-CoV to ribavirin and several other nucleoside analogs [^10.1371/journal.ppat.1003565][^10.1073/pnas.1718806115]. Second, coronavirus RdRp (nsp12) requires two accessory proteins (nsp7 and nsp8). The 3D structure of the nsp12-nsp7-nsp8 complex of SARS-CoV [^10.1038/s41467-019-10280-3] and SARS-CoV-2 [^10.1126/science.abb7498][^10.1126/science.abc1560] have been solved by cryo-EM.
 
 Polymerase inhibitors are the most commonly used antiviral agents and have formed the backbone of most HIV, hepatitis B, hepatitis C, and herpes virus treatments. Nucleoside analog inhibitors are also often broad-spectrum possessing activity against multiple related virus species. Most antiviral polymerase inhibitors act as nucleoside analog chain terminators – usually because they lack a 3’-hydroxyl group. Several nucleoside analogs, however, are not chain terminators. Rather, they become incorporated into viral genomes and inhibit replication by introducing mutations during subsequent rounds of replication.
 
@@ -495,11 +495,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODY2MDI2NiwyOTIzNTcyMTYsMTQ1OT
-I5OTE5NCw5NzQ0MDY5MTIsLTM5MzI2MDc5MywtNjUzMzE0NTEs
-LTQ1OTQ1MjExOCwtMTM3MjEwMTM0NiwxOTA1MjI2MDgwLDI4Nz
-AzODg5MiwxNTg0NTQyNzAwLC0yNTExOTk5NDksLTEwNTk1NzEx
-MTIsLTIwMzMwNzc0MzgsLTE0OTAxNDI5OTUsLTExNzgxNjQwMT
-csLTEyNDU1NTMyNDQsMjA2MzU2OTU0NSwtNzk4OTU4MDUsNDQ4
-MDkzNjc3XX0=
+eyJoaXN0b3J5IjpbNDA5NzQ0NTg2LDIwMjg2NjAyNjYsMjkyMz
+U3MjE2LDE0NTkyOTkxOTQsOTc0NDA2OTEyLC0zOTMyNjA3OTMs
+LTY1MzMxNDUxLC00NTk0NTIxMTgsLTEzNzIxMDEzNDYsMTkwNT
+IyNjA4MCwyODcwMzg4OTIsMTU4NDU0MjcwMCwtMjUxMTk5OTQ5
+LC0xMDU5NTcxMTEyLC0yMDMzMDc3NDM4LC0xNDkwMTQyOTk1LC
+0xMTc4MTY0MDE3LC0xMjQ1NTUzMjQ0LDIwNjM1Njk1NDUsLTc5
+ODk1ODA1XX0=
 -->
