@@ -201,7 +201,7 @@ Chloroquine and hydroxychloroquine have demonstrated modest inhibitory activity 
 
 The pharmacokinetics of chloroquine and hydroxychloroquine are also complicated. Based on plasma levels alone, they appear to barely achieve sufficient inhibitory levels in patients receiving standard dosing regimens[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1101/2020.04.16.20068379]. Mefloquine is an antimalarial that also weakly inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1128/AAC.03036-14][^10.1101/2020.03.20.999730] but achieves higher plasma levels than chloroquine or hydroxychloroquine[^10.1101/2020.04.16.20068379].
 
-The clinical relevance of the modest _in vitro_ activity of chloroquine and hydroxychloroquine is not supported by published clinical data. In a large retrospective study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine, the risk of the primary endpoint, death or intubation, was compared with those patients not receiving hydroxyc 
+The clinical relevance of the modest _in vitro_ activity of chloroquine and hydroxychloroquine is not supported by published clinical data. In a large retrospective study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine, the risk of the primary endpoint, death or intubation, was compared with those patients not receiving hydroxychloroquine.  Overall 346 (25.1%) patients met the composite endpoint. In an unadjusted analysis that did not take into account disease severity, the risk of the primary endpoint was higher among those receiving hydroxychloroquine (HR:2.37; 95% CI: 0.82-1.32). But in the primary multivariable analysis there was no difference between the two groups (HR:1.04;95%: 0.82-1.32)[^10.1056/NEJMoa2012410] .
 
 , there was 
 
@@ -497,7 +497,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzkyMzg1LC0zOTMyNjA3OTMsLTY1Mz
+eyJoaXN0b3J5IjpbMTkxMzU3NTA0LC0zOTMyNjA3OTMsLTY1Mz
 MxNDUxLC00NTk0NTIxMTgsLTEzNzIxMDEzNDYsMTkwNTIyNjA4
 MCwyODcwMzg4OTIsMTU4NDU0MjcwMCwtMjUxMTk5OTQ5LC0xMD
 U5NTcxMTEyLC0yMDMzMDc3NDM4LC0xNDkwMTQyOTk1LC0xMTc4
