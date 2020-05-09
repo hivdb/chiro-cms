@@ -32,6 +32,8 @@
 - GenBank protein: [https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D)
 - Betacoronavirus BLAST:
 [https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus)
+- China National Center for Bioinformation
+[https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
 - UCSC Genome Browser:
   [http://genome.ucsc.edu/covid19.html](http://genome.ucsc.edu/covid19.html)
 - Sequence Read Archive:
@@ -60,7 +62,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTg4ODkyNiwtMTQyNTA1OTU1MSwxMD
+eyJoaXN0b3J5IjpbLTc4NzM5NDk2OSwtMTQyNTA1OTU1MSwxMD
 M0NTEyOTc5LC0xMDM0MzY5OTQ5LC0xMzk3NjM0NzE5LC0xMzY0
 MzQ4Njk3LC00ODUzMzU5OSwtMTE2MzkzMzE1NiwtNjg0ODk5NT
 A3LDczMDk5ODExNl19
