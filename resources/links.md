@@ -54,16 +54,20 @@
   [https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus](https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus)
 
 ### Sequence analyses
-- [https://nextstrain.org/ncov/global](https://nextstrain.org/ncov/global)
+- Next strain:
+[https://nextstrain.org/ncov/global](https://nextstrain.org/ncov/global)
+- Virus Pathogen Resource:
+[https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
 
 ### Sequence analysis tools
-- [https://github.com/CDCgov/SARS-CoV-2\_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
+- CDC github code:
+[https://github.com/CDCgov/SARS-CoV-2\_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NzM5NDk2OSwtMTQyNTA1OTU1MSwxMD
-M0NTEyOTc5LC0xMDM0MzY5OTQ5LC0xMzk3NjM0NzE5LC0xMzY0
-MzQ4Njk3LC00ODUzMzU5OSwtMTE2MzkzMzE1NiwtNjg0ODk5NT
-A3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTgzNzk4NjgyNiwtNzg3Mzk0OTY5LC0xND
+I1MDU5NTUxLDEwMzQ1MTI5NzksLTEwMzQzNjk5NDksLTEzOTc2
+MzQ3MTksLTEzNjQzNDg2OTcsLTQ4NTMzNTk5LC0xMTYzOTMzMT
+U2LC02ODQ4OTk1MDcsNzMwOTk4MTE2XX0=
 -->
