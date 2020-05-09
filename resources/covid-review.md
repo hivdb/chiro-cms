@@ -92,7 +92,7 @@ The compounds with the most 3CLpro inhibitory activity identified to date are a 
 
 Disulfiram, the licensed oral alcohol antagonist has been reported to inhibit SARS-CoV-2 3CL protease with an IC<sub>50</sub> of about 10 μM[^10.1038/s41586-020-2223-y] and to inhibit SARS-CoV and MERS-CoV PL protease with a slightly higher IC<sub>50</sub> [^10.1016/j.antiviral.2017.12.015]. However, disulfiram has not yet been studied in cell culture, and existing PK data suggests that standard doses may be insufficient to yield inhibitory drug levels.
 
-___Conclusion: There are many promising lead compounds that could be developed into highly effective SARS-CoV-2 drugs. Several of these including GC376 and ebselen might be useful as initial scaffolds because they display very low μM activity and have been studied in cats and humans, respectively. Other peptidomimetic compounds, such as the -ketoamides have greater inhibitory in vitro activity but have not yet been studied in animals or humans. Developing these compounds into drugs would ordinarily take several years.___
+___Conclusion: There are many promising lead compounds that could be developed into highly effective SARS-CoV-2 drugs. Several of these including GC376 and ebselen might be useful as initial scaffolds because they display very low μM activity and have been studied in cats and humans, respectively. Other peptidomimetic compounds, such as the -ketoamides have greater inhibitory in vitro activity but have not yet been studied in animals or humans. ___
 
 ### PLpro Investigational Inhibitors
 The crystal structure of SARS-CoV[^10.1073/pnas.0510851103][^10.1021/jm401712t] and SARS-CoV-2 () have been solved. However, in contrast to 3CLpro, the PLpro enzyme is membrane associated, making it more challenging to study in vitro. It does not have homologues in other viruses, so there are fewer compounds that can serve as starting points for drug development. Nonetheless, it is an essential coronavirus enzyme; high-throughput testing approaches have begun and several lead compounds have been identified[^10.1016/j.antiviral.2014.12.015][^10.1002/cmdc.202000223].
@@ -495,11 +495,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzI3Mzc4OCwxNDU5Mjk5MTk0LDk3ND
-QwNjkxMiwtMzkzMjYwNzkzLC02NTMzMTQ1MSwtNDU5NDUyMTE4
-LC0xMzcyMTAxMzQ2LDE5MDUyMjYwODAsMjg3MDM4ODkyLDE1OD
-Q1NDI3MDAsLTI1MTE5OTk0OSwtMTA1OTU3MTExMiwtMjAzMzA3
-NzQzOCwtMTQ5MDE0Mjk5NSwtMTE3ODE2NDAxNywtMTI0NTU1Mz
-I0NCwyMDYzNTY5NTQ1LC03OTg5NTgwNSw0NDgwOTM2NzcsMTI2
-NDMyODc3M119
+eyJoaXN0b3J5IjpbMjkyMzU3MjE2LDE0NTkyOTkxOTQsOTc0ND
+A2OTEyLC0zOTMyNjA3OTMsLTY1MzMxNDUxLC00NTk0NTIxMTgs
+LTEzNzIxMDEzNDYsMTkwNTIyNjA4MCwyODcwMzg4OTIsMTU4ND
+U0MjcwMCwtMjUxMTk5OTQ5LC0xMDU5NTcxMTEyLC0yMDMzMDc3
+NDM4LC0xNDkwMTQyOTk1LC0xMTc4MTY0MDE3LC0xMjQ1NTUzMj
+Q0LDIwNjM1Njk1NDUsLTc5ODk1ODA1LDQ0ODA5MzY3NywxMjY0
+MzI4NzczXX0=
 -->
