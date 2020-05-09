@@ -30,6 +30,8 @@
 - Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
 - GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
 - GenBank protein: [https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D)
+- Betacoronavirus BLAST:
+[https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus)
 - UCSC Genome Browser:
   [http://genome.ucsc.edu/covid19.html](http://genome.ucsc.edu/covid19.html)
 - Sequence Read Archive:
@@ -58,8 +60,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjUwNTk1NTEsMTAzNDUxMjk3OSwtMT
-AzNDM2OTk0OSwtMTM5NzYzNDcxOSwtMTM2NDM0ODY5NywtNDg1
-MzM1OTksLTExNjM5MzMxNTYsLTY4NDg5OTUwNyw3MzA5OTgxMT
-ZdfQ==
+eyJoaXN0b3J5IjpbLTgwMTg4ODkyNiwtMTQyNTA1OTU1MSwxMD
+M0NTEyOTc5LC0xMDM0MzY5OTQ5LC0xMzk3NjM0NzE5LC0xMzY0
+MzQ4Njk3LC00ODUzMzU5OSwtMTE2MzkzMzE1NiwtNjg0ODk5NT
+A3LDczMDk5ODExNl19
 -->
