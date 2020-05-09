@@ -38,6 +38,9 @@
   [http://covseq.baidu.com/browse](http://covseq.baidu.com/browse)
 
 ### Protein Structures
+- PDB:
+[https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true](https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true)
+
 - [https://coronavirus3d.org/](https://coronavirus3d.org/)
 
 ### Chemical structures
@@ -55,7 +58,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDUxMjk3OSwtMTAzNDM2OTk0OSwtMT
-M5NzYzNDcxOSwtMTM2NDM0ODY5NywtNDg1MzM1OTksLTExNjM5
-MzMxNTYsLTY4NDg5OTUwNyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0MjUwNTk1NTEsMTAzNDUxMjk3OSwtMT
+AzNDM2OTk0OSwtMTM5NzYzNDcxOSwtMTM2NDM0ODY5NywtNDg1
+MzM1OTksLTExNjM5MzMxNTYsLTY4NDg5OTUwNyw3MzA5OTgxMT
+ZdfQ==
 -->
