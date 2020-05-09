@@ -117,7 +117,7 @@ Two risk-benefit analyses and several experts have argued that the possible larg
 
 As of April 24, 2020, there are 32 ongoing (n=12) or planned (n=20) clinical trials containing at least one arm in which recipients will receive convalescent plasma. There are also two planned studies of convalescent immunoglobulin and one of pooled immunoglobulin from healthy donors. One ongoing study is randomizing patients to convalescent plasma or to standard donor plasma and another planned study aims to randomize high-risk exposed persons to convalescent plasma or placebo. The remaining studies are not placebo controlled. Despite its potential for toxicity and lot-to-lot variation in functional neutralizing antibodies, convalescent plasma and potentially other forms of immunoglobulin therapy will likely remain a treatment option particularly in patients with severe disease.
 
-___Conclusions: Although the use of convalescent plasma is not supported by controlled trials, substantial observational data supports this intervention. The usefulness of convalescent plasma also suggests that neutralizing monoclonal antibodies should be useful at treating what at least clinically is primarily a respiratory tract infection. However, human plasma is a complex mixture of compounds. Therefore, the two trials in which convalescent plasma will be compared to standard donor plasma (one for treatment and the other for prevention) would be extremely informative. An alternative approach to assessing the effectiveness of convalescent plasma would be a retrospective study to determine if there is a correlation between neutralizing antibody titer and clinical response.___
+___Conclusions: Although the use of convalescent plasma is not supported by controlled trials, substantial observational data supports this intervention. The usefulness of convalescent plasma also suggests that neutralizing monoclonal antibodies should be useful at treating what at least clinically is primarily a respiratory tract infection. However, human plasma is a complex mixture of compounds. Therefore, the two trials in which convalescent plasma will be compared to standard donor plasma (one for treatment and the other for prevention) would be  informative. An alternative approach to assessing the effectiveness of convalescent plasma would be a retrospective study to determine if there is a correlation between neutralizing antibody titer and clinical response.___
 
 ### Monoclonal Antibodies
 Neutralizing monoclonal antibodies (MAbs) have been to treat Ebola[^10.1126/science.aad5224][^10.1056/NEJMoa1910993] and prevent respiratory syncytial virus[^10.2165/00003495-199958020-00009]. Neutralizing MAbs have also be used reduce virus levels in HIV-1-infected persons but resistance emerges unless a combination of neutralizing MAbs is administered[^10.1038/nm.4268][^10.1038/s41586-018-0531-2].
@@ -495,11 +495,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0NDA2OTEyLC0zOTMyNjA3OTMsLTY1Mz
-MxNDUxLC00NTk0NTIxMTgsLTEzNzIxMDEzNDYsMTkwNTIyNjA4
-MCwyODcwMzg4OTIsMTU4NDU0MjcwMCwtMjUxMTk5OTQ5LC0xMD
-U5NTcxMTEyLC0yMDMzMDc3NDM4LC0xNDkwMTQyOTk1LC0xMTc4
-MTY0MDE3LC0xMjQ1NTUzMjQ0LDIwNjM1Njk1NDUsLTc5ODk1OD
-A1LDQ0ODA5MzY3NywxMjY0MzI4NzczLC0zNzcxNzg0MDYsLTEy
-OTA1Mzg0NzldfQ==
+eyJoaXN0b3J5IjpbMTIxMDM2NjYwOSw5NzQ0MDY5MTIsLTM5Mz
+I2MDc5MywtNjUzMzE0NTEsLTQ1OTQ1MjExOCwtMTM3MjEwMTM0
+NiwxOTA1MjI2MDgwLDI4NzAzODg5MiwxNTg0NTQyNzAwLC0yNT
+ExOTk5NDksLTEwNTk1NzExMTIsLTIwMzMwNzc0MzgsLTE0OTAx
+NDI5OTUsLTExNzgxNjQwMTcsLTEyNDU1NTMyNDQsMjA2MzU2OT
+U0NSwtNzk4OTU4MDUsNDQ4MDkzNjc3LDEyNjQzMjg3NzMsLTM3
+NzE3ODQwNl19
 -->
