@@ -36,6 +36,8 @@
 [https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
 - UCSC Genome Browser:
   [http://genome.ucsc.edu/covid19.html](http://genome.ucsc.edu/covid19.html)
+- CoV-Seq:
+[http://covseq.baidu.com/](http://covseq.baidu.com/)
 - Sequence Read Archive:
   [https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=search_obj&m=&s=&term=txid2697049%5Borgn%5D&go=Search](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=search_obj&m=&s=&term=txid2697049%5Borgn%5D&go=Search)
 - Sequence datasets:
@@ -66,8 +68,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzk4NjgyNiwtNzg3Mzk0OTY5LC0xND
-I1MDU5NTUxLDEwMzQ1MTI5NzksLTEwMzQzNjk5NDksLTEzOTc2
-MzQ3MTksLTEzNjQzNDg2OTcsLTQ4NTMzNTk5LC0xMTYzOTMzMT
-U2LC02ODQ4OTk1MDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzMDI1NTEyNzgsMTgzNzk4NjgyNiwtNz
+g3Mzk0OTY5LC0xNDI1MDU5NTUxLDEwMzQ1MTI5NzksLTEwMzQz
+Njk5NDksLTEzOTc2MzQ3MTksLTEzNjQzNDg2OTcsLTQ4NTMzNT
+k5LC0xMTYzOTMzMTU2LC02ODQ4OTk1MDcsNzMwOTk4MTE2XX0=
+
 -->
