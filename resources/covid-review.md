@@ -201,7 +201,9 @@ Chloroquine and hydroxychloroquine have demonstrated modest inhibitory activity 
 
 The pharmacokinetics of chloroquine and hydroxychloroquine are also complicated. Based on plasma levels alone, they appear to barely achieve sufficient inhibitory levels in patients receiving standard dosing regimens[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1101/2020.04.16.20068379]. Mefloquine is an antimalarial that also weakly inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1128/AAC.03036-14][^10.1101/2020.03.20.999730] but achieves higher plasma levels than chloroquine or hydroxychloroquine[^10.1101/2020.04.16.20068379].
 
-The clinical relevance of the modest _in vitro_ activity of chloroquine and hydroxychloroquine is not supported by published clinical data. One large retrospective study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine within one to two days following admission for a median of five days, there was 
+The clinical relevance of the modest _in vitro_ activity of chloroquine and hydroxychloroquine is not supported by published clinical data. In a large retrospective study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine, the risk of the primary endpoint, death or intubation, was compared with those patients not receiving hydroxyc 
+
+, there was 
 
 Of four open label randomized controlled studies and six observational studies, only one observational study of 80 patients with mild SARS-CoV-2 infections reported any benefit – more rapid virus clearance compared to historical controls – in patients receiving hydroxychloroquine plus azithromycin[^10.1016/j.tmaid.2020.101663]. However, questions have been raised about the validity of this study. Of the remaining nine studies, one retrospective observational study of 48 critically ill patients reported that hydroxychloroquine reduced mortality through its anti-inflammatory effects as evidenced by reduced IL6 levels[^10.1101/2020.04.27.20073379] and another study of persons with mild-to-moderate disease reporter that viral clearance was more rapid among patients receiving chloroquine compared with historical controls[^10.1101/2020.04.26.20081059]. None of the seven remaining studies, including the four controlled trials, reported benefit from the use of hydroxychloroquine or chloroquine and several also highlighted the risk of ventricular arrythmias[^10.1101/2020.04.10.20060699][^10.1016/j.medmal.2020.03.006][^10.1101/2020.03.22.20040758][^10.1001/jamanetworkopen.2020.8857][^10.1101/2020.04.10.20060558][^10.3785/j.issn.1008-9292.2020.03.03]. A detailed critical review of chloroquine/hydroxychloroquine studies has been published[^10.1093/ofid/ofaa130].
 
@@ -495,11 +497,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDM0Njc5OSwtMzkzMjYwNzkzLC02NT
-MzMTQ1MSwtNDU5NDUyMTE4LC0xMzcyMTAxMzQ2LDE5MDUyMjYw
-ODAsMjg3MDM4ODkyLDE1ODQ1NDI3MDAsLTI1MTE5OTk0OSwtMT
-A1OTU3MTExMiwtMjAzMzA3NzQzOCwtMTQ5MDE0Mjk5NSwtMTE3
-ODE2NDAxNywtMTI0NTU1MzI0NCwyMDYzNTY5NTQ1LC03OTg5NT
-gwNSw0NDgwOTM2NzcsMTI2NDMyODc3MywtMzc3MTc4NDA2LC0x
-MjkwNTM4NDc5XX0=
+eyJoaXN0b3J5IjpbMTM2MzkyMzg1LC0zOTMyNjA3OTMsLTY1Mz
+MxNDUxLC00NTk0NTIxMTgsLTEzNzIxMDEzNDYsMTkwNTIyNjA4
+MCwyODcwMzg4OTIsMTU4NDU0MjcwMCwtMjUxMTk5OTQ5LC0xMD
+U5NTcxMTEyLC0yMDMzMDc3NDM4LC0xNDkwMTQyOTk1LC0xMTc4
+MTY0MDE3LC0xMjQ1NTUzMjQ0LDIwNjM1Njk1NDUsLTc5ODk1OD
+A1LDQ0ODA5MzY3NywxMjY0MzI4NzczLC0zNzcxNzg0MDYsLTEy
+OTA1Mzg0NzldfQ==
 -->
