@@ -84,7 +84,7 @@ ___Conclusion: As of April 21, 2020, there were 16 recruiting trials and 7 plann
 ### 3CLpro Investigational Inhibitors
 Most coronavirus PI drug discovery efforts have targeted 3CLpro: it shares a conserved substrate recognition pocket with the 3C like protease (3Cpro) of human picornaviruses, which have already been successfully targeted with antiviral agents. In addition, 3CLpro can also be purified in large quantities and readily crystallized[^10.1016/j.virusres.2007.02.015].
 
-There have been multiple drug screens and several structure-based designs targeting 3CLpro. Several compounds have inhibited SARS-CoV and SARS-CoV-2 in biochemical assays with IC<sub>50</sub>s ranging between 0.02 and 0.2 μM[^10.1021/jm050184y][^10.1101/2020.04.20.051581][^10.1016/j.bmc.2016.05.013][^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb3405]. One of these, GC376 forms covalent bonds with three active site cysteines and inhibits multiple coronaviruses[^10.1128/JVI.01348-12]. Its IC<sub>50</sub> against SARS-CoV-2 was 0.03 μM while its EC In cell culture  GC376 inhibits SARS-CoV-2 (3.4 μM) while its IC<sub>50</sub> in a biochemiclal assay and MERS-CoV (1.7 μM) and displays sub-micromolar inhibitory against several other coronaviruses including the alphacoronavirus FIPV, TGEV, and HCoV 229E and the betacoronavirus BCV. It is highly effective in treating cats with the rapidly fatal coronavirus disease FIPV[^10.1371/journal.ppat.1005531]. Crystal structures of MERS-CoV 3CLpro bound to GC376 has led to the identification of piperidene peptidomimetics with greater inhibitory activity against SARS-CoV and MERS-CoV[^10.1016/j.ejmech.2018.03.004]. 
+There have been multiple drug screens and several structure-based designs targeting 3CLpro. Several compounds have inhibited SARS-CoV and SARS-CoV-2 in biochemical assays with IC<sub>50</sub>s ranging between 0.02 and 0.2 μM[^10.1021/jm050184y][^10.1101/2020.04.20.051581][^10.1016/j.bmc.2016.05.013][^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb3405]. One of these, GC376 forms covalent bonds with three active site cysteines and inhibits multiple coronaviruses[^10.1128/JVI.01348-12]. Its IC<sub>50</sub> against SARS-CoV-2 was 0.03 μM while its EC<sub>50</sub> in cell culture was 3.4 μM[^10.1101/2020.04.20.051581]. while its IC<sub>50</sub> in a biochemiclal assay and MERS-CoV (1.7 μM) and displays sub-micromolar inhibitory against several other coronaviruses including the alphacoronavirus FIPV, TGEV, and HCoV 229E and the betacoronavirus BCV. It is highly effective in treating cats with the rapidly fatal coronavirus disease FIPV[^10.1371/journal.ppat.1005531]. Crystal structures of MERS-CoV 3CLpro bound to GC376 has led to the identification of piperidene peptidomimetics with greater inhibitory activity against SARS-CoV and MERS-CoV[^10.1016/j.ejmech.2018.03.004]. 
 
 Another series of peptidomimetics has been shown to inhibit BtCoV-HKU4 (related to MERS-CoV). Asymmetric aromatic disulfides have had low micromolar activity against SARS-CoV[^10.1016/j.ejmech.2017.05.045]. Several other backbones have been shown to have activity against SARS-CoV[^10.1021/jm050184y][^10.1016/j.bmcl.2007.08.031].
 
@@ -495,11 +495,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, Ramón-García S, Rabinovich NR. 2020. Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency. Am. J. Trop. Med. Hyg. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjgwNjIwNTMsOTc0NDA2OTEyLC0zOT
-MyNjA3OTMsLTY1MzMxNDUxLC00NTk0NTIxMTgsLTEzNzIxMDEz
-NDYsMTkwNTIyNjA4MCwyODcwMzg4OTIsMTU4NDU0MjcwMCwtMj
-UxMTk5OTQ5LC0xMDU5NTcxMTEyLC0yMDMzMDc3NDM4LC0xNDkw
-MTQyOTk1LC0xMTc4MTY0MDE3LC0xMjQ1NTUzMjQ0LDIwNjM1Nj
-k1NDUsLTc5ODk1ODA1LDQ0ODA5MzY3NywxMjY0MzI4NzczLC0z
-NzcxNzg0MDZdfQ==
+eyJoaXN0b3J5IjpbOTI2OTg5NzY5LDk3NDQwNjkxMiwtMzkzMj
+YwNzkzLC02NTMzMTQ1MSwtNDU5NDUyMTE4LC0xMzcyMTAxMzQ2
+LDE5MDUyMjYwODAsMjg3MDM4ODkyLDE1ODQ1NDI3MDAsLTI1MT
+E5OTk0OSwtMTA1OTU3MTExMiwtMjAzMzA3NzQzOCwtMTQ5MDE0
+Mjk5NSwtMTE3ODE2NDAxNywtMTI0NTU1MzI0NCwyMDYzNTY5NT
+Q1LC03OTg5NTgwNSw0NDgwOTM2NzcsMTI2NDMyODc3MywtMzc3
+MTc4NDA2XX0=
 -->
