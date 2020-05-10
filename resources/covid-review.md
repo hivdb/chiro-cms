@@ -170,7 +170,7 @@ There are three IFN families[^10.1038/nri3787]. Type I IFN includes 13 related I
 
 As of April 27, 2020, the Coronavirus Antiviral Research Database contains about 160 cell culture[^10.1016/s0140-6736(03)13615-x][^10.1089/1079990041535610][^10.1086/382597][^PMID15651759][^10.1016/j.bbrc.2004.08.085][^10.1016/j.virol.2004.08.011][^10.3201/eid1002.030482][^10.1016/j.bbrc.2004.06.076][^10.1080/00365540410021144][^10.1016/j.bbrc.2004.11.128][^10.1177/095632020601700505][^10.1128/JVI.02322-09][^10.1099/vir.0.052910-0][^10.1038/nm.3362][^10.1016/j.jinf.2013.09.029][^10.1099/vir.0.061911-0][^10.1016/j.antiviral.2018.05.007][^10.1016/j.antiviral.2017.01.012][^10.1101/2020.03.07.982264][^10.1101/2020.04.02.022764][^10.1038/s41467-019-13940-6] and 27 animal model experiments[^10.1038/nm1001][^10.1177/095632020601700505][^10.1016/j.antiviral.2010.11.007][^10.1038/nm.3362][^10.1093/infdis/jiv392][^10.1093/infdis/jiv325][^10.1172/JCI126363] reporting the inhibitory activity of different IFN preparations against SARS-CoV (100 results), MERS-CoV (49 results), SARS-CoV-2 (4 results), or another coronavirus species (35 results). IFN-α, IFN-β, and IFN-γ products were used in about 50%, 30%, and 10% of experiments, respectively. IFN-λ and IFN-β in combination with IFN-γ were used in the remaining 10% of experiments.
 
-One study suggests that SARS-CoV-2 is more susceptible to IFN-α than SARS-CoV-1, due to a deletion in ORF3b, a 154 amino acid protein known to antagonize one of the proteins involved in the cellular IFN response[^10.1101/2020.03.07.982264]. However, the diverse nature of the commercial IFN products and of published studies has made it difficult to draw conclusions regarding the optimal use of IFNs. Both IFN-α and IFN-β appear to inhibit coronavirus _in vitro_ and in animal models, although several authors have argued that IFN-β is more effective than IFN-α at inhibiting coronaviruses[^10.1016/j.antiviral.2020.104791].
+Both IFN-α and IFN-β appear to inhibit coronavirus _in vitro_ and in animal models, although several authors have argued that IFN-β is more effective than IFN-α at inhibiting coronaviruses[^10.1016/j.antiviral.2020.104791]. One study suggests that SARS-CoV-2 is more susceptible to IFN-α than SARS-CoV-1, due to a deletion in ORF3b, a 154 amino acid protein known to antagonize one of the proteins involved in the cellular IFN response[^10.1101/2020.03.07.982264]. 
 
 As of May 7, 2020, there have been eight observational studies of IFN-α or IFN-β in patients with MERS-CoV (4 studies), SARS-CoV (2 studies), or SARS-CoV-2 (3 studies). One of the three SARS-CoV-2 was a randomized control trial of 127 patients with mild-to-moderate disease who were randomized 2:1 to receive IFN-β + ribavirin + lopinavir/r vs. lopinavir/r alone[^10.1016/S0140-6736(20)31042-4]. The patients receiving triple therapy had a significantly shorter time to a negative nasopharyngeal PCR (7 vs. 12 days) and a more rapid clinical improvement by several metrics. As ribavirin has generally not been efficacious in treating coronavirus infections, IFN-β is the most likely compound responsible for the improved outcome. The remaining clinical IFN studies did not contain control groups making it difficult to draw conclusions regarding clinical efficacy.
 
@@ -504,11 +504,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzgyOTE5Niw0MDk3NDQ1ODYsMjAyOD
-Y2MDI2NiwyOTIzNTcyMTYsMTQ1OTI5OTE5NCw5NzQ0MDY5MTIs
-LTM5MzI2MDc5MywtNjUzMzE0NTEsLTQ1OTQ1MjExOCwtMTM3Mj
-EwMTM0NiwxOTA1MjI2MDgwLDI4NzAzODg5MiwxNTg0NTQyNzAw
-LC0yNTExOTk5NDksLTEwNTk1NzExMTIsLTIwMzMwNzc0MzgsLT
-E0OTAxNDI5OTUsLTExNzgxNjQwMTcsLTEyNDU1NTMyNDQsMjA2
-MzU2OTU0NV19
+eyJoaXN0b3J5IjpbLTY4ODgwNDQzLDQwOTc0NDU4NiwyMDI4Nj
+YwMjY2LDI5MjM1NzIxNiwxNDU5Mjk5MTk0LDk3NDQwNjkxMiwt
+MzkzMjYwNzkzLC02NTMzMTQ1MSwtNDU5NDUyMTE4LC0xMzcyMT
+AxMzQ2LDE5MDUyMjYwODAsMjg3MDM4ODkyLDE1ODQ1NDI3MDAs
+LTI1MTE5OTk0OSwtMTA1OTU3MTExMiwtMjAzMzA3NzQzOCwtMT
+Q5MDE0Mjk5NSwtMTE3ODE2NDAxNywtMTI0NTU1MzI0NCwyMDYz
+NTY5NTQ1XX0=
 -->
