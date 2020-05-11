@@ -79,7 +79,7 @@ Most importantly, an open-label randomized controlled trial of lopinavir/r vs. s
 
 Among the remaining HIV-1 PIs, only nelfinavir and atazanavir appeared to have any coronavirus inhibitory activity. Nelfinavir had EC<sub>50</sub>s of 0.05 and 3.5 μM for SARS-CoV[^10.1177/095632020601700505][^10.1016/j.bbrc.2004.04.083], 1.1 μM and no activity for SARS-CoV-2[^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983], and 3.6 μM[^10.1101/2020.02.25.965582] and no activity for MERS-CoV[^10.1016/j.jinf.2013.09.029]. Its IC<sub>50</sub> against SARS-CoV 3CLpro in a biochemical experiment was 46 μM[^10.1016/j.bbrc.2005.05.095]. Atazanavir had had EC<sub>50</sub>s against SARS-CoV-2 between 0.2 and 2 μM in one study[^10.1101/2020.04.04.020925] but as high as 9.4 and >50 μM in three other studies[^10.1101/2020.03.20.999730][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983]. Darunavir has displayed poor activity against SARS-CoV-2[^10.1101/2020.04.03.20052548][^10.1101/2020.04.06.026476].
 
-___Conclusion: As of April 21, 2020, there were 16 recruiting trials and 7 planned trials containing a lopinavir/r treatment arm. However, considering that lopinavir/r does not inhibit coronaviruses in vitro and displayed no clinical or virological activity in a randomized clinical trial, it is uncertain why it is still being used clinically or studied.___
+___Conclusion: As of May 1, 2020, there were 16 recruiting trials and 7 planned trials containing a lopinavir/r treatment arm. However, considering that lopinavir/r does not inhibit coronaviruses in vitro and displayed no clinical or virological activity in a randomized clinical trial, it is uncertain why it is still being used clinically or studied.___
 
 ### 3CLpro Investigational Inhibitors
 Most coronavirus PI drug discovery efforts have targeted 3CLpro: it shares a conserved substrate recognition pocket with the 3C like protease (3Cpro) of human picornaviruses, which have already been successfully targeted with antiviral agents. In addition, 3CLpro can also be purified in large quantities and readily crystallized[^10.1016/j.virusres.2007.02.015].
@@ -382,7 +382,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1126/sciadv.aav4580]: Xia S, Yan L, et int., Lu L. "A pan-coronavirus fusion inhibitor targeting the HR1 domain of human coronavirus spike" _Sci Adv_, 2019. [10.1126/sciadv.aav4580](https://doi.org/10.1126/sciadv.aav4580)
 [^10.1101/2020.03.26.009233]: Zhu Y, Yu D, et int., He Y. "Design of potent membrane fusion inhibitors against SARS-CoV-2, an emerging coronavirus with high fusogenic activity" _bioRxiv_, 2020. [10.1101/2020.03.26.009233](https://doi.org/10.1101/2020.03.26.009233)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -505,11 +505,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODgwNDQzLDQwOTc0NDU4NiwyMDI4Nj
-YwMjY2LDI5MjM1NzIxNiwxNDU5Mjk5MTk0LDk3NDQwNjkxMiwt
-MzkzMjYwNzkzLC02NTMzMTQ1MSwtNDU5NDUyMTE4LC0xMzcyMT
-AxMzQ2LDE5MDUyMjYwODAsMjg3MDM4ODkyLDE1ODQ1NDI3MDAs
-LTI1MTE5OTk0OSwtMTA1OTU3MTExMiwtMjAzMzA3NzQzOCwtMT
-Q5MDE0Mjk5NSwtMTE3ODE2NDAxNywtMTI0NTU1MzI0NCwyMDYz
-NTY5NTQ1XX0=
+eyJoaXN0b3J5IjpbLTExNjk4MDI0MTcsLTY4ODgwNDQzLDQwOT
+c0NDU4NiwyMDI4NjYwMjY2LDI5MjM1NzIxNiwxNDU5Mjk5MTk0
+LDk3NDQwNjkxMiwtMzkzMjYwNzkzLC02NTMzMTQ1MSwtNDU5ND
+UyMTE4LC0xMzcyMTAxMzQ2LDE5MDUyMjYwODAsMjg3MDM4ODky
+LDE1ODQ1NDI3MDAsLTI1MTE5OTk0OSwtMTA1OTU3MTExMiwtMj
+AzMzA3NzQzOCwtMTQ5MDE0Mjk5NSwtMTE3ODE2NDAxNywtMTI0
+NTU1MzI0NF19
 -->
