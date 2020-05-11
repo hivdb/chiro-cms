@@ -79,7 +79,7 @@ Most importantly, an open-label randomized controlled trial of lopinavir/r vs. s
 
 Among the remaining HIV-1 PIs, only nelfinavir and atazanavir appeared to have any coronavirus inhibitory activity. Nelfinavir had EC<sub>50</sub>s of 0.05 and 3.5 μM for SARS-CoV[^10.1177/095632020601700505][^10.1016/j.bbrc.2004.04.083], 1.1 μM and no activity for SARS-CoV-2[^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983], and 3.6 μM[^10.1101/2020.02.25.965582] and no activity for MERS-CoV[^10.1016/j.jinf.2013.09.029]. Its IC<sub>50</sub> against SARS-CoV 3CLpro in a biochemical experiment was 46 μM[^10.1016/j.bbrc.2005.05.095]. Atazanavir had had EC<sub>50</sub>s against SARS-CoV-2 between 0.2 and 2 μM in one study[^10.1101/2020.04.04.020925] but as high as 9.4 and >50 μM in three other studies[^10.1101/2020.03.20.999730][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983]. Darunavir has displayed poor activity against SARS-CoV-2[^10.1101/2020.04.03.20052548][^10.1101/2020.04.06.026476].
 
-___Conclusion: As of May 1, 2020, there were 16 recruiting trials and 7 planned trials containing a lopinavir/r treatment arm. However, considering that lopinavir/r does not inhibit coronaviruses in vitro and displayed no clinical or virological activity in a randomized clinical trial, it is uncertain why it is still being used clinically or studied.___
+___Conclusion: As of May 1, 2020, there were 17 recruiting trials and 8 planned trials containing a lopinavir/r treatment arm. However, considering that lopinavir/r does not inhibit coronaviruses in vitro and displayd no clinical or virological activity in a randomized clinical trial, it is uncertain why it is still being used clinically or studied.___
 
 ### 3CLpro Investigational Inhibitors
 Most coronavirus PI drug discovery efforts have targeted 3CLpro: it shares a conserved substrate recognition pocket with the 3C like protease (3Cpro) of human picornaviruses, which have already been successfully targeted with antiviral agents. In addition, 3CLpro can also be purified in large quantities and readily crystallized[^10.1016/j.virusres.2007.02.015].
@@ -505,11 +505,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjk4MDI0MTcsLTY4ODgwNDQzLDQwOT
-c0NDU4NiwyMDI4NjYwMjY2LDI5MjM1NzIxNiwxNDU5Mjk5MTk0
-LDk3NDQwNjkxMiwtMzkzMjYwNzkzLC02NTMzMTQ1MSwtNDU5ND
-UyMTE4LC0xMzcyMTAxMzQ2LDE5MDUyMjYwODAsMjg3MDM4ODky
-LDE1ODQ1NDI3MDAsLTI1MTE5OTk0OSwtMTA1OTU3MTExMiwtMj
-AzMzA3NzQzOCwtMTQ5MDE0Mjk5NSwtMTE3ODE2NDAxNywtMTI0
-NTU1MzI0NF19
+eyJoaXN0b3J5IjpbLTE4NDQ5NDYxNjgsLTExNjk4MDI0MTcsLT
+Y4ODgwNDQzLDQwOTc0NDU4NiwyMDI4NjYwMjY2LDI5MjM1NzIx
+NiwxNDU5Mjk5MTk0LDk3NDQwNjkxMiwtMzkzMjYwNzkzLC02NT
+MzMTQ1MSwtNDU5NDUyMTE4LC0xMzcyMTAxMzQ2LDE5MDUyMjYw
+ODAsMjg3MDM4ODkyLDE1ODQ1NDI3MDAsLTI1MTE5OTk0OSwtMT
+A1OTU3MTExMiwtMjAzMzA3NzQzOCwtMTQ5MDE0Mjk5NSwtMTE3
+ODE2NDAxN119
 -->
