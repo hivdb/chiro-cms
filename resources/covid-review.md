@@ -205,7 +205,7 @@ Chloroquine and hydroxychloroquine have demonstrated modest inhibitory activity 
 
 The pharmacokinetics of chloroquine and hydroxychloroquine are also complicated. Based on plasma levels alone, they appear to barely achieve sufficient inhibitory levels in patients receiving standard dosing regimens[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1101/2020.04.16.20068379]. Mefloquine is an antimalarial that also weakly inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1128/AAC.03036-14][^10.1101/2020.03.20.999730] but achieves higher plasma levels than chloroquine or hydroxychloroquine[^10.1101/2020.04.16.20068379].
 
-The clinical relevance of the modest _in vitro_ activity of chloroquine and hydroxychloroquine has not been borne out by published clinical studies including four small open labeled randomized controlled trials and at least eight typically larger observational studies. In addition, to the lack of sufficiently powered controlled trials, the interpretation of the clinical studies has been complicated by several factors: (i) hydroxychloroquine (which has been used more commonly than chloroquine) is administered with azithromycin in some studies but not others. The rationale for using azithromycin has been used to possibly augment hydroxychloroquine's antiviral activity and/or to prevent bacterial pneumonia. However, each drug is associated with a risk of electrocardiographic QT prolongation and therefore potential  (ii) 
+The clinical relevance of the modest _in vitro_ activity of chloroquine and hydroxychloroquine has not been borne out by published clinical studies including four small open labeled randomized controlled trials and at least eight typically larger observational studies. In addition, to the lack of sufficiently powered controlled trials, the interpretation of the clinical studies has been complicated by several factors. First, hydroxychloroquine (which has been used more commonly than chloroquine) is administered with azithromycin in some studies but not others. The rationale for using azithromycin has been used to possibly augment hydroxychloroquine's antiviral activity and/or to prevent bacterial pneumonia. However, each drug is associated with a risk of electrocardiographic QT prolongation and therefore potential fatal arrhythmias.   
  In a large observational study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine, the risk of the primary endpoint, death or intubation, was compared with those patients not receiving hydroxychloroquine.  Overall 346 (25.1%) patients met the composite primary endpoint. In an unadjusted analysis that did not take into account disease severity, the risk of the primary endpoint was higher among those receiving hydroxychloroquine (HR:2.37; 95% CI: 0.82-1.32), although in the primary multivariable analysis, there was no difference between the two groups (HR:1.04;95%: 0.82-1.32)[^10.1056/NEJMoa2012410].
 
 There have been 10 additional smaller studies including four open label randomized controlled studies and six observational studies. One observational study of 80 patients with mild SARS-CoV-2 infections that has come under criticism for bias reported more rapid virus clearance compared to historical controls in patients receiving hydroxychloroquine plus azithromycin[^10.1016/j.tmaid.2020.101663].  Of the remaining nine small studies, one observational study of 48 critically ill patients reported that hydroxychloroquine reduced mortality through its anti-inflammatory effects as evidenced by reduced IL6 levels[^10.1101/2020.04.27.20073379] and another study of persons with mild-to-moderate disease reported that viral clearance was more rapid among patients receiving chloroquine compared with historical controls[^10.1101/2020.04.26.20081059]. None of the seven remaining studies, including the four controlled trials, reported benefit from the use of hydroxychloroquine or chloroquine; several highlighted the risk of ventricular arrythmias[^10.1101/2020.04.10.20060699][^10.1016/j.medmal.2020.03.006][^10.1101/2020.03.22.20040758][^10.1001/jamanetworkopen.2020.8857][^10.1101/2020.04.10.20060558][^10.3785/j.issn.1008-9292.2020.03.03]. A detailed critical review of a number of these chloroquine/hydroxychloroquine studies has been published[^10.1093/ofid/ofaa130].
@@ -506,11 +506,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTc4NzkzMiw5MzQzMDY4NzAsLTExNj
-k4MDI0MTcsLTY4ODgwNDQzLDQwOTc0NDU4NiwyMDI4NjYwMjY2
-LDI5MjM1NzIxNiwxNDU5Mjk5MTk0LDk3NDQwNjkxMiwtMzkzMj
-YwNzkzLC02NTMzMTQ1MSwtNDU5NDUyMTE4LC0xMzcyMTAxMzQ2
-LDE5MDUyMjYwODAsMjg3MDM4ODkyLDE1ODQ1NDI3MDAsLTI1MT
-E5OTk0OSwtMTA1OTU3MTExMiwtMjAzMzA3NzQzOCwtMTQ5MDE0
-Mjk5NV19
+eyJoaXN0b3J5IjpbLTIxMDQ4NTQ1NjEsOTM0MzA2ODcwLC0xMT
+Y5ODAyNDE3LC02ODg4MDQ0Myw0MDk3NDQ1ODYsMjAyODY2MDI2
+NiwyOTIzNTcyMTYsMTQ1OTI5OTE5NCw5NzQ0MDY5MTIsLTM5Mz
+I2MDc5MywtNjUzMzE0NTEsLTQ1OTQ1MjExOCwtMTM3MjEwMTM0
+NiwxOTA1MjI2MDgwLDI4NzAzODg5MiwxNTg0NTQyNzAwLC0yNT
+ExOTk5NDksLTEwNTk1NzExMTIsLTIwMzMwNzc0MzgsLTE0OTAx
+NDI5OTVdfQ==
 -->
