@@ -19,15 +19,15 @@
 
 - ClinicalTrials.gov:
   [https://clinicaltrials.gov/ct2/results?cond=COVID-19](https://clinicaltrials.gov/ct2/results?cond=COVID-19)
+- INATO:
+[https://inato.com/](https://inato.com/)
+- Global Coronavirus COVID-19 Clinical Trial Tracker
+[https://www.covid-trials.org/](https://www.covid-trials.org/)
 - STAT's Drug and Vaccine Tracker:
   [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
 - Milken Institute Drug and Vaccine Tracker:
  https://docs.google.com/spreadsheets/d/16DbPhF9OD0MHHtCR12of6yUcfiRzP_-XGkynEbnipds/edit#gid=2075421071](https://docs.google.com/spreadsheets/d/16DbPhF9OD0MHHtCR12of6yUcfiRzP_-XGkynEbnipds/edit#gid=2075421071)
-- INATO:
-[https://inato.com/](https://inato.com/)
-C
-[https://www.covid-trials.org/](https://www.covid-trials.org/)
-
+ 
 ### Sequences
 - Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
 - GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
@@ -70,9 +70,9 @@ C
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjgxNTc3MDIsLTEzMDI1NTEyNzgsMT
-gzNzk4NjgyNiwtNzg3Mzk0OTY5LC0xNDI1MDU5NTUxLDEwMzQ1
-MTI5NzksLTEwMzQzNjk5NDksLTEzOTc2MzQ3MTksLTEzNjQzND
-g2OTcsLTQ4NTMzNTk5LC0xMTYzOTMzMTU2LC02ODQ4OTk1MDcs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM4MTk1NjM0MSwtMTMwMjU1MTI3OCwxOD
+M3OTg2ODI2LC03ODczOTQ5NjksLTE0MjUwNTk1NTEsMTAzNDUx
+Mjk3OSwtMTAzNDM2OTk0OSwtMTM5NzYzNDcxOSwtMTM2NDM0OD
+Y5NywtNDg1MzM1OTksLTExNjM5MzMxNTYsLTY4NDg5OTUwNyw3
+MzA5OTgxMTZdfQ==
 -->
