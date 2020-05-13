@@ -25,6 +25,8 @@
  https://docs.google.com/spreadsheets/d/16DbPhF9OD0MHHtCR12of6yUcfiRzP_-XGkynEbnipds/edit#gid=2075421071](https://docs.google.com/spreadsheets/d/16DbPhF9OD0MHHtCR12of6yUcfiRzP_-XGkynEbnipds/edit#gid=2075421071)
 - INATO:
 [https://inato.com/](https://inato.com/)
+C
+[https://www.covid-trials.org/](https://www.covid-trials.org/)
 
 ### Sequences
 - Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
@@ -68,9 +70,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI1NTEyNzgsMTgzNzk4NjgyNiwtNz
-g3Mzk0OTY5LC0xNDI1MDU5NTUxLDEwMzQ1MTI5NzksLTEwMzQz
-Njk5NDksLTEzOTc2MzQ3MTksLTEzNjQzNDg2OTcsLTQ4NTMzNT
-k5LC0xMTYzOTMzMTU2LC02ODQ4OTk1MDcsNzMwOTk4MTE2XX0=
-
+eyJoaXN0b3J5IjpbLTE2MjgxNTc3MDIsLTEzMDI1NTEyNzgsMT
+gzNzk4NjgyNiwtNzg3Mzk0OTY5LC0xNDI1MDU5NTUxLDEwMzQ1
+MTI5NzksLTEwMzQzNjk5NDksLTEzOTc2MzQ3MTksLTEzNjQzND
+g2OTcsLTQ4NTMzNTk5LC0xMTYzOTMzMTU2LC02ODQ4OTk1MDcs
+NzMwOTk4MTE2XX0=
 -->
