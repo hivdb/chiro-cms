@@ -111,9 +111,13 @@ This section describes interventions that interfere with virus entry including c
 ### Convalescent Plasma
 There are few randomized controlled studies of convalescent plasma for the treatment of severe viral infections. A systematic review and meta-analysis of seven studies of convalescent plasma or immunoglobulin for SARS-CoV was considered inconclusive with respect to potential benefits and harm[^10.1371/journal.pmed.0030343]. A larger, more recent meta-analysis of 32 studies of severe SARS-CoV and influenza, reported that administration of convalescent plasma early after symptom onset showed a statistically significant 75% reduction in the pooled odds of mortality compared with placebo or no therapy[^10.1093/infdis/jiu396]. Moreover, the administration of polyclonal immune globulin preparations have been shown to prevent hepatitis B and rabies infections.
 
+Two risk-benefit analyses and several experts have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 outweighs the small risk of undetected bloodborne infection and allergic reaction[^10.1016/j.tmrv.2020.04.001][^10.1172/JCI138745][^10.1007/s11684-017-0596-6][^10.1172/JCI138003]. According to FDA guidance, the administration of SARS-CoV-2 convalescent plasma must be under an investigational new drug application. Donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. The recommend neutralizing antibody titers should be 1:160 (minimum >1:80). However, because neutralizing antibodies cannot readily be detected in most clinical settings, this requirement is waived provided blood samples can be stored for possible eventual testing. 
+
 There are currently three published observational studies of convalescent plasma in 19 severely ill SARS-CoV-2 patients, including 13 who were receiving mechanical ventilation[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039]. All patients received 200 ml plasma, and in 15 cases, the donor had neutralizing antibody titers >1:640. All 19 patients survived and appeared to experience clinical improvement within three days.
 
-Two risk-benefit analyses and several experts have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 outweighs the small risk of undetected bloodborne infection and allergic reaction[^10.1016/j.tmrv.2020.04.001][^10.1172/JCI138745][^10.1007/s11684-017-0596-6][^10.1172/JCI138003]. According to FDA guidance, the administration of SARS-CoV-2 convalescent plasma must be under an investigational new drug application. Donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. The recommend neutralizing antibody titers should be 1:160 (minimum >1:80). However, because neutralizing antibodies cannot readily be detected in most clinical settings, this requirement is waived provided blood samples can be stored for possible eventual testing. A recent publication, however, has reported that the magnitude of SARS-CoV-2 receptor-binding domain antibodies correlates strongly with viral neutralization[^10.1101/2020.05.03.20084442].
+
+
+A recent publication, however, has reported that the magnitude of SARS-CoV-2 receptor-binding domain antibodies correlates strongly with viral neutralization[^10.1101/2020.05.03.20084442].
 
 As of April 24, 2020, there are 32 ongoing (n=12) or planned (n=20) clinical trials containing at least one arm in which recipients will receive convalescent plasma. There are also two planned studies of convalescent immunoglobulin and one of pooled immunoglobulin from healthy donors. One ongoing study is randomizing patients to convalescent plasma or to standard donor plasma and another planned study aims to randomize high-risk exposed persons to convalescent plasma or placebo. The remaining studies are not placebo controlled. Despite its potential for toxicity and lot-to-lot variation in functional neutralizing antibodies, convalescent plasma and potentially other forms of immunoglobulin therapy will likely remain a treatment option particularly in patients with severe disease.
 
@@ -387,7 +391,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1126/sciadv.aav4580]: Xia S, Yan L, et int., Lu L. "A pan-coronavirus fusion inhibitor targeting the HR1 domain of human coronavirus spike" _Sci Adv_, 2019. [10.1126/sciadv.aav4580](https://doi.org/10.1126/sciadv.aav4580)
 [^10.1101/2020.03.26.009233]: Zhu Y, Yu D, et int., He Y. "Design of potent membrane fusion inhibitors against SARS-CoV-2, an emerging coronavirus with high fusogenic activity" _bioRxiv_, 2020. [10.1101/2020.03.26.009233](https://doi.org/10.1101/2020.03.26.009233)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -510,11 +514,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MTA5NzIzLDE1NTA3OTQzMDYsNzQ4OT
-g2MDIsLTEyMzU2ODIwNDAsLTE2MzU3MzUxLC0xMzQ0MzY0ODA4
-LDEyNzI2MjA1LDkzNDMwNjg3MCwtMTE2OTgwMjQxNywtNjg4OD
-A0NDMsNDA5NzQ0NTg2LDIwMjg2NjAyNjYsMjkyMzU3MjE2LDE0
-NTkyOTkxOTQsOTc0NDA2OTEyLC0zOTMyNjA3OTMsLTY1MzMxND
-UxLC00NTk0NTIxMTgsLTEzNzIxMDEzNDYsMTkwNTIyNjA4MF19
+eyJoaXN0b3J5IjpbNjM3MDE2MTIwLDQ2OTEwOTcyMywxNTUwNz
+k0MzA2LDc0ODk4NjAyLC0xMjM1NjgyMDQwLC0xNjM1NzM1MSwt
+MTM0NDM2NDgwOCwxMjcyNjIwNSw5MzQzMDY4NzAsLTExNjk4MD
+I0MTcsLTY4ODgwNDQzLDQwOTc0NDU4NiwyMDI4NjYwMjY2LDI5
+MjM1NzIxNiwxNDU5Mjk5MTk0LDk3NDQwNjkxMiwtMzkzMjYwNz
+kzLC02NTMzMTQ1MSwtNDU5NDUyMTE4LC0xMzcyMTAxMzQ2XX0=
 
 -->
