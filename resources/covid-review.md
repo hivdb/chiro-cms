@@ -130,9 +130,9 @@ The most frequently studied MERS-CoV MAbs include (i) Mersmab1[^10.1128/JVI.0043
 
 Most SARS-CoV MAbs do not inhibit SARS-CoV-2[^10.1016/j.cell.2020.03.045]. For example, three well-characterized SARS-CoV RBD-directed MAbs (S230, m396, and 80R) do not bind SARS-CoV-2 RBD at a concentration of 1μM[^10.1126/science.abb2507]. However, two MAbs that appear to bind at more conserved S1 sites that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including CR3022 and S309[^10.1080/22221751.2020.1729069][^10.1126/science.abb7269][^10.1101/2020.05.05.079202][^10.1101/2020.04.07.023903]. S309 has been shown to recognize an epitope distinct from the S1 receptor binding motif. It is also synergistic with MAbs that bind to the S1 receptor binding motif[^10.1101/2020.04.07.023903].  
 
-Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. Although few published studies have described the isolation and characterization of SARS-CoV-2 neutralizing MAbs, this is rapidly changing. Many MAbs that recognize SARS-CoV-2 will be identified and will be characterized by both their breadth of activity against diverse strains and by their ability to prevent and treat infection in animal models[^10.1016/j.it.2020.03.007]. Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs were cloned from these patients (311mab–31B5, 311mab−32D4) and shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7]. Brouwer et al. also cloned several highly potent ACE2-competing MAbs from convalescent patients including one which blocked infection at a concentration of 7 ng/ml (COVA-ID-2-15)[^10.1101/2020.05.12.088716].  Under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5].
+Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. Although few published studies have described the isolation and characterization of SARS-CoV-2 neutralizing MAbs, this is rapidly changing. Many MAbs that recognize SARS-CoV-2 will be identified and will be characterized by both their breadth of activity against diverse strains and by their ability to prevent and treat infection in animal models[^10.1016/j.it.2020.03.007]. Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs cloned from these patients (311mab–31B5, 311mab−32D4) were shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7]. Brouwer et al. also cloned several highly potent ACE2-competing MAbs from convalescent patients including one which blocked infection at a concentration of 7 ng/ml (COVA-ID-2-15)[^10.1101/2020.05.12.088716].  Under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5].
 
-___Conclusions: The preliminary data suggesting that convalescent plasma is useful for treating SARS-CoV-2 and the ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections.  ___
+___Conclusions: The preliminary data suggesting that convalescent plasma is useful for treating SARS-CoV-2 and the ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections.  Under an extremely accelerated schedule, it appears likely that several MAbs will be available for phase I studies this summer.___
 
 ### Fusion Inhibitors
 Peptides that mimic HR1 or HR2 can block virus-cell fusion by preventing the interaction between HR1 and HR2. The HIV-1 fusion inhibitor enfuvirtide is a 36 amino acid peptide that acts by this mechanism to inhibit HIV-1 replication following subcutaneous administration[^10.1056/NEJMoa035026][^10.1056/NEJMoa035211]. Several peptide mimics of coronavirus HR2 have been shown to be potently inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 _in vitro_[^10.1016/j.bbrc.2004.05.046][^10.1038/ncomms4067][^10.1093/infdis/jiv325][^10.1021/acs.jmedchem.8b00890][^10.1126/sciadv.aav4580][^10.1101/2020.03.26.009233]. The interest in coronavirus fusion inhibitors derives in part because S2 is more conserved than S1 among different coronavirus species. For example, the S1 proteins of SARS-CoV and SARS-CoV-2 differ by more than 10%. However, their HR1 domains differ by 7% and their HR2 domains are essentially identical[^10.1038/s41423-020-0374-2].
@@ -507,11 +507,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NzM0MjkwMCwxNTUwNzk0MzA2LDc0OD
-k4NjAyLC0xMjM1NjgyMDQwLC0xNjM1NzM1MSwtMTM0NDM2NDgw
-OCwxMjcyNjIwNSw5MzQzMDY4NzAsLTExNjk4MDI0MTcsLTY4OD
-gwNDQzLDQwOTc0NDU4NiwyMDI4NjYwMjY2LDI5MjM1NzIxNiwx
-NDU5Mjk5MTk0LDk3NDQwNjkxMiwtMzkzMjYwNzkzLC02NTMzMT
-Q1MSwtNDU5NDUyMTE4LC0xMzcyMTAxMzQ2LDE5MDUyMjYwODBd
-fQ==
+eyJoaXN0b3J5IjpbNDY5MTA5NzIzLDE1NTA3OTQzMDYsNzQ4OT
+g2MDIsLTEyMzU2ODIwNDAsLTE2MzU3MzUxLC0xMzQ0MzY0ODA4
+LDEyNzI2MjA1LDkzNDMwNjg3MCwtMTE2OTgwMjQxNywtNjg4OD
+A0NDMsNDA5NzQ0NTg2LDIwMjg2NjAyNjYsMjkyMzU3MjE2LDE0
+NTkyOTkxOTQsOTc0NDA2OTEyLC0zOTMyNjA3OTMsLTY1MzMxND
+UxLC00NTk0NTIxMTgsLTEzNzIxMDEzNDYsMTkwNTIyNjA4MF19
+
 -->
