@@ -113,7 +113,7 @@ There are few randomized controlled studies of convalescent plasma for the treat
 
 Two risk-benefit analyses and several experts have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 outweighs the small risk of undetected bloodborne infection and allergic reaction[^10.1016/j.tmrv.2020.04.001][^10.1172/JCI138745][^10.1007/s11684-017-0596-6][^10.1172/JCI138003]. According to FDA guidance, the administration of SARS-CoV-2 convalescent plasma must be under an investigational new drug application. Donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. The recommend neutralizing antibody titers should be 1:160 (minimum >1:80). However, because neutralizing antibodies cannot readily be detected in most clinical settings, this requirement is waived provided blood samples can be stored for possible eventual testing. 
 
-Joyner et. al. reported the results of a safety review of the first 5,000 patients receiving convalescent plasma in the U.S. between April 3 and May 11 under the FDA Expanded Access Program[^10.1101/2020.05.12.20099879]. 81
+Joyner et. al. reported the results of a safety review of the first 5,000 patients receiving convalescent plasma in the U.S. between April 3 and May 11 under the FDA Expanded Access Program[^10.1101/2020.05.12.20099879]. 81% were classified as having severe or life-threatening diseases and 19% were judged to be at high risk of progressing to severe or life-threatening disease. 66% were in the ICU. 36 (0.72
 
 There are currently three published observational studies of convalescent plasma in 19 severely ill SARS-CoV-2 patients, including 13 who were receiving mechanical ventilation[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039]. All patients received 200 ml plasma, and in 15 cases, the donor had neutralizing antibody titers >1:640. All 19 patients survived and appeared to experience clinical improvement within three days.
 
@@ -516,11 +516,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzAxMDgyNzEsNDY5MTA5NzIzLDE1NT
-A3OTQzMDYsNzQ4OTg2MDIsLTEyMzU2ODIwNDAsLTE2MzU3MzUx
-LC0xMzQ0MzY0ODA4LDEyNzI2MjA1LDkzNDMwNjg3MCwtMTE2OT
-gwMjQxNywtNjg4ODA0NDMsNDA5NzQ0NTg2LDIwMjg2NjAyNjYs
-MjkyMzU3MjE2LDE0NTkyOTkxOTQsOTc0NDA2OTEyLC0zOTMyNj
-A3OTMsLTY1MzMxNDUxLC00NTk0NTIxMTgsLTEzNzIxMDEzNDZd
-fQ==
+eyJoaXN0b3J5IjpbOTE4NTIxNjg0LDQ2OTEwOTcyMywxNTUwNz
+k0MzA2LDc0ODk4NjAyLC0xMjM1NjgyMDQwLC0xNjM1NzM1MSwt
+MTM0NDM2NDgwOCwxMjcyNjIwNSw5MzQzMDY4NzAsLTExNjk4MD
+I0MTcsLTY4ODgwNDQzLDQwOTc0NDU4NiwyMDI4NjYwMjY2LDI5
+MjM1NzIxNiwxNDU5Mjk5MTk0LDk3NDQwNjkxMiwtMzkzMjYwNz
+kzLC02NTMzMTQ1MSwtNDU5NDUyMTE4LC0xMzcyMTAxMzQ2XX0=
+
 -->
