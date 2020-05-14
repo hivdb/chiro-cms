@@ -115,8 +115,7 @@ Two risk-benefit analyses and several experts have argued that the possible larg
 
 Joyner et. al. reported the results of a safety review of the first 5,000 patients receiving convalescent plasma in the U.S. between April 3 and May 11 under the FDA Expanded Access Program[^10.1101/2020.05.12.20099879]. 81% were classified as having severe or life-threatening diseases and 19% were judged to be at high risk of progressing to severe or life-threatening disease. 66% were in the ICU. 36 (0.72%) had a serious adverse event in the first four hours after transfusion including 25 events considered related to transfusion, including death in 4, transfusion-associated lung injury in 11, circulatory overload in 7, and allergic reaction in 3. Overall, the seven day mortality was 14.9%[^10.1101/2020.05.12.20099879].
 
-There are now at least five additional published observational studies of convalescent plasma in 50 generally severely ill SARS-CoV-2 patients, including 31 who were receiving mechanical ventilation[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1101/2020.05.08.20095471][^10.1093/infdis/jiaa228]. All patients received between 200 to 600 ml plasma, and in three of the studies of 19 patients the donors were generally documented to have neutralizing antibody titers >1:640[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039]. Each of the 19 patients in these initial reports survived and appeared to experience clinical improvement within three days. However, five of six mechanically ventilated patients in another study died[^10.1093/infdis/jiaa228]. In the fifth and largest study of 25 patients in Houston reported by Salazar et al., the overall response to therapy also appeared to be favorable in that only one patient died despite 12 being mechanically ventilated[^10.1101/2020.05.08.20095471]. 
-
+There are now at least five additional published observational studies of convalescent plasma in 50 generally severely ill SARS-CoV-2 patients, including 31 who were receiving mechanical ventilation[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1101/2020.05.08.20095471][^10.1093/infdis/jiaa228]. All patients received between 200 to 600 ml plasma, and in three studies of 19 patients the donors were generally documented to have neutralizing antibody titers >1:640[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039]. Each of the 19 patients in these initial reports survived and appeared to experience clinical improvement within three days. However, five of six mechanically ventilated patients in another study died[^10.1093/infdis/jiaa228]. In the fifth and largest study, of 25 patients in Houston, the overall response to therapy also appeared to be favorable in that only one patient died despite 12 being mechanically ventilated[^10.1101/2020.05.08.20095471]. 
 
 
 A recent publication, however, has reported that the magnitude of SARS-CoV-2 receptor-binding domain antibodies correlates strongly with viral neutralization[^10.1101/2020.05.03.20084442].
@@ -516,7 +515,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxOTg2Nzg4LDE3MTc1MTE1OSwtNzQzND
+eyJoaXN0b3J5IjpbMTc3MDkyOTgwLDE3MTc1MTE1OSwtNzQzND
 IzNzMsNDY5MTA5NzIzLDE1NTA3OTQzMDYsNzQ4OTg2MDIsLTEy
 MzU2ODIwNDAsLTE2MzU3MzUxLC0xMzQ0MzY0ODA4LDEyNzI2Mj
 A1LDkzNDMwNjg3MCwtMTE2OTgwMjQxNywtNjg4ODA0NDMsNDA5
