@@ -111,14 +111,11 @@ This section describes interventions that interfere with virus entry including c
 ### Convalescent Plasma
 There are few randomized controlled studies of convalescent plasma for the treatment of severe viral infections. A systematic review and meta-analysis of seven studies of convalescent plasma or immunoglobulin for SARS-CoV was considered inconclusive with respect to potential benefits and harm[^10.1371/journal.pmed.0030343]. A larger, more recent meta-analysis of 32 studies of severe SARS-CoV and influenza, reported that administration of convalescent plasma early after symptom onset showed a statistically significant 75% reduction in the pooled odds of mortality compared with placebo or no therapy[^10.1093/infdis/jiu396]. Moreover, the administration of polyclonal immune globulin preparations have been shown to prevent hepatitis B and rabies infections.
 
-Two risk-benefit analyses and several experts have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 outweighs the small risk of undetected bloodborne infection and allergic reaction[^10.1016/j.tmrv.2020.04.001][^10.1172/JCI138745][^10.1007/s11684-017-0596-6][^10.1172/JCI138003]. According to FDA guidance, the administration of SARS-CoV-2 convalescent plasma must be under an investigational new drug application. Donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. The recommend neutralizing antibody titers should be 1:160 (minimum >1:80). However, because neutralizing antibodies cannot readily be detected in most clinical settings, this requirement is waived provided blood samples can be stored for possible eventual testing. A recent publication, however, has reported that the magnitude of SARS-CoV-2 receptor-binding domain antibodies correlates strongly with viral neutralization[^10.1101/2020.05.03.20084442].
+Two risk-benefit analyses and several experts have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 outweighs the small risk of undetected bloodborne infection and allergic reaction[^10.1016/j.tmrv.2020.04.001][^10.1172/JCI138745][^10.1007/s11684-017-0596-6][^10.1172/JCI138003]. According to FDA guidance, the administration of SARS-CoV-2 convalescent plasma must be under an investigational new drug application. Donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. The recommend neutralizing antibody titers should be 1:160 (minimum >1:80). However, because neutralizing antibodies cannot readily be detected in most clinical settings, this requirement is waived provided blood samples can be stored for possible eventual testing. Additionally, the magnitude of SARS-CoV-2 receptor-binding domain antibodies appears to correlate strongly with viral neutralization[^10.1101/2020.05.03.20084442].
 
 Joyner et. al. reported the results of a safety review of the first 5,000 patients receiving convalescent plasma in the U.S. between April 3 and May 11 under the FDA Expanded Access Program[^10.1101/2020.05.12.20099879]. 81% were classified as having severe or life-threatening diseases and 19% were judged to be at high risk of progressing to severe or life-threatening disease. 66% were in the ICU. 36 (0.72%) had a serious adverse event in the first four hours after transfusion including 25 events considered related to transfusion, including death in 4, transfusion-associated lung injury in 11, circulatory overload in 7, and allergic reaction in 3. Overall, the seven day mortality was 14.9%[^10.1101/2020.05.12.20099879].
 
 There are now at least five additional published observational studies of convalescent plasma in 50 generally severely ill SARS-CoV-2 patients, including 31 who were receiving mechanical ventilation[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1101/2020.05.08.20095471][^10.1093/infdis/jiaa228]. All patients received between 200 to 600 ml plasma, and in three studies of 19 patients the donors were generally documented to have neutralizing antibody titers >1:640[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039]. Each of the 19 patients in these initial reports survived and appeared to experience clinical improvement within three days. However, five of six mechanically ventilated patients in another study died[^10.1093/infdis/jiaa228]. In the fifth and largest study, of 25 patients in Houston, the overall response to therapy also appeared to be favorable in that only one patient died despite 12 being mechanically ventilated[^10.1101/2020.05.08.20095471]. 
-
-
-
 
 As of April 24, 2020, there are 32 ongoing (n=12) or planned (n=20) clinical trials containing at least one arm in which recipients will receive convalescent plasma. There are also two planned studies of convalescent immunoglobulin and one of pooled immunoglobulin from healthy donors. One ongoing study is randomizing patients to convalescent plasma or to standard donor plasma and another planned study aims to randomize high-risk exposed persons to convalescent plasma or placebo. The remaining studies are not placebo controlled. Despite its potential for toxicity and lot-to-lot variation in functional neutralizing antibodies, convalescent plasma and potentially other forms of immunoglobulin therapy will likely remain a treatment option particularly in patients with severe disease.
 
@@ -515,10 +512,10 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4ODg0NDY4LDE3MTc1MTE1OSwtNzQzND
-IzNzMsNDY5MTA5NzIzLDE1NTA3OTQzMDYsNzQ4OTg2MDIsLTEy
-MzU2ODIwNDAsLTE2MzU3MzUxLC0xMzQ0MzY0ODA4LDEyNzI2Mj
-A1LDkzNDMwNjg3MCwtMTE2OTgwMjQxNywtNjg4ODA0NDMsNDA5
-NzQ0NTg2LDIwMjg2NjAyNjYsMjkyMzU3MjE2LDE0NTkyOTkxOT
-QsOTc0NDA2OTEyLC0zOTMyNjA3OTMsLTY1MzMxNDUxXX0=
+eyJoaXN0b3J5IjpbMTEzMzU5MDg4MCwxNzE3NTExNTksLTc0Mz
+QyMzczLDQ2OTEwOTcyMywxNTUwNzk0MzA2LDc0ODk4NjAyLC0x
+MjM1NjgyMDQwLC0xNjM1NzM1MSwtMTM0NDM2NDgwOCwxMjcyNj
+IwNSw5MzQzMDY4NzAsLTExNjk4MDI0MTcsLTY4ODgwNDQzLDQw
+OTc0NDU4NiwyMDI4NjYwMjY2LDI5MjM1NzIxNiwxNDU5Mjk5MT
+k0LDk3NDQwNjkxMiwtMzkzMjYwNzkzLC02NTMzMTQ1MV19
 -->
