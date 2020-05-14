@@ -128,7 +128,7 @@ The most frequently studied SARS-CoV MAbs include (i) 80R, identified from a non
 
 The most frequently studied MERS-CoV MAbs include (i) Mersmab1[^10.1128/JVI.00433-14]; (ii) m336, which was shown to protect rabbits from MERS-CoV[^10.1128/JVI.00912-14][^10.1093/infdis/jiw080] and which has been engineered into a novel antibody-peptide bispecific fusion protein[^10.3390/antib8040053]; (iii) REGN3048 and REGN3051 which have been highly potent _in vitro_ and in a mouse infection model (Pascal et al. 2015)[^10.1073/pnas.1510830112]; (iv) 3B11, which was isolated from a non-immune human Ab-phage library and characterized through the generation of escape variants[^10.1073/pnas.1402074111]; and (v) 4C and D12, two mouse neutralizing MAbs that have been co-crystallized with the MERS-CoV RBD[^10.1080/14728222.2017.1271415].
 
-Most SARS-CoV MAbs do not inhibit SARS-CoV-2[^10.1016/j.cell.2020.03.045]. For example, three well-characterized SARS-CoV RBD-directed MAbs (S230, m396, and 80R) did not bind SARS-CoV-2 RBD at a concentration of 1μM[^10.1126/science.abb2507]. However, two MAbs that appear to bind at more conserved S1 sites and that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including CR3022 [^10.1080/22221751.2020.1729069][^10.1126/science.abb7269][^10.1101/2020.05.05.079202].Likewise, another highly potent cross-reactive MAb S309 is described below
+Most SARS-CoV MAbs do not inhibit SARS-CoV-2[^10.1016/j.cell.2020.03.045]. For example, three well-characterized SARS-CoV RBD-directed MAbs (S230, m396, and 80R) did not bind SARS-CoV-2 RBD at a concentration of 1μM[^10.1126/science.abb2507]. However, two MAbs that appear to bind at more conserved S1 sites that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including CR3022 [^10.1080/22221751.2020.1729069][^10.1126/science.abb7269][^10.1101/2020.05.05.079202] and the more recently described Likewise, another highly potent cross-reactive MAb S309 is described below
 
 Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. Although few published studies have described the isolation and characterization of SARS-CoV-2 neutralizing MAbs, this will soon be rapidly changing. Many MAbs that recognize SARS-CoV-2 will be identified and will be characterized by both their breadth of activity against diverse strains and by their ability to prevent and treat infection in animal models[^10.1016/j.it.2020.03.007]. Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs were cloned from these patients (311mab–31B5, 311mab−32D4) and shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7]. Brouwer et al. also cloned several highly potent ACE2-competing MAbs from convalescent patients including one which blocked infection at a concentration of 7 ng/ml (COVA-ID-2-15)[^10.1101/2020.05.12.088716]. Pinto et al identified several highly potent non-ACE2-competing MAbs including S309 from a convalescent SARS-CoV patient which potently inhibited both SARS-CoV and SARS-CoV[^10.1101/2020.04.07.023903]. S309 recognizes an epitope distinct from the S1 receptor binding motif and is synergistic with MAbs that bind to the S1 receptor binding motif[^10.1101/2020.04.07.023903].  Under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5].
 
@@ -507,11 +507,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NzIxODksMTU1MDc5NDMwNiw3NDg5OD
-YwMiwtMTIzNTY4MjA0MCwtMTYzNTczNTEsLTEzNDQzNjQ4MDgs
-MTI3MjYyMDUsOTM0MzA2ODcwLC0xMTY5ODAyNDE3LC02ODg4MD
-Q0Myw0MDk3NDQ1ODYsMjAyODY2MDI2NiwyOTIzNTcyMTYsMTQ1
-OTI5OTE5NCw5NzQ0MDY5MTIsLTM5MzI2MDc5MywtNjUzMzE0NT
-EsLTQ1OTQ1MjExOCwtMTM3MjEwMTM0NiwxOTA1MjI2MDgwXX0=
-
+eyJoaXN0b3J5IjpbMTk3OTg0MzIxOCwxNTUwNzk0MzA2LDc0OD
+k4NjAyLC0xMjM1NjgyMDQwLC0xNjM1NzM1MSwtMTM0NDM2NDgw
+OCwxMjcyNjIwNSw5MzQzMDY4NzAsLTExNjk4MDI0MTcsLTY4OD
+gwNDQzLDQwOTc0NDU4NiwyMDI4NjYwMjY2LDI5MjM1NzIxNiwx
+NDU5Mjk5MTk0LDk3NDQwNjkxMiwtMzkzMjYwNzkzLC02NTMzMT
+Q1MSwtNDU5NDUyMTE4LC0xMzcyMTAxMzQ2LDE5MDUyMjYwODBd
+fQ==
 -->
