@@ -130,7 +130,7 @@ The most frequently studied MERS-CoV MAbs include (i) Mersmab1[^10.1128/JVI.0043
 
 Most SARS-CoV MAbs do not inhibit SARS-CoV-2 although their titers can be quite variable[^10.1016/j.cell.2020.03.045]. For example, three well-characterized SARS-CoV RBD-directed MAbs (S230, m396, and 80R) did not bind SARS-CoV-2 RBD at a concentration of 1μM[^10.1126/science.abb2507]. However, CR3022 was found to potently bind SARS-CoV-2 RBD at a site that is highly conserved and that does not compete with ACE2 binding and to potentially inhibit ACE2 binding allosterically[^10.1080/22221751.2020.1729069][^10.1126/science.abb7269][^10.1101/2020.05.05.079202]. In addition, in a recent analysis of antibody-containing supernatants from 51 SARS-CoV S hybridomas from immunized transgenic mice, one antibody called 47D11 was uniquely found to inhibit both SARS-CoV and SARS-CoV-2 in an entry assay and in cell culture with EC<sub>50</sub> values of 0.2 and 0.6 g/ml. 47D11 like CR3022 may act through an unknown mechanism different from receptor binding.
 
-Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. Although few published studies have described the isolation and characterization of SARS-CoV-2 neutralizing MAbs, this will soon be rapidly changing. Many MAbs that recognize SARS-CoV-2 will be identified and will be characterized by both their breadth of activity against diverse strains and by their ability to prevent and treat infection in animal models[^10.1016/j.it.2020.03.007]. In one recent study of 26 persons recovering from SARS-CoV-2 infection, most developed IgG S1-specific antibodies[^10.1038/s41423-020-0426-7]. Three of these persons had antibodies that could block S1-ACE2 binding. Two MAbs were cloned from these patients (311mab–31B5, 311mab−32D4) and shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7]. Several biotechnology companies have announced plans to begin trials of MAbs this summer.
+Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. Although few published studies have described the isolation and characterization of SARS-CoV-2 neutralizing MAbs, this will soon be rapidly changing. Many MAbs that recognize SARS-CoV-2 will be identified and will be characterized by both their breadth of activity against diverse strains and by their ability to prevent and treat infection in animal models[^10.1016/j.it.2020.03.007]. In one study of 26 persons recovering from SARS-CoV-2 infection, most developed IgG S1-specific antibodies[^10.1038/s41423-020-0426-7]. Three of these persons had antibodies that could block S1-ACE2 binding. Two MAbs were cloned from these patients (311mab–31B5, 311mab−32D4) and shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7]. Several biotechnology companies have announced plans to begin trials of MAbs this summer.
 
 ___Conclusions: The preliminary data suggesting that convalescent plasma is useful for treating SARS-CoV-2 and the ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. Although coronaviruses do not appear to mutate at high rates compared to other RNA viruses, a combination of at least two non-cross-reactive monoclonal antibodies will nonetheless be required to prevent the rapid emergence of resistant variants.___
 
@@ -507,11 +507,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjYyMDUsOTM0MzA2ODcwLC0xMTY5OD
-AyNDE3LC02ODg4MDQ0Myw0MDk3NDQ1ODYsMjAyODY2MDI2Niwy
-OTIzNTcyMTYsMTQ1OTI5OTE5NCw5NzQ0MDY5MTIsLTM5MzI2MD
-c5MywtNjUzMzE0NTEsLTQ1OTQ1MjExOCwtMTM3MjEwMTM0Niwx
-OTA1MjI2MDgwLDI4NzAzODg5MiwxNTg0NTQyNzAwLC0yNTExOT
-k5NDksLTEwNTk1NzExMTIsLTIwMzMwNzc0MzgsLTE0OTAxNDI5
-OTVdfQ==
+eyJoaXN0b3J5IjpbLTEzNDQzNjQ4MDgsMTI3MjYyMDUsOTM0Mz
+A2ODcwLC0xMTY5ODAyNDE3LC02ODg4MDQ0Myw0MDk3NDQ1ODYs
+MjAyODY2MDI2NiwyOTIzNTcyMTYsMTQ1OTI5OTE5NCw5NzQ0MD
+Y5MTIsLTM5MzI2MDc5MywtNjUzMzE0NTEsLTQ1OTQ1MjExOCwt
+MTM3MjEwMTM0NiwxOTA1MjI2MDgwLDI4NzAzODg5MiwxNTg0NT
+QyNzAwLC0yNTExOTk5NDksLTEwNTk1NzExMTIsLTIwMzMwNzc0
+MzhdfQ==
 -->
