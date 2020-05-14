@@ -117,7 +117,7 @@ Joyner et. al. reported the results of a safety review of the first 5,000 patien
 
 There are now at least five additional published observational studies of convalescent plasma in 50 generally severely ill SARS-CoV-2 patients, including 31 who were receiving mechanical ventilation[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1101/2020.05.08.20095471][^10.1093/infdis/jiaa228]. All patients received between 200 to 600 ml plasma, and in three studies of 19 patients the donors were generally documented to have neutralizing antibody titers >1:640[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039]. Each of the 19 patients in these initial reports survived and appeared to experience clinical improvement within three days. However, five of six mechanically ventilated patients in another study died[^10.1093/infdis/jiaa228]. In the fifth and largest study, of 25 patients in Houston, the overall response to therapy also appeared to be favorable in that only one patient died despite 12 being mechanically ventilated[^10.1101/2020.05.08.20095471]. 
 
-As of May 7, 2020, there are 46 ongoing (n=18) or planned (n=28) clinical trials containing at least one arm in which recipients will receive convalescent plasma. There are also planned studies of convalescent immunoglobulin and one of pooled immunoglobulin from healthy donors. One ongoing study is randomizing patients to convalescent plasma or to standard donor plasma and another planned study aims to randomize high-risk exposed persons to convalescent plasma or placebo. The remaining studies are not placebo controlled. Despite its potential for toxicity and lot-to-lot variation in functional neutralizing antibodies, convalescent plasma and potentially other forms of immunoglobulin therapy will likely remain a treatment option particularly in patients with severe disease.
+As of May 7, 2020, there are 46 ongoing (n=18) or planned (n=28) clinical trials containing at least one arm in which recipients will receive convalescent plasma. There are also two planned studies of convalescent immunoglobulin and one of pooled immunoglobulin from healthy donors. One ongoing study is randomizing patients to convalescent plasma or to standard donor plasma and another planned study aims to randomize high-risk exposed persons to convalescent plasma or placebo. The remaining studies are not placebo controlled. Convalescent plasma and potentially other forms of immunoglobulin therapy will likely remain a treatment option particularly in patients with severe disease.
 
 ___Conclusions: Although the use of convalescent plasma is not supported by controlled trials, substantial observational data supports this intervention. The usefulness of convalescent plasma also suggests that neutralizing monoclonal antibodies should be useful at treating what at least clinically is primarily a respiratory tract infection. However, human plasma is a complex mixture of compounds. Therefore, the two trials in which convalescent plasma will be compared to standard donor plasma (one for treatment and the other for prevention) would be  informative. An alternative approach to assessing the effectiveness of convalescent plasma would be a retrospective study to determine if there is a correlation between neutralizing antibody titer and clinical response.___
 
@@ -512,10 +512,10 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTYwODU5MywxNzE3NTExNTksLTc0Mz
-QyMzczLDQ2OTEwOTcyMywxNTUwNzk0MzA2LDc0ODk4NjAyLC0x
-MjM1NjgyMDQwLC0xNjM1NzM1MSwtMTM0NDM2NDgwOCwxMjcyNj
-IwNSw5MzQzMDY4NzAsLTExNjk4MDI0MTcsLTY4ODgwNDQzLDQw
-OTc0NDU4NiwyMDI4NjYwMjY2LDI5MjM1NzIxNiwxNDU5Mjk5MT
-k0LDk3NDQwNjkxMiwtMzkzMjYwNzkzLC02NTMzMTQ1MV19
+eyJoaXN0b3J5IjpbODczNTAyNDU4LDE3MTc1MTE1OSwtNzQzND
+IzNzMsNDY5MTA5NzIzLDE1NTA3OTQzMDYsNzQ4OTg2MDIsLTEy
+MzU2ODIwNDAsLTE2MzU3MzUxLC0xMzQ0MzY0ODA4LDEyNzI2Mj
+A1LDkzNDMwNjg3MCwtMTE2OTgwMjQxNywtNjg4ODA0NDMsNDA5
+NzQ0NTg2LDIwMjg2NjAyNjYsMjkyMzU3MjE2LDE0NTkyOTkxOT
+QsOTc0NDA2OTEyLC0zOTMyNjA3OTMsLTY1MzMxNDUxXX0=
 -->
