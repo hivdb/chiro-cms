@@ -48,7 +48,8 @@
 ### Protein Structures
 - PDB:
 [https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true](https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true)
-
+- Coronavirus 3D Structure Database:
+[https://cov3d.ibbr.umd.edu/](https://cov3d.ibbr.umd.edu/)
 - [https://coronavirus3d.org/](https://coronavirus3d.org/)
 
 ### Chemical structures
@@ -70,9 +71,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTk1NjM0MSwtMTMwMjU1MTI3OCwxOD
-M3OTg2ODI2LC03ODczOTQ5NjksLTE0MjUwNTk1NTEsMTAzNDUx
-Mjk3OSwtMTAzNDM2OTk0OSwtMTM5NzYzNDcxOSwtMTM2NDM0OD
-Y5NywtNDg1MzM1OTksLTExNjM5MzMxNTYsLTY4NDg5OTUwNyw3
-MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTE2MDM3ODEzLDEzODE5NTYzNDEsLTEzMD
+I1NTEyNzgsMTgzNzk4NjgyNiwtNzg3Mzk0OTY5LC0xNDI1MDU5
+NTUxLDEwMzQ1MTI5NzksLTEwMzQzNjk5NDksLTEzOTc2MzQ3MT
+ksLTEzNjQzNDg2OTcsLTQ4NTMzNTk5LC0xMTYzOTMzMTU2LC02
+ODQ4OTk1MDcsNzMwOTk4MTE2XX0=
 -->
