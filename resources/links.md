@@ -50,7 +50,8 @@
 [https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true](https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true)
 - Coronavirus 3D Structure Database:
 [https://cov3d.ibbr.umd.edu/](https://cov3d.ibbr.umd.edu/)
-- [https://coronavirus3d.org/](https://coronavirus3d.org/)
+- Another structure database (under development): 
+[https://coronavirus3d.org/]
 
 ### Chemical structures
 - American Chemical Society resources:
@@ -71,7 +72,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDM3ODEzLDEzODE5NTYzNDEsLTEzMD
+eyJoaXN0b3J5IjpbODk3MzcyODA1LDEzODE5NTYzNDEsLTEzMD
 I1NTEyNzgsMTgzNzk4NjgyNiwtNzg3Mzk0OTY5LC0xNDI1MDU5
 NTUxLDEwMzQ1MTI5NzksLTEwMzQzNjk5NDksLTEzOTc2MzQ3MT
 ksLTEzNjQzNDg2OTcsLTQ4NTMzNTk5LC0xMTYzOTMzMTU2LC02
