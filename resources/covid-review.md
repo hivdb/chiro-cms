@@ -238,7 +238,7 @@ __Interferon inducers__: Several compounds appear to inhibit viruses by inducing
 
 __Cyclophilin inhibitors__: Cyclosporin and FK-506 are two immunosuppressive drugs commonly used to prevent rejection in transplant recipients. The discovery of these two compounds led to the identification of the family of cyclophilin host proteins that bind to cyclosporin and FK-506. Cyclophilins are involved in a wide range of cellular processes including protein folding, protein trafficking, and cell signaling. They have also been shown to play a role in the replication of several viruses including HIV-1, hepatitis C, influenza, and several coronavirus species[^10.1016/j.virol.2018.06.011]. Alisporivir is a non-immunosuppressive cyclophilin inhibitor which has been studied primarily for the treatment of hepatitis C virus. However, these compounds have generally had just weak inhibitory effects of on coronavirus replication and alisporivir did not protect mice from SARS-CoV infection[^10.1099/vir.0.034983-0][^10.1099/vir.0.052910-0][^10.1016/j.virusres.2016.11.011][^10.1016/j.virusres.2014.02.010][^10.1016/j.antiviral.2018.05.007][^10.1101/2020.03.20.999730].
 
-__Ivermectin__: Ivermectin is one of an increasing number of additional compounds found to inhibit SARS-CoV-2 without a defined mechanism of action. It has a reported EC<sub>50</sub> of about 2 μM[^10.1016/j.antiviral.2020.104787]. Although its plasma levels following oral administration appear too low to inhibit coronavirus replication, its levels in lung tissue appear likely to be higher [^10.4269/ajtmh.20-0271][^10.1101/2020.04.16.20068379]. Ivermectin is included in four clinical trials – each containing multiple treatment arms.
+__Ivermectin__: Ivermectin is one of an increasing number of additional compounds found to inhibit SARS-CoV-2 without a defined mechanism of action. It has a reported EC<sub>50</sub> of about 2 μM[^10.1016/j.antiviral.2020.104787]. However, its plasma levels following oral administration appear too low to inhibit coronavirus replication [^10.4269/ajtmh.20-0271][^10.1101/2020.04.16.20068379][^10.1101/2020.04.21.20073262]. Ivermectin is included in four clinical trials – each containing multiple treatment arms.
 
 <!-- start of references details -->
 
@@ -514,11 +514,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjkzOTk1OSwtMTI0MzE2NTk5NCw4Nz
-M1MDI0NTgsMTcxNzUxMTU5LC03NDM0MjM3Myw0NjkxMDk3MjMs
-MTU1MDc5NDMwNiw3NDg5ODYwMiwtMTIzNTY4MjA0MCwtMTYzNT
-czNTEsLTEzNDQzNjQ4MDgsMTI3MjYyMDUsOTM0MzA2ODcwLC0x
-MTY5ODAyNDE3LC02ODg4MDQ0Myw0MDk3NDQ1ODYsMjAyODY2MD
-I2NiwyOTIzNTcyMTYsMTQ1OTI5OTE5NCw5NzQ0MDY5MTJdfQ==
+eyJoaXN0b3J5IjpbMTIzNDU4MjIxMiwtNDcyOTM5OTU5LC0xMj
+QzMTY1OTk0LDg3MzUwMjQ1OCwxNzE3NTExNTksLTc0MzQyMzcz
+LDQ2OTEwOTcyMywxNTUwNzk0MzA2LDc0ODk4NjAyLC0xMjM1Nj
+gyMDQwLC0xNjM1NzM1MSwtMTM0NDM2NDgwOCwxMjcyNjIwNSw5
+MzQzMDY4NzAsLTExNjk4MDI0MTcsLTY4ODgwNDQzLDQwOTc0ND
+U4NiwyMDI4NjYwMjY2LDI5MjM1NzIxNiwxNDU5Mjk5MTk0XX0=
 
 -->
