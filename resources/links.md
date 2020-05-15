@@ -1,8 +1,8 @@
 
 ### Literature
 - [https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
-- [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
-- # COVID-19 Research Articles Downloadable Database
+- National Library of Medicine LitCovid Database: [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
+- # COVID-19 Research Articles Downloadable Database:
 [https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html](https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html)
 
 
@@ -74,10 +74,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2MjkwMTk3LDgzNzI0NTk5NSw4OTczNz
-I4MDUsMTM4MTk1NjM0MSwtMTMwMjU1MTI3OCwxODM3OTg2ODI2
-LC03ODczOTQ5NjksLTE0MjUwNTk1NTEsMTAzNDUxMjk3OSwtMT
-AzNDM2OTk0OSwtMTM5NzYzNDcxOSwtMTM2NDM0ODY5NywtNDg1
-MzM1OTksLTExNjM5MzMxNTYsLTY4NDg5OTUwNyw3MzA5OTgxMT
-ZdfQ==
+eyJoaXN0b3J5IjpbMTUwMjg4OTAyMiw2NDYyOTAxOTcsODM3Mj
+Q1OTk1LDg5NzM3MjgwNSwxMzgxOTU2MzQxLC0xMzAyNTUxMjc4
+LDE4Mzc5ODY4MjYsLTc4NzM5NDk2OSwtMTQyNTA1OTU1MSwxMD
+M0NTEyOTc5LC0xMDM0MzY5OTQ5LC0xMzk3NjM0NzE5LC0xMzY0
+MzQ4Njk3LC00ODUzMzU5OSwtMTE2MzkzMzE1NiwtNjg0ODk5NT
+A3LDczMDk5ODExNl19
 -->
