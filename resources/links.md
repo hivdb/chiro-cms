@@ -1,6 +1,7 @@
 
 ### Literature
-- [https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
+- COVID-19 Open Research Dataset
+[https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
 - National Library of Medicine LitCovid Database: [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
 - # COVID-19 Research Articles Downloadable Database:
 [https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html](https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html)
@@ -20,7 +21,7 @@
 
 ### Clinical trials
 
-- ClinicalTrials.gov:
+- ClinicalTrials site:
   [https://clinicaltrials.gov/ct2/results?cond=COVID-19](https://clinicaltrials.gov/ct2/results?cond=COVID-19)
 - INATO:
 [https://inato.com/](https://inato.com/)
@@ -28,8 +29,7 @@
 [https://www.covid-trials.org/](https://www.covid-trials.org/)
 - STAT's Drug and Vaccine Tracker:
   [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
-- Milken Institute Drug and Vaccine Tracker:
- https://docs.google.com/spreadsheets/d/16DbPhF9OD0MHHtCR12of6yUcfiRzP_-XGkynEbnipds/edit#gid=2075421071](https://docs.google.com/spreadsheets/d/16DbPhF9OD0MHHtCR12of6yUcfiRzP_-XGkynEbnipds/edit#gid=2075421071)
+
  
 ### Sequences
 - Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
@@ -74,7 +74,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjg4OTAyMiw2NDYyOTAxOTcsODM3Mj
+eyJoaXN0b3J5IjpbLTg1MTcxNDI1NCw2NDYyOTAxOTcsODM3Mj
 Q1OTk1LDg5NzM3MjgwNSwxMzgxOTU2MzQxLC0xMzAyNTUxMjc4
 LDE4Mzc5ODY4MjYsLTc4NzM5NDk2OSwtMTQyNTA1OTU1MSwxMD
 M0NTEyOTc5LC0xMDM0MzY5OTQ5LC0xMzk3NjM0NzE5LC0xMzY0
