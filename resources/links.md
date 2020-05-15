@@ -13,22 +13,20 @@
 
 
 ### Organizations
-
 - NIH:
   [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
 - FDA:
   [https://reaganudall.org/covid-19](https://reaganudall.org/covid-19)
 
 ### Clinical trials
-
-- ClinicalTrials site:
+- National Library of Medicine ClinicalTrials.gov:
   [https://clinicaltrials.gov/ct2/results?cond=COVID-19](https://clinicaltrials.gov/ct2/results?cond=COVID-19)
 - INATO:
 [https://inato.com/](https://inato.com/)
 - Global Coronavirus COVID-19 Clinical Trial Tracker
 [https://www.covid-trials.org/](https://www.covid-trials.org/)
 - STAT's Drug and Vaccine Tracker:
-  [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
+ [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
 
  
 ### Sequences
@@ -74,10 +72,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTcxNDI1NCw2NDYyOTAxOTcsODM3Mj
-Q1OTk1LDg5NzM3MjgwNSwxMzgxOTU2MzQxLC0xMzAyNTUxMjc4
-LDE4Mzc5ODY4MjYsLTc4NzM5NDk2OSwtMTQyNTA1OTU1MSwxMD
-M0NTEyOTc5LC0xMDM0MzY5OTQ5LC0xMzk3NjM0NzE5LC0xMzY0
-MzQ4Njk3LC00ODUzMzU5OSwtMTE2MzkzMzE1NiwtNjg0ODk5NT
-A3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMzY5MTI0OTAzLDY0NjI5MDE5Nyw4MzcyND
+U5OTUsODk3MzcyODA1LDEzODE5NTYzNDEsLTEzMDI1NTEyNzgs
+MTgzNzk4NjgyNiwtNzg3Mzk0OTY5LC0xNDI1MDU5NTUxLDEwMz
+Q1MTI5NzksLTEwMzQzNjk5NDksLTEzOTc2MzQ3MTksLTEzNjQz
+NDg2OTcsLTQ4NTMzNTk5LC0xMTYzOTMzMTU2LC02ODQ4OTk1MD
+csNzMwOTk4MTE2XX0=
 -->
