@@ -3,7 +3,7 @@
 - COVID-19 Open Research Dataset
 [https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
 - National Library of Medicine LitCovid Database: [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
-- # COVID-19 Research Articles Downloadable Database:
+- COVID-19 Research Articles Downloadable Database:
 [https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html](https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html)
 
 
@@ -14,7 +14,8 @@
 
 ### Organizations
 - NIH:
-  [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
+
+
 - FDA:
   [https://reaganudall.org/covid-19](https://reaganudall.org/covid-19)
 
@@ -72,10 +73,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MTI0OTAzLDY0NjI5MDE5Nyw4MzcyND
-U5OTUsODk3MzcyODA1LDEzODE5NTYzNDEsLTEzMDI1NTEyNzgs
-MTgzNzk4NjgyNiwtNzg3Mzk0OTY5LC0xNDI1MDU5NTUxLDEwMz
-Q1MTI5NzksLTEwMzQzNjk5NDksLTEzOTc2MzQ3MTksLTEzNjQz
-NDg2OTcsLTQ4NTMzNTk5LC0xMTYzOTMzMTU2LC02ODQ4OTk1MD
-csNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExMTUwNjQyNzksNjQ2MjkwMTk3LDgzNz
+I0NTk5NSw4OTczNzI4MDUsMTM4MTk1NjM0MSwtMTMwMjU1MTI3
+OCwxODM3OTg2ODI2LC03ODczOTQ5NjksLTE0MjUwNTk1NTEsMT
+AzNDUxMjk3OSwtMTAzNDM2OTk0OSwtMTM5NzYzNDcxOSwtMTM2
+NDM0ODY5NywtNDg1MzM1OTksLTExNjM5MzMxNTYsLTY4NDg5OT
+UwNyw3MzA5OTgxMTZdfQ==
 -->
