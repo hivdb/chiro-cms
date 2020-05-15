@@ -132,7 +132,9 @@ The most frequently studied MERS-CoV MAbs include (i) Mersmab1[^10.1128/JVI.0043
 
 Most SARS-CoV MAbs do not inhibit SARS-CoV-2[^10.1016/j.cell.2020.03.045]. For example, three well-characterized SARS-CoV RBD-directed MAbs (S230, m396, and 80R) do not bind SARS-CoV-2 RBD at a concentration of 1μM[^10.1126/science.abb2507]. However, two MAbs that appear to bind at more conserved S1 sites that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including CR3022 and S309[^10.1080/22221751.2020.1729069][^10.1126/science.abb7269][^10.1101/2020.05.05.079202][^10.1101/2020.04.07.023903]. S309 has been shown to recognize an epitope distinct from the S1 receptor binding motif. It is also synergistic with MAbs that bind to the S1 receptor binding motif[^10.1101/2020.04.07.023903].
 
-Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection. Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs cloned from these patients (311mab–31B5, 311mab−32D4) were shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7]. Brouwer et. al. also cloned several highly potent ACE2-competing MAbs from convalescent patients including one which blocked infection at a concentration of 7 ng/ml (COVA-ID-2-15)[^10.1101/2020.05.12.088716].  Under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5]. Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patients and grouped them into five classes according to their binding patterns and virus cross-reactivity[^10.1101/2020.05.12.091462]. Class I bind to stabilized trimeric prefusion S ectodomain (S2P<sub>ecto</sub>) and to the RBD; SARS-CoV-2 specific. Class II bind to the same sites but cross-react with SARS-CoV. Class III bind to S2P<sub>ecto</sub> and to the S N-terminal domain and are SARS-CoV-2 specific. Class IV bind only to S2P<sub>ecto</sub> and are SARS-CoV-2 specific. Class V bind only to  S2P<sub>ecto</sub> and cross-react with SARS-CoV[^10.1101/2020.05.12.091462].
+Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection. With improvements in MAb technology, it has beUnder an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5].
+
+Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs cloned from these patients (311mab–31B5, 311mab−32D4) were shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7]. Brouwer et. al. cloned several highly potent ACE2-competing MAbs from convalescent patients including one which blocked infection at a concentration of 7 ng/ml (COVA-ID-2-15)[^10.1101/2020.05.12.088716].  Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patients and grouped them into five classes according to their binding patterns and virus cross-reactivity[^10.1101/2020.05.12.091462]. Class I bind to stabilized trimeric prefusion S ectodomain (S2P<sub>ecto</sub>) and to the RBD; SARS-CoV-2 specific. Class II bind to the same sites but cross-react with SARS-CoV. Class III bind to S2P<sub>ecto</sub> and to the S N-terminal domain and are SARS-CoV-2 specific. Class IV bind only to S2P<sub>ecto</sub> and are SARS-CoV-2 specific. Class V bind only to  S2P<sub>ecto</sub> and cross-react with SARS-CoV[^10.1101/2020.05.12.091462].
 
 ___Conclusions: The preliminary data suggesting that convalescent plasma is useful for treating SARS-CoV-2 and the ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections.  Under an extremely accelerated schedule, it appears likely that several MAbs will be available for phase I studies this summer.___
 
@@ -512,11 +514,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.4269/ajtmh.20-0271]: Chaccour C, Hammann F, et int., Rabinovich NR. "Ivermectin and Novel Coronavirus Disease (COVID-19): Keeping Rigor in Times of Urgency" _Am. J. Trop. Med. Hyg._, 2020. [10.4269/ajtmh.20-0271](https://doi.org/10.4269/ajtmh.20-0271)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzkyNzcxOSwtMTI0MzE2NTk5NCw4Nz
-M1MDI0NTgsMTcxNzUxMTU5LC03NDM0MjM3Myw0NjkxMDk3MjMs
-MTU1MDc5NDMwNiw3NDg5ODYwMiwtMTIzNTY4MjA0MCwtMTYzNT
-czNTEsLTEzNDQzNjQ4MDgsMTI3MjYyMDUsOTM0MzA2ODcwLC0x
-MTY5ODAyNDE3LC02ODg4MDQ0Myw0MDk3NDQ1ODYsMjAyODY2MD
-I2NiwyOTIzNTcyMTYsMTQ1OTI5OTE5NCw5NzQ0MDY5MTJdfQ==
+eyJoaXN0b3J5IjpbLTExOTcwMzM2NjAsLTEyNDMxNjU5OTQsOD
+czNTAyNDU4LDE3MTc1MTE1OSwtNzQzNDIzNzMsNDY5MTA5NzIz
+LDE1NTA3OTQzMDYsNzQ4OTg2MDIsLTEyMzU2ODIwNDAsLTE2Mz
+U3MzUxLC0xMzQ0MzY0ODA4LDEyNzI2MjA1LDkzNDMwNjg3MCwt
+MTE2OTgwMjQxNywtNjg4ODA0NDMsNDA5NzQ0NTg2LDIwMjg2Nj
+AyNjYsMjkyMzU3MjE2LDE0NTkyOTkxOTQsOTc0NDA2OTEyXX0=
 
 -->
