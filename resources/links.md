@@ -14,10 +14,10 @@
 
 ### Organizations
 - NIH:
-
-
+[https://www.nih.gov/health-information/coronavirus](https://www.nih.gov/health-information/coronavirus)
 - FDA:
   [https://reaganudall.org/covid-19](https://reaganudall.org/covid-19)
+
 
 ### Clinical trials
 - National Library of Medicine ClinicalTrials.gov:
@@ -73,10 +73,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTUwNjQyNzksNjQ2MjkwMTk3LDgzNz
-I0NTk5NSw4OTczNzI4MDUsMTM4MTk1NjM0MSwtMTMwMjU1MTI3
-OCwxODM3OTg2ODI2LC03ODczOTQ5NjksLTE0MjUwNTk1NTEsMT
-AzNDUxMjk3OSwtMTAzNDM2OTk0OSwtMTM5NzYzNDcxOSwtMTM2
-NDM0ODY5NywtNDg1MzM1OTksLTExNjM5MzMxNTYsLTY4NDg5OT
-UwNyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTU5MjIyMzE4NCw2NDYyOTAxOTcsODM3Mj
+Q1OTk1LDg5NzM3MjgwNSwxMzgxOTU2MzQxLC0xMzAyNTUxMjc4
+LDE4Mzc5ODY4MjYsLTc4NzM5NDk2OSwtMTQyNTA1OTU1MSwxMD
+M0NTEyOTc5LC0xMDM0MzY5OTQ5LC0xMzk3NjM0NzE5LC0xMzY0
+MzQ4Njk3LC00ODUzMzU5OSwtMTE2MzkzMzE1NiwtNjg0ODk5NT
+A3LDczMDk5ODExNl19
 -->
