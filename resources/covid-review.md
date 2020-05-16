@@ -211,7 +211,7 @@ The pharmacokinetics of chloroquine and hydroxychloroquine are also complicated.
 
 In a large observational study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine, the risk of the primary endpoint, death or intubation, was compared with those patients not receiving hydroxychloroquine.  Overall 346 (25.1%) patients met the composite primary endpoint. In an unadjusted analysis that did not take into account disease severity, the risk of the primary endpoint was higher among those receiving hydroxychloroquine (HR:2.37; 95% CI: 0.82-1.32), although in the primary multivariable analysis, there was no difference between the two groups (HR:1.04;95%: 0.82-1.32)[^10.1056/NEJMoa2012410].
 
-There have been at least 10 additional smaller studies including four open label randomized controlled studies and six observational studies. Three observational studies were favorable to hydroxychloroquine  including one of 80 patients with mild SARS-CoV-2 infections reported more rapid virus clearance compared to historical controls in patients receiving hydroxychloroquine plus azithromycin[^10.1016/j.tmaid.2020.101663] and another of 48 critically ill patients reported that hydroxychloroquine reduced mortality possibly through its anti-inflammatory effects as evidenced by reduced IL6 levels[^10.1101/2020.04.27.20073379] and another study of persons with mild-to-moderate disease reported that viral clearance was more rapid among patients receiving chloroquine compared with historical controls[^10.1101/2020.04.26.20081059]. None of the seven remaining studies, including the four controlled trials, reported benefit from the use of hydroxychloroquine or chloroquine; several highlighted the risk of ventricular arrythmias[^10.1101/2020.04.10.20060699][^10.1016/j.medmal.2020.03.006][^10.1101/2020.03.22.20040758][^10.1001/jamanetworkopen.2020.8857][^10.1101/2020.04.10.20060558][^10.3785/j.issn.1008-9292.2020.03.03]. A detailed critical review of several of these studies has been published[^10.1093/ofid/ofaa130].
+There have been at least 10 additional smaller studies including four open label randomized controlled studies and six observational studies. Three observational studies were favorable to hydroxychloroquine: (i) a study of 80 patients with mild SARS-CoV-2 infections reported more rapid virus clearance compared to historical controls in patients receiving hydroxychloroquine plus azithromycin[^10.1016/j.tmaid.2020.101663], one of  and another of 48 critically ill patients reported that hydroxychloroquine reduced mortality possibly through its anti-inflammatory effects as evidenced by reduced IL6 levels[^10.1101/2020.04.27.20073379] and another study of persons with mild-to-moderate disease reported that viral clearance was more rapid among patients receiving chloroquine compared with historical controls[^10.1101/2020.04.26.20081059]. None of the seven remaining studies, including the four controlled trials, reported benefit from the use of hydroxychloroquine or chloroquine; several highlighted the risk of ventricular arrythmias[^10.1101/2020.04.10.20060699][^10.1016/j.medmal.2020.03.006][^10.1101/2020.03.22.20040758][^10.1001/jamanetworkopen.2020.8857][^10.1101/2020.04.10.20060558][^10.3785/j.issn.1008-9292.2020.03.03]. A detailed critical review of several of these studies has been published[^10.1093/ofid/ofaa130].
 
 In addition, to the lack of sufficiently powered controlled trials, the interpretation of the clinical studies published to date has been complicated by several factors. First, hydroxychloroquine (which has been used more commonly than chloroquine) is administered with azithromycin in some studies but not others. The rationale for using azithromycin has been stated to possibly augment hydroxychloroquine's antiviral activity and/or to prevent bacterial pneumonia. However, each drug is associated with a risk of electrocardiographic QT prolongation and therefore potential fatal arrhythmias. Second, in most observational studies, those patients with more severe disease have been more likely to receive hydroxychloroquine (with or without azithromycin). Third, several studies have come from one research group whose objectivity and research methods have been questioned. The patients in their studies have typically had much milder disease than those reported in most other studies, which included primarily hospitalized patients. Based on the totality of evidence published so far, there does not appear to be strong evidence for the clinical efficacy of hydroxychloroquine or chloroquine.
 
@@ -519,11 +519,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODg2MjU4NCwxNzUyNjAwMjY5LDI0Mz
-kyNTkyMCwxMjM0NTgyMjEyLC00NzI5Mzk5NTksLTEyNDMxNjU5
-OTQsODczNTAyNDU4LDE3MTc1MTE1OSwtNzQzNDIzNzMsNDY5MT
-A5NzIzLDE1NTA3OTQzMDYsNzQ4OTg2MDIsLTEyMzU2ODIwNDAs
-LTE2MzU3MzUxLC0xMzQ0MzY0ODA4LDEyNzI2MjA1LDkzNDMwNj
-g3MCwtMTE2OTgwMjQxNywtNjg4ODA0NDMsNDA5NzQ0NTg2XX0=
+eyJoaXN0b3J5IjpbMTQzMzU5MTMyLDE3NTI2MDAyNjksMjQzOT
+I1OTIwLDEyMzQ1ODIyMTIsLTQ3MjkzOTk1OSwtMTI0MzE2NTk5
+NCw4NzM1MDI0NTgsMTcxNzUxMTU5LC03NDM0MjM3Myw0NjkxMD
+k3MjMsMTU1MDc5NDMwNiw3NDg5ODYwMiwtMTIzNTY4MjA0MCwt
+MTYzNTczNTEsLTEzNDQzNjQ4MDgsMTI3MjYyMDUsOTM0MzA2OD
+cwLC0xMTY5ODAyNDE3LC02ODg4MDQ0Myw0MDk3NDQ1ODZdfQ==
 
 -->
