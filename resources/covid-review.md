@@ -161,11 +161,11 @@ Defensins are small antimicrobial peptides produced by white blood cells and epi
 
 Griffithsin, a 121 amino acid protein isolated from red algae, inhibits SARS-CoV and MERS-CoV _in vitro_ with EC<sub>50</sub>s in the range of 0.01 to 0.1 μM without inducing cell toxicity. It also inhibits SARS-CoV when delivered intranasally in a mouse model[^10.1128/JVI.02322-09][^10.1016/j.antiviral.2016.07.011]. Time course experiments suggest that griffithsin interferes with virus cell entry[^10.1016/j.antiviral.2016.07.011]. While ELISA assays showed that it binds directly to the S glycoprotein, it does not inhibit S binding to ACE2; this suggests that griffithsin may prevent the subsequent steps needed for viral entry[^10.1128/JVI.02322-09].
 
-VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.chembiol.2004.07.013] but does not appear to have been studied further. HTCC polymers are cationacally modified chitosan derivatives that appear to inhibit cell entry of multiple coronaviruses including MERS-CoV and SARS-CoV[^10.1101/2020.03.29.014183][^10.1371/journal.pone.0156552]. SARS-RBD-Hexapeptide is weak inhibitor of SARS-CoV viral entry, but nonetheless suggests the possibility that small peptides may be able to inhibit the interaction of coronavirus S1 receptor binding domains and ACE2[^10.1016/j.antiviral.2011.12.012]. Emodin is a plant derivative that appears to weakly inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.antiviral.2006.04.014], although it has also been proposed to inhibit SARS-CoV release from cells[^10.1016/j.antiviral.2011.02.008].
+VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.chembiol.2004.07.013] but does not appear to have been studied further. HTCC polymers are cationically modified chitosan derivatives that appear to inhibit cell entry of multiple coronaviruses including MERS-CoV and SARS-CoV[^10.1101/2020.03.29.014183][^10.1371/journal.pone.0156552]. SARS-RBD-hexapeptide is weak inhibitor of SARS-CoV viral entry, but nonetheless suggests the possibility that small peptides may be able to inhibit the interaction of coronavirus S1 receptor binding domains and ACE2[^10.1016/j.antiviral.2011.12.012]. Emodin is a plant derivative that appears to weakly inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.antiviral.2006.04.014], although it has also been proposed to inhibit SARS-CoV release from cells[^10.1016/j.antiviral.2011.02.008].
 
 One group has reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and weakly interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761].
 
-___Conclusion: Arbidol does not appear to be clinically efficacious. The remaining compounds in this section have not been  well studied. Heparin and enoxaparin are increasingly being used to prevent clotting in persons with severe disease whether these compound also have a clinically relev  and therefore appear unlikely at the present time to lead to useful treatments.___
+___Conclusion: Heparin and enoxaparin are increasingly being used to prevent clotting in persons with severe disease whether these compound also have a clinically relevant antiviral effect is not known. Arbidol does not appear to be clinically efficacious. The remaining compounds in this section have not been  well studied.  ___
 
 ## Interferons
 Interferons (IFNs) respond to the presence of cellular changes suggestive of a viral infection by inducing numerous genes (IFN-stimulated genes \[ISGs\]) involved in inflammation, signaling, and immunomodulation to protect against uncontrolled infection. They interfere with viral replication by slowing cell metabolism, interfering with the membrane formation required for virus replication, and inducing secretion of cytokines that promote adaptive immunity[^10.1016/j.antiviral.2020.104791]. The importance of IFN is underscored by the fact that most viruses, and in particular coronaviruses, create many protein products specifically designed to antagonize cellular IFN signaling pathways[^10.1016/j.coviro.2012.04.004][^10.1016/j.smim.2019.101300]. While one might therefore expect that exogenously administered IFN would be a mainstay in the treatment of acute viral infections, this is surprisingly not the case.
@@ -519,11 +519,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDU1MTgzLDI0MzkyNTkyMCwxMjM0NT
-gyMjEyLC00NzI5Mzk5NTksLTEyNDMxNjU5OTQsODczNTAyNDU4
-LDE3MTc1MTE1OSwtNzQzNDIzNzMsNDY5MTA5NzIzLDE1NTA3OT
-QzMDYsNzQ4OTg2MDIsLTEyMzU2ODIwNDAsLTE2MzU3MzUxLC0x
-MzQ0MzY0ODA4LDEyNzI2MjA1LDkzNDMwNjg3MCwtMTE2OTgwMj
-QxNywtNjg4ODA0NDMsNDA5NzQ0NTg2LDIwMjg2NjAyNjZdfQ==
+eyJoaXN0b3J5IjpbMTc1MjYwMDI2OSwyNDM5MjU5MjAsMTIzND
+U4MjIxMiwtNDcyOTM5OTU5LC0xMjQzMTY1OTk0LDg3MzUwMjQ1
+OCwxNzE3NTExNTksLTc0MzQyMzczLDQ2OTEwOTcyMywxNTUwNz
+k0MzA2LDc0ODk4NjAyLC0xMjM1NjgyMDQwLC0xNjM1NzM1MSwt
+MTM0NDM2NDgwOCwxMjcyNjIwNSw5MzQzMDY4NzAsLTExNjk4MD
+I0MTcsLTY4ODgwNDQzLDQwOTc0NDU4NiwyMDI4NjYwMjY2XX0=
 
 -->
