@@ -130,7 +130,7 @@ The most frequently studied SARS-CoV MAbs include (i) 80R, identified from a non
 
 The most frequently studied MERS-CoV MAbs include (i) Mersmab1[^10.1128/JVI.00433-14]; (ii) m336, which was shown to protect rabbits from MERS-CoV[^10.1128/JVI.00912-14][^10.1093/infdis/jiw080] and which has been engineered into a novel antibody-peptide bispecific fusion protein[^10.3390/antib8040053]; (iii) REGN3048 and REGN3051 which have been highly potent _in vitro_ and in a mouse infection model[^10.1073/pnas.1510830112]; (iv) 3B11, which was isolated from a non-immune human Ab-phage library and characterized through the generation of escape variants[^10.1073/pnas.1402074111]; and (v) 4C and D12, two mouse neutralizing MAbs that have been co-crystallized with the MERS-CoV RBD[^10.1080/14728222.2017.1271415].
 
-Most SARS-CoV MAbs do not inhibit SARS-CoV-2[^10.1016/j.cell.2020.03.045]. For example, three well-characterized SARS-CoV RBD-directed MAbs (S230, m396, and 80R) do not bind SARS-CoV-2 RBD at a concentration of 1μM[^10.1126/science.abb2507]. However, two MAbs that appear to bind at more conserved S1 sites that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including CR3022 and S309[^10.1080/22221751.2020.1729069][^10.1126/science.abb7269][^10.1101/2020.05.05.079202][^10.1101/2020.04.07.023903]. S309 has been shown to recognize an epitope distinct from the S1 receptor binding motif. It is also synergistic with MAbs that bind to the S1 receptor binding motif[^10.1101/2020.04.07.023903].
+Most SARS-CoV MAbs do not inhibit SARS-CoV-2[^10.1016/j.cell.2020.03.045]. For example, three well-characterized SARS-CoV RBD-directed MAbs (S230, m396, and 80R) do not bind SARS-CoV-2 RBD at a concentration of 1μM[^10.1126/science.abb2507]. However, two MAbs that appear to bind at more conserved S1 sites that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including CR3022 and S309[^10.1080/22221751.2020.1729069][^10.1126/science.abb7269][^10.1101/2020.05.05.079202][^10.1101/2020.04.07.023903]. Pinto et al reported that S309 has been shown to recognize an epitope distinct from the S1 receptor binding motif. It is also synergistic with MAbs that bind to the S1 receptor binding motif[^10.1101/2020.04.07.023903].
 
 Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection. With improvements in MAb technology, it has been predicted that under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5].
 
@@ -519,11 +519,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzE4MzAzMiwxNzUyNjAwMjY5LDI0Mz
-kyNTkyMCwxMjM0NTgyMjEyLC00NzI5Mzk5NTksLTEyNDMxNjU5
-OTQsODczNTAyNDU4LDE3MTc1MTE1OSwtNzQzNDIzNzMsNDY5MT
-A5NzIzLDE1NTA3OTQzMDYsNzQ4OTg2MDIsLTEyMzU2ODIwNDAs
-LTE2MzU3MzUxLC0xMzQ0MzY0ODA4LDEyNzI2MjA1LDkzNDMwNj
-g3MCwtMTE2OTgwMjQxNywtNjg4ODA0NDMsNDA5NzQ0NTg2XX0=
+eyJoaXN0b3J5IjpbOTcwMTIyMDA4LDE2MDMxODMwMzIsMTc1Mj
+YwMDI2OSwyNDM5MjU5MjAsMTIzNDU4MjIxMiwtNDcyOTM5OTU5
+LC0xMjQzMTY1OTk0LDg3MzUwMjQ1OCwxNzE3NTExNTksLTc0Mz
+QyMzczLDQ2OTEwOTcyMywxNTUwNzk0MzA2LDc0ODk4NjAyLC0x
+MjM1NjgyMDQwLC0xNjM1NzM1MSwtMTM0NDM2NDgwOCwxMjcyNj
+IwNSw5MzQzMDY4NzAsLTExNjk4MDI0MTcsLTY4ODgwNDQzXX0=
 
 -->
