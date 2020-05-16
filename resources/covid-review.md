@@ -130,11 +130,11 @@ The most frequently studied SARS-CoV MAbs include (i) 80R, identified from a non
 
 The most frequently studied MERS-CoV MAbs include (i) Mersmab1[^10.1128/JVI.00433-14]; (ii) m336, which was shown to protect rabbits from MERS-CoV[^10.1128/JVI.00912-14][^10.1093/infdis/jiw080] and which has been engineered into a novel antibody-peptide bispecific fusion protein[^10.3390/antib8040053]; (iii) REGN3048 and REGN3051 which have been highly potent _in vitro_ and in a mouse infection model[^10.1073/pnas.1510830112]; (iv) 3B11, which was isolated from a non-immune human Ab-phage library and characterized through the generation of escape variants[^10.1073/pnas.1402074111]; and (v) 4C and D12, two mouse neutralizing MAbs that have been co-crystallized with the MERS-CoV RBD[^10.1080/14728222.2017.1271415].
 
-Most SARS-CoV MAbs do not inhibit SARS-CoV-2[^10.1016/j.cell.2020.03.045]. For example, three well-characterized SARS-CoV RBD-directed MAbs (S230, m396, and 80R) do not bind SARS-CoV-2 RBD at a concentration of 1μM[^10.1126/science.abb2507]. However, two MAbs that appear to bind at more conserved S1 sites that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including CR3022 and S309[^10.1080/22221751.2020.1729069][^10.1126/science.abb7269][^10.1101/2020.05.05.079202][^10.1101/2020.04.07.023903]. Pinto et al reported that S309 has been shown to recognize an epitope distinct from the S1 receptor binding motif. It is also synergistic with MAbs that bind to the S1 receptor binding motif[^10.1101/2020.04.07.023903].
+Most SARS-CoV MAbs do not inhibit SARS-CoV-2[^10.1016/j.cell.2020.03.045]. For example, three well-characterized SARS-CoV RBD-directed MAbs (S230, m396, and 80R) do not bind SARS-CoV-2 RBD at a concentration of 1μM[^10.1126/science.abb2507]. However, two MAbs that appear to bind at more conserved S1 sites that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including CR3022 and S309[^10.1080/22221751.2020.1729069][^10.1126/science.abb7269][^10.1101/2020.05.05.079202][^10.1101/2020.04.07.023903]. Pinto et al reported that S309 recognizes an epitope distinct from the S1 receptor binding motif. It is also synergistic with MAbs that bind to the S1 receptor binding motif[^10.1101/2020.04.07.023903].
 
 Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection. With improvements in MAb technology, it has been predicted that under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5].
 
-Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs cloned from these patients (311mab–31B5, 311mab−32D4) were shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7]. Brouwer et. al. cloned several highly potent ACE2-competing MAbs from convalescent patients including one which blocked infection at a concentration of 7 ng/ml (COVA-ID-2-15)[^10.1101/2020.05.12.088716].  Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patients and grouped them into five classes according to their binding patterns and virus cross-reactivity[^10.1101/2020.05.12.091462]. Class I bind stabilized trimeric prefusion S ectodomain (S2P<sub>ecto</sub>) and the RBD and are SARS-CoV-2 specific. Class II bind the same sites but cross-react with SARS-CoV. Class III bind S2P<sub>ecto</sub> and the S1 N-terminal domain and are SARS-CoV-2 specific. Class IV bind only S2P<sub>ecto</sub> and are SARS-CoV-2 specific. Class V bind only  S2P<sub>ecto</sub> and cross-react with SARS-CoV[^10.1101/2020.05.12.091462].
+Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs cloned from these patients (311mab–31B5, 311mab−32D4) were shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7]. Brouwer et. al. cloned several highly potent ACE2-competing MAbs from convalescent patients including one which blocked infection at a concentration of 7 ng/ml (COVA-ID-2-15)[^10.1101/2020.05.12.088716].  Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patients and grouped them into five classes according to their binding patterns and virus cross-reactivity[^10.1101/2020.05.12.091462]. Class I bind stabilized trimeric prefusion S ectodomain (S2P<sub>ecto</sub>) and the RBD and are SARS-CoV-2 specific. Class II bind the same sites but cross-react with SARS-CoV. Class III bind S2P<sub>ecto</sub> and the S1 N-terminal domain and are SARS-CoV-2 specific. Class IV bind only S2P<sub>ecto</sub> and are SARS-CoV-2 specific. Class V bind only  S2P<sub>ecto</sub> and cross-react with SARS-CoV[^10.1101/2020.05.12.091462]. Li et al described a highly potent SARS-CoV-2-specific MAb that 
 
 ___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. Under an extremely accelerated schedule, it appears likely that several MAbs will be available for phase I studies this summer.___
 
@@ -519,11 +519,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMTIyMDA4LDE2MDMxODMwMzIsMTc1Mj
-YwMDI2OSwyNDM5MjU5MjAsMTIzNDU4MjIxMiwtNDcyOTM5OTU5
-LC0xMjQzMTY1OTk0LDg3MzUwMjQ1OCwxNzE3NTExNTksLTc0Mz
-QyMzczLDQ2OTEwOTcyMywxNTUwNzk0MzA2LDc0ODk4NjAyLC0x
-MjM1NjgyMDQwLC0xNjM1NzM1MSwtMTM0NDM2NDgwOCwxMjcyNj
-IwNSw5MzQzMDY4NzAsLTExNjk4MDI0MTcsLTY4ODgwNDQzXX0=
+eyJoaXN0b3J5IjpbLTI3MzgwMTk3NiwxNjAzMTgzMDMyLDE3NT
+I2MDAyNjksMjQzOTI1OTIwLDEyMzQ1ODIyMTIsLTQ3MjkzOTk1
+OSwtMTI0MzE2NTk5NCw4NzM1MDI0NTgsMTcxNzUxMTU5LC03ND
+M0MjM3Myw0NjkxMDk3MjMsMTU1MDc5NDMwNiw3NDg5ODYwMiwt
+MTIzNTY4MjA0MCwtMTYzNTczNTEsLTEzNDQzNjQ4MDgsMTI3Mj
+YyMDUsOTM0MzA2ODcwLC0xMTY5ODAyNDE3LC02ODg4MDQ0M119
 
 -->
