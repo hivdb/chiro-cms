@@ -139,7 +139,7 @@ Chen et al. reported that among 26 COVID-19 convalescent patients, most develope
 ___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. During the past three weeks, eight groups have described the development of MAbs that are able to inhibit SARS-CoV-2 or both SARS-CoV and SARS-CoV-2 in vitro.___
 
 ### Fusion Inhibitors
-Peptides that mimic HR1 or HR2 can block virus-cell fusion by preventing the interaction between HR1 and HR2. The HIV-1 fusion inhibitor enfuvirtide is a 36 amino acid peptide that acts by this mechanism to inhibit HIV-1 replication following subcutaneous administration[^10.1056/NEJMoa035026][^10.1056/NEJMoa035211]. Several peptide mimics of coronavirus HR2 have been shown to be potently inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 _in vitro_[^10.1016/j.bbrc.2004.05.046][^10.1038/ncomms4067][^10.1093/infdis/jiv325][^10.1021/acs.jmedchem.8b00890][^10.1126/sciadv.aav4580][^10.1101/2020.03.26.009233]. The interest in coronavirus fusion inhibitors derives in part because S2 is more conserved than S1 among different coronavirus species. For example, the S1 proteins of SARS-CoV and SARS-CoV-2 differ by more than 10%. However, their HR1 domains differ by 7% and their HR2 domains are essentially identical[^10.1038/s41423-020-0374-2].
+Peptides that mimic HR1 or HR2 can block virus-cell fusion by preventing the interaction between HR1 and HR2. The HIV-1 fusion inhibitor enfuvirtide is a 36 amino acid peptide that acts by this mechanism to inhibit HIV-1 replication following subcutaneous administration[^10.1056/NEJMoa035026][^10.1056/NEJMoa035211][^10.1038/nrd1331]. Several peptide mimics of coronavirus HR2 have been shown to be potently inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 _in vitro_[^10.1016/j.bbrc.2004.05.046][^10.1038/ncomms4067][^10.1093/infdis/jiv325][^10.1021/acs.jmedchem.8b00890][^10.1126/sciadv.aav4580][^10.1101/2020.03.26.009233]. The interest in coronavirus fusion inhibitors derives in part because S2 is more conserved than S1 among different coronavirus species. For example, the S1 proteins of SARS-CoV and SARS-CoV-2 differ by more than 10%. However, their HR1 domains differ by 7% and their HR2 domains are essentially identical[^10.1038/s41423-020-0374-2].
 
 Prior to the SARS-CoV-2 pandemic, an HR2 mimicking peptide named EK1 was identified as a potential broad-spectrum coronavirus inhibitor as it inhibited both SARS-CoV and MERS-CoV at sub-micromolar levels and was found to safe and protective when administered intra-nasally to SARS-CoV-infected mice[^10.1126/sciadv.aav4580]. With the emergence of SARS-CoV-2, the crystal structure of the SARS-CoV-2 six helix bundle was solved, and several modifications were made to the EK1 peptide. In addition, a cholesterol group was added[^10.1038/s41422-020-0305-x] as lipidation had recently been shown empirically to improve the pharmacokinetics and inhibitory activity of viral fusion inhibitors[^10.1128/JVI.00288-17]. This new lipopeptide, named EK1C4 was found to inhibit SARS-CoV-2 fusion 150 times more strongly than EK1, with SARS-CoV-2 EC<sub>50</sub>s of 0.04 μM and 0.004 μM in cell culture for SARS-CoV-2 and MERS-CoV, and with even lower EC<sub>50</sub>s in cell-cell fusion assays.
 
@@ -519,11 +519,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTkyNzI1ODEsLTM3MTI3MTczMiw4MD
-k0MjUxNjcsLTI3MzgwMTk3NiwxNjAzMTgzMDMyLDE3NTI2MDAy
-NjksMjQzOTI1OTIwLDEyMzQ1ODIyMTIsLTQ3MjkzOTk1OSwtMT
-I0MzE2NTk5NCw4NzM1MDI0NTgsMTcxNzUxMTU5LC03NDM0MjM3
-Myw0NjkxMDk3MjMsMTU1MDc5NDMwNiw3NDg5ODYwMiwtMTIzNT
-Y4MjA0MCwtMTYzNTczNTEsLTEzNDQzNjQ4MDgsMTI3MjYyMDVd
-fQ==
+eyJoaXN0b3J5IjpbMTkwODY1MDg3LC0xNDE5MjcyNTgxLC0zNz
+EyNzE3MzIsODA5NDI1MTY3LC0yNzM4MDE5NzYsMTYwMzE4MzAz
+MiwxNzUyNjAwMjY5LDI0MzkyNTkyMCwxMjM0NTgyMjEyLC00Nz
+I5Mzk5NTksLTEyNDMxNjU5OTQsODczNTAyNDU4LDE3MTc1MTE1
+OSwtNzQzNDIzNzMsNDY5MTA5NzIzLDE1NTA3OTQzMDYsNzQ4OT
+g2MDIsLTEyMzU2ODIwNDAsLTE2MzU3MzUxLC0xMzQ0MzY0ODA4
+XX0=
 -->
