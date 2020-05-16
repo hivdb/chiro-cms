@@ -134,7 +134,7 @@ Most SARS-CoV MAbs do not inhibit SARS-CoV-2[^10.1016/j.cell.2020.03.045]. For e
 
 Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection. With improvements in MAb technology, it has been predicted that under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5].
 
-Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs cloned from these patients (311mab–31B5, 311mab−32D4) were shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7]. Brouwer et. al. cloned several highly potent ACE2-competing MAbs from convalescent patients including one which blocked infection at a concentration of 7 ng/ml (COVA-ID-2-15)[^10.1101/2020.05.12.088716].  Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patients and grouped them into five classes according to their binding patterns and virus cross-reactivity[^10.1101/2020.05.12.091462]. Class I bind stabilized trimeric prefusion S ectodomain (S2P<sub>ecto</sub>) and the RBD and are SARS-CoV-2 specific. Class II bind the same sites but cross-react with SARS-CoV. Class III bind S2P<sub>ecto</sub> and the S1 N-terminal domain and are SARS-CoV-2 specific. Class IV bind only S2P<sub>ecto</sub> and are SARS-CoV-2 specific. Class V bind only  S2P<sub>ecto</sub> and cross-react with SARS-CoV[^10.1101/2020.05.12.091462]. Li et al reported that a highly potent SARS-CoV-2 specific MAb identified in a phage-display protected hACE2-transgenic mice from intranasal challenge[^10.1101/2020.05.13.093088].
+Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs cloned from these patients (311mab–31B5, 311mab−32D4) were shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7]. Brouwer et. al. cloned several highly potent ACE2-competing MAbs from convalescent patients including one which blocked infection at a concentration of 7 ng/ml (COVA-ID-2-15)[^10.1101/2020.05.12.088716].  Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patients and grouped them into five classes according to their binding patterns and virus cross-reactivity[^10.1101/2020.05.12.091462]. Class I bind stabilized trimeric prefusion S ectodomain (S2P<sub>ecto</sub>) and the RBD and are SARS-CoV-2 specific. Class II bind the same sites but cross-react with SARS-CoV. Class III bind S2P<sub>ecto</sub> and the S1 N-terminal domain and are SARS-CoV-2 specific. Class IV bind only S2P<sub>ecto</sub> and are SARS-CoV-2 specific. Class V bind only  S2P<sub>ecto</sub> and cross-react with SARS-CoV[^10.1101/2020.05.12.091462]. Li et al reported that a highly potent SARS-CoV-2 specific MAb identified by phage-display protected hACE2-transgenic mice from intranasal challenge[^10.1101/2020.05.13.093088].
 
 ___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. During the past three weeks, eight groups have described the development of MAbs that are able to inhibit SARS-CoV-2 or both SARS-CoV and SARS-CoV-2 in vitro.___
 
@@ -519,11 +519,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTI3MTczMiw4MDk0MjUxNjcsLTI3Mz
-gwMTk3NiwxNjAzMTgzMDMyLDE3NTI2MDAyNjksMjQzOTI1OTIw
-LDEyMzQ1ODIyMTIsLTQ3MjkzOTk1OSwtMTI0MzE2NTk5NCw4Nz
-M1MDI0NTgsMTcxNzUxMTU5LC03NDM0MjM3Myw0NjkxMDk3MjMs
-MTU1MDc5NDMwNiw3NDg5ODYwMiwtMTIzNTY4MjA0MCwtMTYzNT
-czNTEsLTEzNDQzNjQ4MDgsMTI3MjYyMDUsOTM0MzA2ODcwXX0=
-
+eyJoaXN0b3J5IjpbLTE0MTkyNzI1ODEsLTM3MTI3MTczMiw4MD
+k0MjUxNjcsLTI3MzgwMTk3NiwxNjAzMTgzMDMyLDE3NTI2MDAy
+NjksMjQzOTI1OTIwLDEyMzQ1ODIyMTIsLTQ3MjkzOTk1OSwtMT
+I0MzE2NTk5NCw4NzM1MDI0NTgsMTcxNzUxMTU5LC03NDM0MjM3
+Myw0NjkxMDk3MjMsMTU1MDc5NDMwNiw3NDg5ODYwMiwtMTIzNT
+Y4MjA0MCwtMTYzNTczNTEsLTEzNDQzNjQ4MDgsMTI3MjYyMDVd
+fQ==
 -->
