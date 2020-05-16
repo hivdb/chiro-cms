@@ -163,8 +163,6 @@ Griffithsin, a 121 amino acid protein isolated from red algae, inhibits SARS-CoV
 
 VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.chembiol.2004.07.013] but does not appear to have been studied further. HTCC polymers are cationacally modified chitosan derivatives that appear to inhibit cell entry of multiple coronaviruses including MERS-CoV and SARS-CoV[^10.1101/2020.03.29.014183][^10.1371/journal.pone.0156552]. SARS-RBD-Hexapeptide is weak inhibitor of SARS-CoV viral entry, but nonetheless suggests the possibility that small peptides may be able to inhibit the interaction of coronavirus S1 receptor binding domains and ACE2[^10.1016/j.antiviral.2011.12.012]. Emodin is a plant derivative that appears to weakly inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.antiviral.2006.04.014], although it has also been proposed to inhibit SARS-CoV release from cells[^10.1016/j.antiviral.2011.02.008].
 
-
-
 One group has reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and weakly interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761].
 
 ___Conclusion: Most of the compounds in this section have not been well studied and therefore appear unlikely at the present time to lead to useful treatments.___
@@ -521,11 +519,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTIzNTU4MCwxMjM0NTgyMjEyLC00Nz
-I5Mzk5NTksLTEyNDMxNjU5OTQsODczNTAyNDU4LDE3MTc1MTE1
-OSwtNzQzNDIzNzMsNDY5MTA5NzIzLDE1NTA3OTQzMDYsNzQ4OT
-g2MDIsLTEyMzU2ODIwNDAsLTE2MzU3MzUxLC0xMzQ0MzY0ODA4
-LDEyNzI2MjA1LDkzNDMwNjg3MCwtMTE2OTgwMjQxNywtNjg4OD
-A0NDMsNDA5NzQ0NTg2LDIwMjg2NjAyNjYsMjkyMzU3MjE2XX0=
+eyJoaXN0b3J5IjpbMjQzOTI1OTIwLDEyMzQ1ODIyMTIsLTQ3Mj
+kzOTk1OSwtMTI0MzE2NTk5NCw4NzM1MDI0NTgsMTcxNzUxMTU5
+LC03NDM0MjM3Myw0NjkxMDk3MjMsMTU1MDc5NDMwNiw3NDg5OD
+YwMiwtMTIzNTY4MjA0MCwtMTYzNTczNTEsLTEzNDQzNjQ4MDgs
+MTI3MjYyMDUsOTM0MzA2ODcwLC0xMTY5ODAyNDE3LC02ODg4MD
+Q0Myw0MDk3NDQ1ODYsMjAyODY2MDI2NiwyOTIzNTcyMTZdfQ==
 
 -->
