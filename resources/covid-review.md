@@ -161,7 +161,7 @@ Griffithsin, a 121 amino acid protein isolated from red algae, inhibits SARS-CoV
 
 VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.chembiol.2004.07.013] but does not appear to have been studied further. HTCC polymers are cationacally modified chitosan derivatives that appear to inhibit cell entry of multiple coronaviruses including MERS-CoV and SARS-CoV[^10.1101/2020.03.29.014183][^10.1371/journal.pone.0156552]. SARS-RBD-Hexapeptide is weak inhibitor of SARS-CoV viral entry, but nonetheless suggests the possibility that small peptides may be able to inhibit the interaction of coronavirus S1 receptor binding domains and ACE2[^10.1016/j.antiviral.2011.12.012]. Emodin is a plant derivative that appears to weakly inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.antiviral.2006.04.014], although it has also been proposed to inhibit SARS-CoV release from cells[^10.1016/j.antiviral.2011.02.008].
 
-Arbidol is an oral drug used in Russia and China to treat influenza and other viral infections[^10.1016/j.antiviral.2014.04.006][^10.1128/JVI.02077-15]. It is reported to have _in vitro_ activity against multiple viruses and to inhibit viral entry by binding viral surface glycoproteins[^10.1016/j.antiviral.2008.10.009]. Its SARS-CoV-2 EC<sub>50</sub>s has been reported to be between 5 and 10 μM with a selectivity index of about 8[^10.1101/2020.04.03.023846][^10.1038/s41421-020-0169-8]. A crystal structure of arbidol in complex with influenza hemagglutinin showed that arbidol binds to a hydrophobic cavity in the hemagglutinin trimer stem[^10.1073/pnas.1617020114]. There have been five small studies of arbidol in patients with SARS-CoV-2, including two open-label controlled studies[^10.1101/2020.03.17.20037432][^10.1101/2020.03.19.20038984] and three observational studies[^10.1016/j.jinf.2020.03.002][^10.1016/j.jinf.2020.03.060][^10.1101/2020.04.06.20042580]. One controlled trial suggested it was inferior to favipiravir at reducing time to clinical recovery[^10.1101/2020.03.17.20037432]; one observational trial suggested it was inferior to nebulized interferon α2b at reducing viral shedding; and one observational trial suggested that it may have been more effective than lopinavir/r at reducing viral shedding[^10.1016/j.jinf.2020.03.060].
+Arbidol is an oral drug used in Russia and China to treat influenza and other viral infections[^10.1016/j.antiviral.2014.04.006][^10.1128/JVI.02077-15]. It is reported to have _in vitro_ activity against multiple viruses and to inhibit viral entry by binding viral surface glycoproteins[^10.1016/j.antiviral.2008.10.009]. Its SARS-CoV-2 EC<sub>50</sub>s has been reported to be between 5 and 10 μM with a selectivity index of about 8[^10.1101/2020.04.03.023846][^10.1038/s41421-020-0169-8]. A crystal structure of arbidol in complex with influenza hemagglutinin showed that arbidol binds to a hydrophobic cavity in the hemagglutinin trimer stem[^10.1073/pnas.1617020114]. There have been two open-label controlled studies in patients with SARS-CoV-2[^10.1101/2020.03.17.20037432][^10.1101/2020.03.19.20038984] and many small retrospective observational studies[^10.1016/j.jinf.2020.03.002][^10.1016/j.jinf.2020.03.060][^10.1101/2020.04.06.20042580]. One controlled trial suggested it was inferior to favipiravir at reducing time to clinical recovery[^10.1101/2020.03.17.20037432]; one observational trial suggested it was inferior to nebulized interferon α2b at reducing viral shedding; and one observational trial suggested that it may have been more effective than lopinavir/r at reducing viral shedding[^10.1016/j.jinf.2020.03.060].
 
 One group has reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and weakly interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761].
 
@@ -394,7 +394,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1126/sciadv.aav4580]: Xia S, Yan L, et int., Lu L. "A pan-coronavirus fusion inhibitor targeting the HR1 domain of human coronavirus spike" _Sci Adv_, 2019. [10.1126/sciadv.aav4580](https://doi.org/10.1126/sciadv.aav4580)
 [^10.1101/2020.03.26.009233]: Zhu Y, Yu D, et int., He Y. "Design of potent membrane fusion inhibitors against SARS-CoV-2, an emerging coronavirus with high fusogenic activity" _bioRxiv_, 2020. [10.1101/2020.03.26.009233](https://doi.org/10.1101/2020.03.26.009233)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -519,11 +519,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDU4MjIxMiwtNDcyOTM5OTU5LC0xMj
-QzMTY1OTk0LDg3MzUwMjQ1OCwxNzE3NTExNTksLTc0MzQyMzcz
-LDQ2OTEwOTcyMywxNTUwNzk0MzA2LDc0ODk4NjAyLC0xMjM1Nj
-gyMDQwLC0xNjM1NzM1MSwtMTM0NDM2NDgwOCwxMjcyNjIwNSw5
-MzQzMDY4NzAsLTExNjk4MDI0MTcsLTY4ODgwNDQzLDQwOTc0ND
-U4NiwyMDI4NjYwMjY2LDI5MjM1NzIxNiwxNDU5Mjk5MTk0XX0=
+eyJoaXN0b3J5IjpbMTI4NjYyODI0MSwxMjM0NTgyMjEyLC00Nz
+I5Mzk5NTksLTEyNDMxNjU5OTQsODczNTAyNDU4LDE3MTc1MTE1
+OSwtNzQzNDIzNzMsNDY5MTA5NzIzLDE1NTA3OTQzMDYsNzQ4OT
+g2MDIsLTEyMzU2ODIwNDAsLTE2MzU3MzUxLC0xMzQ0MzY0ODA4
+LDEyNzI2MjA1LDkzNDMwNjg3MCwtMTE2OTgwMjQxNywtNjg4OD
+A0NDMsNDA5NzQ0NTg2LDIwMjg2NjAyNjYsMjkyMzU3MjE2XX0=
 
 -->
