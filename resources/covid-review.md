@@ -165,7 +165,7 @@ VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell
 
 One group has reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and weakly interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761].
 
-___Conclusion: Arbidol does not appear to be clinically efficacious. The remaining compounds in this section have not been  well studied. Heparin and enoxapa and therefore appear unlikely at the present time to lead to useful treatments.___
+___Conclusion: Arbidol does not appear to be clinically efficacious. The remaining compounds in this section have not been  well studied. Heparin and enoxaparin are increasingly being used to prevent clotting in persons with severe disease whether these compound also have a clinically relev  and therefore appear unlikely at the present time to lead to useful treatments.___
 
 ## Interferons
 Interferons (IFNs) respond to the presence of cellular changes suggestive of a viral infection by inducing numerous genes (IFN-stimulated genes \[ISGs\]) involved in inflammation, signaling, and immunomodulation to protect against uncontrolled infection. They interfere with viral replication by slowing cell metabolism, interfering with the membrane formation required for virus replication, and inducing secretion of cytokines that promote adaptive immunity[^10.1016/j.antiviral.2020.104791]. The importance of IFN is underscored by the fact that most viruses, and in particular coronaviruses, create many protein products specifically designed to antagonize cellular IFN signaling pathways[^10.1016/j.coviro.2012.04.004][^10.1016/j.smim.2019.101300]. While one might therefore expect that exogenously administered IFN would be a mainstay in the treatment of acute viral infections, this is surprisingly not the case.
@@ -519,7 +519,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNTE1NzA5LDI0MzkyNTkyMCwxMjM0NT
+eyJoaXN0b3J5IjpbLTI5NDU1MTgzLDI0MzkyNTkyMCwxMjM0NT
 gyMjEyLC00NzI5Mzk5NTksLTEyNDMxNjU5OTQsODczNTAyNDU4
 LDE3MTc1MTE1OSwtNzQzNDIzNzMsNDY5MTA5NzIzLDE1NTA3OT
 QzMDYsNzQ4OTg2MDIsLTEyMzU2ODIwNDAsLTE2MzU3MzUxLC0x
