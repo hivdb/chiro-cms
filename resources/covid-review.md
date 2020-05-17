@@ -134,7 +134,15 @@ Most SARS-CoV MAbs do not inhibit SARS-CoV-2[^10.1016/j.cell.2020.03.045]. For e
 
 Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection. With improvements in MAb technology, it has been predicted that under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5].
 
-Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs cloned from these patients (311mab–31B5, 311mab−32D4) were shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7]. Brouwer et. al. cloned several highly potent ACE2-competing MAbs from convalescent patients including one which blocked infection at a concentration of 7 ng/ml (COVA-ID-2-15)[^10.1101/2020.05.12.088716].  Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patients and grouped them into five classes according to their binding patterns and virus cross-reactivity[^10.1101/2020.05.12.091462]. Class I bind stabilized trimeric prefusion S ectodomain (S2P<sub>ecto</sub>) and the RBD and are SARS-CoV-2 specific. Class II bind the same sites but cross-react with SARS-CoV. Class III bind S2P<sub>ecto</sub> and the S1 N-terminal domain and are SARS-CoV-2 specific. Class IV bind only S2P<sub>ecto</sub> and are SARS-CoV-2 specific. Class V bind only  S2P<sub>ecto</sub> and cross-react with SARS-CoV[^10.1101/2020.05.12.091462]. Li et al reported that a highly potent SARS-CoV-2 specific MAb identified by phage-display protected hACE2-transgenic mice from intranasal challenge[^10.1101/2020.05.13.093088].
+Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs cloned from these patients (311mab–31B5, 311mab−32D4) were shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7]. 
+
+Brouwer et. al. cloned several highly potent ACE2-competing MAbs from convalescent patients including one which blocked infection at a concentration of 7 ng/ml (COVA-ID-2-15)[^10.1101/2020.05.12.088716].  
+
+Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patients and grouped them into five classes according to their binding patterns and virus cross-reactivity[^10.1101/2020.05.12.091462]. Class I bind stabilized trimeric prefusion S ectodomain (S2P<sub>ecto</sub>) and the RBD and are SARS-CoV-2 specific. Class II bind the same sites but cross-react with SARS-CoV. Class III bind S2P<sub>ecto</sub> and the S1 N-terminal domain and are SARS-CoV-2 specific. Class IV bind only S2P<sub>ecto</sub> and are SARS-CoV-2 specific. Class V bind only  S2P<sub>ecto</sub> and cross-react with SARS-CoV[^10.1101/2020.05.12.091462]. 
+
+Li et al reported that a highly potent SARS-CoV-2 specific MAb identified by phage-display protected hACE2-transgenic mice from intranasal challenge[^10.1101/2020.05.13.093088].
+
+R
 
 ___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. During the past three weeks, eight groups have described the development of MAbs that are able to inhibit SARS-CoV-2 or both SARS-CoV and SARS-CoV-2 in vitro.___
 
@@ -398,7 +406,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.03.26.009233]: Zhu Y, Yu D, et int., He Y. "Design of potent membrane fusion inhibitors against SARS-CoV-2, an emerging coronavirus with high fusogenic activity" _bioRxiv_, 2020. [10.1101/2020.03.26.009233](https://doi.org/10.1101/2020.03.26.009233)
 [^10.1016/j.antiviral.2020.104792]: Tang T, Bidon M, et int., Daniel S. "Coronavirus membrane fusion mechanism offers as a potential target for antiviral development" _Antiviral Res._, 2020. [10.1016/j.antiviral.2020.104792](https://doi.org/10.1016/j.antiviral.2020.104792)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -523,11 +531,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTE1NDE4MCwyMTMyNTgxNiwtMTE0OT
-QyNjg5OCwxOTA4NjUwODcsLTE0MTkyNzI1ODEsLTM3MTI3MTcz
-Miw4MDk0MjUxNjcsLTI3MzgwMTk3NiwxNjAzMTgzMDMyLDE3NT
-I2MDAyNjksMjQzOTI1OTIwLDEyMzQ1ODIyMTIsLTQ3MjkzOTk1
-OSwtMTI0MzE2NTk5NCw4NzM1MDI0NTgsMTcxNzUxMTU5LC03ND
-M0MjM3Myw0NjkxMDk3MjMsMTU1MDc5NDMwNiw3NDg5ODYwMl19
-
+eyJoaXN0b3J5IjpbLTE4NzI0OTY2LDE0MDExNTQxODAsMjEzMj
+U4MTYsLTExNDk0MjY4OTgsMTkwODY1MDg3LC0xNDE5MjcyNTgx
+LC0zNzEyNzE3MzIsODA5NDI1MTY3LC0yNzM4MDE5NzYsMTYwMz
+E4MzAzMiwxNzUyNjAwMjY5LDI0MzkyNTkyMCwxMjM0NTgyMjEy
+LC00NzI5Mzk5NTksLTEyNDMxNjU5OTQsODczNTAyNDU4LDE3MT
+c1MTE1OSwtNzQzNDIzNzMsNDY5MTA5NzIzLDE1NTA3OTQzMDZd
+fQ==
 -->
