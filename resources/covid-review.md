@@ -142,7 +142,7 @@ Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patient
 
 Li et al reported that a highly potent SARS-CoV-2 specific MAb identified by phage-display protected hACE2-transgenic mice from intranasal challenge[^10.1101/2020.05.13.093088].
 
-Rogers et al screened over 1000 antigen-specific antibodies from 22 convalescent patients.
+Rogers et al screened over 1000 antigen-specific antibodies from 22 convalescent patients[^10.1101/2020.05.11.088674]. They reported a positive correlation between cell surface spike binding and live replication virus neutralization
 
 ___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. During the past three weeks, eight groups have described the development of MAbs that are able to inhibit SARS-CoV-2 or both SARS-CoV and SARS-CoV-2 in vitro.___
 
@@ -531,7 +531,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTAxNjAwNTYsMTQwMTE1NDE4MCwyMT
+eyJoaXN0b3J5IjpbLTExNDgzNzM2NTMsMTQwMTE1NDE4MCwyMT
 MyNTgxNiwtMTE0OTQyNjg5OCwxOTA4NjUwODcsLTE0MTkyNzI1
 ODEsLTM3MTI3MTczMiw4MDk0MjUxNjcsLTI3MzgwMTk3NiwxNj
 AzMTgzMDMyLDE3NTI2MDAyNjksMjQzOTI1OTIwLDEyMzQ1ODIy
