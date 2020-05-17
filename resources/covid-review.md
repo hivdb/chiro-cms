@@ -142,7 +142,7 @@ Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patient
 
 Li et al reported that a highly potent SARS-CoV-2 specific MAb identified by phage-display protected hACE2-transgenic mice from intranasal challenge[^10.1101/2020.05.13.093088].
 
-Rogers et al screened over 1000 antigen-specific antibodies from the B cells of 22 convalescent patients[^10.1101/2020.05.11.088674]. They reported a positive correlation between cell surface spike binding and live replication virus neutralization for plasma as a whole but not necessarily for individual MAbs. Indeed, only a small proportion of RBD-binding antibodies were neutralizing. 
+Rogers et al screened over 1000 antigen-specific antibodies from the B cells of 22 convalescent patients[^10.1101/2020.05.11.088674]. They reported a positive correlation between cell surface spike binding and live replication virus neutralization for plasma as a whole but not necessarily for individual MAbs. Indeed, only a small proportion of RBD-binding antibodies were neutralizing. Their neutralizing antibodies were found to bind to three non-competing RBD epitopes, they refe
 
 ___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. During the past three weeks, eight groups have described the development of MAbs that are able to inhibit SARS-CoV-2 or both SARS-CoV and SARS-CoV-2 in vitro.___
 
@@ -531,11 +531,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTkwMTE2OTMsMTQwMTE1NDE4MCwyMT
-MyNTgxNiwtMTE0OTQyNjg5OCwxOTA4NjUwODcsLTE0MTkyNzI1
-ODEsLTM3MTI3MTczMiw4MDk0MjUxNjcsLTI3MzgwMTk3NiwxNj
-AzMTgzMDMyLDE3NTI2MDAyNjksMjQzOTI1OTIwLDEyMzQ1ODIy
-MTIsLTQ3MjkzOTk1OSwtMTI0MzE2NTk5NCw4NzM1MDI0NTgsMT
-cxNzUxMTU5LC03NDM0MjM3Myw0NjkxMDk3MjMsMTU1MDc5NDMw
-Nl19
+eyJoaXN0b3J5IjpbLTQ0NjU2NjI3MCwxNDAxMTU0MTgwLDIxMz
+I1ODE2LC0xMTQ5NDI2ODk4LDE5MDg2NTA4NywtMTQxOTI3MjU4
+MSwtMzcxMjcxNzMyLDgwOTQyNTE2NywtMjczODAxOTc2LDE2MD
+MxODMwMzIsMTc1MjYwMDI2OSwyNDM5MjU5MjAsMTIzNDU4MjIx
+MiwtNDcyOTM5OTU5LC0xMjQzMTY1OTk0LDg3MzUwMjQ1OCwxNz
+E3NTExNTksLTc0MzQyMzczLDQ2OTEwOTcyMywxNTUwNzk0MzA2
+XX0=
 -->
