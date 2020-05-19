@@ -188,7 +188,7 @@ As of May 7, 2020, there have been eight observational studies of IFN-α or IFN-
 
 There are also 10 ongoing studies of subcutaneous or intranasal IFN-α or IFN-β, although nearly all of these studies contain multiple treatment arms and lack control groups. There are three planned studies of IFN-λ, including one with a placebo arm.
 
- Theoretical and empirical data suggest that IFNs should be administered as early as possible in the course of infection[^10.1172/JCI126363] when innate immunity is likely to be most needed; this would also avoid exacerbating the unregulated exuberant damaging immune response that often occurs in the later stages of severe coronavirus infections. Although far fewer data are available for IFN-λs, they have garnered much interest because they act at epithelial barriers and thus are theoretically optimal for treating viral respiratory tract infections and because they are reported to suppress viral spread without causing inflammation[^10.15252/emmm.201606413][^10.1093/cid/ciaa453].
+ Theoretical and empirical data suggest that IFNs should be administered as early as possible in the course of infection[^10.1172/JCI126363] when innate immunity is likely to be most needed; this would also avoid exacerbating the unregulated exuberant deleterious immune response that often occurs in the later stages of severe coronavirus infections. Although far fewer data are available for IFN-λs, they have garnered much interest because they act at epithelial barriers and thus are theoretically optimal for treating viral respiratory tract infections and because they are reported to suppress viral spread without causing inflammation[^10.15252/emmm.201606413][^10.1093/cid/ciaa453].
 
 ___Conclusion: Considering the multiple proteins produced by coronaviruses to down regulate-host innate immunity and the generally favorable response to IFN in vitro and in animal models, rigorously designed studies of the early use of IFNs following SARS-CoV-2 infection are urgently needed to determine whether there already exists a highly effective SARS-CoV-2 treatment.___
 
@@ -532,11 +532,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3NTAyMDM5LC0xOTI2NTIwNzEwLC0yMD
-E4NDg2NzIsLTE2MjcwOTI0MzcsNTEzNjI4NjkxLDE0MDExNTQx
-ODAsMjEzMjU4MTYsLTExNDk0MjY4OTgsMTkwODY1MDg3LC0xND
-E5MjcyNTgxLC0zNzEyNzE3MzIsODA5NDI1MTY3LC0yNzM4MDE5
-NzYsMTYwMzE4MzAzMiwxNzUyNjAwMjY5LDI0MzkyNTkyMCwxMj
-M0NTgyMjEyLC00NzI5Mzk5NTksLTEyNDMxNjU5OTQsODczNTAy
-NDU4XX0=
+eyJoaXN0b3J5IjpbMTcyMjA0NjgwMCwtMTkyNjUyMDcxMCwtMj
+AxODQ4NjcyLC0xNjI3MDkyNDM3LDUxMzYyODY5MSwxNDAxMTU0
+MTgwLDIxMzI1ODE2LC0xMTQ5NDI2ODk4LDE5MDg2NTA4NywtMT
+QxOTI3MjU4MSwtMzcxMjcxNzMyLDgwOTQyNTE2NywtMjczODAx
+OTc2LDE2MDMxODMwMzIsMTc1MjYwMDI2OSwyNDM5MjU5MjAsMT
+IzNDU4MjIxMiwtNDcyOTM5OTU5LC0xMjQzMTY1OTk0LDg3MzUw
+MjQ1OF19
 -->
