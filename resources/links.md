@@ -33,6 +33,7 @@
 ### Sequences
 - Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
 - GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
+  - GenBank CoV Reference Sequences: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid11118%5BOrganism%3Aexp%5D+AND+srcdb_refseq%5BPROP%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid11118%5BOrganism%3Aexp%5D+AND+srcdb_refseq%5BPROP%5D)
 - GenBank protein: [https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D)
 - Betacoronavirus BLAST:
 [https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus)
