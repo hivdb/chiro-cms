@@ -149,7 +149,7 @@ ___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola
 ### Fusion Inhibitors
 Peptides that mimic HR2 can block virus-cell fusion by preventing the interaction between HR1 and HR2. The HIV-1 fusion inhibitor enfuvirtide is a 36 amino acid peptide that acts by this mechanism following subcutaneous administration[^10.1056/NEJMoa035026][^10.1056/NEJMoa035211][^10.1038/nrd1331]. Several peptide mimics of coronavirus HR2 have been shown to be potently inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 _in vitro_[^10.1016/j.bbrc.2004.05.046][^10.1038/ncomms4067][^10.1093/infdis/jiv325][^10.1021/acs.jmedchem.8b00890][^10.1126/sciadv.aav4580][^10.1101/2020.03.26.009233] and reviewed by Tang et al[^10.1016/j.antiviral.2020.104792]. The interest in coronavirus fusion inhibitors derives in part because S2 is more conserved than S1 among different coronavirus species. For example, the S1 proteins of SARS-CoV and SARS-CoV-2 differ by more than 10% of their amino acids. However, their HR1 domains differ by 7% and their HR2 domains are essentially identical[^10.1038/s41423-020-0374-2]. Fusion inhibitors are theoretically likely to have greater activity in preventing viral fusion occurring via the cell surface pathway than the endosomal pathway of virus entry[^10.1016/j.antiviral.2020.104792].
 
-Prior to the SARS-CoV-2 pandemic, an HR2 mimicking peptide named EK1 was identified as a potential broad-spectrum coronavirus inhibitor as it inhibited both SARS-CoV and MERS-CoV at sub-micromolar levels and was found to safe and protective when administered intra-nasally to SARS-CoV-infected mice[^10.1126/sciadv.aav4580]. With the emergence of SARS-CoV-2, the crystal structure of the SARS-CoV-2 six helix bundle was solved, and several modifications were made to the EK1 peptide. In addition, a cholesterol group was added[^10.1038/s41422-020-0305-x] as lipidation had recently been shown empirically to improve the pharmacokinetics and inhibitory activity of viral fusion inhibitors[^10.1128/JVI.00288-17]. This new lipopeptide, named EK1C4 was found to inhibit SARS-CoV-2 fusion 150 times more strongly than EK1, with SARS-CoV-2 EC<sub>50</sub>s of 0.04 μM and 0.004 μM in cell culture for SARS-CoV-2 and MERS-CoV, and with even lower EC<sub>50</sub>s in cell-cell fusion assays.
+Prior to the SARS-CoV-2 pandemic, an HR2 mimicking peptide named EK1 was identified as a potential broad-spectrum coronavirus inhibitor as it inhibited both SARS-CoV and MERS-CoV at sub-micromolar levels and was found to safe and protective against MERS-CoV when administered intra-nasally to SARS-CoV-infected mice[^10.1126/sciadv.aav4580]. With the emergence of SARS-CoV-2, the crystal structure of the SARS-CoV-2 six helix bundle was solved, and several modifications were made to the EK1 peptide. In addition, a cholesterol group was added[^10.1038/s41422-020-0305-x] as lipidation had recently been shown empirically to improve the pharmacokinetics and inhibitory activity of viral fusion inhibitors[^10.1128/JVI.00288-17]. This new lipopeptide, named EK1C4 was found to inhibit SARS-CoV-2 fusion 150 times more strongly than EK1, with SARS-CoV-2 EC<sub>50</sub>s of 0.04 μM and 0.004 μM in cell culture for SARS-CoV-2 and MERS-CoV, and with even lower EC<sub>50</sub>s in cell-cell fusion assays.
 
 ___Conclusion: In theory, safety and PK studies of a fusion inhibitor such as EK1C4 could begin immediately to determine the ideal mode of administration (parenteral, intranasal, inhalational), the risk of hypersensitivity, and the plasma half-life. Whereas peptides can be administered parenterally or by inhalation, it is not known whether the same would apply to a lipopeptide. In contrast to monoclonal antibodies, the half-life of fusion inhibitors will be short and could therefore be used solely for treatment.___
 
@@ -532,11 +532,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg0ODY3MiwtMTYyNzA5MjQzNyw1MT
-M2Mjg2OTEsMTQwMTE1NDE4MCwyMTMyNTgxNiwtMTE0OTQyNjg5
-OCwxOTA4NjUwODcsLTE0MTkyNzI1ODEsLTM3MTI3MTczMiw4MD
-k0MjUxNjcsLTI3MzgwMTk3NiwxNjAzMTgzMDMyLDE3NTI2MDAy
-NjksMjQzOTI1OTIwLDEyMzQ1ODIyMTIsLTQ3MjkzOTk1OSwtMT
-I0MzE2NTk5NCw4NzM1MDI0NTgsMTcxNzUxMTU5LC03NDM0MjM3
-M119
+eyJoaXN0b3J5IjpbLTEwMDc4OTIwNSwtMjAxODQ4NjcyLC0xNj
+I3MDkyNDM3LDUxMzYyODY5MSwxNDAxMTU0MTgwLDIxMzI1ODE2
+LC0xMTQ5NDI2ODk4LDE5MDg2NTA4NywtMTQxOTI3MjU4MSwtMz
+cxMjcxNzMyLDgwOTQyNTE2NywtMjczODAxOTc2LDE2MDMxODMw
+MzIsMTc1MjYwMDI2OSwyNDM5MjU5MjAsMTIzNDU4MjIxMiwtND
+cyOTM5OTU5LC0xMjQzMTY1OTk0LDg3MzUwMjQ1OCwxNzE3NTEx
+NTldfQ==
 -->
