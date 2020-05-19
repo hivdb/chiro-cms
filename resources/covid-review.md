@@ -151,7 +151,7 @@ Peptides that mimic HR2 can block virus-cell fusion by preventing the interactio
 
 Prior to the SARS-CoV-2 pandemic, an HR2 mimicking peptide named EK1 was identified as a potential broad-spectrum coronavirus inhibitor as it inhibited both SARS-CoV and MERS-CoV at sub-micromolar levels and was found to safe and protective against MERS-CoV when administered intra-nasally to SARS-CoV-infected mice[^10.1126/sciadv.aav4580]. With the emergence of SARS-CoV-2, the crystal structure of the SARS-CoV-2 six helix bundle was solved, and several modifications were made to the EK1 peptide. In addition, a cholesterol group was added[^10.1038/s41422-020-0305-x] as lipidation had recently been shown empirically to improve the pharmacokinetics and inhibitory activity of viral fusion inhibitors[^10.1128/JVI.00288-17]. This new lipopeptide, named EK1C4 was found to inhibit SARS-CoV-2 fusion 150 times more strongly than EK1, with SARS-CoV-2 EC<sub>50</sub>s of 0.04 μM and 0.004 μM in cell culture for SARS-CoV-2 and MERS-CoV, and with even lower EC<sub>50</sub>s in cell-cell fusion assays.
 
-___Conclusion: Further animal model studies or a phase I/II study in COVID-19 patients could be useful to determine the safety, pharmacokinetic, and efficacy of a fusion inhibitor such as EK1C4. could begin immediately to determine the ideal mode of administration (parenteral, intranasal, inhalational), the risk of hypersensitivity, and the plasma half-life. Whereas peptides can be administered parenterally or by inhalation, it is not known whether the same would apply to a lipopeptide. In contrast to monoclonal antibodies, the half-life of fusion inhibitors will be short and could therefore be used solely for treatment.___
+___Conclusion: Further animal model studies or a phase I/II study in COVID-19 patients could be useful to determine the safety, pharmacokinetic, and efficacy of a fusion inhibitor such as EK1C4 administered intrave. In contrast to monoclonal antibodies, the half-life of fusion inhibitors will be short and could therefore be used solely for treatment.___
 
 ### Soluble ACE2 and Other Molecular Decoys
 Soluble recombinant human ACE2 (rhACE2) has two potential beneficial effects. First, prior to the SARS-CoV-2 pandemic, rhACE2 has been studied to protect lungs from injury during acute respiratory distress syndrome (ARDS)[^10.1038/nature03712][^10.1038/nm1267][^10.1186/s13054-017-1823-x][^10.1016/j.cell.2020.04.004]. Second, rhACE2 inhibits the binding of SARS-CoV and SARS-CoV-2 to ACE2-expressing cells[^10.1016/j.bbrc.2004.05.114][^10.1016/j.cell.2020.03.045] and has displayed does-dependent activity _in vitro_ against SARS-CoV-2 in cultured cells and engineered human blood vessel and kidney organoids[^10.1016/j.cell.2020.04.004]. APN1 (Apeiron Biologics) is a recombinant form of human ACE2, that demonstrated safety in 89 non-SARS-CoV-2 patients and volunteers. It is now being evaluated in a 200-person placebo-controlled study of hospitalized persons with SARS-CoV-2 (NCT04335136). Another more recently described similar approach involving the use of a fusion protein – in which an inactive ACE2 mutant is linked to a human Fc IgG – is highly active _in vitro_ [^10.1038/s41467-020-16048-4].
@@ -532,11 +532,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTMxMzU4OSwtMjAxODQ4NjcyLC0xNj
-I3MDkyNDM3LDUxMzYyODY5MSwxNDAxMTU0MTgwLDIxMzI1ODE2
-LC0xMTQ5NDI2ODk4LDE5MDg2NTA4NywtMTQxOTI3MjU4MSwtMz
-cxMjcxNzMyLDgwOTQyNTE2NywtMjczODAxOTc2LDE2MDMxODMw
-MzIsMTc1MjYwMDI2OSwyNDM5MjU5MjAsMTIzNDU4MjIxMiwtND
-cyOTM5OTU5LC0xMjQzMTY1OTk0LDg3MzUwMjQ1OCwxNzE3NTEx
-NTldfQ==
+eyJoaXN0b3J5IjpbMTg0NDYyNjAzLC0yMDE4NDg2NzIsLTE2Mj
+cwOTI0MzcsNTEzNjI4NjkxLDE0MDExNTQxODAsMjEzMjU4MTYs
+LTExNDk0MjY4OTgsMTkwODY1MDg3LC0xNDE5MjcyNTgxLC0zNz
+EyNzE3MzIsODA5NDI1MTY3LC0yNzM4MDE5NzYsMTYwMzE4MzAz
+MiwxNzUyNjAwMjY5LDI0MzkyNTkyMCwxMjM0NTgyMjEyLC00Nz
+I5Mzk5NTksLTEyNDMxNjU5OTQsODczNTAyNDU4LDE3MTc1MTE1
+OV19
 -->
