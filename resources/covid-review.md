@@ -142,7 +142,9 @@ Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patient
 
 Li et al reported that a highly potent SARS-CoV-2 specific MAb identified by phage-display protected hACE2-transgenic mice from intranasal challenge[^10.1101/2020.05.13.093088].
 
-Rogers et al screened >1000 antigen-specific antibodies from the B cells of 22 convalescent patients[^10.1101/2020.05.11.088674]. They reported a positive correlation between cell surface spike binding and live replication virus neutralization for plasma as a whole but not for individual MAbs. Indeed, only a small proportion of RBD-binding MAbs were neutralizing. Their neutralizing MAbs were found to bind to three non-competing RBD epitopes, they refer to as RBD-A, RBD-B, and RBD-C. Their neutralizing MAbs that did not bind to the RBD generally showed poor neutralizing activity. One MAb CC12.1 was found to prevent weight loss in Syrian hamsters challenged with SARS-CoV-2[^10.1101/2020.05.11.088674],
+Rogers et al screened >1000 antigen-specific antibodies from the B cells of 22 convalescent patients[^10.1101/2020.05.11.088674]. They reported a positive correlation between cell surface spike binding and live replication virus neutralization for plasma as a whole but not for individual MAbs. Indeed, only a small proportion of RBD-binding MAbs were neutralizing. Their neutralizing MAbs were found to bind to three non-competing RBD epitopes, they refer to as RBD-A, RBD-B, and RBD-C. Their neutralizing MAbs that did not bind to the RBD generally showed poor neutralizing activity. One MAb CC12.1 was found to prevent weight loss in Syrian hamsters challenged with SARS-CoV-2[^10.1101/2020.05.11.088674].
+
+
 
 ___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. During the past three weeks, eight groups have described the development of MAbs that are able to inhibit SARS-CoV-2 or both SARS-CoV and SARS-CoV-2 in vitro.___
 
@@ -532,11 +534,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjA0NjgwMCwtMTkyNjUyMDcxMCwtMj
-AxODQ4NjcyLC0xNjI3MDkyNDM3LDUxMzYyODY5MSwxNDAxMTU0
-MTgwLDIxMzI1ODE2LC0xMTQ5NDI2ODk4LDE5MDg2NTA4NywtMT
-QxOTI3MjU4MSwtMzcxMjcxNzMyLDgwOTQyNTE2NywtMjczODAx
-OTc2LDE2MDMxODMwMzIsMTc1MjYwMDI2OSwyNDM5MjU5MjAsMT
-IzNDU4MjIxMiwtNDcyOTM5OTU5LC0xMjQzMTY1OTk0LDg3MzUw
-MjQ1OF19
+eyJoaXN0b3J5IjpbMzQwMzQ0MTcwLDE3MjIwNDY4MDAsLTE5Mj
+Y1MjA3MTAsLTIwMTg0ODY3MiwtMTYyNzA5MjQzNyw1MTM2Mjg2
+OTEsMTQwMTE1NDE4MCwyMTMyNTgxNiwtMTE0OTQyNjg5OCwxOT
+A4NjUwODcsLTE0MTkyNzI1ODEsLTM3MTI3MTczMiw4MDk0MjUx
+NjcsLTI3MzgwMTk3NiwxNjAzMTgzMDMyLDE3NTI2MDAyNjksMj
+QzOTI1OTIwLDEyMzQ1ODIyMTIsLTQ3MjkzOTk1OSwtMTI0MzE2
+NTk5NF19
 -->
