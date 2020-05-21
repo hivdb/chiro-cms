@@ -146,7 +146,7 @@ Rogers et. al. screened >1000 antigen-specific antibodies from the B cells of 22
 
 Wec et. al. screened a panel of SARS-CoV-2 S-reactive MAbs obtained in 2020 from the B cells of person with a history of SARS-CoV[^10.1101/2020.05.15.096511]. Most binding MAbs were somatically hypermutated; 33% originated from IgA+ B cells and 66% from IgG+ B cells. Most of the low-affinity MAbs showed cross-reactivity with one or more HCoV S proteins. Most of the MAbs competed only with hACE2, three competed only with CR3022, four competed with both hACE2 and CR3022, and seven did not compete with hACE2 or CR3022. Several of the RBD-binding MAbs displayed SARS-CoV-2 neutralizing activity at concentrations of about 1 μg/ml in pseudovirus entry assays.
 
-Ejemel et al. screened a panel of human MAb
+Ejemel et al. screened a panel of SARS-CoV RBD-targeting MAbs isolated from transgenic mice expressing human immunoglobulin genes and identified MAb362
 
 ___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. During the past three weeks, eight groups have described the development of MAbs that are able to inhibit SARS-CoV-2 or both SARS-CoV and SARS-CoV-2 in vitro.___
 
@@ -538,11 +538,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTQ5NTc3MiwtMTk2NTE3OTI3Niw5OD
-Y2NzgxNzQsMTcyMjA0NjgwMCwtMTkyNjUyMDcxMCwtMjAxODQ4
-NjcyLC0xNjI3MDkyNDM3LDUxMzYyODY5MSwxNDAxMTU0MTgwLD
-IxMzI1ODE2LC0xMTQ5NDI2ODk4LDE5MDg2NTA4NywtMTQxOTI3
-MjU4MSwtMzcxMjcxNzMyLDgwOTQyNTE2NywtMjczODAxOTc2LD
-E2MDMxODMwMzIsMTc1MjYwMDI2OSwyNDM5MjU5MjAsMTIzNDU4
-MjIxMl19
+eyJoaXN0b3J5IjpbLTEzNzM4Mjg4NDQsLTE5NjUxNzkyNzYsOT
+g2Njc4MTc0LDE3MjIwNDY4MDAsLTE5MjY1MjA3MTAsLTIwMTg0
+ODY3MiwtMTYyNzA5MjQzNyw1MTM2Mjg2OTEsMTQwMTE1NDE4MC
+wyMTMyNTgxNiwtMTE0OTQyNjg5OCwxOTA4NjUwODcsLTE0MTky
+NzI1ODEsLTM3MTI3MTczMiw4MDk0MjUxNjcsLTI3MzgwMTk3Ni
+wxNjAzMTgzMDMyLDE3NTI2MDAyNjksMjQzOTI1OTIwLDEyMzQ1
+ODIyMTJdfQ==
 -->
