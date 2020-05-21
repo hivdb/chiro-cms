@@ -144,7 +144,7 @@ Li et al reported that a highly potent SARS-CoV-2 specific MAb identified by pha
 
 Rogers et al screened >1000 antigen-specific antibodies from the B cells of 22 convalescent patients[^10.1101/2020.05.11.088674]. They reported a positive correlation between cell surface spike binding and live replication virus neutralization for plasma as a whole but not for individual MAbs. Indeed, only a small proportion of RBD-binding MAbs were neutralizing. Their neutralizing MAbs were found to bind to three non-competing RBD epitopes, they refer to as RBD-A, RBD-B, and RBD-C. Their neutralizing MAbs that did not bind to the RBD generally showed poor neutralizing activity. One MAb CC12.1 was found to prevent weight loss in Syrian hamsters challenged with SARS-CoV-2[^10.1101/2020.05.11.088674].
 
-Wec et al screened a panel of SARS-CoV-2 S-reactive MAbs from the B cells of person with a history of SARS-CoV[^10.1101/2020.05.15.096511]. Most antibodies were somatically hypermutate  
+Wec et al screened a panel of SARS-CoV-2 S-reactive MAbs from the B cells of person with a history of SARS-CoV[^10.1101/2020.05.15.096511]. Most binding antibodies were somatically hypermutated, which appears to contrast with the data from a history of    
 
 ___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. During the past three weeks, eight groups have described the development of MAbs that are able to inhibit SARS-CoV-2 or both SARS-CoV and SARS-CoV-2 in vitro.___
 
@@ -534,11 +534,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTk1ODUyMywxNzIyMDQ2ODAwLC0xOT
-I2NTIwNzEwLC0yMDE4NDg2NzIsLTE2MjcwOTI0MzcsNTEzNjI4
-NjkxLDE0MDExNTQxODAsMjEzMjU4MTYsLTExNDk0MjY4OTgsMT
-kwODY1MDg3LC0xNDE5MjcyNTgxLC0zNzEyNzE3MzIsODA5NDI1
-MTY3LC0yNzM4MDE5NzYsMTYwMzE4MzAzMiwxNzUyNjAwMjY5LD
-I0MzkyNTkyMCwxMjM0NTgyMjEyLC00NzI5Mzk5NTksLTEyNDMx
-NjU5OTRdfQ==
+eyJoaXN0b3J5IjpbLTE4MDI1MDM0ODcsMTcyMjA0NjgwMCwtMT
+kyNjUyMDcxMCwtMjAxODQ4NjcyLC0xNjI3MDkyNDM3LDUxMzYy
+ODY5MSwxNDAxMTU0MTgwLDIxMzI1ODE2LC0xMTQ5NDI2ODk4LD
+E5MDg2NTA4NywtMTQxOTI3MjU4MSwtMzcxMjcxNzMyLDgwOTQy
+NTE2NywtMjczODAxOTc2LDE2MDMxODMwMzIsMTc1MjYwMDI2OS
+wyNDM5MjU5MjAsMTIzNDU4MjIxMiwtNDcyOTM5OTU5LC0xMjQz
+MTY1OTk0XX0=
 -->
