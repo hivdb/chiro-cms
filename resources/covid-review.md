@@ -140,11 +140,13 @@ Brouwer et. al. cloned several highly potent ACE2-competing MAbs from convalesce
 
 Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patients and grouped them into five classes according to their binding patterns and virus cross-reactivity[^10.1101/2020.05.12.091462]. Class I bind stabilized trimeric prefusion S ectodomain (S2P<sub>ecto</sub>) and the RBD and are SARS-CoV-2 specific. Class II bind the same sites but cross-react with SARS-CoV. Class III bind S2P<sub>ecto</sub> and the S1 N-terminal domain and are SARS-CoV-2 specific. Class IV bind only S2P<sub>ecto</sub> and are SARS-CoV-2 specific. Class V bind only  S2P<sub>ecto</sub> and cross-react with SARS-CoV[^10.1101/2020.05.12.091462].
 
-Li et al reported that a highly potent SARS-CoV-2 specific MAb identified by phage-display protected hACE2-transgenic mice from intranasal challenge[^10.1101/2020.05.13.093088].
+Li et. al. reported that a highly potent SARS-CoV-2 specific MAb identified by phage-display protected hACE2-transgenic mice from intranasal challenge[^10.1101/2020.05.13.093088].
 
-Rogers et al screened >1000 antigen-specific antibodies from the B cells of 22 convalescent patients[^10.1101/2020.05.11.088674]. They reported a positive correlation between cell surface spike binding and live replication virus neutralization for plasma as a whole but not for individual MAbs. Indeed, only a small proportion of RBD-binding MAbs were neutralizing. Their neutralizing MAbs were found to bind to three non-competing RBD epitopes, they refer to as RBD-A, RBD-B, and RBD-C. Their neutralizing MAbs that did not bind to the RBD generally showed poor neutralizing activity. One MAb CC12.1 was found to prevent weight loss in Syrian hamsters challenged with SARS-CoV-2[^10.1101/2020.05.11.088674].
+Rogers et. al. screened >1000 antigen-specific antibodies from the B cells of 22 convalescent patients[^10.1101/2020.05.11.088674]. They reported a positive correlation between cell surface spike binding and live replication virus neutralization for plasma as a whole but not for individual MAbs. Indeed, only a small proportion of RBD-binding MAbs were neutralizing. Their neutralizing MAbs were found to bind to three non-competing RBD epitopes, they refer to as RBD-A, RBD-B, and RBD-C. Their neutralizing MAbs that did not bind to the RBD generally showed poor neutralizing activity. One MAb CC12.1 was found to prevent weight loss in Syrian hamsters challenged with SARS-CoV-2[^10.1101/2020.05.11.088674].
 
-Wec et al screened a panel of SARS-CoV-2 S-reactive MAbs obtained in 2020 from the B cells of person with a history of SARS-CoV[^10.1101/2020.05.15.096511]. Most binding MAbs were somatically hypermutated; 33% originated from IgA+ B cells and 66% from IgG+ B cells. Most of the low-affinity MAbs showed cross-reactivity with one or more HCoV S proteins. Most of the MAbs competed only with hACE2, three competed only with CR3022, four competed with both hACE2 and CR3022, and seven did not compete with hACE2 or CR3022. Several of the RBD-binding MAbs displayed SARS-CoV-2 neutralizing activity at concentrations of about 1 μg/ml in pseudovirus entry assays.
+Wec et. al. screened a panel of SARS-CoV-2 S-reactive MAbs obtained in 2020 from the B cells of person with a history of SARS-CoV[^10.1101/2020.05.15.096511]. Most binding MAbs were somatically hypermutated; 33% originated from IgA+ B cells and 66% from IgG+ B cells. Most of the low-affinity MAbs showed cross-reactivity with one or more HCoV S proteins. Most of the MAbs competed only with hACE2, three competed only with CR3022, four competed with both hACE2 and CR3022, and seven did not compete with hACE2 or CR3022. Several of the RBD-binding MAbs displayed SARS-CoV-2 neutralizing activity at concentrations of about 1 μg/ml in pseudovirus entry assays.
+
+Ejemel et al. screened a panel of human MAb
 
 ___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. During the past three weeks, eight groups have described the development of MAbs that are able to inhibit SARS-CoV-2 or both SARS-CoV and SARS-CoV-2 in vitro.___
 
@@ -411,7 +413,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1016/j.antiviral.2020.104792]: Tang T, Bidon M, et int., Daniel S. "Coronavirus membrane fusion mechanism offers as a potential target for antiviral development" _Antiviral Res._, 2020. [10.1016/j.antiviral.2020.104792](https://doi.org/10.1016/j.antiviral.2020.104792)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
 [^10.1128/JVI.01697-07]: Ujike M, Nishikawa H, et int., Taguchi F. "Heptad Repeat-Derived Peptides Block Protease-Mediated Direct Entry from the Cell Surface of Severe Acute Respiratory Syndrome Coronavirus but Not Entry via the Endosomal Pathway" _Journal of Virology_, 2008. [10.1128/JVI.01697-07](https://doi.org/10.1128/JVI.01697-07)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -536,11 +538,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjUxNzkyNzYsOTg2Njc4MTc0LDE3Mj
-IwNDY4MDAsLTE5MjY1MjA3MTAsLTIwMTg0ODY3MiwtMTYyNzA5
-MjQzNyw1MTM2Mjg2OTEsMTQwMTE1NDE4MCwyMTMyNTgxNiwtMT
-E0OTQyNjg5OCwxOTA4NjUwODcsLTE0MTkyNzI1ODEsLTM3MTI3
-MTczMiw4MDk0MjUxNjcsLTI3MzgwMTk3NiwxNjAzMTgzMDMyLD
-E3NTI2MDAyNjksMjQzOTI1OTIwLDEyMzQ1ODIyMTIsLTQ3Mjkz
-OTk1OV19
+eyJoaXN0b3J5IjpbLTY4OTQ5NTc3MiwtMTk2NTE3OTI3Niw5OD
+Y2NzgxNzQsMTcyMjA0NjgwMCwtMTkyNjUyMDcxMCwtMjAxODQ4
+NjcyLC0xNjI3MDkyNDM3LDUxMzYyODY5MSwxNDAxMTU0MTgwLD
+IxMzI1ODE2LC0xMTQ5NDI2ODk4LDE5MDg2NTA4NywtMTQxOTI3
+MjU4MSwtMzcxMjcxNzMyLDgwOTQyNTE2NywtMjczODAxOTc2LD
+E2MDMxODMwMzIsMTc1MjYwMDI2OSwyNDM5MjU5MjAsMTIzNDU4
+MjIxMl19
 -->
