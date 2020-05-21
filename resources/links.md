@@ -2,6 +2,7 @@
 ### Literature
 - COVID-19 Open Research Dataset
 [https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
+[https://scisight.apps.allenai.org/](https://scisight.apps.allenai.org/)
 - National Library of Medicine LitCovid Database: [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
 - COVID-19 Research Articles Downloadable Database:
 [https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html](https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html)
@@ -74,10 +75,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjIyMzE4NCw2NDYyOTAxOTcsODM3Mj
-Q1OTk1LDg5NzM3MjgwNSwxMzgxOTU2MzQxLC0xMzAyNTUxMjc4
-LDE4Mzc5ODY4MjYsLTc4NzM5NDk2OSwtMTQyNTA1OTU1MSwxMD
-M0NTEyOTc5LC0xMDM0MzY5OTQ5LC0xMzk3NjM0NzE5LC0xMzY0
-MzQ4Njk3LC00ODUzMzU5OSwtMTE2MzkzMzE1NiwtNjg0ODk5NT
-A3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEwNTA2NDQzODAsMTU5MjIyMzE4NCw2ND
+YyOTAxOTcsODM3MjQ1OTk1LDg5NzM3MjgwNSwxMzgxOTU2MzQx
+LC0xMzAyNTUxMjc4LDE4Mzc5ODY4MjYsLTc4NzM5NDk2OSwtMT
+QyNTA1OTU1MSwxMDM0NTEyOTc5LC0xMDM0MzY5OTQ5LC0xMzk3
+NjM0NzE5LC0xMzY0MzQ4Njk3LC00ODUzMzU5OSwtMTE2MzkzMz
+E1NiwtNjg0ODk5NTA3LDczMDk5ODExNl19
 -->
