@@ -132,7 +132,7 @@ The most frequently studied MERS-CoV MAbs include (i) Mersmab1[^10.1128/JVI.0043
 
 Most SARS-CoV MAbs do not inhibit SARS-CoV-2[^10.1016/j.cell.2020.03.045]. For example, three well-characterized SARS-CoV RBD-directed MAbs (S230, m396, and 80R) do not bind SARS-CoV-2 RBD at a concentration of 1μM[^10.1126/science.abb2507]. However, two MAbs that appear to bind at more conserved S1 sites that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including CR3022 and S309[^10.1080/22221751.2020.1729069][^10.1126/science.abb7269][^10.1101/2020.05.05.079202][^10.1101/2020.04.07.023903]. Pinto et al reported that S309 recognizes an epitope distinct from the S1 receptor binding motif. It is also synergistic with MAbs that bind to the S1 receptor binding motif[^10.1101/2020.04.07.023903].
 
-Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection that potently inhibit SARS-CoV-2 in either pseudovirus or infectious virus assays[^10.1038/s41423-020-0426-7]. 
+Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection that potently inhibit SARS-CoV-2 in either pseudovirus or infectious virus assays[^10.1038/s41423-020-0426-7][^10.1101/2020.05.12.088716][^10.1101/2020.03.21.990770]. 
 
 With improvements in MAb technology, it has been predicted that under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5][^10.1101/2020.05.12.088716][^10.1101/2020.03.21.990770]. Most of these antibodies compete with S1-ACE2 binding.
 
@@ -540,11 +540,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyNTQyOTQzLDE5NjY4ODYwNzIsLTE5Nj
-UxNzkyNzYsOTg2Njc4MTc0LDE3MjIwNDY4MDAsLTE5MjY1MjA3
-MTAsLTIwMTg0ODY3MiwtMTYyNzA5MjQzNyw1MTM2Mjg2OTEsMT
-QwMTE1NDE4MCwyMTMyNTgxNiwtMTE0OTQyNjg5OCwxOTA4NjUw
-ODcsLTE0MTkyNzI1ODEsLTM3MTI3MTczMiw4MDk0MjUxNjcsLT
-I3MzgwMTk3NiwxNjAzMTgzMDMyLDE3NTI2MDAyNjksMjQzOTI1
-OTIwXX0=
+eyJoaXN0b3J5IjpbLTIwNTkxMjA0MTEsNzIyNTQyOTQzLDE5Nj
+Y4ODYwNzIsLTE5NjUxNzkyNzYsOTg2Njc4MTc0LDE3MjIwNDY4
+MDAsLTE5MjY1MjA3MTAsLTIwMTg0ODY3MiwtMTYyNzA5MjQzNy
+w1MTM2Mjg2OTEsMTQwMTE1NDE4MCwyMTMyNTgxNiwtMTE0OTQy
+Njg5OCwxOTA4NjUwODcsLTE0MTkyNzI1ODEsLTM3MTI3MTczMi
+w4MDk0MjUxNjcsLTI3MzgwMTk3NiwxNjAzMTgzMDMyLDE3NTI2
+MDAyNjldfQ==
 -->
