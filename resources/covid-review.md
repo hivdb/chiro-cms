@@ -219,7 +219,9 @@ The pharmacokinetics of chloroquine and hydroxychloroquine are complicated. Base
 
 There have been two large observational studies strongly suggesting that chloroquine and hydroxychloroquine, are unlikely to provide any clinical benefit. These studies have also reported that chloroquine analogs, particularly when used in combination with azithromycin, are likely to be associated with increased morbidity and mortality as a result of an increased risk of ventricular arrhythmias[^10.1056/NEJMoa2012410][^10.1016/S0140-6736(20)31180-6]. Four small controlled trials also found no evidence of clinical or virological benefit for the use of chloroquine analogs[^10.1101/2020.03.22.20040758][^10.1001/jamanetworkopen.2020.8857][^10.1101/2020.04.10.20060558][^10.3785/j.issn.1008-9292.2020.03.03]; one of these reported an increased risk of ventricular arrhythmias[^10.1001/jamanetworkopen.2020.8857]. The remaining small observational studies reported highly variable results[^10.1136/bmj.m1844][^10.1016/j.medmal.2020.03.006] [^10.1016/j.tmaid.2020.101663][^10.1101/2020.04.26.20081059][^10.1101/2020.04.27.20073379][^10.1093/ofid/ofaa130]. The two large observational studies are summarized here. 
 
-Mehra et. al. performed a multinational registry analysis examining the risk of mortality and ventricular arrhythmias in 14,888 hospitalized patients with PCR-confirmed disease receiving chloroquine or hydroxychloroquine +/- a macrolide antibiotic compared with 81,444 in the same registry through April 14, 2020. Patients who began CQ or HCQ while receiving mechanical ventilation or more than 48 hours after diagnosis were excluded.
+Mehra et. al. performed a multinational registry analysis examining the risk of mortality and ventricular arrhythmias in 14,888 hospitalized patients with PCR-confirmed disease receiving chloroquine or hydroxychloroquine +/- a macrolide antibiotic compared with 81,444 in the same registry through April 14, 2020 who received neither drug (control group). Patients who began a chloroquine analog while receiving mechanical ventilation or more than 48 hours after diagnosis were excluded.
+
+The mortality in the control group was 9.3%. In an analysis that controlled for multiple confounding factors, HCQ (18.0%; HR: 1.34, 95% CI: 1.22-1.46), HCQ+AZ (23.8%; HR:1.45, 1.37-1.53), CQ (16.4%; 1.37, 1.22-1.46), CQ+AZ (22.2%; 1.37, 1.27-1.47) were independently associated with increased risk of in-hospital mortality. Compared with the control group (0·3%), HCQ (6.1%; 2.37, 1.94–2.90), HCQ+AZ (8.1%; 5.11, 4.11–5.99), CQ (4.3%; 3.56, 2.76–4.60), and CQ+AZ (6.5%; 4.01, 3.34–4.81) were independently associated with an increased risk of de-novo ventricular arrhythmia during hospitalization.
 
 In a large observational study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine, the risk of the primary endpoint, death or intubation, was compared with those patients not receiving hydroxychloroquine.  Overall 346 (25.1%) patients met the composite primary endpoint. In an unadjusted analysis that did not take into account disease severity, the risk of the primary endpoint was higher among those receiving hydroxychloroquine (HR:2.37; 95% CI: 0.82-1.32), although in the primary multivariable analysis, there was no difference between the two groups (HR:1.04;95%: 0.82-1.32)[^10.1056/NEJMoa2012410].
 
@@ -540,7 +542,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTAyNTcwNCwxOTQwMTI5NjI5LDIxMD
+eyJoaXN0b3J5IjpbMTMxMDczNzg4OCwxOTQwMTI5NjI5LDIxMD
 g2MzgzNzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYwNDE3
 NzYsLTIwNTkxMjA0MTEsNzIyNTQyOTQzLDE5NjY4ODYwNzIsLT
 E5NjUxNzkyNzYsOTg2Njc4MTc0LDE3MjIwNDY4MDAsLTE5MjY1
