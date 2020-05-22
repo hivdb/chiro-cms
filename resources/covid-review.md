@@ -217,7 +217,7 @@ Chloroquine and hydroxychloroquine have demonstrated modest inhibitory activity 
 
 The pharmacokinetics of chloroquine and hydroxychloroquine are complicated. Based on plasma levels alone, they appear to barely achieve sufficient inhibitory levels in patients receiving standard dosing regimens[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1101/2020.04.16.20068379]. Mefloquine is an antimalarial that also weakly inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1128/AAC.03036-14][^10.1101/2020.03.20.999730] but achieves higher plasma levels than chloroquine or hydroxychloroquine[^10.1101/2020.04.16.20068379].
 
-There have been two large observational studies strongly suggesting that chloroquine and hydroxychloroquine, are unlikely to provide any clinical benefit. These studies have also reported that chloroquine analogs, particularly when used in combination with azithromycin, are likely to be associated with increased morbidity and mortality as a result of an increased risk of ventricular arrhythmias[^10.1056/NEJMoa2012410][^10.1016/S0140-6736(20)31180-6]. Four small controlled trials also found no evidence of clinical or virological benefit for the use of chloroquine analogs[^10.1101/2020.03.22.20040758][^10.1001/jamanetworkopen.2020.8857][^10.1101/2020.04.10.20060558][^10.3785/j.issn.1008-9292.2020.03.03]; one of these reported an increased risk of ventricular arrhythmias[^10.1001/jamanetworkopen.2020.8857]. Most of the remaining small observational studies did not find evidence of clinical or virological benefit[^10.1093/ofid/ofaa130][^10.1016/j.tmaid.2020.101663][^10.1016/j.tmaid.2020.101663][^10.1101/2020.04.26.20081059][^10.1101/2020.04.27.20073379][^10.1093/ofid/ofaa130];
+There have been two large observational studies strongly suggesting that chloroquine and hydroxychloroquine, are unlikely to provide any clinical benefit. These studies have also reported that chloroquine analogs, particularly when used in combination with azithromycin, are likely to be associated with increased morbidity and mortality as a result of an increased risk of ventricular arrhythmias[^10.1056/NEJMoa2012410][^10.1016/S0140-6736(20)31180-6]. Four small controlled trials also found no evidence of clinical or virological benefit for the use of chloroquine analogs[^10.1101/2020.03.22.20040758][^10.1001/jamanetworkopen.2020.8857][^10.1101/2020.04.10.20060558][^10.3785/j.issn.1008-9292.2020.03.03]; one of these reported an increased risk of ventricular arrhythmias[^10.1001/jamanetworkopen.2020.8857]. The remaining small observational studies reported highly variable resultsclinical or virological benefit[^10.1093/ofid/ofaa130][^10.1016/j.tmaid.2020.101663][^10.1016/j.tmaid.2020.101663][^10.1101/2020.04.26.20081059][^10.1101/2020.04.27.20073379][^10.1093/ofid/ofaa130];
 
 
 
@@ -541,11 +541,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDk2NDk1MSwxOTQwMTI5NjI5LDIxMD
-g2MzgzNzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYwNDE3
-NzYsLTIwNTkxMjA0MTEsNzIyNTQyOTQzLDE5NjY4ODYwNzIsLT
-E5NjUxNzkyNzYsOTg2Njc4MTc0LDE3MjIwNDY4MDAsLTE5MjY1
-MjA3MTAsLTIwMTg0ODY3MiwtMTYyNzA5MjQzNyw1MTM2Mjg2OT
-EsMTQwMTE1NDE4MCwyMTMyNTgxNiwtMTE0OTQyNjg5OCwxOTA4
-NjUwODddfQ==
+eyJoaXN0b3J5IjpbLTIwMDUwMzc5MzIsMTk0MDEyOTYyOSwyMT
+A4NjM4Mzc1LDY4ODMxNzA0NCwtNTI3OTk2Njg0LC0xMzk2MDQx
+Nzc2LC0yMDU5MTIwNDExLDcyMjU0Mjk0MywxOTY2ODg2MDcyLC
+0xOTY1MTc5Mjc2LDk4NjY3ODE3NCwxNzIyMDQ2ODAwLC0xOTI2
+NTIwNzEwLC0yMDE4NDg2NzIsLTE2MjcwOTI0MzcsNTEzNjI4Nj
+kxLDE0MDExNTQxODAsMjEzMjU4MTYsLTExNDk0MjY4OTgsMTkw
+ODY1MDg3XX0=
 -->
