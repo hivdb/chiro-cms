@@ -134,7 +134,7 @@ Most SARS-CoV MAbs do not inhibit SARS-CoV-2[^10.1016/j.cell.2020.03.045]. For e
 
 Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection that potently inhibit SARS-CoV-2 in either pseudovirus or infectious virus assays[^10.1038/s41423-020-0426-7]. 
 
-With improvements in MAb technology, it has been predicted that under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5][^10.1101/2020.05.12.088716][^10.1101/2020.03.21.990770.
+With improvements in MAb technology, it has been predicted that under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5][^10.1101/2020.05.12.088716][^10.1101/2020.03.21.990770]. Most of these antibodies compete with S1-ACE2 binding.
 
 Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs cloned from these patients (311mab–31B5, 311mab−32D4) were shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7].
 
@@ -540,11 +540,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODgxNTI3MSwxOTY2ODg2MDcyLC0xOT
-Y1MTc5Mjc2LDk4NjY3ODE3NCwxNzIyMDQ2ODAwLC0xOTI2NTIw
-NzEwLC0yMDE4NDg2NzIsLTE2MjcwOTI0MzcsNTEzNjI4NjkxLD
-E0MDExNTQxODAsMjEzMjU4MTYsLTExNDk0MjY4OTgsMTkwODY1
-MDg3LC0xNDE5MjcyNTgxLC0zNzEyNzE3MzIsODA5NDI1MTY3LC
-0yNzM4MDE5NzYsMTYwMzE4MzAzMiwxNzUyNjAwMjY5LDI0Mzky
-NTkyMF19
+eyJoaXN0b3J5IjpbNzIyNTQyOTQzLDE5NjY4ODYwNzIsLTE5Nj
+UxNzkyNzYsOTg2Njc4MTc0LDE3MjIwNDY4MDAsLTE5MjY1MjA3
+MTAsLTIwMTg0ODY3MiwtMTYyNzA5MjQzNyw1MTM2Mjg2OTEsMT
+QwMTE1NDE4MCwyMTMyNTgxNiwtMTE0OTQyNjg5OCwxOTA4NjUw
+ODcsLTE0MTkyNzI1ODEsLTM3MTI3MTczMiw4MDk0MjUxNjcsLT
+I3MzgwMTk3NiwxNjAzMTgzMDMyLDE3NTI2MDAyNjksMjQzOTI1
+OTIwXX0=
 -->
