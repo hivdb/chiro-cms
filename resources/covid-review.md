@@ -217,9 +217,9 @@ Chloroquine and hydroxychloroquine have demonstrated modest inhibitory activity 
 
 The pharmacokinetics of chloroquine and hydroxychloroquine are complicated. Based on plasma levels alone, they appear to barely achieve sufficient inhibitory levels in patients receiving standard dosing regimens[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1101/2020.04.16.20068379]. Mefloquine is an antimalarial that also weakly inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1128/AAC.03036-14][^10.1101/2020.03.20.999730] but achieves higher plasma levels than chloroquine or hydroxychloroquine[^10.1101/2020.04.16.20068379].
 
-There have been two large observational studies strongly suggesting that the chloroquine analogs, chloroquine and hydroxychloroquine, are unlikely to provide any clinical benefit. These studies have also reported that chloroquine analogs, particularly when used in combination with azithromycin, are likely to be associated with increased morbidity and mortality as a result of an increased risk of ventricular arrhythmias[^10.1056/NEJMoa2012410][^10.1016/S0140-6736(20)31180-6]. Four small controlled trials also found no evidence of clinical or virological benefit for the use of chloroquine analogs; one of these reported an increased risk of ventricular arrhythmias[^10.1001/jamanetworkopen.2020.8857].
+There have been two large observational studies strongly suggesting that the chloroquine analogs, chloroquine and hydroxychloroquine, are unlikely to provide any clinical benefit. These studies have also reported that chloroquine analogs, particularly when used in combination with azithromycin, are likely to be associated with increased morbidity and mortality as a result of an increased risk of ventricular arrhythmias[^10.1056/NEJMoa2012410][^10.1016/S0140-6736(20)31180-6]. Four small controlled trials also found no evidence of clinical or virological benefit for the use of chloroquine analogs[^10.1101/2020.03.22.20040758][^10.1001/jamanetworkopen.2020.8857][^10.1101/2020.04.10.20060558][^10.3785/j.issn.1008-9292.2020.03.03]; one of these reported an increased risk of ventricular arrhythmias[^10.1001/jamanetworkopen.2020.8857]. Most of the remaining small observational studies did not find evidence for 
 
-[^10.1101/2020.03.22.20040758][^10.1001/jamanetworkopen.2020.8857][^10.1101/2020.04.10.20060558][^10.3785/j.issn.1008-9292.2020.03.03]. 
+
 
 [^10.1136/bmj.m1844][^10.1016/j.medmal.2020.03.006]
 In a large observational study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine, the risk of the primary endpoint, death or intubation, was compared with those patients not receiving hydroxychloroquine.  Overall 346 (25.1%) patients met the composite primary endpoint. In an unadjusted analysis that did not take into account disease severity, the risk of the primary endpoint was higher among those receiving hydroxychloroquine (HR:2.37; 95% CI: 0.82-1.32), although in the primary multivariable analysis, there was no difference between the two groups (HR:1.04;95%: 0.82-1.32)[^10.1056/NEJMoa2012410].
@@ -541,7 +541,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY3OTYyMjEsMjEwODYzODM3NSw2OD
+eyJoaXN0b3J5IjpbLTIwMjQ1NDkwNTQsMjEwODYzODM3NSw2OD
 gzMTcwNDQsLTUyNzk5NjY4NCwtMTM5NjA0MTc3NiwtMjA1OTEy
 MDQxMSw3MjI1NDI5NDMsMTk2Njg4NjA3MiwtMTk2NTE3OTI3Ni
 w5ODY2NzgxNzQsMTcyMjA0NjgwMCwtMTkyNjUyMDcxMCwtMjAx
