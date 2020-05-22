@@ -215,7 +215,9 @@ Chloroquine and its analogs have been reported to have multiple intracellular ac
 
 Chloroquine and hydroxychloroquine have demonstrated modest inhibitory activity against MERS-CoV[^10.1128/AAC.03036-14][^10.3390/v10060283][^10.1128/AAC.03011-14], SARS-CoV[^10.1186/1743-422X-2-69][^10.1177/095632020601700505][^10.1016/j.bbrc.2004.08.085][^10.1128/AAC.03011-14], and SARS-CoV-2[^10.1038/s41422-020-0282-0][^10.1038/s41421-020-0156-0][^10.1093/cid/ciaa237][^10.1101/2020.03.20.999730][^10.1101/2020.04.04.020925][^10.1101/2020.03.29.014407][^10.1101/2020.04.03.023846] primarily in Vero cells with most EC<sub>50</sub>s ranging between 1 μM and 10 μM. Chloroquine has also been shown to reduce mortality in a mouse model of HCoV-OC43 infection[^10.1128/AAC.01509-08][^10.1128/JVI.00023-19] but to have minimal if any effects on virus levels in a mouse SARS-CoV model[^10.1177/095632020601700505]. However, despite its _in vitro_ inhibitory activity against influenza and other viruses including dengue, large clinical trials of chloroquine have not shown any clinical benefit suggesting that the modest viral inhibition observed _in vitro_ may be cell culture artifacts[^10.1371/journal.pntd.0000785][^10.1016/S1473-3099(11)70065-2].
 
-The pharmacokinetics of chloroquine and hydroxychloroquine are also complicated. Based on plasma levels alone, they appear to barely achieve sufficient inhibitory levels in patients receiving standard dosing regimens[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1101/2020.04.16.20068379]. Mefloquine is an antimalarial that also weakly inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1128/AAC.03036-14][^10.1101/2020.03.20.999730] but achieves higher plasma levels than chloroquine or hydroxychloroquine[^10.1101/2020.04.16.20068379].
+The pharmacokinetics of chloroquine and hydroxychloroquine are complicated. Based on plasma levels alone, they appear to barely achieve sufficient inhibitory levels in patients receiving standard dosing regimens[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1101/2020.04.16.20068379]. Mefloquine is an antimalarial that also weakly inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1128/AAC.03036-14][^10.1101/2020.03.20.999730] but achieves higher plasma levels than chloroquine or hydroxychloroquine[^10.1101/2020.04.16.20068379].
+
+In two large obser
 
 In a large observational study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine, the risk of the primary endpoint, death or intubation, was compared with those patients not receiving hydroxychloroquine.  Overall 346 (25.1%) patients met the composite primary endpoint. In an unadjusted analysis that did not take into account disease severity, the risk of the primary endpoint was higher among those receiving hydroxychloroquine (HR:2.37; 95% CI: 0.82-1.32), although in the primary multivariable analysis, there was no difference between the two groups (HR:1.04;95%: 0.82-1.32)[^10.1056/NEJMoa2012410].
 
@@ -410,7 +412,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1016/j.antiviral.2020.104792]: Tang T, Bidon M, et int., Daniel S. "Coronavirus membrane fusion mechanism offers as a potential target for antiviral development" _Antiviral Res._, 2020. [10.1016/j.antiviral.2020.104792](https://doi.org/10.1016/j.antiviral.2020.104792)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
 [^10.1128/JVI.01697-07]: Ujike M, Nishikawa H, et int., Taguchi F. "Heptad Repeat-Derived Peptides Block Protease-Mediated Direct Entry from the Cell Surface of Severe Acute Respiratory Syndrome Coronavirus but Not Entry via the Endosomal Pathway" _Journal of Virology_, 2008. [10.1128/JVI.01697-07](https://doi.org/10.1128/JVI.01697-07)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -536,11 +538,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOT
-YwNDE3NzYsLTIwNTkxMjA0MTEsNzIyNTQyOTQzLDE5NjY4ODYw
-NzIsLTE5NjUxNzkyNzYsOTg2Njc4MTc0LDE3MjIwNDY4MDAsLT
-E5MjY1MjA3MTAsLTIwMTg0ODY3MiwtMTYyNzA5MjQzNyw1MTM2
-Mjg2OTEsMTQwMTE1NDE4MCwyMTMyNTgxNiwtMTE0OTQyNjg5OC
-wxOTA4NjUwODcsLTE0MTkyNzI1ODEsLTM3MTI3MTczMiw4MDk0
-MjUxNjddfQ==
+eyJoaXN0b3J5IjpbLTE0NjQ4Nzg0NTAsNjg4MzE3MDQ0LC01Mj
+c5OTY2ODQsLTEzOTYwNDE3NzYsLTIwNTkxMjA0MTEsNzIyNTQy
+OTQzLDE5NjY4ODYwNzIsLTE5NjUxNzkyNzYsOTg2Njc4MTc0LD
+E3MjIwNDY4MDAsLTE5MjY1MjA3MTAsLTIwMTg0ODY3MiwtMTYy
+NzA5MjQzNyw1MTM2Mjg2OTEsMTQwMTE1NDE4MCwyMTMyNTgxNi
+wtMTE0OTQyNjg5OCwxOTA4NjUwODcsLTE0MTkyNzI1ODEsLTM3
+MTI3MTczMl19
 -->
