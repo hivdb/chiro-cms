@@ -225,16 +225,13 @@ Mehra et. al. reported that the mortality in the control group was 9.3%. In an a
 
 In an observational study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine, Geleris et. al. compared the risk of the primary endpoint (death or intubation) in those receiving vs. those not receiving hydroxychloroquine[^10.1056/NEJMoa2012410].  Overall 346 (25.1%) patients met the composite primary endpoint. In an unadjusted analysis that did not take into account disease severity, the risk of the primary endpoint was higher among those receiving hydroxychloroquine (HR:2.37; 95% CI: 0.82-1.32), although in the primary multivariable analysis, there was no difference between the two groups (HR:1.04;95%: 0.82-1.32)[^10.1056/NEJMoa2012410].
 
-
-
-
 Niclosamide is an oral anti-helminthic drug that has been used in millions of persons worldwide. It appears to exert it anti-helminthic effects by inhibiting oxidative phosphorylation and stimulating mitochondrial adenosine triphosphatase activity[^10.1021/acsinfecdis.0c00052]. In high-throughput drug repurposing screens, niclosamide has been found to have several additional biological effects that appear to be associated either with its effect on endosomal acidification or with its influence on signaling pathways[^10.1016/j.cellsig.2017.04.001]. Five research groups reported that niclosamide inhibits SARS-CoV[^10.1021/jm070295s][^10.1073/pnas.0403596101], MERS-CoV[^10.1101/2020.02.25.965582], or SARS-CoV-2[^10.1101/2020.04.15.997254][^10.1101/2020.03.20.999730] in cell culture with EC<sub>50</sub>s consistently below 1 μM. One study suggested that SARS-CoV-2 facilitates AKT1/SKPT-dependent degradation of autophagy-initiating Beclin-1 and that reversal of this effect by niclosamide and the AKT inhibitor MK-2206 markedly inhibits SARS-CoV-2[^10.1101/2020.04.15.997254]. Although niclosamide dosing has generally been designed to achieve high intestinal levels, a recent pharmacokinetic review suggested that even at current doses, its maximal plasma concentration may be sufficient to inhibit SARS-CoV-2 replication[^10.1101/2020.04.16.20068379].
 
 Chlorpromazine is an antipsychotic drug used in treatment of schizophrenia that has been reported to inhibit several viruses by interfering with viral entry into cells by inhibiting clathrin-mediated endocytosis[^10.1038/nrd.2015.37][^10.7150/ijbs.45498]. Four studies have reported EC<sub>50</sub>s in the range of 1 to 14 μM for SARS-CoV and MERS-CoV[^10.1128/AAC.03036-14][^10.1128/AAC.03011-14][^10.1371/journal.pone.0194868][^10.1101/2020.03.25.008482].
 
 K22 is a small molecule found to inhibit the double membrane formation and reticular vesicular network required for the replication of coronaviruses and other positive strand RNA viruses[^10.1371/journal.ppat.1004166][^10.1016/j.virusres.2018.01.002]. Although it has weak _in vitro_ activity, it is of interest because it appears to act at a novel stage of infection; furthermore, K22-resistant viruses containing nsp6 mutations were selected after 10 passages of HCoV-229E suggesting that this compound may also have specific antiviral activity[^10.1371/journal.ppat.1004166].
 
-___Conclusion: The early hopes that chloroquine / hydroxychloroquine might be efficacious for treating SARS-CoV-2 no longer appear to be justified. These drugs are also associated with a high risk of toxicity especially when administered in combination with azithromycin. Many of the clinical trials containing these drugs are likely to be redesigned now that remdesivir appears to be efficacious. Among the endosomal trafficking inhibitors, niclosamide now appears more promising than hydroxychloroquine, although questions remain about its bioavailability. A phase I/II trial of niclosamide to evaluate its pharmacokinetics and potential antiviral activity would help determine whether this drug could be a safe and inexpensive oral SARS-CoV-2 treatment.___
+___Conclusion: The early hopes that chloroquine / hydroxychloroquine might be efficacious for treating SARS-CoV-2 no longer appear to be justified. These drugs are also associated with a high risk of toxicity especially when administered in combination with azithromycin.  Among the endosomal trafficking inhibitors, niclosamide now appears more promising than hydroxychloroquine, although questions remain about its bioavailability. A phase I/II trial of niclosamide to evaluate its pharmacokinetics and potential antiviral activity would help determine whether this drug could be a safe and inexpensive oral SARS-CoV-2 treatment.___
 
 ### Miscellaneous Additional Host Targets
 __Signaling pathway inhibitors__: High-throughput experiments have been performed for some viral infections to identify host proteins essential for virus infection but not cell viability. These have not yet been reported for coronavirus infections. However, several transcriptomic and proteomic analyses of SARS-CoV and MERS-CoV infection have described perturbations in cellular signaling pathways raising the possibility that drugs that influence the kinase proteins involved in these pathways might influence coronavirus replication[^10.1128/mBio.00165-13][^10.1128/mBio.00611-12][^10.1128/AAC.03659-14]. One encyclopedic proteomic SARS-CoV-2 study described the many interactions between virus and host proteins but was not primarily focused on signaling pathways[^10.1038/s41586-020-2286-9].
@@ -541,11 +538,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODcxMjgyMDMsMTk0MDEyOTYyOSwyMT
-A4NjM4Mzc1LDY4ODMxNzA0NCwtNTI3OTk2Njg0LC0xMzk2MDQx
-Nzc2LC0yMDU5MTIwNDExLDcyMjU0Mjk0MywxOTY2ODg2MDcyLC
-0xOTY1MTc5Mjc2LDk4NjY3ODE3NCwxNzIyMDQ2ODAwLC0xOTI2
-NTIwNzEwLC0yMDE4NDg2NzIsLTE2MjcwOTI0MzcsNTEzNjI4Nj
-kxLDE0MDExNTQxODAsMjEzMjU4MTYsLTExNDk0MjY4OTgsMTkw
-ODY1MDg3XX0=
+eyJoaXN0b3J5IjpbMTc2NTExNzA3OCwxOTQwMTI5NjI5LDIxMD
+g2MzgzNzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYwNDE3
+NzYsLTIwNTkxMjA0MTEsNzIyNTQyOTQzLDE5NjY4ODYwNzIsLT
+E5NjUxNzkyNzYsOTg2Njc4MTc0LDE3MjIwNDY4MDAsLTE5MjY1
+MjA3MTAsLTIwMTg0ODY3MiwtMTYyNzA5MjQzNyw1MTM2Mjg2OT
+EsMTQwMTE1NDE4MCwyMTMyNTgxNiwtMTE0OTQyNjg5OCwxOTA4
+NjUwODddfQ==
 -->
