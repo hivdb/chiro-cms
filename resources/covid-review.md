@@ -223,7 +223,7 @@ Mehra et. al. performed a multinational registry analysis examining the risk of 
 
 The mortality in the control group was 9.3%. In an analysis that controlled for multiple confounding factors, hydroxychloroquine (18.0%; HR: 1.34, 95% CI: 1.22-1.46), hydroxychloroquine + macrolide (23.8%; HR:1.45, 1.37-1.53), chloroquine (16.4%; 1.37, 1.22-1.46), chloroquine + macrolide (22.2%; 1.37, 1.27-1.47) were independently associated with an increased risk of in-hospital mortality. Compared with the control group (0·3%), hydroxychloroquine (6.1%; 2.37, 1.94–2.90), hydroxychloroquine + macrolide (8.1%; 5.11, 4.11–5.99), CQ (4.3%; 3.56, 2.76–4.60), and chloroquine + macrolide  (6.5%; 4.01, 3.34–4.81) were independently associated with an increased risk of de-novo ventricular arrhythmia during hospitalization.
 
-In a large observational study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine, Grein et. al., compared the risk of the primary endpoint, death or intubation of those receiving h with those patients not receiving hydroxychloroquine.  Overall 346 (25.1%) patients met the composite primary endpoint. In an unadjusted analysis that did not take into account disease severity, the risk of the primary endpoint was higher among those receiving hydroxychloroquine (HR:2.37; 95% CI: 0.82-1.32), although in the primary multivariable analysis, there was no difference between the two groups (HR:1.04;95%: 0.82-1.32)[^10.1056/NEJMoa2012410].
+In a large observational study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine, Geleris et. al., compared the risk of the primary endpoint (death or intubation) in those receiving vs. those not receiving hydroxychloroquine.  Overall 346 (25.1%) patients met the composite primary endpoint. In an unadjusted analysis that did not take into account disease severity, the risk of the primary endpoint was higher among those receiving hydroxychloroquine (HR:2.37; 95% CI: 0.82-1.32), although in the primary multivariable analysis, there was no difference between the two groups (HR:1.04;95%: 0.82-1.32)[^10.1056/NEJMoa2012410].
 
 There have been at least 10 additional smaller studies including four open label randomized controlled studies and six observational studies. Three observational studies were favorable: (i) a study of 80 patients with mild disease receiving hydroxychloroquine plus azithromycin were reported to have more rapid virus clearance compared to historical controls[^10.1016/j.tmaid.2020.101663]; (ii) a study of 197 patients with mild-to-moderate disease receiving chloroquine were reported to have more rapid virus clearance compared to historical controls[^10.1101/2020.04.26.20081059]; and (iii) a study of 48 critically ill patients reported that hydroxychloroquine reduced mortality possibly through its anti-inflammatory effects as evidenced by reduced IL6 levels[^10.1101/2020.04.27.20073379]. None of the seven remaining studies, including the four controlled trials, reported benefit from the use of hydroxychloroquine or chloroquine; several highlighted the risk of ventricular arrythmias[^10.1136/bmj.m1844][^10.1016/j.medmal.2020.03.006][^10.1101/2020.03.22.20040758][^10.1001/jamanetworkopen.2020.8857][^10.1101/2020.04.10.20060558][^10.3785/j.issn.1008-9292.2020.03.03]. A detailed critical review of several of these studies has been published[^10.1093/ofid/ofaa130].
 
@@ -542,11 +542,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDA1NDM5MiwxOTQwMTI5NjI5LDIxMD
-g2MzgzNzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYwNDE3
-NzYsLTIwNTkxMjA0MTEsNzIyNTQyOTQzLDE5NjY4ODYwNzIsLT
-E5NjUxNzkyNzYsOTg2Njc4MTc0LDE3MjIwNDY4MDAsLTE5MjY1
-MjA3MTAsLTIwMTg0ODY3MiwtMTYyNzA5MjQzNyw1MTM2Mjg2OT
-EsMTQwMTE1NDE4MCwyMTMyNTgxNiwtMTE0OTQyNjg5OCwxOTA4
-NjUwODddfQ==
+eyJoaXN0b3J5IjpbMzcyMjE1NzkyLDE5NDAxMjk2MjksMjEwOD
+YzODM3NSw2ODgzMTcwNDQsLTUyNzk5NjY4NCwtMTM5NjA0MTc3
+NiwtMjA1OTEyMDQxMSw3MjI1NDI5NDMsMTk2Njg4NjA3MiwtMT
+k2NTE3OTI3Niw5ODY2NzgxNzQsMTcyMjA0NjgwMCwtMTkyNjUy
+MDcxMCwtMjAxODQ4NjcyLC0xNjI3MDkyNDM3LDUxMzYyODY5MS
+wxNDAxMTU0MTgwLDIxMzI1ODE2LC0xMTQ5NDI2ODk4LDE5MDg2
+NTA4N119
 -->
