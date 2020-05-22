@@ -144,7 +144,7 @@ Wec et. al. screened a panel of SARS-CoV-2 S-reactive MAbs obtained in 2020 from
 
 Ejemel et al. screened a panel of SARS-CoV RBD-targeting MAbs isolated from transgenic mice expressing human immunoglobulin genes and identified MAb362 which high SARS-CoV-2 binding affinity[^10.1101/2020.05.15.096719]. Binding affinity was approximately 40-fold higher for a cloned IgA version of MAb362. In contrast to other SARS-CoV / SARS-CoV-2 cross-reactive MAbs, the MAb362 epitope overlapped entirely with the hACE2 epitope.   
 
-___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. During the past three weeks, at least eight groups have described the development of MAbs that are able to potently inhibit SARS-CoV-2 in vitro. Several MAbs will be available for phase I studies this summer.___
+___Conclusions: During the past month, at least eight groups have described the development of MAbs that are able to potently inhibit SARS-CoV-2 in vitro. Several MAbs will be available for phase I studies this summer.___
 
 ### Fusion Inhibitors
 Peptides that mimic HR2 can block virus-cell fusion by preventing the interaction between HR1 and HR2. The HIV-1 fusion inhibitor enfuvirtide is a 36 amino acid peptide that acts by this mechanism following subcutaneous administration[^10.1056/NEJMoa035026][^10.1056/NEJMoa035211][^10.1038/nrd1331]. Several peptide mimics of coronavirus HR2 have been shown to be potently inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 _in vitro_[^10.1016/j.bbrc.2004.05.046][^10.1038/ncomms4067][^10.1093/infdis/jiv325][^10.1021/acs.jmedchem.8b00890][^10.1126/sciadv.aav4580][^10.1101/2020.03.26.009233] and reviewed by Tang et al[^10.1016/j.antiviral.2020.104792]. The interest in coronavirus fusion inhibitors derives in part because S2 is more conserved than S1 among different coronavirus species. For example, the S1 proteins of SARS-CoV and SARS-CoV-2 differ by more than 10% of their amino acids. However, their HR1 domains differ by 7% and their HR2 domains are essentially identical[^10.1038/s41423-020-0374-2]. Fusion inhibitors are theoretically likely to have greater activity in preventing viral fusion occurring via the cell surface pathway than the endosomal pathway of virus entry[^10.1128/JVI.01697-07][^10.1016/j.antiviral.2020.104792].
@@ -534,7 +534,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDEyMjg0MTcsLTIwNTkxMjA0MTEsNz
+eyJoaXN0b3J5IjpbLTEzOTYwNDE3NzYsLTIwNTkxMjA0MTEsNz
 IyNTQyOTQzLDE5NjY4ODYwNzIsLTE5NjUxNzkyNzYsOTg2Njc4
 MTc0LDE3MjIwNDY4MDAsLTE5MjY1MjA3MTAsLTIwMTg0ODY3Mi
 wtMTYyNzA5MjQzNyw1MTM2Mjg2OTEsMTQwMTE1NDE4MCwyMTMy
