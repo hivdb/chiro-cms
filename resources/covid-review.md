@@ -217,7 +217,7 @@ Chloroquine and hydroxychloroquine have demonstrated modest inhibitory activity 
 
 The pharmacokinetics of chloroquine and hydroxychloroquine are complicated. Based on plasma levels alone, they appear to barely achieve sufficient inhibitory levels in patients receiving standard dosing regimens[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1101/2020.04.16.20068379]. Mefloquine is an antimalarial that also weakly inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1128/AAC.03036-14][^10.1101/2020.03.20.999730] but achieves higher plasma levels than chloroquine or hydroxychloroquine[^10.1101/2020.04.16.20068379].
 
-In two large obser
+There have been two large observational studies strongly suggesting that 
 
 In a large observational study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine, the risk of the primary endpoint, death or intubation, was compared with those patients not receiving hydroxychloroquine.  Overall 346 (25.1%) patients met the composite primary endpoint. In an unadjusted analysis that did not take into account disease severity, the risk of the primary endpoint was higher among those receiving hydroxychloroquine (HR:2.37; 95% CI: 0.82-1.32), although in the primary multivariable analysis, there was no difference between the two groups (HR:1.04;95%: 0.82-1.32)[^10.1056/NEJMoa2012410].
 
@@ -538,11 +538,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQ4Nzg0NTAsNjg4MzE3MDQ0LC01Mj
-c5OTY2ODQsLTEzOTYwNDE3NzYsLTIwNTkxMjA0MTEsNzIyNTQy
-OTQzLDE5NjY4ODYwNzIsLTE5NjUxNzkyNzYsOTg2Njc4MTc0LD
-E3MjIwNDY4MDAsLTE5MjY1MjA3MTAsLTIwMTg0ODY3MiwtMTYy
-NzA5MjQzNyw1MTM2Mjg2OTEsMTQwMTE1NDE4MCwyMTMyNTgxNi
-wtMTE0OTQyNjg5OCwxOTA4NjUwODcsLTE0MTkyNzI1ODEsLTM3
-MTI3MTczMl19
+eyJoaXN0b3J5IjpbLTQyNzA2NjkxMSw2ODgzMTcwNDQsLTUyNz
+k5NjY4NCwtMTM5NjA0MTc3NiwtMjA1OTEyMDQxMSw3MjI1NDI5
+NDMsMTk2Njg4NjA3MiwtMTk2NTE3OTI3Niw5ODY2NzgxNzQsMT
+cyMjA0NjgwMCwtMTkyNjUyMDcxMCwtMjAxODQ4NjcyLC0xNjI3
+MDkyNDM3LDUxMzYyODY5MSwxNDAxMTU0MTgwLDIxMzI1ODE2LC
+0xMTQ5NDI2ODk4LDE5MDg2NTA4NywtMTQxOTI3MjU4MSwtMzcx
+MjcxNzMyXX0=
 -->
