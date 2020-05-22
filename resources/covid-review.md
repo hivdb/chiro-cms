@@ -136,7 +136,7 @@ Most individuals recovering from SARS-CoV-2 develop significant titers of neutra
 
 Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs cloned from these patients (311mab–31B5, 311mab−32D4) were shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7].
 
-Brouwer et. al. cloned several highly potent ACE2-competing MAbs from convalescent patients including one which blocked infection at a concentration of 7 ng/ml (COVA-ID-2-15)[^10.1101/2020.05.12.088716].
+Brouwer et. al. cloned several highly potent ACE2-competing MAbs from convalescent patients (COVA-ID-2-15)[^10.1101/2020.05.12.088716].
 
 Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patients and grouped them into five classes according to their binding patterns and virus cross-reactivity[^10.1101/2020.05.12.091462]. Class I bind stabilized trimeric prefusion S ectodomain (S2P<sub>ecto</sub>) and the RBD and are SARS-CoV-2 specific. Class II bind the same sites but cross-react with SARS-CoV. Class III bind S2P<sub>ecto</sub> and the S1 N-terminal domain and are SARS-CoV-2 specific. Class IV bind only S2P<sub>ecto</sub> and are SARS-CoV-2 specific. Class V bind only  S2P<sub>ecto</sub> and cross-react with SARS-CoV[^10.1101/2020.05.12.091462].
 
@@ -538,11 +538,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Njg4NjA3MiwtMTk2NTE3OTI3Niw5OD
-Y2NzgxNzQsMTcyMjA0NjgwMCwtMTkyNjUyMDcxMCwtMjAxODQ4
-NjcyLC0xNjI3MDkyNDM3LDUxMzYyODY5MSwxNDAxMTU0MTgwLD
-IxMzI1ODE2LC0xMTQ5NDI2ODk4LDE5MDg2NTA4NywtMTQxOTI3
-MjU4MSwtMzcxMjcxNzMyLDgwOTQyNTE2NywtMjczODAxOTc2LD
-E2MDMxODMwMzIsMTc1MjYwMDI2OSwyNDM5MjU5MjAsMTIzNDU4
-MjIxMl19
+eyJoaXN0b3J5IjpbODExMDAwMzg1LDE5NjY4ODYwNzIsLTE5Nj
+UxNzkyNzYsOTg2Njc4MTc0LDE3MjIwNDY4MDAsLTE5MjY1MjA3
+MTAsLTIwMTg0ODY3MiwtMTYyNzA5MjQzNyw1MTM2Mjg2OTEsMT
+QwMTE1NDE4MCwyMTMyNTgxNiwtMTE0OTQyNjg5OCwxOTA4NjUw
+ODcsLTE0MTkyNzI1ODEsLTM3MTI3MTczMiw4MDk0MjUxNjcsLT
+I3MzgwMTk3NiwxNjAzMTgzMDMyLDE3NTI2MDAyNjksMjQzOTI1
+OTIwXX0=
 -->
