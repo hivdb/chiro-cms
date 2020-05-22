@@ -132,9 +132,9 @@ The most frequently studied MERS-CoV MAbs include (i) Mersmab1[^10.1128/JVI.0043
 
 Most SARS-CoV MAbs do not inhibit SARS-CoV-2[^10.1016/j.cell.2020.03.045]. For example, three well-characterized SARS-CoV RBD-directed MAbs (S230, m396, and 80R) do not bind SARS-CoV-2 RBD at a concentration of 1μM[^10.1126/science.abb2507]. However, two MAbs that appear to bind at more conserved S1 sites that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including CR3022 and S309[^10.1080/22221751.2020.1729069][^10.1126/science.abb7269][^10.1101/2020.05.05.079202][^10.1101/2020.04.07.023903]. Pinto et al reported that S309 recognizes an epitope distinct from the S1 receptor binding motif. It is also synergistic with MAbs that bind to the S1 receptor binding motif[^10.1101/2020.04.07.023903].
 
-Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection that potently inhibit SARS-CoV-2 in either pseudovirus or na 
+Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection that potently inhibit SARS-CoV-2 in either pseudovirus or infectious virus assays[^10.1038/s41423-020-0426-7]. 
 
-With improvements in MAb technology, it has been predicted that under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5].
+With improvements in MAb technology, it has been predicted that under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5][^10.1101/2020.05.12.088716][^10.1101/2020.03.21.990770.
 
 Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs cloned from these patients (311mab–31B5, 311mab−32D4) were shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7].
 
@@ -540,7 +540,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTk0Mjc0MCwxOTY2ODg2MDcyLC0xOT
+eyJoaXN0b3J5IjpbMTE5ODgxNTI3MSwxOTY2ODg2MDcyLC0xOT
 Y1MTc5Mjc2LDk4NjY3ODE3NCwxNzIyMDQ2ODAwLC0xOTI2NTIw
 NzEwLC0yMDE4NDg2NzIsLTE2MjcwOTI0MzcsNTEzNjI4NjkxLD
 E0MDExNTQxODAsMjEzMjU4MTYsLTExNDk0MjY4OTgsMTkwODY1
