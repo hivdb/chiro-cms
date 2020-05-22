@@ -130,15 +130,9 @@ The most frequently studied SARS-CoV MAbs include (i) 80R, identified from a non
 
 The most frequently studied MERS-CoV MAbs include (i) Mersmab1[^10.1128/JVI.00433-14]; (ii) m336, which was shown to protect rabbits from MERS-CoV[^10.1128/JVI.00912-14][^10.1093/infdis/jiw080] and which has been engineered into a novel antibody-peptide bispecific fusion protein[^10.3390/antib8040053]; (iii) REGN3048 and REGN3051 which have been highly potent _in vitro_ and in a mouse infection model[^10.1073/pnas.1510830112]; (iv) 3B11, which was isolated from a non-immune human Ab-phage library and characterized through the generation of escape variants[^10.1073/pnas.1402074111]; and (v) 4C and D12, two mouse neutralizing MAbs that have been co-crystallized with the MERS-CoV RBD[^10.1080/14728222.2017.1271415].
 
-However, two MAbs that appear to bind at more conserved S1 sites that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including CR3022 and S309[^10.1080/22221751.2020.1729069][^10.1126/science.abb7269][^10.1101/2020.05.05.079202][^10.1101/2020.04.07.023903]. Pinto et al reported that S309 recognizes an epitope distinct from the S1 receptor binding motif. It is also synergistic with MAbs that bind to the S1 receptor binding motif[^10.1101/2020.04.07.023903].
-
 Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection that potently inhibit SARS-CoV-2 in either pseudovirus or infectious virus assays[^10.1038/s41423-020-0426-7][^10.1101/2020.05.12.088716][^10.1101/2020.03.21.990770]. Most of these antibodies compete with S1-ACE2 binding.
 
-With improvements in MAb technology, it has been predicted that under an extremely accelerated schedule, it likely that several MAbs will be available for phase I studies this summer[^10.1038/s41587-020-0512-5][^10.1101/2020.05.12.088716][^10.1101/2020.03.21.990770]. Most of these antibodies compete with S1-ACE2 binding.
-
-Chen et al. reported that among 26 COVID-19 convalescent patients, most developed IgG S1-specific antibodies and three had antibodies that blocked S1-ACE2 binding[^10.1038/s41423-020-0426-7]. Two MAbs cloned from these patients (311mab–31B5, 311mab−32D4) were shown to potently inhibit S1-ACE2 binding and block pseudovirus entry[^10.1038/s41423-020-0426-7].
-
-Brouwer et. al. cloned several highly potent ACE2-competing MAbs from convalescent patients (COVA-ID-2-15)[^10.1101/2020.05.12.088716].
+However, two MAbs that appear to bind at more conserved S1 sites that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including CR3022 and S309[^10.1080/22221751.2020.1729069][^10.1126/science.abb7269][^10.1101/2020.05.05.079202][^10.1101/2020.04.07.023903]. Pinto et al reported that S309 recognizes an epitope distinct from the S1 receptor binding motif. It is also synergistic with MAbs that bind to the S1 receptor binding motif[^10.1101/2020.04.07.023903].
 
 Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patients and grouped them into five classes according to their binding patterns and virus cross-reactivity[^10.1101/2020.05.12.091462]. Class I bind stabilized trimeric prefusion S ectodomain (S2P<sub>ecto</sub>) and the RBD and are SARS-CoV-2 specific. Class II bind the same sites but cross-react with SARS-CoV. Class III bind S2P<sub>ecto</sub> and the S1 N-terminal domain and are SARS-CoV-2 specific. Class IV bind only S2P<sub>ecto</sub> and are SARS-CoV-2 specific. Class V bind only  S2P<sub>ecto</sub> and cross-react with SARS-CoV[^10.1101/2020.05.12.091462].
 
@@ -150,7 +144,7 @@ Wec et. al. screened a panel of SARS-CoV-2 S-reactive MAbs obtained in 2020 from
 
 Ejemel et al. screened a panel of SARS-CoV RBD-targeting MAbs isolated from transgenic mice expressing human immunoglobulin genes and identified MAb362 which high SARS-CoV-2 binding affinity[^10.1101/2020.05.15.096719]. Binding affinity was approximately 40-fold higher for a cloned IgA version of MAb362. In contrast to other SARS-CoV / SARS-CoV-2 cross-reactive MAbs, the MAb362 epitope overlapped entirely with the hACE2 epitope.   
 
-___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. During the past three weeks, at least eight groups have described the development of MAbs that are able to potently inhibit SARS-CoV-2 in vitro.___
+___Conclusions: The ability of monoclonal antibodies to successfully treat Ebola suggests that monoclonal antibodies will be useful at both treating and preventing SARS-CoV-2 infections. During the past three weeks, at least eight groups have described the development of MAbs that are able to potently inhibit SARS-CoV-2 in vitro. Several MAbs will be available for phase I studies this summer.___
 
 ### Fusion Inhibitors
 Peptides that mimic HR2 can block virus-cell fusion by preventing the interaction between HR1 and HR2. The HIV-1 fusion inhibitor enfuvirtide is a 36 amino acid peptide that acts by this mechanism following subcutaneous administration[^10.1056/NEJMoa035026][^10.1056/NEJMoa035211][^10.1038/nrd1331]. Several peptide mimics of coronavirus HR2 have been shown to be potently inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 _in vitro_[^10.1016/j.bbrc.2004.05.046][^10.1038/ncomms4067][^10.1093/infdis/jiv325][^10.1021/acs.jmedchem.8b00890][^10.1126/sciadv.aav4580][^10.1101/2020.03.26.009233] and reviewed by Tang et al[^10.1016/j.antiviral.2020.104792]. The interest in coronavirus fusion inhibitors derives in part because S2 is more conserved than S1 among different coronavirus species. For example, the S1 proteins of SARS-CoV and SARS-CoV-2 differ by more than 10% of their amino acids. However, their HR1 domains differ by 7% and their HR2 domains are essentially identical[^10.1038/s41423-020-0374-2]. Fusion inhibitors are theoretically likely to have greater activity in preventing viral fusion occurring via the cell surface pathway than the endosomal pathway of virus entry[^10.1128/JVI.01697-07][^10.1016/j.antiviral.2020.104792].
@@ -540,7 +534,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQzMjMwMTEsLTIwNTkxMjA0MTEsNz
+eyJoaXN0b3J5IjpbLTEzMDEyMjg0MTcsLTIwNTkxMjA0MTEsNz
 IyNTQyOTQzLDE5NjY4ODYwNzIsLTE5NjUxNzkyNzYsOTg2Njc4
 MTc0LDE3MjIwNDY4MDAsLTE5MjY1MjA3MTAsLTIwMTg0ODY3Mi
 wtMTYyNzA5MjQzNyw1MTM2Mjg2OTEsMTQwMTE1NDE4MCwyMTMy
