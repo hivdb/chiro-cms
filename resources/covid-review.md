@@ -130,7 +130,7 @@ The most frequently studied SARS-CoV MAbs include (i) 80R, identified from a non
 
 The most frequently studied MERS-CoV MAbs include (i) Mersmab1[^10.1128/JVI.00433-14]; (ii) m336, which was shown to protect rabbits from MERS-CoV[^10.1128/JVI.00912-14][^10.1093/infdis/jiw080] and which has been engineered into a novel antibody-peptide bispecific fusion protein[^10.3390/antib8040053]; (iii) REGN3048 and REGN3051 which have been highly potent _in vitro_ and in a mouse infection model[^10.1073/pnas.1510830112]; (iv) 3B11, which was isolated from a non-immune human Ab-phage library and characterized through the generation of escape variants[^10.1073/pnas.1402074111]; and (v) 4C and D12, two mouse neutralizing MAbs that have been co-crystallized with the MERS-CoV RBD[^10.1080/14728222.2017.1271415].
 
-Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection that potently inhibit SARS-CoV-2 in either pseudovirus or infectious virus assays[^10.1038/s41423-020-0426-7][^10.1101/2020.05.12.088716][^10.1101/2020.03.21.990770][^10.1101/2020.05.12.091462]. Most of these antibodies compete with S1-ACE2 binding.
+Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection that potently inhibit SARS-CoV-2 in either pseudovirus or infectious virus assays[^10.1038/s41423-020-0426-7][^10.1101/2020.05.12.088716][^10.1101/2020.03.21.990770][^10.1101/2020.05.12.091462][^10.1101/2020.05.11.088674]. Most of these antibodies compete with S1-ACE2 binding.
 
 In addition, several groups have identified several SARS-CoV cross-reacting MAbs. CR3022 was cloned from an antibody-phage library derived from blood of a convalescent SARS patient[^10.1371/journal.pmed.0030237]. It binds SARS-CoV-2 with high affinity[^10.1080/22221751.2020.1729069]. 47D11 was derived from transgenic mice immunized with SARS-CoV S1 and shown to neutralize SARS-CoV-2 in vitro[^10.1038/s41467-020-16256-y]. S309 was cloned from the B cells of a person with a history of SARS and also shown to potently inhibit SARS-CoV-2[^10.1038/s41586-020-2349-y]. Crystallographic studies and ACE2 competition assays have shown that these MAbs bind to the core subdomain of the RBD which is more conserved the ACE2-binding subdomain[^10.1126/science.abb7269][^10.1038/s41586-020-2349-y]. S309 has been shown to be synergistic with MAbs that bind to the ACE2-binding subdomain.
 
@@ -538,11 +538,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjQxMTAxMCwtMjA4NTk5MTQ1Myw5Mj
-k1NzU5MTYsMTk0MDEyOTYyOSwyMTA4NjM4Mzc1LDY4ODMxNzA0
-NCwtNTI3OTk2Njg0LC0xMzk2MDQxNzc2LC0yMDU5MTIwNDExLD
-cyMjU0Mjk0MywxOTY2ODg2MDcyLC0xOTY1MTc5Mjc2LDk4NjY3
-ODE3NCwxNzIyMDQ2ODAwLC0xOTI2NTIwNzEwLC0yMDE4NDg2Nz
-IsLTE2MjcwOTI0MzcsNTEzNjI4NjkxLDE0MDExNTQxODAsMjEz
-MjU4MTZdfQ==
+eyJoaXN0b3J5IjpbLTkwODY1ODA1MSwxNjQyNDExMDEwLC0yMD
+g1OTkxNDUzLDkyOTU3NTkxNiwxOTQwMTI5NjI5LDIxMDg2Mzgz
+NzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYwNDE3NzYsLT
+IwNTkxMjA0MTEsNzIyNTQyOTQzLDE5NjY4ODYwNzIsLTE5NjUx
+NzkyNzYsOTg2Njc4MTc0LDE3MjIwNDY4MDAsLTE5MjY1MjA3MT
+AsLTIwMTg0ODY3MiwtMTYyNzA5MjQzNyw1MTM2Mjg2OTEsMTQw
+MTE1NDE4MF19
 -->
