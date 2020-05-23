@@ -132,7 +132,8 @@ The most frequently studied MERS-CoV MAbs include (i) Mersmab1[^10.1128/JVI.0043
 
 Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection that potently inhibit SARS-CoV-2 in either pseudovirus or infectious virus assays[^10.1038/s41423-020-0426-7][^10.1101/2020.05.12.088716][^10.1101/2020.03.21.990770]. Most of these antibodies compete with S1-ACE2 binding.
 
-In addition, several groups have identified several SARS-CoV cross-reacting MAbs. 47D11 and S309 were derived from the B cells of persons with a history of SARS.  three MAbs cloned either from the B cells two MAbs that bind at more conserved S1 sites that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including 47D11 and S309[^10.1080/22221751.2020.1729069][^10.1038/s41467-020-16256-y][^10.1126/science.abb7269][^10.1101/2020.05.05.079202][^10.1038/s41586-020-2349-y]. CR3022 and S309 were cloned from the B cells of persons with a history of SARS-CoV. 47D11 was derived from transgenic mice immunized with SARS-CoV S1. Each of these MAbs bind and/or  Pinto et al reported that S309 recognizes an epitope distinct from the S1 receptor binding motif. It is also synergistic with MAbs that bind to the S1 receptor binding motif[^10.1038/s41586-020-2349-y].
+In addition, several groups have identified several SARS-CoV cross-reacting MAbs. CR3022 was cloned from an antibody phage library 
+47D11 and S309 were derived from the B cells of persons with a history of SARS.  three MAbs cloned either from the B cells two MAbs that bind at more conserved S1 sites that do not compete with ACE2 have been shown to inhibit SARS-CoV-2 including 47D11 and S309[^10.1080/22221751.2020.1729069][^10.1038/s41467-020-16256-y][^10.1126/science.abb7269][^10.1101/2020.05.05.079202][^10.1038/s41586-020-2349-y]. CR3022 and S309 were cloned from the B cells of persons with a history of SARS-CoV. 47D11 was derived from transgenic mice immunized with SARS-CoV S1. Each of these MAbs bind and/or  Pinto et al reported that S309 recognizes an epitope distinct from the S1 receptor binding motif. It is also synergistic with MAbs that bind to the S1 receptor binding motif[^10.1038/s41586-020-2349-y].
 
 Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patients and grouped them into five classes according to their binding patterns and virus cross-reactivity[^10.1101/2020.05.12.091462]. Class I bind stabilized trimeric prefusion S ectodomain (S2P<sub>ecto</sub>) and the RBD and are SARS-CoV-2 specific. Class II bind the same sites but cross-react with SARS-CoV. Class III bind S2P<sub>ecto</sub> and the S1 N-terminal domain and are SARS-CoV-2 specific. Class IV bind only S2P<sub>ecto</sub> and are SARS-CoV-2 specific. Class V bind only  S2P<sub>ecto</sub> and cross-react with SARS-CoV[^10.1101/2020.05.12.091462].
 
@@ -538,7 +539,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzMDA4NTQxLDkyOTU3NTkxNiwxOTQwMT
+eyJoaXN0b3J5IjpbLTMyNzg5NTMyLDkyOTU3NTkxNiwxOTQwMT
 I5NjI5LDIxMDg2MzgzNzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQs
 LTEzOTYwNDE3NzYsLTIwNTkxMjA0MTEsNzIyNTQyOTQzLDE5Nj
 Y4ODYwNzIsLTE5NjUxNzkyNzYsOTg2Njc4MTc0LDE3MjIwNDY4
