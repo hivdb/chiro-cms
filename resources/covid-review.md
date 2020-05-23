@@ -219,9 +219,7 @@ The pharmacokinetics of chloroquine and hydroxychloroquine are complicated. Base
 
 There have been two large observational studies strongly suggesting that chloroquine and hydroxychloroquine, are unlikely to provide any clinical benefit. These studies have also reported that chloroquine analogs, particularly when used in combination with azithromycin, are likely to be associated with increased morbidity and mortality as a result of an increased risk of ventricular arrhythmias[^10.1056/NEJMoa2012410][^10.1016/S0140-6736(20)31180-6]. Four small controlled trials also found no evidence of clinical or virological benefit for the use of chloroquine analogs[^10.1101/2020.03.22.20040758][^10.1001/jamanetworkopen.2020.8857][^10.1101/2020.04.10.20060558][^10.3785/j.issn.1008-9292.2020.03.03]; one of these reported an increased risk of ventricular arrhythmias[^10.1001/jamanetworkopen.2020.8857]. The remaining small observational studies reported highly variable results[^10.1136/bmj.m1844][^10.1016/j.medmal.2020.03.006] [^10.1016/j.tmaid.2020.101663][^10.1101/2020.04.26.20081059][^10.1101/2020.04.27.20073379][^10.1093/ofid/ofaa130]. The two large observational studies are summarized here.
 
-Mehra et. al. performed a multinational registry analysis examining the risk of mortality and ventricular arrhythmias in 14,888 hospitalized patients with PCR-confirmed disease receiving chloroquine or hydroxychloroquine +/- a macrolide antibiotic compared with 81,444 in the same registry through April 14, 2020 who received neither drug (control group)[^10.1016/S0140-6736(20)31180-6]. Patients who began a chloroquine analog while receiving mechanical ventilation or more than 48 hours after diagnosis were excluded.
-
-Mehra et. al. reported that the mortality in the control group was 9.3%. In an analysis that controlled for multiple confounding factors, hydroxychloroquine (18.0%; HR: 1.34, 95% CI: 1.22-1.46), hydroxychloroquine + macrolide (23.8%; HR:1.45, 1.37-1.53), chloroquine (16.4%; 1.37, 1.22-1.46), chloroquine + macrolide (22.2%; 1.37, 1.27-1.47) were independently associated with an increased risk of in-hospital mortality[^10.1016/S0140-6736(20)31180-6]. Compared with the control group (0·3%), hydroxychloroquine (6.1%; 2.37, 1.94–2.90), hydroxychloroquine + macrolide (8.1%; 5.11, 4.11–5.99), CQ (4.3%; 3.56, 2.76–4.60), and chloroquine + macrolide  (6.5%; 4.01, 3.34–4.81) were independently associated with an increased risk of de-novo ventricular arrhythmia during hospitalization.
+Mehra et. al. performed a multinational registry analysis examining the risk of mortality and ventricular arrhythmias in 14,888 hospitalized patients with PCR-confirmed disease receiving chloroquine or hydroxychloroquine +/- a macrolide antibiotic compared with 81,444 in the same registry through April 14, 2020 who received neither drug (control group)[^10.1016/S0140-6736(20)31180-6]. Patients who began a chloroquine analog while receiving mechanical ventilation or more than 48 hours after diagnosis were excluded. The mortality in the control group was 9.3%. In an analysis that controlled for multiple confounding factors, hydroxychloroquine (18.0%; HR: 1.34, 95% CI: 1.22-1.46), hydroxychloroquine + macrolide (23.8%; HR:1.45, 1.37-1.53), chloroquine (16.4%; 1.37, 1.22-1.46), chloroquine + macrolide (22.2%; 1.37, 1.27-1.47) were independently associated with an increased risk of in-hospital mortality[^10.1016/S0140-6736(20)31180-6]. Compared with the control group (0·3%), hydroxychloroquine (6.1%; 2.37, 1.94–2.90), hydroxychloroquine + macrolide (8.1%; 5.11, 4.11–5.99), CQ (4.3%; 3.56, 2.76–4.60), and chloroquine + macrolide  (6.5%; 4.01, 3.34–4.81) were independently associated with an increased risk of de-novo ventricular arrhythmia during hospitalization.
 
 In an observational study of 1,376 consecutive hospitalized patients of whom 58% received hydroxychloroquine, Geleris et. al. compared the risk of the primary endpoint (death or intubation) in those receiving vs. those not receiving hydroxychloroquine[^10.1056/NEJMoa2012410].  Overall 346 (25.1%) patients met the composite primary endpoint. In an unadjusted analysis that did not take into account disease severity, the risk of the primary endpoint was higher among those receiving hydroxychloroquine (HR:2.37; 95% CI: 0.82-1.32), although in the primary multivariable analysis, there was no difference between the two groups (HR:1.04;95%: 0.82-1.32)[^10.1056/NEJMoa2012410].
 
@@ -412,7 +410,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1016/j.antiviral.2020.104792]: Tang T, Bidon M, et int., Daniel S. "Coronavirus membrane fusion mechanism offers as a potential target for antiviral development" _Antiviral Res._, 2020. [10.1016/j.antiviral.2020.104792](https://doi.org/10.1016/j.antiviral.2020.104792)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
 [^10.1128/JVI.01697-07]: Ujike M, Nishikawa H, et int., Taguchi F. "Heptad Repeat-Derived Peptides Block Protease-Mediated Direct Entry from the Cell Surface of Severe Acute Respiratory Syndrome Coronavirus but Not Entry via the Endosomal Pathway" _Journal of Virology_, 2008. [10.1128/JVI.01697-07](https://doi.org/10.1128/JVI.01697-07)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -539,11 +537,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODY1ODA1MSwxNjQyNDExMDEwLC0yMD
-g1OTkxNDUzLDkyOTU3NTkxNiwxOTQwMTI5NjI5LDIxMDg2Mzgz
-NzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYwNDE3NzYsLT
-IwNTkxMjA0MTEsNzIyNTQyOTQzLDE5NjY4ODYwNzIsLTE5NjUx
-NzkyNzYsOTg2Njc4MTc0LDE3MjIwNDY4MDAsLTE5MjY1MjA3MT
-AsLTIwMTg0ODY3MiwtMTYyNzA5MjQzNyw1MTM2Mjg2OTEsMTQw
-MTE1NDE4MF19
+eyJoaXN0b3J5IjpbLTgxMTAzOTAyOCwtOTA4NjU4MDUxLDE2ND
+I0MTEwMTAsLTIwODU5OTE0NTMsOTI5NTc1OTE2LDE5NDAxMjk2
+MjksMjEwODYzODM3NSw2ODgzMTcwNDQsLTUyNzk5NjY4NCwtMT
+M5NjA0MTc3NiwtMjA1OTEyMDQxMSw3MjI1NDI5NDMsMTk2Njg4
+NjA3MiwtMTk2NTE3OTI3Niw5ODY2NzgxNzQsMTcyMjA0NjgwMC
+wtMTkyNjUyMDcxMCwtMjAxODQ4NjcyLC0xNjI3MDkyNDM3LDUx
+MzYyODY5MV19
 -->
