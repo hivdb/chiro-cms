@@ -47,9 +47,7 @@ At baseline, ~12% did not require supplemental O2, ~40% required supplemental O2
 
 Patients receiving remdesivir had a median recovery time of 11 days (95% CI, 9 to 12) vs. 15 days (95% CI, 13 to 19) for the placebo group; P<0.001). Kaplan-Meier estimates of mortality by 14 days were 7.1% with remdesivir vs. 11.9% with placebo (HR: 0.70; 95% CI, 0.47 to 1.04). Serious adverse events occurred at similar rates in both groups (21.1% vs 27.0%). In subgroup analysis, the remdesivir recovery rate ratio was highest and statistically significant in the group receiving O2 (1.47), it was numerically higher but not statistically significant in the group not receiving O2 (1.38) or receiving noninvasive ventilation or high-flow O2 (1.2). It was 0.95 in the group receiving mechanical ventilation or ECMO.
 
-
-
-___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound that appears to be clinically beneficial. The optimal use of this drug will become clearer following the publication of the ACTT trial and two additional Gilead studies. The risks and benefits of using this drug in high-risk persons with mild-to-moderate disease will be important to study. Remdesivir will likely become the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
+___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial. The optimal use of this drug will become clearer following the publication of the ACTT trial and two additional Gilead studies. The risks and benefits of using this drug in high-risk persons with mild-to-moderate disease will be important to study. Remdesivir will likely become the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
 
 ### β-D-N4-hydroxycytidine-5'-isopropyl ester (aka NHC and EIDD-2801)
 β-D-N4-hydroxycytidine is a cytidine analogue that exerts its activity primarily through viral mutagenesis in that it incorporates into new RNA strands but leads to large numbers of replication errors during subsequent rounds of replication [^10.1016/j.coviro.2019.04.002]. β-D-N4-hydroxycytidine-5'-isopropyl ester is an orally available NHC prodrug. The mechanism by which β-D-N4-hydroxycytidine eludes the proof-reading function of the coronavirus exonucleases is not known.
@@ -546,11 +544,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk4MDIxNTYsLTE2OTE4NjQyNTcsLT
-EyMzE4NjcwNjgsMTEwNTE1NTI4NywtODExMDM5MDI4LC05MDg2
-NTgwNTEsMTY0MjQxMTAxMCwtMjA4NTk5MTQ1Myw5Mjk1NzU5MT
-YsMTk0MDEyOTYyOSwyMTA4NjM4Mzc1LDY4ODMxNzA0NCwtNTI3
-OTk2Njg0LC0xMzk2MDQxNzc2LC0yMDU5MTIwNDExLDcyMjU0Mj
-k0MywxOTY2ODg2MDcyLC0xOTY1MTc5Mjc2LDk4NjY3ODE3NCwx
-NzIyMDQ2ODAwXX0=
+eyJoaXN0b3J5IjpbLTI5MzU1MTYzNCwtMTY5MTg2NDI1NywtMT
+IzMTg2NzA2OCwxMTA1MTU1Mjg3LC04MTEwMzkwMjgsLTkwODY1
+ODA1MSwxNjQyNDExMDEwLC0yMDg1OTkxNDUzLDkyOTU3NTkxNi
+wxOTQwMTI5NjI5LDIxMDg2MzgzNzUsNjg4MzE3MDQ0LC01Mjc5
+OTY2ODQsLTEzOTYwNDE3NzYsLTIwNTkxMjA0MTEsNzIyNTQyOT
+QzLDE5NjY4ODYwNzIsLTE5NjUxNzkyNzYsOTg2Njc4MTc0LDE3
+MjIwNDY4MDBdfQ==
 -->
