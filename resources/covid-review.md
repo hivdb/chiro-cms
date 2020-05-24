@@ -184,7 +184,9 @@ The Coronavirus Antiviral Research Database contains >160 cell culture[^10.1016/
 
 Both IFN-α and IFN-β appear to inhibit coronavirus _in vitro_ and in animal models, although several authors have argued that IFN-β is more effective than IFN-α at inhibiting coronaviruses[^10.1016/j.antiviral.2020.104791]. One study suggests that SARS-CoV-2 is more susceptible to IFN-α than SARS-CoV-1, due to a deletion in ORF3b, a 154 amino acid protein known to antagonize one of the proteins involved in the cellular IFN response[^10.1101/2020.03.07.982264].
 
-As of May 7, 2020, there have been eight observational studies of IFN-α or IFN-β in patients with MERS-CoV (4 studies), SARS-CoV (2 studies), or SARS-CoV-2 (3 studies). One of the three SARS-CoV-2 was a randomized control trial of 127 patients with mild-to-moderate disease who were randomized 2:1 to receive IFN-β + ribavirin + lopinavir/r vs. lopinavir/r alone[^10.1016/S0140-6736(20)31042-4]. The patients receiving triple therapy had a significantly shorter time to a negative nasopharyngeal PCR (7 vs. 12 days) and a more rapid clinical improvement by several metrics. As ribavirin has generally not been efficacious in treating coronavirus infections, IFN-β is the most likely compound responsible for the improved outcome. The remaining clinical IFN studies did not contain control groups making it difficult to draw conclusions regarding clinical efficacy.
+As of May 7, 2020, there have been eight observational studies of IFN-α or IFN-β in patients with MERS-CoV (4 studies), SARS-CoV (2 studies), or SARS-CoV-2 (3 studies). One of the three SARS-CoV-2 was a randomized control trial of 127 patients with mild-to-moderate disease who were randomized 2:1 to receive IFN-β + ribavirin + lopinavir/r vs. lopinavir/r alone[^10.1016/S0140-6736(20)31042-4]. The patients receiving triple therapy had a significantly shorter time to a negative nasopharyngeal PCR (7 vs. 12 days) and a more rapid clinical improvement by several metrics. As ribavirin has generally not been efficacious in treating coronavirus infections, IFN-β is the most likely compound responsible for the improved outcome. 
+
+OnThe remaining clinical IFN studies did not contain control groups making it difficult to draw conclusions regarding clinical efficacy.
 
 There are also 10 ongoing studies of subcutaneous or intranasal IFN-α or IFN-β, although nearly all of these studies contain multiple treatment arms and lack control groups. There are three planned studies of IFN-λ, including one with a placebo arm.
 
@@ -538,11 +540,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE4NjcwNjgsMTEwNTE1NTI4NywtOD
-ExMDM5MDI4LC05MDg2NTgwNTEsMTY0MjQxMTAxMCwtMjA4NTk5
-MTQ1Myw5Mjk1NzU5MTYsMTk0MDEyOTYyOSwyMTA4NjM4Mzc1LD
-Y4ODMxNzA0NCwtNTI3OTk2Njg0LC0xMzk2MDQxNzc2LC0yMDU5
-MTIwNDExLDcyMjU0Mjk0MywxOTY2ODg2MDcyLC0xOTY1MTc5Mj
-c2LDk4NjY3ODE3NCwxNzIyMDQ2ODAwLC0xOTI2NTIwNzEwLC0y
-MDE4NDg2NzJdfQ==
+eyJoaXN0b3J5IjpbMTkxNzc0MDgzOSwtMTIzMTg2NzA2OCwxMT
+A1MTU1Mjg3LC04MTEwMzkwMjgsLTkwODY1ODA1MSwxNjQyNDEx
+MDEwLC0yMDg1OTkxNDUzLDkyOTU3NTkxNiwxOTQwMTI5NjI5LD
+IxMDg2MzgzNzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYw
+NDE3NzYsLTIwNTkxMjA0MTEsNzIyNTQyOTQzLDE5NjY4ODYwNz
+IsLTE5NjUxNzkyNzYsOTg2Njc4MTc0LDE3MjIwNDY4MDAsLTE5
+MjY1MjA3MTBdfQ==
 -->
