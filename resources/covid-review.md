@@ -186,8 +186,7 @@ Both IFN-α and IFN-β appear to inhibit coronavirus _in vitro_ and in animal mo
 
 As of May 7, 2020, there have been eight observational studies of IFN-α or IFN-β in patients with MERS-CoV (4 studies), SARS-CoV (2 studies), or SARS-CoV-2 (3 studies). One of the three SARS-CoV-2 was a randomized control trial of 127 patients with mild-to-moderate disease who were randomized 2:1 to receive IFN-β + ribavirin + lopinavir/r vs. lopinavir/r alone[^10.1016/S0140-6736(20)31042-4]. The patients receiving triple therapy had a significantly shorter time to a negative nasopharyngeal PCR (7 vs. 12 days) and a more rapid clinical improvement by several metrics. As ribavirin has generally not been efficacious in treating coronavirus infections, IFN-β is the most likely compound responsible for the improved outcome. 
 
-One observational study compared the mortality of 106 hospitalized patients receiving IFN-β according to a local treatment protocol at their physician's discretionThe remaining clinical IFN studies did not contain control groups making it difficult to draw conclusions regarding clinical efficacy.
-
+One observational study compared the mortality of 106 hospitalized patients receiving IFN-β-1b (Betaferon) 250 ug every other day at their physician's discretion to 150 untreated patients at the same institution. The overall mortality rate was 24.6% and ther was no difference in mortality between the two groups in an analysis controlling for comorbid conditions.
 There are also 10 ongoing studies of subcutaneous or intranasal IFN-α or IFN-β, although nearly all of these studies contain multiple treatment arms and lack control groups. There are three planned studies of IFN-λ, including one with a placebo arm.
 
  Theoretical and empirical data suggest that IFNs should be administered as early as possible in the course of infection[^10.1172/JCI126363] when innate immunity is likely to be most needed; this would also avoid exacerbating the unregulated exuberant deleterious immune response that often occurs in the later stages of severe coronavirus infections. Although far fewer data are available for IFN-λs, they have garnered much interest because they act at epithelial barriers and thus are theoretically optimal for treating viral respiratory tract infections and because they are reported to suppress viral spread without causing inflammation[^10.15252/emmm.201606413][^10.1093/cid/ciaa453].
@@ -540,7 +539,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMzk5OTk3NSwtMTIzMTg2NzA2OCwxMT
+eyJoaXN0b3J5IjpbMTMxMzU4NTUzNiwtMTIzMTg2NzA2OCwxMT
 A1MTU1Mjg3LC04MTEwMzkwMjgsLTkwODY1ODA1MSwxNjQyNDEx
 MDEwLC0yMDg1OTkxNDUzLDkyOTU3NTkxNiwxOTQwMTI5NjI5LD
 IxMDg2MzgzNzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYw
