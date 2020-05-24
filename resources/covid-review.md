@@ -115,7 +115,7 @@ Two risk-benefit analyses and several experts have argued that the possible larg
 
 Joyner et. al. reported the results of a safety review of the first 5,000 patients receiving convalescent plasma in the U.S. between April 3 and May 11 under the FDA Expanded Access Program[^10.1101/2020.05.12.20099879]. 81% were classified as having severe or life-threatening diseases and 19% were judged to be at high risk of progressing to severe or life-threatening disease. 66% were in the ICU. 36 (0.72%) had a serious adverse event in the first four hours after transfusion including 25 events considered related to transfusion, including death in 4, transfusion-associated lung injury in 11, circulatory overload in 7, and allergic reaction in 3. Overall, the seven day mortality was 14.9%[^10.1101/2020.05.12.20099879].
 
-There are now at least five additional published observational studies of convalescent plasma in 50 generally severely ill SARS-CoV-2 patients, including 31 who were receiving mechanical ventilation[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1101/2020.05.08.20095471][^10.1093/infdis/jiaa228]. All patients received between 200 to 600 ml plasma, and in three studies of 19 patients the donors were generally documented to have neutralizing antibody titers >1:640[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039]. Each of the 19 patients in these initial reports survived and appeared to experience clinical improvement within three days. However, five of six mechanically ventilated patients in another study died[^10.1093/infdis/jiaa228]. In the fifth and largest study, of 25 patients in Houston, the overall response to therapy also appeared to be favorable in that only one patient died despite 12 being mechanically ventilated[^10.1101/2020.05.08.20095471].
+Liu et. al. reported that among 39 hospitalized patients receiving convaleThere are now at least five additional published observational studies of convalescent plasma in 50 generally severely ill SARS-CoV-2 patients, including 31 who were receiving mechanical ventilation[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1101/2020.05.08.20095471][^10.1093/infdis/jiaa228]. All patients received between 200 to 600 ml plasma, and in three studies of 19 patients the donors were generally documented to have neutralizing antibody titers >1:640[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039]. Each of the 19 patients in these initial reports survived and appeared to experience clinical improvement within three days. However, five of six mechanically ventilated patients in another study died[^10.1093/infdis/jiaa228]. In the fifth and largest study, of 25 patients in Houston, the overall response to therapy also appeared to be favorable in that only one patient died despite 12 being mechanically ventilated[^10.1101/2020.05.08.20095471].
 
 As of May 7, 2020, there are 46 ongoing (n=18) or planned (n=28) clinical trials containing at least one arm in which recipients will receive convalescent plasma. There are also two planned studies of convalescent immunoglobulin and one of pooled immunoglobulin from healthy donors. One ongoing study is randomizing patients to convalescent plasma or to standard donor plasma and another planned study aims to randomize high-risk exposed persons to convalescent plasma or placebo. The remaining studies are not placebo controlled. Convalescent plasma and potentially other forms of immunoglobulin therapy will likely remain a treatment option particularly in patients with severe disease.
 
@@ -411,7 +411,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1016/j.antiviral.2020.104792]: Tang T, Bidon M, et int., Daniel S. "Coronavirus membrane fusion mechanism offers as a potential target for antiviral development" _Antiviral Res._, 2020. [10.1016/j.antiviral.2020.104792](https://doi.org/10.1016/j.antiviral.2020.104792)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
 [^10.1128/JVI.01697-07]: Ujike M, Nishikawa H, et int., Taguchi F. "Heptad Repeat-Derived Peptides Block Protease-Mediated Direct Entry from the Cell Surface of Severe Acute Respiratory Syndrome Coronavirus but Not Entry via the Endosomal Pathway" _Journal of Virology_, 2008. [10.1128/JVI.01697-07](https://doi.org/10.1128/JVI.01697-07)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -538,11 +538,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTE1NTI4NywtODExMDM5MDI4LC05MD
-g2NTgwNTEsMTY0MjQxMTAxMCwtMjA4NTk5MTQ1Myw5Mjk1NzU5
-MTYsMTk0MDEyOTYyOSwyMTA4NjM4Mzc1LDY4ODMxNzA0NCwtNT
-I3OTk2Njg0LC0xMzk2MDQxNzc2LC0yMDU5MTIwNDExLDcyMjU0
-Mjk0MywxOTY2ODg2MDcyLC0xOTY1MTc5Mjc2LDk4NjY3ODE3NC
-wxNzIyMDQ2ODAwLC0xOTI2NTIwNzEwLC0yMDE4NDg2NzIsLTE2
-MjcwOTI0MzddfQ==
+eyJoaXN0b3J5IjpbMTk1NTcxMjcxNiwxMTA1MTU1Mjg3LC04MT
+EwMzkwMjgsLTkwODY1ODA1MSwxNjQyNDExMDEwLC0yMDg1OTkx
+NDUzLDkyOTU3NTkxNiwxOTQwMTI5NjI5LDIxMDg2MzgzNzUsNj
+g4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYwNDE3NzYsLTIwNTkx
+MjA0MTEsNzIyNTQyOTQzLDE5NjY4ODYwNzIsLTE5NjUxNzkyNz
+YsOTg2Njc4MTc0LDE3MjIwNDY4MDAsLTE5MjY1MjA3MTAsLTIw
+MTg0ODY3Ml19
 -->
