@@ -115,7 +115,7 @@ Two risk-benefit analyses and several experts have argued that the possible larg
 
 Joyner et. al. reported the results of a safety review of the first 5,000 patients receiving convalescent plasma in the U.S. between April 3 and May 11 under the FDA Expanded Access Program[^10.1101/2020.05.12.20099879]. 81% were classified as having severe or life-threatening diseases and 19% were judged to be at high risk of progressing to severe or life-threatening disease. 66% were in the ICU. 36 (0.72%) had a serious adverse event in the first four hours after transfusion including 25 events considered related to transfusion, including death in 4, transfusion-associated lung injury in 11, circulatory overload in 7, and allergic reaction in 3. Overall, the seven day mortality was 14.9%[^10.1101/2020.05.12.20099879].
 
-Liu et. al. reported that among 39 hospitalized patients receiving convalescent plasma at one institution, the risk of dying compared to matched controls was lower among non-intubated patients (HR=0.19, 95% CI: 0.05-0.72; p=0.02) compared to intubated patients (HR=1.24, 95% CI:0.33-4.67)[^10.1101/2020.05.20.20102236]. In another uncontrolled study of 25 patients, the response to therapy also appeared to be favorable in that only one patient died despite 12 being mechanically ventilated[^10.1101/2020.05.08.20095471]. Four smaller uncontrolled studies involving primarily 
+Liu et. al. reported that among 39 hospitalized patients receiving convalescent plasma at one institution, the risk of dying compared to matched controls was lower among patients not receiving mechanical ventilation (HR=0.19, 95% CI: 0.05-0.72; p=0.02) compared to mechanically ventilated patients (HR=1.24, 95% CI:0.33-4.67)[^10.1101/2020.05.20.20102236]. In another uncontrolled study of 25 patients, the response to therapy also appeared to be favorable in that only one patient died despite 12 being mechanically ventilated[^10.1101/2020.05.08.20095471]. Three of four smaller uncontrolled studies involving primarily mechanically v patients reported variable 
 
 There are now at least five additional published observational studies of convalescent plasma in 50 generally severely ill SARS-CoV-2 patients, including 31 who were receiving mechanical ventilation[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1101/2020.05.08.20095471][^10.1093/infdis/jiaa228]. All patients received between 200 to 600 ml plasma, and in three studies of 19 patients the donors were generally documented to have neutralizing antibody titers >1:640[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039]. Each of the 19 patients in these initial reports survived and appeared to experience clinical improvement within three days. However, five of six mechanically ventilated patients in another study died[^10.1093/infdis/jiaa228]. 
 
@@ -540,7 +540,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTk2ODU3MCwxMTA1MTU1Mjg3LC04MT
+eyJoaXN0b3J5IjpbMTQwMTk3MTE3MSwxMTA1MTU1Mjg3LC04MT
 EwMzkwMjgsLTkwODY1ODA1MSwxNjQyNDExMDEwLC0yMDg1OTkx
 NDUzLDkyOTU3NTkxNiwxOTQwMTI5NjI5LDIxMDg2MzgzNzUsNj
 g4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYwNDE3NzYsLTIwNTkx
