@@ -39,7 +39,7 @@ In 53 patients with severe SARS-CoV-2 pneumonia receiving remdesivir as part of 
 
 A phase 3 placebo-controlled trial begun in China in patients with moderate-to-severe disease was discontinued prematurely after recruiting 237 rather than the planned 453 patients. Patients were randomized 2:1 to receive remdesivir or placebo. Although not statistically significant, patients receiving remdesivir had a faster time to clinical improvement than those receiving placebo (median 18 days \[IQR 12–28\] vs 23 days \[15–28\]; HR 1.52 \[0.95–2.43\]. The 28-day mortality was similar in both groups (14% for remdesivir and 13% for placebo). There was no difference in the rates of decline of nasopharyngeal viral RNA levels between the two groups. Adverse events leading to treatment discontinuation were 12% of the remdesivir group and 5% in the placebo group[^10.1016/S0140-6736(20)31022-9].
 
-Preliminary results from the NIH Adaptive COVID-19 Treatment Trial (ACTT) were announced on April 29th, 2020. The trial randomly assigned 1,063 hospitalized patients to remdesivir or placebo. There was a statistically significant 31% shortening in the median time to study-defined recovery in the remdesivir group (11 vs. 15 days). Mortality in the remdesivir group was lower than in the placebo group  (8% vs.11%) but this finding did not reach statistical significance. Based on this study, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
+Preliminary results from the NIH Adaptive COVID-19 Treatment Trial (ACTT) were reported May 22, 2020[^. The trial randomly assigned 1,063 hospitalized patients to remdesivir or placebo. There was a statistically significant 31% shortening in the median time to study-defined recovery in the remdesivir group (11 vs. 15 days). Mortality in the remdesivir group was lower than in the placebo group  (8% vs.11%) but this finding did not reach statistical significance. Based on this study, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
 
 ___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound that appears to be clinically beneficial. The optimal use of this drug will become clearer following the publication of the ACTT trial and two additional Gilead studies. The risks and benefits of using this drug in high-risk persons with mild-to-moderate disease will be important to study. Remdesivir will likely become the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
 
@@ -538,11 +538,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE4NjQyNTcsLTEyMzE4NjcwNjgsMT
-EwNTE1NTI4NywtODExMDM5MDI4LC05MDg2NTgwNTEsMTY0MjQx
-MTAxMCwtMjA4NTk5MTQ1Myw5Mjk1NzU5MTYsMTk0MDEyOTYyOS
-wyMTA4NjM4Mzc1LDY4ODMxNzA0NCwtNTI3OTk2Njg0LC0xMzk2
-MDQxNzc2LC0yMDU5MTIwNDExLDcyMjU0Mjk0MywxOTY2ODg2MD
-cyLC0xOTY1MTc5Mjc2LDk4NjY3ODE3NCwxNzIyMDQ2ODAwLC0x
-OTI2NTIwNzEwXX0=
+eyJoaXN0b3J5IjpbLTExMjM0MDU2MzksLTE2OTE4NjQyNTcsLT
+EyMzE4NjcwNjgsMTEwNTE1NTI4NywtODExMDM5MDI4LC05MDg2
+NTgwNTEsMTY0MjQxMTAxMCwtMjA4NTk5MTQ1Myw5Mjk1NzU5MT
+YsMTk0MDEyOTYyOSwyMTA4NjM4Mzc1LDY4ODMxNzA0NCwtNTI3
+OTk2Njg0LC0xMzk2MDQxNzc2LC0yMDU5MTIwNDExLDcyMjU0Mj
+k0MywxOTY2ODg2MDcyLC0xOTY1MTc5Mjc2LDk4NjY3ODE3NCwx
+NzIyMDQ2ODAwXX0=
 -->
