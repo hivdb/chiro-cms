@@ -186,7 +186,7 @@ Both IFN-α and IFN-β appear to inhibit coronavirus _in vitro_ and in animal mo
 
 As of May 7, 2020, there have been eight observational studies of IFN-α or IFN-β in patients with MERS-CoV (4 studies), SARS-CoV (2 studies), or SARS-CoV-2 (3 studies). One of the three SARS-CoV-2 was a randomized control trial of 127 patients with mild-to-moderate disease who were randomized 2:1 to receive IFN-β + ribavirin + lopinavir/r vs. lopinavir/r alone[^10.1016/S0140-6736(20)31042-4]. The patients receiving triple therapy had a significantly shorter time to a negative nasopharyngeal PCR (7 vs. 12 days) and a more rapid clinical improvement by several metrics. As ribavirin has generally not been efficacious in treating coronavirus infections, IFN-β is the most likely compound responsible for the improved outcome. 
 
-OnThe remaining clinical IFN studies did not contain control groups making it difficult to draw conclusions regarding clinical efficacy.
+One observational study compared the mortality of 106 hospitalized patients receiving IFN-β according to a local treatment protocol at their physician's discretionThe remaining clinical IFN studies did not contain control groups making it difficult to draw conclusions regarding clinical efficacy.
 
 There are also 10 ongoing studies of subcutaneous or intranasal IFN-α or IFN-β, although nearly all of these studies contain multiple treatment arms and lack control groups. There are three planned studies of IFN-λ, including one with a placebo arm.
 
@@ -540,7 +540,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzc0MDgzOSwtMTIzMTg2NzA2OCwxMT
+eyJoaXN0b3J5IjpbMTcwMzk5OTk3NSwtMTIzMTg2NzA2OCwxMT
 A1MTU1Mjg3LC04MTEwMzkwMjgsLTkwODY1ODA1MSwxNjQyNDEx
 MDEwLC0yMDg1OTkxNDUzLDkyOTU3NTkxNiwxOTQwMTI5NjI5LD
 IxMDg2MzgzNzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYw
