@@ -67,6 +67,10 @@
 [https://nextstrain.org/ncov/global](https://nextstrain.org/ncov/global)
 - Virus Pathogen Resource:
 [https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
+-Virological
+- Amino acid variation
+[http://cov-glue.cvr.gla.ac.uk/#/home](http://cov-glue.cvr.gla.ac.uk/#/home)
+
 
 ### Sequence analysis tools
 - CDC github code:
@@ -75,10 +79,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA2NDQzODAsMTU5MjIyMzE4NCw2ND
-YyOTAxOTcsODM3MjQ1OTk1LDg5NzM3MjgwNSwxMzgxOTU2MzQx
-LC0xMzAyNTUxMjc4LDE4Mzc5ODY4MjYsLTc4NzM5NDk2OSwtMT
-QyNTA1OTU1MSwxMDM0NTEyOTc5LC0xMDM0MzY5OTQ5LC0xMzk3
-NjM0NzE5LC0xMzY0MzQ4Njk3LC00ODUzMzU5OSwtMTE2MzkzMz
-E1NiwtNjg0ODk5NTA3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbOTA3NTc0OTE4LC0xMDUwNjQ0MzgwLDE1OT
+IyMjMxODQsNjQ2MjkwMTk3LDgzNzI0NTk5NSw4OTczNzI4MDUs
+MTM4MTk1NjM0MSwtMTMwMjU1MTI3OCwxODM3OTg2ODI2LC03OD
+czOTQ5NjksLTE0MjUwNTk1NTEsMTAzNDUxMjk3OSwtMTAzNDM2
+OTk0OSwtMTM5NzYzNDcxOSwtMTM2NDM0ODY5NywtNDg1MzM1OT
+ksLTExNjM5MzMxNTYsLTY4NDg5OTUwNyw3MzA5OTgxMTZdfQ==
+
 -->
