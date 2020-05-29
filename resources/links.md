@@ -29,8 +29,12 @@
 [https://www.covid-trials.org/](https://www.covid-trials.org/)
 - STAT's Drug and Vaccine Tracker:
  [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
-
+- Covid evidence 
+[https://covid-evidence.org/](https://covid-evidence.org/)
+- Repurposed drugs
+[http://www.redo-project.org/covid19db/](http://www.redo-project.org/covid19db/)
  
+
 ### Sequences
 - Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
 - GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
@@ -77,17 +81,14 @@
 - CDC github code:
 [https://github.com/CDCgov/SARS-CoV-2\_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
 
-### Outcomes research
-- Covid evidence 
-[https://covid-evidence.org/](https://covid-evidence.org/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU2NTI4NzIsNTM1NTQyNDMzLDkwNz
-U3NDkxOCwtMTA1MDY0NDM4MCwxNTkyMjIzMTg0LDY0NjI5MDE5
-Nyw4MzcyNDU5OTUsODk3MzcyODA1LDEzODE5NTYzNDEsLTEzMD
-I1NTEyNzgsMTgzNzk4NjgyNiwtNzg3Mzk0OTY5LC0xNDI1MDU5
-NTUxLDEwMzQ1MTI5NzksLTEwMzQzNjk5NDksLTEzOTc2MzQ3MT
-ksLTEzNjQzNDg2OTcsLTQ4NTMzNTk5LC0xMTYzOTMzMTU2LC02
-ODQ4OTk1MDddfQ==
+eyJoaXN0b3J5IjpbNTU4NDYyNTUzLC0xMDU1NjUyODcyLDUzNT
+U0MjQzMyw5MDc1NzQ5MTgsLTEwNTA2NDQzODAsMTU5MjIyMzE4
+NCw2NDYyOTAxOTcsODM3MjQ1OTk1LDg5NzM3MjgwNSwxMzgxOT
+U2MzQxLC0xMzAyNTUxMjc4LDE4Mzc5ODY4MjYsLTc4NzM5NDk2
+OSwtMTQyNTA1OTU1MSwxMDM0NTEyOTc5LC0xMDM0MzY5OTQ5LC
+0xMzk3NjM0NzE5LC0xMzY0MzQ4Njk3LC00ODUzMzU5OSwtMTE2
+MzkzMzE1Nl19
 -->
