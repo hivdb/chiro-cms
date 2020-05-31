@@ -285,7 +285,6 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.04.15.043166]: Williamson B, Feldmann F, et int., Wit ED. "Clinical benefit of remdesivir in rhesus macaques infected with SARS-CoV-2" _bioRxiv_, 2020. [10.1101/2020.04.15.043166](https://doi.org/10.1101/2020.04.15.043166)
 [^10.1002/phar.2398]: Barlow A, Landolf KM, et int., Heavner MS. "Review of Emerging Pharmacotherapy for the Treatment of Coronavirus Disease 2019" _Pharmacotherapy_, 2020. [10.1002/phar.2398](https://doi.org/10.1002/phar.2398)
 [^10.1016/j.onehlt.2020.100128]: Amirian ES, Levy JK. "Current knowledge about the antivirals remdesivir (GS-5734) and GS-441524 as therapeutic options for coronaviruses" _One Health_, 2020. [10.1016/j.onehlt.2020.100128](https://doi.org/10.1016/j.onehlt.2020.100128)
-[^10.1101/2020.04.16.20068379]: Arshad U, Pertinez H, et int., Owen A. "Prioritisation of potential anti-SARS-CoV-2 drug repurposing opportunities based on ability to achieve adequate target site concentrations derived from their established human pharmacokinetics" _medRxiv_, 2020. [10.1101/2020.04.16.20068379](https://doi.org/10.1101/2020.04.16.20068379)
 [^10.1056/NEJMoa2007016]: Grein J, Ohmagari N, et int., Flanigan T. "Compassionate Use of Remdesivir for Patients with Severe Covid-19" _New England Journal of Medicine_, 2020. [10.1056/NEJMoa2007016](https://doi.org/10.1056/NEJMoa2007016)
 [^10.1016/S0140-6736(20)31022-9]: Wang Y, Zhang D, et int., Wang C. "Remdesivir in adults with severe COVID-19: a randomised, double-blind, placebo-controlled, multicentre trial" _The Lancet_, 2020. [10.1016/S0140-6736(20)31022-9](https://doi.org/10.1016/S0140-6736(20)31022-9)
 [^10.1056/NEJMoa2007764]: Beigel JH, Tomashek KM, et int., ACTT-1 Study Group Members. "Remdesivir for the Treatment of Covid-19 - Preliminary Report" _N. Engl. J. Med._, 2020. [10.1056/NEJMoa2007764](https://doi.org/10.1056/NEJMoa2007764)
@@ -548,11 +547,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjU4MDI5MiwxMzc5NTkyMzQ5LC0xNz
-AxMTcxNDk1LC0xNjkxODY0MjU3LC0xMjMxODY3MDY4LDExMDUx
-NTUyODcsLTgxMTAzOTAyOCwtOTA4NjU4MDUxLDE2NDI0MTEwMT
-AsLTIwODU5OTE0NTMsOTI5NTc1OTE2LDE5NDAxMjk2MjksMjEw
-ODYzODM3NSw2ODgzMTcwNDQsLTUyNzk5NjY4NCwtMTM5NjA0MT
-c3NiwtMjA1OTEyMDQxMSw3MjI1NDI5NDMsMTk2Njg4NjA3Miwt
-MTk2NTE3OTI3Nl19
+eyJoaXN0b3J5IjpbLTE0MDg4NjY3ODUsMTM3OTU5MjM0OSwtMT
+cwMTE3MTQ5NSwtMTY5MTg2NDI1NywtMTIzMTg2NzA2OCwxMTA1
+MTU1Mjg3LC04MTEwMzkwMjgsLTkwODY1ODA1MSwxNjQyNDExMD
+EwLC0yMDg1OTkxNDUzLDkyOTU3NTkxNiwxOTQwMTI5NjI5LDIx
+MDg2MzgzNzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYwND
+E3NzYsLTIwNTkxMjA0MTEsNzIyNTQyOTQzLDE5NjY4ODYwNzIs
+LTE5NjUxNzkyNzZdfQ==
 -->
