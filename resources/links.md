@@ -58,6 +58,8 @@
 [https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true](https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true)
 - Coronavirus 3D Structure Database:
 [https://cov3d.ibbr.umd.edu/](https://cov3d.ibbr.umd.edu/)
+- COVID-3D
+[http://biosig.unimelb.edu.au/covid3d/](http://biosig.unimelb.edu.au/covid3d/)
 
 
 ### Chemical structures
@@ -84,11 +86,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4NDYyNTUzLC0xMDU1NjUyODcyLDUzNT
-U0MjQzMyw5MDc1NzQ5MTgsLTEwNTA2NDQzODAsMTU5MjIyMzE4
-NCw2NDYyOTAxOTcsODM3MjQ1OTk1LDg5NzM3MjgwNSwxMzgxOT
-U2MzQxLC0xMzAyNTUxMjc4LDE4Mzc5ODY4MjYsLTc4NzM5NDk2
-OSwtMTQyNTA1OTU1MSwxMDM0NTEyOTc5LC0xMDM0MzY5OTQ5LC
-0xMzk3NjM0NzE5LC0xMzY0MzQ4Njk3LC00ODUzMzU5OSwtMTE2
-MzkzMzE1Nl19
+eyJoaXN0b3J5IjpbLTEzNzk5MDI4OTYsNTU4NDYyNTUzLC0xMD
+U1NjUyODcyLDUzNTU0MjQzMyw5MDc1NzQ5MTgsLTEwNTA2NDQz
+ODAsMTU5MjIyMzE4NCw2NDYyOTAxOTcsODM3MjQ1OTk1LDg5Nz
+M3MjgwNSwxMzgxOTU2MzQxLC0xMzAyNTUxMjc4LDE4Mzc5ODY4
+MjYsLTc4NzM5NDk2OSwtMTQyNTA1OTU1MSwxMDM0NTEyOTc5LC
+0xMDM0MzY5OTQ5LC0xMzk3NjM0NzE5LC0xMzY0MzQ4Njk3LC00
+ODUzMzU5OV19
 -->
