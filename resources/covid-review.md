@@ -121,7 +121,7 @@ Two risk-benefit analyses and several experts have argued that the possible larg
 
 Joyner et. al. reported the results of a safety review of the first 5,000 patients receiving convalescent plasma in the U.S. between April 3 and May 11 under the FDA Expanded Access Program[^10.1101/2020.05.12.20099879]. 81% were classified as having severe or life-threatening diseases and 19% were judged to be at high risk of progressing to severe or life-threatening disease. 66% were in the ICU. 36 (0.72%) had a serious adverse event in the first four hours after transfusion including 25 events considered related to transfusion, including death in 4, transfusion-associated lung injury in 11, circulatory overload in 7, and allergic reaction in 3. Overall, the seven day mortality was 14.9%[^10.1101/2020.05.12.20099879].
 
-Liu et. al. reported that among 39 hospitalized patients receiving convalescent plasma at one institution, the risk of dying compared to matched controls was lower among patients not receiving mechanical ventilation (HR=0.19, 95% CI: 0.05-0.72; p=0.02) compared to mechanically ventilated patients (HR=1.24, 95% CI:0.33-4.67)[^10.1101/2020.05.20.20102236]. In another uncontrolled study of 25 patients, the response to therapy also appeared to be favorable in that only one patient died despite 12 being mechanically ventilated[^10.1101/2020.05.08.20095471]. Three of four smaller uncontrolled studies involving primarily mechanically ventilated patients reported favorable results[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1093/infdis/jiaa228].
+Liu et. al. reported that among 39 hospitalized patients receiving convalescent plasma at one institution, the risk of dying compared to matched controls was lower among patients not receiving mechanical ventilation (HR=0.19, 95% CI: 0.05-0.72; p=0.02) compared to mechanically ventilated patients (HR=1.24, 95% CI:0.33-4.67)[^10.1101/2020.05.20.20102236]. In another uncontrolled study of 25 patients, the response to therapy also appeared to be favorable in that only one patient died despite 12 being mechanically ventilated[^10.1016/j.ajpath.2020.05.014]. Three of four smaller uncontrolled studies involving primarily mechanically ventilated patients reported favorable results[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1093/infdis/jiaa228].
 
 As of May 7, 2020, there are 46 ongoing (n=18) or planned (n=28) clinical trials containing at least one arm in which recipients will receive convalescent plasma. There are also two planned studies of convalescent immunoglobulin and one of pooled immunoglobulin from healthy donors. One ongoing study is randomizing patients to convalescent plasma or to standard donor plasma and another planned study aims to randomize high-risk exposed persons to convalescent plasma or placebo. The remaining studies are not placebo controlled. Convalescent plasma and potentially other forms of immunoglobulin therapy will likely remain a treatment option particularly in patients with severe disease.
 
@@ -419,7 +419,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1016/j.antiviral.2020.104792]: Tang T, Bidon M, et int., Daniel S. "Coronavirus membrane fusion mechanism offers as a potential target for antiviral development" _Antiviral Res._, 2020. [10.1016/j.antiviral.2020.104792](https://doi.org/10.1016/j.antiviral.2020.104792)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
 [^10.1128/JVI.01697-07]: Ujike M, Nishikawa H, et int., Taguchi F. "Heptad Repeat-Derived Peptides Block Protease-Mediated Direct Entry from the Cell Surface of Severe Acute Respiratory Syndrome Coronavirus but Not Entry via the Endosomal Pathway" _Journal of Virology_, 2008. [10.1128/JVI.01697-07](https://doi.org/10.1128/JVI.01697-07)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -547,11 +547,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDExNzE0OTUsLTE2OTE4NjQyNTcsLT
-EyMzE4NjcwNjgsMTEwNTE1NTI4NywtODExMDM5MDI4LC05MDg2
-NTgwNTEsMTY0MjQxMTAxMCwtMjA4NTk5MTQ1Myw5Mjk1NzU5MT
-YsMTk0MDEyOTYyOSwyMTA4NjM4Mzc1LDY4ODMxNzA0NCwtNTI3
-OTk2Njg0LC0xMzk2MDQxNzc2LC0yMDU5MTIwNDExLDcyMjU0Mj
-k0MywxOTY2ODg2MDcyLC0xOTY1MTc5Mjc2LDk4NjY3ODE3NCwx
-NzIyMDQ2ODAwXX0=
+eyJoaXN0b3J5IjpbMTM3OTU5MjM0OSwtMTcwMTE3MTQ5NSwtMT
+Y5MTg2NDI1NywtMTIzMTg2NzA2OCwxMTA1MTU1Mjg3LC04MTEw
+MzkwMjgsLTkwODY1ODA1MSwxNjQyNDExMDEwLC0yMDg1OTkxND
+UzLDkyOTU3NTkxNiwxOTQwMTI5NjI5LDIxMDg2MzgzNzUsNjg4
+MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYwNDE3NzYsLTIwNTkxMj
+A0MTEsNzIyNTQyOTQzLDE5NjY4ODYwNzIsLTE5NjUxNzkyNzYs
+OTg2Njc4MTc0XX0=
 -->
