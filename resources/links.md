@@ -75,8 +75,10 @@
 [https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
 - Virological
 [http://virological.org/c/novel-2019-coronavirus](http://virological.org/c/novel-2019-coronavirus)
-- Amino acid variation
+- Amino acid variation:
 [http://cov-glue.cvr.gla.ac.uk/#/home](http://cov-glue.cvr.gla.ac.uk/#/home)
+- Hyphy:
+[http://hyphy.org/covid/](http://hyphy.org/covid/)
 
 
 ### Sequence analysis tools
@@ -86,11 +88,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk5MDI4OTYsNTU4NDYyNTUzLC0xMD
-U1NjUyODcyLDUzNTU0MjQzMyw5MDc1NzQ5MTgsLTEwNTA2NDQz
-ODAsMTU5MjIyMzE4NCw2NDYyOTAxOTcsODM3MjQ1OTk1LDg5Nz
-M3MjgwNSwxMzgxOTU2MzQxLC0xMzAyNTUxMjc4LDE4Mzc5ODY4
-MjYsLTc4NzM5NDk2OSwtMTQyNTA1OTU1MSwxMDM0NTEyOTc5LC
-0xMDM0MzY5OTQ5LC0xMzk3NjM0NzE5LC0xMzY0MzQ4Njk3LC00
-ODUzMzU5OV19
+eyJoaXN0b3J5IjpbMTA5MzUyMTQwOCwtMTM3OTkwMjg5Niw1NT
+g0NjI1NTMsLTEwNTU2NTI4NzIsNTM1NTQyNDMzLDkwNzU3NDkx
+OCwtMTA1MDY0NDM4MCwxNTkyMjIzMTg0LDY0NjI5MDE5Nyw4Mz
+cyNDU5OTUsODk3MzcyODA1LDEzODE5NTYzNDEsLTEzMDI1NTEy
+NzgsMTgzNzk4NjgyNiwtNzg3Mzk0OTY5LC0xNDI1MDU5NTUxLD
+EwMzQ1MTI5NzksLTEwMzQzNjk5NDksLTEzOTc2MzQ3MTksLTEz
+NjQzNDg2OTddfQ==
 -->
