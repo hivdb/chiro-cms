@@ -29,9 +29,11 @@
 [https://www.covid-trials.org/](https://www.covid-trials.org/)
 - STAT's Drug and Vaccine Tracker:
  [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
-- Covid evidence 
+- Covid evidence: 
 [https://covid-evidence.org/](https://covid-evidence.org/)
-- Repurposed drugs
+- Meta evidence:
+[http://metaevidence.org/COVID19.aspx](http://metaevidence.org/COVID19.aspx)
+- Repurposed drugs:
 [http://www.redo-project.org/covid19db/](http://www.redo-project.org/covid19db/)
  
 
@@ -89,11 +91,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTM3MDQ0MywtMTYwNzI2NTQ2NSwxMD
-kzNTIxNDA4LC0xMzc5OTAyODk2LDU1ODQ2MjU1MywtMTA1NTY1
-Mjg3Miw1MzU1NDI0MzMsOTA3NTc0OTE4LC0xMDUwNjQ0MzgwLD
-E1OTIyMjMxODQsNjQ2MjkwMTk3LDgzNzI0NTk5NSw4OTczNzI4
-MDUsMTM4MTk1NjM0MSwtMTMwMjU1MTI3OCwxODM3OTg2ODI2LC
-03ODczOTQ5NjksLTE0MjUwNTk1NTEsMTAzNDUxMjk3OSwtMTAz
-NDM2OTk0OV19
+eyJoaXN0b3J5IjpbLTE5NjQ4NzQ0MDUsLTMzMTM3MDQ0MywtMT
+YwNzI2NTQ2NSwxMDkzNTIxNDA4LC0xMzc5OTAyODk2LDU1ODQ2
+MjU1MywtMTA1NTY1Mjg3Miw1MzU1NDI0MzMsOTA3NTc0OTE4LC
+0xMDUwNjQ0MzgwLDE1OTIyMjMxODQsNjQ2MjkwMTk3LDgzNzI0
+NTk5NSw4OTczNzI4MDUsMTM4MTk1NjM0MSwtMTMwMjU1MTI3OC
+wxODM3OTg2ODI2LC03ODczOTQ5NjksLTE0MjUwNTk1NTEsMTAz
+NDUxMjk3OV19
 -->
