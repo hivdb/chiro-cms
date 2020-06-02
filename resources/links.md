@@ -79,6 +79,8 @@
 [http://cov-glue.cvr.gla.ac.uk/#/home](http://cov-glue.cvr.gla.ac.uk/#/home)
 - Hyphy:
 [http://hyphy.org/covid/](http://hyphy.org/covid/)
+- COVID-19 genome annotator:
+[http://giorgilab.dyndns.org/coronapp/](http://giorgilab.dyndns.org/coronapp/)
 
 
 ### Sequence analysis tools
@@ -88,11 +90,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzUyMTQwOCwtMTM3OTkwMjg5Niw1NT
-g0NjI1NTMsLTEwNTU2NTI4NzIsNTM1NTQyNDMzLDkwNzU3NDkx
-OCwtMTA1MDY0NDM4MCwxNTkyMjIzMTg0LDY0NjI5MDE5Nyw4Mz
-cyNDU5OTUsODk3MzcyODA1LDEzODE5NTYzNDEsLTEzMDI1NTEy
-NzgsMTgzNzk4NjgyNiwtNzg3Mzk0OTY5LC0xNDI1MDU5NTUxLD
-EwMzQ1MTI5NzksLTEwMzQzNjk5NDksLTEzOTc2MzQ3MTksLTEz
-NjQzNDg2OTddfQ==
+eyJoaXN0b3J5IjpbLTE2MDcyNjU0NjUsMTA5MzUyMTQwOCwtMT
+M3OTkwMjg5Niw1NTg0NjI1NTMsLTEwNTU2NTI4NzIsNTM1NTQy
+NDMzLDkwNzU3NDkxOCwtMTA1MDY0NDM4MCwxNTkyMjIzMTg0LD
+Y0NjI5MDE5Nyw4MzcyNDU5OTUsODk3MzcyODA1LDEzODE5NTYz
+NDEsLTEzMDI1NTEyNzgsMTgzNzk4NjgyNiwtNzg3Mzk0OTY5LC
+0xNDI1MDU5NTUxLDEwMzQ1MTI5NzksLTEwMzQzNjk5NDksLTEz
+OTc2MzQ3MTldfQ==
 -->
