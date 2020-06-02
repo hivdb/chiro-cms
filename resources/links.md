@@ -61,7 +61,6 @@
 - COVID-3D
 [http://biosig.unimelb.edu.au/covid3d/](http://biosig.unimelb.edu.au/covid3d/)
 
-
 ### Chemical structures
 - American Chemical Society resources:
   https://cas.org/covid-19-antiviral-compounds-dataset
@@ -90,11 +89,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDcyNjU0NjUsMTA5MzUyMTQwOCwtMT
-M3OTkwMjg5Niw1NTg0NjI1NTMsLTEwNTU2NTI4NzIsNTM1NTQy
-NDMzLDkwNzU3NDkxOCwtMTA1MDY0NDM4MCwxNTkyMjIzMTg0LD
-Y0NjI5MDE5Nyw4MzcyNDU5OTUsODk3MzcyODA1LDEzODE5NTYz
-NDEsLTEzMDI1NTEyNzgsMTgzNzk4NjgyNiwtNzg3Mzk0OTY5LC
-0xNDI1MDU5NTUxLDEwMzQ1MTI5NzksLTEwMzQzNjk5NDksLTEz
-OTc2MzQ3MTldfQ==
+eyJoaXN0b3J5IjpbLTMzMTM3MDQ0MywtMTYwNzI2NTQ2NSwxMD
+kzNTIxNDA4LC0xMzc5OTAyODk2LDU1ODQ2MjU1MywtMTA1NTY1
+Mjg3Miw1MzU1NDI0MzMsOTA3NTc0OTE4LC0xMDUwNjQ0MzgwLD
+E1OTIyMjMxODQsNjQ2MjkwMTk3LDgzNzI0NTk5NSw4OTczNzI4
+MDUsMTM4MTk1NjM0MSwtMTMwMjU1MTI3OCwxODM3OTg2ODI2LC
+03ODczOTQ5NjksLTE0MjUwNTk1NTEsMTAzNDUxMjk3OSwtMTAz
+NDM2OTk0OV19
 -->
