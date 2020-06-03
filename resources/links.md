@@ -86,15 +86,17 @@
 [https://github.com/CDCgov/SARS-CoV-2\_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
 
 ### Clinical management
+- NIH:
+[https://covid19treatmentguidelines.nih.gov/whats-new/](https://covid19treatmentguidelines.nih.gov/whats-new/)
 - CDC:
 [https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY4NTkwNjksLTE5NjQ4NzQ0MDUsLT
-MzMTM3MDQ0MywtMTYwNzI2NTQ2NSwxMDkzNTIxNDA4LC0xMzc5
-OTAyODk2LDU1ODQ2MjU1MywtMTA1NTY1Mjg3Miw1MzU1NDI0Mz
-MsOTA3NTc0OTE4LC0xMDUwNjQ0MzgwLDE1OTIyMjMxODQsNjQ2
-MjkwMTk3LDgzNzI0NTk5NSw4OTczNzI4MDUsMTM4MTk1NjM0MS
-wtMTMwMjU1MTI3OCwxODM3OTg2ODI2LC03ODczOTQ5NjksLTE0
-MjUwNTk1NTFdfQ==
+eyJoaXN0b3J5IjpbODQ2NjQ4MTY2LC0xOTY0ODc0NDA1LC0zMz
+EzNzA0NDMsLTE2MDcyNjU0NjUsMTA5MzUyMTQwOCwtMTM3OTkw
+Mjg5Niw1NTg0NjI1NTMsLTEwNTU2NTI4NzIsNTM1NTQyNDMzLD
+kwNzU3NDkxOCwtMTA1MDY0NDM4MCwxNTkyMjIzMTg0LDY0NjI5
+MDE5Nyw4MzcyNDU5OTUsODk3MzcyODA1LDEzODE5NTYzNDEsLT
+EzMDI1NTEyNzgsMTgzNzk4NjgyNiwtNzg3Mzk0OTY5LC0xNDI1
+MDU5NTUxXX0=
 -->
