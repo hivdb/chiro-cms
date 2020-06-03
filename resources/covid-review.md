@@ -217,9 +217,9 @@ Several synthetic furin inhibitors have also shown to inhibit coronaviruses _in 
 ___Conclusion: Clinical studies of camostat and nafamostat are just beginning but they are few in number. It remains possible, however, that it may also be necessary to target furin and possibly cathepsins to inhibit SARS-CoV-2 in patients.___
 
 ### Endosomal Trafficking Inhibitors
-Chloroquine and its analogs have been reported to have multiple intracellular actions that may interfere with virus replication and/or the immune response to viral infections. Chloroquine analogs are weak bases, that, in their non-protonated form, penetrate and concentrate within acidic intracellular organelles such as endosomes and lysosomes. In these organelles, chloroquine analogs may interfere with the trafficking of viruses that require a pH-dependent step for entry[^10.1016/s1473-3099(03)00806-5][^10.1371/journal.ppat.1004502]. Chloroquine analogs have also been reported to impair ACE2 glycosylation, which could theoretically diminish receptor binding by SARS-CoV and SARS-CoV-2[^10.1186/1743-422X-2-69]. They are also anti-inflammatory, and have been used for autoimmune conditions.
+Chloroquine and its analogs have been reported to have multiple intracellular actions that may interfere with virus replication and/or the immune response to viral infections. Chloroquine analogs are weak bases, that in their non-protonated form, penetrate and concentrate within acidic intracellular organelles such as endosomes and lysosomes. In these organelles, chloroquine analogs may interfere with the trafficking of viruses that require a pH-dependent step for entry[^10.1016/s1473-3099(03)00806-5][^10.1371/journal.ppat.1004502]. Chloroquine analogs have also been reported to impair ACE2 glycosylation, which could theoretically diminish receptor binding by SARS-CoV and SARS-CoV-2[^10.1186/1743-422X-2-69]. They are also anti-inflammatory, and have been used for autoimmune conditions.
 
-Chloroquine and hydroxychloroquine have demonstrated modest inhibitory activity against MERS-CoV[^10.1128/AAC.03036-14][^10.3390/v10060283][^10.1128/AAC.03011-14], SARS-CoV[^10.1186/1743-422X-2-69][^10.1177/095632020601700505][^10.1016/j.bbrc.2004.08.085][^10.1128/AAC.03011-14], and SARS-CoV-2[^10.1038/s41422-020-0282-0][^10.1038/s41421-020-0156-0][^10.1093/cid/ciaa237][^10.1101/2020.03.20.999730][^10.1101/2020.04.04.020925][^10.1101/2020.03.29.014407][^10.1101/2020.04.03.023846] primarily in Vero cells with most EC<sub>50</sub>s ranging between 1 μM and 10 μM. Chloroquine has also been shown to reduce mortality in a mouse model of HCoV-OC43 infection[^10.1128/AAC.01509-08][^10.1128/JVI.00023-19] but to have minimal if any effects on virus levels in a mouse SARS-CoV model[^10.1177/095632020601700505]. However, despite its _in vitro_ inhibitory activity against influenza and other viruses including dengue, large clinical trials of chloroquine have not shown any clinical benefit suggesting that the modest viral inhibition observed _in vitro_ may be cell culture artifacts[^10.1371/journal.pntd.0000785][^10.1016/S1473-3099(11)70065-2].
+Chloroquine and hydroxychloroquine have demonstrated modest inhibitory activity against MERS-CoV[^10.1128/AAC.03036-14][^10.3390/v10060283][^10.1128/AAC.03011-14], SARS-CoV[^10.1186/1743-422X-2-69][^10.1177/095632020601700505][^10.1016/j.bbrc.2004.08.085][^10.1128/AAC.03011-14], and SARS-CoV-2[^10.1038/s41422-020-0282-0][^10.1038/s41421-020-0156-0][^10.1093/cid/ciaa237][^10.1101/2020.03.20.999730][^10.1101/2020.04.04.020925][^10.1101/2020.03.29.014407][^10.1101/2020.04.03.023846] primarily in Vero cells with most EC<sub>50</sub>s ranging between 1 μM and 10 μM. Chloroquine has also been shown to reduce mortality in a mouse model of HCoV-OC43 infection[^10.1128/AAC.01509-08][^10.1128/JVI.00023-19] but to have minimal if any effects on virus levels in a mouse SARS-CoV model[^10.1177/095632020601700505]. Moreover, despite its _in vitro_ inhibitory activity against influenza and other viruses including dengue, large clinical trials of chloroquine have not shown any clinical benefit[^10.1371/journal.pntd.0000785][^10.1016/S1473-3099(11)70065-2].
 
 The pharmacokinetics of chloroquine and hydroxychloroquine are complicated. Based on plasma levels alone, they appear to barely achieve sufficient inhibitory levels in patients receiving standard dosing regimens[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1002/cpt.1909]. Mefloquine is an antimalarial that also weakly inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1128/AAC.03036-14][^10.1101/2020.03.20.999730] but achieves higher plasma levels than chloroquine or hydroxychloroquine[^10.1002/cpt.1909].
 
@@ -419,7 +419,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1016/j.antiviral.2020.104792]: Tang T, Bidon M, et int., Daniel S. "Coronavirus membrane fusion mechanism offers as a potential target for antiviral development" _Antiviral Res._, 2020. [10.1016/j.antiviral.2020.104792](https://doi.org/10.1016/j.antiviral.2020.104792)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
 [^10.1128/JVI.01697-07]: Ujike M, Nishikawa H, et int., Taguchi F. "Heptad Repeat-Derived Peptides Block Protease-Mediated Direct Entry from the Cell Surface of Severe Acute Respiratory Syndrome Coronavirus but Not Entry via the Endosomal Pathway" _Journal of Virology_, 2008. [10.1128/JVI.01697-07](https://doi.org/10.1128/JVI.01697-07)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -549,11 +549,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg4NjY3ODUsMTM3OTU5MjM0OSwtMT
-cwMTE3MTQ5NSwtMTY5MTg2NDI1NywtMTIzMTg2NzA2OCwxMTA1
-MTU1Mjg3LC04MTEwMzkwMjgsLTkwODY1ODA1MSwxNjQyNDExMD
-EwLC0yMDg1OTkxNDUzLDkyOTU3NTkxNiwxOTQwMTI5NjI5LDIx
-MDg2MzgzNzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQsLTEzOTYwND
-E3NzYsLTIwNTkxMjA0MTEsNzIyNTQyOTQzLDE5NjY4ODYwNzIs
-LTE5NjUxNzkyNzZdfQ==
+eyJoaXN0b3J5IjpbNTQ3ODk2ODczLC0xNDA4ODY2Nzg1LDEzNz
+k1OTIzNDksLTE3MDExNzE0OTUsLTE2OTE4NjQyNTcsLTEyMzE4
+NjcwNjgsMTEwNTE1NTI4NywtODExMDM5MDI4LC05MDg2NTgwNT
+EsMTY0MjQxMTAxMCwtMjA4NTk5MTQ1Myw5Mjk1NzU5MTYsMTk0
+MDEyOTYyOSwyMTA4NjM4Mzc1LDY4ODMxNzA0NCwtNTI3OTk2Nj
+g0LC0xMzk2MDQxNzc2LC0yMDU5MTIwNDExLDcyMjU0Mjk0Mywx
+OTY2ODg2MDcyXX0=
 -->
