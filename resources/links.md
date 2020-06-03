@@ -82,20 +82,19 @@
 [http://hyphy.org/covid/](http://hyphy.org/covid/)
 - COVID-19 genome annotator:
 [http://giorgilab.dyndns.org/coronapp/](http://giorgilab.dyndns.org/coronapp/)
-
-
-### Sequence analysis tools
 - CDC github code:
 [https://github.com/CDCgov/SARS-CoV-2\_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
 
-
+### Clinical management
+- CDC:
+[https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQ4NzQ0MDUsLTMzMTM3MDQ0MywtMT
-YwNzI2NTQ2NSwxMDkzNTIxNDA4LC0xMzc5OTAyODk2LDU1ODQ2
-MjU1MywtMTA1NTY1Mjg3Miw1MzU1NDI0MzMsOTA3NTc0OTE4LC
-0xMDUwNjQ0MzgwLDE1OTIyMjMxODQsNjQ2MjkwMTk3LDgzNzI0
-NTk5NSw4OTczNzI4MDUsMTM4MTk1NjM0MSwtMTMwMjU1MTI3OC
-wxODM3OTg2ODI2LC03ODczOTQ5NjksLTE0MjUwNTk1NTEsMTAz
-NDUxMjk3OV19
+eyJoaXN0b3J5IjpbLTEzMTY4NTkwNjksLTE5NjQ4NzQ0MDUsLT
+MzMTM3MDQ0MywtMTYwNzI2NTQ2NSwxMDkzNTIxNDA4LC0xMzc5
+OTAyODk2LDU1ODQ2MjU1MywtMTA1NTY1Mjg3Miw1MzU1NDI0Mz
+MsOTA3NTc0OTE4LC0xMDUwNjQ0MzgwLDE1OTIyMjMxODQsNjQ2
+MjkwMTk3LDgzNzI0NTk5NSw4OTczNzI4MDUsMTM4MTk1NjM0MS
+wtMTMwMjU1MTI3OCwxODM3OTg2ODI2LC03ODczOTQ5NjksLTE0
+MjUwNTk1NTFdfQ==
 -->
