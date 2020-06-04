@@ -190,7 +190,7 @@ The Coronavirus Antiviral Research Database contains >160 cell culture[^10.1016/
 
 Both IFN-α and IFN-β appear to inhibit coronavirus _in vitro_ and in animal models, although several authors have argued that IFN-β is more effective than IFN-α at inhibiting coronaviruses[^10.1016/j.antiviral.2020.104791]. One study suggests that SARS-CoV-2 is more susceptible to IFN-α than SARS-CoV-1, due to a deletion in ORF3b, a 154 amino acid protein known to antagonize one of the proteins involved in the cellular IFN response[^10.1101/2020.03.07.982264].
 
-As of May 7, 2020, there have been eight observational studies of IFN-α or IFN-β in patients with MERS-CoV (4 studies), SARS-CoV (2 studies), or SARS-CoV-2 (3 studies). One of the three SARS-CoV-2 was a randomized control trial of 127 patients with mild-to-moderate disease who were randomized 2:1 to receive IFN-β + ribavirin + lopinavir/r vs. lopinavir/r alone[^10.1016/S0140-6736(20)31042-4]. The patients receiving triple therapy had a significantly shorter time to a negative nasopharyngeal PCR (7 vs. 12 days) and a more rapid clinical improvement by several metrics. As ribavirin has generally not been efficacious in treating coronavirus infections, IFN-β is the most likely compound responsible for the improved outcome.
+There have been eight observational studies of IFN-α or IFN-β in patients with MERS-CoV (4 studies), SARS-CoV (2 studies), or SARS-CoV-2 (3 studies). One of the three SARS-CoV-2 was a randomized control trial of 127 patients with mild-to-moderate disease who were randomized 2:1 to receive IFN-β + ribavirin + lopinavir/r vs. lopinavir/r alone[^10.1016/S0140-6736(20)31042-4]. The patients receiving triple therapy had a significantly shorter time to a negative nasopharyngeal PCR (7 vs. 12 days) and a more rapid clinical improvement by several metrics. As ribavirin has generally not been efficacious in treating coronavirus infections, IFN-β is the most likely compound responsible for the improved outcome.
 
 One observational study compared the mortality of 106 hospitalized patients receiving IFN-β-1b (Betaferon) 250 ug every other day at their physician's discretion to 150 untreated patients at the same institution[^10.1101/2020.05.15.20084293]. The overall mortality rate was 24.6% and there was no difference in mortality between the two groups in adjusted and unadjusted analyses.
 
@@ -543,11 +543,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzY4MTc5NywtMTM3OTM1NDY1NSwtMT
-k5Njc4MTU4NywtMTQwODg2Njc4NSwxMzc5NTkyMzQ5LC0xNzAx
-MTcxNDk1LC0xNjkxODY0MjU3LC0xMjMxODY3MDY4LDExMDUxNT
-UyODcsLTgxMTAzOTAyOCwtOTA4NjU4MDUxLDE2NDI0MTEwMTAs
-LTIwODU5OTE0NTMsOTI5NTc1OTE2LDE5NDAxMjk2MjksMjEwOD
-YzODM3NSw2ODgzMTcwNDQsLTUyNzk5NjY4NCwtMTM5NjA0MTc3
-NiwtMjA1OTEyMDQxMV19
+eyJoaXN0b3J5IjpbLTMwMTY5MTYwLC0yODc2ODE3OTcsLTEzNz
+kzNTQ2NTUsLTE5OTY3ODE1ODcsLTE0MDg4NjY3ODUsMTM3OTU5
+MjM0OSwtMTcwMTE3MTQ5NSwtMTY5MTg2NDI1NywtMTIzMTg2Nz
+A2OCwxMTA1MTU1Mjg3LC04MTEwMzkwMjgsLTkwODY1ODA1MSwx
+NjQyNDExMDEwLC0yMDg1OTkxNDUzLDkyOTU3NTkxNiwxOTQwMT
+I5NjI5LDIxMDg2MzgzNzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQs
+LTEzOTYwNDE3NzZdfQ==
 -->
