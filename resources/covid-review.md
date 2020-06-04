@@ -121,7 +121,7 @@ Two risk-benefit analyses and several experts have argued that the possible larg
 
 Joyner et. al. reported the results of a safety review of the first 5,000 patients receiving convalescent plasma in the U.S. between April 3 and May 11 under the FDA Expanded Access Program[^10.1101/2020.05.12.20099879]. 81% were classified as having severe or life-threatening diseases and 19% were judged to be at high risk of progressing to severe or life-threatening disease. 66% were in the ICU. 36 (0.72%) had a serious adverse event in the first four hours after transfusion including 25 events considered related to transfusion, including death in 4, transfusion-associated lung injury in 11, circulatory overload in 7, and allergic reaction in 3. Overall, the seven day mortality was 14.9%[^10.1101/2020.05.12.20099879].
 
-Liu et. al. reported that among 39 hospitalized patients receiving convalescent plasma at one institution, the risk of dying compared to matched controls was lower among patients not receiving mechanical ventilation (HR=0.19, 95% CI: 0.05-0.72; p=0.02) compared to mechanically ventilated patients (HR=1.24, 95% CI:0.33-4.67)[^10.1101/2020.05.20.20102236]. In another uncontrolled study of 25 patients, the response to therapy also appeared to be favorable in that only one patient died despite 12 being mechanically ventilated[^10.1016/j.ajpath.2020.05.014]. Three of four smaller uncontrolled studies involving primarily mechanically ventilated patients reported favorable results[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1093/infdis/jiaa228].
+In an open-label randomized controlled trial of 1Liu et. al. reported that among 39 hospitalized patients receiving convalescent plasma at one institution, the risk of dying compared to matched controls was lower among patients not receiving mechanical ventilation (HR=0.19, 95% CI: 0.05-0.72; p=0.02) compared to mechanically ventilated patients (HR=1.24, 95% CI:0.33-4.67)[^10.1101/2020.05.20.20102236]. In another uncontrolled study of 25 patients, the response to therapy also appeared to be favorable in that only one patient died despite 12 being mechanically ventilated[^10.1016/j.ajpath.2020.05.014]. Three of four smaller uncontrolled studies involving primarily mechanically ventilated patients reported favorable results[^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1093/infdis/jiaa228].
 
 As of May 7, 2020, there are 46 ongoing (n=18) or planned (n=28) clinical trials containing at least one arm in which recipients will receive convalescent plasma. There are also two planned studies of convalescent immunoglobulin and one of pooled immunoglobulin from healthy donors. One ongoing study is randomizing patients to convalescent plasma or to standard donor plasma and another planned study aims to randomize high-risk exposed persons to convalescent plasma or placebo. The remaining studies are not placebo controlled. Convalescent plasma and potentially other forms of immunoglobulin therapy will likely remain a treatment option particularly in patients with severe disease.
 
@@ -543,11 +543,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTY5MTYwLC0yODc2ODE3OTcsLTEzNz
-kzNTQ2NTUsLTE5OTY3ODE1ODcsLTE0MDg4NjY3ODUsMTM3OTU5
-MjM0OSwtMTcwMTE3MTQ5NSwtMTY5MTg2NDI1NywtMTIzMTg2Nz
-A2OCwxMTA1MTU1Mjg3LC04MTEwMzkwMjgsLTkwODY1ODA1MSwx
-NjQyNDExMDEwLC0yMDg1OTkxNDUzLDkyOTU3NTkxNiwxOTQwMT
-I5NjI5LDIxMDg2MzgzNzUsNjg4MzE3MDQ0LC01Mjc5OTY2ODQs
-LTEzOTYwNDE3NzZdfQ==
+eyJoaXN0b3J5IjpbLTE2OTk4MTIyMDAsLTI4NzY4MTc5NywtMT
+M3OTM1NDY1NSwtMTk5Njc4MTU4NywtMTQwODg2Njc4NSwxMzc5
+NTkyMzQ5LC0xNzAxMTcxNDk1LC0xNjkxODY0MjU3LC0xMjMxOD
+Y3MDY4LDExMDUxNTUyODcsLTgxMTAzOTAyOCwtOTA4NjU4MDUx
+LDE2NDI0MTEwMTAsLTIwODU5OTE0NTMsOTI5NTc1OTE2LDE5ND
+AxMjk2MjksMjEwODYzODM3NSw2ODgzMTcwNDQsLTUyNzk5NjY4
+NCwtMTM5NjA0MTc3Nl19
 -->
