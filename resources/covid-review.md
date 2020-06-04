@@ -123,7 +123,7 @@ Joyner et. al. reported the results of a safety review of the first 5,000 patien
 
 In an open-label randomized controlled trial of 103 persons with severe or life-threatening disease, there was no overall difference in the primary endpoint of a 2-point improvement on a 6-point scale by day 28[^10.1001/jama.2020.10044]. However, in the subgroup with severe (but not life-threatening) disease, 21/23 receiving convalescent plasma vs. 15/22 in the control group achieved the primary outcome (p=0.03)[^10.1001/jama.2020.10044]. A similar finding was observed in another observational study of 39 hospitalized patients receiving convalescent plasma in that the risk of dying compared to matched controls was lower among patients not receiving mechanical ventilation (HR=0.19, 95% CI: 0.05-0.72; p=0.02) compared to mechanically ventilated patients (HR=1.24, 95% CI:0.33-4.67)[^10.1101/2020.05.20.20102236]. In several smaller observational studies, the overall response was generally but not always favorable[^10.1016/j.ajpath.2020.05.014][^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1093/infdis/jiaa228].
 
-There are currently more than 75 ongoing or planned ) clinical trials containing at least one arm in which recipients will receive convalescent plasma. There are also two planned studies of convalescent immunoglobulin and one of pooled immunoglobulin from healthy donors. One ongoing study is randomizing patients to convalescent plasma or to standard donor plasma and another planned study aims to randomize high-risk exposed persons to convalescent plasma or placebo. The remaining studies are not placebo controlled. Convalescent plasma and potentially other forms of immunoglobulin therapy will likely remain a treatment option particularly in patients with severe disease.
+There are currently more than 75 ongoing or planned clinical trials containing at least one arm in which recipients will receive convalescent plasma. At least 10 of these appear to be randomized controlled studies. 
 
 ___Conclusions: Although the use of convalescent plasma is not supported by controlled trials, substantial observational data supports this intervention. The usefulness of convalescent plasma also suggests that neutralizing monoclonal antibodies should be useful at treating what at least clinically is primarily a respiratory tract infection. However, human plasma is a complex mixture of compounds. Therefore, the two trials in which convalescent plasma will be compared to standard donor plasma (one for treatment and the other for prevention) would be  informative. An alternative approach to assessing the effectiveness of convalescent plasma would be a retrospective study to determine if there is a correlation between neutralizing antibody titer and clinical response.___
 
@@ -543,7 +543,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjExNzA0MiwtMjg3NjgxNzk3LC0xMz
+eyJoaXN0b3J5IjpbMTE4NjcwODIxNCwtMjg3NjgxNzk3LC0xMz
 c5MzU0NjU1LC0xOTk2NzgxNTg3LC0xNDA4ODY2Nzg1LDEzNzk1
 OTIzNDksLTE3MDExNzE0OTUsLTE2OTE4NjQyNTcsLTEyMzE4Nj
 cwNjgsMTEwNTE1NTI4NywtODExMDM5MDI4LC05MDg2NTgwNTEs
