@@ -125,7 +125,7 @@ In an open-label randomized controlled trial of 103 persons with severe or life-
 
 There are currently more than 75 ongoing or planned clinical trials containing at least one arm in which recipients will receive convalescent plasma. At least 10 of these appear to be randomized controlled studies. 
 
-___Conclusions: Although the use of convalescent plasma is not supported by controlled trials, substantial observational data supports this intervention. The usefulness of convalescent plasma also suggests that neutralizing monoclonal antibodies should be useful at treating what at least clinically is primarily a respiratory tract infection. However, human plasma is a complex mixture of compounds. Therefore, the two trials in which convalescent plasma will be compared to standard donor plasma (one for treatment and the other for prevention) would be  informative. An alternative approach to assessing the effectiveness of convalescent plasma would be a retrospective study to determine if there is a correlation between neutralizing antibody titer and clinical response.___
+___Conclusions: Although the use of convalescent plasma is not supported by controlled trials, substantial observational data supports this intervention. Nonetheless, there is sufficient uncertainty to support the completion of the ongoing and planned randomized trials. The usefulness of convalescent plasma also suggests that neutralizing monoclonal antibodies should be useful at treating what at least clinically is primarily a respiratory tract infection. The potential  An alternative approach to assessing the effectiveness of convalescent plasma would be a retrospective study to determine if there is a correlation between neutralizing antibody titer and clinical response.___
 
 ### Monoclonal Antibodies
 Neutralizing monoclonal antibodies (MAbs) have been to treat Ebola[^10.1126/science.aad5224][^10.1056/NEJMoa1910993] and prevent respiratory syncytial virus[^10.2165/00003495-199958020-00009]. Neutralizing MAbs have also be used reduce virus levels in HIV-1-infected persons but resistance emerges unless a combination of neutralizing MAbs is administered[^10.1038/nm.4268][^10.1038/s41586-018-0531-2].
@@ -543,7 +543,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjcwODIxNCwtMjg3NjgxNzk3LC0xMz
+eyJoaXN0b3J5IjpbMTc5NTc0NTU4OSwtMjg3NjgxNzk3LC0xMz
 c5MzU0NjU1LC0xOTk2NzgxNTg3LC0xNDA4ODY2Nzg1LDEzNzk1
 OTIzNDksLTE3MDExNzE0OTUsLTE2OTE4NjQyNTcsLTEyMzE4Nj
 cwNjgsMTEwNTE1NTI4NywtODExMDM5MDI4LC05MDg2NTgwNTEs
