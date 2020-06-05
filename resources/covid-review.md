@@ -191,7 +191,7 @@ Several small molecule cathepsin inhibitors have also been shown to inhibit coro
 
 Several synthetic furin inhibitors have also shown to inhibit coronaviruses _in vitro_ including MI-1851, which inhibited SARS-CoV-2 alone and synergistically in combination with TMPRSS2 inhibitors[^10.1101/2020.04.15.042085], while dec-RVKR-CMK, which weakly inhibited MERS-CoV in a pseudovirus entry assay[^10.1073/pnas.1407087111].
 
-___Conclusion: Clinical studies of camostat and nafamostat are just beginning but they are few in number. It remains possible that the levels required for their in vitro inhibitory effects are in that it may also be necessary to target furin and possibly cathepsins to inhibit SARS-CoV-2 in patients.___
+___Conclusion: Clinical studies of camostat and nafamostat are just beginning but they are few in number. It remains possible that the levels required for their in vitro inhibitory effects cannot be attained with current dosing schedules. It is also possible that additional host proteases including furin may need to be simultaneously inhibited. ___
 
 ### Endosomal Trafficking Inhibitors
 Chloroquine (CQ) and its analogs have been reported to have multiple intracellular actions that interfere with virus replication and/or the immune response to viral infections. CQ analogs are weak bases, that in their non-protonated form, penetrate and concentrate within acidic intracellular organelles such as endosomes and lysosomes. In these organelles, CQ analogs may interfere with the trafficking of viruses that require a pH-dependent step for entry[^10.1016/s1473-3099(03)00806-5][^10.1371/journal.ppat.1004502]. CQ analogs have also been reported to impair ACE2 glycosylation, which could theoretically diminish receptor binding by SARS-CoV and SARS-CoV-2[^10.1186/1743-422X-2-69]. They are also anti-inflammatory, and have been used for autoimmune conditions.
@@ -526,11 +526,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Nzg1MTM1OSwtMTc0NzQxNjY3LDEwOT
-IzOTY5LC03MTY3Njc1NzcsLTY2MDkxNTk1NywxNTE2NDkzMjA2
-LC0yODc2ODE3OTcsLTEzNzkzNTQ2NTUsLTE5OTY3ODE1ODcsLT
-E0MDg4NjY3ODUsMTM3OTU5MjM0OSwtMTcwMTE3MTQ5NSwtMTY5
-MTg2NDI1NywtMTIzMTg2NzA2OCwxMTA1MTU1Mjg3LC04MTEwMz
-kwMjgsLTkwODY1ODA1MSwxNjQyNDExMDEwLC0yMDg1OTkxNDUz
-LDkyOTU3NTkxNl19
+eyJoaXN0b3J5IjpbMjEzODcyMzMwLC0xNzQ3NDE2NjcsMTA5Mj
+M5NjksLTcxNjc2NzU3NywtNjYwOTE1OTU3LDE1MTY0OTMyMDYs
+LTI4NzY4MTc5NywtMTM3OTM1NDY1NSwtMTk5Njc4MTU4NywtMT
+QwODg2Njc4NSwxMzc5NTkyMzQ5LC0xNzAxMTcxNDk1LC0xNjkx
+ODY0MjU3LC0xMjMxODY3MDY4LDExMDUxNTUyODcsLTgxMTAzOT
+AyOCwtOTA4NjU4MDUxLDE2NDI0MTEwMTAsLTIwODU5OTE0NTMs
+OTI5NTc1OTE2XX0=
 -->
