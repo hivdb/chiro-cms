@@ -156,7 +156,7 @@ VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell
 
 One group has reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and weakly interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761].
 
-___Conclusion: Heparin and enoxaparin are increasingly being used to prevent clotting in persons with severe disease whether these compound also have a clinically relevant antiviral effect is not known. Arbidol does not appear to be clinically efficacious. The remaining compounds in this section have not been  well studied.  ___
+___Conclusion: Heparin and enoxaparin are increasingly being used to prevent clotting in persons with severe disease. Whether these compound also have a clinically relevant antiviral effect is not known. Arbidol does not appear to be clinically efficacious. The remaining compounds in this section have not been  well studied.  ___
 
 ## Interferons
 Interferons (IFNs) respond to the presence of cellular changes suggestive of a viral infection by inducing numerous genes (IFN-stimulated genes \[ISGs\]) involved in inflammation, signaling, and immunomodulation to protect against uncontrolled infection. They interfere with viral replication by slowing cell metabolism, interfering with the membrane formation required for virus replication, and inducing secretion of cytokines that promote adaptive immunity[^10.1016/j.antiviral.2020.104791]. The importance of IFN is underscored by the fact that most viruses, and in particular coronaviruses, create many protein products specifically designed to antagonize cellular IFN signaling pathways[^10.1016/j.coviro.2012.04.004][^10.1016/j.smim.2019.101300]. While one might therefore expect that exogenously administered IFN would be a mainstay in the treatment of acute viral infections, this is surprisingly not the case.
@@ -173,7 +173,7 @@ One observational study compared the mortality of 106 hospitalized patients rece
 
 Theoretical and empirical data suggest that IFNs should be administered as early as possible in the course of infection[^10.1172/JCI126363] when innate immunity is likely to be most needed; this would also avoid exacerbating the unregulated exuberant deleterious immune response that often occurs in the later stages of severe coronavirus infections. Although far fewer data are available for IFN-λs, they have garnered much interest because they act at epithelial barriers and thus are theoretically optimal for treating viral respiratory tract infections and because they are reported to suppress viral spread without causing inflammation[^10.15252/emmm.201606413][^10.1093/cid/ciaa453].
 
-___Conclusion: Considering the multiple proteins produced by coronaviruses to down regulate-host innate immunity and the generally favorable response to IFN in vitro and in animal models, rigorously designed studies of the early use of IFNs following SARS-CoV-2 infection are urgently needed to determine whether there already exists a highly effective SARS-CoV-2 treatment.___
+___Conclusion: Considering the multiple proteins produced by coronaviruses to down-regulate host innate immunity and the generally favorable response to IFN in vitro and in animal models, rigorously designed studies of the early use of IFNs following SARS-CoV-2 infection are needed.___
 
 ## Additional Host-Targeting Compounds
 With the exception of interferons, all approved antivirals target specific steps in a virus’s replication cycle. However, the concept of developing drugs that target host pathways has gained increasing interest during the past several years and has reached a fever pitch with the SARS-CoV-2 pandemic. Host-acting drugs have a number of theoretical advantages for treating acute pandemic infections. First, potential host acting antiviral drugs may have already been approved or undergone human testing for other conditions, making it possible to repurpose them to treat SARS-CoV-2. Second, host-acting drugs theoretically be able to inhibit multiple viruses, since many viruses depend on similar host factors and pathways. Third, although drugs targeting host factors may have a higher risk of cellular toxicity compared to drugs that specifically target a virus protein, such toxicity may be acceptable for the relatively few days required to treat an acute viral infection.
@@ -526,7 +526,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjc3NjE3NCwtMTc0NzQxNjY3LDEwOT
+eyJoaXN0b3J5IjpbMTc2MjcwNDgzOSwtMTc0NzQxNjY3LDEwOT
 IzOTY5LC03MTY3Njc1NzcsLTY2MDkxNTk1NywxNTE2NDkzMjA2
 LC0yODc2ODE3OTcsLTEzNzkzNTQ2NTUsLTE5OTY3ODE1ODcsLT
 E0MDg4NjY3ODUsMTM3OTU5MjM0OSwtMTcwMTE3MTQ5NSwtMTY5
