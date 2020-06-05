@@ -127,7 +127,7 @@ Wec et. al. screened a panel of SARS-CoV-2 S-reactive MAbs obtained in 2020 from
 
 Ejemel et al. screened a panel of SARS-CoV RBD-targeting MAbs isolated from transgenic mice expressing human immunoglobulin genes and identified MAb362 which high SARS-CoV-2 binding affinity[^10.1101/2020.05.15.096719]. Binding affinity was approximately 40-fold higher for a cloned IgA version of MAb362. In contrast to other SARS-CoV / SARS-CoV-2 cross-reactive MAbs, the MAb362 epitope overlapped entirely with the hACE2 epitope.
 
-___Conclusions: During the past month, more than two groups have described the development of MAbs that are able to potently inhibit SARS-CoV-2 in vitro. Several MAbs will likely be available for phase I clinical trials this summer.___
+___Conclusions: During the past month, more than 10 groups have described the development of MAbs that are able to potently inhibit SARS-CoV-2 in vitro. Several MAbs will likely be available for phase I clinical trials this summer.___
 
 ### Fusion Inhibitors
 Peptides that mimic HR2 can block virus-cell fusion by preventing the interaction between HR1 and HR2. The HIV-1 fusion inhibitor enfuvirtide is a 36 amino acid peptide that acts by this mechanism following subcutaneous administration[^10.1056/NEJMoa035026][^10.1056/NEJMoa035211][^10.1038/nrd1331]. Several peptide mimics of coronavirus HR2 have been shown to be potently inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 _in vitro_[^10.1016/j.bbrc.2004.05.046][^10.1038/ncomms4067][^10.1093/infdis/jiv325][^10.1021/acs.jmedchem.8b00890][^10.1126/sciadv.aav4580][^10.1101/2020.03.26.009233] and reviewed by Tang et al[^10.1016/j.antiviral.2020.104792]. The interest in coronavirus fusion inhibitors derives in part because S2 is more conserved than S1 among different coronavirus species. For example, the S1 proteins of SARS-CoV and SARS-CoV-2 differ by more than 10% of their amino acids. However, their HR1 domains differ by 7% and their HR2 domains are essentially identical[^10.1038/s41423-020-0374-2]. Fusion inhibitors are theoretically likely to have greater activity in preventing viral fusion occurring via the cell surface pathway than the endosomal pathway of virus entry[^10.1128/JVI.01697-07][^10.1016/j.antiviral.2020.104792].
@@ -393,7 +393,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1016/j.antiviral.2020.104792]: Tang T, Bidon M, et int., Daniel S. "Coronavirus membrane fusion mechanism offers as a potential target for antiviral development" _Antiviral Res._, 2020. [10.1016/j.antiviral.2020.104792](https://doi.org/10.1016/j.antiviral.2020.104792)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
 [^10.1128/JVI.01697-07]: Ujike M, Nishikawa H, et int., Taguchi F. "Heptad Repeat-Derived Peptides Block Protease-Mediated Direct Entry from the Cell Surface of Severe Acute Respiratory Syndrome Coronavirus but Not Entry via the Endosomal Pathway" _Journal of Virology_, 2008. [10.1128/JVI.01697-07](https://doi.org/10.1128/JVI.01697-07)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -526,11 +526,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc0MTY2NywxMDkyMzk2OSwtNzE2Nz
-Y3NTc3LC02NjA5MTU5NTcsMTUxNjQ5MzIwNiwtMjg3NjgxNzk3
-LC0xMzc5MzU0NjU1LC0xOTk2NzgxNTg3LC0xNDA4ODY2Nzg1LD
-EzNzk1OTIzNDksLTE3MDExNzE0OTUsLTE2OTE4NjQyNTcsLTEy
-MzE4NjcwNjgsMTEwNTE1NTI4NywtODExMDM5MDI4LC05MDg2NT
-gwNTEsMTY0MjQxMTAxMCwtMjA4NTk5MTQ1Myw5Mjk1NzU5MTYs
-MTk0MDEyOTYyOV19
+eyJoaXN0b3J5IjpbMTUzNjc3NjE3NCwtMTc0NzQxNjY3LDEwOT
+IzOTY5LC03MTY3Njc1NzcsLTY2MDkxNTk1NywxNTE2NDkzMjA2
+LC0yODc2ODE3OTcsLTEzNzkzNTQ2NTUsLTE5OTY3ODE1ODcsLT
+E0MDg4NjY3ODUsMTM3OTU5MjM0OSwtMTcwMTE3MTQ5NSwtMTY5
+MTg2NDI1NywtMTIzMTg2NzA2OCwxMTA1MTU1Mjg3LC04MTEwMz
+kwMjgsLTkwODY1ODA1MSwxNjQyNDExMDEwLC0yMDg1OTkxNDUz
+LDkyOTU3NTkxNl19
 -->
