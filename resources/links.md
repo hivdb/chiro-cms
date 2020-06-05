@@ -95,14 +95,19 @@
 - CDC:
 [https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html)
 
+### News
+Stat:
+[https://www.statnews.com/](https://www.statnews.com/)
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwNTgwOTIyLC0xMDgzNzQwOTg3LDg0Nj
-Y0ODE2NiwtMTk2NDg3NDQwNSwtMzMxMzcwNDQzLC0xNjA3MjY1
-NDY1LDEwOTM1MjE0MDgsLTEzNzk5MDI4OTYsNTU4NDYyNTUzLC
-0xMDU1NjUyODcyLDUzNTU0MjQzMyw5MDc1NzQ5MTgsLTEwNTA2
-NDQzODAsMTU5MjIyMzE4NCw2NDYyOTAxOTcsODM3MjQ1OTk1LD
-g5NzM3MjgwNSwxMzgxOTU2MzQxLC0xMzAyNTUxMjc4LDE4Mzc5
-ODY4MjZdfQ==
+eyJoaXN0b3J5IjpbNzM5NzMwNzY5LDMxMDU4MDkyMiwtMTA4Mz
+c0MDk4Nyw4NDY2NDgxNjYsLTE5NjQ4NzQ0MDUsLTMzMTM3MDQ0
+MywtMTYwNzI2NTQ2NSwxMDkzNTIxNDA4LC0xMzc5OTAyODk2LD
+U1ODQ2MjU1MywtMTA1NTY1Mjg3Miw1MzU1NDI0MzMsOTA3NTc0
+OTE4LC0xMDUwNjQ0MzgwLDE1OTIyMjMxODQsNjQ2MjkwMTk3LD
+gzNzI0NTk5NSw4OTczNzI4MDUsMTM4MTk1NjM0MSwtMTMwMjU1
+MTI3OF19
 -->
