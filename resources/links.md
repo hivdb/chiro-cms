@@ -68,6 +68,8 @@
   https://cas.org/covid-19-antiviral-compounds-dataset
 - PubChem:
   [https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus](https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus)
+ - PubChem :
+  [https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials](https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials)
 
 ### Sequence analyses
 - Next strain:
@@ -104,11 +106,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxODc2NzE2LC0xMzAwMDIzNzk2LDMxMD
-U4MDkyMiwtMTA4Mzc0MDk4Nyw4NDY2NDgxNjYsLTE5NjQ4NzQ0
-MDUsLTMzMTM3MDQ0MywtMTYwNzI2NTQ2NSwxMDkzNTIxNDA4LC
-0xMzc5OTAyODk2LDU1ODQ2MjU1MywtMTA1NTY1Mjg3Miw1MzU1
-NDI0MzMsOTA3NTc0OTE4LC0xMDUwNjQ0MzgwLDE1OTIyMjMxOD
-QsNjQ2MjkwMTk3LDgzNzI0NTk5NSw4OTczNzI4MDUsMTM4MTk1
-NjM0MV19
+eyJoaXN0b3J5IjpbLTIwNzI3NzI5ODQsOTUxODc2NzE2LC0xMz
+AwMDIzNzk2LDMxMDU4MDkyMiwtMTA4Mzc0MDk4Nyw4NDY2NDgx
+NjYsLTE5NjQ4NzQ0MDUsLTMzMTM3MDQ0MywtMTYwNzI2NTQ2NS
+wxMDkzNTIxNDA4LC0xMzc5OTAyODk2LDU1ODQ2MjU1MywtMTA1
+NTY1Mjg3Miw1MzU1NDI0MzMsOTA3NTc0OTE4LC0xMDUwNjQ0Mz
+gwLDE1OTIyMjMxODQsNjQ2MjkwMTk3LDgzNzI0NTk5NSw4OTcz
+NzI4MDVdfQ==
 -->
