@@ -68,7 +68,7 @@
   https://cas.org/covid-19-antiviral-compounds-dataset
 - PubChem:
   [https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus](https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus)
- - PubChem :
+ - PubChem (compounds in clinical trials):
   [https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials](https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials)
 
 ### Sequence analyses
@@ -106,11 +106,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI3NzI5ODQsOTUxODc2NzE2LC0xMz
-AwMDIzNzk2LDMxMDU4MDkyMiwtMTA4Mzc0MDk4Nyw4NDY2NDgx
-NjYsLTE5NjQ4NzQ0MDUsLTMzMTM3MDQ0MywtMTYwNzI2NTQ2NS
-wxMDkzNTIxNDA4LC0xMzc5OTAyODk2LDU1ODQ2MjU1MywtMTA1
-NTY1Mjg3Miw1MzU1NDI0MzMsOTA3NTc0OTE4LC0xMDUwNjQ0Mz
-gwLDE1OTIyMjMxODQsNjQ2MjkwMTk3LDgzNzI0NTk5NSw4OTcz
-NzI4MDVdfQ==
+eyJoaXN0b3J5IjpbLTgxOTIxMTIxOCw5NTE4NzY3MTYsLTEzMD
+AwMjM3OTYsMzEwNTgwOTIyLC0xMDgzNzQwOTg3LDg0NjY0ODE2
+NiwtMTk2NDg3NDQwNSwtMzMxMzcwNDQzLC0xNjA3MjY1NDY1LD
+EwOTM1MjE0MDgsLTEzNzk5MDI4OTYsNTU4NDYyNTUzLC0xMDU1
+NjUyODcyLDUzNTU0MjQzMyw5MDc1NzQ5MTgsLTEwNTA2NDQzOD
+AsMTU5MjIyMzE4NCw2NDYyOTAxOTcsODM3MjQ1OTk1LDg5NzM3
+MjgwNV19
 -->
