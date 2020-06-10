@@ -22,7 +22,9 @@ At baseline, ~12% did not require supplemental O2, ~40% required supplemental O2
 
 Patients receiving remdesivir had a median recovery time of 11 days (95% CI, 9 to 12) vs. 15 days (95% CI, 13 to 19) for the placebo group; P<0.001). Kaplan-Meier estimates of mortality by 14 days were 7.1% with remdesivir vs. 11.9% with placebo (HR: 0.70; 95% CI, 0.47 to 1.04). Serious adverse events occurred at similar rates in both groups (21.1% vs 27.0%). In subgroup analysis, the remdesivir recovery rate ratio was highest and statistically significant in the group receiving O2 (1.47), it was numerically higher but not statistically significant in the group not receiving O2 (1.38) or receiving noninvasive ventilation or high-flow O2 (1.2). It was 0.95 in the group receiving mechanical ventilation or ECMO.
 
-Based on the the results of the NIH Adaptive COVID-19 Treatment Trial, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
+Based on the ACTT results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
+
+Further analysis of ACTT data containing results from a greater proportion of the participants and con
 
 
 
@@ -528,11 +530,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjMzNTgyNDcsOTM2OTAxNjc5LC05OD
-I4ODgwMjksMjEzODcyMzMwLC0xNzQ3NDE2NjcsMTA5MjM5Njks
-LTcxNjc2NzU3NywtNjYwOTE1OTU3LDE1MTY0OTMyMDYsLTI4Nz
-Y4MTc5NywtMTM3OTM1NDY1NSwtMTk5Njc4MTU4NywtMTQwODg2
-Njc4NSwxMzc5NTkyMzQ5LC0xNzAxMTcxNDk1LC0xNjkxODY0Mj
-U3LC0xMjMxODY3MDY4LDExMDUxNTUyODcsLTgxMTAzOTAyOCwt
-OTA4NjU4MDUxXX0=
+eyJoaXN0b3J5IjpbMTQwNjYwMDUzMiwtMTIyMzM1ODI0Nyw5Mz
+Y5MDE2NzksLTk4Mjg4ODAyOSwyMTM4NzIzMzAsLTE3NDc0MTY2
+NywxMDkyMzk2OSwtNzE2NzY3NTc3LC02NjA5MTU5NTcsMTUxNj
+Q5MzIwNiwtMjg3NjgxNzk3LC0xMzc5MzU0NjU1LC0xOTk2Nzgx
+NTg3LC0xNDA4ODY2Nzg1LDEzNzk1OTIzNDksLTE3MDExNzE0OT
+UsLTE2OTE4NjQyNTcsLTEyMzE4NjcwNjgsMTEwNTE1NTI4Nywt
+ODExMDM5MDI4XX0=
 -->
