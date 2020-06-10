@@ -18,13 +18,16 @@ A phase 3 placebo-controlled trial begun in China in patients with moderate-to-s
 
 Preliminary results from the NIH Adaptive COVID-19 Treatment Trial (ACTT) were announced on April 29th, 2020 after after an interim analysis by the data safety monitoring board and published on May 22, 2020[^10.1056/NEJMoa2007764]. Of 1063 randomized hospitalized patients, 541 were assigned to remdesivir (200 mg IV followed by 100 mg IV daily x 9 days) and 522 to placebo. Approximately, 180 patients in each group completed 10 days of treatment. About 100 in each group were still on treatment or had missing treatment data at the time of the analysis. And 225-250 in each group received fewer than 10 days of therapy primarily because they recovered, died, or experienced serious adverse effects.
 
+At baseline, ~12% did not require supplemental O2, ~40% required supplemental O2, ~18% required noninvasive ventilation or high-flow O2, and ~25% were receiving mechanical ventilation or ECMO. The primary outcome measure was time to recovery defined as the first day on which patients were either discharged or were hospitalized solely for infection control purposed.
+
+Patients receiving remdesivir had a median recovery time of 11 days (95% CI, 9 to 12) vs. 15 days (95% CI, 13 to 19) for the placebo group; P<0.001). Kaplan-Meier estimates of mortality by 14 days were 7.1% with remdesivir vs. 11.9% with placebo (HR: 0.70; 95% CI, 0.47 to 1.04). Serious adverse events occurred at similar rates in both groups (21.1% vs 27.0%). In subgroup analysis, the remdesivir recovery rate ratio was highest and statistically significant in the group receiving O2 (1.47), it was numerically higher but not statistically significant in the group not receiving O2 (1.38) or receiving noninvasive ventilation or high-flow O2 (1.2). It was 0.95 in the group receiving mechanical ventilation or ECMO.
+
 Based on the the study's results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
 
 
 
-At baseline, ~12% did not require supplemental O2, ~40% required supplemental O2, ~18% required noninvasive ventilation or high-flow O2, and ~25% were receiving mechanical ventilation or ECMO. The primary outcome measure was time to recovery defined as the first day on which patients were either discharged or were hospitalized solely for infection control purposed.
 
-Patients receiving remdesivir had a median recovery time of 11 days (95% CI, 9 to 12) vs. 15 days (95% CI, 13 to 19) for the placebo group; P<0.001). Kaplan-Meier estimates of mortality by 14 days were 7.1% with remdesivir vs. 11.9% with placebo (HR: 0.70; 95% CI, 0.47 to 1.04). Serious adverse events occurred at similar rates in both groups (21.1% vs 27.0%). In subgroup analysis, the remdesivir recovery rate ratio was highest and statistically significant in the group receiving O2 (1.47), it was numerically higher but not statistically significant in the group not receiving O2 (1.38) or receiving noninvasive ventilation or high-flow O2 (1.2). It was 0.95 in the group receiving mechanical ventilation or ECMO.
+
 
 ___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial. The optimal use of this drug will become clearer with further study. Remdesivir will likely become the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
 
@@ -525,11 +528,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDIwNDc0NTEsLTk4Mjg4ODAyOSwyMT
-M4NzIzMzAsLTE3NDc0MTY2NywxMDkyMzk2OSwtNzE2NzY3NTc3
-LC02NjA5MTU5NTcsMTUxNjQ5MzIwNiwtMjg3NjgxNzk3LC0xMz
-c5MzU0NjU1LC0xOTk2NzgxNTg3LC0xNDA4ODY2Nzg1LDEzNzk1
-OTIzNDksLTE3MDExNzE0OTUsLTE2OTE4NjQyNTcsLTEyMzE4Nj
-cwNjgsMTEwNTE1NTI4NywtODExMDM5MDI4LC05MDg2NTgwNTEs
-MTY0MjQxMTAxMF19
+eyJoaXN0b3J5IjpbOTM2OTAxNjc5LC05ODI4ODgwMjksMjEzOD
+cyMzMwLC0xNzQ3NDE2NjcsMTA5MjM5NjksLTcxNjc2NzU3Nywt
+NjYwOTE1OTU3LDE1MTY0OTMyMDYsLTI4NzY4MTc5NywtMTM3OT
+M1NDY1NSwtMTk5Njc4MTU4NywtMTQwODg2Njc4NSwxMzc5NTky
+MzQ5LC0xNzAxMTcxNDk1LC0xNjkxODY0MjU3LC0xMjMxODY3MD
+Y4LDExMDUxNTUyODcsLTgxMTAzOTAyOCwtOTA4NjU4MDUxLDE2
+NDI0MTEwMTBdfQ==
 -->
