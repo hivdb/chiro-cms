@@ -35,10 +35,10 @@ EIDD-2801 has broad-spectrum antiviral activity against multiple coronaviruses i
 
 As of May 28, a phase I study in uninfected individuals has begun and two phase II studies patients with mild-to-moderate disease have begun. 
 
-___Conclusion: The preclinical in vitro and animal model data associated with EIDD-2801 are comparable to those of remdesivir. However, EIDD-2801’s safety  and efficacy in humans has not yet been established. Conducting safety and efficacy trials will likely require a minimum of three months. Should these trials be successful, this drug may be a useful oral option to be used in high-risk outpatients. Moreover, used in combination with remdesivir it might further reduce morbidity and mortality in patients with severe disease.___
+___Conclusion: The preclinical in vitro and animal model data associated with EIDD-2801 are comparable to those of remdesivir. However, EIDD-2801’s safety  and clinical efficacy have not yet been established. Should the EIDD-2018 trials be successful, this drug may be a useful oral option in high-risk outpatients. Moreover, used in combination with remdesivir it might further reduce morbidity and mortality in patients with severe disease.___
 
 ### Other Nucleoside Analogs
-Ribavirin is a nucleoside analog with modest activity against several viruses. Although multiple mechanisms for its activity have been proposed, the most likely is an increase in viral mutagenesis. In cell culture studies, it has demonstrated little, if any, activity against coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1016/s0140-6736(03)13615-x][^10.1177/095632020401500102][^10.1016/j.jinf.2013.09.029][^10.1099/vir.0.061911-0][^10.1038/srep01686][^10.1016/j.antiviral.2020.104786][^10.1016/S0140-6736(20)31022-9]. Structural and biochemical studies have shown that although ribavirin 5’-monophosphate can be incorporated during RNA synthesis, it is readily excised by nsp14, the coronavirus exonuclease. Multiple observational clinical studies of patients with SARS-CoV, and to a lesser extent in patients with MERS-CoV have shown no evidence for clinical benefit while demonstrating a high risk of toxicity[^10.1371/journal.pmed.0030343]. Ribavirin is rarely used or studied for treating SARS-CoV-2.
+Ribavirin is a nucleoside analog with modest activity against several viruses. Although multiple mechanisms for its activity have been proposed, the most likely is an increase in viral mutagenesis. In cell culture studies, it has demonstrated little, if any, activity against coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1016/s0140-6736(03)13615-x][^10.1177/095632020401500102][^10.1016/j.jinf.2013.09.029][^10.1099/vir.0.061911-0][^10.1038/srep01686][^10.1016/j.antiviral.2020.104786][^10.1016/S0140-6736(20)31022-9]. Structural and biochemical studies have shown that although ribavirin 5’-monophosphate can be incorporated during RNA synthesis, it is readily excised by nsp14, the coronavirus exonuclease. Multiple observational clinical studies of patients with SARS-CoV, and to a lesser extent in patients with MERS-CoV have shown no evidence for clinical benefit while demonstrating a high risk of toxicity[^10.1371/journal.pmed.0030343]. 
 
 Favipiravir (T-705) is a purine analog prodrug that is ribosylated and phosphorylated intracellularly to form the active metabolite favipiravir ibofuranosyl-5′-triphosphate (aka T-705-RTP). It has broad spectrum activity against multiple viral RNA polymerases and appears to act by causing viral mutagenesis[^10.1016/j.antiviral.2013.09.015][^10.1016/j.antiviral.2018.03.003][^10.1101/2020.05.15.098731]. Favipiravir, approved in Japan for treating pandemic influenza infections, appears relatively safe and achieves high plasma concentrations following oral administration[^10.1002/cpt.1844][^10.1002/cpt.1909]. However, it has little, if any, inhibitory activity against SARS-CoV-2 in vitro, with EC<sub>50</sub>s ranging from 60 to >100 μM[^10.1038/s41422-020-0282-0][^10.1016/j.antiviral.2020.104786][^10.1101/2020.03.20.999730][^10.1101/2020.05.15.098731].
 
@@ -525,11 +525,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1NDYxNjAzLDczNzk0NTMxNyw2NDA0Mj
-IyOTksLTEyMjMzNTgyNDcsOTM2OTAxNjc5LC05ODI4ODgwMjks
-MjEzODcyMzMwLC0xNzQ3NDE2NjcsMTA5MjM5NjksLTcxNjc2Nz
-U3NywtNjYwOTE1OTU3LDE1MTY0OTMyMDYsLTI4NzY4MTc5Nywt
-MTM3OTM1NDY1NSwtMTk5Njc4MTU4NywtMTQwODg2Njc4NSwxMz
-c5NTkyMzQ5LC0xNzAxMTcxNDk1LC0xNjkxODY0MjU3LC0xMjMx
-ODY3MDY4XX0=
+eyJoaXN0b3J5IjpbLTI4NDAyMDQ4MSw3Mzc5NDUzMTcsNjQwND
+IyMjk5LC0xMjIzMzU4MjQ3LDkzNjkwMTY3OSwtOTgyODg4MDI5
+LDIxMzg3MjMzMCwtMTc0NzQxNjY3LDEwOTIzOTY5LC03MTY3Nj
+c1NzcsLTY2MDkxNTk1NywxNTE2NDkzMjA2LC0yODc2ODE3OTcs
+LTEzNzkzNTQ2NTUsLTE5OTY3ODE1ODcsLTE0MDg4NjY3ODUsMT
+M3OTU5MjM0OSwtMTcwMTE3MTQ5NSwtMTY5MTg2NDI1NywtMTIz
+MTg2NzA2OF19
 -->
