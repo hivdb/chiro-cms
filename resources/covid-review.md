@@ -6,7 +6,7 @@ Polymerase inhibitors are the most commonly used antiviral agents and have forme
 ### Remdesivir
 Remdesivir (GS-5734) is the monophosphate prodrug of the parent 1’-cyano-substituted adenine C-nucleoside analogue GS-441524[^10.1021/acs.jmedchem.6b01594]. The presence of the phosphate group allows for more efficient metabolism of the prodrug to the active nucleoside triphosphate form bypassing the rate-limiting first phosphorylation step[^10.1038/nature17180]. Remdesivir is a nonobligate chain terminator in that it contains a 3’-OH group. However, it causes delayed chain termination due to a steric clash after the addition of three trailing nucleosides[^10.1074/jbc.AC120.013056][^10.1074/jbc.RA120.013679][^10.1016/j.antiviral.2020.104793]. The mechanism by which it eludes coronavirus exonucleases is not known.
 
-Remdesivir has broad spectrum activity against multiple RNA viruses and inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2 with most reported half-maximal effective concentrations (EC<sub>50</sub>s) below 1 μM[^10.1126/scitranslmed.aal3653][^10.1128/mBio.00221-18][^10.1038/s41467-019-13940-6][^10.1038/s41422-020-0282-0][^10.1101/2020.04.03.024257][^10.1016/j.antiviral.2020.104786][^10.1101/2020.03.20.999730][^10.1101/2020.04.03.023846][^10.1101/2020.04.03.20052548][^10.1101/2020.04.27.064279]. It inhibits coronaviruses in multiple cell types including primary human airway epithelial cells[^10.1126/scitranslmed.aal3653][^10.1101/2020.04.27.064279]. Animal model experiments have demonstrated that remdesivir can reduce lung virus levels and lung damage in mice infected with MERS-CoV and SARS-CoV[^10.1126/scitranslmed.aal3653][^10.1016/j.antiviral.2020.104793], rhesus macaques infected with MERS-CoV[^10.1126/scitranslmed.aal3653][^10.1073/pnas.1922083117], and SARS-CoV-2[^10.1101/2020.04.15.043166].
+Remdesivir has broad spectrum activity against multiple RNA viruses and inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2 with most reported half-maximal effective concentrations (EC<sub>50</sub>s) below 1 μM[^10.1126/scitranslmed.aal3653][^10.1128/mBio.00221-18][^10.1038/s41467-019-13940-6][^10.1038/s41422-020-0282-0][^10.1101/2020.04.03.024257][^10.1016/j.antiviral.2020.104786][^10.1101/2020.03.20.999730][^10.1101/2020.04.03.023846][^10.1101/2020.04.03.20052548][^10.1101/2020.04.27.064279]. It inhibits coronaviruses in multiple cell types including primary human airway epithelial cells[^10.1126/scitranslmed.aal3653][^10.1101/2020.04.27.064279]. Animal model experiments have demonstrated that remdesivir can reduce lung virus levels and lung damage in mice infected with MERS-CoV and SARS-CoV[^10.1126/scitranslmed.aal3653][^10.1016/j.antiviral.2020.104793], rhesus macaques infected with MERS-CoV[^10.1126/scitranslmed.aal3653][^10.1073/pnas.1922083117], and rhesus macaques infected with SARS-CoV-2[^10.1101/2020.04.15.043166].
 
 Remdesivir resistance in a related coronavirus – murine hepatitis virus (MHV) – has been selected during prolonged _in vitro_ passage in the presence of remdesivir[^10.1128/mBio.00221-18]. The remdesivir-resistant mutations are in the RdRp fingers domain. Introducing the homologous substitutions into SARS-CoV (F480L + V557L) resulted in a virus with reduced replication and about 6-fold reduced remdesivir susceptibility [^10.1128/mBio.00221-18].
 
@@ -14,9 +14,9 @@ Remdesivir is administered intravenously with a loading dose of 200 mg followed 
 
 In 53 patients with severe SARS-CoV-2 pneumonia receiving remdesivir as part of two expanded access trials, 34 were receiving mechanical ventilation (including 3 on extracorporeal membrane oxygenation \[ECMO\]). Overall, 6 of the 34 ventilated patients and 1 of the 19 non-ventilated patients died[^10.1056/NEJMoa2007016]. This death rate appeared lower than that of historical controls with similar levels of disease severity.
 
-A phase 3 placebo-controlled trial begun in China in patients with moderate-to-severe disease was discontinued prematurely after recruiting 237 rather than the planned 453 patients. Patients were randomized 2:1 to receive remdesivir or placebo. Although not statistically significant, patients receiving remdesivir had a faster time to clinical improvement than those receiving placebo (median 18 days \[IQR 12–28\] vs 23 days \[15–28\]; HR 1.52 \[0.95–2.43\]. The 28-day mortality was similar in both groups (14% for remdesivir and 13% for placebo). There was no difference in the rates of decline of nasopharyngeal viral RNA levels between the two groups. Adverse events leading to treatment discontinuation were 12% of the remdesivir group and 5% in the placebo group[^10.1016/S0140-6736(20)31022-9].
+A phase 3 placebo-controlled trial begun in China in patients with moderate-to-severe disease was discontinued prematurely after recruiting 237 rather than the planned 453 patients. Patients were randomized 2:1 to receive remdesivir or placebo. Although not statistically significant, patients receiving remdesivir had a faster time to clinical improvement than those receiving placebo (median 18 days \[IQR 12–28\] vs 23 days \[15–28\]; HR 1.52 \[0.95–2.43\]. The 28-day mortality was similar in both groups (14% for remdesivir and 13% for placebo). There was no difference in the rates of decline of nasopharyngeal viral RNA levels between the two groups. Adverse events leading to treatment discontinuation were 12% in the remdesivir group and 5% in the placebo group[^10.1016/S0140-6736(20)31022-9].
 
-Preliminary results from the NIH Adaptive COVID-19 Treatment Trial (ACTT) were announced on April 29th, 2020 after after an interim analysis by the data safety monitoring board and published on May 22, 2020[^10.1056/NEJMoa2007764]. Based on the announcment of thus study's results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
+Preliminary results from the NIH Adaptive COVID-19 Treatment Trial (ACTT) were announced on April 29th, 2020 after after an interim analysis by the data safety monitoring board and published on May 22, 2020[^10.1056/NEJMoa2007764]. Based on the the study's results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
 
 Of 1063 randomized hospitalized patients, 541 were assigned remdesivir (200 mg IV followed by 100 mg IV qD x 9D) and 522 placebo. Approximately, 180 patients in each group completed 10 days of treatment. About 100 in each group were still on treatment or had missing treatment data at the time of the analysis. And 225-250 in each group received fewer than 10 days of therapy primarily because they recovered, died, or experienced serious adverse effects.
 
@@ -523,11 +523,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk1NTEyNDYsLTk4Mjg4ODAyOSwyMT
-M4NzIzMzAsLTE3NDc0MTY2NywxMDkyMzk2OSwtNzE2NzY3NTc3
-LC02NjA5MTU5NTcsMTUxNjQ5MzIwNiwtMjg3NjgxNzk3LC0xMz
-c5MzU0NjU1LC0xOTk2NzgxNTg3LC0xNDA4ODY2Nzg1LDEzNzk1
-OTIzNDksLTE3MDExNzE0OTUsLTE2OTE4NjQyNTcsLTEyMzE4Nj
-cwNjgsMTEwNTE1NTI4NywtODExMDM5MDI4LC05MDg2NTgwNTEs
-MTY0MjQxMTAxMF19
+eyJoaXN0b3J5IjpbMTcyMDQyODMyOCwtOTgyODg4MDI5LDIxMz
+g3MjMzMCwtMTc0NzQxNjY3LDEwOTIzOTY5LC03MTY3Njc1Nzcs
+LTY2MDkxNTk1NywxNTE2NDkzMjA2LC0yODc2ODE3OTcsLTEzNz
+kzNTQ2NTUsLTE5OTY3ODE1ODcsLTE0MDg4NjY3ODUsMTM3OTU5
+MjM0OSwtMTcwMTE3MTQ5NSwtMTY5MTg2NDI1NywtMTIzMTg2Nz
+A2OCwxMTA1MTU1Mjg3LC04MTEwMzkwMjgsLTkwODY1ODA1MSwx
+NjQyNDExMDEwXX0=
 -->
