@@ -1,7 +1,7 @@
 ## Polymerase Inhibitors
 RNA-dependent RNA polymerases (RdRps) catalyze phosphodiester bond formation between nucleoside triphosphates in an RNA-templated manner. RdRps are highly conserved in their structural and functional features, even among diverse RNA viruses belonging to different families[^10.3390/v11080745]. Coronavirus RNA polymerization, however, is more complex than that of other viruses. First, coronaviruses contain a 3’-to-5’ exoribonuclease (ExoN; nsp14) which is required for replication fidelity[^10.1073/pnas.0508200103]. ExoN is responsible for the intrinsic resistance of coronavirus species to ribavirin and several other nucleoside analogs [^10.1371/journal.ppat.1003565][^10.1073/pnas.1718806115]. Second, coronavirus RdRp (nsp12) requires two accessory proteins (nsp7 and nsp8). The 3D structure of the nsp12-nsp7-nsp8 complex of SARS-CoV [^10.1038/s41467-019-10280-3] and SARS-CoV-2 [^10.1126/science.abb7498][^10.1126/science.abc1560] have been solved by cryo-EM.
 
-Polymerase inhibitors are the most commonly used antiviral agents and have formed the backbone of most HIV, hepatitis B, hepatitis C, and herpes virus treatments. Nucleoside analog inhibitors are also often broad-spectrum possessing activity against multiple related virus species. Most antiviral polymerase inhibitors lack a 3’-hydroxyl group and act as nucleoside analog chain terminators. Several nucleoside analogs, however, are not chain terminators. Rather, they become incorporated into viral genomes and inhibit replication by introducing mutations during subsequent rounds of replication.
+Polymerase inhibitors are the most commonly used antiviral agents and have formed the backbone of most HIV, hepatitis B, hepatitis C, and herpes virus treatments. Nucleoside analog inhibitors are also often broad-spectrum possessing activity against multiple related virus species. Most antiviral polymerase inhibitors lack a 3’-hydroxyl group and act as nucleoside analog chain terminators. Others contain a 3'-hydroxyl group yet still result in immediate or delayed chain termination. Finally, some nucleoside analogs Several nucleoside analogs, however, are not chain terminators. Rather, they become incorporated into viral genomes and inhibit replication by introducing mutations during subsequent rounds of replication.
 
 ### Remdesivir
 Remdesivir (GS-5734) is the monophosphate prodrug of the parent 1’-cyano-substituted adenine C-nucleoside analogue GS-441524[^10.1021/acs.jmedchem.6b01594]. The presence of the phosphate group allows for more efficient metabolism of the prodrug to the active nucleoside triphosphate form by bypassing the rate-limiting first phosphorylation step[^10.1038/nature17180]. Remdesivir is a nonobligate chain terminator in that it contains a 3’-OH group. However, it causes delayed chain termination due to a steric clash after the addition of three trailing nucleosides[^10.1074/jbc.AC120.013056][^10.1074/jbc.RA120.013679][^10.1016/j.antiviral.2020.104793]. The mechanism by which it eludes coronavirus exonucleases is not known.
@@ -523,11 +523,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjgzNjg4NzEsLTk4Mjg4ODAyOSwyMT
-M4NzIzMzAsLTE3NDc0MTY2NywxMDkyMzk2OSwtNzE2NzY3NTc3
-LC02NjA5MTU5NTcsMTUxNjQ5MzIwNiwtMjg3NjgxNzk3LC0xMz
-c5MzU0NjU1LC0xOTk2NzgxNTg3LC0xNDA4ODY2Nzg1LDEzNzk1
-OTIzNDksLTE3MDExNzE0OTUsLTE2OTE4NjQyNTcsLTEyMzE4Nj
-cwNjgsMTEwNTE1NTI4NywtODExMDM5MDI4LC05MDg2NTgwNTEs
-MTY0MjQxMTAxMF19
+eyJoaXN0b3J5IjpbMjExODA5MDc2MCwtOTgyODg4MDI5LDIxMz
+g3MjMzMCwtMTc0NzQxNjY3LDEwOTIzOTY5LC03MTY3Njc1Nzcs
+LTY2MDkxNTk1NywxNTE2NDkzMjA2LC0yODc2ODE3OTcsLTEzNz
+kzNTQ2NTUsLTE5OTY3ODE1ODcsLTE0MDg4NjY3ODUsMTM3OTU5
+MjM0OSwtMTcwMTE3MTQ5NSwtMTY5MTg2NDI1NywtMTIzMTg2Nz
+A2OCwxMTA1MTU1Mjg3LC04MTEwMzkwMjgsLTkwODY1ODA1MSwx
+NjQyNDExMDEwXX0=
 -->
