@@ -24,7 +24,7 @@ Patients receiving remdesivir had a median recovery time of 11 days (95% CI, 9 t
 
 Based on the ACTT results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). 
 
-Further analysis of ACTT data containing results from a greater proportion of the participants and containing virological response data are likely to be published in the future. Another recently published study reported that a five day course of therapy was as efficacious as a ten day course of therapy in hospitalized pa
+Further analysis of ACTT data containing results from a greater proportion of the participants and containing virological response data are likely to be published in the future. Another recently published study reported that a five day course of therapy was as efficacious as a ten day course of therapy in hospitalized patients with an SpO2 ≤ 94% who did not require mechanical ventilation. However, the patients in the ten day treatment arm had greater baseline disease 
 
 
 
@@ -530,11 +530,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzIzNDAyOCw2NDA0MjIyOTksLTEyMj
-MzNTgyNDcsOTM2OTAxNjc5LC05ODI4ODgwMjksMjEzODcyMzMw
-LC0xNzQ3NDE2NjcsMTA5MjM5NjksLTcxNjc2NzU3NywtNjYwOT
-E1OTU3LDE1MTY0OTMyMDYsLTI4NzY4MTc5NywtMTM3OTM1NDY1
-NSwtMTk5Njc4MTU4NywtMTQwODg2Njc4NSwxMzc5NTkyMzQ5LC
-0xNzAxMTcxNDk1LC0xNjkxODY0MjU3LC0xMjMxODY3MDY4LDEx
-MDUxNTUyODddfQ==
+eyJoaXN0b3J5IjpbMzQ3MjkwNzI1LDY0MDQyMjI5OSwtMTIyMz
+M1ODI0Nyw5MzY5MDE2NzksLTk4Mjg4ODAyOSwyMTM4NzIzMzAs
+LTE3NDc0MTY2NywxMDkyMzk2OSwtNzE2NzY3NTc3LC02NjA5MT
+U5NTcsMTUxNjQ5MzIwNiwtMjg3NjgxNzk3LC0xMzc5MzU0NjU1
+LC0xOTk2NzgxNTg3LC0xNDA4ODY2Nzg1LDEzNzk1OTIzNDksLT
+E3MDExNzE0OTUsLTE2OTE4NjQyNTcsLTEyMzE4NjcwNjgsMTEw
+NTE1NTI4N119
 -->
