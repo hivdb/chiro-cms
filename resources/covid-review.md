@@ -67,9 +67,7 @@ ___Conclusion: Lopinavir/r does not inhibit coronaviruses in vitro and displays 
 ### 3CLpro Investigational Inhibitors
 Most coronavirus PI drug discovery efforts have targeted 3CLpro: it shares a conserved substrate recognition pocket with the 3C like protease (3Cpro) of human picornaviruses, which have already been successfully targeted with antiviral agents. 3CLpro can also be purified in large quantities and readily crystallized[^10.1016/j.virusres.2007.02.015].
 
-There have been multiple drug screens and several structure-based designs targeting 3CLpro. Several compounds have inhibited SARS-CoV and SARS-CoV-2 in biochemical assays with IC<sub>50</sub>s ranging between 0.02 and 0.2 μM[^10.1021/jm050184y][^10.1101/2020.04.20.051581][^10.1016/j.bmc.2016.05.013][^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb3405]. One of these, GC376 forms covalent bonds with three active site cysteines and inhibits multiple coronaviruses[^10.1128/JVI.01348-12]. Its IC<sub>50</sub> against SARS-CoV-2 was 0.03 μM while its EC<sub>50</sub> in cell culture was 3.4 μM[^10.1101/2020.04.20.051581]. GC376 also inhibits MERS-CoV (IC<sub>50</sub> = 1.7 μM) and displays sub-micromolar inhibitory against several other coronaviruses including the alphacoronavirus FIPV, TGEV, and HCoV 229E and the betacoronavirus BCV. It is highly effective in treating cats with the rapidly fatal coronavirus disease FIPV[^10.1371/journal.ppat.1005531]. Crystal structures of MERS-CoV 3CLpro bound to GC376 has led to the identification of piperidene peptidomimetics with greater inhibitory activity against SARS-CoV and MERS-CoV[^10.1016/j.ejmech.2018.03.004].
-
-Another series of peptidomimetics has been shown to inhibit BtCoV-HKU4 (related to MERS-CoV). Asymmetric aromatic disulfides have had low micromolar activity against SARS-CoV[^10.1016/j.ejmech.2017.05.045]. Several other backbones have been shown to have activity against SARS-CoV[^10.1021/jm050184y][^10.1016/j.bmcl.2007.08.031].
+There have been multiple drug screens and several structure-based designs targeting 3CLpro. Several compounds have inhibited SARS-CoV and SARS-CoV-2 in biochemical assays with IC<sub>50</sub>s ranging between 0.02 and 0.2 μM[^10.1021/jm050184y][^10.1101/2020.04.20.051581][^10.1016/j.bmc.2016.05.013][^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb3405]. One of these, GC376 forms covalent bonds with three active site cysteines and inhibits multiple coronaviruses[^10.1128/JVI.01348-12]. Its IC<sub>50</sub> against SARS-CoV-2 was 0.03 μM while its EC<sub>50</sub> in cell culture was 3.4 μM[^10.1101/2020.04.20.051581]. GC376 also inhibits MERS-CoV (IC<sub>50</sub> = 1.7 μM) and displays sub-micromolar inhibitory against several other coronaviruses including the alphacoronavirus FIPV, TGEV, and HCoV 229E and the betacoronavirus BCV. It is highly effective in treating cats with the rapidly fatal coronavirus disease FIPV[^10.1371/journal.ppat.1005531]. Crystal structures of MERS-CoV 3CLpro bound to GC376 has led to the identification of piperidene peptidomimetics with greater SARS-CoV and MERS-CoV inhibitory activity[^10.1016/j.ejmech.2018.03.004].
 
 The compounds with the most 3CLpro inhibitory activity identified to date are a series of peptidomimetic α-ketoamide and aldehyde derivatives[^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb4489] . Several of these compounds has been co-crystallized with SARS-CoV-2 3CLpro[^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb4489]. Preliminary pharmacokinetics evaluations have demonstrated metabolic stability in mouse and human microsomes and encouraging plasma and bronco-alveolar lavage fluid levels whether administered subcutaneously or by inhalation[^10.1126/science.abb3405][^10.1126/science.abb4489]. Another SARS-CoV-2 crystal structure identified of several inhibitory compounds; including an investigational compound ebselen, which has been studied in humans[^10.1038/s41586-020-2223-y].
 
@@ -523,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTMzNDUzMTksLTExOTYzODIzNzIsLT
-g2MTk2NTM4Niw3Mzc5NDUzMTcsNjQwNDIyMjk5LC0xMjIzMzU4
-MjQ3LDkzNjkwMTY3OSwtOTgyODg4MDI5LDIxMzg3MjMzMCwtMT
-c0NzQxNjY3LDEwOTIzOTY5LC03MTY3Njc1NzcsLTY2MDkxNTk1
-NywxNTE2NDkzMjA2LC0yODc2ODE3OTcsLTEzNzkzNTQ2NTUsLT
-E5OTY3ODE1ODcsLTE0MDg4NjY3ODUsMTM3OTU5MjM0OSwtMTcw
-MTE3MTQ5NV19
+eyJoaXN0b3J5IjpbNzg4MjY5MjgxLC0xMTk2MzgyMzcyLC04Nj
+E5NjUzODYsNzM3OTQ1MzE3LDY0MDQyMjI5OSwtMTIyMzM1ODI0
+Nyw5MzY5MDE2NzksLTk4Mjg4ODAyOSwyMTM4NzIzMzAsLTE3ND
+c0MTY2NywxMDkyMzk2OSwtNzE2NzY3NTc3LC02NjA5MTU5NTcs
+MTUxNjQ5MzIwNiwtMjg3NjgxNzk3LC0xMzc5MzU0NjU1LC0xOT
+k2NzgxNTg3LC0xNDA4ODY2Nzg1LDEzNzk1OTIzNDksLTE3MDEx
+NzE0OTVdfQ==
 -->
