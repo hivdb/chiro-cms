@@ -56,13 +56,13 @@ There are more candidate 3CLpro than PLpro inhibitors because of this enzyme’s
 ### HIV-1 Protease Inhibitors
 None of the HIV-1 protease inhibitors (PIs) are expected to inhibit coronaviruses as the HIV-1 protease is an aspartate protease with a different specificity than the coronavirus 3CLpro and PLpro enzymes. Nonetheless, one particular HIV-1 PI combination – lopinavir boosted by ritonavir, which is an inhibitor of lopinavir metabolism (lopinavir/r) – has been used frequently to treat SARS-CoV, MERS-CoV, and SARS-CoV-2 infection.  Each of the other HIV-1 associated PIs has also been studied for potential anti-coronavirus activity.
 
-Lopinavir/r was first used to treat a coronavirus infection when it was administered to a cohort of 75 hospitalized patients with SARS-CoV in Hong Kong in 2003[^PMID14660806][^10.1136/thorax.2003.012658]. These 75 hospitalized patients included 44 newly diagnosed SARS-CoV patients and 31 who had more severe disease. Among the 44 newly diagnosed patients, 2% died and none required mechanical ventilation; the 31 patients with more severe disease, 13% died and 10% required intubation. The mortality rate and need for mechanical ventilation among the 44 newly diagnosed patients were lower than those observed in historical controls (i.e., the very first group of SARS patients treated at their hospital). 
+Lopinavir/r was first used to treat a coronavirus infection when it was administered to a cohort of 75 hospitalized patients with SARS-CoV in Hong Kong in 2003[^PMID14660806][^10.1136/thorax.2003.012658]. These 75 hospitalized patients included 44 newly diagnosed SARS-CoV patients and 31 who had more severe disease. Among the 44 newly diagnosed patients, 2% died and none required mechanical ventilation; the 31 patients with more severe disease, 13% died and 10% required intubation. The mortality rate and need for mechanical ventilation among the 44 newly diagnosed patients were lower than in the earliest SARS patients treated at their hospital. 
 
 Lopinavir displays weak inhibitory activity against SARS-CoV, MERS-CoV, and SARS-CoV-2 with EC<sub>50</sub>s of between 5 and >25 μM or higher[^10.1136/thorax.2003.012658][^10.1016/j.jcv.2004.03.003][^10.1016/j.bbrc.2004.04.083][^10.1177/095632020601700505][^10.1016/j.jinf.2013.09.029][^10.1128/AAC.03011-14][^10.1038/s41467-019-13940-6][^10.1101/2020.03.20.999730][^10.1016/j.antiviral.2020.104786][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983]. In addition, the selectivity index of lopinavir in cell culture is low suggesting that whatever inhibition is observed in cell culture may result from its toxic effects on the cells used to culture coronavirus rather than on the virus itself. In two biochemical assays with SARS-CoV 3CLpro, lopinavir displayed an IC<sub>50</sub>s of 50 μM[^10.1073/pnas.0403596101] and >20 μM (Ma et al. 2020)[^10.1101/2020.04.20.051581]. In one study of marmosets infected with MERS-CoV, two animals receiving lopinavir/r had reduced mortality, virus levels, and lung pathology compared with three untreated control animals[^10.1093/infdis/jiv392]. No benefit was observed in mice infected with MERS-CoV treated with lopinavir/r + IFN-β[^10.1038/s41467-019-13940-6]. Most importantly, an open-label randomized controlled trial of lopinavir/r vs. standard-of-care in 199 hospitalized adults with SARS-CoV-2 infection and SatO<sub>2</sub> levels 94% or PaO<sub>2</sub> /FiO<sub>2</sub>  <300, demonstrated no significant difference in days to virological clearance, clinical improvement, need for mechanical ventilation, or mortality[^10.1056/NEJMoa2001282]. 
 
 Among the remaining HIV-1 PIs, only nelfinavir and atazanavir appeared to have any coronavirus inhibitory activity. Most nelfinavir EC<sub>50</sub>s for SARS-CoV, MERS-CoV, and SARS-CoV-2 were between 1 and 5 μM, although one value was 0.5 μM and another was >100 μM[^10.1177/095632020601700505][^10.1016/j.bbrc.2004.04.083][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983][^10.1101/2020.02.25.965582][^10.1016/j.jinf.2013.09.029]. Its IC<sub>50</sub> against SARS-CoV 3CLpro in a biochemical experiment was 46 μM[^10.1016/j.bbrc.2005.05.095]. Likewise, there was a wide range of atazanavir susceptibilities against the pandemic coronaviruses with EC<sub>50</sub>s ranging between 0.2 and 2 μM in one study[^10.1101/2020.04.04.020925] but as high as 9.4 and >50 μM in three other studies[^10.1101/2020.03.20.999730][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983]. Darunavir consistently displayed poor activity against SARS-CoV-2[^10.1101/2020.04.03.20052548][^10.1101/2020.04.06.026476].
 
-___Conclusion: As of May 28, 2020, there were 32 ongoing and 9 planned trials containing a lopinavir/r treatment arm. However, considering that lopinavir/r does not inhibit coronaviruses in vitro and displays little or no clinical or virological activity, it is uncertain why it is still being studied.___
+___Conclusion: Lopinavir/r does not inhibit coronaviruses in vitro and displays little or no clinical efficacy As of May 28, 2020, there were 32 ongoing and 9 planned trials containing a lopinavir/r treatment arm. However, considering that  it is uncertain why it is still being studied.___
 
 ### 3CLpro Investigational Inhibitors
 Most coronavirus PI drug discovery efforts have targeted 3CLpro: it shares a conserved substrate recognition pocket with the 3C like protease (3Cpro) of human picornaviruses, which have already been successfully targeted with antiviral agents. In addition, 3CLpro can also be purified in large quantities and readily crystallized[^10.1016/j.virusres.2007.02.015].
@@ -523,11 +523,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MjAwNTA4MCwtMTE5NjM4MjM3MiwtOD
-YxOTY1Mzg2LDczNzk0NTMxNyw2NDA0MjIyOTksLTEyMjMzNTgy
-NDcsOTM2OTAxNjc5LC05ODI4ODgwMjksMjEzODcyMzMwLC0xNz
-Q3NDE2NjcsMTA5MjM5NjksLTcxNjc2NzU3NywtNjYwOTE1OTU3
-LDE1MTY0OTMyMDYsLTI4NzY4MTc5NywtMTM3OTM1NDY1NSwtMT
-k5Njc4MTU4NywtMTQwODg2Njc4NSwxMzc5NTkyMzQ5LC0xNzAx
-MTcxNDk1XX0=
+eyJoaXN0b3J5IjpbNTUyODI2MzU0LC0xMTk2MzgyMzcyLC04Nj
+E5NjUzODYsNzM3OTQ1MzE3LDY0MDQyMjI5OSwtMTIyMzM1ODI0
+Nyw5MzY5MDE2NzksLTk4Mjg4ODAyOSwyMTM4NzIzMzAsLTE3ND
+c0MTY2NywxMDkyMzk2OSwtNzE2NzY3NTc3LC02NjA5MTU5NTcs
+MTUxNjQ5MzIwNiwtMjg3NjgxNzk3LC0xMzc5MzU0NjU1LC0xOT
+k2NzgxNTg3LC0xNDA4ODY2Nzg1LDEzNzk1OTIzNDksLTE3MDEx
+NzE0OTVdfQ==
 -->
