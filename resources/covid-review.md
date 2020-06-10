@@ -33,10 +33,9 @@ ___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clin
 
 EIDD-2801 has broad-spectrum antiviral activity against multiple coronaviruses including MERS-CoV, SARS-CoV, and SARS-CoV-2 with most EC<sub>50</sub>s below 1 μM[^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883]. It also has activity in primary human airway epithelial cells and reduced virus levels, disease, and lung damage in mouse models of SARS-CoV and MERS-CoV[^10.1126/scitranslmed.abb5883]. Deep sequencing studies have confirmed that viral mutagenesis is the main mechanism by which EIDD-2801 inhibits coronaviruses [^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883].
 
-As of May 28A phase I study in uninfected individuals and two phase II studies of 
-An Investigational New Drug Application for β-D-N4-hydroxycytidine-5'-isopropyl ester has been approved, enabling its manufacturer, Ridgeback Biotherapeutics LP, to initiate human clinical testing. Although viral mutagenesis has rarely been shown to be an effective mechanism of viral inhibition, the large size of coronavirus genomes may make coronaviruses particularly vulnerable to viral mutagenesis. There have also been past concerns that non-chain-terminating nucleosides may be associated with toxicity to host polymerases. Nonetheless, _in vitro_ studies have not identified effects on human RNA polymerases[^10.1128/AAC.01719-19][^10.1126/scitranslmed.aax5866]. Moreover, the risk of toxicity for short courses of therapy are likely to be low.
+As of May 28, a phase I study in uninfected individuals has begun and two phase II studies patients with mild-to-moderate disease have begun. 
 
-___Conclusion: The preclinical in vitro and animal model data associated with EIDD-2801 are comparable to those of remdesivir. However, EIDD-2801’s safety in humans has not yet been established. Conducting safety and efficacy trials will likely require a minimum of three months. Should these trials be successful, this drug may be a useful oral option to be used in high-risk outpatients. Moreover, used in combination with remdesivir it might further reduce morbidity and mortality in patients with severe disease.___
+___Conclusion: The preclinical in vitro and animal model data associated with EIDD-2801 are comparable to those of remdesivir. However, EIDD-2801’s safety  and efficacy in humans has not yet been established. Conducting safety and efficacy trials will likely require a minimum of three months. Should these trials be successful, this drug may be a useful oral option to be used in high-risk outpatients. Moreover, used in combination with remdesivir it might further reduce morbidity and mortality in patients with severe disease.___
 
 ### Other Nucleoside Analogs
 Ribavirin is a nucleoside analog with modest activity against several viruses. Although multiple mechanisms for its activity have been proposed, the most likely is an increase in viral mutagenesis. In cell culture studies, it has demonstrated little, if any, activity against coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1016/s0140-6736(03)13615-x][^10.1177/095632020401500102][^10.1016/j.jinf.2013.09.029][^10.1099/vir.0.061911-0][^10.1038/srep01686][^10.1016/j.antiviral.2020.104786][^10.1016/S0140-6736(20)31022-9]. Structural and biochemical studies have shown that although ribavirin 5’-monophosphate can be incorporated during RNA synthesis, it is readily excised by nsp14, the coronavirus exonuclease. Multiple observational clinical studies of patients with SARS-CoV, and to a lesser extent in patients with MERS-CoV have shown no evidence for clinical benefit while demonstrating a high risk of toxicity[^10.1371/journal.pmed.0030343]. Ribavirin is rarely used or studied for treating SARS-CoV-2.
@@ -526,7 +525,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwNjI3OTQ5LDczNzk0NTMxNyw2NDA0Mj
+eyJoaXN0b3J5IjpbNzI1NDYxNjAzLDczNzk0NTMxNyw2NDA0Mj
 IyOTksLTEyMjMzNTgyNDcsOTM2OTAxNjc5LC05ODI4ODgwMjks
 MjEzODcyMzMwLC0xNzQ3NDE2NjcsMTA5MjM5NjksLTcxNjc2Nz
 U3NywtNjYwOTE1OTU3LDE1MTY0OTMyMDYsLTI4NzY4MTc5Nywt
