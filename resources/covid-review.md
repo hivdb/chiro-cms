@@ -26,17 +26,12 @@ Based on the ACTT results, the FDA issued an Emergency Use Authorization for the
 
 Further analysis of ACTT data containing results from a greater proportion of the participants and containing virological response data are likely to be published in the future. Another recently published study reported that a five day course of therapy was as efficacious as a ten day course of therapy in hospitalized patients with an SpO2 ≤ 94% who did not require mechanical ventilation [^10.1056/NEJMoa2015301]. However, the patients in the ten day treatment arm had greater baseline disease severity than those in the five day treatment arm.
 
-
-
-
-
-
 ___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial. The optimal use of this drug will become clearer with further study. Remdesivir will likely become the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
 
 ### β-D-N4-hydroxycytidine-5'-isopropyl ester (aka NHC and EIDD-2801)
 β-D-N4-hydroxycytidine is a cytidine analogue that exerts its activity primarily through viral mutagenesis in that it incorporates into new RNA strands but leads to large numbers of replication errors during subsequent rounds of replication [^10.1016/j.coviro.2019.04.002]. β-D-N4-hydroxycytidine-5'-isopropyl ester is an orally available NHC prodrug. The mechanism by which β-D-N4-hydroxycytidine eludes the proof-reading function of the coronavirus exonucleases is not known.
 
-β-D-N4-hydroxycytidine has broad-spectrum antiviral activity against multiple RNA viruses including MERS-CoV, SARS-CoV, and SARS-CoV-2 with most EC<sub>50</sub>s below 1 μM[^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883]. It also has activity in primary human airway epithelial cells and reduced virus levels, disease, and lung damage in mouse models of SARS-CoV and MERS-CoV[^10.1126/scitranslmed.abb5883]. Deep sequencing studies have confirmed that viral mutagenesis is the main mechanism by which β-D-N4-hydroxycytidine inhibits coronaviruses [^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883].
+β-D-N4-hydroxycytidine has broad-spectrum antiviral activity against multiple coronaviruses including MERS-CoV, SARS-CoV, and SARS-CoV-2 with most EC<sub>50</sub>s below 1 μM[^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883]. It also has activity in primary human airway epithelial cells and reduced virus levels, disease, and lung damage in mouse models of SARS-CoV and MERS-CoV[^10.1126/scitranslmed.abb5883]. Deep sequencing studies have confirmed that viral mutagenesis is the main mechanism by which β-D-N4-hydroxycytidine inhibits coronaviruses [^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883].
 
 An Investigational New Drug Application for β-D-N4-hydroxycytidine-5'-isopropyl ester has been approved, enabling its manufacturer, Ridgeback Biotherapeutics LP, to initiate human clinical testing. Although viral mutagenesis has rarely been shown to be an effective mechanism of viral inhibition, the large size of coronavirus genomes may make coronaviruses particularly vulnerable to viral mutagenesis. There have also been past concerns that non-chain-terminating nucleosides may be associated with toxicity to host polymerases. Nonetheless, _in vitro_ studies have not identified effects on human RNA polymerases[^10.1128/AAC.01719-19][^10.1126/scitranslmed.aax5866]. Moreover, the risk of toxicity for short courses of therapy are likely to be low.
 
@@ -530,11 +525,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjI4MDYwLDY0MDQyMjI5OSwtMTIyMz
-M1ODI0Nyw5MzY5MDE2NzksLTk4Mjg4ODAyOSwyMTM4NzIzMzAs
-LTE3NDc0MTY2NywxMDkyMzk2OSwtNzE2NzY3NTc3LC02NjA5MT
-U5NTcsMTUxNjQ5MzIwNiwtMjg3NjgxNzk3LC0xMzc5MzU0NjU1
-LC0xOTk2NzgxNTg3LC0xNDA4ODY2Nzg1LDEzNzk1OTIzNDksLT
-E3MDExNzE0OTUsLTE2OTE4NjQyNTcsLTEyMzE4NjcwNjgsMTEw
-NTE1NTI4N119
+eyJoaXN0b3J5IjpbLTE5NDAwOTQ3NTMsNjQwNDIyMjk5LC0xMj
+IzMzU4MjQ3LDkzNjkwMTY3OSwtOTgyODg4MDI5LDIxMzg3MjMz
+MCwtMTc0NzQxNjY3LDEwOTIzOTY5LC03MTY3Njc1NzcsLTY2MD
+kxNTk1NywxNTE2NDkzMjA2LC0yODc2ODE3OTcsLTEzNzkzNTQ2
+NTUsLTE5OTY3ODE1ODcsLTE0MDg4NjY3ODUsMTM3OTU5MjM0OS
+wtMTcwMTE3MTQ5NSwtMTY5MTg2NDI1NywtMTIzMTg2NzA2OCwx
+MTA1MTU1Mjg3XX0=
 -->
