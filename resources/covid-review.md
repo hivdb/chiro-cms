@@ -69,11 +69,11 @@ Most coronavirus PI drug discovery efforts have targeted 3CLpro: it shares a con
 
 There have been multiple drug screens and several structure-based designs targeting 3CLpro. Several compounds have inhibited SARS-CoV and SARS-CoV-2 in biochemical assays with IC<sub>50</sub>s ranging between 0.02 and 0.2 μM[^10.1021/jm050184y][^10.1101/2020.04.20.051581][^10.1016/j.bmc.2016.05.013][^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb3405]. One of these, GC376 forms covalent bonds with three active site cysteines and inhibits multiple coronaviruses[^10.1128/JVI.01348-12]. Its IC<sub>50</sub> against SARS-CoV-2 was 0.03 μM while its EC<sub>50</sub> in cell culture was 3.4 μM[^10.1101/2020.04.20.051581]. GC376 also inhibits MERS-CoV (IC<sub>50</sub> = 1.7 μM) and displays sub-micromolar inhibitory against several other coronaviruses including the alphacoronavirus FIPV, TGEV, and HCoV 229E and the betacoronavirus BCV. It is highly effective in treating cats with the rapidly fatal coronavirus disease FIPV[^10.1371/journal.ppat.1005531]. Crystal structures of MERS-CoV 3CLpro bound to GC376 has led to the identification of piperidene peptidomimetics with greater SARS-CoV and MERS-CoV inhibitory activity[^10.1016/j.ejmech.2018.03.004].
 
-The compounds with the most 3CLpro inhibitory activity identified to date are a series of peptidomimetic α-ketoamide and aldehyde derivatives[^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb4489] . Several of these compounds has been co-crystallized with SARS-CoV-2 3CLpro[^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb4489]. Preliminary pharmacokinetics evaluations have demonstrated metabolic stability in mouse and human microsomes and encouraging plasma and bronco-alveolar lavage fluid levels whether administered subcutaneously or by inhalation[^10.1126/science.abb3405][^10.1126/science.abb4489]. Another SARS-CoV-2 crystal structure identified of several inhibitory compounds; including an investigational compound ebselen, which has been studied in humans[^10.1038/s41586-020-2223-y].
+The compounds with the most 3CLpro inhibitory activity identified to date are a series of peptidomimetic α-ketoamide and aldehyde derivatives[^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb4489] . Several of these compounds has been co-crystallized with SARS-CoV-2 3CLpro[^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb4489]. Preliminary pharmacokinetics evaluations have demonstrated metabolic stability in mouse and human microsomes and encouraging plasma and bronco-alveolar lavage fluid levels whether administered subcutaneously or by inhalation[^10.1126/science.abb3405][^10.1126/science.abb4489]. Another SARS-CoV-2 crystal structure identified of several inhibitory compounds; including an investigational compound ebselen, which has been studied in humans for a variety of other indications[^10.1038/s41586-020-2223-y].
 
 Disulfiram, the licensed oral alcohol antagonist has been reported to inhibit SARS-CoV-2 3CL protease with an IC<sub>50</sub> of about 10 μM[^10.1038/s41586-020-2223-y] and to inhibit SARS-CoV and MERS-CoV PL protease with a slightly higher IC<sub>50</sub> [^10.1016/j.antiviral.2017.12.015]. However, disulfiram has not yet been studied in cell culture, and existing PK data suggests that standard doses may be insufficient to yield inhibitory drug levels.
 
-___Conclusion: There are many promising lead compounds that could be developed into highly effective SARS-CoV-2 drugs. Several of these including GC376 and ebselen might be useful as initial scaffolds because they display very low μM activity and have been studied in cats and humans, respectively. Other peptidomimetic compounds, such as the -ketoamides have greater inhibitory in vitro activity but have not yet been studied in animals or humans. ___
+___Conclusion: There are several promising lead compounds that could be developed into effective SARS-CoV-2 drugs. Several of these including GC376 and ebselen might be useful as initial scaffolds because they display very low μM activity and have been studied in cats and humans, respectively. Other peptidomimetic compounds, such as the -ketoamides have greater inhibitory in vitro activity but have not yet been studied in animals or humans. ___
 
 ### PLpro Investigational Inhibitors
 The crystal structure of SARS-CoV[^10.1073/pnas.0510851103][^10.1021/jm401712t] and SARS-CoV-2 () have been solved. However, in contrast to 3CLpro, the PLpro enzyme is membrane associated, making it more challenging to study in vitro. It does not have homologues in other viruses, so there are fewer compounds that can serve as starting points for drug development. Nonetheless, it is an essential coronavirus enzyme; high-throughput testing approaches have begun and several lead compounds have been identified[^10.1016/j.antiviral.2014.12.015][^10.1002/cmdc.202000223].
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4MjY5MjgxLC0xMTk2MzgyMzcyLC04Nj
-E5NjUzODYsNzM3OTQ1MzE3LDY0MDQyMjI5OSwtMTIyMzM1ODI0
-Nyw5MzY5MDE2NzksLTk4Mjg4ODAyOSwyMTM4NzIzMzAsLTE3ND
-c0MTY2NywxMDkyMzk2OSwtNzE2NzY3NTc3LC02NjA5MTU5NTcs
-MTUxNjQ5MzIwNiwtMjg3NjgxNzk3LC0xMzc5MzU0NjU1LC0xOT
-k2NzgxNTg3LC0xNDA4ODY2Nzg1LDEzNzk1OTIzNDksLTE3MDEx
-NzE0OTVdfQ==
+eyJoaXN0b3J5IjpbLTEyMjU0NDA5NTMsLTExOTYzODIzNzIsLT
+g2MTk2NTM4Niw3Mzc5NDUzMTcsNjQwNDIyMjk5LC0xMjIzMzU4
+MjQ3LDkzNjkwMTY3OSwtOTgyODg4MDI5LDIxMzg3MjMzMCwtMT
+c0NzQxNjY3LDEwOTIzOTY5LC03MTY3Njc1NzcsLTY2MDkxNTk1
+NywxNTE2NDkzMjA2LC0yODc2ODE3OTcsLTEzNzkzNTQ2NTUsLT
+E5OTY3ODE1ODcsLTE0MDg4NjY3ODUsMTM3OTU5MjM0OSwtMTcw
+MTE3MTQ5NV19
 -->
