@@ -73,7 +73,7 @@ The compounds with the most 3CLpro inhibitory activity identified to date are a 
 
 Disulfiram, the licensed oral alcohol antagonist has been reported to inhibit SARS-CoV-2 3CL protease with an IC<sub>50</sub> of about 10 μM[^10.1038/s41586-020-2223-y] and to inhibit SARS-CoV and MERS-CoV PL protease with a slightly higher IC<sub>50</sub> [^10.1016/j.antiviral.2017.12.015]. However, disulfiram has not yet been studied in cell culture, and existing PK data suggests that standard doses may be insufficient to yield inhibitory drug levels.
 
-___Conclusion: There are several promising lead compounds that could be developed into effective SARS-CoV-2 drugs. Several of these including GC376 and ebselen might be useful as initial scaffolds because they display very low μM activity and have been studied in cats and humans, respectively. Other peptidomimetic compounds, such as the -ketoamides have greater inhibitory in vitro activity but have not yet been studied in animals or humans. ___
+___Conclusion: There are several promising lead compounds that could be developed into effective SARS-CoV-2 drugs. GC376 and ebselen display low μM activity and have been studied in cats and humans, respectively. However, they are probably not potent enough to be useful clinically without further chemical modifications. Other peptidomimetic compounds have greater inhibitory in vitro activity but have not yet been studied in animals or humans. ___
 
 ### PLpro Investigational Inhibitors
 The crystal structure of SARS-CoV[^10.1073/pnas.0510851103][^10.1021/jm401712t] and SARS-CoV-2 () have been solved. However, in contrast to 3CLpro, the PLpro enzyme is membrane associated, making it more challenging to study in vitro. It does not have homologues in other viruses, so there are fewer compounds that can serve as starting points for drug development. Nonetheless, it is an essential coronavirus enzyme; high-throughput testing approaches have begun and several lead compounds have been identified[^10.1016/j.antiviral.2014.12.015][^10.1002/cmdc.202000223].
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU0NDA5NTMsLTExOTYzODIzNzIsLT
-g2MTk2NTM4Niw3Mzc5NDUzMTcsNjQwNDIyMjk5LC0xMjIzMzU4
-MjQ3LDkzNjkwMTY3OSwtOTgyODg4MDI5LDIxMzg3MjMzMCwtMT
-c0NzQxNjY3LDEwOTIzOTY5LC03MTY3Njc1NzcsLTY2MDkxNTk1
-NywxNTE2NDkzMjA2LC0yODc2ODE3OTcsLTEzNzkzNTQ2NTUsLT
-E5OTY3ODE1ODcsLTE0MDg4NjY3ODUsMTM3OTU5MjM0OSwtMTcw
-MTE3MTQ5NV19
+eyJoaXN0b3J5IjpbLTU3MTYwNDYzLC0xMTk2MzgyMzcyLC04Nj
+E5NjUzODYsNzM3OTQ1MzE3LDY0MDQyMjI5OSwtMTIyMzM1ODI0
+Nyw5MzY5MDE2NzksLTk4Mjg4ODAyOSwyMTM4NzIzMzAsLTE3ND
+c0MTY2NywxMDkyMzk2OSwtNzE2NzY3NTc3LC02NjA5MTU5NTcs
+MTUxNjQ5MzIwNiwtMjg3NjgxNzk3LC0xMzc5MzU0NjU1LC0xOT
+k2NzgxNTg3LC0xNDA4ODY2Nzg1LDEzNzk1OTIzNDksLTE3MDEx
+NzE0OTVdfQ==
 -->
