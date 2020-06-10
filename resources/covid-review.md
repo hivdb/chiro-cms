@@ -22,9 +22,9 @@ At baseline, ~12% did not require supplemental O2, ~40% required supplemental O2
 
 Patients receiving remdesivir had a median recovery time of 11 days (95% CI, 9 to 12) vs. 15 days (95% CI, 13 to 19) for the placebo group; P<0.001). Kaplan-Meier estimates of mortality by 14 days were 7.1% with remdesivir vs. 11.9% with placebo (HR: 0.70; 95% CI, 0.47 to 1.04). Serious adverse events occurred at similar rates in both groups (21.1% vs 27.0%). In subgroup analysis, the remdesivir recovery rate ratio was highest and statistically significant in the group receiving O2 (1.47), it was numerically higher but not statistically significant in the group not receiving O2 (1.38) or receiving noninvasive ventilation or high-flow O2 (1.2). It was 0.95 in the group receiving mechanical ventilation or ECMO.
 
-Based on the ACTT results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
+Based on the ACTT results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). 
 
-Further analysis of ACTT data containing results from a greater proportion of the participants and containing virological response data are likely to be published in the future. At least two other trials are ongoing -- a comparison of remdesivir with the anti-inflammatory baricitinib versus remdesivir alone and an open-label study comparing remdesivir with standard of care
+Further analysis of ACTT data containing results from a greater proportion of the participants and containing virological response data are likely to be published in the future. Another recently published study reported that a five day course of therapy was as efficacious as a ten day course of therapy in hospitalized pa
 
 
 
@@ -530,11 +530,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNDIyMjk5LC0xMjIzMzU4MjQ3LDkzNj
-kwMTY3OSwtOTgyODg4MDI5LDIxMzg3MjMzMCwtMTc0NzQxNjY3
-LDEwOTIzOTY5LC03MTY3Njc1NzcsLTY2MDkxNTk1NywxNTE2ND
-kzMjA2LC0yODc2ODE3OTcsLTEzNzkzNTQ2NTUsLTE5OTY3ODE1
-ODcsLTE0MDg4NjY3ODUsMTM3OTU5MjM0OSwtMTcwMTE3MTQ5NS
-wtMTY5MTg2NDI1NywtMTIzMTg2NzA2OCwxMTA1MTU1Mjg3LC04
-MTEwMzkwMjhdfQ==
+eyJoaXN0b3J5IjpbMTQwMzIzNDAyOCw2NDA0MjIyOTksLTEyMj
+MzNTgyNDcsOTM2OTAxNjc5LC05ODI4ODgwMjksMjEzODcyMzMw
+LC0xNzQ3NDE2NjcsMTA5MjM5NjksLTcxNjc2NzU3NywtNjYwOT
+E1OTU3LDE1MTY0OTMyMDYsLTI4NzY4MTc5NywtMTM3OTM1NDY1
+NSwtMTk5Njc4MTU4NywtMTQwODg2Njc4NSwxMzc5NTkyMzQ5LC
+0xNzAxMTcxNDk1LC0xNjkxODY0MjU3LC0xMjMxODY3MDY4LDEx
+MDUxNTUyODddfQ==
 -->
