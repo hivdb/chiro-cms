@@ -16,7 +16,7 @@ In 53 patients with severe SARS-CoV-2 pneumonia receiving remdesivir as part of 
 
 A phase 3 placebo-controlled trial begun in China in patients with moderate-to-severe disease was discontinued prematurely after recruiting 237 rather than the planned 453 patients. Patients were randomized 2:1 to receive remdesivir or placebo. Although not statistically significant, patients receiving remdesivir had a faster time to clinical improvement than those receiving placebo (median 18 days \[IQR 12–28\] vs 23 days \[15–28\]; HR 1.52 \[0.95–2.43\]. The 28-day mortality was similar in both groups (14% for remdesivir and 13% for placebo). There was no difference in the rates of decline of nasopharyngeal viral RNA levels between the two groups. Adverse events leading to treatment discontinuation were 12% in the remdesivir group and 5% in the placebo group[^10.1016/S0140-6736(20)31022-9].
 
-Preliminary results from the NIH Adaptive COVID-19 Treatment Trial (ACTT) were announced on April 29th, 2020 after after an interim analysis by the data safety monitoring board and published on May 22, 2020[^10.1056/NEJMoa2007764]. Of 1063 randomized hospitalized patients, 541 were assigned remdesivir (200 mg IV followed by 100 mg IV qD x 9 days) and 522 placebo. Approximately, 180 patients in each group completed 10 days of treatment. About 100 in each group were still on treatment or had missing treatment data at the time of the analysis. And 225-250 in each group received fewer than 10 days of therapy primarily because they recovered, died, or experienced serious adverse effects.
+Preliminary results from the NIH Adaptive COVID-19 Treatment Trial (ACTT) were announced on April 29th, 2020 after after an interim analysis by the data safety monitoring board and published on May 22, 2020[^10.1056/NEJMoa2007764]. Of 1063 randomized hospitalized patients, 541 were assigned to remdesivir (200 mg IV followed by 100 mg IV daily x 9 days) and 522 to placebo. Approximately, 180 patients in each group completed 10 days of treatment. About 100 in each group were still on treatment or had missing treatment data at the time of the analysis. And 225-250 in each group received fewer than 10 days of therapy primarily because they recovered, died, or experienced serious adverse effects.
 
 Based on the the study's results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
 
@@ -525,11 +525,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjQ1Nzk5MSwtOTgyODg4MDI5LDIxMz
-g3MjMzMCwtMTc0NzQxNjY3LDEwOTIzOTY5LC03MTY3Njc1Nzcs
-LTY2MDkxNTk1NywxNTE2NDkzMjA2LC0yODc2ODE3OTcsLTEzNz
-kzNTQ2NTUsLTE5OTY3ODE1ODcsLTE0MDg4NjY3ODUsMTM3OTU5
-MjM0OSwtMTcwMTE3MTQ5NSwtMTY5MTg2NDI1NywtMTIzMTg2Nz
-A2OCwxMTA1MTU1Mjg3LC04MTEwMzkwMjgsLTkwODY1ODA1MSwx
-NjQyNDExMDEwXX0=
+eyJoaXN0b3J5IjpbLTE2MDIwNDc0NTEsLTk4Mjg4ODAyOSwyMT
+M4NzIzMzAsLTE3NDc0MTY2NywxMDkyMzk2OSwtNzE2NzY3NTc3
+LC02NjA5MTU5NTcsMTUxNjQ5MzIwNiwtMjg3NjgxNzk3LC0xMz
+c5MzU0NjU1LC0xOTk2NzgxNTg3LC0xNDA4ODY2Nzg1LDEzNzk1
+OTIzNDksLTE3MDExNzE0OTUsLTE2OTE4NjQyNTcsLTEyMzE4Nj
+cwNjgsMTEwNTE1NTI4NywtODExMDM5MDI4LC05MDg2NTgwNTEs
+MTY0MjQxMTAxMF19
 -->
