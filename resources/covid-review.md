@@ -65,7 +65,7 @@ Among the remaining HIV-1 PIs, only nelfinavir and atazanavir appeared to have a
 ___Conclusion: Lopinavir/r does not inhibit coronaviruses in vitro and displays little or no clinical efficacy. However, as of May 28, 2020, there were 32 ongoing and 9 planned trials containing a lopinavir/r treatment arm. ___
 
 ### 3CLpro Investigational Inhibitors
-Most coronavirus PI drug discovery efforts have targeted 3CLpro: it shares a conserved substrate recognition pocket with the 3C like protease (3Cpro) of human picornaviruses, which have already been successfully targeted with antiviral agents. In addition, 3CLpro can also be purified in large quantities and readily crystallized[^10.1016/j.virusres.2007.02.015].
+Most coronavirus PI drug discovery efforts have targeted 3CLpro: it shares a conserved substrate recognition pocket with the 3C like protease (3Cpro) of human picornaviruses, which have already been successfully targeted with antiviral agents. 3CLpro can also be purified in large quantities and readily crystallized[^10.1016/j.virusres.2007.02.015].
 
 There have been multiple drug screens and several structure-based designs targeting 3CLpro. Several compounds have inhibited SARS-CoV and SARS-CoV-2 in biochemical assays with IC<sub>50</sub>s ranging between 0.02 and 0.2 μM[^10.1021/jm050184y][^10.1101/2020.04.20.051581][^10.1016/j.bmc.2016.05.013][^10.1021/acs.jmedchem.9b01828][^10.1126/science.abb3405]. One of these, GC376 forms covalent bonds with three active site cysteines and inhibits multiple coronaviruses[^10.1128/JVI.01348-12]. Its IC<sub>50</sub> against SARS-CoV-2 was 0.03 μM while its EC<sub>50</sub> in cell culture was 3.4 μM[^10.1101/2020.04.20.051581]. GC376 also inhibits MERS-CoV (IC<sub>50</sub> = 1.7 μM) and displays sub-micromolar inhibitory against several other coronaviruses including the alphacoronavirus FIPV, TGEV, and HCoV 229E and the betacoronavirus BCV. It is highly effective in treating cats with the rapidly fatal coronavirus disease FIPV[^10.1371/journal.ppat.1005531]. Crystal structures of MERS-CoV 3CLpro bound to GC376 has led to the identification of piperidene peptidomimetics with greater inhibitory activity against SARS-CoV and MERS-CoV[^10.1016/j.ejmech.2018.03.004].
 
@@ -523,7 +523,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTIwNzAzNjgsLTExOTYzODIzNzIsLT
+eyJoaXN0b3J5IjpbLTEzNTMzNDUzMTksLTExOTYzODIzNzIsLT
 g2MTk2NTM4Niw3Mzc5NDUzMTcsNjQwNDIyMjk5LC0xMjIzMzU4
 MjQ3LDkzNjkwMTY3OSwtOTgyODg4MDI5LDIxMzg3MjMzMCwtMT
 c0NzQxNjY3LDEwOTIzOTY5LC03MTY3Njc1NzcsLTY2MDkxNTk1
