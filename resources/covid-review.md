@@ -132,7 +132,7 @@ ___Conclusions: During the past month, more than 10 groups have described the de
 ### Fusion Inhibitors
 Peptides that mimic HR2 can block virus-cell fusion by preventing the interaction between HR1 and HR2. The HIV-1 fusion inhibitor enfuvirtide is a 36 amino acid peptide that acts by this mechanism following subcutaneous administration[^10.1056/NEJMoa035026][^10.1056/NEJMoa035211][^10.1038/nrd1331]. Several peptide mimics of coronavirus HR2 have been shown to be potently inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 _in vitro_[^10.1016/j.bbrc.2004.05.046][^10.1038/ncomms4067][^10.1093/infdis/jiv325][^10.1021/acs.jmedchem.8b00890][^10.1126/sciadv.aav4580][^10.1101/2020.03.26.009233] and reviewed by Tang et al[^10.1016/j.antiviral.2020.104792]. The interest in coronavirus fusion inhibitors derives in part because S2 is more conserved than S1 among different coronavirus species. For example, the S1 proteins of SARS-CoV and SARS-CoV-2 differ by more than 10% of their amino acids. However, their HR1 domains differ by 7% and their HR2 domains are essentially identical[^10.1038/s41423-020-0374-2]. Fusion inhibitors are theoretically likely to have greater activity in preventing viral fusion occurring via the cell surface pathway than the endosomal pathway of virus entry[^10.1128/JVI.01697-07][^10.1016/j.antiviral.2020.104792].
 
-Prior to the SARS-CoV-2 pandemic, an HR2 mimicking peptide named EK1 was identified as a potential broad-spectrum coronavirus inhibitor as it inhibited both SARS-CoV and MERS-CoV at sub-micromolar levels and was found to safe and protective against MERS-CoV when administered intra-nasally to SARS-CoV-infected mice[^10.1126/sciadv.aav4580]. With the emergence of SARS-CoV-2, the crystal structure of the SARS-CoV-2 six helix bundle was solved, and several modifications were made to the EK1 peptide. In addition, a cholesterol group was added[^10.1038/s41422-020-0305-x] as lipidation had recently been shown empirically to improve the pharmacokinetics and inhibitory activity of viral fusion inhibitors[^10.1128/JVI.00288-17]. This new lipopeptide, named EK1C4 was found to inhibit SARS-CoV-2 fusion 150 times more strongly than EK1, with SARS-CoV-2 EC<sub>50</sub>s of 0.04 μM and 0.004 μM in cell culture for SARS-CoV-2 and MERS-CoV, and with even lower EC<sub>50</sub>s in cell-cell fusion assays.
+Prior to the SARS-CoV-2 pandemic, an HR2 mimicking peptide named EK1 was identified as a potential broad-spectrum coronavirus inhibitor as it inhibited both SARS-CoV and MERS-CoV at sub-micromolar levels and was found to safe and protective against MERS-CoV when administered intra-nasally to SARS-CoV-infected mice[^10.1126/sciadv.aav4580]. With the emergence of SARS-CoV-2, the crystal structure of the SARS-CoV-2 six helix bundle was solved, and several modifications were made to the EK1 peptide. In addition, a cholesterol group was added[^10.1038/s41422-020-0305-x] as lipidation had recently been shown empirically to improve the pharmacokinetics and inhibitory activity of viral fusion inhibitors[^10.1128/JVI.00288-17]. This new lipopeptide, named EK1C4 was found to inhibit SARS-CoV-2 fusion 150 times more strongly than EK1, with SARS-CoV-2 EC<sub>50</sub>s of 0.04 μM and 0.004 μM in cell culture for SARS-CoV-2 and MERS-CoV, and with even lower EC<sub>50</sub>s in cell-cell fusion assays. Another 
 
 ___Conclusion: Further animal model studies or a phase I/II study in COVID-19 patients could be useful to determine the safety, pharmacokinetic, and efficacy of a fusion inhibitor such as EK1C4 administered intravenously. In contrast to monoclonal antibodies, the half-life of a fusion inhibitor would be short and therefore used solely for treatment.___
 
@@ -389,7 +389,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1016/j.antiviral.2020.104792]: Tang T, Bidon M, et int., Daniel S. "Coronavirus membrane fusion mechanism offers as a potential target for antiviral development" _Antiviral Res._, 2020. [10.1016/j.antiviral.2020.104792](https://doi.org/10.1016/j.antiviral.2020.104792)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
 [^10.1128/JVI.01697-07]: Ujike M, Nishikawa H, et int., Taguchi F. "Heptad Repeat-Derived Peptides Block Protease-Mediated Direct Entry from the Cell Surface of Severe Acute Respiratory Syndrome Coronavirus but Not Entry via the Endosomal Pathway" _Journal of Virology_, 2008. [10.1128/JVI.01697-07](https://doi.org/10.1128/JVI.01697-07)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -523,11 +523,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODcyMzMwLC0xNzQ3NDE2NjcsMTA5Mj
-M5NjksLTcxNjc2NzU3NywtNjYwOTE1OTU3LDE1MTY0OTMyMDYs
-LTI4NzY4MTc5NywtMTM3OTM1NDY1NSwtMTk5Njc4MTU4NywtMT
-QwODg2Njc4NSwxMzc5NTkyMzQ5LC0xNzAxMTcxNDk1LC0xNjkx
-ODY0MjU3LC0xMjMxODY3MDY4LDExMDUxNTUyODcsLTgxMTAzOT
-AyOCwtOTA4NjU4MDUxLDE2NDI0MTEwMTAsLTIwODU5OTE0NTMs
-OTI5NTc1OTE2XX0=
+eyJoaXN0b3J5IjpbNzgwMDM0Mzc3LDIxMzg3MjMzMCwtMTc0Nz
+QxNjY3LDEwOTIzOTY5LC03MTY3Njc1NzcsLTY2MDkxNTk1Nywx
+NTE2NDkzMjA2LC0yODc2ODE3OTcsLTEzNzkzNTQ2NTUsLTE5OT
+Y3ODE1ODcsLTE0MDg4NjY3ODUsMTM3OTU5MjM0OSwtMTcwMTE3
+MTQ5NSwtMTY5MTg2NDI1NywtMTIzMTg2NzA2OCwxMTA1MTU1Mj
+g3LC04MTEwMzkwMjgsLTkwODY1ODA1MSwxNjQyNDExMDEwLC0y
+MDg1OTkxNDUzXX0=
 -->
