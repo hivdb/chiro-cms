@@ -144,7 +144,7 @@ ___Conclusion: rhACE2 may prove to be useful in patients with the most severe ca
 ## Additional Possible Entry Inhibitors
 Arbidol is an oral drug used in Russia and China to treat influenza and other viral infections[^10.1016/j.antiviral.2014.04.006][^10.1128/JVI.02077-15]. It is reported to have _in vitro_ activity against multiple viruses and to inhibit viral entry by binding viral surface glycoproteins[^10.1016/j.antiviral.2008.10.009]. Its SARS-CoV-2 EC<sub>50</sub>s has been reported to be between 5 and 10 μM with a selectivity index of about 8[^10.1101/2020.04.03.023846][^10.1038/s41421-020-0169-8]. A crystal structure of arbidol in complex with influenza hemagglutinin showed arbidol binding a hydrophobic cavity in the hemagglutinin trimer stem[^10.1073/pnas.1617020114]. There have been two open-label controlled trials in patients with SARS-CoV-2[^10.1101/2020.03.17.20037432][^10.1101/2020.03.19.20038984] and many small retrospective observational studies[^10.1016/j.jinf.2020.03.002][^10.1016/j.jinf.2020.03.060][^10.1101/2020.04.06.20042580]. One controlled trial suggested it was inferior to favipiravir at reducing time to clinical recovery[^10.1101/2020.03.17.20037432]; one observational trial suggested it was inferior to nebulized interferon α2b at reducing viral shedding; and one observational trial suggested that it may have been more effective than lopinavir/r at reducing viral shedding[^10.1016/j.jinf.2020.03.060].
 
-Spike-mimicking 20-mer peptides corresponding to different S1 and/or S2 regions were reported in one study to synergistically interfere with SARS-CoV entry into cells presumably by competing with complete virus for ACE2 binding[^PMID15918330]. However, few other studies have described this approach. The inhibition of ACE2 enzymatic function or down-regulation of ACE2 levels is precarious as the absence of ACE2 is associated with the same pulmonary and cardiovascular disturbances observed during severe SARS-CoV and presumably SARS-CoV-2 infection.
+Spike-mimicking 20-mer peptides corresponding to different S1 and/or S2 regions were reported in one study to synergistically interfere with SARS-CoV entry into cells presumably by competing with complete virus for ACE2 binding[^PMID15918330]. However, few studies have described this approach. and the inhibition of ACE2 enzymatic function or down-regulation of ACE2 levels is precarious as the absence of ACE2 is associated with the same pulmonary and cardiovascular disturbances observed during severe SARS-CoV and presumably SARS-CoV-2 infection.
 
 Defensins are small antimicrobial peptides produced by white blood cells and epithelial cells, which have a role in innate immunity. In a study of several peptides derived from mouse β-defensin-4, one 30 amino acid peptide called P9 was found to inhibit influenza A, MERS-Co-V, and SARS-CoV both _in vitro_ and in a mouse model[^10.1038/srep22008].
 
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczNDg5NzM4LDIwNjEwOTA5NjgsLTU3MT
-YwNDYzLC0xMTk2MzgyMzcyLC04NjE5NjUzODYsNzM3OTQ1MzE3
-LDY0MDQyMjI5OSwtMTIyMzM1ODI0Nyw5MzY5MDE2NzksLTk4Mj
-g4ODAyOSwyMTM4NzIzMzAsLTE3NDc0MTY2NywxMDkyMzk2OSwt
-NzE2NzY3NTc3LC02NjA5MTU5NTcsMTUxNjQ5MzIwNiwtMjg3Nj
-gxNzk3LC0xMzc5MzU0NjU1LC0xOTk2NzgxNTg3LC0xNDA4ODY2
-Nzg1XX0=
+eyJoaXN0b3J5IjpbLTEwNjcxOTQzMTksMjA2MTA5MDk2OCwtNT
+cxNjA0NjMsLTExOTYzODIzNzIsLTg2MTk2NTM4Niw3Mzc5NDUz
+MTcsNjQwNDIyMjk5LC0xMjIzMzU4MjQ3LDkzNjkwMTY3OSwtOT
+gyODg4MDI5LDIxMzg3MjMzMCwtMTc0NzQxNjY3LDEwOTIzOTY5
+LC03MTY3Njc1NzcsLTY2MDkxNTk1NywxNTE2NDkzMjA2LC0yOD
+c2ODE3OTcsLTEzNzkzNTQ2NTUsLTE5OTY3ODE1ODcsLTE0MDg4
+NjY3ODVdfQ==
 -->
