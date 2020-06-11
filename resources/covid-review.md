@@ -76,7 +76,7 @@ Disulfiram, the licensed oral alcohol antagonist has been reported to inhibit SA
 ___Conclusion: There are several promising lead compounds that could be developed into effective SARS-CoV-2 drugs. GC376 and ebselen display low μM activity and have been studied in cats and humans, respectively. However, they are probably not potent enough to be useful clinically without further chemical modifications. Other peptidomimetic compounds have greater inhibitory in vitro activity but have not yet been studied in animals or humans. ___
 
 ### PLpro Investigational Inhibitors
-Several crystal structures of SARS-CoV-2 PLpro have been deposited in the Protein Data Bank, although their publications are pending. SARS-CoV-2 () have been solved. However, in contrast to 3CLpro, the PLpro enzyme is membrane associated, making it more challenging to study in vitro. It does not have homologues in other viruses, so there are fewer compounds that can serve as starting points for drug development. Nonetheless, it is an essential coronavirus enzyme; high-throughput testing approaches have begun and several lead compounds have been identified[^10.1016/j.antiviral.2014.12.015][^10.1002/cmdc.202000223].
+ In contrast to 3CLpro, the PLpro enzyme is membrane associated, making it more challenging to study in vitro. Nonetheless, several crystal structures of SARS-CoV-2 PLpro have been deposited in the Protein Data Bank, although their publications are currently pending. PLpro has fewer homologues in other viruses, so there are fewer compounds that can serve as starting points for drug development. Nonetheless, several lead compounds have been identified[^10.1016/j.antiviral.2014.12.015][^10.1002/cmdc.202000223].
 
 ## Entry Inhibitors
 Coronavirus cell entry is mediated by its spike (S) glycoprotein. S is a membrane protein essential for the two main steps of the entry process: attachment to the host cell and fusion of the viral and cellular membranes. The functional S protein is a trimer of identical subunits. For most coronaviruses, S is processed by host proteases to generate two functional subunits, designated S1 and S2. The S1 subunit forms the apex of the S trimer including the receptor binding domains (RBDs)[^10.1016/bs.aivir.2019.08.002] and is responsible for attachment to cellular receptors. The S2 unit is responsible for fusion to the cell membrane.
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE1ODAzMDcsLTU3MTYwNDYzLC0xMT
-k2MzgyMzcyLC04NjE5NjUzODYsNzM3OTQ1MzE3LDY0MDQyMjI5
-OSwtMTIyMzM1ODI0Nyw5MzY5MDE2NzksLTk4Mjg4ODAyOSwyMT
-M4NzIzMzAsLTE3NDc0MTY2NywxMDkyMzk2OSwtNzE2NzY3NTc3
-LC02NjA5MTU5NTcsMTUxNjQ5MzIwNiwtMjg3NjgxNzk3LC0xMz
-c5MzU0NjU1LC0xOTk2NzgxNTg3LC0xNDA4ODY2Nzg1LDEzNzk1
-OTIzNDldfQ==
+eyJoaXN0b3J5IjpbMjA2MTA5MDk2OCwtNTcxNjA0NjMsLTExOT
+YzODIzNzIsLTg2MTk2NTM4Niw3Mzc5NDUzMTcsNjQwNDIyMjk5
+LC0xMjIzMzU4MjQ3LDkzNjkwMTY3OSwtOTgyODg4MDI5LDIxMz
+g3MjMzMCwtMTc0NzQxNjY3LDEwOTIzOTY5LC03MTY3Njc1Nzcs
+LTY2MDkxNTk1NywxNTE2NDkzMjA2LC0yODc2ODE3OTcsLTEzNz
+kzNTQ2NTUsLTE5OTY3ODE1ODcsLTE0MDg4NjY3ODUsMTM3OTU5
+MjM0OV19
 -->
