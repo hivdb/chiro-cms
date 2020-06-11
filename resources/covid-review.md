@@ -135,7 +135,7 @@ Prior to the SARS-CoV-2 pandemic, an HR2 mimicking peptide named EK1 was identif
 ___Conclusion: Further animal model studies or a phase I/II study in COVID-19 patients could be useful to determine the safety, pharmacokinetic, and efficacy of a fusion inhibitor such as EK1C4 administered intravenously. In contrast to monoclonal antibodies, the half-life of a fusion inhibitor would be short and therefore used solely for treatment.___
 
 ### Soluble ACE2 and Other Molecular Decoys
-Soluble recombinant human ACE2 (rhACE2) has two potential beneficial effects. First, prior to the SARS-CoV-2 pandemic, rhACE2 was shown to protect lungs from injury during acute respiratory distress syndrome (ARDS)[^10.1038/nature03712][^10.1038/nm1267][^10.1186/s13054-017-1823-x][^10.1016/j.cell.2020.04.004]. Second, rhACE2 inhibits the binding of SARS-CoV and SARS-CoV-2 to ACE2-expressing cells[^10.1016/j.bbrc.2004.05.114][^10.1016/j.cell.2020.03.045] and has displayed does-dependent activity _in vitro_ against SARS-CoV-2 in cultured cells and engineered human blood vessel and kidney organoids[^10.1016/j.cell.2020.04.004]. APN1 (Apeiron Biologics) is a recombinant form of human ACE2, that demonstrated safety in 89 non-SARS-CoV-2 patients and volunteers. It is now being evaluated in a 200-person placebo-controlled study of hospitalized persons with SARS-CoV-2 (NCT04335136). Another more recently described similar approach involving the use of a fusion protein – in which an inactive ACE2 mutant is linked to a human Fc IgG – is highly active _in vitro_ [^10.1038/s41467-020-16048-4].
+Soluble recombinant human ACE2 (rhACE2) has two potential beneficial effects. First, prior to the SARS-CoV-2 pandemic, rhACE2 was shown to protect lungs from injury during acute respiratory distress syndrome (ARDS)[^10.1038/nature03712][^10.1038/nm1267][^10.1186/s13054-017-1823-x][^10.1016/j.cell.2020.04.004]. Second, rhACE2 inhibits the binding of SARS-CoV and SARS-CoV-2 to ACE2-expressing cells[^10.1016/j.bbrc.2004.05.114][^10.1016/j.cell.2020.03.045] and has displayed does-dependent activity _in vitro_ against SARS-CoV-2 in cultured cells and engineered human blood vessel and kidney organoids[^10.1016/j.cell.2020.04.004]. APN1 (Apeiron Biologics) is a recombinant form of human ACE2, that demonstrated safety in 89 non-SARS-CoV-2 patients and volunteers. It is now being evaluated in a 200-person placebo-controlled study of hospitalized persons with SARS-CoV-2 (NCT04335136). A similar approach involving the use of a fusion protein – in which an inactive ACE2 mutant is linked to a human Fc IgG – has also been shown to be highly active _in vitro_ [^10.1038/s41467-020-16048-4].
 
 The complete ACE2 molecule may not be necessary to inhibit viral infection if a synthetic peptide can be constructed with a critical minimal subset of ACE2 amino acids capable of competing with cellular ACE2 for the SARS-CoV-2 receptor binding domain (RBD). Preliminary data from SARS-CoV suggest that multiple residues from different parts of the ACE2 molecule will be required including amino acids between positions 24–90 and 329–354[^10.1126/science.1116480]. Two ACE2-derived peptides between positions 22–57 demonstrated some _in vitro_ activity against SARS-CoV[^10.1016/j.virol.2006.01.029]. Another peptide comprising two discontinuous ACE2 segments containing residues 22–44 and 351–357 artificially linked together by glycine, exhibited more potent _in vitro_ activity with an EC<sub>50</sub> of about 0.1 μM[^10.1016/j.virol.2006.01.029].
 
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTYwMjU3OCwyMDYxMDkwOTY4LC01Nz
-E2MDQ2MywtMTE5NjM4MjM3MiwtODYxOTY1Mzg2LDczNzk0NTMx
-Nyw2NDA0MjIyOTksLTEyMjMzNTgyNDcsOTM2OTAxNjc5LC05OD
-I4ODgwMjksMjEzODcyMzMwLC0xNzQ3NDE2NjcsMTA5MjM5Njks
-LTcxNjc2NzU3NywtNjYwOTE1OTU3LDE1MTY0OTMyMDYsLTI4Nz
-Y4MTc5NywtMTM3OTM1NDY1NSwtMTk5Njc4MTU4NywtMTQwODg2
-Njc4NV19
+eyJoaXN0b3J5IjpbOTczNDg5NzM4LDIwNjEwOTA5NjgsLTU3MT
+YwNDYzLC0xMTk2MzgyMzcyLC04NjE5NjUzODYsNzM3OTQ1MzE3
+LDY0MDQyMjI5OSwtMTIyMzM1ODI0Nyw5MzY5MDE2NzksLTk4Mj
+g4ODAyOSwyMTM4NzIzMzAsLTE3NDc0MTY2NywxMDkyMzk2OSwt
+NzE2NzY3NTc3LC02NjA5MTU5NTcsMTUxNjQ5MzIwNiwtMjg3Nj
+gxNzk3LC0xMzc5MzU0NjU1LC0xOTk2NzgxNTg3LC0xNDA4ODY2
+Nzg1XX0=
 -->
