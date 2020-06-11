@@ -113,7 +113,7 @@ The most frequently studied MERS-CoV MAbs include (i) Mersmab1[^10.1128/JVI.0043
 
 Most individuals recovering from SARS-CoV-2 develop significant titers of neutralizing antibodies[^10.1101/2020.03.30.20047365][^10.1101/2020.05.03.20084442]. An increasing number of studies have reported the identification and characterization of MAbs cloned from B  cells of persons recovering from SARS-CoV-2 infection that potently inhibit SARS-CoV-2 in either pseudovirus or infectious virus assays[^10.1038/s41423-020-0426-7][^10.1101/2020.05.12.088716][^10.1101/2020.03.21.990770][^10.1101/2020.05.12.091462][^10.1101/2020.05.11.088674][^10.1101/2020.05.13.092619]. Most of these antibodies compete with S1-ACE2 binding.
 
-In addition, several groups have identified several SARS-CoV cross-reacting MAbs. CR3022 was cloned from an antibody-phage library derived from blood of a convalescent SARS patient[^10.1371/journal.pmed.0030237]. It binds SARS-CoV-2 with high affinity[^10.1080/22221751.2020.1729069]. 47D11 was derived from transgenic mice immunized with SARS-CoV S1 and shown to neutralize SARS-CoV-2 in vitro[^10.1038/s41467-020-16256-y]. S309 was cloned from the B cells of a person with a history of SARS and also shown to potently inhibit SARS-CoV-2[^10.1038/s41586-020-2349-y]. Crystallographic studies and ACE2 competition assays have shown that these MAbs bind to the core subdomain of the RBD which is more conserved the ACE2-binding subdomain[^10.1126/science.abb7269][^10.1038/s41586-020-2349-y]. S309 has been shown to be synergistic with MAbs that bind to the ACE2-binding subdomain.
+Several SARS-CoV cross-reacting MAbs have been identified. CR3022 was cloned from an antibody-phage library derived from blood of a convalescent SARS patient[^10.1371/journal.pmed.0030237]. It binds SARS-CoV-2 with high affinity[^10.1080/22221751.2020.1729069]. 47D11 was derived from transgenic mice immunized with SARS-CoV S1 and shown to neutralize SARS-CoV-2 [^10.1038/s41467-020-16256-y]. S309 was cloned from the B cells of a person with a history of SARS and also shown to potently inhibit SARS-CoV-2[^10.1038/s41586-020-2349-y]. Crystallographic studies and ACE2 competition assays have shown that these MAbs bind to the core subdomain of the RBD which is more conserved the ACE2-binding subdomain[^10.1126/science.abb7269][^10.1038/s41586-020-2349-y]. S309 has been shown to be synergistic with MAbs that bind to the ACE2-binding subdomain.
 
 Zost et. al. isolated 386 SARS-CoV-2-reactive MAbs from two convalescent patients and grouped them into five classes according to their binding patterns and virus cross-reactivity[^10.1101/2020.05.12.091462]. Class I bind stabilized trimeric prefusion S ectodomain (S2P<sub>ecto</sub>) and the RBD and are SARS-CoV-2 specific. Class II bind the same sites but cross-react with SARS-CoV. Class III bind S2P<sub>ecto</sub> and the S1 N-terminal domain and are SARS-CoV-2 specific. Class IV bind only S2P<sub>ecto</sub> and are SARS-CoV-2 specific. Class V bind only  S2P<sub>ecto</sub> and cross-react with SARS-CoV[^10.1101/2020.05.12.091462].
 
@@ -121,7 +121,7 @@ Li et. al. reported that a highly potent SARS-CoV-2 specific MAb identified by p
 
 Rogers et. al. screened >1000 antigen-specific antibodies from the B cells of 22 convalescent patients[^10.1101/2020.05.11.088674]. They reported a positive correlation between cell surface spike binding and live replication virus neutralization for plasma as a whole but not for individual MAbs. Indeed, only a small proportion of RBD-binding MAbs were neutralizing. Their neutralizing MAbs were found to bind to three non-competing RBD epitopes, they refer to as RBD-A, RBD-B, and RBD-C. Their neutralizing MAbs that did not bind to the RBD generally showed poor neutralizing activity. One MAb CC12.1 was found to prevent weight loss in Syrian hamsters challenged with SARS-CoV-2[^10.1101/2020.05.11.088674].
 
-Wec et. al. screened a panel of SARS-CoV-2 S-reactive MAbs obtained in 2020 from the B cells of person with a history of SARS-CoV[^10.1101/2020.05.15.096511]. Most binding MAbs were somatically hypermutated; 33% originated from IgA+ B cells and 66% from IgG+ B cells. Most of the low-affinity MAbs showed cross-reactivity with one or more HCoV S proteins. Most of the MAbs competed only with hACE2, three competed only with CR3022, four competed with both hACE2 and CR3022, and seven did not compete with hACE2 or CR3022. Several of the RBD-binding MAbs displayed SARS-CoV-2 neutralizing activity at concentrations of about 1 μg/ml in pseudovirus entry assays.
+Wec et. al. screened a panel of SARS-CoV-2 S-reactive MAbs obtained in 2020 from the B cells of person with a history of SARS-CoV[^10.1101/2020.05.15.096511]. Most MAbs were somatically hypermutated; 33% originated from IgA+ B cells and 66% from IgG+ B cells. Most of the low-affinity MAbs showed cross-reactivity with one or more HCoV S proteins. Most of the MAbs competed only with hACE2, three competed only with CR3022, four competed with both hACE2 and CR3022, and seven did not compete with hACE2 or CR3022. Several of the RBD-binding MAbs displayed SARS-CoV-2 neutralizing activity at concentrations of about 1 μg/ml in pseudovirus entry assays.
 
 Ejemel et al. screened a panel of SARS-CoV RBD-targeting MAbs isolated from transgenic mice expressing human immunoglobulin genes and identified MAb362 which high SARS-CoV-2 binding affinity[^10.1101/2020.05.15.096719]. Binding affinity was approximately 40-fold higher for a cloned IgA version of MAb362. In contrast to other SARS-CoV / SARS-CoV-2 cross-reactive MAbs, the MAb362 epitope overlapped entirely with the hACE2 epitope.
 
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwMjcxNTAxLDIwNjEwOTA5NjgsLTU3MT
-YwNDYzLC0xMTk2MzgyMzcyLC04NjE5NjUzODYsNzM3OTQ1MzE3
-LDY0MDQyMjI5OSwtMTIyMzM1ODI0Nyw5MzY5MDE2NzksLTk4Mj
-g4ODAyOSwyMTM4NzIzMzAsLTE3NDc0MTY2NywxMDkyMzk2OSwt
-NzE2NzY3NTc3LC02NjA5MTU5NTcsMTUxNjQ5MzIwNiwtMjg3Nj
-gxNzk3LC0xMzc5MzU0NjU1LC0xOTk2NzgxNTg3LC0xNDA4ODY2
-Nzg1XX0=
+eyJoaXN0b3J5IjpbLTExMzg0MDg1MzIsMjA2MTA5MDk2OCwtNT
+cxNjA0NjMsLTExOTYzODIzNzIsLTg2MTk2NTM4Niw3Mzc5NDUz
+MTcsNjQwNDIyMjk5LC0xMjIzMzU4MjQ3LDkzNjkwMTY3OSwtOT
+gyODg4MDI5LDIxMzg3MjMzMCwtMTc0NzQxNjY3LDEwOTIzOTY5
+LC03MTY3Njc1NzcsLTY2MDkxNTk1NywxNTE2NDkzMjA2LC0yOD
+c2ODE3OTcsLTEzNzkzNTQ2NTUsLTE5OTY3ODE1ODcsLTE0MDg4
+NjY3ODVdfQ==
 -->
