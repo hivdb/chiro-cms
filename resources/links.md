@@ -97,6 +97,10 @@
 - CDC:
 [https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html)
 
+#### Miscellaneous drug development
+[https://opendata.ncats.nih.gov/covid19/index.html](https://opendata.ncats.nih.gov/covid19/index.html)
+
+
 ### News
 - Stat:
 [https://www.statnews.com/](https://www.statnews.com/)
@@ -106,11 +110,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTIxMTIxOCw5NTE4NzY3MTYsLTEzMD
-AwMjM3OTYsMzEwNTgwOTIyLC0xMDgzNzQwOTg3LDg0NjY0ODE2
-NiwtMTk2NDg3NDQwNSwtMzMxMzcwNDQzLC0xNjA3MjY1NDY1LD
-EwOTM1MjE0MDgsLTEzNzk5MDI4OTYsNTU4NDYyNTUzLC0xMDU1
-NjUyODcyLDUzNTU0MjQzMyw5MDc1NzQ5MTgsLTEwNTA2NDQzOD
-AsMTU5MjIyMzE4NCw2NDYyOTAxOTcsODM3MjQ1OTk1LDg5NzM3
-MjgwNV19
+eyJoaXN0b3J5IjpbMTMxNDc4Mjg3NiwtODE5MjExMjE4LDk1MT
+g3NjcxNiwtMTMwMDAyMzc5NiwzMTA1ODA5MjIsLTEwODM3NDA5
+ODcsODQ2NjQ4MTY2LC0xOTY0ODc0NDA1LC0zMzEzNzA0NDMsLT
+E2MDcyNjU0NjUsMTA5MzUyMTQwOCwtMTM3OTkwMjg5Niw1NTg0
+NjI1NTMsLTEwNTU2NTI4NzIsNTM1NTQyNDMzLDkwNzU3NDkxOC
+wtMTA1MDY0NDM4MCwxNTkyMjIzMTg0LDY0NjI5MDE5Nyw4Mzcy
+NDU5OTVdfQ==
 -->
