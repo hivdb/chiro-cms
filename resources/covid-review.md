@@ -89,19 +89,6 @@ SARS-CoV and SARS-CoV-2 have two main cleavage sites. One is at the S1/S2 bounda
 
 This section describes interventions that interfere with virus entry including convalescent plasma, monoclonal antibodies that block S1 receptor binding, fusion inhibitors, and several other receptor binding inhibitors. Compounds that inhibit the host protease enzymes required for cleaving the S protein are described in the section on host-acting compounds.
 
-### Convalescent Plasma
-There are few randomized controlled studies of convalescent plasma for the treatment of severe viral infections. A systematic review and meta-analysis of seven studies of convalescent plasma or immunoglobulin for SARS-CoV was considered inconclusive with respect to potential benefits and harm[^10.1371/journal.pmed.0030343]. A larger, more recent meta-analysis of 32 studies of severe SARS-CoV and influenza, reported that administration of convalescent plasma early after symptom onset showed a statistically significant 75% reduction in the pooled odds of mortality compared with placebo or no therapy[^10.1093/infdis/jiu396]. Moreover, the administration of polyclonal immune globulin preparations have been shown to prevent hepatitis B and rabies infections.
-
-Two risk-benefit analyses and several experts have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 outweighs the small risk of undetected bloodborne infection and allergic reaction[^10.1016/j.tmrv.2020.04.001][^10.1172/JCI138745][^10.1007/s11684-017-0596-6][^10.1172/JCI138003]. According to FDA guidance, the administration of SARS-CoV-2 convalescent plasma must be under an investigational new drug application. Donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. The recommend neutralizing antibody titers should be 1:160 (minimum >1:80). However, because neutralizing antibodies cannot readily be detected in most laboratories, this requirement is waived provided blood samples can be stored for possible eventual testing. Additionally, the magnitude of SARS-CoV-2 receptor-binding domain antibodies appears to correlate strongly with viral neutralization[^10.1101/2020.05.03.20084442].
-
-Joyner et. al. reported the results of a safety review of the first 5,000 patients receiving convalescent plasma in the U.S. between April 3 and May 11 under the FDA Expanded Access Program[^10.1101/2020.05.12.20099879]. 81% were classified as having severe or life-threatening diseases and 19% were judged to be at high risk of progressing to severe or life-threatening disease. 66% were in the ICU. 36 (0.72%) had a serious adverse event in the first four hours after transfusion including 25 events considered related to transfusion, including death in 4, transfusion-associated lung injury in 11, circulatory overload in 7, and allergic reaction in 3. Overall, the seven day mortality was 14.9%[^10.1101/2020.05.12.20099879].
-
-In an open-label randomized controlled trial of 103 persons with severe or life-threatening disease, there was no overall difference in the primary endpoint of a 2-point improvement on a 6-point scale by day 28[^10.1001/jama.2020.10044]. However, in the subgroup with severe (but not life-threatening) disease, 21/23 receiving convalescent plasma vs. 15/22 in the control group achieved the primary outcome (p=0.03)[^10.1001/jama.2020.10044]. A similar finding was observed in another observational study of 39 hospitalized patients receiving convalescent plasma in that the risk of dying compared to matched controls was lower among patients not receiving mechanical ventilation (HR=0.19, 95% CI: 0.05-0.72; p=0.02) compared to mechanically ventilated patients (HR=1.24, 95% CI:0.33-4.67)[^10.1101/2020.05.20.20102236]. In several smaller observational studies, the overall response was generally but not always favorable[^10.1016/j.ajpath.2020.05.014][^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1093/infdis/jiaa228].
-
-There are currently more than 75 ongoing or planned clinical trials containing at least one arm in which recipients will receive convalescent plasma. At least 10 of these appear to be randomized controlled studies.
-
-___Conclusions: Although the use of convalescent plasma is not supported by controlled trials, substantial observational data supports this intervention. Nonetheless, there is sufficient uncertainty to justify the completion of the ongoing and planned randomized trials. The potential mechanism of this intervention can be confirmed by determining whether there is a correlation between neutralizing antibody titer and clinical response.___
-
 ### Monoclonal Antibodies
 Neutralizing monoclonal antibodies (MAbs) have been used to treat Ebola[^10.1126/science.aad5224][^10.1056/NEJMoa1910993] and prevent respiratory syncytial virus[^10.2165/00003495-199958020-00009] infections. Neutralizing MAbs have also be shown to reduce virus levels in HIV-1-infected persons but resistance emerges unless a combination of neutralizing MAbs is administered[^10.1038/nm.4268][^10.1038/s41586-018-0531-2].
 
@@ -141,7 +128,7 @@ The complete ACE2 molecule may not be necessary to inhibit viral infection if a 
 
 ___Conclusion: rhACE2 may prove to be useful in patients with the most severe cases of SARS-CoV-2 pneumonia.___
 
-## Additional Possible Entry Inhibitors
+### Additional Possible Entry Inhibitors
 Arbidol is an oral drug used in Russia and China to treat influenza and other viral infections[^10.1016/j.antiviral.2014.04.006][^10.1128/JVI.02077-15]. It is reported to have _in vitro_ activity against multiple viruses and to inhibit viral entry by binding viral surface glycoproteins[^10.1016/j.antiviral.2008.10.009]. Its SARS-CoV-2 EC<sub>50</sub>s has been reported to be between 5 and 10 μM with a selectivity index of about 8[^10.1101/2020.04.03.023846][^10.1038/s41421-020-0169-8]. A crystal structure of arbidol in complex with influenza hemagglutinin showed arbidol binding a hydrophobic cavity in the hemagglutinin trimer stem[^10.1073/pnas.1617020114]. There have been two open-label controlled trials in patients with SARS-CoV-2[^10.1101/2020.03.17.20037432][^10.1101/2020.03.19.20038984] and many small retrospective observational studies[^10.1016/j.jinf.2020.03.002][^10.1016/j.jinf.2020.03.060][^10.1101/2020.04.06.20042580]. One controlled trial suggested it was inferior to favipiravir at reducing time to clinical recovery[^10.1101/2020.03.17.20037432]; one observational trial suggested it was inferior to nebulized interferon α2b at reducing viral shedding; and one observational trial suggested that it may have been more effective than lopinavir/r at reducing viral shedding[^10.1016/j.jinf.2020.03.060].
 
 Spike-mimicking 20-mer peptides corresponding to different S1 and/or S2 regions were reported in one study to synergistically interfere with SARS-CoV entry into cells presumably by competing with complete virus for ACE2 binding[^PMID15918330]. However, few studies have described this approach. and the inhibition of ACE2 enzymatic function or down-regulation of ACE2 levels is precarious as the absence of ACE2 is associated with the same pulmonary and cardiovascular disturbances observed during severe SARS-CoV and presumably SARS-CoV-2 infection.
@@ -155,6 +142,21 @@ VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell
 One group has reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and weakly interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761].
 
 ___Conclusion: Heparin and enoxaparin are increasingly being used to prevent clotting in persons with severe disease. Whether these compound also have a clinically relevant antiviral effect is not known. Arbidol does not appear to be clinically efficacious. The remaining compounds in this section have not been  well studied.  ___
+
+
+## Convalescent Plasma
+There are few randomized controlled studies of convalescent plasma for the treatment of severe viral infections. A systematic review and meta-analysis of seven studies of convalescent plasma or immunoglobulin for SARS-CoV was considered inconclusive with respect to potential benefits and harm[^10.1371/journal.pmed.0030343]. A larger, more recent meta-analysis of 32 studies of severe SARS-CoV and influenza, reported that administration of convalescent plasma early after symptom onset showed a statistically significant 75% reduction in the pooled odds of mortality compared with placebo or no therapy[^10.1093/infdis/jiu396]. Moreover, the administration of polyclonal immune globulin preparations have been shown to prevent hepatitis B and rabies infections.
+
+Two risk-benefit analyses and several experts have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 outweighs the small risk of undetected bloodborne infection and allergic reaction[^10.1016/j.tmrv.2020.04.001][^10.1172/JCI138745][^10.1007/s11684-017-0596-6][^10.1172/JCI138003]. According to FDA guidance, the administration of SARS-CoV-2 convalescent plasma must be under an investigational new drug application. Donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. The recommend neutralizing antibody titers should be 1:160 (minimum >1:80). However, because neutralizing antibodies cannot readily be detected in most laboratories, this requirement is waived provided blood samples can be stored for possible eventual testing. Additionally, the magnitude of SARS-CoV-2 receptor-binding domain antibodies appears to correlate strongly with viral neutralization[^10.1101/2020.05.03.20084442].
+
+Joyner et. al. reported the results of a safety review of the first 5,000 patients receiving convalescent plasma in the U.S. between April 3 and May 11 under the FDA Expanded Access Program[^10.1101/2020.05.12.20099879]. 81% were classified as having severe or life-threatening diseases and 19% were judged to be at high risk of progressing to severe or life-threatening disease. 66% were in the ICU. 36 (0.72%) had a serious adverse event in the first four hours after transfusion including 25 events considered related to transfusion, including death in 4, transfusion-associated lung injury in 11, circulatory overload in 7, and allergic reaction in 3. Overall, the seven day mortality was 14.9%[^10.1101/2020.05.12.20099879].
+
+In an open-label randomized controlled trial of 103 persons with severe or life-threatening disease, there was no overall difference in the primary endpoint of a 2-point improvement on a 6-point scale by day 28[^10.1001/jama.2020.10044]. However, in the subgroup with severe (but not life-threatening) disease, 21/23 receiving convalescent plasma vs. 15/22 in the control group achieved the primary outcome (p=0.03)[^10.1001/jama.2020.10044]. A similar finding was observed in another observational study of 39 hospitalized patients receiving convalescent plasma in that the risk of dying compared to matched controls was lower among patients not receiving mechanical ventilation (HR=0.19, 95% CI: 0.05-0.72; p=0.02) compared to mechanically ventilated patients (HR=1.24, 95% CI:0.33-4.67)[^10.1101/2020.05.20.20102236]. In several smaller observational studies, the overall response was generally but not always favorable[^10.1016/j.ajpath.2020.05.014][^10.1073/pnas.2004168117][^10.1001/jama.2020.4783][^10.1016/j.chest.2020.03.039][^10.1093/infdis/jiaa228].
+
+There are currently more than 75 ongoing or planned clinical trials containing at least one arm in which recipients will receive convalescent plasma. At least 10 of these appear to be randomized controlled studies.
+
+___Conclusions: Although the use of convalescent plasma is not supported by controlled trials, substantial observational data supports this intervention. Nonetheless, there is sufficient uncertainty to justify the completion of the ongoing and planned randomized trials. The potential mechanism of this intervention can be confirmed by determining whether there is a correlation between neutralizing antibody titer and clinical response.___
+
 
 ## Interferons
 Interferons (IFNs) respond to the presence of cellular changes suggestive of a viral infection by inducing numerous genes (IFN-stimulated genes \[ISGs\]) involved in inflammation, signaling, and immunomodulation to protect against uncontrolled infection. They interfere with viral replication by slowing cell metabolism, interfering with the membrane formation required for virus replication, and inducing secretion of cytokines that promote adaptive immunity[^10.1016/j.antiviral.2020.104791]. The importance of IFN is underscored by the fact that most viruses, and in particular coronaviruses, create many protein products specifically designed to antagonize cellular IFN signaling pathways[^10.1016/j.coviro.2012.04.004][^10.1016/j.smim.2019.101300].
@@ -515,11 +517,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MzI4MTU4OCwyMDYxMDkwOTY4LC01Nz
-E2MDQ2MywtMTE5NjM4MjM3MiwtODYxOTY1Mzg2LDczNzk0NTMx
-Nyw2NDA0MjIyOTksLTEyMjMzNTgyNDcsOTM2OTAxNjc5LC05OD
-I4ODgwMjksMjEzODcyMzMwLC0xNzQ3NDE2NjcsMTA5MjM5Njks
-LTcxNjc2NzU3NywtNjYwOTE1OTU3LDE1MTY0OTMyMDYsLTI4Nz
-Y4MTc5NywtMTM3OTM1NDY1NSwtMTk5Njc4MTU4NywtMTQwODg2
-Njc4NV19
+eyJoaXN0b3J5IjpbMTMyMjA2MDk4OSwyMDUzMjgxNTg4LDIwNj
+EwOTA5NjgsLTU3MTYwNDYzLC0xMTk2MzgyMzcyLC04NjE5NjUz
+ODYsNzM3OTQ1MzE3LDY0MDQyMjI5OSwtMTIyMzM1ODI0Nyw5Mz
+Y5MDE2NzksLTk4Mjg4ODAyOSwyMTM4NzIzMzAsLTE3NDc0MTY2
+NywxMDkyMzk2OSwtNzE2NzY3NTc3LC02NjA5MTU5NTcsMTUxNj
+Q5MzIwNiwtMjg3NjgxNzk3LC0xMzc5MzU0NjU1LC0xOTk2Nzgx
+NTg3XX0=
 -->
