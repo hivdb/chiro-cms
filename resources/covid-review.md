@@ -178,7 +178,7 @@ ___Conclusion: Considering the multiple proteins produced by coronaviruses to do
 ## Additional Host-Targeting Compounds
 With the exception of interferons, all approved antivirals target specific steps in a virus’s replication cycle. However, the concept of developing drugs that target host pathways has gained increasing interest during the past several years and during the SARS-CoV-2 pandemic. Host-acting drugs have a number of theoretical advantages for treating acute pandemic infections. First, host acting antiviral drugs may have already been approved or undergone human testing for other conditions, making it possible to repurpose them to treat SARS-CoV-2. Second, host-acting drugs might be able to inhibit multiple viruses, since many viruses depend on similar host factors and pathways. Third, although drugs targeting host factors may have a higher risk of cellular toxicity compared to drugs that specifically target a virus protein, such toxicity may be acceptable for the relatively few days required to treat an acute viral infection.
 
-During the past 17 years, many compounds have been identified that appear to inhibit coronaviruses _in vitro_ by inhibiting a cellular protein, influencing a signaling pathway, or modifying a cellular organelle. For some of these compounds, it has been possible to determine their mechanism of action. However, it is difficult to pinpoint the mechanism of action for many other compounds. This section reviews compounds that appear to act primarily by influencing the host rather than the virus and that are described in multiple studies, demonstrate _in vitro_ potency, and have favorable safety profiles. These compounds have been categorized into those that (i) inhibit host proteases required for S protein cleavage; (ii) appear to inhibit virus endosomal trafficking; or (3) act by additional or uncertain mechanisms.
+During the past 17 years, many compounds have been identified that appear to inhibit coronaviruses _in vitro_ by inhibiting a cellular protein, influencing a signaling pathway, or modifying a cellular organelle. For some of these compounds, it has been possible to determine their mechanism of action. However, it is difficult to pinpoint the mechanism of action for many other compounds. This section reviews compounds that appear to act primarily by influencing the host rather than the virus and that are described in multiple studies, demonstrate _in vitro_ potency, and have favorable safety profiles. These compounds have been categorized into those that (i) inhibit host proteases required for S protein cleavage; (ii) appear to inhibit virus endosomal trafficking;  (iii) have been reported to stimulate host immunity act by additional or uncertain mechanisms.
 
 ### Host Protease Inhibitors
 The proteolytic activation of coronavirus spike proteins by host cell proteases is critical for the virus to transition from receptor attachment to cell fusion. Many host proteases have been shown to proteolytically process the spike (S) protein including cell surface proteases such as transmembrane protease/serine proteases (TMPRSSs), endosomal cathepsins, furin, and trypsin[^10.1016/j.virusres.2014.11.021][^10.1016/j.antiviral.2020.104792]. Coronaviruses usually require that S is cleaved at two sites – the S1/S2 juncture and at a second site within S2 referred to as S2’. The specific enzymes involved depend in part on the virus species, the amino acid sequence at the S1/S2 boundary and at the S2’ site, and the infected cells.
@@ -517,11 +517,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjA2MDk4OSwyMDUzMjgxNTg4LDIwNj
-EwOTA5NjgsLTU3MTYwNDYzLC0xMTk2MzgyMzcyLC04NjE5NjUz
-ODYsNzM3OTQ1MzE3LDY0MDQyMjI5OSwtMTIyMzM1ODI0Nyw5Mz
-Y5MDE2NzksLTk4Mjg4ODAyOSwyMTM4NzIzMzAsLTE3NDc0MTY2
-NywxMDkyMzk2OSwtNzE2NzY3NTc3LC02NjA5MTU5NTcsMTUxNj
-Q5MzIwNiwtMjg3NjgxNzk3LC0xMzc5MzU0NjU1LC0xOTk2Nzgx
-NTg3XX0=
+eyJoaXN0b3J5IjpbMTY0NDI3MDI4OCwxMzIyMDYwOTg5LDIwNT
+MyODE1ODgsMjA2MTA5MDk2OCwtNTcxNjA0NjMsLTExOTYzODIz
+NzIsLTg2MTk2NTM4Niw3Mzc5NDUzMTcsNjQwNDIyMjk5LC0xMj
+IzMzU4MjQ3LDkzNjkwMTY3OSwtOTgyODg4MDI5LDIxMzg3MjMz
+MCwtMTc0NzQxNjY3LDEwOTIzOTY5LC03MTY3Njc1NzcsLTY2MD
+kxNTk1NywxNTE2NDkzMjA2LC0yODc2ODE3OTcsLTEzNzkzNTQ2
+NTVdfQ==
 -->
