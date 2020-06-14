@@ -191,7 +191,7 @@ Several small molecule cathepsin inhibitors have also been shown to inhibit coro
 
 Several synthetic furin inhibitors have also shown to inhibit coronaviruses _in vitro_ including MI-1851, which inhibited SARS-CoV-2 alone and synergistically in combination with TMPRSS2 inhibitors[^10.1101/2020.04.15.042085], while dec-RVKR-CMK, which weakly inhibited MERS-CoV in a pseudovirus entry assay[^10.1073/pnas.1407087111].
 
-___Conclusion: As of June 4, there are six ongoing and six planned clinical trials of camostat, nafamostat, or another host protease inhibi It remains possible that the levels required for their in vitro inhibitory effects cannot be attained with current dosing schedules. It is also possible that additional host proteases including furin may need to be simultaneously inhibited. ___
+___Conclusion: As of June 4, there are six ongoing and six planned clinical trials of camostat, nafamostat, or another host protease inhibitor. These of inhibitors currently appears to be the most promising of  ___
 
 ### Endosomal Trafficking Inhibitors
 Chloroquine (CQ) and its analogs have been reported to have multiple intracellular actions that interfere with virus replication and/or the immune response to viral infections. CQ analogs are weak bases, that in their non-protonated form, penetrate and concentrate within acidic intracellular organelles such as endosomes and lysosomes. In these organelles, CQ analogs may interfere with the trafficking of viruses that require a pH-dependent step for entry[^10.1016/s1473-3099(03)00806-5][^10.1371/journal.ppat.1004502]. CQ analogs have also been reported to impair ACE2 glycosylation, which could theoretically diminish receptor binding by SARS-CoV and SARS-CoV-2[^10.1186/1743-422X-2-69]. They are also anti-inflammatory, and have been used for autoimmune conditions.
@@ -517,7 +517,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTIzNDY4NywxMzIyMDYwOTg5LDIwNT
+eyJoaXN0b3J5IjpbLTUxMTE5OTc3NiwxMzIyMDYwOTg5LDIwNT
 MyODE1ODgsMjA2MTA5MDk2OCwtNTcxNjA0NjMsLTExOTYzODIz
 NzIsLTg2MTk2NTM4Niw3Mzc5NDUzMTcsNjQwNDIyMjk5LC0xMj
 IzMzU4MjQ3LDkzNjkwMTY3OSwtOTgyODg4MDI5LDIxMzg3MjMz
