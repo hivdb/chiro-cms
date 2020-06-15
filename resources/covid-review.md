@@ -139,7 +139,7 @@ Griffithsin, a 121 amino acid protein isolated from red algae, inhibits SARS-CoV
 
 VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.chembiol.2004.07.013] but does not appear to have been studied further. HTCC polymers are cationically modified chitosan derivatives that appear to inhibit cell entry of multiple coronaviruses including MERS-CoV and SARS-CoV[^10.1101/2020.03.29.014183][^10.1371/journal.pone.0156552]. SARS-RBD-hexapeptide is weak inhibitor of SARS-CoV viral entry, but nonetheless suggests the possibility that small peptides may be able to inhibit the interaction of coronavirus S1 receptor binding domains and ACE2[^10.1016/j.antiviral.2011.12.012]. Emodin is a plant derivative that appears to weakly inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.antiviral.2006.04.014], although it has also been proposed to inhibit SARS-CoV release from cells[^10.1016/j.antiviral.2011.02.008].
 
-Two groups have reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and  interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761][^10.1101/2020.06.08.140236]. Administration of heparin intranasally has been proposed as a safe method of preventing spread of SARS-CoV-2 after initial infection 
+Two groups have reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and  interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761][^10.1101/2020.06.08.140236]. Administration of heparin intranasally has also been proposed as a method of preventing spread of SARS-CoV-2 after initial infection without increasing the risk of bleeding[^10.1101/2020.06.08.140236]. 
 
 ___Conclusion: Heparin and enoxaparin are increasingly being used to prevent clotting in persons with severe disease. Whether these compound also have a clinically relevant antiviral effect is not known. Arbidol does not appear to be clinically efficacious. The remaining compounds in this section have not been  well studied.  ___
 
@@ -517,11 +517,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njk5NTUyNDUsMTAwMzczNzI1NywxMj
-g3NzQ4NzgwLDEzMjIwNjA5ODksMjA1MzI4MTU4OCwyMDYxMDkw
-OTY4LC01NzE2MDQ2MywtMTE5NjM4MjM3MiwtODYxOTY1Mzg2LD
-czNzk0NTMxNyw2NDA0MjIyOTksLTEyMjMzNTgyNDcsOTM2OTAx
-Njc5LC05ODI4ODgwMjksMjEzODcyMzMwLC0xNzQ3NDE2NjcsMT
-A5MjM5NjksLTcxNjc2NzU3NywtNjYwOTE1OTU3LDE1MTY0OTMy
-MDZdfQ==
+eyJoaXN0b3J5IjpbOTkzMjcwMjgsMTAwMzczNzI1NywxMjg3Nz
+Q4NzgwLDEzMjIwNjA5ODksMjA1MzI4MTU4OCwyMDYxMDkwOTY4
+LC01NzE2MDQ2MywtMTE5NjM4MjM3MiwtODYxOTY1Mzg2LDczNz
+k0NTMxNyw2NDA0MjIyOTksLTEyMjMzNTgyNDcsOTM2OTAxNjc5
+LC05ODI4ODgwMjksMjEzODcyMzMwLC0xNzQ3NDE2NjcsMTA5Mj
+M5NjksLTcxNjc2NzU3NywtNjYwOTE1OTU3LDE1MTY0OTMyMDZd
+fQ==
 -->
