@@ -139,7 +139,7 @@ Griffithsin, a 121 amino acid protein isolated from red algae, inhibits SARS-CoV
 
 VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.chembiol.2004.07.013] but does not appear to have been studied further. HTCC polymers are cationically modified chitosan derivatives that appear to inhibit cell entry of multiple coronaviruses including MERS-CoV and SARS-CoV[^10.1101/2020.03.29.014183][^10.1371/journal.pone.0156552]. SARS-RBD-hexapeptide is weak inhibitor of SARS-CoV viral entry, but nonetheless suggests the possibility that small peptides may be able to inhibit the interaction of coronavirus S1 receptor binding domains and ACE2[^10.1016/j.antiviral.2011.12.012]. Emodin is a plant derivative that appears to weakly inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.antiviral.2006.04.014], although it has also been proposed to inhibit SARS-CoV release from cells[^10.1016/j.antiviral.2011.02.008].
 
-One group has reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and weakly interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761].
+Two groups have reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and  interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761].
 
 ___Conclusion: Heparin and enoxaparin are increasingly being used to prevent clotting in persons with severe disease. Whether these compound also have a clinically relevant antiviral effect is not known. Arbidol does not appear to be clinically efficacious. The remaining compounds in this section have not been  well studied.  ___
 
@@ -517,11 +517,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzczNzI1NywxMjg3NzQ4NzgwLDEzMj
-IwNjA5ODksMjA1MzI4MTU4OCwyMDYxMDkwOTY4LC01NzE2MDQ2
-MywtMTE5NjM4MjM3MiwtODYxOTY1Mzg2LDczNzk0NTMxNyw2ND
-A0MjIyOTksLTEyMjMzNTgyNDcsOTM2OTAxNjc5LC05ODI4ODgw
-MjksMjEzODcyMzMwLC0xNzQ3NDE2NjcsMTA5MjM5NjksLTcxNj
-c2NzU3NywtNjYwOTE1OTU3LDE1MTY0OTMyMDYsLTI4NzY4MTc5
-N119
+eyJoaXN0b3J5IjpbLTQwMzE2OTM4MiwxMDAzNzM3MjU3LDEyOD
+c3NDg3ODAsMTMyMjA2MDk4OSwyMDUzMjgxNTg4LDIwNjEwOTA5
+NjgsLTU3MTYwNDYzLC0xMTk2MzgyMzcyLC04NjE5NjUzODYsNz
+M3OTQ1MzE3LDY0MDQyMjI5OSwtMTIyMzM1ODI0Nyw5MzY5MDE2
+NzksLTk4Mjg4ODAyOSwyMTM4NzIzMzAsLTE3NDc0MTY2NywxMD
+kyMzk2OSwtNzE2NzY3NTc3LC02NjA5MTU5NTcsMTUxNjQ5MzIw
+Nl19
 -->
