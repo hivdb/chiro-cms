@@ -141,7 +141,7 @@ VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell
 
 Two groups have reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and  interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761][^10.1101/2020.06.08.140236]. Administration of heparin intranasally has also been proposed as a method of preventing spread of SARS-CoV-2 after initial infection without increasing the risk of bleeding[^10.1101/2020.06.08.140236]. 
 
-___Conclusion: Heparin and enoxaparin are increasingly being used to prevent clotting in persons with severe disease. They may also have a direct antiviral effect. Intranasal administration in early less severe infections Arbidol does not appear to be clinically efficacious. The remaining compounds in this section have not been  well studied.  ___
+___Conclusion: Heparin and enoxaparin are increasingly being used to prevent clotting in persons with severe disease. They may also have a direct antiviral effect. Intranasal administration in early less severe infections should be studied. Arbidol does not appear to be clinically efficacious. The remaining compounds in this section have not been  well studied.  ___
 
 
 ## Convalescent Plasma
@@ -517,7 +517,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDc1MjY2OCwxMDAzNzM3MjU3LDEyOD
+eyJoaXN0b3J5IjpbMTg4NzA1MTc4NCwxMDAzNzM3MjU3LDEyOD
 c3NDg3ODAsMTMyMjA2MDk4OSwyMDUzMjgxNTg4LDIwNjEwOTA5
 NjgsLTU3MTYwNDYzLC0xMTk2MzgyMzcyLC04NjE5NjUzODYsNz
 M3OTQ1MzE3LDY0MDQyMjI5OSwtMTIyMzM1ODI0Nyw5MzY5MDE2
