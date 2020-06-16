@@ -44,6 +44,8 @@
 - GenBank protein: [https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D)
 - Betacoronavirus BLAST:
 [https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus)
+- COVID-19 Data Protal:
+[https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
 - China National Center for Bioinformation
 [https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
 - UCSC Genome Browser:
@@ -60,8 +62,10 @@
 [https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true](https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true)
 - Coronavirus 3D Structure Database:
 [https://cov3d.ibbr.umd.edu/](https://cov3d.ibbr.umd.edu/)
-- COVID-3D
+- COVID-3D:
 [http://biosig.unimelb.edu.au/covid3d/](http://biosig.unimelb.edu.au/covid3d/)
+- COVID-19 Data Portal:
+[https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
 
 ### Chemical structures
 - American Chemical Society resources:
@@ -110,11 +114,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDc4Mjg3NiwtODE5MjExMjE4LDk1MT
-g3NjcxNiwtMTMwMDAyMzc5NiwzMTA1ODA5MjIsLTEwODM3NDA5
-ODcsODQ2NjQ4MTY2LC0xOTY0ODc0NDA1LC0zMzEzNzA0NDMsLT
-E2MDcyNjU0NjUsMTA5MzUyMTQwOCwtMTM3OTkwMjg5Niw1NTg0
-NjI1NTMsLTEwNTU2NTI4NzIsNTM1NTQyNDMzLDkwNzU3NDkxOC
-wtMTA1MDY0NDM4MCwxNTkyMjIzMTg0LDY0NjI5MDE5Nyw4Mzcy
-NDU5OTVdfQ==
+eyJoaXN0b3J5IjpbNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgxOT
+IxMTIxOCw5NTE4NzY3MTYsLTEzMDAwMjM3OTYsMzEwNTgwOTIy
+LC0xMDgzNzQwOTg3LDg0NjY0ODE2NiwtMTk2NDg3NDQwNSwtMz
+MxMzcwNDQzLC0xNjA3MjY1NDY1LDEwOTM1MjE0MDgsLTEzNzk5
+MDI4OTYsNTU4NDYyNTUzLC0xMDU1NjUyODcyLDUzNTU0MjQzMy
+w5MDc1NzQ5MTgsLTEwNTA2NDQzODAsMTU5MjIyMzE4NCw2NDYy
+OTAxOTddfQ==
 -->
