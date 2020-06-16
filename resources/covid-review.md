@@ -28,8 +28,8 @@ Further analysis of ACTT data containing results from a greater proportion of th
 
 ___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial. The optimal use of this drug will become clearer with further study. Remdesivir will likely become the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
 
-### β-D-N4-hydroxycytidine-5'-isopropyl ester (aka NHC and EIDD-2801)
-β-D-N4-hydroxycytidine is a cytidine analogue that exerts its activity primarily through viral mutagenesis in that it incorporates into new RNA strands but leads to large numbers of replication errors during subsequent rounds of replication [^10.1016/j.coviro.2019.04.002]. β-D-N4-hydroxycytidine-5'-isopropyl ester (EIDD-2801) is an orally available NHC prodrug. The mechanism by which EIDD=2801 eludes the proof-reading function of the coronavirus exonucleases is not known.
+### EIDD-2801
+β-D-N4-hydroxycytidine (NHC) is a cytidine analogue that exerts its activity primarily through viral mutagenesis in that it incorporates into new RNA strands but leads to large numbers of replication errors during subsequent rounds of replication [^10.1016/j.coviro.2019.04.002]. β-D-N4-hydroxycytidine-5'-isopropyl ester (EIDD-2801) is an orally available NHC prodrug. The mechanism by which EIDD=2801 eludes the proof-reading function of the coronavirus exonucleases is not known.
 
 EIDD-2801 has broad-spectrum antiviral activity against multiple coronaviruses including MERS-CoV, SARS-CoV, and SARS-CoV-2 with most EC<sub>50</sub>s below 1 μM[^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883]. It also has activity in primary human airway epithelial cells and reduced virus levels, disease, and lung damage in mouse models of SARS-CoV and MERS-CoV[^10.1126/scitranslmed.abb5883]. Deep sequencing studies have confirmed that viral mutagenesis is the main mechanism by which EIDD-2801 inhibits coronaviruses [^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883].
 
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM4ODk5MTIsMTg4NzA1MTc4NCwxMD
-AzNzM3MjU3LDEyODc3NDg3ODAsMTMyMjA2MDk4OSwyMDUzMjgx
-NTg4LDIwNjEwOTA5NjgsLTU3MTYwNDYzLC0xMTk2MzgyMzcyLC
-04NjE5NjUzODYsNzM3OTQ1MzE3LDY0MDQyMjI5OSwtMTIyMzM1
-ODI0Nyw5MzY5MDE2NzksLTk4Mjg4ODAyOSwyMTM4NzIzMzAsLT
-E3NDc0MTY2NywxMDkyMzk2OSwtNzE2NzY3NTc3LC02NjA5MTU5
-NTddfQ==
+eyJoaXN0b3J5IjpbLTEzMTc5MzcxODksLTIwNDM4ODk5MTIsMT
+g4NzA1MTc4NCwxMDAzNzM3MjU3LDEyODc3NDg3ODAsMTMyMjA2
+MDk4OSwyMDUzMjgxNTg4LDIwNjEwOTA5NjgsLTU3MTYwNDYzLC
+0xMTk2MzgyMzcyLC04NjE5NjUzODYsNzM3OTQ1MzE3LDY0MDQy
+MjI5OSwtMTIyMzM1ODI0Nyw5MzY5MDE2NzksLTk4Mjg4ODAyOS
+wyMTM4NzIzMzAsLTE3NDc0MTY2NywxMDkyMzk2OSwtNzE2NzY3
+NTc3XX0=
 -->
