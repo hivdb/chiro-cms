@@ -1,9 +1,11 @@
 ---
 pageTitle: SARS-CoV-2 Antiviral Therapy
+heroImage: covid-review.jpg
 introHeader: |-
   SARS-CoV-2 Antiviral Therapy
 content:
   _resource: covid-review.md
 toc: true
+collapsableLevels: ["h3"]
 escapeHtml: false
 ...

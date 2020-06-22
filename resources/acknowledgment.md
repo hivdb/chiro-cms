@@ -31,3 +31,5 @@ We'd like to appreciate and pay tribute to the authors of following open source 
 - Petri dish by [DataBase Center for Life Science](http://togotv.dbcls.jp/ja/togopic.2020.38.html): CC-BY-4.0
 - Mouse clip art by [Benjamin Wilhelm](https://commons.wikimedia.org/wiki/File:Icon_-_Mus_musculus.svg): CC0-1.0 (Public Domain)
 - References/articles clip art by [OpenClipart-Vectors](https://pixabay.com/vectors/manuscript-newspaper-article-paper-149606/): Pixabay License
+- Clinical trial clip art by [mcmurryjulie](https://pixabay.com/illustrations/clinical-trial-icon-clinical-trial-2793430/): Pixabay License
+- Signpost photo (used by /page/links/) by [geralt](https://pixabay.com/photos/directory-direction-next-right-4284013/): Pixabay License
