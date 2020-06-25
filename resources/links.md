@@ -4,7 +4,7 @@
 [https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
 [https://scisight.apps.allenai.org/](https://scisight.apps.allenai.org/)
 - National Library of Medicine LitCovid Database: [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
-- COVID-19 Research Articles Downloadable Database:
+- COVID-19 Research Articles:
 [https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html](https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html)
 
 
@@ -114,11 +114,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgxOT
-IxMTIxOCw5NTE4NzY3MTYsLTEzMDAwMjM3OTYsMzEwNTgwOTIy
-LC0xMDgzNzQwOTg3LDg0NjY0ODE2NiwtMTk2NDg3NDQwNSwtMz
-MxMzcwNDQzLC0xNjA3MjY1NDY1LDEwOTM1MjE0MDgsLTEzNzk5
-MDI4OTYsNTU4NDYyNTUzLC0xMDU1NjUyODcyLDUzNTU0MjQzMy
-w5MDc1NzQ5MTgsLTEwNTA2NDQzODAsMTU5MjIyMzE4NCw2NDYy
-OTAxOTddfQ==
+eyJoaXN0b3J5IjpbNDQzMzM5MjAxLDQ3NzI0NjEwNiwxMzE0Nz
+gyODc2LC04MTkyMTEyMTgsOTUxODc2NzE2LC0xMzAwMDIzNzk2
+LDMxMDU4MDkyMiwtMTA4Mzc0MDk4Nyw4NDY2NDgxNjYsLTE5Nj
+Q4NzQ0MDUsLTMzMTM3MDQ0MywtMTYwNzI2NTQ2NSwxMDkzNTIx
+NDA4LC0xMzc5OTAyODk2LDU1ODQ2MjU1MywtMTA1NTY1Mjg3Mi
+w1MzU1NDI0MzMsOTA3NTc0OTE4LC0xMDUwNjQ0MzgwLDE1OTIy
+MjMxODRdfQ==
 -->
