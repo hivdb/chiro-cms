@@ -40,7 +40,7 @@
 ### Sequences
 - Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
 - GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
-  - GenBank CoV Reference Sequences: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid11118%5BOrganism%3Aexp%5D+AND+srcdb_refseq%5BPROP%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid11118%5BOrganism%3Aexp%5D+AND+srcdb_refseq%5BPROP%5D)
+- GenBank CoV Reference Sequences: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid11118%5BOrganism%3Aexp%5D+AND+srcdb_refseq%5BPROP%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid11118%5BOrganism%3Aexp%5D+AND+srcdb_refseq%5BPROP%5D)
 - GenBank protein: [https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D)
 - Betacoronavirus BLAST:
 [https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus)
@@ -114,11 +114,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzMzM5MjAxLDQ3NzI0NjEwNiwxMzE0Nz
-gyODc2LC04MTkyMTEyMTgsOTUxODc2NzE2LC0xMzAwMDIzNzk2
-LDMxMDU4MDkyMiwtMTA4Mzc0MDk4Nyw4NDY2NDgxNjYsLTE5Nj
-Q4NzQ0MDUsLTMzMTM3MDQ0MywtMTYwNzI2NTQ2NSwxMDkzNTIx
-NDA4LC0xMzc5OTAyODk2LDU1ODQ2MjU1MywtMTA1NTY1Mjg3Mi
-w1MzU1NDI0MzMsOTA3NTc0OTE4LC0xMDUwNjQ0MzgwLDE1OTIy
-MjMxODRdfQ==
+eyJoaXN0b3J5IjpbLTIwMjY3NjA1MTEsNDc3MjQ2MTA2LDEzMT
+Q3ODI4NzYsLTgxOTIxMTIxOCw5NTE4NzY3MTYsLTEzMDAwMjM3
+OTYsMzEwNTgwOTIyLC0xMDgzNzQwOTg3LDg0NjY0ODE2NiwtMT
+k2NDg3NDQwNSwtMzMxMzcwNDQzLC0xNjA3MjY1NDY1LDEwOTM1
+MjE0MDgsLTEzNzk5MDI4OTYsNTU4NDYyNTUzLC0xMDU1NjUyOD
+cyLDUzNTU0MjQzMyw5MDc1NzQ5MTgsLTEwNTA2NDQzODAsMTU5
+MjIyMzE4NF19
 -->
