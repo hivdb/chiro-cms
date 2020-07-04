@@ -60,6 +60,8 @@
 ### Protein Structures
 - PDB:
 [https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true](https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true)
+- PDBsum: 
+[https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPage.pl?pdbcode=n/a&template=covid19.html](https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPage.pl?pdbcode=n/a&template=covid19.html)
 - Coronavirus 3D Structure Database:
 [https://cov3d.ibbr.umd.edu/](https://cov3d.ibbr.umd.edu/)
 - COVID-3D:
@@ -120,11 +122,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk3MjM0MTQsLTIwMjY3NjA1MTEsND
-c3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgxOTIxMTIxOCw5NTE4NzY3
-MTYsLTEzMDAwMjM3OTYsMzEwNTgwOTIyLC0xMDgzNzQwOTg3LD
-g0NjY0ODE2NiwtMTk2NDg3NDQwNSwtMzMxMzcwNDQzLC0xNjA3
-MjY1NDY1LDEwOTM1MjE0MDgsLTEzNzk5MDI4OTYsNTU4NDYyNT
-UzLC0xMDU1NjUyODcyLDUzNTU0MjQzMyw5MDc1NzQ5MTgsLTEw
-NTA2NDQzODBdfQ==
+eyJoaXN0b3J5IjpbLTEzMDg2NzUzLC0xNjI5NzIzNDE0LC0yMD
+I2NzYwNTExLDQ3NzI0NjEwNiwxMzE0NzgyODc2LC04MTkyMTEy
+MTgsOTUxODc2NzE2LC0xMzAwMDIzNzk2LDMxMDU4MDkyMiwtMT
+A4Mzc0MDk4Nyw4NDY2NDgxNjYsLTE5NjQ4NzQ0MDUsLTMzMTM3
+MDQ0MywtMTYwNzI2NTQ2NSwxMDkzNTIxNDA4LC0xMzc5OTAyOD
+k2LDU1ODQ2MjU1MywtMTA1NTY1Mjg3Miw1MzU1NDI0MzMsOTA3
+NTc0OTE4XX0=
 -->
