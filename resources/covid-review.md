@@ -33,7 +33,7 @@ ___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clin
 
 EIDD-2801 has broad-spectrum antiviral activity against multiple coronaviruses including MERS-CoV, SARS-CoV, and SARS-CoV-2 with most EC<sub>50</sub>s below 1 μM[^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883]. It also has activity in primary human airway epithelial cells and reduced virus levels, disease, and lung damage in mouse models of SARS-CoV and MERS-CoV[^10.1126/scitranslmed.abb5883]. Deep sequencing studies have confirmed that viral mutagenesis is the main mechanism by which EIDD-2801 inhibits coronaviruses [^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883].
 
-As of May 28, a phase I study in uninfected individuals has begun and two phase II studies patients with mild-to-moderate disease have begun.
+As of July 2020, a phase I study in uninfected individuals and two phase II studies patients with mild-to-moderate disease have begun [https://covdb.stanford.edu/clinical-trials/?compound=EIDD-2801&target=Polymerase](https://covdb.stanford.edu/clinical-trials/?compound=EIDD-2801&target=Polymerase).
 
 ___Conclusion: The preclinical in vitro and animal model data associated with EIDD-2801 are comparable to those of remdesivir. However, EIDD-2801’s safety  and clinical efficacy have not yet been established. Should the EIDD-2018 trials be successful, this drug may be a useful oral option in high-risk outpatients. Moreover, used in combination with remdesivir it might further reduce morbidity and mortality in patients with severe disease.___
 
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzY2NDg3MSw1NzkzMzg2MjEsLTEzMT
-c5MzcxODksLTIwNDM4ODk5MTIsMTg4NzA1MTc4NCwxMDAzNzM3
-MjU3LDEyODc3NDg3ODAsMTMyMjA2MDk4OSwyMDUzMjgxNTg4LD
-IwNjEwOTA5NjgsLTU3MTYwNDYzLC0xMTk2MzgyMzcyLC04NjE5
-NjUzODYsNzM3OTQ1MzE3LDY0MDQyMjI5OSwtMTIyMzM1ODI0Ny
-w5MzY5MDE2NzksLTk4Mjg4ODAyOSwyMTM4NzIzMzAsLTE3NDc0
-MTY2N119
+eyJoaXN0b3J5IjpbLTEzMzg1MTMyNTIsLTY0MzY2NDg3MSw1Nz
+kzMzg2MjEsLTEzMTc5MzcxODksLTIwNDM4ODk5MTIsMTg4NzA1
+MTc4NCwxMDAzNzM3MjU3LDEyODc3NDg3ODAsMTMyMjA2MDk4OS
+wyMDUzMjgxNTg4LDIwNjEwOTA5NjgsLTU3MTYwNDYzLC0xMTk2
+MzgyMzcyLC04NjE5NjUzODYsNzM3OTQ1MzE3LDY0MDQyMjI5OS
+wtMTIyMzM1ODI0Nyw5MzY5MDE2NzksLTk4Mjg4ODAyOSwyMTM4
+NzIzMzBdfQ==
 -->
