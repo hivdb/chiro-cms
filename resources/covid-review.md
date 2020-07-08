@@ -8,7 +8,7 @@ Remdesivir (GS-5734) is the monophosphate prodrug of the parent 1’-cyano-subst
 
 Remdesivir has broad spectrum activity against multiple RNA viruses and inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2 with most reported half-maximal effective concentrations (EC<sub>50</sub>s) below 1 μM[^10.1126/scitranslmed.aal3653][^10.1128/mBio.00221-18][^10.1038/s41467-019-13940-6][^10.1038/s41422-020-0282-0][^10.1101/2020.04.03.024257][^10.1016/j.antiviral.2020.104786][^10.1128/AAC.00819-20][^10.1101/2020.04.03.023846][^10.1101/2020.04.03.20052548][^10.1101/2020.04.27.064279]. It inhibits coronaviruses in multiple cell types including primary human airway epithelial cells[^10.1126/scitranslmed.aal3653][^10.1101/2020.04.27.064279]. Animal model experiments have demonstrated that remdesivir can reduce lung virus levels and lung damage in mice infected with MERS-CoV and SARS-CoV[^10.1126/scitranslmed.aal3653][^10.1016/j.antiviral.2020.104793], rhesus macaques infected with MERS-CoV[^10.1126/scitranslmed.aal3653][^10.1073/pnas.1922083117], and rhesus macaques infected with SARS-CoV-2[^10.1101/2020.04.15.043166].
 
-Remdesivir resistance in a related coronavirus – murine hepatitis virus (MHV) – has been selected during prolonged _in vitro_ passage in the presence of remdesivir[^10.1128/mBio.00221-18]. The remdesivir-resistant mutations are in the RdRp fingers domain. Introducing the homologous substitutions into SARS-CoV (F480L + V557L) resulted in a virus with reduced replication and about 6-fold reduced remdesivir susceptibility [^10.1128/mBio.00221-18].
+Remdesivir resistance in a related coronavirus has been selected in murine hepatitis virus (MHV) – has been selected during prolonged _in vitro_ passage in the presence of remdesivir[^10.1128/mBio.00221-18]. The remdesivir-resistant mutations are in the RdRp fingers domain. Introducing the homologous substitutions into SARS-CoV (F480L + V557L) resulted in a virus with reduced replication and about 6-fold reduced remdesivir susceptibility [^10.1128/mBio.00221-18].
 
 Remdesivir is administered intravenously with a loading dose of 200 mg followed by 100 mg daily for 5 to 10 days in adult patients[^10.1002/phar.2398][^10.1016/j.onehlt.2020.100128]. Following intravenous administration, the achievable maximum remdesivir plasma concentration (Cmax) is predicted to be at least twice as high as its most commonly reported EC<sub>50</sub>s[^10.1002/cpt.1909].
 
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5MzM4NjIxLC0xMzE3OTM3MTg5LC0yMD
-QzODg5OTEyLDE4ODcwNTE3ODQsMTAwMzczNzI1NywxMjg3NzQ4
-NzgwLDEzMjIwNjA5ODksMjA1MzI4MTU4OCwyMDYxMDkwOTY4LC
-01NzE2MDQ2MywtMTE5NjM4MjM3MiwtODYxOTY1Mzg2LDczNzk0
-NTMxNyw2NDA0MjIyOTksLTEyMjMzNTgyNDcsOTM2OTAxNjc5LC
-05ODI4ODgwMjksMjEzODcyMzMwLC0xNzQ3NDE2NjcsMTA5MjM5
-NjldfQ==
+eyJoaXN0b3J5IjpbLTEwNzIwMzM3NTQsNTc5MzM4NjIxLC0xMz
+E3OTM3MTg5LC0yMDQzODg5OTEyLDE4ODcwNTE3ODQsMTAwMzcz
+NzI1NywxMjg3NzQ4NzgwLDEzMjIwNjA5ODksMjA1MzI4MTU4OC
+wyMDYxMDkwOTY4LC01NzE2MDQ2MywtMTE5NjM4MjM3MiwtODYx
+OTY1Mzg2LDczNzk0NTMxNyw2NDA0MjIyOTksLTEyMjMzNTgyND
+csOTM2OTAxNjc5LC05ODI4ODgwMjksMjEzODcyMzMwLC0xNzQ3
+NDE2NjddfQ==
 -->
