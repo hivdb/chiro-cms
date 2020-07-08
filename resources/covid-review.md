@@ -1,10 +1,10 @@
 ## Polymerase Inhibitors
 RNA-dependent RNA polymerases (RdRps) catalyze phosphodiester bond formation between nucleoside triphosphates in an RNA-templated manner. RdRps are highly conserved in their structural and functional features, even among diverse RNA viruses belonging to different families[^10.3390/v11080745]. Coronavirus RNA polymerization, however, is more complex than that of other viruses. First, coronaviruses contain a 3’-to-5’ exoribonuclease (ExoN; nsp14) which is required for replication fidelity[^10.1073/pnas.0508200103]. ExoN is responsible for the intrinsic resistance of coronavirus species to ribavirin and several other nucleoside analogs [^10.1371/journal.ppat.1003565][^10.1073/pnas.1718806115]. Second, coronavirus RdRp (nsp12) requires two accessory proteins (nsp7 and nsp8). The 3D structure of the nsp12-nsp7-nsp8 complex of SARS-CoV [^10.1038/s41467-019-10280-3] and SARS-CoV-2 [^10.1126/science.abb7498][^10.1126/science.abc1560] have been solved by cryo-EM.
 
-Polymerase inhibitors are the most commonly used antiviral agents and have formed the backbone of most HIV, hepatitis B, hepatitis C, and herpes virus treatments. Nucleoside analog inhibitors are also often broad-spectrum possessing activity against multiple related virus species. Most antiviral polymerase inhibitors lack a 3’-hydroxyl group and act as nucleoside analog chain terminators. Others contain a 3'-hydroxyl group yet still result in immediate or delayed chain termination. Finally, some nucleoside analogs become incorporated into viral genomes and inhibit replication by introducing mutations during subsequent rounds of virus replication.
+Most antiviral polymerase inhibitors lack a 3’-hydroxyl group and act as nucleoside analog chain terminators. Others contain a 3'-hydroxyl group yet still result in immediate or delayed chain termination. Finally, some nucleoside analogs become incorporated into viral genomes and inhibit replication by introducing mutations during subsequent rounds of virus replication.
 
 ### Remdesivir
-Remdesivir (GS-5734) is the monophosphate prodrug of the parent 1’-cyano-substituted adenine C-nucleoside analogue GS-441524[^10.1021/acs.jmedchem.6b01594]. The presence of the phosphate group allows for more efficient metabolism of the prodrug to the active nucleoside triphosphate form bypassing the rate-limiting first phosphorylation step[^10.1038/nature17180]. Remdesivir is a nonobligate chain terminator in that it contains a 3’-OH group. However, it causes delayed chain termination due to a steric clash after the addition of three trailing nucleosides[^10.1074/jbc.AC120.013056][^10.1074/jbc.RA120.013679][^10.1016/j.antiviral.2020.104793]. The mechanism by which it eludes coronavirus exonucleases is not known.
+Remdesivir (GS-5734) is the monophosphate prodrug of the parent 1’-cyano-substituted adenine C-nucleoside analogue GS-441524[^10.1021/acs.jmedchem.6b01594]. The presence of the phosphate group allows for more efficient metabolism of the prodrug to the active nucleoside triphosphate form bypassing the rate-limiting first phosphorylation step[^10.1038/nature17180]. Remdesivir is a nonobligate chain terminator in that it contains a 3’-OH group. It causes delayed chain termination due to a steric clash after the addition of three trailing nucleosides[^10.1074/jbc.AC120.013056][^10.1074/jbc.RA120.013679][^10.1016/j.antiviral.2020.104793]. The mechanism by which it eludes coronavirus exonucleases is not known.
 
 Remdesivir has broad spectrum activity against multiple RNA viruses and inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2 with most reported half-maximal effective concentrations (EC<sub>50</sub>s) below 1 μM[^10.1126/scitranslmed.aal3653][^10.1128/mBio.00221-18][^10.1038/s41467-019-13940-6][^10.1038/s41422-020-0282-0][^10.1101/2020.04.03.024257][^10.1016/j.antiviral.2020.104786][^10.1128/AAC.00819-20][^10.1101/2020.04.03.023846][^10.1101/2020.04.03.20052548][^10.1101/2020.04.27.064279]. It inhibits coronaviruses in multiple cell types including primary human airway epithelial cells[^10.1126/scitranslmed.aal3653][^10.1101/2020.04.27.064279]. Animal model experiments have demonstrated that remdesivir can reduce lung virus levels and lung damage in mice infected with MERS-CoV and SARS-CoV[^10.1126/scitranslmed.aal3653][^10.1016/j.antiviral.2020.104793], rhesus macaques infected with MERS-CoV[^10.1126/scitranslmed.aal3653][^10.1073/pnas.1922083117], and rhesus macaques infected with SARS-CoV-2[^10.1101/2020.04.15.043166].
 
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc5MzcxODksLTIwNDM4ODk5MTIsMT
-g4NzA1MTc4NCwxMDAzNzM3MjU3LDEyODc3NDg3ODAsMTMyMjA2
-MDk4OSwyMDUzMjgxNTg4LDIwNjEwOTA5NjgsLTU3MTYwNDYzLC
-0xMTk2MzgyMzcyLC04NjE5NjUzODYsNzM3OTQ1MzE3LDY0MDQy
-MjI5OSwtMTIyMzM1ODI0Nyw5MzY5MDE2NzksLTk4Mjg4ODAyOS
-wyMTM4NzIzMzAsLTE3NDc0MTY2NywxMDkyMzk2OSwtNzE2NzY3
-NTc3XX0=
+eyJoaXN0b3J5IjpbNTc5MzM4NjIxLC0xMzE3OTM3MTg5LC0yMD
+QzODg5OTEyLDE4ODcwNTE3ODQsMTAwMzczNzI1NywxMjg3NzQ4
+NzgwLDEzMjIwNjA5ODksMjA1MzI4MTU4OCwyMDYxMDkwOTY4LC
+01NzE2MDQ2MywtMTE5NjM4MjM3MiwtODYxOTY1Mzg2LDczNzk0
+NTMxNyw2NDA0MjIyOTksLTEyMjMzNTgyNDcsOTM2OTAxNjc5LC
+05ODI4ODgwMjksMjEzODcyMzMwLC0xNzQ3NDE2NjcsMTA5MjM5
+NjldfQ==
 -->
