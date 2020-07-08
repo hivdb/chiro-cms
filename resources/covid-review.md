@@ -35,7 +35,7 @@ EIDD-2801 has broad-spectrum antiviral activity against multiple coronaviruses i
 
 As of July 2020, a phase I study in uninfected individuals and two phase II studies patients with mild-to-moderate disease have begun [https://covdb.stanford.edu/clinical-trials/?compound=EIDD-2801&target=Polymerase](https://covdb.stanford.edu/clinical-trials/?compound=EIDD-2801&target=Polymerase).
 
-___Conclusion: The preclinical in vitro and animal model data associated with EIDD-2801 are comparable to those of remdesivir. However, EIDD-2801’s safety  and clinical efficacy have not yet been established. Should the EIDD-2018 trials be successful, this drug may be a useful oral option in high-risk outpatients. Moreover, used in combination with remdesivir it might further reduce morbidity and mortality in patients with severe disease.___
+___Conclusion: The preclinical in vitro and animal model data associated with EIDD-2801 are comparable to those of remdesivir. However, EIDD-2801’s safety  and clinical efficacy have not yet been established. Should EIDD-2018 trials be successful, this drug may be a useful oral option in high-risk outpatients. ___
 
 ### Other Nucleoside Analogs
 Ribavirin is a nucleoside analog with modest activity against several viruses. Although multiple mechanisms for its activity have been proposed, the most likely is an increase in viral mutagenesis. In cell culture studies, it has demonstrated little, if any, activity against coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1016/s0140-6736(03)13615-x][^10.1177/095632020401500102][^10.1016/j.jinf.2013.09.029][^10.1099/vir.0.061911-0][^10.1038/srep01686][^10.1016/j.antiviral.2020.104786][^10.1016/S0140-6736(20)31022-9]. Structural and biochemical studies have shown that although ribavirin 5’-monophosphate can be incorporated during RNA synthesis, it is readily excised by nsp14, the coronavirus exonuclease. Multiple observational clinical studies of patients with SARS-CoV, and to a lesser extent in patients with MERS-CoV have shown no evidence for clinical benefit while demonstrating a high risk of toxicity[^10.1371/journal.pmed.0030343].
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg1MTMyNTIsLTY0MzY2NDg3MSw1Nz
-kzMzg2MjEsLTEzMTc5MzcxODksLTIwNDM4ODk5MTIsMTg4NzA1
-MTc4NCwxMDAzNzM3MjU3LDEyODc3NDg3ODAsMTMyMjA2MDk4OS
-wyMDUzMjgxNTg4LDIwNjEwOTA5NjgsLTU3MTYwNDYzLC0xMTk2
-MzgyMzcyLC04NjE5NjUzODYsNzM3OTQ1MzE3LDY0MDQyMjI5OS
-wtMTIyMzM1ODI0Nyw5MzY5MDE2NzksLTk4Mjg4ODAyOSwyMTM4
-NzIzMzBdfQ==
+eyJoaXN0b3J5IjpbMTUwNzU5MjQ2MSwtNjQzNjY0ODcxLDU3OT
+MzODYyMSwtMTMxNzkzNzE4OSwtMjA0Mzg4OTkxMiwxODg3MDUx
+Nzg0LDEwMDM3MzcyNTcsMTI4Nzc0ODc4MCwxMzIyMDYwOTg5LD
+IwNTMyODE1ODgsMjA2MTA5MDk2OCwtNTcxNjA0NjMsLTExOTYz
+ODIzNzIsLTg2MTk2NTM4Niw3Mzc5NDUzMTcsNjQwNDIyMjk5LC
+0xMjIzMzU4MjQ3LDkzNjkwMTY3OSwtOTgyODg4MDI5LDIxMzg3
+MjMzMF19
 -->
