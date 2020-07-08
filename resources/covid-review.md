@@ -8,7 +8,7 @@ Remdesivir (GS-5734) is the monophosphate prodrug of the parent 1’-cyano-subst
 
 Remdesivir has broad spectrum activity against multiple RNA viruses and inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2 with most reported half-maximal effective concentrations (EC<sub>50</sub>s) below 1 μM[^10.1126/scitranslmed.aal3653][^10.1128/mBio.00221-18][^10.1038/s41467-019-13940-6][^10.1038/s41422-020-0282-0][^10.1101/2020.04.03.024257][^10.1016/j.antiviral.2020.104786][^10.1128/AAC.00819-20][^10.1101/2020.04.03.023846][^10.1101/2020.04.03.20052548][^10.1101/2020.04.27.064279]. It inhibits coronaviruses in multiple cell types including primary human airway epithelial cells[^10.1126/scitranslmed.aal3653][^10.1101/2020.04.27.064279]. Animal model experiments have demonstrated that remdesivir can reduce lung virus levels and lung damage in mice infected with MERS-CoV and SARS-CoV[^10.1126/scitranslmed.aal3653][^10.1016/j.antiviral.2020.104793], rhesus macaques infected with MERS-CoV[^10.1126/scitranslmed.aal3653][^10.1073/pnas.1922083117], and rhesus macaques infected with SARS-CoV-2[^10.1101/2020.04.15.043166].
 
-Remdesivir resistance in a related coronavirus has been selected in murine hepatitis virus (MHV) – has been selected during prolonged _in vitro_ passage in the presence of remdesivir[^10.1128/mBio.00221-18]. The remdesivir-resistant mutations are in the RdRp fingers domain. Introducing the homologous substitutions into SARS-CoV (F480L + V557L) resulted in a virus with reduced replication and about 6-fold reduced remdesivir susceptibility [^10.1128/mBio.00221-18].
+Remdesivir resistance in a related coronavirus has been selected in the murine hepatitis virus (MHV) during prolonged _in vitro_ passage in the presence of remdesivir[^10.1128/mBio.00221-18]. The remdesivir-resistant mutations are in the RdRp fingers domain. Introducing the homologous substitutions into SARS-CoV (F480L + V557L) resulted in a virus with reduced replication and about 6-fold reduced remdesivir susceptibility [^10.1128/mBio.00221-18].
 
 Remdesivir is administered intravenously with a loading dose of 200 mg followed by 100 mg daily for 5 to 10 days in adult patients[^10.1002/phar.2398][^10.1016/j.onehlt.2020.100128]. Following intravenous administration, the achievable maximum remdesivir plasma concentration (Cmax) is predicted to be at least twice as high as its most commonly reported EC<sub>50</sub>s[^10.1002/cpt.1909].
 
@@ -22,9 +22,9 @@ At baseline, ~12% did not require supplemental O2, ~40% required supplemental O2
 
 Patients receiving remdesivir had a median recovery time of 11 days (95% CI, 9 to 12) vs. 15 days (95% CI, 13 to 19) for the placebo group; P<0.001). Kaplan-Meier estimates of mortality by 14 days were 7.1% with remdesivir vs. 11.9% with placebo (HR: 0.70; 95% CI, 0.47 to 1.04). Serious adverse events occurred at similar rates in both groups (21.1% vs 27.0%). In subgroup analysis, the remdesivir recovery rate ratio was highest and statistically significant in the group receiving O2 (1.47), it was numerically higher but not statistically significant in the group not receiving O2 (1.38) or receiving noninvasive ventilation or high-flow O2 (1.2). It was 0.95 in the group receiving mechanical ventilation or ECMO.
 
-Based on the ACTT results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
+Based on the ACTT results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). Further analysis of ACTT data containing results from a greater proportion of the participants and containing virological response data are likely to be published in the future. 
 
-Further analysis of ACTT data containing results from a greater proportion of the participants and containing virological response data are likely to be published in the future. Another recently published study reported that a five day course of therapy was as efficacious as a ten day course of therapy in hospitalized patients with an SpO2 ≤ 94% who did not require mechanical ventilation [^10.1056/NEJMoa2015301]. However, the patients in the ten day treatment arm had greater baseline disease severity than those in the five day treatment arm.
+Another recently published study reported that a five day course of therapy was as efficacious as a ten day course of therapy in hospitalized patients with an SpO2 ≤ 94% who did not require mechanical ventilation [^10.1056/NEJMoa2015301]. However, the patients in the ten day treatment arm had greater baseline disease severity than those in the five day treatment arm.
 
 ___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial. The optimal use of this drug will become clearer with further study. Remdesivir will likely become the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
 
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzIwMzM3NTQsNTc5MzM4NjIxLC0xMz
-E3OTM3MTg5LC0yMDQzODg5OTEyLDE4ODcwNTE3ODQsMTAwMzcz
-NzI1NywxMjg3NzQ4NzgwLDEzMjIwNjA5ODksMjA1MzI4MTU4OC
-wyMDYxMDkwOTY4LC01NzE2MDQ2MywtMTE5NjM4MjM3MiwtODYx
-OTY1Mzg2LDczNzk0NTMxNyw2NDA0MjIyOTksLTEyMjMzNTgyND
-csOTM2OTAxNjc5LC05ODI4ODgwMjksMjEzODcyMzMwLC0xNzQ3
-NDE2NjddfQ==
+eyJoaXN0b3J5IjpbMjE0MDMxOTg5Myw1NzkzMzg2MjEsLTEzMT
+c5MzcxODksLTIwNDM4ODk5MTIsMTg4NzA1MTc4NCwxMDAzNzM3
+MjU3LDEyODc3NDg3ODAsMTMyMjA2MDk4OSwyMDUzMjgxNTg4LD
+IwNjEwOTA5NjgsLTU3MTYwNDYzLC0xMTk2MzgyMzcyLC04NjE5
+NjUzODYsNzM3OTQ1MzE3LDY0MDQyMjI5OSwtMTIyMzM1ODI0Ny
+w5MzY5MDE2NzksLTk4Mjg4ODAyOSwyMTM4NzIzMzAsLTE3NDc0
+MTY2N119
 -->
