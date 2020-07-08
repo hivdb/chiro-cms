@@ -26,7 +26,7 @@ Based on the ACTT results, the FDA issued an Emergency Use Authorization for the
 
 Another recently published study reported that a five day course of therapy was as efficacious as a ten day course of therapy in hospitalized patients with an SpO2 ≤ 94% who did not require mechanical ventilation [^10.1056/NEJMoa2015301]. However, the patients in the ten day treatment arm had greater baseline disease severity than those in the five day treatment arm.
 
-___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial. The optimal use of this drug will become clearer with further study. Remdesivir will likely become the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
+___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial. The optimal use of this drug will become clearer with further study. Remdesivir will likely be the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
 
 ### EIDD-2801
 β-D-N4-hydroxycytidine (NHC) is a cytidine analogue that exerts its activity primarily through viral mutagenesis in that it incorporates into new RNA strands but leads to large numbers of replication errors during subsequent rounds of replication [^10.1016/j.coviro.2019.04.002]. β-D-N4-hydroxycytidine-5'-isopropyl ester (EIDD-2801) is an orally available NHC prodrug. The mechanism by which EIDD=2801 eludes the proof-reading function of the coronavirus exonucleases is not known.
@@ -521,7 +521,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDMxOTg5Myw1NzkzMzg2MjEsLTEzMT
+eyJoaXN0b3J5IjpbLTY0MzY2NDg3MSw1NzkzMzg2MjEsLTEzMT
 c5MzcxODksLTIwNDM4ODk5MTIsMTg4NzA1MTc4NCwxMDAzNzM3
 MjU3LDEyODc3NDg3ODAsMTMyMjA2MDk4OSwyMDUzMjgxNTg4LD
 IwNjEwOTA5NjgsLTU3MTYwNDYzLC0xMTk2MzgyMzcyLC04NjE5
