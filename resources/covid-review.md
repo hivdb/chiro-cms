@@ -60,7 +60,7 @@ Lopinavir displays weak inhibitory activity against SARS-CoV, MERS-CoV, and SARS
 
 In an open-label randomized controlled trial of lopinavir/r vs. standard-of-care in 199 hospitalized adults with SARS-CoV-2 infection and SatO<sub>2</sub> levels 94% or PaO<sub>2</sub> /FiO<sub>2</sub>  <300, demonstrated no significant difference in days to virological clearance, clinical improvement, need for mechanical ventilation, or mortality[^10.1056/NEJMoa2001282].
 
-Among the remaining HIV-1 PIs, only nelfinavir and atazanavir appeared to have any coronavirus inhibitory activity. Most nelfinavir EC<sub>50</sub>s for SARS-CoV, MERS-CoV, and SARS-CoV-2 were between 1 and 5 μM, although one value was 0.5 μM and another was >100 μM[^10.1177/095632020601700505][^10.1016/j.bbrc.2004.04.083][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983][^10.1101/2020.02.25.965582][^10.1016/j.jinf.2013.09.029]. Its IC<sub>50</sub> against SARS-CoV 3CLpro in a biochemical experiment was 46 μM[^10.1016/j.bbrc.2005.05.095]. Likewise, there was a wide range of atazanavir susceptibilities against the pandemic coronaviruses with EC<sub>50</sub>s ranging between 0.2 and 2 μM in one study[^10.1101/2020.04.04.020925] but as high as 9.4 and >50 μM in three other studies[^10.1128/AAC.00819-20][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983]. Darunavir consistently displayed poor activity against SARS-CoV-2[^10.1101/2020.04.03.20052548][^10.1101/2020.04.06.026476].
+Among the remaining HIV-1 PIs, nelfinavir and atazanavir appeared to have any coronavirus inhibitory activity. Most nelfinavir EC<sub>50</sub>s for SARS-CoV, MERS-CoV, and SARS-CoV-2 were between 1 and 5 μM, although one value was 0.5 μM and another was >100 μM[^10.1177/095632020601700505][^10.1016/j.bbrc.2004.04.083][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983][^10.1101/2020.02.25.965582][^10.1016/j.jinf.2013.09.029]. Its IC<sub>50</sub> against SARS-CoV 3CLpro in a biochemical experiment was 46 μM[^10.1016/j.bbrc.2005.05.095]. Likewise, there was a wide range of atazanavir susceptibilities against the pandemic coronaviruses with EC<sub>50</sub>s ranging between 0.2 and 2 μM in one study[^10.1101/2020.04.04.020925] but as high as 9.4 and >50 μM in three other studies[^10.1128/AAC.00819-20][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983]. Darunavir consistently displayed poor activity against SARS-CoV-2[^10.1101/2020.04.03.20052548][^10.1101/2020.04.06.026476].
 
 ___Conclusion: Lopinavir/r does not inhibit coronaviruses in vitro and displays little or no clinical efficacy. However, as of May 28, 2020, there were 32 ongoing and 9 planned trials containing a lopinavir/r treatment arm. ___
 
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc3NzIwNzUsLTEyMzQ3MTI0OTgsMT
-MzMDUwMzgyLDg5OTAxMjM5MSwtNDM3MDc2MDU0LDE0NDQxODk2
-NDksMjA1NTg4NjQ1NSwzMzU2NzAwMTcsMTkyOTQ4MzgxOCwxNj
-IxODQ2NzI5LC00NzE1Mzc5NTUsLTE5MTQ3NjEyMSwxNTA3NTky
-NDYxLC02NDM2NjQ4NzEsNTc5MzM4NjIxLC0xMzE3OTM3MTg5LC
-0yMDQzODg5OTEyLDE4ODcwNTE3ODQsMTAwMzczNzI1NywxMjg3
-NzQ4NzgwXX0=
+eyJoaXN0b3J5IjpbMTQ0MDMzMTg1OSwtMTIzNDcxMjQ5OCwxMz
+MwNTAzODIsODk5MDEyMzkxLC00MzcwNzYwNTQsMTQ0NDE4OTY0
+OSwyMDU1ODg2NDU1LDMzNTY3MDAxNywxOTI5NDgzODE4LDE2Mj
+E4NDY3MjksLTQ3MTUzNzk1NSwtMTkxNDc2MTIxLDE1MDc1OTI0
+NjEsLTY0MzY2NDg3MSw1NzkzMzg2MjEsLTEzMTc5MzcxODksLT
+IwNDM4ODk5MTIsMTg4NzA1MTc4NCwxMDAzNzM3MjU3LDEyODc3
+NDg3ODBdfQ==
 -->
