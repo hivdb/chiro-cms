@@ -76,7 +76,7 @@ Disulfiram, the licensed oral alcohol antagonist has been reported to inhibit SA
 ___Conclusion: There are several promising lead compounds that could be developed into effective SARS-CoV-2 drugs. GC376 and ebselen display low μM activity and have been studied in cats and humans, respectively. However, they are probably not potent enough to be useful clinically without further chemical modifications. Other peptidomimetic compounds have greater inhibitory in vitro activity but have not yet been studied in animals or humans. ___
 
 ### PLpro Investigational Inhibitors
- In contrast to 3CLpro, the PLpro enzyme is membrane associated, making it more challenging to study in vitro. Nonetheless, several crystal structures of SARS-CoV-2 PLpro have been deposited in the Protein Data Bank, although their publications are currently pending. PLpro has fewer homologues in other viruses, so there are fewer compounds that can serve as starting points for drug development. Nonetheless, 6-thioguanine, a drug approved in the U.S. and used for the treatment of hematological malignancies and autoimmune conditions, has demonstrated activity in biochemical assays
+In contrast to 3CLpro, the PLpro enzyme is membrane associated, making it more challenging to study in vitro. Nonetheless, several crystal structures of SARS-CoV-2 PLpro have been deposited in the Protein Data Bank, although their publications are currently pending. PLpro has fewer homologues in other viruses, so there are fewer compounds that can serve as starting points for drug development. However, 6-thioguanine, a drug approved in the U.S. and used for the treatment of hematological malignancies and autoimmune conditions, has demonstrated activity in biochemical and cell culture assays[^10.1101/2020.07.01.183020]. Several lead compounds have been identified in other studies
 several lead compounds have been identified including 6-thioguanine which is licensed in the U.S. and used for the treatment of hematological malignancies[^10.1016/j.antiviral.2014.12.015][^10.1002/cmdc.202000223].
 
 ## Entry Inhibitors
@@ -522,11 +522,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTU3NjE0NywtMjAxOTc5ODAyMSw0Mz
-QzODM2ODksMjE4OTk5MDQyLDE2NTY5NDUwNTEsMTQ0MDMzMTg1
-OSwtMTIzNDcxMjQ5OCwxMzMwNTAzODIsODk5MDEyMzkxLC00Mz
-cwNzYwNTQsMTQ0NDE4OTY0OSwyMDU1ODg2NDU1LDMzNTY3MDAx
-NywxOTI5NDgzODE4LDE2MjE4NDY3MjksLTQ3MTUzNzk1NSwtMT
-kxNDc2MTIxLDE1MDc1OTI0NjEsLTY0MzY2NDg3MSw1NzkzMzg2
-MjFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTkxOTU3MjYsLTIwMTk3OTgwMjEsND
+M0MzgzNjg5LDIxODk5OTA0MiwxNjU2OTQ1MDUxLDE0NDAzMzE4
+NTksLTEyMzQ3MTI0OTgsMTMzMDUwMzgyLDg5OTAxMjM5MSwtND
+M3MDc2MDU0LDE0NDQxODk2NDksMjA1NTg4NjQ1NSwzMzU2NzAw
+MTcsMTkyOTQ4MzgxOCwxNjIxODQ2NzI5LC00NzE1Mzc5NTUsLT
+E5MTQ3NjEyMSwxNTA3NTkyNDYxLC02NDM2NjQ4NzEsNTc5MzM4
+NjIxXX0=
 -->
