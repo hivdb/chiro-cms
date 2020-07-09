@@ -76,7 +76,8 @@ Disulfiram, the licensed oral alcohol antagonist has been reported to inhibit SA
 ___Conclusion: There are several promising lead compounds that could be developed into effective SARS-CoV-2 drugs. GC376 and ebselen display low μM activity and have been studied in cats and humans, respectively. However, they are probably not potent enough to be useful clinically without further chemical modifications. Other peptidomimetic compounds have greater inhibitory in vitro activity but have not yet been studied in animals or humans. ___
 
 ### PLpro Investigational Inhibitors
- In contrast to 3CLpro, the PLpro enzyme is membrane associated, making it more challenging to study in vitro. Nonetheless, several crystal structures of SARS-CoV-2 PLpro have been deposited in the Protein Data Bank, although their publications are currently pending. PLpro has fewer homologues in other viruses, so there are fewer compounds that can serve as starting points for drug development. Nonetheless, several lead compounds have been identified including 6-thioguanine which is licensed in the U.S. and used for the treatment of hematological malignancies[^10.1016/j.antiviral.2014.12.015][^10.1002/cmdc.202000223].
+ In contrast to 3CLpro, the PLpro enzyme is membrane associated, making it more challenging to study in vitro. Nonetheless, several crystal structures of SARS-CoV-2 PLpro have been deposited in the Protein Data Bank, although their publications are currently pending. PLpro has fewer homologues in other viruses, so there are fewer compounds that can serve as starting points for drug development. Nonetheless, 6-thioguanine, a drug approved in the U.S. and used for the treatment of hematological malignancies and autoimmune conditions, has demonstrated activity in biochemical assays
+several lead compounds have been identified including 6-thioguanine which is licensed in the U.S. and used for the treatment of hematological malignancies[^10.1016/j.antiviral.2014.12.015][^10.1002/cmdc.202000223].
 
 ## Entry Inhibitors
 Coronavirus cell entry is mediated by its spike (S) glycoprotein. S is a membrane protein essential for the two main steps of the entry process: attachment to the host cell and fusion of the viral and cellular membranes. The functional S protein is a trimer of identical subunits. For most coronaviruses, S is processed by host proteases to generate two functional subunits, designated S1 and S2. The S1 subunit forms the apex of the S trimer including the receptor binding domains (RBDs)[^10.1016/bs.aivir.2019.08.002] and is responsible for attachment to cellular receptors. The S2 unit is responsible for fusion to the cell membrane.
@@ -521,11 +522,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxNjgzMDU3LC0yMDE5Nzk4MDIxLDQzND
-M4MzY4OSwyMTg5OTkwNDIsMTY1Njk0NTA1MSwxNDQwMzMxODU5
-LC0xMjM0NzEyNDk4LDEzMzA1MDM4Miw4OTkwMTIzOTEsLTQzNz
-A3NjA1NCwxNDQ0MTg5NjQ5LDIwNTU4ODY0NTUsMzM1NjcwMDE3
-LDE5Mjk0ODM4MTgsMTYyMTg0NjcyOSwtNDcxNTM3OTU1LC0xOT
-E0NzYxMjEsMTUwNzU5MjQ2MSwtNjQzNjY0ODcxLDU3OTMzODYy
-MV19
+eyJoaXN0b3J5IjpbMjExMTU3NjE0NywtMjAxOTc5ODAyMSw0Mz
+QzODM2ODksMjE4OTk5MDQyLDE2NTY5NDUwNTEsMTQ0MDMzMTg1
+OSwtMTIzNDcxMjQ5OCwxMzMwNTAzODIsODk5MDEyMzkxLC00Mz
+cwNzYwNTQsMTQ0NDE4OTY0OSwyMDU1ODg2NDU1LDMzNTY3MDAx
+NywxOTI5NDgzODE4LDE2MjE4NDY3MjksLTQ3MTUzNzk1NSwtMT
+kxNDc2MTIxLDE1MDc1OTI0NjEsLTY0MzY2NDg3MSw1NzkzMzg2
+MjFdfQ==
 -->
