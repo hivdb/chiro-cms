@@ -56,7 +56,7 @@ None of the HIV-1 protease inhibitors (PIs) are expected to inhibit coronaviruse
 
 Lopinavir/r was first used to treat a coronavirus infection when it was administered to a cohort of 75 hospitalized patients with SARS-CoV in Hong Kong in 2003[^PMID14660806][^10.1136/thorax.2003.012658]. These 75 hospitalized patients included 44 newly diagnosed SARS-CoV patients and 31 who had more severe disease. Among the 44 newly diagnosed patients, 2% died and none required mechanical ventilation; the 31 patients with more severe disease, 13% died and 10% required intubation. The mortality rate and need for mechanical ventilation among the 44 newly diagnosed patients were lower than in the earliest SARS patients treated at their hospital.
 
-Lopinavir displays weak inhibitory activity against SARS-CoV, MERS-CoV, and SARS-CoV-2 with EC<sub>50</sub>s of between 5 and >25 μM or higher[^10.1136/thorax.2003.012658][^10.1016/j.jcv.2004.03.003][^10.1016/j.bbrc.2004.04.083][^10.1177/095632020601700505][^10.1016/j.jinf.2013.09.029][^10.1128/AAC.03011-14][^10.1038/s41467-019-13940-6][^10.1128/AAC.00819-20][^10.1016/j.antiviral.2020.104786][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983]. In addition, the selectivity index of lopinavir in cell culture is low suggesting that whatever inhibition is observed in cell culture may result from its toxic effects on the cells used to culture coronavirus rather than on the virus itself. Lopinavir has also been against SARS-CoV[^10.1073/pnas.0403596101] and SARS-CoV-2 3CLpro[^10.1101/2020.04.20.051581] in biochemical assays.  Although
+Lopinavir displays weak inhibitory activity against SARS-CoV, MERS-CoV, and SARS-CoV-2 with EC<sub>50</sub>s of between 5 and >25 μM or higher[^10.1136/thorax.2003.012658][^10.1016/j.jcv.2004.03.003][^10.1016/j.bbrc.2004.04.083][^10.1177/095632020601700505][^10.1016/j.jinf.2013.09.029][^10.1128/AAC.03011-14][^10.1038/s41467-019-13940-6][^10.1128/AAC.00819-20][^10.1016/j.antiviral.2020.104786][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983]. In addition, the selectivity index of lopinavir in cell culture is low suggesting that whatever inhibition is observed in cell culture may result from its toxic effects on the cells used to culture coronavirus rather than on the virus itself. Lopinavir has also been against SARS-CoV[^10.1073/pnas.0403596101] and SARS-CoV-2 3CLpro[^10.1101/2020.04.20.051581] in biochemical assays.  Although ritonavir-boosted lopinavir (lopinavir/r) appeared to reduce lung pathology in two MERS-CoV-infected marmosets[^10.1093/infdis/jiv392], it was not beneficial in 
 
 Ritonavir-boosted lopinavir (lopinavir/r) also did not appear to influence disease in SARS-CoV-2 infected ferrets[^10.1128/mBio.01114-20].
 
@@ -524,11 +524,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2NzMzOTIsLTEyMzQ3MTI0OTgsMTMzMD
-UwMzgyLDg5OTAxMjM5MSwtNDM3MDc2MDU0LDE0NDQxODk2NDks
-MjA1NTg4NjQ1NSwzMzU2NzAwMTcsMTkyOTQ4MzgxOCwxNjIxOD
-Q2NzI5LC00NzE1Mzc5NTUsLTE5MTQ3NjEyMSwxNTA3NTkyNDYx
-LC02NDM2NjQ4NzEsNTc5MzM4NjIxLC0xMzE3OTM3MTg5LC0yMD
-QzODg5OTEyLDE4ODcwNTE3ODQsMTAwMzczNzI1NywxMjg3NzQ4
-NzgwXX0=
+eyJoaXN0b3J5IjpbLTE1ODAyNTg5NzYsLTEyMzQ3MTI0OTgsMT
+MzMDUwMzgyLDg5OTAxMjM5MSwtNDM3MDc2MDU0LDE0NDQxODk2
+NDksMjA1NTg4NjQ1NSwzMzU2NzAwMTcsMTkyOTQ4MzgxOCwxNj
+IxODQ2NzI5LC00NzE1Mzc5NTUsLTE5MTQ3NjEyMSwxNTA3NTky
+NDYxLC02NDM2NjQ4NzEsNTc5MzM4NjIxLC0xMzE3OTM3MTg5LC
+0yMDQzODg5OTEyLDE4ODcwNTE3ODQsMTAwMzczNzI1NywxMjg3
+NzQ4NzgwXX0=
 -->
