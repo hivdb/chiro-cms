@@ -42,7 +42,7 @@ Ribavirin is a nucleoside analog with modest activity against several viruses. A
 
 Favipiravir (T-705) is a purine analog prodrug that is ribosylated and phosphorylated intracellularly to form the active metabolite ribofuranosyl-5′-triphosphate (aka T-705-RTP). It has broad spectrum activity against multiple viral RNA polymerases and appears to act by causing viral mutagenesis[^10.1016/j.antiviral.2013.09.015][^10.1016/j.antiviral.2018.03.003][^10.1101/2020.05.15.098731]. Favipiravir is approved in Japan for treating pandemic influenza infections. It achieves high plasma concentrations following oral administration[^10.1002/cpt.1844][^10.1002/cpt.1909], but has demonstrated little, if any, inhibitory activity against SARS-CoV-2 in vitro, with EC<sub>50</sub>s ranging from 60 to >100 μM[^10.1038/s41422-020-0282-0][^10.1016/j.antiviral.2020.104786][^10.1128/AAC.00819-20][^10.1101/2020.05.15.098731]. It displays activity in a hamster model but only when used at very doses [^10.1101/2020.06.19.159053][^10.1101/2020.07.07.191775]. In an  open-label randomized trial of 240 patients, of whom just 40% had PCR-confirmed COVID-19 pneumonia, favipiravir was associated with an improved 7 day clinical recovery rate compared to umifenovir in a subgroup of patients without critical disease (71% vs 56%; p=0.02)[^10.1101/2020.03.17.20037432].  Another trial comparing favipiravir to lopinavir/r has been temporarily retracted[^10.1016/j.eng.2020.03.007]. As of June 25, there are 2 completed trials, 15 ongoing trials, and 14 planned trials that include favipiravir ([https://covdb.stanford.edu/clinical-trials/?compound=Favipiravir&target=Polymerase](https://covdb.stanford.edu/clinical-trials/?compound=Favipiravir&target=Polymerase)).
 
-Several HGalidesivir (BCX4430) is an adenosine analog that inhibits multiple viruses including filoviruses (Ebola virus and Marburg virus) _in vitro_ and in rodents and cynomolgus macaques[^10.1038/nature13027]. However, it has little, if any _in vitro_ activity against MERS-CoV and SARS-CoV with EC<sub>50</sub> levels of about 60 μM for MERS-CoV and SARS-CoV[^10.1038/nature13027] and of >100 μM for SARS-CoV-2[^10.1016/j.antiviral.2020.104786]. At least seven additional nucleoside analogs have been studied _in vitro_ against SARS-CoV, MERs-CoV, or SARS-CoV-2, including four that are either approved (gemcitabine, mizoribine, or mycophenolate) or being studied in humans (merimepodib) as immunosuppressants or anticancer agents[^10.1099/vir.0.061911-0][^10.1016/j.antiviral.2005.01.003][^10.1128/JVI.00023-19][^10.1101/2020.04.07.028589][^10.1016/j.jinf.2013.09.029].
+Several FDA-approved nucleoside analogs used for the treatment of hepatitis C or HIV-1 are being studied in one or more clinical trials including sofosbuvir,Galidesivir (BCX4430) is an adenosine analog that inhibits multiple viruses including filoviruses (Ebola virus and Marburg virus) _in vitro_ and in rodents and cynomolgus macaques[^10.1038/nature13027]. However, it has little, if any _in vitro_ activity against MERS-CoV and SARS-CoV with EC<sub>50</sub> levels of about 60 μM for MERS-CoV and SARS-CoV[^10.1038/nature13027] and of >100 μM for SARS-CoV-2[^10.1016/j.antiviral.2020.104786]. At least seven additional nucleoside analogs have been studied _in vitro_ against SARS-CoV, MERs-CoV, or SARS-CoV-2, including four that are either approved (gemcitabine, mizoribine, or mycophenolate) or being studied in humans (merimepodib) as immunosuppressants or anticancer agents[^10.1099/vir.0.061911-0][^10.1016/j.antiviral.2005.01.003][^10.1128/JVI.00023-19][^10.1101/2020.04.07.028589][^10.1016/j.jinf.2013.09.029].
 
 ___Conclusions: There appears to be little benefit for the use or further study of the nucleoside analogs in this section either because they lack meaningful SARS-CoV-2 inhibitory activity or because they are immunosuppressive.___
 
@@ -519,11 +519,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE4Mjg0MzMsMzM1NjcwMDE3LDE5Mj
-k0ODM4MTgsMTYyMTg0NjcyOSwtNDcxNTM3OTU1LC0xOTE0NzYx
-MjEsMTUwNzU5MjQ2MSwtNjQzNjY0ODcxLDU3OTMzODYyMSwtMT
-MxNzkzNzE4OSwtMjA0Mzg4OTkxMiwxODg3MDUxNzg0LDEwMDM3
-MzcyNTcsMTI4Nzc0ODc4MCwxMzIyMDYwOTg5LDIwNTMyODE1OD
-gsMjA2MTA5MDk2OCwtNTcxNjA0NjMsLTExOTYzODIzNzIsLTg2
-MTk2NTM4Nl19
+eyJoaXN0b3J5IjpbOTgzODQ1Mjk5LDMzNTY3MDAxNywxOTI5ND
+gzODE4LDE2MjE4NDY3MjksLTQ3MTUzNzk1NSwtMTkxNDc2MTIx
+LDE1MDc1OTI0NjEsLTY0MzY2NDg3MSw1NzkzMzg2MjEsLTEzMT
+c5MzcxODksLTIwNDM4ODk5MTIsMTg4NzA1MTc4NCwxMDAzNzM3
+MjU3LDEyODc3NDg3ODAsMTMyMjA2MDk4OSwyMDUzMjgxNTg4LD
+IwNjEwOTA5NjgsLTU3MTYwNDYzLC0xMTk2MzgyMzcyLC04NjE5
+NjUzODZdfQ==
 -->
