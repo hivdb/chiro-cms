@@ -47,7 +47,7 @@ The FDA-approved nucleoside analogs sofosbuvir and tenofovir used for the treatm
 ___Conclusions: There appears to be little benefit for the use or further study of the nucleoside analogs in this section either because they lack meaningful SARS-CoV-2 inhibitory activity or because they are immunosuppressive.___
 
 ## Protease Inhibitors
-Coronaviruses contain two protease enzymes: 3 chymotrypsin-like cysteine protease (3CLpro or Main \[M\]-pro; non-structural protein 5 \[nsp5\]) and papain-like serine protease (PLpro; nsp3)[^10.1002/cmdc.202000223]. 3CLpro cleaves polyprotein 1a/b at 11 sites. It is conserved among several families of RNA viruses and has similar cleavage site specificity to the picornavirus family of 3C proteases. 3CLpro contains 306 amino acids and functions as a homodimer. PLpro is part of a large multidomain transmembrane protein. It cleaves polyprotein 1a/b at the nsp1/2, nsp2/3, and nsp3/4 boundaries and also cleaves host proteins important for innate immunity such as ubiquitin interferon-stimulated gene product 15 (ISG-15). The 3D structure of SARS-CoV 3CLpro[^10.1126/science.1085658] and PLpro[^10.1021/jm401712t]; and of SARS-CoV-2 3CLpro[^10.1038/s41586-020-2223-y][^10.1126/science.abb3405] and [PLpro](https://www.wwpdb.org/pdb?id=pdb_00006w9c) are available for structure-based drug design.
+Coronaviruses contain two protease enzymes: 3 chymotrypsin-like cysteine protease (3CLpro or Main \[M\]-pro; non-structural protein 5 \[nsp5\]) and papain-like serine protease (PLpro; nsp3)[^10.1002/cmdc.202000223]. 3CLpro cleaves polyprotein 1a/b at 11 sites. It is conserved among several families of RNA viruses and has similar cleavage site specificity to the picornavirus family of 3C proteases. 3CLpro contains 306 amino acids and functions as a homodimer. PLpro is part of a large multidomain transmembrane protein. It cleaves polyprotein 1a/b at the nsp1/2, nsp2/3, and nsp3/4 boundaries and also cleaves host proteins important for innate immunity such as ubiquitin interferon-stimulated gene product 15 (ISG-15). The 3D structure of SARS-CoV-2 3CLpro[^10.1038/s41586-020-2223-y][^10.1126/science.abb3405] and [PLpro](https://www.wwpdb.org/pdb?id=pdb_00006w9c) have been solved and are available for structure-based drug design.
 
 There are more candidate 3CLpro than PLpro inhibitors because of this enzyme’s similarities to those of other virus species. The recent SARS-CoV-2 3CLpro structures have also identified tightly binding compounds with nanomolar-range half-maximal inhibitory concentrations in biochemical experiments (IC<sub>50</sub>s) and half-maximal effective concentrations in cell culture (EC<sub>50</sub>s). Most of the protease inhibitors (PIs) that are currently being studied clinically are those approved for treating HIV-1.
 
@@ -519,11 +519,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5MDEyMzkxLC00MzcwNzYwNTQsMTQ0ND
-E4OTY0OSwyMDU1ODg2NDU1LDMzNTY3MDAxNywxOTI5NDgzODE4
-LDE2MjE4NDY3MjksLTQ3MTUzNzk1NSwtMTkxNDc2MTIxLDE1MD
-c1OTI0NjEsLTY0MzY2NDg3MSw1NzkzMzg2MjEsLTEzMTc5Mzcx
-ODksLTIwNDM4ODk5MTIsMTg4NzA1MTc4NCwxMDAzNzM3MjU3LD
-EyODc3NDg3ODAsMTMyMjA2MDk4OSwyMDUzMjgxNTg4LDIwNjEw
-OTA5NjhdfQ==
+eyJoaXN0b3J5IjpbMTMzMDUwMzgyLDg5OTAxMjM5MSwtNDM3MD
+c2MDU0LDE0NDQxODk2NDksMjA1NTg4NjQ1NSwzMzU2NzAwMTcs
+MTkyOTQ4MzgxOCwxNjIxODQ2NzI5LC00NzE1Mzc5NTUsLTE5MT
+Q3NjEyMSwxNTA3NTkyNDYxLC02NDM2NjQ4NzEsNTc5MzM4NjIx
+LC0xMzE3OTM3MTg5LC0yMDQzODg5OTEyLDE4ODcwNTE3ODQsMT
+AwMzczNzI1NywxMjg3NzQ4NzgwLDEzMjIwNjA5ODksMjA1MzI4
+MTU4OF19
 -->
