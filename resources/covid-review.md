@@ -60,7 +60,7 @@ Lopinavir displays weak inhibitory activity against SARS-CoV, MERS-CoV, and SARS
 
 In an open-label randomized controlled trial of lopinavir/r vs. standard-of-care in 199 hospitalized adults with SARS-CoV-2 infection and SatO<sub>2</sub> levels 94% or PaO<sub>2</sub> /FiO<sub>2</sub>  <300, demonstrated no significant difference in days to virological clearance, clinical improvement, need for mechanical ventilation, or mortality[^10.1056/NEJMoa2001282].
 
-Among the remaining HIV-1 PIs, nelfinavir has demonstrated variable in vitro activity against SARS-CoV-2 with EC<sub>50</sub>s ranging from about 1 to >50 μM[^10.1101/2020.06.16.153403][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983][^10.1101/2020.04.14.039925], while atazanavir's EC<sub>50</sub>s  have ranged from below 1 to >50 μM[^10.1101/2020.04.06.026476][^10.1101/2020.03.20.999730][^10.1101/2020.04.04.020925].
+The HIV-1 PIs nelfinavir and atazanavir have demonstrated variable in vitro activity against SARS-CoV-2 with EC<sub>50</sub>s ranging from below 1 to >50 μM[^10.1101/2020.06.16.153403][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983][^10.1101/2020.04.14.039925]01/2020.04.06.026476][^10.1101/2020.03.20.999730][^10.1101/2020.04.04.020925].
 
  μM[https://covdb.stanford.edu/search/?compound=Nelfinavir&target=Viral%20Protease&virus=SARS-CoV-2](https://covdb.stanford.edu/search/?compound=Nelfinavir&target=Viral%20Protease&virus=SARS-CoV-2) and atazanavir [https://covdb.stanford.edu/search/?compound=Atazanavir&target=Viral%20Protease&virus=SARS-CoV-2](https://covdb.stanford.edu/search/?compound=Atazanavir&target=Viral%20Protease&virus=SARS-CoV-2) have demonstrated variable in vitro activity with EC<sub>50</sub>s ranging from about below 1 to greater than 50 μM. 
 
@@ -525,11 +525,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDgxNzg1NTgsMTY1Njk0NTA1MSwxND
-QwMzMxODU5LC0xMjM0NzEyNDk4LDEzMzA1MDM4Miw4OTkwMTIz
-OTEsLTQzNzA3NjA1NCwxNDQ0MTg5NjQ5LDIwNTU4ODY0NTUsMz
-M1NjcwMDE3LDE5Mjk0ODM4MTgsMTYyMTg0NjcyOSwtNDcxNTM3
-OTU1LC0xOTE0NzYxMjEsMTUwNzU5MjQ2MSwtNjQzNjY0ODcxLD
-U3OTMzODYyMSwtMTMxNzkzNzE4OSwtMjA0Mzg4OTkxMiwxODg3
-MDUxNzg0XX0=
+eyJoaXN0b3J5IjpbMzIwNjI3MTQzLDE2NTY5NDUwNTEsMTQ0MD
+MzMTg1OSwtMTIzNDcxMjQ5OCwxMzMwNTAzODIsODk5MDEyMzkx
+LC00MzcwNzYwNTQsMTQ0NDE4OTY0OSwyMDU1ODg2NDU1LDMzNT
+Y3MDAxNywxOTI5NDgzODE4LDE2MjE4NDY3MjksLTQ3MTUzNzk1
+NSwtMTkxNDc2MTIxLDE1MDc1OTI0NjEsLTY0MzY2NDg3MSw1Nz
+kzMzg2MjEsLTEzMTc5MzcxODksLTIwNDM4ODk5MTIsMTg4NzA1
+MTc4NF19
 -->
