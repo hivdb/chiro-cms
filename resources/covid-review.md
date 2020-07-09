@@ -62,7 +62,7 @@ In an open-label randomized controlled trial of lopinavir/r vs. standard-of-care
 
 The HIV-1 PIs nelfinavir and atazanavir have demonstrated variable in vitro activity against SARS-CoV-2 with EC<sub>50</sub>s ranging from below 1 to >50 μM[^10.1101/2020.06.16.153403][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983][^10.1101/2020.04.14.039925][^10.1101/2020.03.20.999730][^10.1101/2020.04.04.020925] while darunavir has consistently not displayed activity against SARS-CoV-2 in vitro[^10.1101/2020.04.03.20052548][^10.1101/2020.04.06.026476].
 
-___Conclusion: Lopinavir/r does not inhibit coronaviruses in vitro and displays little or no clinical efficacy. However, as of June 25, there were 7 completed and 28 ongoing  clinicial trials trials containing a lopinavir/r treatment arm. ___
+___Conclusion: Lopinavir/r does not inhibit coronaviruses in vitro and displays little or no clinical efficacy. However, as of June 25, there were 7 completed and 28 ongoing  clinical trials involving lopinavr/r. ___
 
 ### 3CLpro Investigational Inhibitors
 Most coronavirus PI drug discovery efforts have targeted 3CLpro: it shares a conserved substrate recognition pocket with the 3C like protease (3Cpro) of human picornaviruses, which have already been successfully targeted with antiviral agents. 3CLpro can also be purified in large quantities and readily crystallized[^10.1016/j.virusres.2007.02.015].
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzQyMzQzMywyMTg5OTkwNDIsMTY1Nj
-k0NTA1MSwxNDQwMzMxODU5LC0xMjM0NzEyNDk4LDEzMzA1MDM4
-Miw4OTkwMTIzOTEsLTQzNzA3NjA1NCwxNDQ0MTg5NjQ5LDIwNT
-U4ODY0NTUsMzM1NjcwMDE3LDE5Mjk0ODM4MTgsMTYyMTg0Njcy
-OSwtNDcxNTM3OTU1LC0xOTE0NzYxMjEsMTUwNzU5MjQ2MSwtNj
-QzNjY0ODcxLDU3OTMzODYyMSwtMTMxNzkzNzE4OSwtMjA0Mzg4
-OTkxMl19
+eyJoaXN0b3J5IjpbNDM0MzgzNjg5LDIxODk5OTA0MiwxNjU2OT
+Q1MDUxLDE0NDAzMzE4NTksLTEyMzQ3MTI0OTgsMTMzMDUwMzgy
+LDg5OTAxMjM5MSwtNDM3MDc2MDU0LDE0NDQxODk2NDksMjA1NT
+g4NjQ1NSwzMzU2NzAwMTcsMTkyOTQ4MzgxOCwxNjIxODQ2NzI5
+LC00NzE1Mzc5NTUsLTE5MTQ3NjEyMSwxNTA3NTkyNDYxLC02ND
+M2NjQ4NzEsNTc5MzM4NjIxLC0xMzE3OTM3MTg5LC0yMDQzODg5
+OTEyXX0=
 -->
