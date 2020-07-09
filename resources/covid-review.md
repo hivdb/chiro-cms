@@ -60,11 +60,10 @@ Lopinavir displays weak inhibitory activity against SARS-CoV, MERS-CoV, and SARS
 
 In an open-label randomized controlled trial of lopinavir/r vs. standard-of-care in 199 hospitalized adults with SARS-CoV-2 infection and SatO<sub>2</sub> levels 94% or PaO<sub>2</sub> /FiO<sub>2</sub>  <300, demonstrated no significant difference in days to virological clearance, clinical improvement, need for mechanical ventilation, or mortality[^10.1056/NEJMoa2001282].
 
-The HIV-1 PIs nelfinavir and atazanavir have demonstrated variable in vitro activity against SARS-CoV-2 with EC<sub>50</sub>s ranging from below 1 to >50 μM[^10.1101/2020.06.16.153403][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983][^10.1101/2020.04.14.039925]01/2020.04.06.026476][^10.1101/2020.03.20.999730][^10.1101/2020.04.04.020925].
+The HIV-1 PIs nelfinavir and atazanavir have demonstrated variable in vitro activity against SARS-CoV-2 with EC<sub>50</sub>s ranging from below 1 to >50 μM[^10.1101/2020.06.16.153403][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983][^10.1101/2020.04.14.039925][^10.1101/2020.03.20.999730][^10.1101/2020.04.04.020925].
 
- μM[https://covdb.stanford.edu/search/?compound=Nelfinavir&target=Viral%20Protease&virus=SARS-CoV-2](https://covdb.stanford.edu/search/?compound=Nelfinavir&target=Viral%20Protease&virus=SARS-CoV-2) and atazanavir [https://covdb.stanford.edu/search/?compound=Atazanavir&target=Viral%20Protease&virus=SARS-CoV-2](https://covdb.stanford.edu/search/?compound=Atazanavir&target=Viral%20Protease&virus=SARS-CoV-2) have demonstrated variable in vitro activity with EC<sub>50</sub>s ranging from about below 1 to greater than 50 μM. 
 
-appeared to have any coronavirus inhibitory activity. Most nelfinavir EC<sub>50</sub>s for SARS-CoV, MERS-CoV, and SARS-CoV-2 were between 1 and 5 μM, although one value was 0.5 μM and another was >100 μM[^10.1177/095632020601700505][^10.1016/j.bbrc.2004.04.083][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983][^10.1101/2020.02.25.965582][^10.1016/j.jinf.2013.09.029]. Its IC<sub>50</sub> against SARS-CoV 3CLpro in a biochemical experiment was 46 μM[^10.1016/j.bbrc.2005.05.095]. Likewise, there was a wide range of atazanavir susceptibilities against the pandemic coronaviruses with EC<sub>50</sub>s ranging between 0.2 and 2 μM in one study[^10.1101/2020.04.04.020925] but as high as 9.4 and >50 μM in three other studies[^10.1128/AAC.00819-20][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983]. Darunavir consistently displayed poor activity against SARS-CoV-2[^10.1101/2020.04.03.20052548][^10.1101/2020.04.06.026476].
+ Darunavir consistently displayed poor activity against SARS-CoV-2[^10.1101/2020.04.03.20052548][^10.1101/2020.04.06.026476].
 
 ___Conclusion: Lopinavir/r does not inhibit coronaviruses in vitro and displays little or no clinical efficacy. However, as of May 28, 2020, there were 32 ongoing and 9 planned trials containing a lopinavir/r treatment arm. ___
 
@@ -525,7 +524,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNjI3MTQzLDE2NTY5NDUwNTEsMTQ0MD
+eyJoaXN0b3J5IjpbMTA3MzI3NzA5LDE2NTY5NDUwNTEsMTQ0MD
 MzMTg1OSwtMTIzNDcxMjQ5OCwxMzMwNTAzODIsODk5MDEyMzkx
 LC00MzcwNzYwNTQsMTQ0NDE4OTY0OSwyMDU1ODg2NDU1LDMzNT
 Y3MDAxNywxOTI5NDgzODE4LDE2MjE4NDY3MjksLTQ3MTUzNzk1
