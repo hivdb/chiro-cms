@@ -60,10 +60,7 @@ Lopinavir displays weak inhibitory activity against SARS-CoV, MERS-CoV, and SARS
 
 In an open-label randomized controlled trial of lopinavir/r vs. standard-of-care in 199 hospitalized adults with SARS-CoV-2 infection and SatO<sub>2</sub> levels 94% or PaO<sub>2</sub> /FiO<sub>2</sub>  <300, demonstrated no significant difference in days to virological clearance, clinical improvement, need for mechanical ventilation, or mortality[^10.1056/NEJMoa2001282].
 
-The HIV-1 PIs nelfinavir and atazanavir have demonstrated variable in vitro activity against SARS-CoV-2 with EC<sub>50</sub>s ranging from below 1 to >50 μM[^10.1101/2020.06.16.153403][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983][^10.1101/2020.04.14.039925][^10.1101/2020.03.20.999730][^10.1101/2020.04.04.020925].
-
-
- Darunavir consistently displayed poor activity against SARS-CoV-2[^10.1101/2020.04.03.20052548][^10.1101/2020.04.06.026476].
+The HIV-1 PIs nelfinavir and atazanavir have demonstrated variable in vitro activity against SARS-CoV-2 with EC<sub>50</sub>s ranging from below 1 to >50 μM[^10.1101/2020.06.16.153403][^10.1101/2020.04.06.026476][^10.1101/2020.04.29.067983][^10.1101/2020.04.14.039925][^10.1101/2020.03.20.999730][^10.1101/2020.04.04.020925] while darunavir has consistently not displayed activity against SARS-CoV-2 in vitro[^10.1101/2020.04.03.20052548][^10.1101/2020.04.06.026476].
 
 ___Conclusion: Lopinavir/r does not inhibit coronaviruses in vitro and displays little or no clinical efficacy. However, as of May 28, 2020, there were 32 ongoing and 9 planned trials containing a lopinavir/r treatment arm. ___
 
@@ -524,7 +521,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzI3NzA5LDE2NTY5NDUwNTEsMTQ0MD
+eyJoaXN0b3J5IjpbMjE4OTk5MDQyLDE2NTY5NDUwNTEsMTQ0MD
 MzMTg1OSwtMTIzNDcxMjQ5OCwxMzMwNTAzODIsODk5MDEyMzkx
 LC00MzcwNzYwNTQsMTQ0NDE4OTY0OSwyMDU1ODg2NDU1LDMzNT
 Y3MDAxNywxOTI5NDgzODE4LDE2MjE4NDY3MjksLTQ3MTUzNzk1
