@@ -40,9 +40,9 @@ ___Conclusion: The preclinical in vitro and animal model data associated with EI
 ### Other Nucleoside Analogs
 Ribavirin is a nucleoside analog with modest activity against several viruses. Although multiple mechanisms for its activity have been proposed, the most likely is an increase in viral mutagenesis. In cell culture studies, it has demonstrated little, if any, activity against coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1016/s0140-6736(03)13615-x][^10.1177/095632020401500102][^10.1016/j.jinf.2013.09.029][^10.1099/vir.0.061911-0][^10.1038/srep01686][^10.1016/j.antiviral.2020.104786][^10.1016/S0140-6736(20)31022-9]. Structural and biochemical studies have shown that although ribavirin 5’-monophosphate can be incorporated during RNA synthesis, it is readily excised by nsp14, the coronavirus exonuclease. Multiple observational clinical studies of patients with SARS-CoV, and to a lesser extent in patients with MERS-CoV have shown no evidence for clinical benefit while demonstrating a high risk of toxicity[^10.1371/journal.pmed.0030343].
 
-Favipiravir (T-705) is a purine analog prodrug that is ribosylated and phosphorylated intracellularly to form the active metabolite ribofuranosyl-5′-triphosphate (aka T-705-RTP). It has broad spectrum activity against multiple viral RNA polymerases and appears to act by causing viral mutagenesis[^10.1016/j.antiviral.2013.09.015][^10.1016/j.antiviral.2018.03.003][^10.1101/2020.05.15.098731]. Favipiravir is approved in Japan for treating pandemic influenza infections. It achieves high plasma concentrations following oral administration[^10.1002/cpt.1844][^10.1002/cpt.1909], but has demonstrated little, if any, inhibitory activity against SARS-CoV-2 in vitro, with EC<sub>50</sub>s ranging from 60 to >100 μM[^10.1038/s41422-020-0282-0][^10.1016/j.antiviral.2020.104786][^10.1128/AAC.00819-20][^10.1101/2020.05.15.098731]. It dispprotective in  prevent infection in hamster models but only at high dosages, which may be associated with toxicity[^10.1101/2020.06.19.159053][^10.1101/2020.07.07.191775].
+Favipiravir (T-705) is a purine analog prodrug that is ribosylated and phosphorylated intracellularly to form the active metabolite ribofuranosyl-5′-triphosphate (aka T-705-RTP). It has broad spectrum activity against multiple viral RNA polymerases and appears to act by causing viral mutagenesis[^10.1016/j.antiviral.2013.09.015][^10.1016/j.antiviral.2018.03.003][^10.1101/2020.05.15.098731]. Favipiravir is approved in Japan for treating pandemic influenza infections. It achieves high plasma concentrations following oral administration[^10.1002/cpt.1844][^10.1002/cpt.1909], but has demonstrated little, if any, inhibitory activity against SARS-CoV-2 in vitro, with EC<sub>50</sub>s ranging from 60 to >100 μM[^10.1038/s41422-020-0282-0][^10.1016/j.antiviral.2020.104786][^10.1128/AAC.00819-20][^10.1101/2020.05.15.098731]. It displays activity in a hamster model but only when used at very doses [^10.1101/2020.06.19.159053][^10.1101/2020.07.07.191775].
 
-In a recent open-label randomized trial of 240 patients, of whom just 40% had PCR-confirmed COVID-19 pneumonia, favipiravir was associated with an improved 7 day clinical recovery rate compared to arbidol in a subgroup of patients without critical disease (71% vs 56%; p=0.02)[^10.1101/2020.03.17.20037432]. However, the fact that diagnosis was confirmed in just 40% of patients raises the question as to what proportion of patients may have had influenza infections. As of May 28, 2020, there are 9 ongoing 16 pending clinical trials of favipiravir.
+In an  open-label randomized trial of 240 patients, of whom just 40% had PCR-confirmed COVID-19 pneumonia, favipiravir was associated with an improved 7 day clinical recovery rate compared to umifenovir in a subgroup of patients without critical disease (71% vs 56%; p=0.02)[^10.1101/2020.03.17.20037432]. However, the fact that diagnosis was confirmed in just 40% of patients raises the question as to what proportion of patients may have had influenza infections. As of May 28, 2020, there are 9 ongoing 16 pending clinical trials of favipiravir.
 
 Galidesivir (BCX4430) is an adenosine analog that inhibits multiple viruses including filoviruses (Ebola virus and Marburg virus) _in vitro_ and in rodents and cynomolgus macaques[^10.1038/nature13027]. However, it has little, if any _in vitro_ activity against MERS-CoV and SARS-CoV with EC<sub>50</sub> levels of about 60 μM for MERS-CoV and SARS-CoV[^10.1038/nature13027] and of >100 μM for SARS-CoV-2[^10.1016/j.antiviral.2020.104786]. At least seven additional nucleoside analogs have been studied _in vitro_ against SARS-CoV, MERs-CoV, or SARS-CoV-2, including four that are either approved (gemcitabine, mizoribine, or mycophenolate) or being studied in humans (merimepodib) as immunosuppressants or anticancer agents[^10.1099/vir.0.061911-0][^10.1016/j.antiviral.2005.01.003][^10.1128/JVI.00023-19][^10.1101/2020.04.07.028589][^10.1016/j.jinf.2013.09.029].
 
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzExMDk4NzgsMTYyMTg0NjcyOSwtND
-cxNTM3OTU1LC0xOTE0NzYxMjEsMTUwNzU5MjQ2MSwtNjQzNjY0
-ODcxLDU3OTMzODYyMSwtMTMxNzkzNzE4OSwtMjA0Mzg4OTkxMi
-wxODg3MDUxNzg0LDEwMDM3MzcyNTcsMTI4Nzc0ODc4MCwxMzIy
-MDYwOTg5LDIwNTMyODE1ODgsMjA2MTA5MDk2OCwtNTcxNjA0Nj
-MsLTExOTYzODIzNzIsLTg2MTk2NTM4Niw3Mzc5NDUzMTcsNjQw
-NDIyMjk5XX0=
+eyJoaXN0b3J5IjpbMTc5OTE2MzI0NCwxNjIxODQ2NzI5LC00Nz
+E1Mzc5NTUsLTE5MTQ3NjEyMSwxNTA3NTkyNDYxLC02NDM2NjQ4
+NzEsNTc5MzM4NjIxLC0xMzE3OTM3MTg5LC0yMDQzODg5OTEyLD
+E4ODcwNTE3ODQsMTAwMzczNzI1NywxMjg3NzQ4NzgwLDEzMjIw
+NjA5ODksMjA1MzI4MTU4OCwyMDYxMDkwOTY4LC01NzE2MDQ2My
+wtMTE5NjM4MjM3MiwtODYxOTY1Mzg2LDczNzk0NTMxNyw2NDA0
+MjIyOTldfQ==
 -->
