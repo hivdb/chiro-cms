@@ -40,7 +40,7 @@ ___Conclusion: The preclinical in vitro and animal model data associated with EI
 ### Other Nucleoside Analogs
 Ribavirin is a nucleoside analog with modest activity against several viruses. Although multiple mechanisms for its activity have been proposed, the most likely is an increase in viral mutagenesis. In cell culture studies, it has demonstrated little, if any, activity against coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1016/s0140-6736(03)13615-x][^10.1177/095632020401500102][^10.1016/j.jinf.2013.09.029][^10.1099/vir.0.061911-0][^10.1038/srep01686][^10.1016/j.antiviral.2020.104786][^10.1016/S0140-6736(20)31022-9]. Structural and biochemical studies have shown that although ribavirin 5’-monophosphate can be incorporated during RNA synthesis, it is readily excised by nsp14, the coronavirus exonuclease. Multiple observational clinical studies of patients with SARS-CoV, and to a lesser extent in patients with MERS-CoV have shown no evidence for clinical benefit while demonstrating a high risk of toxicity[^10.1371/journal.pmed.0030343].
 
-Favipiravir (T-705) is a purine analog prodrug that is ribosylated and phosphorylated intracellularly to form the active metabolite ribofuranosyl-5′-triphosphate (aka T-705-RTP). It has broad spectrum activity against multiple viral RNA polymerases and appears to act by causing viral mutagenesis[^10.1016/j.antiviral.2013.09.015][^10.1016/j.antiviral.2018.03.003][^10.1101/2020.05.15.098731]. Favipiravir is approved in Japan for treating pandemic influenza infections. It appears relatively safe and achieves high plasma concentrations following oral administration[^10.1002/cpt.1844][^10.1002/cpt.1909]. However, it has little, if any, inhibitory activity against SARS-CoV-2 in vitro, with EC<sub>50</sub>s ranging from 60 to >100 μM[^10.1038/s41422-020-0282-0][^10.1016/j.antiviral.2020.104786][^10.1128/AAC.00819-20][^10.1101/2020.05.15.098731]. It has also or in animal models[^10.1101/2020.06.19.159053].
+Favipiravir (T-705) is a purine analog prodrug that is ribosylated and phosphorylated intracellularly to form the active metabolite ribofuranosyl-5′-triphosphate (aka T-705-RTP). It has broad spectrum activity against multiple viral RNA polymerases and appears to act by causing viral mutagenesis[^10.1016/j.antiviral.2013.09.015][^10.1016/j.antiviral.2018.03.003][^10.1101/2020.05.15.098731]. Favipiravir is approved in Japan for treating pandemic influenza infections. It appears relatively safe and achieves high plasma concentrations following oral administration[^10.1002/cpt.1844][^10.1002/cpt.1909]. However, it has little, if any, inhibitory activity against SARS-CoV-2 in vitro, with EC<sub>50</sub>s ranging from 60 to >100 μM[^10.1038/s41422-020-0282-0][^10.1016/j.antiviral.2020.104786][^10.1128/AAC.00819-20][^10.1101/2020.05.15.098731]. It can prevent infection in hamster models but only at high dosages, which may be associated with toxicity[^10.1101/2020.06.19.159053][^.
 
 In a recent open-label randomized trial of 240 patients, of whom just 40% had PCR-confirmed COVID-19 pneumonia, favipiravir was associated with an improved 7 day clinical recovery rate compared to arbidol in a subgroup of patients without critical disease (71% vs 56%; p=0.02)[^10.1101/2020.03.17.20037432]. However, the fact that diagnosis was confirmed in just 40% of patients raises the question as to what proportion of patients may have had influenza infections. As of May 28, 2020, there are 9 ongoing 16 pending clinical trials of favipiravir.
 
@@ -521,11 +521,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MTUzNzk1NSwtMTkxNDc2MTIxLDE1MD
-c1OTI0NjEsLTY0MzY2NDg3MSw1NzkzMzg2MjEsLTEzMTc5Mzcx
-ODksLTIwNDM4ODk5MTIsMTg4NzA1MTc4NCwxMDAzNzM3MjU3LD
-EyODc3NDg3ODAsMTMyMjA2MDk4OSwyMDUzMjgxNTg4LDIwNjEw
-OTA5NjgsLTU3MTYwNDYzLC0xMTk2MzgyMzcyLC04NjE5NjUzOD
-YsNzM3OTQ1MzE3LDY0MDQyMjI5OSwtMTIyMzM1ODI0Nyw5MzY5
-MDE2NzldfQ==
+eyJoaXN0b3J5IjpbNDk4ODc1MDE1LC00NzE1Mzc5NTUsLTE5MT
+Q3NjEyMSwxNTA3NTkyNDYxLC02NDM2NjQ4NzEsNTc5MzM4NjIx
+LC0xMzE3OTM3MTg5LC0yMDQzODg5OTEyLDE4ODcwNTE3ODQsMT
+AwMzczNzI1NywxMjg3NzQ4NzgwLDEzMjIwNjA5ODksMjA1MzI4
+MTU4OCwyMDYxMDkwOTY4LC01NzE2MDQ2MywtMTE5NjM4MjM3Mi
+wtODYxOTY1Mzg2LDczNzk0NTMxNyw2NDA0MjIyOTksLTEyMjMz
+NTgyNDddfQ==
 -->
