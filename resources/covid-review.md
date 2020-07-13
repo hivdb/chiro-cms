@@ -124,7 +124,7 @@ ___Conclusion: Further animal model studies or a phase I/II study are needed to 
 ### Soluble ACE2 and Other Molecular Decoys
 Soluble recombinant human ACE2 (rhACE2) has two potential beneficial effects. First, prior to the SARS-CoV-2 pandemic, rhACE2 was shown to protect lungs from injury during acute respiratory distress syndrome (ARDS)[^10.1038/nature03712][^10.1038/nm1267][^10.1186/s13054-017-1823-x][^10.1016/j.cell.2020.04.004]. Second, rhACE2 inhibits the binding of SARS-CoV and SARS-CoV-2 to ACE2-expressing cells[^10.1016/j.bbrc.2004.05.114][^10.1016/j.cell.2020.03.045] and has displayed dose-dependent activity _in vitro_ against SARS-CoV-2 in cultured cells and engineered human blood vessel and kidney organoids[^10.1016/j.cell.2020.04.004]. APN1 (Apeiron Biologics) is a recombinant form of human ACE2, that demonstrated safety in 89 non-SARS-CoV-2 patients and volunteers. It is now being evaluated in a 200-person placebo-controlled study of hospitalized persons with SARS-CoV-2 (NCT04335136). A similar approach involving the use of a fusion protein – in which an inactive ACE2 mutant is linked to a human Fc IgG – has also been shown to be highly active _in vitro_ [^10.1038/s41467-020-16048-4].
 
-The complete ACE2 molecule may not be necessary to inhibit viral infection if a synthetic peptide can be constructed with a critical minimal subset of ACE2 amino acids capable of competing with cellular ACE2 for the SARS-CoV-2 receptor binding domain (RBD). One study suggested that multiple residues from different parts of the ACE2 molecule would be required including amino acids between positions 24–90 and 329–354[^10.1126/science.1116480] while another suggested that a 23 amino acid ACE2 fragment may . Two ACE2-derived peptides between positions 22–57 demonstrated some _in vitro_ activity against SARS-CoV[^10.1016/j.virol.2006.01.029]. Another peptide comprising two discontinuous ACE2 segments containing residues 22–44 and 351–357 artificially linked together by glycine, exhibited more potent _in vitro_ activity with an EC<sub>50</sub> of about 0.1 μM[^10.1016/j.virol.2006.01.029].
+The complete ACE2 molecule may not be necessary to inhibit viral infection if a synthetic peptide can be constructed with a critical minimal subset of ACE2 amino acids capable of competing with cellular ACE2 for the SARS-CoV-2 receptor binding domain (RBD). One study suggested that multiple residues from different parts of the ACE2 molecule would be required including amino acids between positions 24–90 and 329–354[^10.1126/science.1116480] while another suggested that 23 amino acid N terminal fragments would bind the S1 receptor binding domain  ACE2 fragment may . Two ACE2-derived peptides between positions 22–57 demonstrated some _in vitro_ activity against SARS-CoV[^10.1016/j.virol.2006.01.029]. Another peptide comprising two discontinuous ACE2 segments containing residues 22–44 and 351–357 artificially linked together by glycine, exhibited more potent _in vitro_ activity with an EC<sub>50</sub> of about 0.1 μM[^10.1016/j.virol.2006.01.029].
 
 ___Conclusion: rhACE2 may prove to be useful in patients with the most severe cases of SARS-CoV-2 pneumonia.___
 
@@ -530,11 +530,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE2ODQ4ODEsLTc4ODM1OTI1Nyw5Mj
-E5NjA3ODgsMTkwMjkyMzk2MCw2ODI5Mzg3LDE3OTUyNDEyMDks
-LTY2NDA2ODA1OSwtMjAxOTc5ODAyMSw0MzQzODM2ODksMjE4OT
-k5MDQyLDE2NTY5NDUwNTEsMTQ0MDMzMTg1OSwtMTIzNDcxMjQ5
-OCwxMzMwNTAzODIsODk5MDEyMzkxLC00MzcwNzYwNTQsMTQ0ND
-E4OTY0OSwyMDU1ODg2NDU1LDMzNTY3MDAxNywxOTI5NDgzODE4
-XX0=
+eyJoaXN0b3J5IjpbMTU5NDcyNzU3MywtNzg4MzU5MjU3LDkyMT
+k2MDc4OCwxOTAyOTIzOTYwLDY4MjkzODcsMTc5NTI0MTIwOSwt
+NjY0MDY4MDU5LC0yMDE5Nzk4MDIxLDQzNDM4MzY4OSwyMTg5OT
+kwNDIsMTY1Njk0NTA1MSwxNDQwMzMxODU5LC0xMjM0NzEyNDk4
+LDEzMzA1MDM4Miw4OTkwMTIzOTEsLTQzNzA3NjA1NCwxNDQ0MT
+g5NjQ5LDIwNTU4ODY0NTUsMzM1NjcwMDE3LDE5Mjk0ODM4MThd
+fQ==
 -->
