@@ -135,7 +135,7 @@ Spike-mimicking 20-mer peptides corresponding to different S1 and/or S2 regions 
 
 Defensins are small antimicrobial peptides produced by white blood cells and epithelial cells, which have a role in innate immunity. In a study of several peptides derived from mouse β-defensin-4, one 30 amino acid peptide called P9 was found to inhibit influenza A, MERS-Co-V, and SARS-CoV both _in vitro_ and in a mouse model[^10.1038/srep22008].
 
-Griffithsin, a 121 amino acid protein isolated from red algae, inhibits SARS-CoV and MERS-CoV _in vitro_ with EC<sub>50</sub>s in the range of 0.01 to 0.1 μM without inducing cell toxicity. It also inhibits SARS-CoV when delivered intranasally in a mouse model[^10.1128/JVI.02322-09][^10.1016/j.antiviral.2016.07.011]. Time course experiments suggest that griffithsin interferes with virus cell entry[^10.1016/j.antiviral.2016.07.011]. While ELISA assays showed that it binds directly to the S glycoprotein, it does not inhibit S binding to ACE2 suggest that griffithsin may prevent the subsequent steps needed for viral entry[^10.1128/JVI.02322-09].
+Griffithsin, a 121 amino acid protein isolated from red algae, inhibits SARS-CoV and MERS-CoV _in vitro_ with EC<sub>50</sub>s in the range of 0.01 to 0.1 μM without inducing cell toxicity. It also inhibits SARS-CoV when delivered intranasally in a mouse model[^10.1128/JVI.02322-09][^10.1016/j.antiviral.2016.07.011]. Time course experiments suggest that griffithsin interferes with virus cell entry[^10.1016/j.antiviral.2016.07.011]. While ELISA assays showed that it binds directly to the S glycoprotein, it does not inhibit S binding to ACE2 suggesting it may prevent subsequent steps needed for viral entry[^10.1128/JVI.02322-09].
 
 VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.chembiol.2004.07.013] but does not appear to have been studied further. HTCC polymers are cationically modified chitosan derivatives that appear to inhibit cell entry of multiple coronaviruses including MERS-CoV and SARS-CoV[^10.1101/2020.03.29.014183][^10.1371/journal.pone.0156552]. SARS-RBD-hexapeptide is weak inhibitor of SARS-CoV viral entry, but nonetheless suggests the possibility that small peptides may be able to inhibit the interaction of coronavirus S1 receptor binding domains and ACE2[^10.1016/j.antiviral.2011.12.012]. Emodin is a plant derivative that appears to weakly inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.antiviral.2006.04.014], although it has also been proposed to inhibit SARS-CoV release from cells[^10.1016/j.antiviral.2011.02.008].
 
@@ -530,7 +530,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTkyNzEzNywxMzk0NDIwODksLTc4OD
+eyJoaXN0b3J5IjpbMTk2Nzc2Mjg5NywxMzk0NDIwODksLTc4OD
 M1OTI1Nyw5MjE5NjA3ODgsMTkwMjkyMzk2MCw2ODI5Mzg3LDE3
 OTUyNDEyMDksLTY2NDA2ODA1OSwtMjAxOTc5ODAyMSw0MzQzOD
 M2ODksMjE4OTk5MDQyLDE2NTY5NDUwNTEsMTQ0MDMzMTg1OSwt
