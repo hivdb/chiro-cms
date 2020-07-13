@@ -145,7 +145,7 @@ ___Conclusion: Heparin and enoxaparin are increasingly being used to prevent clo
 
 
 ## Convalescent Plasma
-There are few randomized controlled studies of convalescent plasma for the treatment of severe viral infections. A systematic review and meta-analysis of seven studies of convalescent plasma or immunoglobulin for SARS-CoV was considered inconclusive with respect to potential benefits and harm[^10.1371/journal.pmed.0030343]. A larger, more recent meta-analysis of 32 studies of severe SARS-CoV and influenza, reported that administration of convalescent plasma early after symptom onset showed a statistically significant 75% reduction in the pooled odds of mortality compared with placebo or no therapy[^10.1093/infdis/jiu396]. Moreover, the administration of polyclonal immune globulin preparations have been shown to prevent hepatitis B and rabies infections.
+There are few randomized controlled studies of convalescent plasma for the treatment of severe viral infections. A systematic review and meta-analysis of seven studies of convalescent plasma or immunoglobulin for SARS-CoV was considered inconclusive with respect to potential benefits and harm[^10.1371/journal.pmed.0030343]. A larger, more recent meta-analysis of 32 studies of severe SARS-CoV and influenza, reported that administration of convalescent plasma early after symptom onset showed a statistically significant 75% reduction in the pooled odds of mortality compared with placebo or no therapy[^10.1093/infdis/jiu396]. 
 
 Two risk-benefit analyses and several experts have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 outweighs the small risk of undetected bloodborne infection and allergic reaction[^10.1016/j.tmrv.2020.04.001][^10.1172/JCI138745][^10.1007/s11684-017-0596-6][^10.1172/JCI138003]. According to FDA guidance, the administration of SARS-CoV-2 convalescent plasma must be under an investigational new drug application. Donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. The recommend neutralizing antibody titers should be 1:160 (minimum >1:80). However, because neutralizing antibodies cannot readily be detected in most laboratories, this requirement is waived provided blood samples can be stored for possible eventual testing. Additionally, the magnitude of SARS-CoV-2 receptor-binding domain antibodies appears to correlate strongly with viral neutralization[^10.1101/2020.05.03.20084442].
 
@@ -530,11 +530,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTk1MDc4MiwxOTY3NzYyODk3LDEzOT
-Q0MjA4OSwtNzg4MzU5MjU3LDkyMTk2MDc4OCwxOTAyOTIzOTYw
-LDY4MjkzODcsMTc5NTI0MTIwOSwtNjY0MDY4MDU5LC0yMDE5Nz
-k4MDIxLDQzNDM4MzY4OSwyMTg5OTkwNDIsMTY1Njk0NTA1MSwx
-NDQwMzMxODU5LC0xMjM0NzEyNDk4LDEzMzA1MDM4Miw4OTkwMT
-IzOTEsLTQzNzA3NjA1NCwxNDQ0MTg5NjQ5LDIwNTU4ODY0NTVd
-fQ==
+eyJoaXN0b3J5IjpbOTE0NjgyNjE1LC0zOTk5NTA3ODIsMTk2Nz
+c2Mjg5NywxMzk0NDIwODksLTc4ODM1OTI1Nyw5MjE5NjA3ODgs
+MTkwMjkyMzk2MCw2ODI5Mzg3LDE3OTUyNDEyMDksLTY2NDA2OD
+A1OSwtMjAxOTc5ODAyMSw0MzQzODM2ODksMjE4OTk5MDQyLDE2
+NTY5NDUwNTEsMTQ0MDMzMTg1OSwtMTIzNDcxMjQ5OCwxMzMwNT
+AzODIsODk5MDEyMzkxLC00MzcwNzYwNTQsMTQ0NDE4OTY0OV19
+
 -->
