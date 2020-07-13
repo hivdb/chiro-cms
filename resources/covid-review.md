@@ -164,7 +164,7 @@ Interferons (IFNs) respond to the presence of cellular changes suggestive of a v
 There are three IFN families[^10.1038/nri3787]. Type I IFN includes 13 related IFN-α subtypes and a single IFN-β. Type II IFN consists of a single gene product IFN-γ. Type III IFN consists of IFN-λ1, IFN-λ2, and IFN-λ3. Several IFN-α products have been approved for the treatment of hepatitis B, hepatitis C, human papillomavirus, and several malignancies. IFN-β, IFN-γ, and IFN-λ have been approved for the treatment of multiple sclerosis, congenital immunodeficiency chronic granulomatous disease, and hepatitis delta infection, respectively, Commercial IFN-α products vary in the extent to which they include different IFN-α subtypes. The biological and clinical significance of the differences between the different IFN-α products are not known[^10.1016/j.smim.2019.101300]. Pegylated interferons have a longer half-life because the attached polyethylene glycol causes interferon to be cleared more slowly.
 
 The Coronavirus Antiviral Research Database contains data from about 25 cell culture studies, 10 animal model studies, and 12 clinical studies of different IFN preparations. Most of the cell culture and animal model studies have involved the inhibition of SARS-CoV or MERS; only four have involved SARS-CoV-2. Six of the clinical studies have involved SARS-CoV-2.
-IFN-α, IFN-β, and IFN-γ products were used in about 50%, 30%, and 10% of experiments, respectively. IFN-λ and IFN-β in combination with IFN-γ were used in the remaining 10% of experiments.
+IFN-α, IFN-β, and IFN-γ products were used in about 50%, 30%, and 10% of experiments, respectively. IFN-λ and IFN-β in combination with IFN-γ were used in the remaining 10% of experiments. 
 
 Both IFN-α and IFN-β appear to inhibit coronavirus _in vitro_ and in animal models, although several authors have argued that IFN-β is more effective than IFN-α at inhibiting coronaviruses[^10.1016/j.antiviral.2020.104791]. One study suggests that SARS-CoV-2 is more susceptible to IFN-α than SARS-CoV-1, due to a deletion in ORF3b, a 154 amino acid protein known to antagonize one of the proteins involved in the cellular IFN response[^10.1101/2020.03.07.982264].
 
@@ -531,11 +531,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzE2Mzc0MjQsODYyNDcyMjAxLC02ND
-Y3MzU1NjcsLTM5OTk1MDc4MiwxOTY3NzYyODk3LDEzOTQ0MjA4
-OSwtNzg4MzU5MjU3LDkyMTk2MDc4OCwxOTAyOTIzOTYwLDY4Mj
-kzODcsMTc5NTI0MTIwOSwtNjY0MDY4MDU5LC0yMDE5Nzk4MDIx
-LDQzNDM4MzY4OSwyMTg5OTkwNDIsMTY1Njk0NTA1MSwxNDQwMz
-MxODU5LC0xMjM0NzEyNDk4LDEzMzA1MDM4Miw4OTkwMTIzOTFd
-fQ==
+eyJoaXN0b3J5IjpbLTE5NDYyODQ2NiwtMTI3MTYzNzQyNCw4Nj
+I0NzIyMDEsLTY0NjczNTU2NywtMzk5OTUwNzgyLDE5Njc3NjI4
+OTcsMTM5NDQyMDg5LC03ODgzNTkyNTcsOTIxOTYwNzg4LDE5MD
+I5MjM5NjAsNjgyOTM4NywxNzk1MjQxMjA5LC02NjQwNjgwNTks
+LTIwMTk3OTgwMjEsNDM0MzgzNjg5LDIxODk5OTA0MiwxNjU2OT
+Q1MDUxLDE0NDAzMzE4NTksLTEyMzQ3MTI0OTgsMTMzMDUwMzgy
+XX0=
 -->
