@@ -163,7 +163,7 @@ Interferons (IFNs) respond to the presence of cellular changes suggestive of a v
 
 There are three IFN families[^10.1038/nri3787]. Type I IFN includes 13 related IFN-α subtypes and a single IFN-β. Type II IFN consists of a single gene product IFN-γ. Type III IFN consists of IFN-λ1, IFN-λ2, and IFN-λ3. Several IFN-α products have been approved for the treatment of hepatitis B, hepatitis C, human papillomavirus, and several malignancies. IFN-β, IFN-γ, and IFN-λ have been approved for the treatment of multiple sclerosis, congenital immunodeficiency chronic granulomatous disease, and hepatitis delta infection, respectively, Commercial IFN-α products vary in the extent to which they include different IFN-α subtypes. The biological and clinical significance of the differences between the different IFN-α products are not known[^10.1016/j.smim.2019.101300]. Pegylated interferons have a longer half-life because the attached polyethylene glycol causes interferon to be cleared more slowly.
 
-The Coronavirus Antiviral Research Database contains data from about 25 cell culture studies, 10 animal model studies, and 12 clinical studies of different IFN preparations. Most of the cell culture and animal model studies have involved the inhibition of SARS-CoV or MERS; only four have involved SARS-CoV-2. IFN-α, IFN-β, and IFN-γ products were used in about 50%, 30%, and 10% of experiments, respectively. IFN-λ and IFN-β in combination with IFN-γ were used in the remaining 10% of experiments. Both IFN-α and IFN-β appear to inhibit coronavirus _in vitro_ and in animal models, although several authors have argued that IFN-β is more effective than IFN-α at inhibiting coronaviruses[^10.1016/j.antiviral.2020.104791]. One study suggests that SARS-CoV-2 is more susceptible to IFN-α than SARS-CoV-1, due to a deletion in ORF3b, a 154 amino acid protein known to antagonize one of the proteins involved in the cellular IFN response[^10.1101/2020.03.07.982264].
+The Coronavirus Antiviral Research Database contains data from about 25 cell culture studies, 10 animal model studies, and 12 clinical studies of different IFN preparations. Most of the cell culture and animal model studies have involved the inhibition of SARS-CoV or MERS; only four have involved SARS-CoV-2. IFN-α, IFN-β, and IFN-γ products were used in about 50%, 30%, and 10% of experiments, respectively. IFN-λ and IFN-β in combination with IFN-γ were used in the remaining 10% of experiments. Both IFN-α and IFN-β appear to inhibit coronavirus _in vitro_ and in animal models, although several authors have argued that IFN-β is more effective than IFN-α at inhibiting coronaviruses[^10.1016/j.antiviral.2020.104791]. Two in vitro studies suggests that SARS-CoV-2 is more susceptible to IFN-α than SARS-CoV-1 possibly due to a deletion in ORF3b, a 154 amino acid protein known to antagonize one of the proteins involved in the cellular IFN response[^10.1101/2020.03.07.982264][^10.1074/jbc.AC120.013788].
 
 Six of the 12 clinical studies were performed in patients with SARS-CoV-2. Three of these studies, enrolling approximately 300 patients, were randomized controlled open-label studies. Two of the studies evaluated IFN-β and the third evaluated novaferon, an inhaled IFN-α formulation. One of the studies was a randomized control trial of 127 patients with mild-to-moderate disease who were randomized 2:1 to receive IFN-β + ribavirin + lopinavir/r vs. lopinavir/r alone[^10.1016/S0140-6736(20)31042-4]. The patients receiving triple therapy had a significantly shorter time to a negative nasopharyngeal PCR (7 vs. 12 days) and a more rapid clinical improvement by several metrics. As ribavirin has generally not been efficacious in treating coronavirus infections, IFN-β may have been the compound most likely responsible for the improved outcome. However, one observational study compared the mortality of 106 hospitalized patients receiving IFN-β-1b (Betaferon) 250 ug every other day at their physician's discretion to 150 untreated patients at the same institution[^10.1101/2020.05.15.20084293]. The overall mortality rate was 24.6% and there was no difference in mortality between the two groups in adjusted and unadjusted analyses.
 
@@ -526,11 +526,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzIxNjkwNDMsLTEyNzE2Mzc0MjQsOD
-YyNDcyMjAxLC02NDY3MzU1NjcsLTM5OTk1MDc4MiwxOTY3NzYy
-ODk3LDEzOTQ0MjA4OSwtNzg4MzU5MjU3LDkyMTk2MDc4OCwxOT
-AyOTIzOTYwLDY4MjkzODcsMTc5NTI0MTIwOSwtNjY0MDY4MDU5
-LC0yMDE5Nzk4MDIxLDQzNDM4MzY4OSwyMTg5OTkwNDIsMTY1Nj
-k0NTA1MSwxNDQwMzMxODU5LC0xMjM0NzEyNDk4LDEzMzA1MDM4
-Ml19
+eyJoaXN0b3J5IjpbMzY4MTYxNDY2LC0xMDMyMTY5MDQzLC0xMj
+cxNjM3NDI0LDg2MjQ3MjIwMSwtNjQ2NzM1NTY3LC0zOTk5NTA3
+ODIsMTk2Nzc2Mjg5NywxMzk0NDIwODksLTc4ODM1OTI1Nyw5Mj
+E5NjA3ODgsMTkwMjkyMzk2MCw2ODI5Mzg3LDE3OTUyNDEyMDks
+LTY2NDA2ODA1OSwtMjAxOTc5ODAyMSw0MzQzODM2ODksMjE4OT
+k5MDQyLDE2NTY5NDUwNTEsMTQ0MDMzMTg1OSwtMTIzNDcxMjQ5
+OF19
 -->
