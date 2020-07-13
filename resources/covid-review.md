@@ -163,7 +163,7 @@ Interferons (IFNs) respond to the presence of cellular changes suggestive of a v
 
 There are three IFN families[^10.1038/nri3787]. Type I IFN includes 13 related IFN-α subtypes and a single IFN-β. Type II IFN consists of a single gene product IFN-γ. Type III IFN consists of IFN-λ1, IFN-λ2, and IFN-λ3. Several IFN-α products have been approved for the treatment of hepatitis B, hepatitis C, human papillomavirus, and several malignancies. IFN-β, IFN-γ, and IFN-λ have been approved for the treatment of multiple sclerosis, congenital immunodeficiency chronic granulomatous disease, and hepatitis delta infection, respectively, Commercial IFN-α products vary in the extent to which they include different IFN-α subtypes. The biological and clinical significance of the differences between the different IFN-α products are not known[^10.1016/j.smim.2019.101300]. Pegylated interferons have a longer half-life because the attached polyethylene glycol causes interferon to be cleared more slowly.
 
-The Coronavirus Antiviral Research Database contains approximately 160 cell culture
+The Coronavirus Antiviral Research Database contains approximately 160 cell culture, 25 animal model, and 12 clinical studies of different IFN preparations ([https://covdb.stanford.edu/search/?target=Interferons](https://covdb.stanford.edu/search/?target=Interferons). 
 
 [^10.1016/s0140-6736(03)13615-x][^10.1089/1079990041535610][^10.1086/382597][^PMID15651759][^10.1016/j.bbrc.2004.08.085][^10.1016/j.virol.2004.08.011][^10.3201/eid1002.030482][^10.1016/j.bbrc.2004.06.076][^10.1080/00365540410021144][^10.1016/j.bbrc.2004.11.128][^10.1177/095632020601700505][^10.1128/JVI.02322-09][^10.1099/vir.0.052910-0][^10.1038/nm.3362][^10.1016/j.jinf.2013.09.029][^10.1099/vir.0.061911-0][^10.1016/j.antiviral.2018.05.007][^10.1016/j.antiviral.2017.01.012][^10.1101/2020.03.07.982264][^10.1101/2020.04.02.022764][^10.1038/s41467-019-13940-6] and >25 animal model experiments[^10.1038/nm1001][^10.1177/095632020601700505][^10.1016/j.antiviral.2010.11.007][^10.1038/nm.3362][^10.1093/infdis/jiv392][^10.1093/infdis/jiv325][^10.1172/JCI126363] reporting the inhibitory activity of different IFN preparations against SARS-CoV (100 results), MERS-CoV (49 results), SARS-CoV-2 (4 results), or another coronavirus species (35 results). IFN-α, IFN-β, and IFN-γ products were used in about 50%, 30%, and 10% of experiments, respectively. IFN-λ and IFN-β in combination with IFN-γ were used in the remaining 10% of experiments.
 
@@ -532,7 +532,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MTc2NzE4LDg2MjQ3MjIwMSwtNjQ2Nz
+eyJoaXN0b3J5IjpbMTAzNzIxMjk4LDg2MjQ3MjIwMSwtNjQ2Nz
 M1NTY3LC0zOTk5NTA3ODIsMTk2Nzc2Mjg5NywxMzk0NDIwODks
 LTc4ODM1OTI1Nyw5MjE5NjA3ODgsMTkwMjkyMzk2MCw2ODI5Mz
 g3LDE3OTUyNDEyMDksLTY2NDA2ODA1OSwtMjAxOTc5ODAyMSw0
