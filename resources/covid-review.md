@@ -163,9 +163,9 @@ Interferons (IFNs) respond to the presence of cellular changes suggestive of a v
 
 There are three IFN families[^10.1038/nri3787]. Type I IFN includes 13 related IFN-α subtypes and a single IFN-β. Type II IFN consists of a single gene product IFN-γ. Type III IFN consists of IFN-λ1, IFN-λ2, and IFN-λ3. Several IFN-α products have been approved for the treatment of hepatitis B, hepatitis C, human papillomavirus, and several malignancies. IFN-β, IFN-γ, and IFN-λ have been approved for the treatment of multiple sclerosis, congenital immunodeficiency chronic granulomatous disease, and hepatitis delta infection, respectively, Commercial IFN-α products vary in the extent to which they include different IFN-α subtypes. The biological and clinical significance of the differences between the different IFN-α products are not known[^10.1016/j.smim.2019.101300]. Pegylated interferons have a longer half-life because the attached polyethylene glycol causes interferon to be cleared more slowly.
 
-The Coronavirus Antiviral Research Database contains data from about 25 cell culture studies, 10 animal model studies, and 12 clinical studies of different IFN preparations. Most of the cell culture and animal model studies have involved the inhibition of SARS-CoV or MERS; only four have involved SARS-CoV-2. Six of the clinical studies have involved SARS-CoV-2.
-IFN-α, IFN-β, and IFN-γ products were used in about 50%, 30%, and 10% of experiments, respectively. IFN-λ and IFN-β in combination with IFN-γ were used in the remaining 10% of experiments. 
+The Coronavirus Antiviral Research Database contains data from about 25 cell culture studies, 10 animal model studies, and 12 clinical studies of different IFN preparations. Most of the cell culture and animal model studies have involved the inhibition of SARS-CoV or MERS; only four have involved SARS-CoV-2. IFN-α, IFN-β, and IFN-γ products were used in about 50%, 30%, and 10% of experiments, respectively. IFN-λ and IFN-β in combination with IFN-γ were used in the remaining 10% of experiments. 
 
+Six of the 12 clinical studies have involved SARS-CoV-2. Three studies enrolling approximately 300 patients have b
 Both IFN-α and IFN-β appear to inhibit coronavirus _in vitro_ and in animal models, although several authors have argued that IFN-β is more effective than IFN-α at inhibiting coronaviruses[^10.1016/j.antiviral.2020.104791]. One study suggests that SARS-CoV-2 is more susceptible to IFN-α than SARS-CoV-1, due to a deletion in ORF3b, a 154 amino acid protein known to antagonize one of the proteins involved in the cellular IFN response[^10.1101/2020.03.07.982264].
 
 There have been eight observational studies of IFN-α or IFN-β in patients with MERS-CoV (4 studies), SARS-CoV (2 studies), or SARS-CoV-2 (3 studies). One of the three SARS-CoV-2 was a randomized control trial of 127 patients with mild-to-moderate disease who were randomized 2:1 to receive IFN-β + ribavirin + lopinavir/r vs. lopinavir/r alone[^10.1016/S0140-6736(20)31042-4]. The patients receiving triple therapy had a significantly shorter time to a negative nasopharyngeal PCR (7 vs. 12 days) and a more rapid clinical improvement by several metrics. As ribavirin has generally not been efficacious in treating coronavirus infections, IFN-β is the most likely compound responsible for the improved outcome.
@@ -531,11 +531,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDYyODQ2NiwtMTI3MTYzNzQyNCw4Nj
-I0NzIyMDEsLTY0NjczNTU2NywtMzk5OTUwNzgyLDE5Njc3NjI4
-OTcsMTM5NDQyMDg5LC03ODgzNTkyNTcsOTIxOTYwNzg4LDE5MD
-I5MjM5NjAsNjgyOTM4NywxNzk1MjQxMjA5LC02NjQwNjgwNTks
-LTIwMTk3OTgwMjEsNDM0MzgzNjg5LDIxODk5OTA0MiwxNjU2OT
-Q1MDUxLDE0NDAzMzE4NTksLTEyMzQ3MTI0OTgsMTMzMDUwMzgy
-XX0=
+eyJoaXN0b3J5IjpbMzM4MjA0NDQ4LC0xMjcxNjM3NDI0LDg2Mj
+Q3MjIwMSwtNjQ2NzM1NTY3LC0zOTk5NTA3ODIsMTk2Nzc2Mjg5
+NywxMzk0NDIwODksLTc4ODM1OTI1Nyw5MjE5NjA3ODgsMTkwMj
+kyMzk2MCw2ODI5Mzg3LDE3OTUyNDEyMDksLTY2NDA2ODA1OSwt
+MjAxOTc5ODAyMSw0MzQzODM2ODksMjE4OTk5MDQyLDE2NTY5ND
+UwNTEsMTQ0MDMzMTg1OSwtMTIzNDcxMjQ5OCwxMzMwNTAzODJd
+fQ==
 -->
