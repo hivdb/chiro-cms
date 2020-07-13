@@ -119,10 +119,10 @@ Peptides that mimic HR2 can block virus-cell fusion by preventing the interactio
 
 Prior to the SARS-CoV-2 pandemic, an HR2 mimicking peptide named EK1 was identified as a potential broad-spectrum coronavirus inhibitor as it inhibited both SARS-CoV and MERS-CoV at sub-micromolar levels and was found to safe and protective against MERS-CoV when administered intra-nasally to SARS-CoV-infected mice[^10.1126/sciadv.aav4580]. With the emergence of SARS-CoV-2, the crystal structure of the SARS-CoV-2 six helix bundle was solved, and several modifications were made to the EK1 peptide. In addition, a cholesterol group was added[^10.1038/s41422-020-0305-x] as lipidation had recently been shown to improve the pharmacokinetics and inhibitory activity of viral fusion inhibitors[^10.1128/JVI.00288-17]. This new lipopeptide, named EK1C4 was found to inhibit SARS-CoV-2 fusion 150 times more strongly than EK1, with SARS-CoV-2 EC<sub>50</sub>s of 0.04 μM and 0.004 μM in cell culture for SARS-CoV-2 and MERS-CoV, and with even lower EC<sub>50</sub>s in cell-cell fusion assays. Two other HR2-mimicking lipopeptide IPB02 and IPB04 have also been highly active in cell-cell fusion and pseudotype virus assays[^10.1128/JVI.00635-20].
 
-___Conclusion: Further animal model studies or a phase I/II study in COVID-19 patients could be useful to determine the safety, pharmacokinetic, and efficacy of a fusion inhibitor such as EK1C4 administered intravenously. ___
+___Conclusion: Further animal model studies or a phase I/II study are needed to determine the safety, pharmacokinetic, and efficacy of a fusion inhibitor such as EK1C4. ___
 
 ### Soluble ACE2 and Other Molecular Decoys
-Soluble recombinant human ACE2 (rhACE2) has two potential beneficial effects. First, prior to the SARS-CoV-2 pandemic, rhACE2 was shown to protect lungs from injury during acute respiratory distress syndrome (ARDS)[^10.1038/nature03712][^10.1038/nm1267][^10.1186/s13054-017-1823-x][^10.1016/j.cell.2020.04.004]. Second, rhACE2 inhibits the binding of SARS-CoV and SARS-CoV-2 to ACE2-expressing cells[^10.1016/j.bbrc.2004.05.114][^10.1016/j.cell.2020.03.045] and has displayed does-dependent activity _in vitro_ against SARS-CoV-2 in cultured cells and engineered human blood vessel and kidney organoids[^10.1016/j.cell.2020.04.004]. APN1 (Apeiron Biologics) is a recombinant form of human ACE2, that demonstrated safety in 89 non-SARS-CoV-2 patients and volunteers. It is now being evaluated in a 200-person placebo-controlled study of hospitalized persons with SARS-CoV-2 (NCT04335136). A similar approach involving the use of a fusion protein – in which an inactive ACE2 mutant is linked to a human Fc IgG – has also been shown to be highly active _in vitro_ [^10.1038/s41467-020-16048-4].
+Soluble recombinant human ACE2 (rhACE2) has two potential beneficial effects. First, prior to the SARS-CoV-2 pandemic, rhACE2 was shown to protect lungs from injury during acute respiratory distress syndrome (ARDS)[^10.1038/nature03712][^10.1038/nm1267][^10.1186/s13054-017-1823-x][^10.1016/j.cell.2020.04.004]. Second, rhACE2 inhibits the binding of SARS-CoV and SARS-CoV-2 to ACE2-expressing cells[^10.1016/j.bbrc.2004.05.114][^10.1016/j.cell.2020.03.045] and has displayed dose-dependent activity _in vitro_ against SARS-CoV-2 in cultured cells and engineered human blood vessel and kidney organoids[^10.1016/j.cell.2020.04.004]. APN1 (Apeiron Biologics) is a recombinant form of human ACE2, that demonstrated safety in 89 non-SARS-CoV-2 patients and volunteers. It is now being evaluated in a 200-person placebo-controlled study of hospitalized persons with SARS-CoV-2 (NCT04335136). A similar approach involving the use of a fusion protein – in which an inactive ACE2 mutant is linked to a human Fc IgG – has also been shown to be highly active _in vitro_ [^10.1038/s41467-020-16048-4].
 
 The complete ACE2 molecule may not be necessary to inhibit viral infection if a synthetic peptide can be constructed with a critical minimal subset of ACE2 amino acids capable of competing with cellular ACE2 for the SARS-CoV-2 receptor binding domain (RBD). Preliminary data from SARS-CoV suggest that multiple residues from different parts of the ACE2 molecule will be required including amino acids between positions 24–90 and 329–354[^10.1126/science.1116480]. Two ACE2-derived peptides between positions 22–57 demonstrated some _in vitro_ activity against SARS-CoV[^10.1016/j.virol.2006.01.029]. Another peptide comprising two discontinuous ACE2 segments containing residues 22–44 and 351–357 artificially linked together by glycine, exhibited more potent _in vitro_ activity with an EC<sub>50</sub> of about 0.1 μM[^10.1016/j.virol.2006.01.029].
 
@@ -530,11 +530,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njc5NTIyMzYsNjgyOTM4NywxNzk1Mj
-QxMjA5LC02NjQwNjgwNTksLTIwMTk3OTgwMjEsNDM0MzgzNjg5
-LDIxODk5OTA0MiwxNjU2OTQ1MDUxLDE0NDAzMzE4NTksLTEyMz
-Q3MTI0OTgsMTMzMDUwMzgyLDg5OTAxMjM5MSwtNDM3MDc2MDU0
-LDE0NDQxODk2NDksMjA1NTg4NjQ1NSwzMzU2NzAwMTcsMTkyOT
-Q4MzgxOCwxNjIxODQ2NzI5LC00NzE1Mzc5NTUsLTE5MTQ3NjEy
-MV19
+eyJoaXN0b3J5IjpbMTkwMjkyMzk2MCw2ODI5Mzg3LDE3OTUyND
+EyMDksLTY2NDA2ODA1OSwtMjAxOTc5ODAyMSw0MzQzODM2ODks
+MjE4OTk5MDQyLDE2NTY5NDUwNTEsMTQ0MDMzMTg1OSwtMTIzND
+cxMjQ5OCwxMzMwNTAzODIsODk5MDEyMzkxLC00MzcwNzYwNTQs
+MTQ0NDE4OTY0OSwyMDU1ODg2NDU1LDMzNTY3MDAxNywxOTI5ND
+gzODE4LDE2MjE4NDY3MjksLTQ3MTUzNzk1NSwtMTkxNDc2MTIx
+XX0=
 -->
