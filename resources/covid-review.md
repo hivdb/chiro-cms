@@ -155,7 +155,7 @@ In an open-label randomized controlled trial of 103 persons with severe or life-
 
 There are currently about 70 ongoing clinical trials of convalescent plasma of which at least 10 are randomized controlled studies.
 
-___Conclusions: There is sufficient uncertainty about the clinical efficacy of convalescent plasma to justify the completion of the ongoing andomized trials. The potential mechanism of this intervention can be confirmed by determining whether there is a correlation between neutralizing antibody titer and clinical response.___
+___Conclusions: If convalescent plasma is efficacious, it is likely to be more useful early in the course of disease. Efficacy may also depend on the titer of neutralizing antibodies in the donor sample.There is sufficient uncertainty about the clinical efficacy of convalescent plasma to justify the completion of the ongoing randomized trials. The potential mechanism of this intervention can be confirmed by determining whether there is a correlation between neutralizing antibody titer and clinical response.___
 
 
 ## Interferons
@@ -530,7 +530,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjExNDAwMTIsLTY0NjczNTU2NywtMz
+eyJoaXN0b3J5IjpbLTEwMTI2Mzg2MTcsLTY0NjczNTU2NywtMz
 k5OTUwNzgyLDE5Njc3NjI4OTcsMTM5NDQyMDg5LC03ODgzNTky
 NTcsOTIxOTYwNzg4LDE5MDI5MjM5NjAsNjgyOTM4NywxNzk1Mj
 QxMjA5LC02NjQwNjgwNTksLTIwMTk3OTgwMjEsNDM0MzgzNjg5
