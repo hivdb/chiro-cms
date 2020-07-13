@@ -165,11 +165,8 @@ There are three IFN families[^10.1038/nri3787]. Type I IFN includes 13 related I
 
 The Coronavirus Antiviral Research Database contains data from about 25 cell culture studies, 10 animal model studies, and 12 clinical studies of different IFN preparations. Most of the cell culture and animal model studies have involved the inhibition of SARS-CoV or MERS; only four have involved SARS-CoV-2. IFN-α, IFN-β, and IFN-γ products were used in about 50%, 30%, and 10% of experiments, respectively. IFN-λ and IFN-β in combination with IFN-γ were used in the remaining 10% of experiments. Both IFN-α and IFN-β appear to inhibit coronavirus _in vitro_ and in animal models, although several authors have argued that IFN-β is more effective than IFN-α at inhibiting coronaviruses[^10.1016/j.antiviral.2020.104791]. One study suggests that SARS-CoV-2 is more susceptible to IFN-α than SARS-CoV-1, due to a deletion in ORF3b, a 154 amino acid protein known to antagonize one of the proteins involved in the cellular IFN response[^10.1101/2020.03.07.982264].
 
-Six of the 12 clinical studies were performed in patients with SARS-CoV-2. Three of these studies, enrolling approximately 300 patients, were randomized controlled open-label studies. Two of the studies evaluated IFN-β and the third evaluated novaferon, an inhaled IFN-α formulation.
-
-
-There have been eight observational studies of IFN-α or IFN-β in patients with MERS-CoV (4 studies), SARS-CoV (2 studies), or SARS-CoV-2 (3 studies). One of the three SARS-CoV-2 was a randomized control trial of 127 patients with mild-to-moderate disease who were randomized 2:1 to receive IFN-β + ribavirin + lopinavir/r vs. lopinavir/r alone[^10.1016/S0140-6736(20)31042-4]. The patients receiving triple therapy had a significantly shorter time to a negative nasopharyngeal PCR (7 vs. 12 days) and a more rapid clinical improvement by several metrics. As ribavirin has generally not been efficacious in treating coronavirus infections, IFN-β is the most likely compound responsible for the improved outcome.
-
+Six of the 12 clinical studies were performed in patients with SARS-CoV-2. Three of these studies, enrolling approximately 300 patients, were randomized controlled open-label studies. Two of the studies evaluated IFN-β and the third evaluated novaferon, an inhaled IFN-α formulation. One of the studies was a randomized control trial of 127 patients with mild-to-moderate disease who were randomized 2:1 to receive IFN-β + ribavirin + lopinavir/r vs. lopinavir/r alone[^10.1016/S0140-6736(20)31042-4]. The patients receiving triple therapy had a significantly shorter time to a negative nasopharyngeal PCR (7 vs. 12 days) and a more rapid clinical improvement by several metrics. As ribavirin has generally not been efficacious in treating coronavirus infections, IFN-β may have been the compound most likely responsible for the improved outcome.
+How
 One observational study compared the mortality of 106 hospitalized patients receiving IFN-β-1b (Betaferon) 250 ug every other day at their physician's discretion to 150 untreated patients at the same institution[^10.1101/2020.05.15.20084293]. The overall mortality rate was 24.6% and there was no difference in mortality between the two groups in adjusted and unadjusted analyses.
 
 Theoretical and empirical data suggest that IFNs should be administered as early as possible in the course of infection[^10.1172/JCI126363] when innate immunity is likely to be most needed; this would also avoid exacerbating the unregulated exuberant deleterious immune response that often occurs in the later stages of severe coronavirus infections. Although far fewer data are available for IFN-λs, they have garnered much interest because they act at epithelial barriers and thus are theoretically optimal for treating viral respiratory tract infections and because they are reported to suppress viral spread without causing inflammation[^10.15252/emmm.201606413][^10.1093/cid/ciaa453].
@@ -531,11 +528,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjkzMzY2MiwtMTI3MTYzNzQyNCw4Nj
-I0NzIyMDEsLTY0NjczNTU2NywtMzk5OTUwNzgyLDE5Njc3NjI4
-OTcsMTM5NDQyMDg5LC03ODgzNTkyNTcsOTIxOTYwNzg4LDE5MD
-I5MjM5NjAsNjgyOTM4NywxNzk1MjQxMjA5LC02NjQwNjgwNTks
-LTIwMTk3OTgwMjEsNDM0MzgzNjg5LDIxODk5OTA0MiwxNjU2OT
-Q1MDUxLDE0NDAzMzE4NTksLTEyMzQ3MTI0OTgsMTMzMDUwMzgy
-XX0=
+eyJoaXN0b3J5IjpbLTEyNTEyNDE2MjcsLTEyNzE2Mzc0MjQsOD
+YyNDcyMjAxLC02NDY3MzU1NjcsLTM5OTk1MDc4MiwxOTY3NzYy
+ODk3LDEzOTQ0MjA4OSwtNzg4MzU5MjU3LDkyMTk2MDc4OCwxOT
+AyOTIzOTYwLDY4MjkzODcsMTc5NTI0MTIwOSwtNjY0MDY4MDU5
+LC0yMDE5Nzk4MDIxLDQzNDM4MzY4OSwyMTg5OTkwNDIsMTY1Nj
+k0NTA1MSwxNDQwMzMxODU5LC0xMjM0NzEyNDk4LDEzMzA1MDM4
+Ml19
 -->
