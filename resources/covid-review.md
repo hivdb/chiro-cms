@@ -155,7 +155,7 @@ In an open-label randomized controlled trial of 103 persons with severe or life-
 
 There are currently about 70 ongoing clinical trials of convalescent plasma of which at least 10 are randomized controlled studies.
 
-___Conclusions: There is a weaconvalescent plasma is not supported by controlled trials, substantial observational data supports this intervention. Nonetheless, there is sufficient uncertainty to justify the completion of the ongoing and planned randomized trials. The potential mechanism of this intervention can be confirmed by determining whether there is a correlation between neutralizing antibody titer and clinical response.___
+___Conclusions: There is sufficient uncertainty about the clinical efficacy of convalescent plasma to justify the completion of the ongoing andomized trials. The potential mechanism of this intervention can be confirmed by determining whether there is a correlation between neutralizing antibody titer and clinical response.___
 
 
 ## Interferons
@@ -530,11 +530,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDY2NjU2NiwtNjQ2NzM1NTY3LC0zOT
-k5NTA3ODIsMTk2Nzc2Mjg5NywxMzk0NDIwODksLTc4ODM1OTI1
-Nyw5MjE5NjA3ODgsMTkwMjkyMzk2MCw2ODI5Mzg3LDE3OTUyND
-EyMDksLTY2NDA2ODA1OSwtMjAxOTc5ODAyMSw0MzQzODM2ODks
-MjE4OTk5MDQyLDE2NTY5NDUwNTEsMTQ0MDMzMTg1OSwtMTIzND
-cxMjQ5OCwxMzMwNTAzODIsODk5MDEyMzkxLC00MzcwNzYwNTRd
-fQ==
+eyJoaXN0b3J5IjpbLTIwNjExNDAwMTIsLTY0NjczNTU2NywtMz
+k5OTUwNzgyLDE5Njc3NjI4OTcsMTM5NDQyMDg5LC03ODgzNTky
+NTcsOTIxOTYwNzg4LDE5MDI5MjM5NjAsNjgyOTM4NywxNzk1Mj
+QxMjA5LC02NjQwNjgwNTksLTIwMTk3OTgwMjEsNDM0MzgzNjg5
+LDIxODk5OTA0MiwxNjU2OTQ1MDUxLDE0NDAzMzE4NTksLTEyMz
+Q3MTI0OTgsMTMzMDUwMzgyLDg5OTAxMjM5MSwtNDM3MDc2MDU0
+XX0=
 -->
