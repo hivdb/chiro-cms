@@ -129,6 +129,8 @@ The complete ACE2 molecule may not be necessary to inhibit viral infection if a 
 ___Conclusion: rhACE2 may prove to be useful in patients with the most severe cases of SARS-CoV-2 pneumonia.___
 
 ### Additional Possible Entry Inhibitors
+Two groups have reported that certain anticoagulants such as heparin, enoxaparin, and pixatimod bind to S1 receptor binding domains and  interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761][^10.1101/2020.06.08.140236][^10.1101/2020.06.24.169334]. Administration of heparin intranasally has also been proposed as a method of preventing spread of SARS-CoV-2 after initial infection without increasing the risk of bleeding[^10.1101/2020.06.08.140236].
+
 Umifenovir (aka arbidol) is an oral drug used in Russia and China to treat influenza and other viral infections[^10.1016/j.antiviral.2014.04.006][^10.1128/JVI.02077-15]. It is reported to have _in vitro_ activity against multiple viruses and to inhibit viral entry by binding viral surface glycoproteins[^10.1016/j.antiviral.2008.10.009]. Its SARS-CoV-2 EC<sub>50</sub>s have been reported to be between 5 and 10 μM with a selectivity index of about 8[^10.1101/2020.04.03.023846][^10.1038/s41421-020-0169-8]. A crystal structure of umifenovir in complex with influenza hemagglutinin showed it binding a hydrophobic cavity in the hemagglutinin trimer stem[^10.1073/pnas.1617020114]. There have been two open-label controlled trials in patients with SARS-CoV-2[^10.1101/2020.03.17.20037432][^10.1101/2020.03.19.20038984] and several small retrospective observational studies[^10.1016/j.jinf.2020.03.002][^10.1016/j.jinf.2020.03.060][^10.1101/2020.04.06.20042580] which have demonstrated lack of clinical efficacy. 
 
 Spike-mimicking 20-mer peptides corresponding to different S1 and/or S2 regions were reported in one study to synergistically interfere with SARS-CoV entry into cells presumably by competing with complete virus for ACE2 binding[^PMID15918330]. However, few studies have described this approach and the inhibition of ACE2 enzymatic function or down-regulation of ACE2 levels is precarious as the absence of ACE2 is associated with the same pulmonary and cardiovascular disturbances observed during severe SARS-CoV and presumably SARS-CoV-2 infection.
@@ -141,7 +143,7 @@ VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell
 
 Two groups have reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and  interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761][^10.1101/2020.06.08.140236][^10.1101/2020.06.24.169334]. Administration of heparin intranasally has also been proposed as a method of preventing spread of SARS-CoV-2 after initial infection without increasing the risk of bleeding[^10.1101/2020.06.08.140236].
 
-___Conclusion: Heparin and enoxaparin are increasingly being used to prevent clotting in persons with severe disease. They may also have a direct antiviral effect. Intranasal administration in early less severe infections should be studied. Arbidol does not appear to be clinically efficacious. The remaining compounds in this section have not been  well studied.  ___
+___Conclusion: Heparin and enoxaparin are increasingly being used to prevent clotting in persons with severe disease. They may also have a direct antiviral effect. Intranasal administration in early less severe infections should be studied. The remaining compounds in this section have not been  well studied.  ___
 
 
 ## Convalescent Plasma
@@ -530,7 +532,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDM2MjY1MCwxOTY3NzYyODk3LDEzOT
+eyJoaXN0b3J5IjpbLTg2NzgzMjU0NiwxOTY3NzYyODk3LDEzOT
 Q0MjA4OSwtNzg4MzU5MjU3LDkyMTk2MDc4OCwxOTAyOTIzOTYw
 LDY4MjkzODcsMTc5NTI0MTIwOSwtNjY0MDY4MDU5LC0yMDE5Nz
 k4MDIxLDQzNDM4MzY4OSwyMTg5OTkwNDIsMTY1Njk0NTA1MSwx
