@@ -139,7 +139,7 @@ Griffithsin, a 121 amino acid protein isolated from red algae, inhibits SARS-CoV
 
 VE607 was reported in one study to inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.chembiol.2004.07.013] but does not appear to have been studied further. HTCC polymers are cationically modified chitosan derivatives that appear to inhibit cell entry of multiple coronaviruses including MERS-CoV and SARS-CoV[^10.1101/2020.03.29.014183][^10.1371/journal.pone.0156552]. SARS-RBD-hexapeptide is weak inhibitor of SARS-CoV viral entry, but nonetheless suggests the possibility that small peptides may be able to inhibit the interaction of coronavirus S1 receptor binding domains and ACE2[^10.1016/j.antiviral.2011.12.012]. Emodin is a plant derivative that appears to weakly inhibit SARS-CoV S protein-ACE2-mediated cell entry[^10.1016/j.antiviral.2006.04.014], although it has also been proposed to inhibit SARS-CoV release from cells[^10.1016/j.antiviral.2011.02.008].
 
-Two groups have reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and  interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761][^10.1101/2020.06.08.140236]. Administration of heparin intranasally has also been proposed as a method of preventing spread of SARS-CoV-2 after initial infection without increasing the risk of bleeding[^10.1101/2020.06.08.140236].
+Two groups have reported that certain anticoagulants such as heparin and enoxaparin bind to S1 receptor binding domains and  interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761][^10.1101/2020.06.08.140236][^10.1101/2020.06.24.169334]. Administration of heparin intranasally has also been proposed as a method of preventing spread of SARS-CoV-2 after initial infection without increasing the risk of bleeding[^10.1101/2020.06.08.140236].
 
 ___Conclusion: Heparin and enoxaparin are increasingly being used to prevent clotting in persons with severe disease. They may also have a direct antiviral effect. Intranasal administration in early less severe infections should be studied. Arbidol does not appear to be clinically efficacious. The remaining compounds in this section have not been  well studied.  ___
 
@@ -530,11 +530,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Nzc2Mjg5NywxMzk0NDIwODksLTc4OD
-M1OTI1Nyw5MjE5NjA3ODgsMTkwMjkyMzk2MCw2ODI5Mzg3LDE3
-OTUyNDEyMDksLTY2NDA2ODA1OSwtMjAxOTc5ODAyMSw0MzQzOD
-M2ODksMjE4OTk5MDQyLDE2NTY5NDUwNTEsMTQ0MDMzMTg1OSwt
-MTIzNDcxMjQ5OCwxMzMwNTAzODIsODk5MDEyMzkxLC00MzcwNz
-YwNTQsMTQ0NDE4OTY0OSwyMDU1ODg2NDU1LDMzNTY3MDAxN119
-
+eyJoaXN0b3J5IjpbMTYwMDM2MjY1MCwxOTY3NzYyODk3LDEzOT
+Q0MjA4OSwtNzg4MzU5MjU3LDkyMTk2MDc4OCwxOTAyOTIzOTYw
+LDY4MjkzODcsMTc5NTI0MTIwOSwtNjY0MDY4MDU5LC0yMDE5Nz
+k4MDIxLDQzNDM4MzY4OSwyMTg5OTkwNDIsMTY1Njk0NTA1MSwx
+NDQwMzMxODU5LC0xMjM0NzEyNDk4LDEzMzA1MDM4Miw4OTkwMT
+IzOTEsLTQzNzA3NjA1NCwxNDQ0MTg5NjQ5LDIwNTU4ODY0NTVd
+fQ==
 -->
