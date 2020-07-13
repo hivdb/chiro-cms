@@ -153,9 +153,9 @@ Joyner et. al. reported the results of a safety review of the first 5,000 patien
 
 In an open-label randomized controlled trial of 103 persons with severe or life-threatening disease, there was no overall difference in the primary endpoint of a 2-point improvement on a 6-point scale by day 28[^10.1001/jama.2020.10044]. However, in the subgroup with severe (but not life-threatening) disease, 21/23 receiving convalescent plasma vs. 15/22 in the control group achieved the primary outcome (p=0.03)[^10.1001/jama.2020.10044]. A similar finding was observed in another observational study of 39 hospitalized patients receiving convalescent plasma in that the risk of dying compared to matched controls was lower among patients not receiving mechanical ventilation (HR=0.19, 95% CI: 0.05-0.72; p=0.02) compared to mechanically ventilated patients (HR=1.24, 95% CI:0.33-4.67)[^10.1101/2020.05.20.20102236]. However, a recent randomized controlled study was terminated prematurely because the enrolling patients had neutralizing antibodies titers that were similar to those of the plasma donors[^10.1101/2020.07.01.20139857]. 
 
-There are currently more than 75 ongoing or planned clinical trials containing at least one arm in which recipients will receive convalescent plasma. At least 10 of these appear to be randomized controlled studies.
+There are currently about 70 ongoing clinical trials of convalescent plasma of which at least 10 are randomized controlled studies.
 
-___Conclusions: Although the use of convalescent plasma is not supported by controlled trials, substantial observational data supports this intervention. Nonetheless, there is sufficient uncertainty to justify the completion of the ongoing and planned randomized trials. The potential mechanism of this intervention can be confirmed by determining whether there is a correlation between neutralizing antibody titer and clinical response.___
+___Conclusions: There is a weaconvalescent plasma is not supported by controlled trials, substantial observational data supports this intervention. Nonetheless, there is sufficient uncertainty to justify the completion of the ongoing and planned randomized trials. The potential mechanism of this intervention can be confirmed by determining whether there is a correlation between neutralizing antibody titer and clinical response.___
 
 
 ## Interferons
@@ -530,11 +530,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjczNTU2NywtMzk5OTUwNzgyLDE5Nj
-c3NjI4OTcsMTM5NDQyMDg5LC03ODgzNTkyNTcsOTIxOTYwNzg4
-LDE5MDI5MjM5NjAsNjgyOTM4NywxNzk1MjQxMjA5LC02NjQwNj
-gwNTksLTIwMTk3OTgwMjEsNDM0MzgzNjg5LDIxODk5OTA0Miwx
-NjU2OTQ1MDUxLDE0NDAzMzE4NTksLTEyMzQ3MTI0OTgsMTMzMD
-UwMzgyLDg5OTAxMjM5MSwtNDM3MDc2MDU0LDE0NDQxODk2NDld
+eyJoaXN0b3J5IjpbMTg0MDY2NjU2NiwtNjQ2NzM1NTY3LC0zOT
+k5NTA3ODIsMTk2Nzc2Mjg5NywxMzk0NDIwODksLTc4ODM1OTI1
+Nyw5MjE5NjA3ODgsMTkwMjkyMzk2MCw2ODI5Mzg3LDE3OTUyND
+EyMDksLTY2NDA2ODA1OSwtMjAxOTc5ODAyMSw0MzQzODM2ODks
+MjE4OTk5MDQyLDE2NTY5NDUwNTEsMTQ0MDMzMTg1OSwtMTIzND
+cxMjQ5OCwxMzMwNTAzODIsODk5MDEyMzkxLC00MzcwNzYwNTRd
 fQ==
 -->
