@@ -207,7 +207,7 @@ __Signaling pathway inhibitors__: High-throughput experiments have been performe
 
 The kinase inhibitors dasatinib and imatinib were found to inhibit SARS-CoV and MERS-CoV with EC<sub>50</sub>s of 2.1 and 5.4 μM for dasatinib and 9.8 and 17.7 μM for imatinib[^10.1128/AAC.03036-14]. Further mechanistic studies demonstrated that imatinib inhibits the early stages of infection with SARS-CoV, MERS-CoV and other coronaviruses possibly by affecting viral fusion with endosomal membranes; inhibition was demonstrated to occur specifically through ABL kinase inhibition[^10.1128/JVI.01429-16][^10.1099/jgv.0.001047]. At least one pharmacokinetic study suggested, however, that standard doses of imatinib would be associated with plasma levels considerably lower than the EC<sub>50</sub>s reported for SARS-CoV and MERS-CoV[^10.1002/cpt.1909]. As of July, imatinib is listed in eight ongoing or planned clinical trials including two placebo-controlled trials. It appears, however, that in these studies imatinib is being studied primarily for its role in treating pulmonary fibrosis. Another kinase inhibitor, saracatinib, has also recently been shown to inhibit several coronaviruses in the low μM range[^10.3390/v10060283]
 
-__Nitazoxanide__: Nitazoxanide is licensed for the treatment of cryptosporidium infections. It has been reported to inhibit a wide range of viruses in vitro. It has been proposed to interfere with host regulated pathways involved in viral replication including those involving interferon or mTORC1[^10.1016/j.jiph.2016.04.001]. In one study its EC<sub>50</sub> for SARS-CoV-2 was 2.1 μM[^10.1038/s41422-020-0282-0]. One pharmacokinetic analysis suggested that nitazoxanide plasma levels could reach concentrations above its one reported EC<sub>50</sub> level[^10.1002/cpt.1909]. As of May 28, it is being studied in three ongoing and eight planned clinical trials.
+__Nitazoxanide__: Nitazoxanide is licensed for the treatment of cryptosporidium infections. It has been reported to inhibit a wide range of viruses in vitro. It has been proposed to interfere with host regulated pathways involved in viral replication including those involving interferon or mTORC1[^10.1016/j.jiph.2016.04.001]. In one study its EC<sub>50</sub> for SARS-CoV-2 was 2.1 μM[^10.1038/s41422-020-0282-0]. One pharmacokinetic analysis suggested that nitazoxanide plasma levels could reach concentrations above its one reported EC<sub>50</sub> level[^10.1002/cpt.1909]. As of July, it is being studied in five ongoing and nine planned clinical trials.
 
 __Ciclesonide__: Ciclesonide is an inhaled corticosteroid discovered in a high-throughput drug screen to inhibit coronavirus replication in the low μM range[^10.1101/2020.03.11.987016][^10.1128/AAC.00819-20][^10.1101/2020.02.25.965582]. Although its mechanism of action is not known, virus passage in the presence of ciclesonide led to the selection of a ciclesonide-resistant mutant, characterized by a point mutation in the NSP15 gene. A single mutation in this gene was responsible for ~100-fold reduced susceptibility. A small case series of three patients from Japan who received inhaled ciclesonide has been published[^10.1016/j.jiac.2020.04.007], As of April 21, there is one ongoing and one planned study of inhaled ciclesonide in South Korea.
 
@@ -508,10 +508,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4MjM0ODUsMzQzMjk4MTA0LDM1NDE4MT
-E5LDE1MzY1MjE0MTcsLTc4NjYyNTM3LC0yMDQ3NDQ0NTU5LDg3
-Nzc1Mzk4MSwxODYwOTM5MzA3LDM2ODE2MTQ2NiwtMTAzMjE2OT
-A0MywtMTI3MTYzNzQyNCw4NjI0NzIyMDEsLTY0NjczNTU2Nywt
-Mzk5OTUwNzgyLDE5Njc3NjI4OTcsMTM5NDQyMDg5LC03ODgzNT
-kyNTcsOTIxOTYwNzg4LDE5MDI5MjM5NjAsNjgyOTM4N119
+eyJoaXN0b3J5IjpbLTQ3MTc1ODg4OSwzNDMyOTgxMDQsMzU0MT
+gxMTksMTUzNjUyMTQxNywtNzg2NjI1MzcsLTIwNDc0NDQ1NTks
+ODc3NzUzOTgxLDE4NjA5MzkzMDcsMzY4MTYxNDY2LC0xMDMyMT
+Y5MDQzLC0xMjcxNjM3NDI0LDg2MjQ3MjIwMSwtNjQ2NzM1NTY3
+LC0zOTk5NTA3ODIsMTk2Nzc2Mjg5NywxMzk0NDIwODksLTc4OD
+M1OTI1Nyw5MjE5NjA3ODgsMTkwMjkyMzk2MCw2ODI5Mzg3XX0=
+
 -->
