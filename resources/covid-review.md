@@ -100,6 +100,8 @@ Recovery during SARS-CoV, MERS-CoV, and SARS-CoV-2 is usually associated with th
 
 **Cloning, expression, and sequencing:** The most commonly used approach for cloning mAbs has involved sorting individual B cells followed by the physical linking of VH and VL regions through molecular techniques. Complete mAbs are then be expressed in IgG expression vectors or less commonly in immortalized B cells. The extent to which the above processes are automated through advances in microfluidics dictates the numbers of mAbs that can be generated and sequenced. High-throughput clonal sequencing has yielded insight into the variable heavy and light chain germ-line repertoire and extent of somatic hypermutation in antibodies recognizing SARS-CoV-2 antigens. Most antibodies have undergone minimal somatic hypermutation (0% to less than 10%) partly because convalescent plasma samples have been obtained within weeks following illness.
 
+**Functional screening:** Some groups have described cloning and sequencing of hundreds SARS-CoV-2 recognizing mAbs [^10.1126/science.abc5902][^10.1126/science.abc6952(Brouwer et al., 2020; Chi et al., 2020; Ju et al., 2020; Lihong Liu et al., 2020; Robbiani et al., 2020; Rogers et al., 2020). To some extent, these sequences make it possible to filter out mAbs that are likely defective or duplicative. However, ultimately functional assays are required to identify which mAbs have therapeutic potential – including neutralizing assays using pseudoviruses and infectious virus assays. ELISA, biolayer-inferometry, and surface plasmon resonance assays are used to determine binding affinity to RBD, S1, and trimeric spike, to determine the extent to which mAbs compete with ACE2 or other mAbs with known epitopes, and to perform low-resolution epitope mapping.
+
 ___Conclusions: During the past month, more than 20 groups have described the development of mAbs that are able to potently inhibit SARS-CoV-2 in vitro. Four mAbs have begun  clinical trials for the treatment and prevention of COVID-19. ___
 
 ### Fusion Inhibitors
@@ -500,11 +502,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3ODE0MDgwLDg3Nzc1Mzk4MSwxODYwOT
-M5MzA3LDM2ODE2MTQ2NiwtMTAzMjE2OTA0MywtMTI3MTYzNzQy
-NCw4NjI0NzIyMDEsLTY0NjczNTU2NywtMzk5OTUwNzgyLDE5Nj
-c3NjI4OTcsMTM5NDQyMDg5LC03ODgzNTkyNTcsOTIxOTYwNzg4
-LDE5MDI5MjM5NjAsNjgyOTM4NywxNzk1MjQxMjA5LC02NjQwNj
-gwNTksLTIwMTk3OTgwMjEsNDM0MzgzNjg5LDIxODk5OTA0Ml19
-
+eyJoaXN0b3J5IjpbMTE0MDA1NjkyNiw4Nzc3NTM5ODEsMTg2MD
+kzOTMwNywzNjgxNjE0NjYsLTEwMzIxNjkwNDMsLTEyNzE2Mzc0
+MjQsODYyNDcyMjAxLC02NDY3MzU1NjcsLTM5OTk1MDc4MiwxOT
+Y3NzYyODk3LDEzOTQ0MjA4OSwtNzg4MzU5MjU3LDkyMTk2MDc4
+OCwxOTAyOTIzOTYwLDY4MjkzODcsMTc5NTI0MTIwOSwtNjY0MD
+Y4MDU5LC0yMDE5Nzk4MDIxLDQzNDM4MzY4OSwyMTg5OTkwNDJd
+fQ==
 -->
