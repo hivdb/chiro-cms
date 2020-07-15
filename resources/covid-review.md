@@ -190,7 +190,7 @@ ___Conclusion: As of June 4, there are six ongoing and six planned clinical tria
 ### Endosomal Trafficking Inhibitors
 Chloroquine (CQ) and its analogs have been reported to have multiple intracellular actions that interfere with virus replication and/or the immune response to viral infections. CQ analogs are weak bases, that in their non-protonated form, penetrate and concentrate within acidic intracellular organelles such as endosomes and lysosomes. In these organelles, CQ analogs may interfere with the trafficking of viruses that require a pH-dependent step for entry[^10.1016/s1473-3099(03)00806-5][^10.1371/journal.ppat.1004502]. CQ analogs have also been reported to impair ACE2 glycosylation, which could theoretically diminish receptor binding by SARS-CoV and SARS-CoV-2[^10.1186/1743-422X-2-69]. They are also anti-inflammatory, and have been used for autoimmune conditions.
 
-CQ and hydroxychloroquine (HCQ) have demonstrated modest inhibitory activity in vitro against MERS-CoV[^10.1128/AAC.03036-14][^10.3390/v10060283][^10.1128/AAC.03011-14], SARS-CoV[^10.1186/1743-422X-2-69][^10.1177/095632020601700505][^10.1016/j.bbrc.2004.08.085][^10.1128/AAC.03011-14], and SARS-CoV-2[^10.1038/s41422-020-0282-0][^10.1038/s41421-020-0156-0][^10.1093/cid/ciaa237][^10.1128/AAC.00819-20][^10.1101/2020.04.04.020925][^10.1101/2020.03.29.014407][^10.1101/2020.04.03.023846] with most EC<sub>50</sub>s ranging between 1 μM and 10 μM. Chloroquine has also been shown to reduce mortality in a mouse model of HCoV-OC43 infection[^10.1128/AAC.01509-08][^10.1128/JVI.00023-19] but to have minimal if any effects on virus levels in a mouse SARS-CoV model[^10.1177/095632020601700505]. Moreover, despite its _in vitro_ inhibitory activity against influenza and other viruses including dengue, large clinical trials of CQ have not demonstrated clinical benefit[^10.1371/journal.pntd.0000785][^10.1016/S1473-3099(11)70065-2]. The lack of clinical efficacy may reflect the fact that at standard dosages, CQ and HCQ do not achieve sufficiently high inhibitory drug levels[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1002/cpt.1909].
+CQ and hydroxychloroquine (HCQ) have demonstrated modest inhibitory activity _in vitro_ against MERS-CoV[^10.1128/AAC.03036-14][^10.3390/v10060283][^10.1128/AAC.03011-14], SARS-CoV[^10.1186/1743-422X-2-69][^10.1177/095632020601700505][^10.1016/j.bbrc.2004.08.085][^10.1128/AAC.03011-14], and SARS-CoV-2[^10.1038/s41422-020-0282-0][^10.1038/s41421-020-0156-0][^10.1093/cid/ciaa237][^10.1128/AAC.00819-20][^10.1101/2020.04.04.020925][^10.1101/2020.03.29.014407][^10.1101/2020.04.03.023846] with most EC<sub>50</sub>s ranging between 1 μM and 10 μM. CQ has been reported to reduce mortality in a mouse model of HCoV-OC43 infection[^10.1128/AAC.01509-08][^10.1128/JVI.00023-19] but to have minimal if any effects on virus levels in a mouse SARS-CoV model[^10.1177/095632020601700505]. Moreover, despite its _in vitro_ inhibitory activity against influenza and other viruses including dengue, large clinical trials of CQ have not demonstrated clinical benefit[^10.1371/journal.pntd.0000785][^10.1016/S1473-3099(11)70065-2]. The lack of clinical efficacy may reflect the fact that at standard dosages, CQ and HCQ do not achieve sufficiently high inhibitory drug levels[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1002/cpt.1909].
 
 Three large observational studies suggest that CQ and HCQ, are unlikely to provide any clinical benefit for treating persons with CoVID-19[^10.1056/NEJMoa2012410][^10.1101/2020.04.16.20065920][^10.1001/jama.2020.8630].  Several studies also reported that CQ analogs, particularly when used at higher dosages or in combination with azithromycin, are associated with prolonged QTc intervals and possibly ventricular arrhythmias[^10.1001/jamanetworkopen.2020.8857][^10.1136/bmj.m1844][^10.1001/jamacardio.2020.1834][^10.1001/jama.2020.8630]. Four small controlled trials also found no evidence of clinical or virological benefit for the use of CQ analogs[^10.1101/2020.03.22.20040758][^10.1001/jamanetworkopen.2020.8857][^10.1101/2020.04.10.20060558][^10.3785/j.issn.1008-9292.2020.03.03]. The remaining small observational studies reported highly variable results[^10.1136/bmj.m1844][^10.1016/j.medmal.2020.03.006][^10.1016/j.tmaid.2020.101663][^10.1101/2020.04.26.20081059][^10.1101/2020.04.27.20073379][^10.1093/ofid/ofaa130].
 
@@ -510,11 +510,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMjk4MTA0LDM1NDE4MTE5LDE1MzY1Mj
-E0MTcsLTc4NjYyNTM3LC0yMDQ3NDQ0NTU5LDg3Nzc1Mzk4MSwx
-ODYwOTM5MzA3LDM2ODE2MTQ2NiwtMTAzMjE2OTA0MywtMTI3MT
-YzNzQyNCw4NjI0NzIyMDEsLTY0NjczNTU2NywtMzk5OTUwNzgy
-LDE5Njc3NjI4OTcsMTM5NDQyMDg5LC03ODgzNTkyNTcsOTIxOT
-YwNzg4LDE5MDI5MjM5NjAsNjgyOTM4NywxNzk1MjQxMjA5XX0=
+eyJoaXN0b3J5IjpbMTg3MTgzMzU1MiwzNDMyOTgxMDQsMzU0MT
+gxMTksMTUzNjUyMTQxNywtNzg2NjI1MzcsLTIwNDc0NDQ1NTks
+ODc3NzUzOTgxLDE4NjA5MzkzMDcsMzY4MTYxNDY2LC0xMDMyMT
+Y5MDQzLC0xMjcxNjM3NDI0LDg2MjQ3MjIwMSwtNjQ2NzM1NTY3
+LC0zOTk5NTA3ODIsMTk2Nzc2Mjg5NywxMzk0NDIwODksLTc4OD
+M1OTI1Nyw5MjE5NjA3ODgsMTkwMjkyMzk2MCw2ODI5Mzg3XX0=
 
 -->
