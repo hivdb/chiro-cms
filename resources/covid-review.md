@@ -205,7 +205,7 @@ ___Conclusion: The early hopes that chloroquine / hydroxychloroquine might be ef
 ### Miscellaneous Additional Host Targets
 __Signaling pathway inhibitors__: High-throughput experiments have been performed for some viral infections to identify host proteins essential for virus infection but not cell viability. These have not yet been reported for coronavirus infections. However, several transcriptomic and proteomic analyses of SARS-CoV and MERS-CoV infection have described perturbations in cellular signaling pathways raising the possibility that drugs that influence the kinase proteins involved in these pathways might influence coronavirus replication[^10.1128/mBio.00165-13][^10.1128/mBio.00611-12][^10.1128/AAC.03659-14]. One encyclopedic proteomic SARS-CoV-2 study described the many interactions between virus and host proteins but was not primarily focused on signaling pathways[^10.1038/s41586-020-2286-9].
 
-The kinase inhibitors dasatinib and imatinib were found to inhibit SARS-CoV and MERS-CoV with EC<sub>50</sub>s of 2.1 and 5.4 μM for dasatinib and 9.8 and 17.7 μM for imatinib[^10.1128/AAC.03036-14]. Further mechanistic studies demonstrated that imatinib inhibits the early stages of infection with SARS-CoV, MERS-CoV and other coronaviruses possibly by affecting viral fusion with endosomal membranes; inhibition was demonstrated to occur specifically through ABL kinase inhibition[^10.1128/JVI.01429-16][^10.1099/jgv.0.001047]. At least one pharmacokinetic study suggested, however, that standard doses of imatinib would be associated with plasma levels considerably lower than the EC<sub>50</sub>s reported for SARS-CoV and MERS-CoV[^10.1002/cpt.1909]. As of April 24, imatinib is listed in five ongoing or planned clinical trials including two placebo-controlled trials. It appears, however, that in these studies imatinib is being studied primarily for its role in treating pulmonary fibrosis. Another kinase inhibitor, saracatinib, has also recently been shown to inhibit several coronaviruses in the low μM range[^10.3390/v10060283]
+The kinase inhibitors dasatinib and imatinib were found to inhibit SARS-CoV and MERS-CoV with EC<sub>50</sub>s of 2.1 and 5.4 μM for dasatinib and 9.8 and 17.7 μM for imatinib[^10.1128/AAC.03036-14]. Further mechanistic studies demonstrated that imatinib inhibits the early stages of infection with SARS-CoV, MERS-CoV and other coronaviruses possibly by affecting viral fusion with endosomal membranes; inhibition was demonstrated to occur specifically through ABL kinase inhibition[^10.1128/JVI.01429-16][^10.1099/jgv.0.001047]. At least one pharmacokinetic study suggested, however, that standard doses of imatinib would be associated with plasma levels considerably lower than the EC<sub>50</sub>s reported for SARS-CoV and MERS-CoV[^10.1002/cpt.1909]. As of July, imatinib is listed in eight ongoing or planned clinical trials including two placebo-controlled trials. It appears, however, that in these studies imatinib is being studied primarily for its role in treating pulmonary fibrosis. Another kinase inhibitor, saracatinib, has also recently been shown to inhibit several coronaviruses in the low μM range[^10.3390/v10060283]
 
 __Nitazoxanide__: Nitazoxanide is licensed for the treatment of cryptosporidium infections. It has been reported to inhibit a wide range of viruses in vitro. It has been proposed to interfere with host regulated pathways involved in viral replication including those involving interferon or mTORC1[^10.1016/j.jiph.2016.04.001]. In one study its EC<sub>50</sub> for SARS-CoV-2 was 2.1 μM[^10.1038/s41422-020-0282-0]. One pharmacokinetic analysis suggested that nitazoxanide plasma levels could reach concentrations above its one reported EC<sub>50</sub> level[^10.1002/cpt.1909]. As of May 28, it is being studied in three ongoing and eight planned clinical trials.
 
@@ -508,11 +508,10 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NDM0MjEwLDM0MzI5ODEwNCwzNTQxOD
-ExOSwxNTM2NTIxNDE3LC03ODY2MjUzNywtMjA0NzQ0NDU1OSw4
-Nzc3NTM5ODEsMTg2MDkzOTMwNywzNjgxNjE0NjYsLTEwMzIxNj
-kwNDMsLTEyNzE2Mzc0MjQsODYyNDcyMjAxLC02NDY3MzU1Njcs
-LTM5OTk1MDc4MiwxOTY3NzYyODk3LDEzOTQ0MjA4OSwtNzg4Mz
-U5MjU3LDkyMTk2MDc4OCwxOTAyOTIzOTYwLDY4MjkzODddfQ==
-
+eyJoaXN0b3J5IjpbNjk4MjM0ODUsMzQzMjk4MTA0LDM1NDE4MT
+E5LDE1MzY1MjE0MTcsLTc4NjYyNTM3LC0yMDQ3NDQ0NTU5LDg3
+Nzc1Mzk4MSwxODYwOTM5MzA3LDM2ODE2MTQ2NiwtMTAzMjE2OT
+A0MywtMTI3MTYzNzQyNCw4NjI0NzIyMDEsLTY0NjczNTU2Nywt
+Mzk5OTUwNzgyLDE5Njc3NjI4OTcsMTM5NDQyMDg5LC03ODgzNT
+kyNTcsOTIxOTYwNzg4LDE5MDI5MjM5NjAsNjgyOTM4N119
 -->
