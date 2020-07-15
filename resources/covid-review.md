@@ -108,7 +108,7 @@ Recovery during SARS-CoV, MERS-CoV, and SARS-CoV-2 is usually associated with th
 
 **Fc-dependent effector mechanisms:** Two groups described assays to assess the effects of mAbs on antibody dependent cellular cytotoxicity (ADCC) and antibody dependent cellular phagocytosis (ADCP)[^10.1126/science.abd0827][^10.1038/s41586-020-2349-y]. In an attempt to reduce the likelihood of antibody-dependent enhancement of infection, another group introduced an Fc LALA mutation to reduce FcγR and C1q mAb binding[^10.1038/s41586-020-2381-y].
 
-**Animal model studies:** Six groups evaluated mAbs in animal models including rhesus macaques[^10.1038/s41586-020-2381-y]2020), Syrian hamsters (Rogers et al., 2020), and various transgenic mice species (Cao et al., 2020; Li et al., 2020; Wu et al., 2020; Zost, Gilchuk, Case, et al., 2020). These studies aim to demonstrate _in vivo_ potency and to ascertain the risk of ADE (Li Liu et al., 2019)
+**Animal model studies:** Six groups evaluated mAbs in animal models including rhesus macaques[^10.1038/s41586-020-2381-y], Syrian hamsters[^10.1126/science.abc7520], and various transgenic mice species[^10.1126/science.abc7520][^ (Cao et al., 2020; Li et al., 2020; Wu et al., 2020; Zost, Gilchuk, Case, et al., 2020). These studies aim to demonstrate _in vivo_ potency and to ascertain the risk of ADE (Li Liu et al., 2019)
 
 
 ___Conclusions: During the past month, more than 20 groups have described the development of mAbs that are able to potently inhibit SARS-CoV-2 in vitro. Four mAbs have begun  clinical trials for the treatment and prevention of COVID-19. ___
@@ -511,11 +511,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTI4NjE4ODEsMTUzNjUyMTQxNywtNz
-g2NjI1MzcsLTIwNDc0NDQ1NTksODc3NzUzOTgxLDE4NjA5Mzkz
-MDcsMzY4MTYxNDY2LC0xMDMyMTY5MDQzLC0xMjcxNjM3NDI0LD
-g2MjQ3MjIwMSwtNjQ2NzM1NTY3LC0zOTk5NTA3ODIsMTk2Nzc2
-Mjg5NywxMzk0NDIwODksLTc4ODM1OTI1Nyw5MjE5NjA3ODgsMT
-kwMjkyMzk2MCw2ODI5Mzg3LDE3OTUyNDEyMDksLTY2NDA2ODA1
-OV19
+eyJoaXN0b3J5IjpbMTE2MDYzOTQzNiwxNTM2NTIxNDE3LC03OD
+Y2MjUzNywtMjA0NzQ0NDU1OSw4Nzc3NTM5ODEsMTg2MDkzOTMw
+NywzNjgxNjE0NjYsLTEwMzIxNjkwNDMsLTEyNzE2Mzc0MjQsOD
+YyNDcyMjAxLC02NDY3MzU1NjcsLTM5OTk1MDc4MiwxOTY3NzYy
+ODk3LDEzOTQ0MjA4OSwtNzg4MzU5MjU3LDkyMTk2MDc4OCwxOT
+AyOTIzOTYwLDY4MjkzODcsMTc5NTI0MTIwOSwtNjY0MDY4MDU5
+XX0=
 -->
