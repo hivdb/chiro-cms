@@ -202,7 +202,7 @@ Chlorpromazine is an antipsychotic drug used in treatment of schizophrenia that 
 
 K22 is a small molecule found to inhibit the double membrane formation and reticular vesicular network required for the replication of coronaviruses and other positive strand RNA viruses[^10.1371/journal.ppat.1004166][^10.1016/j.virusres.2018.01.002]. Although it has weak _in vitro_ activity, it is of interest because it appears to act at a novel stage of infection; furthermore, K22-resistant viruses containing nsp6 mutations were selected after 10 passages of HCoV-229E suggesting that this compound may also have specific antiviral activity[^10.1371/journal.ppat.1004166].
 
-___Conclusion: The early hopes that chloroquine / hydroxychloroquine might be efficacious for treating SARS-CoV-2 no longer appear to be justified. These drugs are also associated with a  risk of toxicity especially when administered in combination with azithromycin.  Among the endosomal trafficking inhibitors, niclosamide consistently displays significant inhibitory activity in vitro, although questions remain about its bioavailability. This drug is now being studied in a small number of planned clinical trials. ___
+___Conclusion: The early hopes that chloroquine / hydroxychloroquine might be efficacious for treating SARS-CoV-2 are no longer justified. These drugs are also associated with a  risk of toxicity especially when administered in combination with azithromycin.  Among the endosomal trafficking inhibitors, niclosamide consistently displays significant inhibitory activity in vitro, although questions remain about its bioavailability. This drug is now being studied in a small number of planned clinical trials. ___
 
 ### Miscellaneous Additional Host Targets
 __Signaling pathway inhibitors__: High-throughput experiments have been performed for some viral infections to identify host proteins essential for virus infection but not cell viability. These have not yet been reported for coronavirus infections. However, several transcriptomic and proteomic analyses of SARS-CoV and MERS-CoV infection have described perturbations in cellular signaling pathways raising the possibility that drugs that influence the kinase proteins involved in these pathways might influence coronavirus replication[^10.1128/mBio.00165-13][^10.1128/mBio.00611-12][^10.1128/AAC.03659-14]. One encyclopedic proteomic SARS-CoV-2 study described the many interactions between virus and host proteins but was not primarily focused on signaling pathways[^10.1038/s41586-020-2286-9].
@@ -510,11 +510,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDE3OTY3OCwzNDMyOTgxMDQsMzU0MT
-gxMTksMTUzNjUyMTQxNywtNzg2NjI1MzcsLTIwNDc0NDQ1NTks
-ODc3NzUzOTgxLDE4NjA5MzkzMDcsMzY4MTYxNDY2LC0xMDMyMT
-Y5MDQzLC0xMjcxNjM3NDI0LDg2MjQ3MjIwMSwtNjQ2NzM1NTY3
-LC0zOTk5NTA3ODIsMTk2Nzc2Mjg5NywxMzk0NDIwODksLTc4OD
-M1OTI1Nyw5MjE5NjA3ODgsMTkwMjkyMzk2MCw2ODI5Mzg3XX0=
+eyJoaXN0b3J5IjpbLTE2MDg0MzEwMDEsMzQzMjk4MTA0LDM1ND
+E4MTE5LDE1MzY1MjE0MTcsLTc4NjYyNTM3LC0yMDQ3NDQ0NTU5
+LDg3Nzc1Mzk4MSwxODYwOTM5MzA3LDM2ODE2MTQ2NiwtMTAzMj
+E2OTA0MywtMTI3MTYzNzQyNCw4NjI0NzIyMDEsLTY0NjczNTU2
+NywtMzk5OTUwNzgyLDE5Njc3NjI4OTcsMTM5NDQyMDg5LC03OD
+gzNTkyNTcsOTIxOTYwNzg4LDE5MDI5MjM5NjAsNjgyOTM4N119
 
 -->
