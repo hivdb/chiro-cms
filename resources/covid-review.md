@@ -104,7 +104,7 @@ Recovery during SARS-CoV, MERS-CoV, and SARS-CoV-2 is usually associated with th
 
 **Structural studies:** X-ray crystallography has been used to determine the structure of the Fab portion of an mAb bound to the spike RBD [^10.1016/j.chom.2020.06.010][^10.1038/s41586-020-2380-z][^10.1038/s41586-020-2381-y][^10.1126/science.abb7269][^10.1126/science.abc2241] while CryoEM has been used to the structure of Fabs bound to trimeric S [^10.1016/j.cell.2020.05.025][^10.1126/science.abc6952][^10.1126/science.abd0827][^10.1038/s41586-020-2349-y]. Both types of structures make it possible to identify the spike residues interacting with an mAb and the surface area buried by the interaction. Low resolution structures determined using negative staining EM also contribute to epitope mapping. The most potent mAbs identified so far bind to the part of RBD that binds ACE2, also referred to as the receptor binding motif. Several groups have also identified non-ACE2 competing mAbs that bind to a part of the RBD called the core domain [^10.1038/s41586-020-2349-y][^10.1126/science.abc7424][^10.1126/science.abb7269][^10.1101/2020.05.22.111005]. While non-ACE2 competing mAbs have been on average less potent, they have a broader spectrum of activity, inhibiting SARS-CoV-1 and other members of the sarbecovirus clade.
 
-**Resistance selection and mAb combinations:** The vulnerability of a mAb to mutational escape and the development of resistance can be inferred in part by the degree of conservation at each mAb-interacting spike residue. Molecular modeling and site-directed mutagenesis studies have also been performed to predict the effects of rarely observed published spike variants[^10.1126/science.abd0831][^10.1038/s41586-020-2349-y][^10.1101/2020.05.22.111005]. One group selected for mAb-resistance mutations in virus culture and used the results to identify synergistic mAb combinations[^10.1126/science.abd0831]. Other groups have also identified synergistic mAbs that bind non-overlapping sites (Pinto et al., 2020).
+**Resistance selection and mAb combinations:** The vulnerability of a mAb to mutational escape and the development of resistance can be inferred in part by the degree of conservation at each mAb-interacting spike residue. Molecular modeling and site-directed mutagenesis studies have also been performed to predict the effects of published spike variants[^10.1126/science.abd0831][^10.1038/s41586-020-2349-y][^10.1101/2020.05.22.111005]. One group selected for mAb-resistance mutations in virus culture[^10.1126/science.abd0831]. Several groups have also identified synergistic mAbs that bind non-overlapping sites[^10.1126/science.abd0831][^10.1038/s41586-020-2349-y][^10.1126/science.abc2241] .
 
 **Fc-dependent effector mechanisms:** Two groups described assays to assess the effects of mAbs on antibody dependent cellular cytotoxicity (ADCC) and antibody dependent cellular phagocytosis (ADCP) (Hansen et al., 2020; Pinto et al., 2020). In an attempt to reduce the likelihood of antibody-dependent enhancement of infection, another group introduced an Fc LALA mutation to reduce FcγR and C1q mAb binding (Shi et al., 2020).
 
@@ -511,11 +511,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODM1NDk0NzcsMTUzNjUyMTQxNywtNz
-g2NjI1MzcsLTIwNDc0NDQ1NTksODc3NzUzOTgxLDE4NjA5Mzkz
-MDcsMzY4MTYxNDY2LC0xMDMyMTY5MDQzLC0xMjcxNjM3NDI0LD
-g2MjQ3MjIwMSwtNjQ2NzM1NTY3LC0zOTk5NTA3ODIsMTk2Nzc2
-Mjg5NywxMzk0NDIwODksLTc4ODM1OTI1Nyw5MjE5NjA3ODgsMT
-kwMjkyMzk2MCw2ODI5Mzg3LDE3OTUyNDEyMDksLTY2NDA2ODA1
-OV19
+eyJoaXN0b3J5IjpbLTk5Mzc4MDQyNiwxNTM2NTIxNDE3LC03OD
+Y2MjUzNywtMjA0NzQ0NDU1OSw4Nzc3NTM5ODEsMTg2MDkzOTMw
+NywzNjgxNjE0NjYsLTEwMzIxNjkwNDMsLTEyNzE2Mzc0MjQsOD
+YyNDcyMjAxLC02NDY3MzU1NjcsLTM5OTk1MDc4MiwxOTY3NzYy
+ODk3LDEzOTQ0MjA4OSwtNzg4MzU5MjU3LDkyMTk2MDc4OCwxOT
+AyOTIzOTYwLDY4MjkzODcsMTc5NTI0MTIwOSwtNjY0MDY4MDU5
+XX0=
 -->
