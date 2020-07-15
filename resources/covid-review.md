@@ -98,7 +98,7 @@ Recovery during SARS-CoV, MERS-CoV, and SARS-CoV-2 is usually associated with th
 
 **Antigen bait:** Three main bait antigens have been used to identify reactive B cells, immunize transgenic mice, or pan phage display antibody fragments: the S1 receptor binding domain (RBD); the complete S1 protein; and the S trimer – often referred to as the trimeric extracellular or prefusion ectodomain. Less commonly used antigens have including the S1 N-terminal domain (NTD)[^  10.1038/s41591-020-0998-x] and an S tetramer[^10.1126/science.abc7424]. Although most highly potent neutralizing mAbs bind to the S1 RBD, groups additional antigens would be expected to identify a broader spectrum of mAbs.
 
-___Conclusions: During the past month, more than 20 groups have described the development of MAbs that are able to potently inhibit SARS-CoV-2 in vitro. Four MAbs have begun  phase I clinical trials this summer.___
+___Conclusions: During the past month, more than 20 groups have described the development of mAbs that are able to potently inhibit SARS-CoV-2 in vitro. Four mAbs have begun  clinical trials for the treatment and prevention of COVID-19. ___
 
 ### Fusion Inhibitors
 Peptides that mimic HR2 can block virus-cell fusion by preventing the interaction between HR1 and HR2. The HIV-1 fusion inhibitor enfuvirtide is a 36 amino acid peptide that acts by this mechanism following subcutaneous administration[^10.1056/NEJMoa035026][^10.1056/NEJMoa035211][^10.1038/nrd1331]. Several peptide mimics of coronavirus HR2 have been shown to be potently inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 _in vitro_[^10.1016/j.bbrc.2004.05.046][^10.1038/ncomms4067][^10.1093/infdis/jiv325][^10.1021/acs.jmedchem.8b00890][^10.1126/sciadv.aav4580][^10.1128/JVI.00635-20] and reviewed by Tang et al[^10.1016/j.antiviral.2020.104792]. The interest in coronavirus fusion inhibitors derives in part because S2 is more conserved than S1 among different coronavirus species. For example, the S1 proteins of SARS-CoV and SARS-CoV-2 differ by more than 10% of their amino acids. However, their HR1 domains differ by 7% and their HR2 domains are essentially identical[^10.1038/s41423-020-0374-2]. Fusion inhibitors would be expected to have greater activity in preventing viral fusion occurring via the cell surface rather than the endosomal pathway of virus entry[^10.1128/JVI.01697-07][^10.1016/j.antiviral.2020.104792].
@@ -498,11 +498,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ3MDQxMjUsODc3NzUzOTgxLDE4Nj
-A5MzkzMDcsMzY4MTYxNDY2LC0xMDMyMTY5MDQzLC0xMjcxNjM3
-NDI0LDg2MjQ3MjIwMSwtNjQ2NzM1NTY3LC0zOTk5NTA3ODIsMT
-k2Nzc2Mjg5NywxMzk0NDIwODksLTc4ODM1OTI1Nyw5MjE5NjA3
-ODgsMTkwMjkyMzk2MCw2ODI5Mzg3LDE3OTUyNDEyMDksLTY2ND
-A2ODA1OSwtMjAxOTc5ODAyMSw0MzQzODM2ODksMjE4OTk5MDQy
-XX0=
+eyJoaXN0b3J5IjpbNTM1Mzk1NDY2LDg3Nzc1Mzk4MSwxODYwOT
+M5MzA3LDM2ODE2MTQ2NiwtMTAzMjE2OTA0MywtMTI3MTYzNzQy
+NCw4NjI0NzIyMDEsLTY0NjczNTU2NywtMzk5OTUwNzgyLDE5Nj
+c3NjI4OTcsMTM5NDQyMDg5LC03ODgzNTkyNTcsOTIxOTYwNzg4
+LDE5MDI5MjM5NjAsNjgyOTM4NywxNzk1MjQxMjA5LC02NjQwNj
+gwNTksLTIwMTk3OTgwMjEsNDM0MzgzNjg5LDIxODk5OTA0Ml19
+
 -->
