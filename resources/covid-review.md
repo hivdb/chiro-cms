@@ -106,7 +106,7 @@ Recovery during SARS-CoV, MERS-CoV, and SARS-CoV-2 is usually associated with th
 
 **Resistance selection and mAb combinations:** The vulnerability of a mAb to mutational escape and the development of resistance can be inferred in part by the degree of conservation at each mAb-interacting spike residue. Molecular modeling and site-directed mutagenesis studies have also been performed to predict the effects of published spike variants[^10.1126/science.abd0831][^10.1038/s41586-020-2349-y][^10.1101/2020.05.22.111005]. One group selected for mAb-resistance mutations in virus culture[^10.1126/science.abd0831]. Several groups identified potentially synergistic mAbs that bind non-overlapping sites[^10.1126/science.abd0831][^10.1038/s41586-020-2349-y][^10.1126/science.abc2241].
 
-**Fc-dependent effector mechanisms:** Two groups described assays to assess the effects of mAbs on antibody dependent cellular cytotoxicity (ADCC) and antibody dependent cellular phagocytosis (ADCP) [^10.1126/science.abd0827][^10.1038/s41586-020-2349-y]. In an attempt to reduce the likelihood of antibody-dependent enhancement of infection, another group introduced an Fc LALA mutation to reduce FcγR and C1q mAb binding (Shi et al., 2020).
+**Fc-dependent effector mechanisms:** Two groups described assays to assess the effects of mAbs on antibody dependent cellular cytotoxicity (ADCC) and antibody dependent cellular phagocytosis (ADCP) [^10.1126/science.abd0827][^10.1038/s41586-020-2349-y]. In an attempt to reduce the likelihood of antibody-dependent enhancement of infection, another group introduced an Fc LALA mutation to reduce FcγR and C1q mAb binding[^10.1038/s41586-020-2381-y].
 
 **Animal model studies:** Six groups evaluated mAbs in animal models including rhesus macaques (Shi et al., 2020), Syrian hamsters (Rogers et al., 2020), and various transgenic mice species (Cao et al., 2020; Li et al., 2020; Wu et al., 2020; Zost, Gilchuk, Case, et al., 2020). These studies aim to demonstrate _in vivo_ potency and to ascertain the risk of ADE (Li Liu et al., 2019)
 
@@ -511,7 +511,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTIxMDkyOCwxNTM2NTIxNDE3LC03OD
+eyJoaXN0b3J5IjpbLTM3MDExNjc5NiwxNTM2NTIxNDE3LC03OD
 Y2MjUzNywtMjA0NzQ0NDU1OSw4Nzc3NTM5ODEsMTg2MDkzOTMw
 NywzNjgxNjE0NjYsLTEwMzIxNjkwNDMsLTEyNzE2Mzc0MjQsOD
 YyNDcyMjAxLC02NDY3MzU1NjcsLTM5OTk1MDc4MiwxOTY3NzYy
