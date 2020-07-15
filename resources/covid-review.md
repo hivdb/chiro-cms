@@ -98,6 +98,8 @@ Recovery during SARS-CoV, MERS-CoV, and SARS-CoV-2 is usually associated with th
 
 **Antigen bait:** Three main bait antigens have been used to identify reactive B cells, immunize transgenic mice, or pan phage display antibody fragments: the S1 receptor binding domain (RBD); the complete S1 protein; and the S trimer – often referred to as the trimeric extracellular or prefusion ectodomain. Less commonly used antigens have including the S1 N-terminal domain (NTD)[^  10.1038/s41591-020-0998-x] and an S tetramer[^10.1126/science.abc7424]. Although most highly potent neutralizing mAbs bind to the S1 RBD, groups additional antigens would be expected to identify a broader spectrum of mAbs.
 
+**Cloning, expression, and sequencing:** The most commonly used approach for cloning mAbs has involved sorting individual B cells followed by the physical linking of VH and VL regions through molecular techniques. Complete mAbs are then be expressed in IgG expression vectors or less commonly in immortalized B cells. The extent to which the above processes are automated through advances in microfluidics dictates the numbers of mAbs that can be generated and sequenced. High-throughput clonal sequencing has yielded insight into the variable heavy and light chain germ-line repertoire and extent of somatic hypermutation in antibodies recognizing SARS-CoV-2 antigens. Most antibodies have undergone minimal somatic hypermutation (0% to less than 10%) partly because convalescent plasma samples have been obtained within weeks following illness.
+
 ___Conclusions: During the past month, more than 20 groups have described the development of mAbs that are able to potently inhibit SARS-CoV-2 in vitro. Four mAbs have begun  clinical trials for the treatment and prevention of COVID-19. ___
 
 ### Fusion Inhibitors
@@ -498,7 +500,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1Mzk1NDY2LDg3Nzc1Mzk4MSwxODYwOT
+eyJoaXN0b3J5IjpbOTk3ODE0MDgwLDg3Nzc1Mzk4MSwxODYwOT
 M5MzA3LDM2ODE2MTQ2NiwtMTAzMjE2OTA0MywtMTI3MTYzNzQy
 NCw4NjI0NzIyMDEsLTY0NjczNTU2NywtMzk5OTUwNzgyLDE5Nj
 c3NjI4OTcsMTM5NDQyMDg5LC03ODgzNTkyNTcsOTIxOTYwNzg4
