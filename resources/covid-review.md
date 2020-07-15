@@ -217,7 +217,7 @@ __Interferon inducers__: Several compounds appear to inhibit viruses by inducing
 
 __Cyclophilin inhibitors__: Cyclosporin and FK-506 are two immunosuppressive drugs commonly used to prevent rejection in transplant recipients. The discovery of these two compounds led to the identification of the family of cyclophilin host proteins that bind to cyclosporin and FK-506. Cyclophilins are involved in a wide range of cellular processes including protein folding, protein trafficking, and cell signaling. They have also been shown to play a role in the replication of several viruses including HIV-1, hepatitis C, influenza, and several coronavirus species[^10.1016/j.virol.2018.06.011]. Alisporivir is a non-immunosuppressive cyclophilin inhibitor which has been studied primarily for the treatment of hepatitis C virus. However, these compounds have generally had just weak inhibitory effects of on coronavirus replication and alisporivir did not protect mice from SARS-CoV infection[^10.1099/vir.0.034983-0][^10.1099/vir.0.052910-0][^10.1016/j.virusres.2016.11.011][^10.1016/j.virusres.2014.02.010][^10.1016/j.antiviral.2018.05.007][^10.1128/AAC.00819-20].
 
-__Ivermectin__: Ivermectin is one of an increasing number of additional compounds found to inhibit SARS-CoV-2 without a defined mechanism of action. It has a reported EC<sub>50</sub> of about 2 μM[^10.1016/j.antiviral.2020.104787]. However, its plasma levels following oral administration appear too low to inhibit coronavirus replication [^10.4269/ajtmh.20-0271][^10.1002/cpt.1909][^10.1101/2020.04.21.20073262]. In one retrospective study, ivermectin use was associated with significantly reduced mortality compared to persons at the same hospitals not receiving ivermectin, particularly in patients with severe pulmonary disease[^10.1101/2020.06.06.20124461]. As of June 4, ivermectin is being studied in 10 ongoing and 14 planned clinical trials.
+__Ivermectin__: Ivermectin is one of an increasing number of additional compounds found to inhibit SARS-CoV-2 without a defined mechanism of action. It has a reported EC<sub>50</sub> of about 2 μM[^10.1016/j.antiviral.2020.104787]. However, its plasma levels following oral administration appear too low to inhibit coronavirus replication [^10.4269/ajtmh.20-0271][^10.1002/cpt.1909][^10.1101/2020.04.21.20073262]. In one retrospective study, ivermectin use was associated with significantly reduced mortality compared to persons at the same hospitals not receiving ivermectin, particularly in patients with severe pulmonary disease[^10.1101/2020.06.06.20124461]. As of July, ivermectin is being studied in 19 ongoing and 18 planned clinical trials.
 
 <!-- start of references details -->
 [^10.3390/v11080745]: Peersen OB. "A Comprehensive Superposition of Viral Polymerase Structures" _Viruses_, 2019. [10.3390/v11080745](https://doi.org/10.3390/v11080745)
@@ -508,7 +508,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzQ0MDgyMSwzNDMyOTgxMDQsMzU0MT
+eyJoaXN0b3J5IjpbLTQxMDEyNDg1MCwzNDMyOTgxMDQsMzU0MT
 gxMTksMTUzNjUyMTQxNywtNzg2NjI1MzcsLTIwNDc0NDQ1NTks
 ODc3NzUzOTgxLDE4NjA5MzkzMDcsMzY4MTYxNDY2LC0xMDMyMT
 Y5MDQzLC0xMjcxNjM3NDI0LDg2MjQ3MjIwMSwtNjQ2NzM1NTY3
