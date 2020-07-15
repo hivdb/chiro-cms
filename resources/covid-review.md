@@ -108,10 +108,9 @@ Recovery during SARS-CoV, MERS-CoV, and SARS-CoV-2 is usually associated with th
 
 **Fc-dependent effector mechanisms:** Two groups described assays to assess the effects of mAbs on antibody dependent cellular cytotoxicity (ADCC) and antibody dependent cellular phagocytosis (ADCP)[^10.1126/science.abd0827][^10.1038/s41586-020-2349-y]. In an attempt to reduce the likelihood of antibody-dependent enhancement of infection, another group introduced an Fc LALA mutation to reduce FcγR and C1q mAb binding[^10.1038/s41586-020-2381-y].
 
-**Animal model studies:** Six groups evaluated mAbs in animal models including rhesus macaques[^10.1038/s41586-020-2381-y], Syrian hamsters[^10.1126/science.abc7520], and various transgenic mice species[^10.1126/science.abc7520][^10.1101/2020.05.13.093088][^10.1126/science.abc2241][^10.1101/2020.05.22.111005]. These studies aim to demonstrate _in vivo_ potency and to ascertain the risk of ADE (Li Liu et al., 2019)
+**Animal model studies:** Six groups evaluated mAbs in animal models including rhesus macaques[^10.1038/s41586-020-2381-y], Syrian hamsters[^10.1126/science.abc7520], and various transgenic mice species[^10.1126/science.abc7520][^10.1101/2020.05.13.093088][^10.1126/science.abc2241][^10.1101/2020.05.22.111005]. These studies aim to demonstrate _in vivo_ potency and to ascertain the risk of ADE[^10.1101/2020.05.22.111005].
 
-
-___Conclusions: During the past month, more than 20 groups have described the development of mAbs that are able to potently inhibit SARS-CoV-2 in vitro. Four mAbs have begun  clinical trials for the treatment and prevention of COVID-19. ___
+___Conclusions: During the past month, more than 20 groups have described the development of mAbs able to inhibit SARS-CoV-2 in vitro. Four mAbs have begun clinical trials for the treatment and prevention of COVID-19. ___
 
 ### Fusion Inhibitors
 Peptides that mimic HR2 can block virus-cell fusion by preventing the interaction between HR1 and HR2. The HIV-1 fusion inhibitor enfuvirtide is a 36 amino acid peptide that acts by this mechanism following subcutaneous administration[^10.1056/NEJMoa035026][^10.1056/NEJMoa035211][^10.1038/nrd1331]. Several peptide mimics of coronavirus HR2 have been shown to be potently inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 _in vitro_[^10.1016/j.bbrc.2004.05.046][^10.1038/ncomms4067][^10.1093/infdis/jiv325][^10.1021/acs.jmedchem.8b00890][^10.1126/sciadv.aav4580][^10.1128/JVI.00635-20] and reviewed by Tang et al[^10.1016/j.antiviral.2020.104792]. The interest in coronavirus fusion inhibitors derives in part because S2 is more conserved than S1 among different coronavirus species. For example, the S1 proteins of SARS-CoV and SARS-CoV-2 differ by more than 10% of their amino acids. However, their HR1 domains differ by 7% and their HR2 domains are essentially identical[^10.1038/s41423-020-0374-2]. Fusion inhibitors would be expected to have greater activity in preventing viral fusion occurring via the cell surface rather than the endosomal pathway of virus entry[^10.1128/JVI.01697-07][^10.1016/j.antiviral.2020.104792].
@@ -511,7 +510,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjE4MTU1MDMsMTUzNjUyMTQxNywtNz
+eyJoaXN0b3J5IjpbLTEwNzc0ODczNTksMTUzNjUyMTQxNywtNz
 g2NjI1MzcsLTIwNDc0NDQ1NTksODc3NzUzOTgxLDE4NjA5Mzkz
 MDcsMzY4MTYxNDY2LC0xMDMyMTY5MDQzLC0xMjcxNjM3NDI0LD
 g2MjQ3MjIwMSwtNjQ2NzM1NTY3LC0zOTk5NTA3ODIsMTk2Nzc2
