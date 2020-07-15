@@ -92,7 +92,7 @@ This section describes interventions that interfere with virus entry including c
 ### Monoclonal Antibodies
 Neutralizing monoclonal antibodies (MAbs) have been used to treat Ebola[^10.1126/science.aad5224][^10.1056/NEJMoa1910993] and prevent respiratory syncytial virus[^10.2165/00003495-199958020-00009] infections. Neutralizing MAbs have also be shown to reduce virus levels in HIV-1-infected persons but resistance emerges unless a combination of neutralizing MAbs is administered[^10.1038/nm.4268][^10.1038/s41586-018-0531-2].
 
-Recovery during SARS-CoV, MERS-CoV, and SARS-CoV-2 is usually associated with the development of neutralizing antibodies[^10.1007/s11684-017-0596-6][^10.3201/eid2607.200841][^10.1101/2020.05.03.20084442][^10.1101/2020.07.10.20150557]. These neutralizing antibodies nearly always target the S1 protein, particularly its receptor binding domain[^10.1002/rmv.706][^10.1002/rmv.706][^10.1080/22221751.2019.1624482]. Within the past three months, there have been more than 20 published studies describing the isolation and characterization of SARS-CoV-2 neutralizing monoclonal antibodies (mAbs). Some studies describe the development of mAbs intended for COVID-19 treatment and prevention while others were performed primarily to characterize the genetic and structural basis of the SARS-CoV-2 antibody response. These studies include data on the (1) antibody source, (2) antigen bait used to isolate SARS-CoV-2 specific mAbs; (3) mAb cloning and expression; (4) functional screening; (5) structural studies; (6) escape mutations; (7) Fc-dependent effector mechanisms; and (8) animal model studies. Four groups have begun clinical trials ([https://covdb.stanford.edu/clinical-trials/#Monoclonal%20antibody](https://covdb.stanford.edu/clinical-trials/#Monoclonal%20antibody)) including two with published studies [^10.1038/s41586-020-2381-y][^ 10.1126/science.abd0827][^10.1126/science.abd0831].
+Recovery during SARS-CoV, MERS-CoV, and SARS-CoV-2 is usually associated with the development of neutralizing antibodies[^10.1007/s11684-017-0596-6][^10.3201/eid2607.200841][^10.1101/2020.05.03.20084442][^10.1101/2020.07.10.20150557]. These neutralizing antibodies nearly always target the S1 protein, particularly its receptor binding domain[^10.1002/rmv.706][^10.3390/v10120680][^10.1080/22221751.2019.1624482]. Within the past three months, there have been more than 20 published studies describing the isolation and characterization of SARS-CoV-2 neutralizing monoclonal antibodies (mAbs). Some studies describe the development of mAbs intended for COVID-19 treatment and prevention while others were performed primarily to characterize the genetic and structural basis of the SARS-CoV-2 antibody response. These studies include data on the (1) antibody source, (2) antigen bait used to isolate SARS-CoV-2 specific mAbs; (3) mAb cloning and expression; (4) functional screening; (5) structural studies; (6) escape mutations; (7) Fc-dependent effector mechanisms; and (8) animal model studies. Four groups have begun clinical trials ([https://covdb.stanford.edu/clinical-trials/#Monoclonal%20antibody](https://covdb.stanford.edu/clinical-trials/#Monoclonal%20antibody)) including two with published studies [^10.1038/s41586-020-2381-y][^ 10.1126/science.abd0827][^10.1126/science.abd0831].
 
 **Antibody source:** The most common source of mAbs has been convalescent B cells from persons with a history of SARS-CoV-2. Convalescent B cells from persons with a history of SARS-CoV-1 have been used by several groups early in the pandemic to determine whether any SARS-CoV-1 mAbs cross-reacted with SARS-CoV-2 or to identify mAbs that might neutralize a broader spectrum of variants [^10.1126/science.abb7269][^10.1016/j.chom.2020.06.010][^10.1080/22221751.2020.1729069][^  10.1038/s41586-020-2349-y][^  10.1126/science.abc7424]. Two groups immunized mice including H2L2[^10.1038/s41467-020-16256-y] and VelocImmune[^10.1126/science.abd0827] mice. The mAbs isolated from immunized VelocImmune mice were reported to have similar sequences to those isolated by the same group from SARS-CoV-2 convalescent B cells. One group used a single-chain variable fragment (scFv) phage display libraries from naïve B cells [^10.1101/2020.05.13.093088] and another from a SARS-1 scFv library[^10.1101/2020.05.19.104281].
 
@@ -510,11 +510,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0MTgxMTksMTUzNjUyMTQxNywtNzg2Nj
-I1MzcsLTIwNDc0NDQ1NTksODc3NzUzOTgxLDE4NjA5MzkzMDcs
-MzY4MTYxNDY2LC0xMDMyMTY5MDQzLC0xMjcxNjM3NDI0LDg2Mj
-Q3MjIwMSwtNjQ2NzM1NTY3LC0zOTk5NTA3ODIsMTk2Nzc2Mjg5
-NywxMzk0NDIwODksLTc4ODM1OTI1Nyw5MjE5NjA3ODgsMTkwMj
-kyMzk2MCw2ODI5Mzg3LDE3OTUyNDEyMDksLTY2NDA2ODA1OV19
+eyJoaXN0b3J5IjpbODM3NTQyNzksMzU0MTgxMTksMTUzNjUyMT
+QxNywtNzg2NjI1MzcsLTIwNDc0NDQ1NTksODc3NzUzOTgxLDE4
+NjA5MzkzMDcsMzY4MTYxNDY2LC0xMDMyMTY5MDQzLC0xMjcxNj
+M3NDI0LDg2MjQ3MjIwMSwtNjQ2NzM1NTY3LC0zOTk5NTA3ODIs
+MTk2Nzc2Mjg5NywxMzk0NDIwODksLTc4ODM1OTI1Nyw5MjE5Nj
+A3ODgsMTkwMjkyMzk2MCw2ODI5Mzg3LDE3OTUyNDEyMDldfQ==
 
 -->
