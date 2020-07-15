@@ -100,7 +100,7 @@ Recovery during SARS-CoV, MERS-CoV, and SARS-CoV-2 is usually associated with th
 
 **Cloning, expression, and sequencing:** The most commonly used approach for cloning mAbs has involved sorting individual B cells followed by the physical linking of VH and VL regions through molecular techniques. Complete mAbs are then be expressed in IgG expression vectors or less commonly in immortalized B cells. The extent to which the above processes are automated through advances in microfluidics dictates the numbers of mAbs that can be generated and sequenced. High-throughput clonal sequencing has yielded insight into the variable heavy and light chain germ-line repertoire and extent of somatic hypermutation in antibodies recognizing SARS-CoV-2 antigens. Most antibodies have undergone minimal somatic hypermutation (0% to less than 10%) partly because convalescent plasma samples have been obtained within weeks following illness.
 
-**Functional screening:** Some groups have described cloning and sequencing of hundreds SARS-CoV-2 recognizing mAbs [^10.1126/science.abc5902][^10.1126/science.abc6952][^10.1038/s41586-020-2380-z][^10.1101/2020.06.17.153486][^10.1038/s41586-020-2456-9][^10.1126/science.abc7520]. To some extent, these sequences make it possible to filter out mAbs that are likely defective or duplicative. However, ultimately functional assays are required to identify which mAbs have therapeutic potential – including neutralizing assays using pseudoviruses and infectious virus assays. ELISA, biolayer-inferometry, and surface plasmon resonance assays are used to determine binding affinity to RBD, S1, and trimeric spike, to determine the extent to which mAbs compete with ACE2 or other mAbs with known epitopes, and to perform low-resolution epitope mapping.
+**Functional screening:** Some groups have described cloning and sequencing of hundreds SARS-CoV-2 recognizing mAbs[^10.1126/science.abc5902][^10.1126/science.abc6952][^10.1038/s41586-020-2380-z][^10.1101/2020.06.17.153486][^10.1038/s41586-020-2456-9][^10.1126/science.abc7520]. To some extent, these sequences make it possible to filter out mAbs that are likely defective or duplicative. However, ultimately functional assays are required to identify which mAbs have therapeutic potential – including neutralizing assays using pseudoviruses and infectious virus assays. ELISA, biolayer-inferometry, and surface plasmon resonance assays are used to determine binding affinity to RBD, S1, and trimeric spike, to determine the extent to which mAbs compete with ACE2 or other mAbs with known epitopes, and to perform low-resolution epitope mapping.
 
 **Structural studies:** X-ray crystallography has been used to determine the structure of the Fab portion of an mAb bound to the spike RBD [^10.1016/j.chom.2020.06.010][^10.1038/s41586-020-2380-z][^10.1038/s41586-020-2381-y][^10.1126/science.abb7269][^10.1126/science.abc2241] while CryoEM has been used to the structure of Fabs bound to trimeric S [^10.1016/j.cell.2020.05.025][^10.1126/science.abc6952][^10.1126/science.abd0827][^10.1038/s41586-020-2349-y]. Both types of structures make it possible to identify the spike residues interacting with an mAb and the surface area buried by the interaction. Low resolution structures determined using negative staining EM also contribute to epitope mapping. The most potent mAbs identified so far bind to the part of RBD that binds ACE2, also referred to as the receptor binding motif. Several groups have also identified non-ACE2 competing mAbs that bind to a part of the RBD called the core domain [^10.1038/s41586-020-2349-y][^10.1126/science.abc7424][^10.1126/science.abb7269][^10.1101/2020.05.22.111005]. While non-ACE2 competing mAbs have been on average less potent, they have a broader spectrum of activity, inhibiting SARS-CoV-1 and other members of the sarbecovirus clade.
 
@@ -511,11 +511,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjYyNTM3LC0yMDQ3NDQ0NTU5LDg3Nz
-c1Mzk4MSwxODYwOTM5MzA3LDM2ODE2MTQ2NiwtMTAzMjE2OTA0
-MywtMTI3MTYzNzQyNCw4NjI0NzIyMDEsLTY0NjczNTU2NywtMz
-k5OTUwNzgyLDE5Njc3NjI4OTcsMTM5NDQyMDg5LC03ODgzNTky
-NTcsOTIxOTYwNzg4LDE5MDI5MjM5NjAsNjgyOTM4NywxNzk1Mj
-QxMjA5LC02NjQwNjgwNTksLTIwMTk3OTgwMjEsNDM0MzgzNjg5
-XX0=
+eyJoaXN0b3J5IjpbLTE0MDgzNTQxMywtNzg2NjI1MzcsLTIwND
+c0NDQ1NTksODc3NzUzOTgxLDE4NjA5MzkzMDcsMzY4MTYxNDY2
+LC0xMDMyMTY5MDQzLC0xMjcxNjM3NDI0LDg2MjQ3MjIwMSwtNj
+Q2NzM1NTY3LC0zOTk5NTA3ODIsMTk2Nzc2Mjg5NywxMzk0NDIw
+ODksLTc4ODM1OTI1Nyw5MjE5NjA3ODgsMTkwMjkyMzk2MCw2OD
+I5Mzg3LDE3OTUyNDEyMDksLTY2NDA2ODA1OSwtMjAxOTc5ODAy
+MV19
 -->
