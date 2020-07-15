@@ -102,7 +102,7 @@ Recovery during SARS-CoV, MERS-CoV, and SARS-CoV-2 is usually associated with th
 
 **Functional screening:** Some groups have described cloning and sequencing of hundreds SARS-CoV-2 recognizing mAbs [^10.1126/science.abc5902][^10.1126/science.abc6952][^10.1038/s41586-020-2380-z][^10.1101/2020.06.17.153486][^10.1038/s41586-020-2456-9][^10.1126/science.abc7520]. To some extent, these sequences make it possible to filter out mAbs that are likely defective or duplicative. However, ultimately functional assays are required to identify which mAbs have therapeutic potential – including neutralizing assays using pseudoviruses and infectious virus assays. ELISA, biolayer-inferometry, and surface plasmon resonance assays are used to determine binding affinity to RBD, S1, and trimeric spike, to determine the extent to which mAbs compete with ACE2 or other mAbs with known epitopes, and to perform low-resolution epitope mapping.
 
-**Structural studies:** X-ray crystallography has been used to determine the structure of the Fab portion of an mAb bound to the spike RBD [^10.1016/j.chom.2020.06.010][^10.1038/s41586-020-2380-z][^10.1038/s41586-020-2381-y][ (Huo et al., 2020; Ju et al., 2020; Shi et al., 2020; Wu et al., 2020; Yuan et al., 2020) while CryoEM has been used to the structure of Fabs bound to trimeric S (Cao et al., 2020; Chi et al., 2020; Hansen et al., 2020; Pinto et al., 2020). Both of these types of structures make it possible to identify the spike residues interacting with an mAb and the surface area buried by the interaction. Low resolution structures determined using negative staining EM also contribute to epitope mapping. The most potent mAbs identified so far bind to the part of the RBD that binds ACE2, which is also referred to as the receptor binding motif. However, several groups have identified non-ACE2 competing mAbs that bind to the RBD core domain (Pinto et al., 2020; Wec et al., 2020; Yuan et al., 2020; Zost, Gilchuk, Chen, et al., 2020). While these mAbs have been on average less potent, they have a broader spectrum of activity, inhibiting SARS-CoV-1 and other members of the sarbecovirus clade.
+**Structural studies:** X-ray crystallography has been used to determine the structure of the Fab portion of an mAb bound to the spike RBD [^10.1016/j.chom.2020.06.010][^10.1038/s41586-020-2380-z][^10.1038/s41586-020-2381-y][^10.1126/science.abb7269][^10.1126/science.abc2241] while CryoEM has been used to the structure of Fabs bound to trimeric S [^ (Cao et al., 2020; Chi et al., 2020; Hansen et al., 2020; Pinto et al., 2020). Both of these types of structures make it possible to identify the spike residues interacting with an mAb and the surface area buried by the interaction. Low resolution structures determined using negative staining EM also contribute to epitope mapping. The most potent mAbs identified so far bind to the part of the RBD that binds ACE2, which is also referred to as the receptor binding motif. However, several groups have identified non-ACE2 competing mAbs that bind to the RBD core domain (Pinto et al., 2020; Wec et al., 2020; Yuan et al., 2020; Zost, Gilchuk, Chen, et al., 2020). While these mAbs have been on average less potent, they have a broader spectrum of activity, inhibiting SARS-CoV-1 and other members of the sarbecovirus clade.
 
 **Resistance selection and mAb combinations:** The vulnerability of a mAb to mutational escape and the development of resistance can be inferred in part by the degree of conservation at each mAb-interacting spike residue. Molecular modeling and site-directed mutagenesis studies have also been performed to predict the effects of rarely observed published spike variants (Baum et al., 2020; Pinto et al., 2020; Zost, Gilchuk, Case, et al., 2020). One group selected for mAb-resistance mutations in virus culture and used the results to identify synergistic mAb combinations (Baum et al., 2020). Other groups have also identified synergistic mAbs that bind non-overlapping sites (Pinto et al., 2020).
 
@@ -511,11 +511,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2NDYzODM4LC0yMDQ3NDQ0NTU5LDg3Nz
-c1Mzk4MSwxODYwOTM5MzA3LDM2ODE2MTQ2NiwtMTAzMjE2OTA0
-MywtMTI3MTYzNzQyNCw4NjI0NzIyMDEsLTY0NjczNTU2NywtMz
-k5OTUwNzgyLDE5Njc3NjI4OTcsMTM5NDQyMDg5LC03ODgzNTky
-NTcsOTIxOTYwNzg4LDE5MDI5MjM5NjAsNjgyOTM4NywxNzk1Mj
-QxMjA5LC02NjQwNjgwNTksLTIwMTk3OTgwMjEsNDM0MzgzNjg5
-XX0=
+eyJoaXN0b3J5IjpbLTU2NjQwNTY4NywtMjA0NzQ0NDU1OSw4Nz
+c3NTM5ODEsMTg2MDkzOTMwNywzNjgxNjE0NjYsLTEwMzIxNjkw
+NDMsLTEyNzE2Mzc0MjQsODYyNDcyMjAxLC02NDY3MzU1NjcsLT
+M5OTk1MDc4MiwxOTY3NzYyODk3LDEzOTQ0MjA4OSwtNzg4MzU5
+MjU3LDkyMTk2MDc4OCwxOTAyOTIzOTYwLDY4MjkzODcsMTc5NT
+I0MTIwOSwtNjY0MDY4MDU5LC0yMDE5Nzk4MDIxLDQzNDM4MzY4
+OV19
 -->
