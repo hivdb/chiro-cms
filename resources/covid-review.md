@@ -98,7 +98,7 @@ Recovery during SARS-CoV, MERS-CoV, and SARS-CoV-2 is usually associated with th
 
 **Antigen bait:** Three main bait antigens have been used to identify reactive B cells, immunize transgenic mice, or pan phage display antibody fragments: the S1 receptor binding domain (RBD); the complete S1 protein; and the S trimer – often referred to as the trimeric extracellular or prefusion ectodomain. Less commonly used antigens have including the S1 N-terminal domain (NTD)[^10.1038/s41591-020-0998-x] and an S tetramer[^10.1126/science.abc7424]. Although most highly potent neutralizing mAbs bind to the S1 RBD, groups additional antigens would be expected to identify a broader spectrum of mAbs.
 
-**Cloning, expression, and sequencing:** The most commonly used approach for cloning mAbs has involved sorting individual B cells followed by the physical linking of VH and VL regions through molecular techniques. Complete mAbs are then be expressed in IgG expression vectors or less commonly in immortalized B cells. The extent to which the above processes are automated through advances in microfluidics dictates the numbers of mAbs that can be generated and sequenced. High-throughput clonal sequencing has yielded insight into the variable heavy and light chain germ-line repertoire and extent of somatic hypermutation in antibodies recognizing SARS-CoV-2 antigens. Most antibodies have undergone minimal somatic hypermutation (0% to less than 10%) partly because convalescent plasma samples have been obtained within weeks following illness.
+**Cloning, expression, and sequencing:** The most commonly used approach for cloning mAbs has involved sorting individual B cells followed by the physical linking of VH and VL regions through molecular techniques. Complete mAbs are then be expressed in IgG expression vectors or less commonly in immortalized B cells. The extent to which the above processes are automated through advances in microfluidics dictates the numbers of mAbs that can be generated and sequenced. High-throughput clonal sequencing has yielded insight into the variable heavy and light chain germ-line repertoire and extent of somatic hypermutation in antibodies recognizing SARS-CoV-2 antigens. Most antibodies have undergone minimal somatic hypermutation (0% to less than 10%) partly because convalescent plasma samples have been obtained within weeks following illness. Some studies have reported that certain VH and VL genes are preferentially 
 
 **Functional screening:** Some groups have described cloning and sequencing of hundreds SARS-CoV-2 recognizing mAbs[^10.1126/science.abc5902][^10.1126/science.abc6952][^10.1038/s41586-020-2380-z][^10.1101/2020.06.17.153486][^10.1038/s41586-020-2456-9][^10.1126/science.abc7520]. To some extent, these sequences make it possible to filter out mAbs that are likely defective or duplicative. However, ultimately functional assays are required to identify which mAbs have therapeutic potential – including neutralizing assays using pseudoviruses and infectious virus assays. ELISA, biolayer-inferometry, and surface plasmon resonance assays are used to determine binding affinity to RBD, S1, and trimeric spike, to determine the extent to which mAbs compete with ACE2 or other mAbs with known epitopes, and to perform low-resolution epitope mapping.
 
@@ -499,11 +499,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTMxMzc2NiwtNDEwMTI0ODUwLDM0Mz
-I5ODEwNCwzNTQxODExOSwxNTM2NTIxNDE3LC03ODY2MjUzNywt
-MjA0NzQ0NDU1OSw4Nzc3NTM5ODEsMTg2MDkzOTMwNywzNjgxNj
-E0NjYsLTEwMzIxNjkwNDMsLTEyNzE2Mzc0MjQsODYyNDcyMjAx
-LC02NDY3MzU1NjcsLTM5OTk1MDc4MiwxOTY3NzYyODk3LDEzOT
-Q0MjA4OSwtNzg4MzU5MjU3LDkyMTk2MDc4OCwxOTAyOTIzOTYw
-XX0=
+eyJoaXN0b3J5IjpbODkxMzkwMzc0LDExNjUzMTM3NjYsLTQxMD
+EyNDg1MCwzNDMyOTgxMDQsMzU0MTgxMTksMTUzNjUyMTQxNywt
+Nzg2NjI1MzcsLTIwNDc0NDQ1NTksODc3NzUzOTgxLDE4NjA5Mz
+kzMDcsMzY4MTYxNDY2LC0xMDMyMTY5MDQzLC0xMjcxNjM3NDI0
+LDg2MjQ3MjIwMSwtNjQ2NzM1NTY3LC0zOTk5NTA3ODIsMTk2Nz
+c2Mjg5NywxMzk0NDIwODksLTc4ODM1OTI1Nyw5MjE5NjA3ODhd
+fQ==
 -->
