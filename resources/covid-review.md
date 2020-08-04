@@ -159,7 +159,7 @@ ___Conclusions: If convalescent plasma is efficacious, it is likely to be more u
 
 
 ## Interferons
-Interferons (IFNs) respond to the presence of cellular changes suggestive of a viral infection by inducing numerous genes (IFN-stimulated genes \[ISGs\]) involved in inflammation, signaling, and immunomodulation to protect against uncontrolled infection. They interfere with viral replication by slowing cell metabolism, interfering with the membrane formation required for virus replication, and inducing secretion of cytokines that promote adaptive immunity[^10.1016/j.antiviral.2020.104791]. The importance of IFN is underscored by the fact that SARS-CoV-2 encodes at least 10 proteins that allow the virus to escape or counteract the induction or antiviral action of IFN (reviewed in Sa Ribero et al[^10.1371/journal.ppat.1008737]).
+Interferons (IFNs) respond to the presence of cellular changes suggestive of a viral infection by inducing numerous genes (IFN-stimulated genes \[ISGs\]) involved in inflammation, signaling, and immunomodulation to protect against uncontrolled infection. They interfere with viral replication by slowing cell metabolism, interfering with the membrane formation required for virus replication, and inducing secretion of cytokines that promote adaptive immunity[^10.1016/j.antiviral.2020.104791]. The importance of IFN is underscored by the fact that SARS-CoV-2 encodes at least 10 proteins that allow the virus to escape or counteract the induction or antiviral action of IFN (reviewed in Sa Ribero et al[^10.1371/journal.ppat.1008737] and Totura and Baric[^10.1016/j.coviro.2012.04.004]).
 
 most viruses, and in particular coronaviruses, create many protein products specifically designed to antagonize cellular IFN signaling pathways[^10.1016/j.coviro.2012.04.004][^10.1016/j.smim.2019.101300]. Infection with SARS-CoV-2 is associated with an initial reduced IFN response[^10.1126/science.abc6027][^10.1016/j.cell.2020.04.026][^10.1371/journal.ppat.1008737].
 
@@ -499,5 +499,5 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.04.21.20073262]: Schmith VD, Zhou J, Lohmer LR. "The Approved Dose of Ivermectin Alone is not the Ideal Dose for the Treatment of COVID-19" _medRxiv_, 2020. [10.1101/2020.04.21.20073262](https://doi.org/10.1101/2020.04.21.20073262)
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NjIzMDkwN119
+eyJoaXN0b3J5IjpbLTU1NzUxMTEzNl19
 -->
