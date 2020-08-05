@@ -14,9 +14,9 @@ Remdesivir has broad spectrum activity against multiple RNA viruses and inhibits
 
 Remdesivir resistance in a related coronavirus has been selected in the murine hepatitis virus (MHV) during prolonged _in vitro_ passage in the presence of remdesivir[^10.1128/mBio.00221-18]. The remdesivir-resistant mutations are in the RdRp fingers domain. Introducing the homologous substitutions into SARS-CoV (F480L + V557L) resulted in a virus with reduced replication and about 6-fold reduced remdesivir susceptibility [^10.1128/mBio.00221-18].
 
-Remdesivir is administered intravenously with a loading dose of 200 mg followed by 100 mg daily for 5 to 10 days in adult patients[^10.1002/phar.2398][^10.1016/j.onehlt.2020.100128]. Following intravenous administration, the achievable maximum remdesivir plasma concentration (Cmax) is predicted to be at least twice as high as its most commonly reported EC<sub>50</sub>s[^10.1002/cpt.1909]. There have been 3 published randomized clinical trials of remdesivir. The NIH Adaptive Covid-19 Treatment Trial[^10.1056/NEJMoa2007764] and a Chinese trial[^10.1016/S0140-6736(20)31022-9] were double-blinded placebo-controlled trials. The Gilead SIMPLE-Severe trial randomized patients to receive 5 vs. 10 days of treatment[^10.1056/NEJMoa2015301]. 
+Remdesivir is administered intravenously with a loading dose of 200 mg followed by 100 mg daily for 5 to 10 days in adult patients[^10.1002/phar.2398][^10.1016/j.onehlt.2020.100128]. Following intravenous administration, the achievable maximum remdesivir plasma concentration (Cmax) is predicted to be at least twice as high as its most commonly reported EC<sub>50</sub>s[^10.1002/cpt.1909]. There have been 3 published randomized clinical trials of remdesivir. The __NIH Adaptive Covid-19 Treatment Trial (ACTT)__[^10.1056/NEJMoa2007764] and a Chinese trial[^10.1016/S0140-6736(20)31022-9] were double-blinded placebo-controlled trials. The Gilead SIMPLE-Severe trial randomized patients to receive 5 vs. 10 days of treatment[^10.1056/NEJMoa2015301]. 
 
-The NIH Adaptive Trial was the pivotal trial leading to the remdesivir FDA emergency use authorization. It was a multicenter trial that randomized 1063 persons with severe disease to remdesivir x 10 days vs. placebo. The primary endpoint was the time to clinical improvement defined as being discharged from the hospital or no longer requiring supplemental oxygen. An interim DSMB review was performed after a total of 482 recoveries and 81 deaths. The review showed a statistically significant reduction in the time to recovery from 15 days to 11 days (p<0.001) and a non-statistically significant reduction in mortality by day 14 of 11.9% vs. 7.1% (p=0.06). A subgroup analysis showed that response to therapy was greater in those with less severe disease (not requiring supplemental oxygen or receiving oxygen via nasal cannula) than in those with severe disease (requiring high flow oxygen or mechanical ventilation)[^10.1056/NEJMoa2007764]. Serious adverse events occurred at similar rates in both groups (21.1% for remdesivir vs 27.0% for placebo). 
+The NIH Adaptive Trial was the pivotal trial leading to the remdesivir __FDA Emergency Use Authorization__. It was a multicenter trial that randomized 1063 persons with severe disease to remdesivir x 10 days vs. placebo. The primary endpoint was the time to clinical improvement defined as being discharged from the hospital or no longer requiring supplemental oxygen. An interim DSMB review was performed after a total of 482 recoveries and 81 deaths. The review showed a statistically significant reduction in the time to recovery from 15 days to 11 days (p<0.001) and a non-statistically significant reduction in mortality by day 14 of 11.9% vs. 7.1% (p=0.06). A subgroup analysis showed that response to therapy was greater in those with less severe disease (not requiring supplemental oxygen or receiving oxygen via nasal cannula) than in those with severe disease (requiring high flow oxygen or mechanical ventilation)[^10.1056/NEJMoa2007764]. Serious adverse events occurred at similar rates in both groups (21.1% for remdesivir vs 27.0% for placebo). 
 
 The phase Chinese placebo-controlled trial was discontinued prematurely after recruiting 237 (rather than the planned 453 patients) because of the reduction in new SARS-CoV-2 infections. Patients were randomized 2:1 to receive remdesivir or placebo. Although not statistically significant, patients receiving remdesivir had a faster time to clinical improvement than those receiving placebo (median 18 days \[IQR 12–28\] vs 23 days \[15–28\]; HR 1.52 \[0.95–2.43\]. The 28-day mortality was similar in both groups (14% for remdesivir and 13% for placebo). There was no difference in the rates of decline of nasopharyngeal viral RNA levels between the two groups. Adverse events leading to treatment discontinuation were 12% in the remdesivir group and 5% in the placebo group[^10.1016/S0140-6736(20)31022-9].
 
@@ -508,11 +508,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzAwNjg3LDY4NDc4MTQ4Nyw3OTEwMD
-c0NjMsMTM3MTcxNDI5NiwtMTQ1MjM1ODE0NCwyMDk4Nzc1NzA1
-LDE0MTk5NjE3ODksLTE3NTg2NzUxNTksLTE2NDcxOTg1MDQsLT
-E5MjYxMjAyNzMsLTExOTIwMTQ4NjcsLTE2NDE3OTk3NTAsMTM3
-MzE3OTkwMSw4NTMxMTAxMTgsMTAwOTAzMTg2NiwtMTYyNTg2ND
-gsLTE4MjQ3MTk3OTIsMTQ5NzA1MDIwLDY1MzIxMTQ4NywtNjE4
-NjA3MDA0XX0=
+eyJoaXN0b3J5IjpbLTQxNDc3NjExOCwxNDA3MDA2ODcsNjg0Nz
+gxNDg3LDc5MTAwNzQ2MywxMzcxNzE0Mjk2LC0xNDUyMzU4MTQ0
+LDIwOTg3NzU3MDUsMTQxOTk2MTc4OSwtMTc1ODY3NTE1OSwtMT
+Y0NzE5ODUwNCwtMTkyNjEyMDI3MywtMTE5MjAxNDg2NywtMTY0
+MTc5OTc1MCwxMzczMTc5OTAxLDg1MzExMDExOCwxMDA5MDMxOD
+Y2LC0xNjI1ODY0OCwtMTgyNDcxOTc5MiwxNDk3MDUwMjAsNjUz
+MjExNDg3XX0=
 -->
