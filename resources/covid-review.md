@@ -16,7 +16,7 @@ Remdesivir resistance in a related coronavirus has been selected in the murine h
 
 Remdesivir is administered intravenously with a loading dose of 200 mg followed by 100 mg daily for 5 to 10 days in adult patients[^10.1002/phar.2398][^10.1016/j.onehlt.2020.100128]. Following intravenous administration, the achievable maximum remdesivir plasma concentration (Cmax) is predicted to be at least twice as high as its most commonly reported EC<sub>50</sub>s[^10.1002/cpt.1909].
 
-<![enThere have been 3 published randomized clinical trials of remdesivir. The NIH Adaptive Covid-19 Treatment Trial and the Chinese trial were double-blinded placebo-controlled trials. The Gilead SIMPLE trial randomized patients to receive 5 vs. 10 days of treatment. Of note, the Chinese study did not reach the planned enrollment of 450 patients because the outbreak was controlled in China.
+There have been 3 published randomized clinical trials of remdesivir. The NIH Adaptive Covid-19 Treatment Trial[^10.1056/NEJMoa2007764] and a Chinese trial were double-blinded placebo-controlled trials. The Gilead SIMPLE trial randomized patients to receive 5 vs. 10 days of treatment. Of note, the Chinese study did not reach the planned enrollment of 450 patients because the outbreak was controlled in China.
 
 In 53 patients with severe SARS-CoV-2 pneumonia receiving remdesivir as part of two expanded access trials, 34 were receiving mechanical ventilation (including 3 on extracorporeal membrane oxygenation \[ECMO\]). Overall, 6 of the 34 ventilated patients and 1 of the 19 non-ventilated patients died[^10.1056/NEJMoa2007016]. This death rate appeared lower than that of historical controls with similar levels of disease severity.
 
@@ -505,11 +505,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMTI5MjMsNjg0NzgxNDg3LDc5MTAwNz
-Q2MywxMzcxNzE0Mjk2LC0xNDUyMzU4MTQ0LDIwOTg3NzU3MDUs
-MTQxOTk2MTc4OSwtMTc1ODY3NTE1OSwtMTY0NzE5ODUwNCwtMT
-kyNjEyMDI3MywtMTE5MjAxNDg2NywtMTY0MTc5OTc1MCwxMzcz
-MTc5OTAxLDg1MzExMDExOCwxMDA5MDMxODY2LC0xNjI1ODY0OC
-wtMTgyNDcxOTc5MiwxNDk3MDUwMjAsNjUzMjExNDg3LC02MTg2
-MDcwMDRdfQ==
+eyJoaXN0b3J5IjpbLTI2MzU3NzUxNCw2ODQ3ODE0ODcsNzkxMD
+A3NDYzLDEzNzE3MTQyOTYsLTE0NTIzNTgxNDQsMjA5ODc3NTcw
+NSwxNDE5OTYxNzg5LC0xNzU4Njc1MTU5LC0xNjQ3MTk4NTA0LC
+0xOTI2MTIwMjczLC0xMTkyMDE0ODY3LC0xNjQxNzk5NzUwLDEz
+NzMxNzk5MDEsODUzMTEwMTE4LDEwMDkwMzE4NjYsLTE2MjU4Nj
+Q4LC0xODI0NzE5NzkyLDE0OTcwNTAyMCw2NTMyMTE0ODcsLTYx
+ODYwNzAwNF19
 -->
