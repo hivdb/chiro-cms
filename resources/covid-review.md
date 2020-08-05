@@ -4,11 +4,9 @@
 
 RNA-dependent RNA polymerases (RdRps) catalyze phosphodiester bond formation between nucleoside triphosphates in an RNA-templated manner. RdRps are highly conserved in their structural and functional features, even among diverse RNA viruses belonging to different families[^10.3390/v11080745]. Nucleoside analog polymerase inhibitors are the most common antiviral compounds making up at least a plurality and possibly a majority of all licensed antivirals, including those for treating herpes viruses, HIV, hepatitis B, and hepatitis C. Most antiviral polymerase inhibitors lack a 3’-hydroxyl group and act as nucleoside analog chain terminators. Others contain a 3'-hydroxyl group yet still result in immediate or delayed chain termination. Finally, some nucleoside analogs become incorporated into viral genomes and inhibit replication by introducing mutations during subsequent rounds of virus replication.
 
-Coronavirus RNA polymerization is more complex than that of other viruses. First, coronaviruses contain a 3’-to-5’ exoribonuclease (ExoN; nsp14) which is required for replication fidelity[^10.1073/pnas.0508200103]. ExoN is responsible for the intrinsic resistance of coronavirus species to ribavirin and several other nucleoside analogs [^10.1371/journal.ppat.1003565][^10.1073/pnas.1718806115]. Second, coronavirus genomes are three times larger than most other RNA genomes and thus require increased processivity which may e
+Coronavirus RNA polymerization is more complex than that of other viruses. First, coronaviruses contain a 3’-to-5’ exoribonuclease (ExoN; nsp14) which is required for replication fidelity[^10.1073/pnas.0508200103]. ExoN is responsible for the intrinsic resistance of coronavirus species to ribavirin and several other nucleoside analogs [^10.1371/journal.ppat.1003565][^10.1073/pnas.1718806115]. Second, coronavirus genomes are three times larger than most other RNA genomes and thus require increased processivity which may explains the RdRp (nsp12) requirement for two accessory proteins (nsp7 and nsp8). The 3D structure of the nsp12-nsp7-nsp8 complex of SARS-CoV [^10.1038/s41467-019-10280-3] and SARS-CoV-2 [^10.1126/science.abb7498][^10.1126/science.abc1560] have been solved by cryo-EM.
 
- coronavirus RdRp (nsp12) requires two accessory proteins (nsp7 and nsp8). The 3D structure of the nsp12-nsp7-nsp8 complex of SARS-CoV [^10.1038/s41467-019-10280-3] and SARS-CoV-2 [^10.1126/science.abb7498][^10.1126/science.abc1560] have been solved by cryo-EM.
 
-Most antiviral polymerase inhibitors lack a 3’-hydroxyl group and act as nucleoside analog chain terminators. Others contain a 3'-hydroxyl group yet still result in immediate or delayed chain termination. Finally, some nucleoside analogs become incorporated into viral genomes and inhibit replication by introducing mutations during subsequent rounds of virus replication.
 
 ### Remdesivir
 Remdesivir (GS-5734) is the monophosphate prodrug of the parent 1’-cyano-substituted adenine C-nucleoside analogue GS-441524[^10.1021/acs.jmedchem.6b01594]. The presence of the phosphate group allows for more efficient metabolism of the prodrug to the active nucleoside triphosphate form bypassing the rate-limiting first phosphorylation step[^10.1038/nature17180]. Remdesivir is a nonobligate chain terminator in that it contains a 3’-OH group. It causes delayed chain termination due to a steric clash after the addition of three trailing nucleosides[^10.1074/jbc.AC120.013056][^10.1074/jbc.RA120.013679][^10.1016/j.antiviral.2020.104793]. The mechanism by which it eludes coronavirus exonucleases is not known.
@@ -506,11 +504,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4OTUyNDY3LDEzNzE3MTQyOTYsLTE0NT
-IzNTgxNDQsMjA5ODc3NTcwNSwxNDE5OTYxNzg5LC0xNzU4Njc1
-MTU5LC0xNjQ3MTk4NTA0LC0xOTI2MTIwMjczLC0xMTkyMDE0OD
-Y3LC0xNjQxNzk5NzUwLDEzNzMxNzk5MDEsODUzMTEwMTE4LDEw
-MDkwMzE4NjYsLTE2MjU4NjQ4LC0xODI0NzE5NzkyLDE0OTcwNT
-AyMCw2NTMyMTE0ODcsLTYxODYwNzAwNCwxNjUyNTg0MzAxLC04
-MDA3ODQ5NjFdfQ==
+eyJoaXN0b3J5IjpbLTE0MjYxMTE0NDksMTM3MTcxNDI5NiwtMT
+Q1MjM1ODE0NCwyMDk4Nzc1NzA1LDE0MTk5NjE3ODksLTE3NTg2
+NzUxNTksLTE2NDcxOTg1MDQsLTE5MjYxMjAyNzMsLTExOTIwMT
+Q4NjcsLTE2NDE3OTk3NTAsMTM3MzE3OTkwMSw4NTMxMTAxMTgs
+MTAwOTAzMTg2NiwtMTYyNTg2NDgsLTE4MjQ3MTk3OTIsMTQ5Nz
+A1MDIwLDY1MzIxMTQ4NywtNjE4NjA3MDA0LDE2NTI1ODQzMDEs
+LTgwMDc4NDk2MV19
 -->
