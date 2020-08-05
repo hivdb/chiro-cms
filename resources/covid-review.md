@@ -22,6 +22,8 @@ The phase Chinese placebo-controlled trial was discontinued prematurely after re
 
 The Gilead SIMPLE-Severe trial enrolled 397 persons with radiographic evidence of pneumonia who were receiving supplemental oxygen or had an oxygen saturation <=94% on room air. In an unadjusted analysis, there was an improvement of 2 points along a 7-point ordinal scale by day 14 in 64% of those receiving treatment for 5 days and 54% in those receiving treatment for 10 days. However, after adjustment for baseline variables, which were somewhat worse in the 10 day group,  the study concluded that there was no difference between the two groups in the time to a 2 point clinical improvement by day 14.
 
+It has been difficult to distinguish possible remdesivir adverse effects with those of COVID-19 disease. Gastrointestinal symptoms and transaminase elevations appear to the most common adverse effects. Thrombocytopenia and elevations in prothrombin time may also be related to RDV. Hypotension and hypersensitivity reactions have been rare. The RDV formulation contains a cyclodextrin-based solubility enhancer which would be expected to increase plasma exposure in patients with renal impairment. However, RDV does not appear to be associated with an increased risk of acute kidney injury and there are no recommendations for dose adjustments in those with an eGFR above 30. Although RDV is a CYP450 substrate, there have not yet been convincing reports of drug interactions - although this has not been systematically studied. Gilead sciences recommends against co-administration with rifampin (presumably because of the CYP450 metabolism) or hydroxychloroquine as there are some data suggesting that chloroquine analogs reduce remdesivir efficacy.
+
 Based on the ACTT results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). Further analysis of ACTT data containing results from a greater proportion of the participants and containing virological response data are likely to be published in the future.
 
 
@@ -508,11 +510,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDc3NjExOCwxNDA3MDA2ODcsNjg0Nz
-gxNDg3LDc5MTAwNzQ2MywxMzcxNzE0Mjk2LC0xNDUyMzU4MTQ0
-LDIwOTg3NzU3MDUsMTQxOTk2MTc4OSwtMTc1ODY3NTE1OSwtMT
-Y0NzE5ODUwNCwtMTkyNjEyMDI3MywtMTE5MjAxNDg2NywtMTY0
-MTc5OTc1MCwxMzczMTc5OTAxLDg1MzExMDExOCwxMDA5MDMxOD
-Y2LC0xNjI1ODY0OCwtMTgyNDcxOTc5MiwxNDk3MDUwMjAsNjUz
-MjExNDg3XX0=
+eyJoaXN0b3J5IjpbLTg1MTcwNDU2OSwtNDE0Nzc2MTE4LDE0MD
+cwMDY4Nyw2ODQ3ODE0ODcsNzkxMDA3NDYzLDEzNzE3MTQyOTYs
+LTE0NTIzNTgxNDQsMjA5ODc3NTcwNSwxNDE5OTYxNzg5LC0xNz
+U4Njc1MTU5LC0xNjQ3MTk4NTA0LC0xOTI2MTIwMjczLC0xMTky
+MDE0ODY3LC0xNjQxNzk5NzUwLDEzNzMxNzk5MDEsODUzMTEwMT
+E4LDEwMDkwMzE4NjYsLTE2MjU4NjQ4LC0xODI0NzE5NzkyLDE0
+OTcwNTAyMF19
 -->
