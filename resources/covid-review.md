@@ -192,7 +192,7 @@ ___Conclusion: As of July, there are eight ongoing and eight planned clinical tr
 ### Endosomal Trafficking Inhibitors
 Chloroquine (CQ) and its analogs have been reported to have multiple intracellular actions that interfere with virus replication and/or the immune response to viral infections. CQ analogs are weak bases, that in their non-protonated form, penetrate and concentrate within acidic intracellular organelles such as endosomes and lysosomes. In these organelles, CQ analogs may interfere with the trafficking of viruses that require a pH-dependent step for entry[^10.1016/s1473-3099(03)00806-5][^10.1371/journal.ppat.1004502]. CQ analogs have also been reported to impair ACE2 glycosylation, which could theoretically diminish receptor binding by SARS-CoV and SARS-CoV-2[^10.1186/1743-422X-2-69]. They are also anti-inflammatory, and have been used for autoimmune conditions.
 
-CQ and hydroxychloroquine (HCQ) have demonstrated modest inhibitory activity _in vitro_ against MERS-CoV[^10.1128/AAC.03036-14][^10.3390/v10060283][^10.1128/AAC.03011-14], SARS-CoV[^10.1186/1743-422X-2-69][^10.1177/095632020601700505][^10.1016/j.bbrc.2004.08.085][^10.1128/AAC.03011-14], and SARS-CoV-2[^10.1038/s41422-020-0282-0][^10.1038/s41421-020-0156-0][^10.1093/cid/ciaa237][^10.1128/AAC.00819-20][^10.1101/2020.04.04.020925][^10.1101/2020.03.29.014407][^10.1101/2020.04.03.023846] with most EC<sub>50</sub>s ranging between 1 μM and 10 μM. However, two large blinded and three open-label randomized control trials totaling more failed to show any clinical or virological benefit from the use of hydroxychlorquine[^10.1101/2020.07.15.20151852][^10.7326/M20-4207][^10.1056/NEJMoa2019014][^10.1101/2020.04.10.20060558][^ 
+CQ and hydroxychloroquine (HCQ) have demonstrated modest inhibitory activity _in vitro_ against MERS-CoV[^10.1128/AAC.03036-14][^10.3390/v10060283][^10.1128/AAC.03011-14], SARS-CoV[^10.1186/1743-422X-2-69][^10.1177/095632020601700505][^10.1016/j.bbrc.2004.08.085][^10.1128/AAC.03011-14], and SARS-CoV-2[^10.1038/s41422-020-0282-0][^10.1038/s41421-020-0156-0][^10.1093/cid/ciaa237][^10.1128/AAC.00819-20][^10.1101/2020.04.04.020925][^10.1101/2020.03.29.014407][^10.1101/2020.04.03.023846] with most EC<sub>50</sub>s ranging between 1 μM and 10 μM. However, four large cohort studies two large blinded and three large open-label randomized control trials totaling more failed to show any clinical or virological benefit from the use of hydroxychlorquine[^10.1101/2020.07.15.20151852][^10.7326/M20-4207][^10.1056/NEJMoa2019014][^10.1101/2020.04.10.20060558][^10.1093/cid/ciaa1009]. 
 
 
 
@@ -511,7 +511,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzM0MzY3MiwtMTY0MTc5OTc1MCwxMz
+eyJoaXN0b3J5IjpbMTA5NTI3MDEzNSwtMTY0MTc5OTc1MCwxMz
 czMTc5OTAxLDg1MzExMDExOCwxMDA5MDMxODY2LC0xNjI1ODY0
 OCwtMTgyNDcxOTc5MiwxNDk3MDUwMjAsNjUzMjExNDg3LC02MT
 g2MDcwMDQsMTY1MjU4NDMwMSwtODAwNzg0OTYxLC0xOTYwNzMw
