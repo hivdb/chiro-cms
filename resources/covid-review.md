@@ -4,8 +4,7 @@
 
 RNA-dependent RNA polymerases (RdRps) catalyze phosphodiester bond formation between nucleoside triphosphates in an RNA-templated manner. RdRps are highly conserved in their structural and functional features, even among diverse RNA viruses belonging to different families[^10.3390/v11080745]. Nucleoside analog polymerase inhibitors are the most common antiviral compounds making up at least a plurality and possibly a majority of all licensed antivirals, including those for treating herpes viruses, HIV, hepatitis B, and hepatitis C. Most antiviral polymerase inhibitors lack a 3’-hydroxyl group and act as nucleoside analog chain terminators. Others contain a 3'-hydroxyl group yet still result in immediate or delayed chain termination. Finally, some nucleoside analogs become incorporated into viral genomes and inhibit replication by introducing mutations during subsequent rounds of virus replication.
 
-Coronavirus RNA polymerization is more complex than that of other viruses. First, coronaviruses contain a 3’-to-5’ exoribonuclease (ExoN; nsp14) which is required for replication fidelity[^10.1073/pnas.0508200103]. ExoN is responsible for the intrinsic resistance of coronavirus species to ribavirin and several other nucleoside analogs [^10.1371/journal.ppat.1003565][^10.1073/pnas.1718806115]. Second, coronavirus genomes are three times larger than most other RNA genomes and thus require increased processivity which may explains the RdRp (nsp12) requirement for two accessory proteins (nsp7 and nsp8).  Third, the coronavirus RdRp is required for transcribing multiple subgenomic mRNAs in addition to copying the full virus genome. 3D structures of the nsp12-nsp7-nsp8 complex of SARS-CoV [^10.1038/s41467-019-10280-3] and SARS-CoV-2 [^10.1126/science.abb7498][^10.1126/science.abc1560] have been solved by cryo-EM.
-
+Coronavirus RNA polymerization is more complex than that of other viruses. First, coronaviruses contain a 3’-to-5’ exoribonuclease (ExoN; nsp14) which is required for replication fidelity[^10.1073/pnas.0508200103]. ExoN is responsible for the intrinsic resistance of coronavirus species to ribavirin and several other nucleoside analogs [^10.1371/journal.ppat.1003565][^10.1073/pnas.1718806115]. Second, coronavirus genomes are three times larger than most other RNA genomes and thus require increased processivity which may explains the RdRp (nsp12) requirement for two accessory proteins (nsp7 and nsp8).  Third, the coronavirus RdRp is required for transcribing multiple subgenomic mRNAs in addition to copying the full virus genome. 3D structures of the nsp12-nsp7-nsp8 complex of SARS-CoV [^10.1038/s41467-019-10280-3] and SARS-CoV-2 [^10.1016/j.cell.2020.05.034][^10.1126/science.abb7498][^10.1126/science.abc1560][^10.1038/s41586-020-2368-8] have been solved by cryo-EM.
 
 
 ### Remdesivir
@@ -504,11 +503,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzAwOTg4MiwxMzcxNzE0Mjk2LC0xND
-UyMzU4MTQ0LDIwOTg3NzU3MDUsMTQxOTk2MTc4OSwtMTc1ODY3
-NTE1OSwtMTY0NzE5ODUwNCwtMTkyNjEyMDI3MywtMTE5MjAxND
-g2NywtMTY0MTc5OTc1MCwxMzczMTc5OTAxLDg1MzExMDExOCwx
-MDA5MDMxODY2LC0xNjI1ODY0OCwtMTgyNDcxOTc5MiwxNDk3MD
-UwMjAsNjUzMjExNDg3LC02MTg2MDcwMDQsMTY1MjU4NDMwMSwt
-ODAwNzg0OTYxXX0=
+eyJoaXN0b3J5IjpbNzkxMDA3NDYzLDEzNzE3MTQyOTYsLTE0NT
+IzNTgxNDQsMjA5ODc3NTcwNSwxNDE5OTYxNzg5LC0xNzU4Njc1
+MTU5LC0xNjQ3MTk4NTA0LC0xOTI2MTIwMjczLC0xMTkyMDE0OD
+Y3LC0xNjQxNzk5NzUwLDEzNzMxNzk5MDEsODUzMTEwMTE4LDEw
+MDkwMzE4NjYsLTE2MjU4NjQ4LC0xODI0NzE5NzkyLDE0OTcwNT
+AyMCw2NTMyMTE0ODcsLTYxODYwNzAwNCwxNjUyNTg0MzAxLC04
+MDA3ODQ5NjFdfQ==
 -->
