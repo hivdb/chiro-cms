@@ -31,11 +31,11 @@ There are several ongoing studies of remdesivir addressing its use in three main
 ___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial. The optimal use of this drug will become clearer with further study. Remdesivir will likely be the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
 
 ### EIDD-2801
-β-D-N4-hydroxycytidine (NHC) is a cytidine analogue that exerts its activity primarily through viral mutagenesis in that it incorporates into new RNA strands but leads to large numbers of replication errors during subsequent rounds of replication [^10.1016/j.coviro.2019.04.002]. β-D-N4-hydroxycytidine-5'-isopropyl ester (EIDD-2801) is an orally available NHC prodrug. The mechanism by which EIDD=2801 eludes the proof-reading function of the coronavirus exonucleases is not known.
+β-D-N4-hydroxycytidine (NHC) is a cytidine analogue that exerts its activity primarily through viral mutagenesis in that it incorporates into new RNA strands but leads to large numbers of replication errors during subsequent rounds of replication [^10.1016/j.coviro.2019.04.002]. β-D-N4-hydroxycytidine-5'-isopropyl ester (EIDD-2801) is an orally available NHC prodrug. The fact that EIDD-2801 is not a chain terminator may explain the mechanism by which it eludes the proof-reading function of coronavirus exonucleases is not known.
 
 EIDD-2801 has broad-spectrum antiviral activity against multiple coronaviruses including MERS-CoV, SARS-CoV, and SARS-CoV-2 with most EC<sub>50</sub>s below 1 μM[^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883]. It also has activity in primary human airway epithelial cells and reduced virus levels, disease, and lung damage in mouse models of SARS-CoV and MERS-CoV[^10.1126/scitranslmed.abb5883]. Deep sequencing studies have confirmed that viral mutagenesis is the main mechanism by which EIDD-2801 inhibits coronaviruses [^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883].
 
-As of August, a phase I study in uninfected individuals and two phase II studies patients with mild-to-moderate disease have begun ([Clinical Trials of EIDD-2801](linic-triamplymerase)).
+As of August, a phase I study in uninfected individuals and two phase II studies patients with mild-to-moderate disease have begun ([https://covdb.stanford.edu/clinical-trials/?compound=EIDD-2801&target=Polymerase](https://covdb.stanford.edu/clinical-trials/?compound=EIDD-2801&target=Polymerase))
 
 ___Conclusion: The preclinical in vitro and animal model data associated with EIDD-2801 are comparable to those of remdesivir. However, EIDD-2801’s safety  and clinical efficacy have not yet been established. Should EIDD-2018 trials be successful, this drug may be a useful oral option in high-risk outpatients. ___
 
@@ -501,7 +501,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzU3NTg0NSwtODUxNzA0NTY5LC00MT
+eyJoaXN0b3J5IjpbMTQ1OTkyMTU4NywtODUxNzA0NTY5LC00MT
 Q3NzYxMTgsMTQwNzAwNjg3LDY4NDc4MTQ4Nyw3OTEwMDc0NjMs
 MTM3MTcxNDI5NiwtMTQ1MjM1ODE0NCwyMDk4Nzc1NzA1LDE0MT
 k5NjE3ODksLTE3NTg2NzUxNTksLTE2NDcxOTg1MDQsLTE5MjYx
