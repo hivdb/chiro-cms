@@ -8,7 +8,7 @@ Coronavirus RNA polymerization is more complex than that of other viruses. First
 
 
 ### Remdesivir
-Remdesivir (GS-5734) is the monophosphate prodrug of the parent 1’-cyano-substituted adenine C-nucleoside analogue GS-441524[^10.1021/acs.jmedchem.6b01594]. The presence of the phosphate group allows for more efficient metabolism of the prodrug to the active nucleoside triphosphate form bypassing the rate-limiting first phosphorylation step[^10.1038/nature17180]. Remdesivir is a nonobligate chain terminator in that it contains a 3’-OH group. It causes delayed chain termination due to a steric clash after the addition of three trailing nucleosides[^10.1074/jbc.AC120.013056][^10.1074/jbc.RA120.013679][^10.1016/j.antiviral.2020.104793]. The mechanism by which it eludes coronavirus exonucleases is not known.
+Remdesivir (GS-5734) is the monophosphate prodrug of the parent 1’-cyano-substituted adenine C-nucleoside analogue GS-441524[^10.1021/acs.jmedchem.6b01594]. The presence of the phosphate group allows for more efficient metabolism of the prodrug to the active nucleoside triphosphate form bypassing the rate-limiting first phosphorylation step[^10.1038/nature17180]. Remdesivir is a nonobligate chain terminator in that it contains a 3’-OH group. It causes delayed chain termination due to a steric clash after the addition of three trailing nucleosides[^10.1074/jbc.AC120.013056][^10.1074/jbc.RA120.013679][^10.1016/j.antiviral.2020.104793]. The fact that chain termination does not occur until additional nucleoside triphosphates have been added probably explains the mechanism by remdesivir eludes coronavirus exonucleases is not known.
 
 Remdesivir has broad spectrum activity against multiple RNA viruses and inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2 with most reported half-maximal effective concentrations (EC<sub>50</sub>s) below 1 μM[^10.1126/scitranslmed.aal3653][^10.1128/mBio.00221-18][^10.1038/s41467-019-13940-6][^10.1038/s41422-020-0282-0][^10.1101/2020.04.03.024257][^10.1016/j.antiviral.2020.104786][^10.1128/AAC.00819-20][^10.1101/2020.04.03.023846][^10.1101/2020.04.03.20052548][^10.1101/2020.04.27.064279]. It inhibits coronaviruses in multiple cell types including primary human airway epithelial cells[^10.1126/scitranslmed.aal3653][^10.1101/2020.04.27.064279]. Animal model experiments have demonstrated that remdesivir can reduce lung virus levels and lung damage in mice infected with MERS-CoV and SARS-CoV[^10.1126/scitranslmed.aal3653][^10.1016/j.antiviral.2020.104793], rhesus macaques infected with MERS-CoV[^10.1126/scitranslmed.aal3653][^10.1073/pnas.1922083117], and rhesus macaques infected with SARS-CoV-2[^10.1038/s41586-020-2423-5].
 
@@ -503,11 +503,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxMDA3NDYzLDEzNzE3MTQyOTYsLTE0NT
-IzNTgxNDQsMjA5ODc3NTcwNSwxNDE5OTYxNzg5LC0xNzU4Njc1
-MTU5LC0xNjQ3MTk4NTA0LC0xOTI2MTIwMjczLC0xMTkyMDE0OD
-Y3LC0xNjQxNzk5NzUwLDEzNzMxNzk5MDEsODUzMTEwMTE4LDEw
-MDkwMzE4NjYsLTE2MjU4NjQ4LC0xODI0NzE5NzkyLDE0OTcwNT
-AyMCw2NTMyMTE0ODcsLTYxODYwNzAwNCwxNjUyNTg0MzAxLC04
-MDA3ODQ5NjFdfQ==
+eyJoaXN0b3J5IjpbNDg1MTE1NjkxLDc5MTAwNzQ2MywxMzcxNz
+E0Mjk2LC0xNDUyMzU4MTQ0LDIwOTg3NzU3MDUsMTQxOTk2MTc4
+OSwtMTc1ODY3NTE1OSwtMTY0NzE5ODUwNCwtMTkyNjEyMDI3My
+wtMTE5MjAxNDg2NywtMTY0MTc5OTc1MCwxMzczMTc5OTAxLDg1
+MzExMDExOCwxMDA5MDMxODY2LC0xNjI1ODY0OCwtMTgyNDcxOT
+c5MiwxNDk3MDUwMjAsNjUzMjExNDg3LC02MTg2MDcwMDQsMTY1
+MjU4NDMwMV19
 -->
