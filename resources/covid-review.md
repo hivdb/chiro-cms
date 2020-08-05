@@ -189,7 +189,9 @@ Several synthetic furin inhibitors have also shown to inhibit coronaviruses _in 
 
 ___Conclusion: As of July, there are eight ongoing and eight planned clinical trials of camostat, nafamostat, or another host protease inhibitor. This class of inhibitors currently appear to be the most promising among existing repurposed drugs. ___
 
-### Endosomal Trafficking Inhibitors
+### Additional Host-Acting Compounds
+
+
 Chloroquine (CQ) and its analogs have been reported to have multiple intracellular actions that interfere with virus replication and/or the immune response to viral infections. CQ analogs are weak bases, that in their non-protonated form, penetrate and concentrate within acidic intracellular organelles such as endosomes and lysosomes. In these organelles, CQ analogs may interfere with the trafficking of viruses that require a pH-dependent step for entry[^10.1016/s1473-3099(03)00806-5][^10.1371/journal.ppat.1004502]. CQ analogs have also been reported to impair ACE2 glycosylation, which could theoretically diminish receptor binding by SARS-CoV and SARS-CoV-2[^10.1186/1743-422X-2-69]. CQ analogs also anti-inflammatory, and have been used for autoimmune conditions. CQ and hydroxychloroquine (HCQ) have modest inhibitory activity _in vitro_ against MERS-CoV[^10.1128/AAC.03036-14][^10.3390/v10060283][^10.1128/AAC.03011-14], SARS-CoV[^10.1186/1743-422X-2-69][^10.1177/095632020601700505][^10.1016/j.bbrc.2004.08.085][^10.1128/AAC.03011-14], and SARS-CoV-2[^10.1038/s41422-020-0282-0][^10.1038/s41421-020-0156-0][^10.1093/cid/ciaa237][^10.1128/AAC.00819-20][^10.1101/2020.04.04.020925][^10.1101/2020.03.29.014407][^10.1101/2020.04.03.023846] with most EC<sub>50</sub>s ranging between 1 μM and 10 μM. 
 
 However, two large blinded and three large open-label randomized control trials totaling more than 6,000 patients failed to show any clinical or virological benefit from the use of hydroxychloroquine[^10.1101/2020.07.15.20151852][^10.7326/M20-4207][^10.1056/NEJMoa2019014][^10.1101/2020.04.10.20060558][^10.1093/cid/ciaa1009]. Two additional randomized controlled studies totaling more than 3,000 patients failed to show a reduction in the risk of infection among exposed patients receiving HCQ[^10.1101/2020.07.20.20157651][^10.1056/NEJMoa2016638].  The lack of efficacy likely reflects the fact that  at standard dosages, CQ and HCQ do not achieve sufficiently high inhibitory drug levels[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1002/cpt.1909] and because cytoplasmic entry of SARS-CoV-2 appears to be dependent primarily on the membrane based enzyme TMPRSS2 rather than on endosomal fusion and acidification. 
@@ -503,7 +505,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM2MTMwMzgsLTE5MjYxMjAyNzMsLT
+eyJoaXN0b3J5IjpbLTE0OTEyNTYyOTcsLTE5MjYxMjAyNzMsLT
 ExOTIwMTQ4NjcsLTE2NDE3OTk3NTAsMTM3MzE3OTkwMSw4NTMx
 MTAxMTgsMTAwOTAzMTg2NiwtMTYyNTg2NDgsLTE4MjQ3MTk3OT
 IsMTQ5NzA1MDIwLDY1MzIxMTQ4NywtNjE4NjA3MDA0LDE2NTI1
