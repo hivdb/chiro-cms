@@ -4,6 +4,10 @@
     - CoVDB, antivirals & related compounds
 - [Clinical trials, non-antiviral compounds](https://docs.google.com/spreadsheets/d/1c9wW5iFfPcA92YzuhzpM_CW7NzhrxJLzq1PaP1lshpo/edit?usp=sharing)
 
+## Inteferon
+
+- [Inteferon experiments](https://docs.google.com/spreadsheets/d/1FO0-SVBNMaq2o6x0hQRKMLfiJ0pPiT65vB91HixOPns/edit#gid=602678947)
+
 ## Clinical trials
 
 - [ClinicalTrials, Antiviral trials](https://docs.google.com/spreadsheets/d/1MRPF8xJ_UjSqbICfLRDY6UdbscmnS4g6lUcPpoaZe6Y/edit?usp=sharing)
