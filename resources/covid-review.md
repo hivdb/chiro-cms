@@ -14,14 +14,7 @@ Remdesivir has broad spectrum activity against multiple RNA viruses and inhibits
 
 Remdesivir resistance in a related coronavirus has been selected in the murine hepatitis virus (MHV) during prolonged _in vitro_ passage in the presence of remdesivir[^10.1128/mBio.00221-18]. The remdesivir-resistant mutations are in the RdRp fingers domain. Introducing the homologous substitutions into SARS-CoV (F480L + V557L) resulted in a virus with reduced replication and about 6-fold reduced remdesivir susceptibility [^10.1128/mBio.00221-18].
 
-Remdesivir is administered intravenously with a loading dose of 200 mg followed by 100 mg daily for 5 to 10 days in adult patients[^10.1002/phar.2398][^10.1016/j.onehlt.2020.100128]. Following intravenous administration, the achievable maximum remdesivir plasma concentration (Cmax) is predicted to be at least twice as high as its most commonly reported EC<sub>50</sub>s[^10.1002/cpt.1909].
-
-There have been 3 published randomized clinical trials of remdesivir. The NIH Adaptive Covid-19 Treatment Trial[^10.1056/NEJMoa2007764] and a Chinese trial[^10.1016/S0140-6736(20)31022-9] were double-blinded placebo-controlled trials. The Gilead SIMPLE trial randomized patients to receive 5 vs. 10 days of treatment[^10.1056/NEJMoa2015301]. 
-
-Of note, the Chinese study did not reach the planned enrollment of 450 patients because the outbreak was controlled in China.
-
-
-
+Remdesivir is administered intravenously with a loading dose of 200 mg followed by 100 mg daily for 5 to 10 days in adult patients[^10.1002/phar.2398][^10.1016/j.onehlt.2020.100128]. Following intravenous administration, the achievable maximum remdesivir plasma concentration (Cmax) is predicted to be at least twice as high as its most commonly reported EC<sub>50</sub>s[^10.1002/cpt.1909]. There have been 3 published randomized clinical trials of remdesivir. The NIH Adaptive Covid-19 Treatment Trial[^10.1056/NEJMoa2007764] and a Chinese trial[^10.1016/S0140-6736(20)31022-9] were double-blinded placebo-controlled trials. The Gilead SIMPLE trial randomized patients to receive 5 vs. 10 days of treatment[^10.1056/NEJMoa2015301]. 
 
 Preliminary results from the NIH Adaptive COVID-19 Treatment Trial (ACTT) were announced on April 29th, 2020 after after an interim analysis by the data safety monitoring board and published on May 22, 2020[^10.1056/NEJMoa2007764]. Of 1063 randomized hospitalized patients, 541 were assigned to remdesivir (200 mg IV followed by 100 mg IV daily x 9 days) and 522 to placebo. Approximately, 180 patients in each group completed 10 days of treatment. About 100 in each group were still on treatment or had missing treatment data at the time of the analysis. And 225-250 in each group received fewer than 10 days of therapy primarily because they recovered, died, or experienced serious adverse effects.
 
@@ -32,6 +25,12 @@ Patients receiving remdesivir had a median recovery time of 11 days (95% CI, 9 t
 Based on the ACTT results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). Further analysis of ACTT data containing results from a greater proportion of the participants and containing virological response data are likely to be published in the future.
 
 Another recently published study reported that a five day course of therapy was as efficacious as a ten day course of therapy in hospitalized patients with an SpO2 ≤ 94% who did not require mechanical ventilation [^10.1056/NEJMoa2015301]. However, the patients in the ten day treatment arm had greater baseline disease severity than those in the five day treatment arm.
+
+In 53 patients with severe SARS-CoV-2 pneumonia receiving remdesivir as part of two expanded access trials, 34 were receiving mechanical ventilation (including 3 on extracorporeal membrane oxygenation \[ECMO\]). Overall, 6 of the 34 ventilated patients and 1 of the 19 non-ventilated patients died[^10.1056/NEJMoa2007016]. This death rate appeared lower than that of historical controls with similar levels of disease severity.
+
+Of note, the Chinese trial enrolled  did not reach the planned enrollment of 450 patients because the outbreak was controlled in China.
+
+A phase 3 placebo-controlled trial begun in China in patients with moderate-to-severe disease was discontinued prematurely after recruiting 237 rather than the planned 453 patients. Patients were randomized 2:1 to receive remdesivir or placebo. Although not statistically significant, patients receiving remdesivir had a faster time to clinical improvement than those receiving placebo (median 18 days \[IQR 12–28\] vs 23 days \[15–28\]; HR 1.52 \[0.95–2.43\]. The 28-day mortality was similar in both groups (14% for remdesivir and 13% for placebo). There was no difference in the rates of decline of nasopharyngeal viral RNA levels between the two groups. Adverse events leading to treatment discontinuation were 12% in the remdesivir group and 5% in the placebo group[^10.1016/S0140-6736(20)31022-9].
 
 
 ___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial. The optimal use of this drug will become clearer with further study. Remdesivir will likely be the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
@@ -507,11 +506,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTgyOTAzNDYsNjg0NzgxNDg3LDc5MT
-AwNzQ2MywxMzcxNzE0Mjk2LC0xNDUyMzU4MTQ0LDIwOTg3NzU3
-MDUsMTQxOTk2MTc4OSwtMTc1ODY3NTE1OSwtMTY0NzE5ODUwNC
-wtMTkyNjEyMDI3MywtMTE5MjAxNDg2NywtMTY0MTc5OTc1MCwx
-MzczMTc5OTAxLDg1MzExMDExOCwxMDA5MDMxODY2LC0xNjI1OD
-Y0OCwtMTgyNDcxOTc5MiwxNDk3MDUwMjAsNjUzMjExNDg3LC02
-MTg2MDcwMDRdfQ==
+eyJoaXN0b3J5IjpbLTIyOTI0MzQyNCw2ODQ3ODE0ODcsNzkxMD
+A3NDYzLDEzNzE3MTQyOTYsLTE0NTIzNTgxNDQsMjA5ODc3NTcw
+NSwxNDE5OTYxNzg5LC0xNzU4Njc1MTU5LC0xNjQ3MTk4NTA0LC
+0xOTI2MTIwMjczLC0xMTkyMDE0ODY3LC0xNjQxNzk5NzUwLDEz
+NzMxNzk5MDEsODUzMTEwMTE4LDEwMDkwMzE4NjYsLTE2MjU4Nj
+Q4LC0xODI0NzE5NzkyLDE0OTcwNTAyMCw2NTMyMTE0ODcsLTYx
+ODYwNzAwNF19
 -->
