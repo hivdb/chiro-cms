@@ -26,15 +26,7 @@ It has been difficult to distinguish possible remdesivir adverse effects with th
 
 The FDA EUA recommends using remdesivir in patients with severe disease who have suspected or confirmed SARS-CoV-2 infection.  The recommended treatment course is 5 days except for those with critical disease or those not showing improvement after 5 days. The standard dose is 200 mg IV followed by 100 mg IV for the next 4 to 9 days. Lower doses are recommended for pediatric patients and those weighing less than 40 kg. Baseline eGFR and hepatic laboratory testing is required. Remdesivir is not recommended for those with an eGFR <30, an ALT >=5 times normal or other evidence of hepatic dysfunction ([https://www.fda.gov/media/137566/download](https://www.fda.gov/media/137566/download)). However, as of July 24, because of the limited supplies of remdesivir, the NIH COVID-19 Treatment Guidelines recommend that remdesivir be prioritized for hospitalized patients who require supplemental oxygen but who are not on high flow oxygen or receiving noninvasive ventilation, mechanical ventilation, or ECMO ([https://www.covid19treatmentguidelines.nih.gov/antiviral-therapy/](https://www.covid19treatmentguidelines.nih.gov/antiviral-therapy/)). This will hopefully change with increased drug supply.
 
-Based on the ACTT results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). Further analysis of ACTT data containing results from a greater proportion of the participants and containing virological response data are likely to be published in the future.
-
-
-
-Another recently published study reported that a five day course of therapy was as efficacious as a ten day course of therapy in hospitalized patients with an SpO2 ≤ 94% who did not require mechanical ventilation [^10.1056/NEJMoa2015301]. However, the patients in the ten day treatment arm had greater baseline disease severity than those in the five day treatment arm.
-
-In 53 patients with severe SARS-CoV-2 pneumonia receiving remdesivir as part of two expanded access trials, 34 were receiving mechanical ventilation (including 3 on extracorporeal membrane oxygenation \[ECMO\]). Overall, 6 of the 34 ventilated patients and 1 of the 19 non-ventilated patients died[^10.1056/NEJMoa2007016]. This death rate appeared lower than that of historical controls with similar levels of disease severity.
-
-Of note, the Chinese trial enrolled  did not reach the planned enrollment of 450 patients because the outbreak was controlled in China.
+There are several ongoing studies of remdesivir addressing its use in three main scenarios: in pediatric patients, in combination with immunomodulators, and through alternate modes of administration including by inhalation or subcutaneously.
 
 A phase 3 placebo-controlled trial begun in China in patients with moderate-to-severe disease was discontinued prematurely after recruiting 237 rather than the planned 453 patients. Patients were randomized 2:1 to receive remdesivir or placebo. Although not statistically significant, patients receiving remdesivir had a faster time to clinical improvement than those receiving placebo (median 18 days \[IQR 12–28\] vs 23 days \[15–28\]; HR 1.52 \[0.95–2.43\]. The 28-day mortality was similar in both groups (14% for remdesivir and 13% for placebo). There was no difference in the rates of decline of nasopharyngeal viral RNA levels between the two groups. Adverse events leading to treatment discontinuation were 12% in the remdesivir group and 5% in the placebo group[^10.1016/S0140-6736(20)31022-9].
 
@@ -512,11 +504,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODMzOTUyNjgsLTg1MTcwNDU2OSwtND
-E0Nzc2MTE4LDE0MDcwMDY4Nyw2ODQ3ODE0ODcsNzkxMDA3NDYz
-LDEzNzE3MTQyOTYsLTE0NTIzNTgxNDQsMjA5ODc3NTcwNSwxND
-E5OTYxNzg5LC0xNzU4Njc1MTU5LC0xNjQ3MTk4NTA0LC0xOTI2
-MTIwMjczLC0xMTkyMDE0ODY3LC0xNjQxNzk5NzUwLDEzNzMxNz
-k5MDEsODUzMTEwMTE4LDEwMDkwMzE4NjYsLTE2MjU4NjQ4LC0x
-ODI0NzE5NzkyXX0=
+eyJoaXN0b3J5IjpbLTQ3NjA2NTQ4MiwtODUxNzA0NTY5LC00MT
+Q3NzYxMTgsMTQwNzAwNjg3LDY4NDc4MTQ4Nyw3OTEwMDc0NjMs
+MTM3MTcxNDI5NiwtMTQ1MjM1ODE0NCwyMDk4Nzc1NzA1LDE0MT
+k5NjE3ODksLTE3NTg2NzUxNTksLTE2NDcxOTg1MDQsLTE5MjYx
+MjAyNzMsLTExOTIwMTQ4NjcsLTE2NDE3OTk3NTAsMTM3MzE3OT
+kwMSw4NTMxMTAxMTgsMTAwOTAzMTg2NiwtMTYyNTg2NDgsLTE4
+MjQ3MTk3OTJdfQ==
 -->
