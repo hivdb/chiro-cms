@@ -24,7 +24,7 @@ The Gilead SIMPLE-Severe trial enrolled 397 persons with radiographic evidence o
 
 It has been difficult to distinguish possible remdesivir adverse effects with those of COVID-19 disease. Gastrointestinal symptoms and transaminase elevations appear to the most common adverse effects. Thrombocytopenia and elevations in prothrombin time may also be related to RDV. Hypotension and hypersensitivity reactions have been rare. The RDV formulation contains a cyclodextrin-based solubility enhancer which would be expected to increase plasma exposure in patients with renal impairment. However, RDV does not appear to be associated with an increased risk of acute kidney injury and there are no recommendations for dose adjustments in those with an eGFR above 30. Although RDV is a CYP450 substrate, there have not yet been convincing reports of drug interactions - although this has not been systematically studied. Gilead Sciences recommends against co-administration with rifampin (presumably because of the CYP450 metabolism) or hydroxychloroquine as there are some data suggesting that chloroquine analogs reduce remdesivir efficacy.
 
-The FDA EUA recommends using RDV in patients with severe disease who have suspected or confirmed SARS-CoV-2 infection.  The recommended treatment course is 5 days except for those with critical disease or those not showing improvement after 5 days. The standard dose is 200 mg IV followed by 100 mg IV for the next 4 to 9 days. Lower doses are recommended for pediatric patients and those weighing less than 40 kg. Baseline eGFR and hepatic laboratory testing is required. Remdesivir is not recommended for those with an eGFR <30, an ALT >=5 times normal or other evidence of hepatic dysfunction ([https://www.fda.gov/media/137566/download](https://www.fda.gov/media/137566/download)). However, as of July 24, because of the limited supplies of remdesivir, the NIH recommends that RDV be prioritized for hospitalized patients who require supplemental oxygen but who are not on high flow oxygen or receiving noninvasive ventilation, MV, or ECMO. This will hopefully change with increased drug supply.
+The FDA EUA recommends using RDV in patients with severe disease who have suspected or confirmed SARS-CoV-2 infection.  The recommended treatment course is 5 days except for those with critical disease or those not showing improvement after 5 days. The standard dose is 200 mg IV followed by 100 mg IV for the next 4 to 9 days. Lower doses are recommended for pediatric patients and those weighing less than 40 kg. Baseline eGFR and hepatic laboratory testing is required. Remdesivir is not recommended for those with an eGFR <30, an ALT >=5 times normal or other evidence of hepatic dysfunction ([https://www.fda.gov/media/137566/download](https://www.fda.gov/media/137566/download)). However, as of July 24, because of the limited supplies of remdesivir, the NIH COVID-19 Treatment Guideleins recommend that Rbe prioritized for hospitalized patients who require supplemental oxygen but who are not on high flow oxygen or receiving noninvasive ventilation, MV, or ECMO ([https://www.covid19treatmentguidelines.nih.gov/antiviral-therapy/](https://www.covid19treatmentguidelines.nih.gov/antiviral-therapy/)). This will hopefully change with increased drug supply.
 
 Based on the ACTT results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). Further analysis of ACTT data containing results from a greater proportion of the participants and containing virological response data are likely to be published in the future.
 
@@ -512,11 +512,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzNzAxODY5LC04NTE3MDQ1NjksLTQxND
-c3NjExOCwxNDA3MDA2ODcsNjg0NzgxNDg3LDc5MTAwNzQ2Mywx
-MzcxNzE0Mjk2LC0xNDUyMzU4MTQ0LDIwOTg3NzU3MDUsMTQxOT
-k2MTc4OSwtMTc1ODY3NTE1OSwtMTY0NzE5ODUwNCwtMTkyNjEy
-MDI3MywtMTE5MjAxNDg2NywtMTY0MTc5OTc1MCwxMzczMTc5OT
-AxLDg1MzExMDExOCwxMDA5MDMxODY2LC0xNjI1ODY0OCwtMTgy
-NDcxOTc5Ml19
+eyJoaXN0b3J5IjpbLTIzMzkxNjM2MSwtODUxNzA0NTY5LC00MT
+Q3NzYxMTgsMTQwNzAwNjg3LDY4NDc4MTQ4Nyw3OTEwMDc0NjMs
+MTM3MTcxNDI5NiwtMTQ1MjM1ODE0NCwyMDk4Nzc1NzA1LDE0MT
+k5NjE3ODksLTE3NTg2NzUxNTksLTE2NDcxOTg1MDQsLTE5MjYx
+MjAyNzMsLTExOTIwMTQ4NjcsLTE2NDE3OTk3NTAsMTM3MzE3OT
+kwMSw4NTMxMTAxMTgsMTAwOTAzMTg2NiwtMTYyNTg2NDgsLTE4
+MjQ3MTk3OTJdfQ==
 -->
