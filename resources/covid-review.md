@@ -18,7 +18,7 @@ Remdesivir is administered intravenously with a loading dose of 200 mg followed 
 
 The NIH Adaptive Trial was the pivotal trial leading to the remdesivir FDA emergency use authorization. It was a multicenter trial that randomized 1063 persons with severe disease to remdesivir x 10 days vs. placebo. The primary endpoint was the time to clinical improvement defined as being discharged from the hospital or no longer requiring supplemental oxygen. An interim DSMB review was performed after a total of 482 recoveries and 81 deaths. The review showed a statistically significant reduction in the time to recovery from 15 days to 11 days (p<0.001) and a non-statistically significant reduction in mortality by day 14 of 11.9% vs. 7.1% (p=0.06). A subgroup analysis showed that response to therapy was greater in those with less severe disease (not requiring supplemental oxygen or receiving oxygen via nasal cannula) than in those with severe disease (requiring high flow oxygen or mechanical ventilation)[^10.1056/NEJMoa2007764]. Serious adverse events occurred at similar rates in both groups (21.1% for remdesivir vs 27.0% for placebo). 
 
-
+The phase Chinese placebo-controlled trial was discontinued prematurely after recruiting 237 (rather than the planned 453 patients) because of the reduction in new SARS-CoV-2 infections. Patients were randomized 2:1 to receive remdesivir or placebo. Although not statistically significant, patients receiving remdesivir had a faster time to clinical improvement than those receiving placebo (median 18 days \[IQR 12–28\] vs 23 days \[15–28\]; HR 1.52 \[0.95–2.43\]. The 28-day mortality was similar in both groups (14% for remdesivir and 13% for placebo). There was no difference in the rates of decline of nasopharyngeal viral RNA levels between the two groups. Adverse events leading to treatment discontinuation were 12% in the remdesivir group and 5% in the placebo group[^10.1016/S0140-6736(20)31022-9].
 
 Based on the ACTT results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). Further analysis of ACTT data containing results from a greater proportion of the participants and containing virological response data are likely to be published in the future.
 
@@ -506,11 +506,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDg4MzUyMSw2ODQ3ODE0ODcsNzkxMD
-A3NDYzLDEzNzE3MTQyOTYsLTE0NTIzNTgxNDQsMjA5ODc3NTcw
-NSwxNDE5OTYxNzg5LC0xNzU4Njc1MTU5LC0xNjQ3MTk4NTA0LC
-0xOTI2MTIwMjczLC0xMTkyMDE0ODY3LC0xNjQxNzk5NzUwLDEz
-NzMxNzk5MDEsODUzMTEwMTE4LDEwMDkwMzE4NjYsLTE2MjU4Nj
-Q4LC0xODI0NzE5NzkyLDE0OTcwNTAyMCw2NTMyMTE0ODcsLTYx
-ODYwNzAwNF19
+eyJoaXN0b3J5IjpbOTkwNDMxNzE2LDY4NDc4MTQ4Nyw3OTEwMD
+c0NjMsMTM3MTcxNDI5NiwtMTQ1MjM1ODE0NCwyMDk4Nzc1NzA1
+LDE0MTk5NjE3ODksLTE3NTg2NzUxNTksLTE2NDcxOTg1MDQsLT
+E5MjYxMjAyNzMsLTExOTIwMTQ4NjcsLTE2NDE3OTk3NTAsMTM3
+MzE3OTkwMSw4NTMxMTAxMTgsMTAwOTAzMTg2NiwtMTYyNTg2ND
+gsLTE4MjQ3MTk3OTIsMTQ5NzA1MDIwLDY1MzIxMTQ4NywtNjE4
+NjA3MDA0XX0=
 -->
