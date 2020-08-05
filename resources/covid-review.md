@@ -2,9 +2,9 @@
 
 ![EC50 Distribution of RdRP Compounds](covid-review-figs/rdrp-compounds-ec50.png#!width=35rem)
 
-Nucleoside analog polymerase inhibitors are the most common antiviral compounds making up at least a plurality and possibly a majority of all licensed antivirals, including those for treating herpes viruses, HIV, hepatitis B, and hepatitis C. Most antiviral polymerase inhibitors lack a 3’-hydroxyl group and act as nucleoside analog chain terminators. Others contain a 3'-hydroxyl group yet still result in immediate or delayed chain termination. Finally, some nucleoside analogs become incorporated into viral genomes and inhibit replication by introducing mutations during subsequent rounds of virus replication.
+RNA-dependent RNA polymerases (RdRps) catalyze phosphodiester bond formation between nucleoside triphosphates in an RNA-templated manner. RdRps are highly conserved in their structural and functional features, even among diverse RNA viruses belonging to different families[^10.3390/v11080745]. Nucleoside analog polymerase inhibitors are the most common antiviral compounds making up at least a plurality and possibly a majority of all licensed antivirals, including those for treating herpes viruses, HIV, hepatitis B, and hepatitis C. Most antiviral polymerase inhibitors lack a 3’-hydroxyl group and act as nucleoside analog chain terminators. Others contain a 3'-hydroxyl group yet still result in immediate or delayed chain termination. Finally, some nucleoside analogs become incorporated into viral genomes and inhibit replication by introducing mutations during subsequent rounds of virus replication.
 
-RNA-dependent RNA polymerases (RdRps) catalyze phosphodiester bond formation between nucleoside triphosphates in an RNA-templated manner. RdRps are highly conserved in their structural and functional features, even among diverse RNA viruses belonging to different families[^10.3390/v11080745]. Coronavirus RNA polymerization, however, is more complex than that of other viruses. First, coronaviruses contain a 3’-to-5’ exoribonuclease (ExoN; nsp14) which is required for replication fidelity[^10.1073/pnas.0508200103]. ExoN is responsible for the intrinsic resistance of coronavirus species to ribavirin and several other nucleoside analogs [^10.1371/journal.ppat.1003565][^10.1073/pnas.1718806115]. Second, coronavirus RdRp (nsp12) requires two accessory proteins (nsp7 and nsp8). The 3D structure of the nsp12-nsp7-nsp8 complex of SARS-CoV [^10.1038/s41467-019-10280-3] and SARS-CoV-2 [^10.1126/science.abb7498][^10.1126/science.abc1560] have been solved by cryo-EM.
+Coronavirus RNA polymerization is more complex than that of other viruses. First, coronaviruses contain a 3’-to-5’ exoribonuclease (ExoN; nsp14) which is required for replication fidelity[^10.1073/pnas.0508200103]. ExoN is responsible for the intrinsic resistance of coronavirus species to ribavirin and several other nucleoside analogs [^10.1371/journal.ppat.1003565][^10.1073/pnas.1718806115]. Second, coronavirus RdRp (nsp12) requires two accessory proteins (nsp7 and nsp8). The 3D structure of the nsp12-nsp7-nsp8 complex of SARS-CoV [^10.1038/s41467-019-10280-3] and SARS-CoV-2 [^10.1126/science.abb7498][^10.1126/science.abc1560] have been solved by cryo-EM.
 
 Most antiviral polymerase inhibitors lack a 3’-hydroxyl group and act as nucleoside analog chain terminators. Others contain a 3'-hydroxyl group yet still result in immediate or delayed chain termination. Finally, some nucleoside analogs become incorporated into viral genomes and inhibit replication by introducing mutations during subsequent rounds of virus replication.
 
@@ -504,11 +504,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzU3MDY5NzksMTM3MTcxNDI5NiwtMT
-Q1MjM1ODE0NCwyMDk4Nzc1NzA1LDE0MTk5NjE3ODksLTE3NTg2
-NzUxNTksLTE2NDcxOTg1MDQsLTE5MjYxMjAyNzMsLTExOTIwMT
-Q4NjcsLTE2NDE3OTk3NTAsMTM3MzE3OTkwMSw4NTMxMTAxMTgs
-MTAwOTAzMTg2NiwtMTYyNTg2NDgsLTE4MjQ3MTk3OTIsMTQ5Nz
-A1MDIwLDY1MzIxMTQ4NywtNjE4NjA3MDA0LDE2NTI1ODQzMDEs
-LTgwMDc4NDk2MV19
+eyJoaXN0b3J5IjpbLTY5MzczNTI0MSwxMzcxNzE0Mjk2LC0xND
+UyMzU4MTQ0LDIwOTg3NzU3MDUsMTQxOTk2MTc4OSwtMTc1ODY3
+NTE1OSwtMTY0NzE5ODUwNCwtMTkyNjEyMDI3MywtMTE5MjAxND
+g2NywtMTY0MTc5OTc1MCwxMzczMTc5OTAxLDg1MzExMDExOCwx
+MDA5MDMxODY2LC0xNjI1ODY0OCwtMTgyNDcxOTc5MiwxNDk3MD
+UwMjAsNjUzMjExNDg3LC02MTg2MDcwMDQsMTY1MjU4NDMwMSwt
+ODAwNzg0OTYxXX0=
 -->
