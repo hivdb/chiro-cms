@@ -159,7 +159,7 @@ ___Conclusions: If convalescent plasma is efficacious, it is likely to be more u
 
 
 ## Interferons
-Interferons (IFNs) respond to the presence of cellular changes suggestive of a viral infection by inducing numerous genes (IFN-stimulated genes \[ISGs\]) involved in inflammation, signaling, and immunomodulation to protect against uncontrolled infection. They interfere with viral replication by slowing cell metabolism, interfering with the membrane formation required for virus replication, and inducing secretion of cytokines that promote adaptive immunity[^10.1016/j.antiviral.2020.104791]. There are three IFN families[^10.1038/nri3787]. Type I IFN includes 13 related IFN-α subtypes and a single IFN-β. Type II IFN consists of a single gene product IFN-γ. Type III IFN consists of IFN-λ1, IFN-λ2, and IFN-λ3. Several IFN-α products have been approved for the treatment of hepatitis B, hepatitis C, human papillomavirus, and several malignancies. IFN-β, IFN-γ, and IFN-λ have been approved for the treatment of multiple sclerosis, congenital immunodeficiency chronic granulomatous disease, and hepatitis delta infection, respectively, Commercial IFN-α products vary in the extent to which they include different IFN-α subtypes. The biological and clinical significance of the differences between the different IFN-α products are not known[^10.1016/j.smim.2019.101300]. Pegylated interferons have a longer half-life because the attached polyethylene glycol causes interferon to be cleared more slowly.
+Interferons (IFNs) respond to the presence of cellular changes suggestive of a viral infection by inducing numerous genes (IFN-stimulated genes \[ISGs\]) involved in inflammation, signaling, and immunomodulation to protect against uncontrolled infection. They interfere with viral replication by slowing cell metabolism, interfering with the membrane formation required for virus replication, and inducing secretion of cytokines that promote adaptive immunity[^10.1016/j.antiviral.2020.104791]. There are three IFN families[^10.1038/nri3787]. Type I IFN includes 13 related __IFN-α__ subtypes and a single __IFN-β__. Type II IFN consists of a single gene product IFN-γ. Type III IFN consists of __IFN-λ1__, IFN-λ2, and IFN-λ3. Several IFN-α products have been approved for the treatment of hepatitis B, hepatitis C, human papillomavirus, and several malignancies. IFN-β, IFN-γ, and IFN-λ have been approved for the treatment of multiple sclerosis, congenital immunodeficiency chronic granulomatous disease, and hepatitis delta infection, respectively, Commercial IFN-α products vary in the extent to which they include different IFN-α subtypes. The biological and clinical significance of the differences between the different IFN-α products are not known[^10.1016/j.smim.2019.101300]. Pegylated interferons have a longer half-life because the attached polyethylene glycol causes interferon to be cleared more slowly.
 
 The importance of IFN is underscored by the fact that many viruses, particularly coronaviruses encode multiple proteins that antagonize cellular IFN signaling pathways[^10.1016/j.smim.2019.101300][^10.1038/nrmicro.2016.81]. SARS-CoV-2 encodes approximately 10 proteins that allow the virus to escape or counteract the induction or antiviral action of IFN [^10.1371/journal.ppat.1008737][^10.1016/j.coviro.2012.04.004] and SARS-CoV-2 infection is associated with a reduced IFN response[^10.1128/JVI.00985-20][^10.1126/science.abc6027][^10.1016/j.cell.2020.04.026][^10.1371/journal.ppat.1008737].
 
@@ -501,11 +501,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE5MDAzNzUsLTEyOTE1MTcwNzgsMT
-A2NTU3OTU4OSwtODUxNzA0NTY5LC00MTQ3NzYxMTgsMTQwNzAw
-Njg3LDY4NDc4MTQ4Nyw3OTEwMDc0NjMsMTM3MTcxNDI5NiwtMT
-Q1MjM1ODE0NCwyMDk4Nzc1NzA1LDE0MTk5NjE3ODksLTE3NTg2
-NzUxNTksLTE2NDcxOTg1MDQsLTE5MjYxMjAyNzMsLTExOTIwMT
-Q4NjcsLTE2NDE3OTk3NTAsMTM3MzE3OTkwMSw4NTMxMTAxMTgs
-MTAwOTAzMTg2Nl19
+eyJoaXN0b3J5IjpbMTc0NTcyMjAxLC0xMjkxNTE3MDc4LDEwNj
+U1Nzk1ODksLTg1MTcwNDU2OSwtNDE0Nzc2MTE4LDE0MDcwMDY4
+Nyw2ODQ3ODE0ODcsNzkxMDA3NDYzLDEzNzE3MTQyOTYsLTE0NT
+IzNTgxNDQsMjA5ODc3NTcwNSwxNDE5OTYxNzg5LC0xNzU4Njc1
+MTU5LC0xNjQ3MTk4NTA0LC0xOTI2MTIwMjczLC0xMTkyMDE0OD
+Y3LC0xNjQxNzk5NzUwLDEzNzMxNzk5MDEsODUzMTEwMTE4LDEw
+MDkwMzE4NjZdfQ==
 -->
