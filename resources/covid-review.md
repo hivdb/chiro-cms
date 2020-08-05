@@ -167,7 +167,7 @@ As of August 2020, CoV-RDB contains data from nearly 30 cell culture studies, 10
 
 Six clinical studies were performed with at least 75 SARS-CoV-2 patients. Four of these studies, enrolling a total of approximately 400 patients, were randomized controlled open-label studies. Two evaluated IFN-β[^10.1016/S0140-6736(20)31042-4][^10.1128/AAC.01061-20] and two evaluated novaferon (an inhaled IFN-α formulation)[^10.1101/2020.04.24.20077735][^10.1101/2020.04.24.20077735]. The largest of these randomized 127 patients with mild-to-moderate disease 2:1 to receive IFN-β-1b subcutaneously + ribavirin + lopinavir/r vs. lopinavir/r alone[^10.1016/S0140-6736(20)31042-4]. The patients receiving triple therapy had a significantly shorter time to a negative nasopharyngeal PCR (7 vs. 12 days) and a more rapid clinical improvement by several metrics. As ribavirin has not been efficacious in treating coronavirus infections, IFN-β may have been the compound most likely responsible for the improved outcome. The other three randomized trials suggested possible virological or clinical benefit from IFN. Two of the three observational studies also suggested either a virological or clinical benefit from the use of inhaled IFN-α-2b[^10.3389/fimmu.2020.01061][^10.1016/j.chom.2020.07.005][^ 10.1128/AAC.01061-20].
 
-Theoretical and empirical data suggest that IFNs should be administered as early as possible in the course of infection[^10.1172/JCI126363] when innate immunity is likely to be most needed; this would also avoid exacerbating the unregulated exuberant deleterious immune response that often occurs in the later stages of severe coronavirus infections. However, recent reports that type I and type II IFNs may upregulate ACE2 production[^10.1016/j.cell.2020.04.035] has provided a note of caution in that the potential immune benefits of IFNs may be counteracted by an increased number of virus receptors. Although far fewer data are available for IFN-λs, they have garnered much interest because they act at epithelial barriers and thus are theoretically optimal for treating viral respiratory tract infections and because they are reported to suppress viral spread without causing inflammation[^10.15252/emmm.201606413][^10.1093/cid/ciaa453][^10.1016/j.celrep.2020.107863]. 
+Theoretical and empirical data suggest that IFNs should be administered as early as possible in the course of infection[^10.1172/JCI126363] when innate immunity is likely to be most needed; this would also avoid exacerbating the unregulated exuberant deleterious immune response that often occurs in the later stages of severe coronavirus infections. However, a recent report that type I and type II IFNs may upregulate ACE2 production has provided a note of caution in that the potential immune benefits of IFNs may be counteracted by an increased number of virus receptors[^10.1016/j.cell.2020.04.035] . Although far fewer data are available for IFN-λs, they have garnered much interest because they act at epithelial barriers and thus are theoretically optimal for treating viral respiratory tract infections and because they are reported to suppress viral spread without causing inflammation[^10.15252/emmm.201606413][^10.1093/cid/ciaa453][^10.1016/j.celrep.2020.107863]. 
 
 ___Conclusion: Considering the multiple proteins produced by coronaviruses to down-regulate host innate immunity and the generally favorable response to IFN in vitro and in animal models, clinical trials of the early use of IFNs following SARS-CoV-2 infection remain important.___
 
@@ -505,8 +505,8 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ3MTk3OTIsMTQ5NzA1MDIwLDY1Mz
-IxMTQ4NywtNjE4NjA3MDA0LDE2NTI1ODQzMDEsLTgwMDc4NDk2
-MSwtMTk2MDczMDAwOSwxMDE4MjQ0NTcwLC0xMjgzMzQ4MTU3LD
-Y4NTc1MTMwMV19
+eyJoaXN0b3J5IjpbLTU0NzU1NzM0NCwtMTgyNDcxOTc5MiwxND
+k3MDUwMjAsNjUzMjExNDg3LC02MTg2MDcwMDQsMTY1MjU4NDMw
+MSwtODAwNzg0OTYxLC0xOTYwNzMwMDA5LDEwMTgyNDQ1NzAsLT
+EyODMzNDgxNTcsNjg1NzUxMzAxXX0=
 -->
