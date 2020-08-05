@@ -16,7 +16,7 @@ Remdesivir resistance in a related coronavirus has been selected in the murine h
 
 Remdesivir is administered intravenously with a loading dose of 200 mg followed by 100 mg daily for 5 to 10 days in adult patients[^10.1002/phar.2398][^10.1016/j.onehlt.2020.100128]. Following intravenous administration, the achievable maximum remdesivir plasma concentration (Cmax) is predicted to be at least twice as high as its most commonly reported EC<sub>50</sub>s[^10.1002/cpt.1909]. There have been 3 published randomized clinical trials of remdesivir. The NIH Adaptive Covid-19 Treatment Trial[^10.1056/NEJMoa2007764] and a Chinese trial[^10.1016/S0140-6736(20)31022-9] were double-blinded placebo-controlled trials. The Gilead SIMPLE trial randomized patients to receive 5 vs. 10 days of treatment[^10.1056/NEJMoa2015301]. 
 
-The NIH Adaptive Trial was the pivotal trial leading to the remdesivir FDA emergency use authorization. It was a multicenter trial that randomized 1063 persons with severe disease to remdesivir x 10 days vs. placebo. The primary endpoint was the time to clinical improvement defined as being discharged from the hospital or no longer requiring supplemental oxygen. An interim DSMB review was performed after a total of 482 recoveries and 81 deaths. The review showed that there was a statistically significant reduction in the time to recovery from 15 days to 11 days and a non-statistically significant reduction in mortality by day 14 of 11.9% vs. 7.1%. A subgroup analysis showed that response to therapy was greater in those with less severe disease (not requiring supplemental oxygen or requiring shown in the panels on the left than among those with more severe disease shown in the panels on the right.
+The NIH Adaptive Trial was the pivotal trial leading to the remdesivir FDA emergency use authorization. It was a multicenter trial that randomized 1063 persons with severe disease to remdesivir x 10 days vs. placebo. The primary endpoint was the time to clinical improvement defined as being discharged from the hospital or no longer requiring supplemental oxygen. An interim DSMB review was performed after a total of 482 recoveries and 81 deaths. The review showed that there was a statistically significant reduction in the time to recovery from 15 days to 11 days and a non-statistically significant reduction in mortality by day 14 of 11.9% vs. 7.1%. A subgroup analysis showed that response to therapy was greater in those with less severe disease (not requiring supplemental oxygen or receiving oxygen via nasal cannula) than in those with severe disease (requiring high flow oxygen or mechanical ventilation)[^10.1056/NEJMoa2007764].
 
 Preliminary results from the NIH Adaptive COVID-19 Treatment Trial (ACTT) were announced on April 29th, 2020 after after an interim analysis by the data safety monitoring board and published on May 22, 2020[^10.1056/NEJMoa2007764]. Of 1063 randomized hospitalized patients, 541 were assigned to remdesivir (200 mg IV followed by 100 mg IV daily x 9 days) and 522 to placebo. Approximately, 180 patients in each group completed 10 days of treatment. About 100 in each group were still on treatment or had missing treatment data at the time of the analysis. And 225-250 in each group received fewer than 10 days of therapy primarily because they recovered, died, or experienced serious adverse effects.
 
@@ -508,11 +508,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQxMzI1NDIsNjg0NzgxNDg3LDc5MT
-AwNzQ2MywxMzcxNzE0Mjk2LC0xNDUyMzU4MTQ0LDIwOTg3NzU3
-MDUsMTQxOTk2MTc4OSwtMTc1ODY3NTE1OSwtMTY0NzE5ODUwNC
-wtMTkyNjEyMDI3MywtMTE5MjAxNDg2NywtMTY0MTc5OTc1MCwx
-MzczMTc5OTAxLDg1MzExMDExOCwxMDA5MDMxODY2LC0xNjI1OD
-Y0OCwtMTgyNDcxOTc5MiwxNDk3MDUwMjAsNjUzMjExNDg3LC02
-MTg2MDcwMDRdfQ==
+eyJoaXN0b3J5IjpbMTg4OTc3NTQ2Myw2ODQ3ODE0ODcsNzkxMD
+A3NDYzLDEzNzE3MTQyOTYsLTE0NTIzNTgxNDQsMjA5ODc3NTcw
+NSwxNDE5OTYxNzg5LC0xNzU4Njc1MTU5LC0xNjQ3MTk4NTA0LC
+0xOTI2MTIwMjczLC0xMTkyMDE0ODY3LC0xNjQxNzk5NzUwLDEz
+NzMxNzk5MDEsODUzMTEwMTE4LDEwMDkwMzE4NjYsLTE2MjU4Nj
+Q4LC0xODI0NzE5NzkyLDE0OTcwNTAyMCw2NTMyMTE0ODcsLTYx
+ODYwNzAwNF19
 -->
