@@ -19,11 +19,10 @@ Remdesivir is administered intravenously with a loading dose of 200 mg followed 
 The NIH Adaptive Trial was the pivotal trial leading to the remdesivir FDA emergency use authorization. It was a multicenter trial that randomized 1063 persons with severe disease to remdesivir x 10 days vs. placebo. The primary endpoint was the time to clinical improvement defined as being discharged from the hospital or no longer requiring supplemental oxygen. An interim DSMB review was performed after a total of 482 recoveries and 81 deaths. The review showed a statistically significant reduction in the time to recovery from 15 days to 11 days (p<0.001) and a non-statistically significant reduction in mortality by day 14 of 11.9% vs. 7.1% (p=0.06). A subgroup analysis showed that response to therapy was greater in those with less severe disease (not requiring supplemental oxygen or receiving oxygen via nasal cannula) than in those with severe disease (requiring high flow oxygen or mechanical ventilation)[^10.1056/NEJMoa2007764]. Serious adverse events occurred at similar rates in both groups (21.1% for remdesivir vs 27.0% for placebo). 
 
 
-At baseline, ~12% did not require supplemental O2, ~40% required supplemental O2, ~18% required noninvasive ventilation or high-flow O2, and ~25% were receiving mechanical ventilation or ECMO. The primary outcome measure was time to recovery defined as the first day on which patients were either discharged or were hospitalized solely for infection control purposed.
-
-Patients receiving remdesivir had a median recovery time of 11 days (95% CI, 9 to 12) vs. 15 days (95% CI, 13 to 19) for the placebo group; P<0.001). Kaplan-Meier estimates of mortality by 14 days were 7.1% with remdesivir vs. 11.9% with placebo (HR: 0.70; 95% CI, 0.47 to 1.04). Serious adverse events occurred at similar rates in both groups (21.1% vs 27.0%). In subgroup analysis, the remdesivir recovery rate ratio was highest and statistically significant in the group receiving O2 (1.47), it was numerically higher but not statistically significant in the group not receiving O2 (1.38) or receiving noninvasive ventilation or high-flow O2 (1.2). It was 0.95 in the group receiving mechanical ventilation or ECMO.
 
 Based on the ACTT results, the FDA issued an Emergency Use Authorization for the use of remdesivir in hospitalized patients with COVID-19 who have severe disease defined as having an SpO2 ≤ 94% on room air or requiring supplemental oxygen, mechanical ventilation, or extracorporeal membrane oxygenation (ECMO). Further analysis of ACTT data containing results from a greater proportion of the participants and containing virological response data are likely to be published in the future.
+
+
 
 Another recently published study reported that a five day course of therapy was as efficacious as a ten day course of therapy in hospitalized patients with an SpO2 ≤ 94% who did not require mechanical ventilation [^10.1056/NEJMoa2015301]. However, the patients in the ten day treatment arm had greater baseline disease severity than those in the five day treatment arm.
 
@@ -507,7 +506,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTI3Njg5MSw2ODQ3ODE0ODcsNzkxMD
+eyJoaXN0b3J5IjpbMTc2NDg4MzUyMSw2ODQ3ODE0ODcsNzkxMD
 A3NDYzLDEzNzE3MTQyOTYsLTE0NTIzNTgxNDQsMjA5ODc3NTcw
 NSwxNDE5OTYxNzg5LC0xNzU4Njc1MTU5LC0xNjQ3MTk4NTA0LC
 0xOTI2MTIwMjczLC0xMTkyMDE0ODY3LC0xNjQxNzk5NzUwLDEz
