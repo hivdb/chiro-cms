@@ -190,7 +190,7 @@ Several synthetic furin inhibitors have also shown to inhibit coronaviruses _in 
 ___Conclusion: As of July, there are eight ongoing and eight planned clinical trials of camostat, nafamostat, or another host protease inhibitor. This class of inhibitors currently appear to be the most promising among existing repurposed drugs. ___
 
 ### Additional Host-Acting Compounds
-
+__Apilimod__
 
 __Chloroquine (CQ) and its analogs__ have been reported to have multiple intracellular actions that interfere with virus replication and/or the immune response to viral infections. CQ analogs are weak bases, that in their non-protonated form, penetrate and concentrate within acidic intracellular organelles such as endosomes and lysosomes. In these organelles, CQ analogs may interfere with the trafficking of viruses that require a pH-dependent step for entry[^10.1016/s1473-3099(03)00806-5][^10.1371/journal.ppat.1004502]. CQ analogs have also been reported to impair ACE2 glycosylation, which could theoretically diminish receptor binding by SARS-CoV and SARS-CoV-2[^10.1186/1743-422X-2-69]. CQ analogs also anti-inflammatory, and have been used for autoimmune conditions. CQ and hydroxychloroquine (HCQ) have modest inhibitory activity _in vitro_ against MERS-CoV[^10.1128/AAC.03036-14][^10.3390/v10060283][^10.1128/AAC.03011-14], SARS-CoV[^10.1186/1743-422X-2-69][^10.1177/095632020601700505][^10.1016/j.bbrc.2004.08.085][^10.1128/AAC.03011-14], and SARS-CoV-2[^10.1038/s41422-020-0282-0][^10.1038/s41421-020-0156-0][^10.1093/cid/ciaa237][^10.1128/AAC.00819-20][^10.1101/2020.04.04.020925][^10.1101/2020.03.29.014407][^10.1101/2020.04.03.023846] with most EC<sub>50</sub>s ranging between 1 μM and 10 μM. 
 
@@ -502,7 +502,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc5NDUyNDUsLTE5MjYxMjAyNzMsLT
+eyJoaXN0b3J5IjpbLTE2NDcxOTg1MDQsLTE5MjYxMjAyNzMsLT
 ExOTIwMTQ4NjcsLTE2NDE3OTk3NTAsMTM3MzE3OTkwMSw4NTMx
 MTAxMTgsMTAwOTAzMTg2NiwtMTYyNTg2NDgsLTE4MjQ3MTk3OT
 IsMTQ5NzA1MDIwLDY1MzIxMTQ4NywtNjE4NjA3MDA0LDE2NTI1
