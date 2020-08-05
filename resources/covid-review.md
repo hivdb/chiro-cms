@@ -190,7 +190,7 @@ Several synthetic furin inhibitors have also shown to inhibit coronaviruses _in 
 ___Conclusion: As of July, there are eight ongoing and eight planned clinical trials of camostat, nafamostat, or another host protease inhibitor. This class of inhibitors currently appear to be the most promising among existing repurposed drugs. ___
 
 ### Additional Host-Acting Compounds
-__Apilimod__ inhibits the early stages of replication of several viruses including SARS, MERS, and SARS-CoV-2 by inhibiting a kinase enzyme, PIKfyve. Although it does not alter the pH of endosomes or inhibit cathepsin B or L, it blocks entry of multiple viruses in pseudovirus and cell culture assays[^10.1101/2020.04.21.053058][^10.1038/s41467-020-15562-9]
+__Apilimod__ inhibits the early stages of replication of several viruses including SARS, MERS, and SARS-CoV-2 by inhibiting a kinase enzyme, PIKfyve. Although it does not alter the pH of endosomes or inhibit cathepsin B or L, it blocks entry of multiple viruses in pseudovirus and cell culture assays[^10.1101/2020.04.21.053058][^10.1038/s41467-020-15562-9]. In two large scale screening assays, it was found to be one of the most inhibitory compounds with EC50s in the range of 10 to 90 
 
 __Chloroquine (CQ) and its analogs__ have been reported to have multiple intracellular actions that interfere with virus replication and/or the immune response to viral infections. CQ analogs are weak bases, that in their non-protonated form, penetrate and concentrate within acidic intracellular organelles such as endosomes and lysosomes. In these organelles, CQ analogs may interfere with the trafficking of viruses that require a pH-dependent step for entry[^10.1016/s1473-3099(03)00806-5][^10.1371/journal.ppat.1004502]. CQ analogs have also been reported to impair ACE2 glycosylation, which could theoretically diminish receptor binding by SARS-CoV and SARS-CoV-2[^10.1186/1743-422X-2-69]. CQ analogs also anti-inflammatory, and have been used for autoimmune conditions. CQ and hydroxychloroquine (HCQ) have modest inhibitory activity _in vitro_ against MERS-CoV[^10.1128/AAC.03036-14][^10.3390/v10060283][^10.1128/AAC.03011-14], SARS-CoV[^10.1186/1743-422X-2-69][^10.1177/095632020601700505][^10.1016/j.bbrc.2004.08.085][^10.1128/AAC.03011-14], and SARS-CoV-2[^10.1038/s41422-020-0282-0][^10.1038/s41421-020-0156-0][^10.1093/cid/ciaa237][^10.1128/AAC.00819-20][^10.1101/2020.04.04.020925][^10.1101/2020.03.29.014407][^10.1101/2020.04.03.023846] with most EC<sub>50</sub>s ranging between 1 μM and 10 μM. 
 
@@ -502,11 +502,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMzg0MjksLTE3NTg2NzUxNTksLTE2ND
-cxOTg1MDQsLTE5MjYxMjAyNzMsLTExOTIwMTQ4NjcsLTE2NDE3
-OTk3NTAsMTM3MzE3OTkwMSw4NTMxMTAxMTgsMTAwOTAzMTg2Ni
-wtMTYyNTg2NDgsLTE4MjQ3MTk3OTIsMTQ5NzA1MDIwLDY1MzIx
-MTQ4NywtNjE4NjA3MDA0LDE2NTI1ODQzMDEsLTgwMDc4NDk2MS
-wtMTk2MDczMDAwOSwxMDE4MjQ0NTcwLC0xMjgzMzQ4MTU3LDY4
-NTc1MTMwMV19
+eyJoaXN0b3J5IjpbLTMyNTMxMzg0MiwtMTc1ODY3NTE1OSwtMT
+Y0NzE5ODUwNCwtMTkyNjEyMDI3MywtMTE5MjAxNDg2NywtMTY0
+MTc5OTc1MCwxMzczMTc5OTAxLDg1MzExMDExOCwxMDA5MDMxOD
+Y2LC0xNjI1ODY0OCwtMTgyNDcxOTc5MiwxNDk3MDUwMjAsNjUz
+MjExNDg3LC02MTg2MDcwMDQsMTY1MjU4NDMwMSwtODAwNzg0OT
+YxLC0xOTYwNzMwMDA5LDEwMTgyNDQ1NzAsLTEyODMzNDgxNTcs
+Njg1NzUxMzAxXX0=
 -->
