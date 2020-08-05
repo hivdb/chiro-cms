@@ -7,6 +7,7 @@
 ## Clinical trials
 
 - [ClinicalTrials, Antiviral trials](https://docs.google.com/spreadsheets/d/1MRPF8xJ_UjSqbICfLRDY6UdbscmnS4g6lUcPpoaZe6Y/edit?usp=sharing)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbLTQyMjAzNDU1Ml19
 -->

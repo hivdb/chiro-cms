@@ -4,4 +4,5 @@ introHeader: |-
   COVDB spreadsheets
 content:
   _resource: compound-spreadsheets.md
+escapeHtml: false
 ...
