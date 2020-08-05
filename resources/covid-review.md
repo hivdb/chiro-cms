@@ -169,7 +169,7 @@ Six clinical studies were performed with at least 75 SARS-CoV-2 patients. Four o
 
 Theoretical and empirical data suggest that IFNs should be administered as early as possible in the course of infection[^10.1172/JCI126363] when innate immunity is likely to be most needed; this would also avoid exacerbating the unregulated exuberant deleterious immune response that often occurs in the later stages of severe coronavirus infections. However, a recent report that type I and type II IFNs may upregulate ACE2 production has provided a note of caution in that the potential immune benefits of IFNs may be counteracted by an increased number of virus receptors[^10.1016/j.cell.2020.04.035]. Although far fewer data are available for IFN-λs, they have garnered much interest because they act at epithelial barriers and thus are theoretically optimal for treating viral respiratory tract infections and because they are reported to suppress viral spread without causing inflammation[^10.15252/emmm.201606413][^10.1093/cid/ciaa453][^10.1016/j.celrep.2020.107863]. 
 
-___Conclusion: Considering the multiple proteins produced by coronaviruses to down-regulate host innate immunity and the generally favorable response to IFN in vitro and in animal models, clinical trials of the early use of IFNs following SARS-CoV-2 infection remain important.___
+___Conclusion: Considering the multiple proteins produced by coronaviruses to down-regulate host innate immunity and the generally favorable response to IFN in vitro and in animal models, sufficiently powered randomized clinical trials of the early use of IFNs following SARS-CoV-2 infection should be one of the highest treatment priorities.___
 
 ## Additional Host-Targeting Compounds
 With the exception of interferons, all approved antivirals target specific steps in a virus’s replication cycle. However, the concept of developing drugs that target host pathways has gained increasing interest during the past several years and during the SARS-CoV-2 pandemic. Host-acting drugs have a number of theoretical advantages for treating acute pandemic infections. First, host acting antiviral drugs may have already been approved or undergone human testing for other conditions, making it possible to repurpose them to treat SARS-CoV-2. Second, host-acting drugs might be able to inhibit multiple viruses, since many viruses depend on similar host factors and pathways. Third, although drugs targeting host factors may have a higher risk of cellular toxicity compared to drugs that specifically target a virus protein, such toxicity may be acceptable for the relatively few days required to treat an acute viral infection.
@@ -505,8 +505,8 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU4NjQ4LC0xODI0NzE5NzkyLDE0OT
-cwNTAyMCw2NTMyMTE0ODcsLTYxODYwNzAwNCwxNjUyNTg0MzAx
-LC04MDA3ODQ5NjEsLTE5NjA3MzAwMDksMTAxODI0NDU3MCwtMT
-I4MzM0ODE1Nyw2ODU3NTEzMDFdfQ==
+eyJoaXN0b3J5IjpbLTExMDUyNzUwNjgsLTE2MjU4NjQ4LC0xOD
+I0NzE5NzkyLDE0OTcwNTAyMCw2NTMyMTE0ODcsLTYxODYwNzAw
+NCwxNjUyNTg0MzAxLC04MDA3ODQ5NjEsLTE5NjA3MzAwMDksMT
+AxODI0NDU3MCwtMTI4MzM0ODE1Nyw2ODU3NTEzMDFdfQ==
 -->
