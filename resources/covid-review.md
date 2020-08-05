@@ -16,6 +16,8 @@ Remdesivir resistance in a related coronavirus has been selected in the murine h
 
 Remdesivir is administered intravenously with a loading dose of 200 mg followed by 100 mg daily for 5 to 10 days in adult patients[^10.1002/phar.2398][^10.1016/j.onehlt.2020.100128]. Following intravenous administration, the achievable maximum remdesivir plasma concentration (Cmax) is predicted to be at least twice as high as its most commonly reported EC<sub>50</sub>s[^10.1002/cpt.1909].
 
+<![enThere have been 3 published randomized clinical trials of remdesivir. The NIH Adaptive Covid-19 Treatment Trial and the Chinese trial were double-blinded placebo-controlled trials. The Gilead SIMPLE trial randomized patients to receive 5 vs. 10 days of treatment. Of note, the Chinese study did not reach the planned enrollment of 450 patients because the outbreak was controlled in China.
+
 In 53 patients with severe SARS-CoV-2 pneumonia receiving remdesivir as part of two expanded access trials, 34 were receiving mechanical ventilation (including 3 on extracorporeal membrane oxygenation \[ECMO\]). Overall, 6 of the 34 ventilated patients and 1 of the 19 non-ventilated patients died[^10.1056/NEJMoa2007016]. This death rate appeared lower than that of historical controls with similar levels of disease severity.
 
 A phase 3 placebo-controlled trial begun in China in patients with moderate-to-severe disease was discontinued prematurely after recruiting 237 rather than the planned 453 patients. Patients were randomized 2:1 to receive remdesivir or placebo. Although not statistically significant, patients receiving remdesivir had a faster time to clinical improvement than those receiving placebo (median 18 days \[IQR 12–28\] vs 23 days \[15–28\]; HR 1.52 \[0.95–2.43\]. The 28-day mortality was similar in both groups (14% for remdesivir and 13% for placebo). There was no difference in the rates of decline of nasopharyngeal viral RNA levels between the two groups. Adverse events leading to treatment discontinuation were 12% in the remdesivir group and 5% in the placebo group[^10.1016/S0140-6736(20)31022-9].
@@ -503,11 +505,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0NzgxNDg3LDc5MTAwNzQ2MywxMzcxNz
-E0Mjk2LC0xNDUyMzU4MTQ0LDIwOTg3NzU3MDUsMTQxOTk2MTc4
-OSwtMTc1ODY3NTE1OSwtMTY0NzE5ODUwNCwtMTkyNjEyMDI3My
-wtMTE5MjAxNDg2NywtMTY0MTc5OTc1MCwxMzczMTc5OTAxLDg1
-MzExMDExOCwxMDA5MDMxODY2LC0xNjI1ODY0OCwtMTgyNDcxOT
-c5MiwxNDk3MDUwMjAsNjUzMjExNDg3LC02MTg2MDcwMDQsMTY1
-MjU4NDMwMV19
+eyJoaXN0b3J5IjpbODIwMTI5MjMsNjg0NzgxNDg3LDc5MTAwNz
+Q2MywxMzcxNzE0Mjk2LC0xNDUyMzU4MTQ0LDIwOTg3NzU3MDUs
+MTQxOTk2MTc4OSwtMTc1ODY3NTE1OSwtMTY0NzE5ODUwNCwtMT
+kyNjEyMDI3MywtMTE5MjAxNDg2NywtMTY0MTc5OTc1MCwxMzcz
+MTc5OTAxLDg1MzExMDExOCwxMDA5MDMxODY2LC0xNjI1ODY0OC
+wtMTgyNDcxOTc5MiwxNDk3MDUwMjAsNjUzMjExNDg3LC02MTg2
+MDcwMDRdfQ==
 -->
