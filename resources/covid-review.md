@@ -28,9 +28,6 @@ The FDA EUA recommends using remdesivir in patients with severe disease who have
 
 There are several ongoing studies of remdesivir addressing its use in three main scenarios: in pediatric patients, in combination with immunomodulators, and through alternate modes of administration including by inhalation or subcutaneously.
 
-A phase 3 placebo-controlled trial begun in China in patients with moderate-to-severe disease was discontinued prematurely after recruiting 237 rather than the planned 453 patients. Patients were randomized 2:1 to receive remdesivir or placebo. Although not statistically significant, patients receiving remdesivir had a faster time to clinical improvement than those receiving placebo (median 18 days \[IQR 12–28\] vs 23 days \[15–28\]; HR 1.52 \[0.95–2.43\]. The 28-day mortality was similar in both groups (14% for remdesivir and 13% for placebo). There was no difference in the rates of decline of nasopharyngeal viral RNA levels between the two groups. Adverse events leading to treatment discontinuation were 12% in the remdesivir group and 5% in the placebo group[^10.1016/S0140-6736(20)31022-9].
-
-
 ___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial. The optimal use of this drug will become clearer with further study. Remdesivir will likely be the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
 
 ### EIDD-2801
@@ -38,7 +35,7 @@ ___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clin
 
 EIDD-2801 has broad-spectrum antiviral activity against multiple coronaviruses including MERS-CoV, SARS-CoV, and SARS-CoV-2 with most EC<sub>50</sub>s below 1 μM[^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883]. It also has activity in primary human airway epithelial cells and reduced virus levels, disease, and lung damage in mouse models of SARS-CoV and MERS-CoV[^10.1126/scitranslmed.abb5883]. Deep sequencing studies have confirmed that viral mutagenesis is the main mechanism by which EIDD-2801 inhibits coronaviruses [^10.1177/095632020401500102][^10.1177/095632020601700505][^10.1128/JVI.01348-19][^10.1126/scitranslmed.abb5883].
 
-As of June 25, a phase I study in uninfected individuals and two phase II studies patients with mild-to-moderate disease have begun ([Clinical Trials of EIDD-2801](linic-triamplymerase)).
+As of August, a phase I study in uninfected individuals and two phase II studies patients with mild-to-moderate disease have begun ([Clinical Trials of EIDD-2801](linic-triamplymerase)).
 
 ___Conclusion: The preclinical in vitro and animal model data associated with EIDD-2801 are comparable to those of remdesivir. However, EIDD-2801’s safety  and clinical efficacy have not yet been established. Should EIDD-2018 trials be successful, this drug may be a useful oral option in high-risk outpatients. ___
 
@@ -504,7 +501,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjA2NTQ4MiwtODUxNzA0NTY5LC00MT
+eyJoaXN0b3J5IjpbMTY5NzU3NTg0NSwtODUxNzA0NTY5LC00MT
 Q3NzYxMTgsMTQwNzAwNjg3LDY4NDc4MTQ4Nyw3OTEwMDc0NjMs
 MTM3MTcxNDI5NiwtMTQ1MjM1ODE0NCwyMDk4Nzc1NzA1LDE0MT
 k5NjE3ODksLTE3NTg2NzUxNTksLTE2NDcxOTg1MDQsLTE5MjYx
