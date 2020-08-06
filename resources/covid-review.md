@@ -124,7 +124,7 @@ ___Conclusion: Further animal model studies or a phase I/II study are needed to 
 ### Soluble ACE2 and Other Molecular Decoys
 Soluble __recombinant human ACE2 (rhACE2)__ has two potential beneficial effects. First, prior to the SARS-CoV-2 pandemic, rhACE2 was shown to protect lungs from injury during acute respiratory distress syndrome (ARDS)[^10.1038/nature03712][^10.1038/nm1267][^10.1186/s13054-017-1823-x][^10.1016/j.cell.2020.04.004]. Second, rhACE2 inhibits the binding of SARS-CoV and SARS-CoV-2 to ACE2-expressing cells[^10.1016/j.bbrc.2004.05.114][^10.1016/j.cell.2020.03.045] and has displayed dose-dependent activity _in vitro_ against SARS-CoV-2 in cultured cells and engineered human blood vessel and kidney organoids[^10.1016/j.cell.2020.04.004]. APN1 (Apeiron Biologics) is a recombinant form of human ACE2, that demonstrated safety in 89 non-SARS-CoV-2 patients and volunteers. It is now being evaluated in a 200-person placebo-controlled study of hospitalized persons with SARS-CoV-2 (NCT04335136). A similar approach involving the use of a fusion protein – in which an inactive ACE2 mutant is linked to a human Fc IgG – has also been shown to be highly active _in vitro_[^10.1038/s41467-020-16048-4].
 
-The complete ACE2 molecule may not be necessary to inhibit viral infection if a synthetic peptide can be constructed with a critical minimal subset of ACE2 amino acids capable of competing with cellular ACE2 for the SARS-CoV-2 receptor binding domain (RBD)[^10.1101/2020.08.03.231340][^10.1101/2020.07.31.231746][^10.1126/science.1116480]. In fact, avoiding the use of complete ACE2 proteins may avoid the theoretical risk of stimulating an inappropriate autoimmune response to ACE2[^10.1101/2020.08.03.231340]. One study suggested that multiple residues from different parts of the ACE2 molecule would be required including amino acids between positions 24–90 and 329–354[^10.1126/science.1116480] while another Another study demonstrated that a protein CTC-445.2d inhibited SARS-CoV-2 in cell culture and in pseudovirus assays at low nanomolar concentrations and achieved functional lung and plasma concentrations in mice following the inhalation of intranasal droplets[^10.1101/2020.08.03.231340].  
+The complete ACE2 molecule may not be necessary to inhibit viral infection if a synthetic peptide can be constructed with a critical minimal subset of ACE2 amino acids capable of competing with cellular ACE2 for the SARS-CoV-2 receptor binding domain (RBD)[^10.1101/2020.08.03.231340][^10.1101/2020.07.31.231746][^10.1126/science.1116480]. In fact, avoiding the use of complete ACE2 proteins may avoid the theoretical risk of stimulating an inappropriate autoimmune response to ACE2[^10.1101/2020.08.03.231340]. One study suggested that multiple residues from different parts of the ACE2 molecule would be required including amino acids between positions 24–90 and 329–354 inhibited SARS-CoV[^10.1126/science.1116480] while another similarly designed protein CTC-445.2d inhibited SARS-CoV-2 in cell culture and in pseudovirus assays at low nanomolar concentrations and achieved functional lung and plasma concentrations in mice following the inhalation of intranasal droplets[^10.1101/2020.08.03.231340].  
 
 Another peptide comprising two discontinuous ACE2 segments containing residues 22–44 and 351–357 artificially linked together by glycine, exhibited more potent _in vitro_ activity with an EC<sub>50</sub> of about 0.1 μM[^10.1016/j.virol.2006.01.029]. Several short ACE2-derived peptides have also demonstrated some _in vitro_ activity including one comprising peptides between positions 22–57 demonstrated some _in vitro_ activity against SARS-CoV[^10.1016/j.virol.2006.01.029]. suggested that 23 amino acid N terminal fragments would bind the S1 receptor binding domain[^10.1101/2020.03.19.999318]. 
 
@@ -505,11 +505,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTAyNzg5NCwxMTQyOTA2MTUwLDEyOD
-U2MDUyNTMsLTE3NjY5OTU0NjEsLTEyOTE1MTcwNzgsMTA2NTU3
-OTU4OSwtODUxNzA0NTY5LC00MTQ3NzYxMTgsMTQwNzAwNjg3LD
-Y4NDc4MTQ4Nyw3OTEwMDc0NjMsMTM3MTcxNDI5NiwtMTQ1MjM1
-ODE0NCwyMDk4Nzc1NzA1LDE0MTk5NjE3ODksLTE3NTg2NzUxNT
-ksLTE2NDcxOTg1MDQsLTE5MjYxMjAyNzMsLTExOTIwMTQ4Njcs
-LTE2NDE3OTk3NTBdfQ==
+eyJoaXN0b3J5IjpbLTE2OTA3ODczNDEsMTE0MjkwNjE1MCwxMj
+g1NjA1MjUzLC0xNzY2OTk1NDYxLC0xMjkxNTE3MDc4LDEwNjU1
+Nzk1ODksLTg1MTcwNDU2OSwtNDE0Nzc2MTE4LDE0MDcwMDY4Ny
+w2ODQ3ODE0ODcsNzkxMDA3NDYzLDEzNzE3MTQyOTYsLTE0NTIz
+NTgxNDQsMjA5ODc3NTcwNSwxNDE5OTYxNzg5LC0xNzU4Njc1MT
+U5LC0xNjQ3MTk4NTA0LC0xOTI2MTIwMjczLC0xMTkyMDE0ODY3
+LC0xNjQxNzk5NzUwXX0=
 -->
