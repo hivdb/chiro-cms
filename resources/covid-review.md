@@ -177,9 +177,9 @@ With the exception of interferons, all approved antivirals target specific steps
 During the past 17 years, many compounds have been identified that appear to inhibit coronaviruses _in vitro_ by inhibiting a cellular protein, influencing a signaling pathway, or modifying a cellular organelle. For some of these compounds, it has been possible to determine their mechanism of action. However, it is difficult to pinpoint the mechanism of action for many other compounds. This section reviews compounds that appear to act primarily by influencing the host rather than the virus and that are described in multiple studies, demonstrate _in vitro_ potency, and have favorable safety profiles. These compounds have been categorized into those that (i) inhibit host proteases required for S protein cleavage; (ii) appear to inhibit virus endosomal trafficking;  (iii) have been reported to stimulate host immunity; or (iv) act by additional or uncertain mechanisms.
 
 ### Host Protease Inhibitors
-The proteolytic activation of coronavirus spike proteins by host cell proteases is critical for the virus to transition from receptor attachment to cell fusion. Many host proteases have been shown to proteolytically process the spike (S) protein including cell surface proteases such as transmembrane protease/serine proteases (TMPRSSs), furin, trypsin[^10.1016/j.virusres.2014.11.021][^10.1016/j.antiviral.2020.104792]. Coronaviruses usually require that S is cleaved at two sites – the S1/S2 boundary and at a second site within S2 referred to as S2’. The specific enzymes involved depend in part on the virus species, the amino acid sequence at the S1/S2 boundary and at the S2’ site, and the infected cells.
+The proteolytic activation of coronavirus spike proteins by host cell proteases is critical for the virus to transition from receptor attachment to cell fusion. Many host proteases have been shown to proteolytically process the spike (S) protein including cell surface proteases such as transmembrane protease/serine proteases (TMPRSSs), furin, trypsin, and endosomal cathepsins[^10.1016/j.virusres.2014.11.021][^10.1016/j.antiviral.2020.104792]. Coronaviruses usually require that S is cleaved at two sites – the S1/S2 boundary and at a second site within S2 referred to as S2’. The specific enzymes involved depend in part on the virus species, the amino acid sequence at the S1/S2 boundary and at the S2’ site, and the infected cells.
 
-In contrast to SARS-CoV, SARS-CoV-2 contains a functional poly-basic furin cleavage site at the S1/S2 boundary[^10.1016/j.cell.2020.02.058]. This observation and accumulating data strongly suggest that furin and TMPRSS2 are likely to mediate cleavage at the S1/S2 boundary and at S2’, respectively, and thus are likely to be particularly important host proteases for SARS-CoV-2[^10.1016/j.cell.2020.02.052][^10.1101/2020.04.15.042085]. However, the endosomal cysteine proteases cathepsin B and L are considered essential host proteases for SARS-CoV[^10.1073/pnas.0505577102][^10.1128/JVI.02232-10][^10.1128/JVI.02062-10][^10.1128/JVI.00094-12][^10.1016/j.virol.2017.11.012][^10.1016/j.cell.2020.02.052][^10.1101/2020.04.15.042085] and, together with TMPRSS2, may also be involved in SARS-CoV-2 virus entry in certain cell types[^10.1101/2020.04.15.042085][^10.3390/v12060629][^10.1038/s41467-020-15562-9].
+In contrast to SARS-CoV, SARS-CoV-2 contains a functional poly-basic furin cleavage site at the S1/S2 boundary[^10.1016/j.cell.2020.02.058]. This observation and accumulating data strongly suggest that furin and __TMPRSS2__ are likely to mediate cleavage at the S1/S2 boundary and at S2’, respectively, and thus are likely to be particularly important host proteases for SARS-CoV-2[^10.1016/j.cell.2020.02.052][^10.1101/2020.04.15.042085]. Endosomal cysteine proteases cathepsin B and L are considered essential host proteases for SARS-CoV[^10.1073/pnas.0505577102][^10.1128/JVI.02232-10][^10.1128/JVI.02062-10][^10.1128/JVI.00094-12][^10.1016/j.virol.2017.11.012][^10.1016/j.cell.2020.02.052][^10.1101/2020.04.15.042085] and, together with TMPRSS2, they may also be involved in SARS-CoV-2 virus entry in certain cell types[^10.1101/2020.04.15.042085][^10.3390/v12060629][^10.1038/s41467-020-15562-9].
 
 Two serine protease inhibitors used in Japan for the treatment of pancreatitis and disseminated intravascular coagulation, __camostat__ and __nafamostat__, inhibit coronaviruses through their inhibition of __TMPRSS2__. Both drugs inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 in pseudovirus entry assays and in cell culture[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257]. Camostat has also protected mice from fatal SARS-CoV infection[^10.1016/j.antiviral.2015.01.011]. Both camostat and nafamostat appear to inhibit SARS-CoV-2 at lower concentrations than SARS-CoV[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257]. 
 
@@ -505,11 +505,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjU5ODMzMiwtOTAwMzgxNzAsODY2MT
-c1MzkyLC0xNjUwNDQ4ODY5LDExNDI5MDYxNTAsMTI4NTYwNTI1
-MywtMTc2Njk5NTQ2MSwtMTI5MTUxNzA3OCwxMDY1NTc5NTg5LC
-04NTE3MDQ1NjksLTQxNDc3NjExOCwxNDA3MDA2ODcsNjg0Nzgx
-NDg3LDc5MTAwNzQ2MywxMzcxNzE0Mjk2LC0xNDUyMzU4MTQ0LD
-IwOTg3NzU3MDUsMTQxOTk2MTc4OSwtMTc1ODY3NTE1OSwtMTY0
-NzE5ODUwNF19
+eyJoaXN0b3J5IjpbLTEzMjYwMDUyNTQsLTkwMDM4MTcwLDg2Nj
+E3NTM5MiwtMTY1MDQ0ODg2OSwxMTQyOTA2MTUwLDEyODU2MDUy
+NTMsLTE3NjY5OTU0NjEsLTEyOTE1MTcwNzgsMTA2NTU3OTU4OS
+wtODUxNzA0NTY5LC00MTQ3NzYxMTgsMTQwNzAwNjg3LDY4NDc4
+MTQ4Nyw3OTEwMDc0NjMsMTM3MTcxNDI5NiwtMTQ1MjM1ODE0NC
+wyMDk4Nzc1NzA1LDE0MTk5NjE3ODksLTE3NTg2NzUxNTksLTE2
+NDcxOTg1MDRdfQ==
 -->
