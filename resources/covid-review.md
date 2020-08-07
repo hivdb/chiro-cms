@@ -183,7 +183,7 @@ In contrast to SARS-CoV, SARS-CoV-2 contains a functional poly-basic furin cleav
 
 Two serine protease inhibitors used in Japan for the treatment of pancreatitis and disseminated intravascular coagulation, camostat and nafamostat, inhibit coronaviruses through their inhibition of TMPRSS2. Both drugs inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 in pseudovirus entry assays and in cell culture[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257]. Camostat has also protected mice from fatal SARS-CoV infection[^10.1016/j.antiviral.2015.01.011]. Both camostat and nafamostat appear to inhibit SARS-CoV-2 at lower concentrations than SARS-CoV[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257]. 
 
-In Calu-3 lung epithelial cells and Caco-2 cells, camostat inhibited SARS-CoV and SARS-CoV-2 with EC<sub>50</sub>s generally below 1 μM, while the EC<sub>50</sub>s for nafamostat have been about 10 to 100-fold lower. However, the EC<sub>50</sub>s for both drugs against both viruses are considerably higher in Vero cells likely because these cells do not require TMPRSS2 for virus replication[^10.1128/AAC.00819-20][^10.3390/v12060629][^10.26508/lsa.202000786][^10.3390/v12060629][^10.1038/s41586-020-2332-7]. Two studies have reported that aprotonin, a third serine protease inhibitor available in Russia as an aerosol preparation displayed comparable inhibitory activity to camostat[^10.1101/2020.04.03.024257][^10.1101/2020.04.15.042085]. Finally, an FDA approved drug, alpha-
+In Calu-3 lung epithelial cells and Caco-2 cells, camostat inhibited SARS-CoV and SARS-CoV-2 with EC<sub>50</sub>s generally below 1 μM, while the EC<sub>50</sub>s for nafamostat have been about 10 to 100-fold lower. However, the EC<sub>50</sub>s for both drugs against both viruses are considerably higher in Vero cells likely because these cells do not require TMPRSS2 for virus replication[^10.1128/AAC.00819-20][^10.3390/v12060629][^10.26508/lsa.202000786][^10.3390/v12060629][^10.1038/s41586-020-2332-7]. Two studies have reported that aprotonin, a third serine protease inhibitor available in Russia as an aerosol preparation displayed comparable inhibitory activity to camostat[^10.1101/2020.04.03.024257][^10.1101/2020.04.15.042085]. Finally, an FDA approved drug, __alpha-1-antitrypsin (A1AT)__ has also been shown to inhibit TMPRSS2 [^10.1101/2020.05.04.077826].
 
 Several small molecule cathepsin inhibitors have also been shown to inhibit coronaviruses _in vitro_. K11777, an investigational inhibitor of Trypanosoma cruzi, the agent of Chagas disease, was found to inhibit a variety of cysteine proteases including human cathepsins[^10.1016/j.antiviral.2015.01.011]. It also potently inhibited SARS-CoV in cell culture and virus entry assays at sub-micromolar concentrations[^10.1016/j.antiviral.2015.01.011]. Several K11777 derivatives including SMDC256159 and SMDC256160 were also shown to inhibit SARS-CoV replication. K11777 and each of its derivatives synergistically inhibited SARS-CoV when administered in combination with camostat. MG132, MDL28170, and other calpain inhibitors have been found to inhibit SARS-CoV with EC<sub>50</sub>s in the low μM range[^10.1128/JVI.01001-12][^10.1073/pnas.0505577102][^10.1177/095632020601700505].
 
@@ -505,11 +505,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA4NTgwNSwtOTAwMzgxNzAsODY2MT
-c1MzkyLC0xNjUwNDQ4ODY5LDExNDI5MDYxNTAsMTI4NTYwNTI1
-MywtMTc2Njk5NTQ2MSwtMTI5MTUxNzA3OCwxMDY1NTc5NTg5LC
-04NTE3MDQ1NjksLTQxNDc3NjExOCwxNDA3MDA2ODcsNjg0Nzgx
-NDg3LDc5MTAwNzQ2MywxMzcxNzE0Mjk2LC0xNDUyMzU4MTQ0LD
-IwOTg3NzU3MDUsMTQxOTk2MTc4OSwtMTc1ODY3NTE1OSwtMTY0
-NzE5ODUwNF19
+eyJoaXN0b3J5IjpbLTExMTk1Mjk4MzMsLTkwMDM4MTcwLDg2Nj
+E3NTM5MiwtMTY1MDQ0ODg2OSwxMTQyOTA2MTUwLDEyODU2MDUy
+NTMsLTE3NjY5OTU0NjEsLTEyOTE1MTcwNzgsMTA2NTU3OTU4OS
+wtODUxNzA0NTY5LC00MTQ3NzYxMTgsMTQwNzAwNjg3LDY4NDc4
+MTQ4Nyw3OTEwMDc0NjMsMTM3MTcxNDI5NiwtMTQ1MjM1ODE0NC
+wyMDk4Nzc1NzA1LDE0MTk5NjE3ODksLTE3NTg2NzUxNTksLTE2
+NDcxOTg1MDRdfQ==
 -->
