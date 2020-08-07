@@ -181,7 +181,9 @@ The proteolytic activation of coronavirus spike proteins by host cell proteases 
 
 In contrast to SARS-CoV, SARS-CoV-2 contains a functional poly-basic furin cleavage site at the S1/S2 boundary[^10.1016/j.cell.2020.02.058]. This observation and accumulating data strongly suggest that furin and TMPRSS2 are likely to mediate cleavage at the S1/S2 boundary and at S2’, respectively, and thus are likely to be particularly important host proteases for SARS-CoV-2[^10.1016/j.cell.2020.02.052][^10.1101/2020.04.15.042085]. However, the endosomal cysteine proteases cathepsin B and L are considered essential host proteases for SARS-CoV[^10.1073/pnas.0505577102][^10.1128/JVI.02232-10][^10.1128/JVI.02062-10][^10.1128/JVI.00094-12][^10.1016/j.virol.2017.11.012][^10.1016/j.cell.2020.02.052][^10.1101/2020.04.15.042085] and, together with TMPRSS2, may also be involved in SARS-CoV-2 virus entry in certain cell types[^10.1101/2020.04.15.042085][^10.3390/v12060629][^10.1038/s41467-020-15562-9].
 
-Two serine protease inhibitors used in Japan for the treatment of pancreatitis and disseminated intravascular coagulation, camostat and nafamostat, inhibit coronaviruses through their inhibition of TMPRSS2. Both drugs inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 in pseudovirus entry assays and in cell culture[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257]. Camostat has also protected mice from fatal SARS-CoV infection[^10.1016/j.antiviral.2015.01.011]. Both camostat and nafamostat appear to inhibit SARS-CoV-2 at lower concentrations than SARS-CoV[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257]. In Calu-3 lung epithelial cells and Caco-2 cells, camostat inhibited SARS-CoV and SARS-CoV-2 with EC<sub>50</sub>s generally below 1 μM, while the EC<sub>50</sub>s for nafamostat have been about 10 to 100-fold lower. However, the EC<sub>50</sub>s for both drugs against both viruses are considerably higher in Vero cells likely because these cells do not require TMPRSS2 for virus replication[^10.1128/AAC.00819-20][^10.3390/v12060629] possibly because these cells require TMPRSS2 to for virus replication whereas Vero cells may not suggesting that TMPRSS2 inhibition alone may not be sufficient to suppress SARS-CoV-2 in some cells[^10.1101/2020.04.15.042085]. Two studies have reported that aprotonin, a third serine protease inhibitor available in Russia as an aerosol preparation displayed comparable inhibitory activity to camostat[^10.1101/2020.04.03.024257][^10.1101/2020.04.15.042085].
+Two serine protease inhibitors used in Japan for the treatment of pancreatitis and disseminated intravascular coagulation, camostat and nafamostat, inhibit coronaviruses through their inhibition of TMPRSS2. Both drugs inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 in pseudovirus entry assays and in cell culture[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257]. Camostat has also protected mice from fatal SARS-CoV infection[^10.1016/j.antiviral.2015.01.011]. Both camostat and nafamostat appear to inhibit SARS-CoV-2 at lower concentrations than SARS-CoV[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257]. 
+
+In Calu-3 lung epithelial cells and Caco-2 cells, camostat inhibited SARS-CoV and SARS-CoV-2 with EC<sub>50</sub>s generally below 1 μM, while the EC<sub>50</sub>s for nafamostat have been about 10 to 100-fold lower. However, the EC<sub>50</sub>s for both drugs against both viruses are considerably higher in Vero cells likely because these cells do not require TMPRSS2 for virus replication[^10.1128/AAC.00819-20][^10.3390/v12060629][^10.26508/lsa.202000786][^. Two studies have reported that aprotonin, a third serine protease inhibitor available in Russia as an aerosol preparation displayed comparable inhibitory activity to camostat[^10.1101/2020.04.03.024257][^10.1101/2020.04.15.042085].
 
 Several small molecule cathepsin inhibitors have also been shown to inhibit coronaviruses _in vitro_. K11777, an investigational inhibitor of Trypanosoma cruzi, the agent of Chagas disease, was found to inhibit a variety of cysteine proteases including human cathepsins[^10.1016/j.antiviral.2015.01.011]. It also potently inhibited SARS-CoV in cell culture and virus entry assays at sub-micromolar concentrations[^10.1016/j.antiviral.2015.01.011]. Several K11777 derivatives including SMDC256159 and SMDC256160 were also shown to inhibit SARS-CoV replication. K11777 and each of its derivatives synergistically inhibited SARS-CoV when administered in combination with camostat. MG132, MDL28170, and other calpain inhibitors have been found to inhibit SARS-CoV with EC<sub>50</sub>s in the low μM range[^10.1128/JVI.01001-12][^10.1073/pnas.0505577102][^10.1177/095632020601700505].
 
@@ -503,11 +505,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2MTc1MzkyLC0xNjUwNDQ4ODY5LDExND
-I5MDYxNTAsMTI4NTYwNTI1MywtMTc2Njk5NTQ2MSwtMTI5MTUx
-NzA3OCwxMDY1NTc5NTg5LC04NTE3MDQ1NjksLTQxNDc3NjExOC
-wxNDA3MDA2ODcsNjg0NzgxNDg3LDc5MTAwNzQ2MywxMzcxNzE0
-Mjk2LC0xNDUyMzU4MTQ0LDIwOTg3NzU3MDUsMTQxOTk2MTc4OS
-wtMTc1ODY3NTE1OSwtMTY0NzE5ODUwNCwtMTkyNjEyMDI3Mywt
-MTE5MjAxNDg2N119
+eyJoaXN0b3J5IjpbLTM2MDY1OTIzMSw4NjYxNzUzOTIsLTE2NT
+A0NDg4NjksMTE0MjkwNjE1MCwxMjg1NjA1MjUzLC0xNzY2OTk1
+NDYxLC0xMjkxNTE3MDc4LDEwNjU1Nzk1ODksLTg1MTcwNDU2OS
+wtNDE0Nzc2MTE4LDE0MDcwMDY4Nyw2ODQ3ODE0ODcsNzkxMDA3
+NDYzLDEzNzE3MTQyOTYsLTE0NTIzNTgxNDQsMjA5ODc3NTcwNS
+wxNDE5OTYxNzg5LC0xNzU4Njc1MTU5LC0xNjQ3MTk4NTA0LC0x
+OTI2MTIwMjczXX0=
 -->
