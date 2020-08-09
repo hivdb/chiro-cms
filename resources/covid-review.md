@@ -183,7 +183,7 @@ In contrast to SARS-CoV, SARS-CoV-2 contains a functional poly-basic furin cleav
 
 Two serine protease inhibitors used in Japan for the treatment of pancreatitis and disseminated intravascular coagulation, __camostat__ and __nafamostat__, inhibit coronaviruses through their inhibition of TMPRSS2. Both drugs inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 in pseudovirus entry assays and in cell culture[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257]. Camostat has also protected mice from fatal SARS-CoV infection[^10.1016/j.antiviral.2015.01.011]. Both camostat and nafamostat appear to inhibit SARS-CoV-2 at lower concentrations than SARS-CoV[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257].
 
-In Calu-3 lung epithelial cells and Caco-2 cells, camostat inhibited SARS-CoV and SARS-CoV-2 with EC<sub>50</sub>s generally below 1 μM, while the EC<sub>50</sub>s for nafamostat have been about 10 to 100-fold lower. However, the EC<sub>50</sub>s for both drugs against both viruses are considerably higher in Vero cells likely because these cells do not require TMPRSS2 for virus replication[^10.1128/AAC.00819-20][^10.3390/v12060629][^10.26508/lsa.202000786][^10.3390/v12060629][^10.1038/s41586-020-2332-7]. Two studies have reported that aprotonin, a third serine protease inhibitor available in Russia as an aerosol preparation displayed comparable inhibitory activity to camostat[^10.1101/2020.04.03.024257][^PMID32703818]. The FDA approved drug, alpha-1-antitrypsin (A1AT)__ has also been shown to inhibit TMPRSS2 [^10.1101/2020.05.04.077826]; It is being studied in three clinical trials intravenously and via inhalation.
+In Calu-3 lung epithelial cells and Caco-2 cells, camostat inhibited SARS-CoV and SARS-CoV-2 with EC<sub>50</sub>s generally below 1 μM, while the EC<sub>50</sub>s for nafamostat have been about 10 to 100-fold lower. However, the EC<sub>50</sub>s for both drugs against both viruses are considerably higher in Vero cells likely because these cells do not require TMPRSS2 for virus replication[^10.1128/AAC.00819-20][^10.3390/v12060629][^10.26508/lsa.202000786][^10.3390/v12060629][^10.1038/s41586-020-2332-7]. Two studies have reported that aprotonin, a third serine protease inhibitor available in Russia as an aerosol preparation displayed comparable inhibitory activity to camostat[^10.1101/2020.04.03.024257][^PMID32703818]. The FDA approved drug, __alpha-1-antitrypsin (A1AT)__ has also been shown to inhibit TMPRSS2 [^10.1101/2020.05.04.077826]; It is being studied in three clinical trials intravenously and via inhalation.
 
 Several synthetic furin inhibitors have been shown to inhibit coronaviruses _in vitro_ including MI-1851, which inhibited SARS-CoV-2 alone and synergistically in combination with TMPRSS2 inhibitors[^PMID32703818], while dec-RVKR-CMK, which weakly inhibited MERS-CoV in a pseudovirus entry assay[^10.1073/pnas.1407087111].
 
@@ -507,11 +507,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYwMzM3NDYsMTY0MjM3OTk5NCwtMj
-EwNjA4NDQ4NSwtMTM0NzY0MzY0MSwtMTM4NDY0NjMxMSwtMTEy
-MTg5ODk4MywxNjgyOTU0Mzc2LC0xNzE2MjU4NzU4LC05MDAzOD
-E3MCw4NjYxNzUzOTIsLTE2NTA0NDg4NjksMTE0MjkwNjE1MCwx
-Mjg1NjA1MjUzLC0xNzY2OTk1NDYxLC0xMjkxNTE3MDc4LDEwNj
-U1Nzk1ODksLTg1MTcwNDU2OSwtNDE0Nzc2MTE4LDE0MDcwMDY4
-Nyw2ODQ3ODE0ODddfQ==
+eyJoaXN0b3J5IjpbMTU0NTA4OTU1MCwxNjQyMzc5OTk0LC0yMT
+A2MDg0NDg1LC0xMzQ3NjQzNjQxLC0xMzg0NjQ2MzExLC0xMTIx
+ODk4OTgzLDE2ODI5NTQzNzYsLTE3MTYyNTg3NTgsLTkwMDM4MT
+cwLDg2NjE3NTM5MiwtMTY1MDQ0ODg2OSwxMTQyOTA2MTUwLDEy
+ODU2MDUyNTMsLTE3NjY5OTU0NjEsLTEyOTE1MTcwNzgsMTA2NT
+U3OTU4OSwtODUxNzA0NTY5LC00MTQ3NzYxMTgsMTQwNzAwNjg3
+LDY4NDc4MTQ4N119
 -->
