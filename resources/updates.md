@@ -6,11 +6,14 @@ __DHODH inhibitors__: Dihydroorotate dehydrogenase (DHODH) is an enzyme in the p
 
 __Host protease inhibitors__: In addition to camostat and nafamostat, the FDA approved drug, __alpha-1-antitrypsin (A1AT)__ has also been shown to inhibit TMPRSS2 [^10.1101/2020.05.04.077826]; It is being studied in three clinical trials intravenously and via inhalation.
 
+### Final chapter on chloroquine analogs and explanations for their lack of clinical efficacy
+However, two large blinded and three large open-label randomized control trials totaling more than 6,000 patients failed to show any clinical or virological benefit from the use of hydroxychloroquine[^10.1101/2020.07.15.20151852][^10.7326/M20-4207][^10.1056/NEJMoa2019014][^10.1101/2020.04.10.20060558][^10.1093/cid/ciaa1009]. Two additional randomized controlled studies totaling more than 3,000 patients failed to show a reduction in the risk of infection among exposed patients receiving HCQ[^10.1101/2020.07.20.20157651][^10.1056/NEJMoa2016638].  The lack of efficacy likely reflects the fact that  at standard dosages, CQ and HCQ do not achieve sufficiently high inhibitory drug levels[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1002/cpt.1909] and because cytoplasmic entry of SARS-CoV-2 appears to be dependent primarily on the membrane based enzyme TMPRSS2 rather than on endosomal fusion and acidification[^10.1101/2020.07.22.216150].
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxNTM2NTIyLDE2MDkyMzQ1OCw3MzA5OT
+eyJoaXN0b3J5IjpbOTQ2MjAyOTI2LDE2MDkyMzQ1OCw3MzA5OT
 gxMTZdfQ==
 -->
