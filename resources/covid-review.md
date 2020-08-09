@@ -171,7 +171,7 @@ Theoretical and empirical data suggest that IFNs should be administered as early
 
 ___Conclusion: Considering the multiple proteins produced by coronaviruses to down-regulate host innate immunity and the generally favorable response to IFN in vitro and in animal models, sufficiently powered randomized clinical trials of the early use of IFNs following SARS-CoV-2 infection should be one of the highest treatment priorities.___
 
-## Additional Host-Targeting Compounds
+## Host-Targeting Compounds
 With the exception of interferons, all approved antivirals target specific steps in a virus’s replication cycle. However, the concept of developing drugs that target host pathways has gained increasing interest during the past several years and during the SARS-CoV-2 pandemic. Host-acting drugs have a number of theoretical advantages for treating acute pandemic infections. First, host acting antiviral drugs may have already been approved or undergone human testing for other conditions, making it possible to repurpose them to treat SARS-CoV-2. Second, host-acting drugs might be able to inhibit multiple viruses, since many viruses depend on similar host factors and pathways. Third, although drugs targeting host factors may have a higher risk of cellular toxicity compared to drugs that specifically target a virus protein, such toxicity may be acceptable for the relatively few days required to treat an acute viral infection.
 
 During the past 17 years, many compounds have been identified that appear to inhibit coronaviruses _in vitro_ by inhibiting a cellular protein, influencing a signaling pathway, or modifying a cellular organelle. For some of these compounds, it has been possible to determine their mechanism of action. However, it is difficult to pinpoint the mechanism of action for many other compounds. This section reviews compounds that appear to act primarily by influencing the host rather than the virus and that are described in multiple studies, demonstrate _in vitro_ potency, and have favorable safety profiles. These compounds have been categorized into those that (i) inhibit host proteases required for S protein cleavage; (ii) appear to inhibit virus endosomal trafficking;  (iii) have been reported to stimulate host immunity; or (iv) act by additional or uncertain mechanisms.
@@ -191,6 +191,8 @@ ___Conclusion: As of August, there are 15 ongoing or planned clinical trials of 
 
 ### Additional Host-Acting Compounds
 __Apilimod__ inhibits the intracellular trafficking of several viruses including SARS, MERS, and SARS-CoV-2 during the early stages of virus replication. It inhibits a kinase enzyme, phosphatidylinositol-3-phosphate 5-kinase (PIKfyve) involved in endosomal membrane formation. Although it does not alter the pH of endosomes or inhibit cathepsin B or L, it blocks entry of multiple viruses in pseudovirus and cell culture assays[^10.1101/2020.04.21.053058][^10.1038/s41467-020-15562-9]. In two large scale screening assays, it was found to be one of the most inhibitory compounds with EC50s in the range of 10 to 90 nanomolar[^10.1038/s41586-020-2577-1][^10.1016/j.cell.2020.06.034]. It is an investigational compound that has been studied in human clinical trials as an anticancer agent and is now being studied in a phase II trial for the treatment of COVID-19.
+
+__DHODH i
 
 __Chloroquine (CQ) and its analogs__ have been reported to have multiple intracellular actions that interfere with virus replication and/or the immune response to viral infections. CQ analogs are weak bases, that in their non-protonated form, penetrate and concentrate within acidic intracellular organelles such as endosomes and lysosomes. In these organelles, CQ analogs may interfere with the trafficking of viruses that require a pH-dependent step for entry[^10.1016/s1473-3099(03)00806-5][^10.1371/journal.ppat.1004502]. CQ analogs have also been reported to impair ACE2 glycosylation, which could theoretically diminish receptor binding by SARS-CoV and SARS-CoV-2[^10.1186/1743-422X-2-69]. CQ analogs also anti-inflammatory, and have been used for autoimmune conditions. CQ and hydroxychloroquine (HCQ) have modest inhibitory activity _in vitro_ against MERS-CoV[^10.1128/AAC.03036-14][^10.3390/v10060283][^10.1128/AAC.03011-14], SARS-CoV[^10.1186/1743-422X-2-69][^10.1177/095632020601700505][^10.1016/j.bbrc.2004.08.085][^10.1128/AAC.03011-14], and SARS-CoV-2[^10.1038/s41422-020-0282-0][^10.1038/s41421-020-0156-0][^10.1093/cid/ciaa237][^10.1128/AAC.00819-20][^10.1101/2020.04.04.020925][^10.1101/2020.03.29.014407][^PMID32753646] with most EC<sub>50</sub>s ranging between 1 μM and 10 μM.
 
@@ -363,7 +365,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1016/j.antiviral.2020.104792]: Tang T, Bidon M, et int., Daniel S. "Coronavirus membrane fusion mechanism offers as a potential target for antiviral development" _Antiviral Res._, 2020. [10.1016/j.antiviral.2020.104792](https://doi.org/10.1016/j.antiviral.2020.104792)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
 [^10.1128/JVI.01697-07]: Ujike M, Nishikawa H, et int., Taguchi F. "Heptad Repeat-Derived Peptides Block Protease-Mediated Direct Entry from the Cell Surface of Severe Acute Respiratory Syndrome Coronavirus but Not Entry via the Endosomal Pathway" _Journal of Virology_, 2008. [10.1128/JVI.01697-07](https://doi.org/10.1128/JVI.01697-07)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -505,11 +507,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODQ2NDYzMTEsLTExMjE4OTg5ODMsMT
-Y4Mjk1NDM3NiwtMTcxNjI1ODc1OCwtOTAwMzgxNzAsODY2MTc1
-MzkyLC0xNjUwNDQ4ODY5LDExNDI5MDYxNTAsMTI4NTYwNTI1My
-wtMTc2Njk5NTQ2MSwtMTI5MTUxNzA3OCwxMDY1NTc5NTg5LC04
-NTE3MDQ1NjksLTQxNDc3NjExOCwxNDA3MDA2ODcsNjg0NzgxND
-g3LDc5MTAwNzQ2MywxMzcxNzE0Mjk2LC0xNDUyMzU4MTQ0LDIw
-OTg3NzU3MDVdfQ==
+eyJoaXN0b3J5IjpbLTE4MzExNzI1NjQsLTEzODQ2NDYzMTEsLT
+ExMjE4OTg5ODMsMTY4Mjk1NDM3NiwtMTcxNjI1ODc1OCwtOTAw
+MzgxNzAsODY2MTc1MzkyLC0xNjUwNDQ4ODY5LDExNDI5MDYxNT
+AsMTI4NTYwNTI1MywtMTc2Njk5NTQ2MSwtMTI5MTUxNzA3OCwx
+MDY1NTc5NTg5LC04NTE3MDQ1NjksLTQxNDc3NjExOCwxNDA3MD
+A2ODcsNjg0NzgxNDg3LDc5MTAwNzQ2MywxMzcxNzE0Mjk2LC0x
+NDUyMzU4MTQ0XX0=
 -->
