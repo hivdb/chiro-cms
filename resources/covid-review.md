@@ -129,7 +129,7 @@ The complete ACE2 molecule may not be necessary to inhibit viral infection if a 
 ___Conclusion: rhACE2 may prove to be useful in patients with severe cases of SARS-CoV-2 pneumonia.___
 
 ### Additional Possible Entry Inhibitors
-Two groups have reported that certain anticoagulants such as heparin, enoxaparin, and pixatimod bind to S1 receptor binding domains and  interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761][^10.1101/2020.06.08.140236][^10.1101/2020.06.24.169334]. Administration of heparin intranasally has also been proposed as a method of preventing spread of SARS-CoV-2 after initial infection without increasing the risk of bleeding[^10.1101/2020.06.08.140236].
+Heparan sulfate proteoglycans (HPSGs) Two groups have reported that certain anticoagulants such as heparin, enoxaparin, and pixatimod bind to S1 receptor binding domains and  interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761][^10.1101/2020.06.08.140236][^10.1101/2020.06.24.169334]. Administration of heparin intranasally has also been proposed as a method of preventing spread of SARS-CoV-2 after initial infection without increasing the risk of bleeding[^10.1101/2020.06.08.140236].
 
 Spike-mimicking 20-mer peptides corresponding to different S1 and/or S2 regions were reported in one study to synergistically interfere with SARS-CoV entry into cells presumably by competing with complete virus for ACE2 binding[^PMID15918330]. However, few studies have described this approach and the inhibition of ACE2 enzymatic function or down-regulation of ACE2 levels is precarious as the absence of ACE2 is associated with the same pulmonary and cardiovascular disturbances observed during severe SARS-CoV and presumably SARS-CoV-2 infection.
 
@@ -509,11 +509,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDAzOTUyMDEsMTU0MDg4NjE4MSwtMT
-EzNDg3MjI1MCwxNTQ1MDg5NTUwLDE2NDIzNzk5OTQsLTIxMDYw
-ODQ0ODUsLTEzNDc2NDM2NDEsLTEzODQ2NDYzMTEsLTExMjE4OT
-g5ODMsMTY4Mjk1NDM3NiwtMTcxNjI1ODc1OCwtOTAwMzgxNzAs
-ODY2MTc1MzkyLC0xNjUwNDQ4ODY5LDExNDI5MDYxNTAsMTI4NT
-YwNTI1MywtMTc2Njk5NTQ2MSwtMTI5MTUxNzA3OCwxMDY1NTc5
-NTg5LC04NTE3MDQ1NjldfQ==
+eyJoaXN0b3J5IjpbMTc5OTYyNTE3NiwtMTMwMDM5NTIwMSwxNT
+QwODg2MTgxLC0xMTM0ODcyMjUwLDE1NDUwODk1NTAsMTY0MjM3
+OTk5NCwtMjEwNjA4NDQ4NSwtMTM0NzY0MzY0MSwtMTM4NDY0Nj
+MxMSwtMTEyMTg5ODk4MywxNjgyOTU0Mzc2LC0xNzE2MjU4NzU4
+LC05MDAzODE3MCw4NjYxNzUzOTIsLTE2NTA0NDg4NjksMTE0Mj
+kwNjE1MCwxMjg1NjA1MjUzLC0xNzY2OTk1NDYxLC0xMjkxNTE3
+MDc4LDEwNjU1Nzk1ODldfQ==
 -->
