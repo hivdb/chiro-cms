@@ -179,9 +179,9 @@ During the past 17 years, many compounds have been identified that appear to inh
 ### Host Protease Inhibitors
 The proteolytic activation of coronavirus spike proteins by host cell proteases is critical for the virus to transition from receptor attachment to cell fusion. Many host proteases have been shown to proteolytically process the spike (S) protein including cell surface proteases such as transmembrane protease/serine proteases (TMPRSSs), furin, trypsin, and endosomal cathepsins[^10.1016/j.virusres.2014.11.021][^10.1016/j.antiviral.2020.104792]. Coronaviruses usually require that S is cleaved at two sites – the S1/S2 boundary and at a second site within S2 referred to as S2’. The specific enzymes involved depend in part on the virus species, the amino acid sequence at the S1/S2 boundary and at the S2’ site, and the infected cells.
 
-In contrast to SARS-CoV, SARS-CoV-2 contains a functional poly-basic furin cleavage site at the S1/S2 boundary[^10.1016/j.cell.2020.02.058]. This observation and accumulating data strongly suggest that __furin__ and __TMPRSS2__ are likely to mediate cleavage at the S1/S2 boundary and at S2’, respectively, and thus are likely to be particularly important host proteases for SARS-CoV-2[^10.1016/j.cell.2020.02.052][^PMID32703818]. Endosomal cysteine proteases cathepsin B and L are considered essential host proteases for SARS-CoV[^10.1073/pnas.0505577102][^10.1128/JVI.02232-10][^10.1128/JVI.02062-10][^10.1128/JVI.00094-12][^10.1016/j.virol.2017.11.012][^10.1016/j.cell.2020.02.052][^PMID32703818] but their impotance for SARS-CoV-2 virus entry in certain cell types[^PMID32703818][^10.3390/v12060629][^10.1038/s41467-020-15562-9].
+In contrast to SARS-CoV, SARS-CoV-2 contains a functional poly-basic furin cleavage site at the S1/S2 boundary[^10.1016/j.cell.2020.02.058]. This observation and accumulating data strongly suggest that __furin__ and __TMPRSS2__ are likely to mediate cleavage at the S1/S2 boundary and at S2’, respectively, and thus are likely to be particularly important host proteases for SARS-CoV-2[^10.1016/j.cell.2020.02.052][^PMID32703818]. Endosomal cysteine proteases cathepsin B and L are considered essential host proteases for SARS-CoV[^10.1073/pnas.0505577102][^10.1128/JVI.02232-10][^10.1128/JVI.02062-10][^10.1128/JVI.00094-12][^10.1016/j.virol.2017.11.012][^10.1016/j.cell.2020.02.052][^PMID32703818] but they appear to be less important for SARS-CoV-2 virus entry into  cells[^PMID32703818][^10.3390/v12060629][^10.1038/s41467-020-15562-9].
 
-Two serine protease inhibitors used in Japan for the treatment of pancreatitis and disseminated intravascular coagulation, __camostat__ and __nafamostat__, inhibit coronaviruses through their inhibition of TMPRSS2. Both drugs inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 in pseudovirus entry assays and in cell culture[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257]. Camostat has also protected mice from fatal SARS-CoV infection[^10.1016/j.antiviral.2015.01.011]. Both camostat and nafamostat appear to inhibit SARS-CoV-2 at lower concentrations than SARS-CoV[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257].
+Two serine protease inhibitors used in Japan for the treatment of pancreatitis and disseminated intravascular coagulation, __camostat__ and __nafamostat__, inhibit coronaviruses through their inhibition of TMPRSS2. Both drugs inhibit MERS-CoV, SARS-CoV, and SARS-CoV-2 in pseudovirus entry assays and in cell culture[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257]. Camostat has also protected mice from fatal SARS-CoV infection[^10.1016/j.antiviral.2015.01.011]. Both camostat and nafamostat appear to inhibit SARS-CoV-2 at lower concentrations than SARS-CoV[^10.1016/j.cell.2020.02.052][^10.1128/AAC.00754-20][^10.3390/v12060629][^10.1101/2020.04.03.024257]. In addition to TMPR
 
 In Calu-3 lung epithelial cells and Caco-2 cells, camostat inhibited SARS-CoV and SARS-CoV-2 with EC<sub>50</sub>s generally below 1 μM, while the EC<sub>50</sub>s for nafamostat have been about 10 to 100-fold lower. However, the EC<sub>50</sub>s for both drugs against both viruses are considerably higher in Vero cells likely because these cells do not require TMPRSS2 for virus replication[^10.1128/AAC.00819-20][^10.3390/v12060629][^10.26508/lsa.202000786][^10.3390/v12060629][^10.1038/s41586-020-2332-7]. Two studies have reported that aprotonin, a third serine protease inhibitor available in Russia as an aerosol preparation displayed comparable inhibitory activity to camostat[^10.1101/2020.04.03.024257][^PMID32703818]. The FDA approved drug, __alpha-1-antitrypsin (A1AT)__ has also been shown to inhibit TMPRSS2 [^10.1101/2020.05.04.077826]; It is being studied in three clinical trials intravenously and via inhalation.
 
@@ -507,11 +507,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjg5ODgxNDcsMTU0NTA4OTU1MCwxNj
-QyMzc5OTk0LC0yMTA2MDg0NDg1LC0xMzQ3NjQzNjQxLC0xMzg0
-NjQ2MzExLC0xMTIxODk4OTgzLDE2ODI5NTQzNzYsLTE3MTYyNT
-g3NTgsLTkwMDM4MTcwLDg2NjE3NTM5MiwtMTY1MDQ0ODg2OSwx
-MTQyOTA2MTUwLDEyODU2MDUyNTMsLTE3NjY5OTU0NjEsLTEyOT
-E1MTcwNzgsMTA2NTU3OTU4OSwtODUxNzA0NTY5LC00MTQ3NzYx
-MTgsMTQwNzAwNjg3XX0=
+eyJoaXN0b3J5IjpbLTQzODUwMzYxMywxNTQ1MDg5NTUwLDE2ND
+IzNzk5OTQsLTIxMDYwODQ0ODUsLTEzNDc2NDM2NDEsLTEzODQ2
+NDYzMTEsLTExMjE4OTg5ODMsMTY4Mjk1NDM3NiwtMTcxNjI1OD
+c1OCwtOTAwMzgxNzAsODY2MTc1MzkyLC0xNjUwNDQ4ODY5LDEx
+NDI5MDYxNTAsMTI4NTYwNTI1MywtMTc2Njk5NTQ2MSwtMTI5MT
+UxNzA3OCwxMDY1NTc5NTg5LC04NTE3MDQ1NjksLTQxNDc3NjEx
+OCwxNDA3MDA2ODddfQ==
 -->
