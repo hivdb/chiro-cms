@@ -1,4 +1,6 @@
 
+## Monday August 10
+
 ### Three new repurposed compounds:
 __Apilimod__ inhibits the intracellular trafficking of several viruses including SARS, MERS, and SARS-CoV-2 during the early stages of virus replication. It inhibits a kinase enzyme, phosphatidylinositol-3-phosphate 5-kinase (PIKfyve) involved in endosomal membrane formation. Although it does not alter the pH of endosomes or inhibit cathepsin B or L, it blocks entry of multiple viruses in pseudovirus and cell culture assays[^10.1101/2020.04.21.053058][^10.1038/s41467-020-15562-9]. In two large scale screening assays, it was found to be one of the most inhibitory compounds with EC<sub>50</sub>s in the range of 10 to 90 nanomolar[^10.1038/s41586-020-2577-1][^10.1016/j.cell.2020.06.034]. It is an investigational compound that has been studied in human clinical trials as an anticancer agent and is now being studied in a phase II trial for the treatment of COVID-19.
 
@@ -14,6 +16,6 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2MjAyOTI2LDE2MDkyMzQ1OCw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTIxNDEyODYyNDIsMTYwOTIzNDU4LDczMD
+k5ODExNl19
 -->
