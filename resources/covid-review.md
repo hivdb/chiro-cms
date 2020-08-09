@@ -129,7 +129,7 @@ The complete ACE2 molecule may not be necessary to inhibit viral infection if a 
 ___Conclusion: rhACE2 may prove to be useful in patients with severe cases of SARS-CoV-2 pneumonia.___
 
 ### Additional Possible Entry Inhibitors
-Heparan sulfate proteoglycans (HSPGs) are widely distributed on the surface of mammalian cells. HSPGs have also been shown to serve as SARS-CoV attachment sites and to facilitate the concentration of virus on the cell surface and possible access to ACE2[^10.1371/journal.pone.0023710]. Several groups have reported that compounds that inhibit the interaction between viruses and HSPGs have antiviral activity including the compound lactoferrin[^10.1371/journal.pone.0023710][^10.1101/2020.05.27.117184] and certain anticoagulants  heparin, enoxaparin, and pixatimod bind to S1 receptor binding domains and  interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761][^10.1101/2020.06.08.140236][^10.1101/2020.06.24.169334]. Administration of heparin intranasally has also been proposed as a method of preventing spread of SARS-CoV-2 after initial infection without increasing the risk of bleeding[^10.1101/2020.06.08.140236].
+Heparan sulfate proteoglycans (HSPGs) are widely distributed on the surface of mammalian cells. HSPGs have also been shown to serve as SARS-CoV attachment sites and to facilitate the concentration of virus on the cell surface and possible access to ACE2[^10.1371/journal.pone.0023710]. Several groups have reported that compounds that inhibit the interaction between viruses and HSPGs have antiviral activity including the compound lactoferrin[^10.1371/journal.pone.0023710][^10.1101/2020.05.27.117184 and certain anticoagulants Two groups have reported that certain anticoagulants such as heparin, enoxaparin, and pixatimod bind to S1 receptor binding domains and  interfere with virus cell entry _in vitro_[^10.1101/2020.04.28.066761][^10.1101/2020.06.08.140236][^10.1101/2020.06.24.169334]. Administration of heparin intranasally has also been proposed as a method of preventing spread of SARS-CoV-2 after initial infection without increasing the risk of bleeding[^10.1101/2020.06.08.140236].
 
 Spike-mimicking 20-mer peptides corresponding to different S1 and/or S2 regions were reported in one study to synergistically interfere with SARS-CoV entry into cells presumably by competing with complete virus for ACE2 binding[^PMID15918330]. However, few studies have described this approach and the inhibition of ACE2 enzymatic function or down-regulation of ACE2 levels is precarious as the absence of ACE2 is associated with the same pulmonary and cardiovascular disturbances observed during severe SARS-CoV and presumably SARS-CoV-2 infection.
 
@@ -509,7 +509,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5MzM0NzM4LC0xMzAwMzk1MjAxLDE1ND
+eyJoaXN0b3J5IjpbMzI2NTk1NDk5LC0xMzAwMzk1MjAxLDE1ND
 A4ODYxODEsLTExMzQ4NzIyNTAsMTU0NTA4OTU1MCwxNjQyMzc5
 OTk0LC0yMTA2MDg0NDg1LC0xMzQ3NjQzNjQxLC0xMzg0NjQ2Mz
 ExLC0xMTIxODk4OTgzLDE2ODI5NTQzNzYsLTE3MTYyNTg3NTgs
