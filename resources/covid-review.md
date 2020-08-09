@@ -185,7 +185,7 @@ Two serine protease inhibitors used in Japan for the treatment of pancreatitis a
 
 In Calu-3 lung epithelial cells and Caco-2 cells, camostat inhibited SARS-CoV and SARS-CoV-2 with EC<sub>50</sub>s generally below 1 μM, while the EC<sub>50</sub>s for nafamostat have been about 10 to 100-fold lower. However, the EC<sub>50</sub>s for both drugs against both viruses are considerably higher in Vero cells likely because these cells do not require TMPRSS2 for virus replication[^10.1128/AAC.00819-20][^10.3390/v12060629][^10.26508/lsa.202000786][^10.3390/v12060629][^10.1038/s41586-020-2332-7]. Two studies have reported that aprotonin, a third serine protease inhibitor available in Russia as an aerosol preparation displayed comparable inhibitory activity to camostat[^10.1101/2020.04.03.024257][^PMID32703818]. The FDA approved drug, __alpha-1-antitrypsin (A1AT)__ has also been shown to inhibit TMPRSS2 [^10.1101/2020.05.04.077826]; It is being studied in three clinical trials intravenously and via inhalation.
 
-camostat mesylate 191 is rapidly converted into its active metabolite, 4-(4-
+Camostat mesylate is rapidly converted into its active metabolite, 4-(4-guanidinobenzoyloxy)phenylacetic acid (GBPA) in animals and humans, followed by further conversion of GBPA into the inactive metabolite 4-guanidinobenzoic acid (GBA)
 
 192 guanidinobenzoyloxy)phenylacetic acid (GBPA) in animals and humans, followed by further
 
@@ -513,11 +513,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzc4MDg0NDgsMTU0NTA4OTU1MCwxNj
-QyMzc5OTk0LC0yMTA2MDg0NDg1LC0xMzQ3NjQzNjQxLC0xMzg0
-NjQ2MzExLC0xMTIxODk4OTgzLDE2ODI5NTQzNzYsLTE3MTYyNT
-g3NTgsLTkwMDM4MTcwLDg2NjE3NTM5MiwtMTY1MDQ0ODg2OSwx
-MTQyOTA2MTUwLDEyODU2MDUyNTMsLTE3NjY5OTU0NjEsLTEyOT
-E1MTcwNzgsMTA2NTU3OTU4OSwtODUxNzA0NTY5LC00MTQ3NzYx
-MTgsMTQwNzAwNjg3XX0=
+eyJoaXN0b3J5IjpbLTIzMzEyMjI0MCwxNTQ1MDg5NTUwLDE2ND
+IzNzk5OTQsLTIxMDYwODQ0ODUsLTEzNDc2NDM2NDEsLTEzODQ2
+NDYzMTEsLTExMjE4OTg5ODMsMTY4Mjk1NDM3NiwtMTcxNjI1OD
+c1OCwtOTAwMzgxNzAsODY2MTc1MzkyLC0xNjUwNDQ4ODY5LDEx
+NDI5MDYxNTAsMTI4NTYwNTI1MywtMTc2Njk5NTQ2MSwtMTI5MT
+UxNzA3OCwxMDY1NTc5NTg5LC04NTE3MDQ1NjksLTQxNDc3NjEx
+OCwxNDA3MDA2ODddfQ==
 -->
