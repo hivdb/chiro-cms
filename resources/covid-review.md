@@ -191,7 +191,7 @@ Several synthetic furin inhibitors have been shown to inhibit coronaviruses _in 
 
 ___Conclusion: As of August, there are 15 ongoing or planned clinical trials of camostat, nafamostat, or alpha 1 antitrypsin but few are placebo controlled. This class of inhibitors appear to be among the most promising repurposed drugs for treating COVID-19. ___
 
-### Additional Host-Acting Compounds
+### Additional Host-Targeting Compounds
 __Apilimod__ inhibits the intracellular trafficking of several viruses including SARS, MERS, and SARS-CoV-2 during the early stages of virus replication. It inhibits a kinase enzyme, phosphatidylinositol-3-phosphate 5-kinase (PIKfyve) involved in endosomal membrane formation. Although it does not alter the pH of endosomes or inhibit cathepsin B or L, it blocks entry of multiple viruses in pseudovirus and cell culture assays[^10.1101/2020.04.21.053058][^10.1038/s41467-020-15562-9]. In two large scale screening assays, it was found to be one of the most inhibitory compounds with EC<sub>50</sub>s in the range of 10 to 90 nanomolar[^10.1038/s41586-020-2577-1][^10.1016/j.cell.2020.06.034]. It is an investigational compound that has been studied in human clinical trials as an anticancer agent and is now being studied in a phase II trial for the treatment of COVID-19.
 
 __DHODH inhibitors__: Dihydroorotate dehydrogenase (DHODH) is an enzyme in the pyrimidine synthesis pathway. DHODH inhibition limits the availability of nucleoside triphosphates required for viral replication. DHODH inhibitors have also been used to treat autoimmune diseases, organ rejection, and cancer. Leflunomide is a licensed drug for the treatment of rheumatoid and psoriatic arthritis. Its active metabolite teriflunomide has been shown to have weak _in vitro_ SARS-CoV-2 activity[^10.1007/s13238-020-00768-w]. However, several other investigational DHODH inhibitors have exhibited much greater _in vitro_ activity including __PTC299__ which has an EC<sub>50</sub> in the low nanomolar range and a high selectivity index [^10.1007/s13238-020-00768-w][^10.1101/2020.08.05.238394]. PTC299 is an oral drug that is also being developed for oncological indications and has been studied in nine clinical trials in over 300 individuals. A placebo-controlled clinical trial of PTC299 in 380 hospitalized patients with COVID-19 began in July (NCT04439071).
@@ -367,7 +367,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1016/j.antiviral.2020.104792]: Tang T, Bidon M, et int., Daniel S. "Coronavirus membrane fusion mechanism offers as a potential target for antiviral development" _Antiviral Res._, 2020. [10.1016/j.antiviral.2020.104792](https://doi.org/10.1016/j.antiviral.2020.104792)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
 [^10.1128/JVI.01697-07]: Ujike M, Nishikawa H, et int., Taguchi F. "Heptad Repeat-Derived Peptides Block Protease-Mediated Direct Entry from the Cell Surface of Severe Acute Respiratory Syndrome Coronavirus but Not Entry via the Endosomal Pathway" _Journal of Virology_, 2008. [10.1128/JVI.01697-07](https://doi.org/10.1128/JVI.01697-07)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -515,11 +515,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNTgyMDA0NSwxNDYzOTEyOTIwLC0xMz
-AwMzk1MjAxLDE1NDA4ODYxODEsLTExMzQ4NzIyNTAsMTU0NTA4
-OTU1MCwxNjQyMzc5OTk0LC0yMTA2MDg0NDg1LC0xMzQ3NjQzNj
-QxLC0xMzg0NjQ2MzExLC0xMTIxODk4OTgzLDE2ODI5NTQzNzYs
-LTE3MTYyNTg3NTgsLTkwMDM4MTcwLDg2NjE3NTM5MiwtMTY1MD
-Q0ODg2OSwxMTQyOTA2MTUwLDEyODU2MDUyNTMsLTE3NjY5OTU0
-NjEsLTEyOTE1MTcwNzhdfQ==
+eyJoaXN0b3J5IjpbLTE5MzQ4OTMxNDcsMTYzNTgyMDA0NSwxND
+YzOTEyOTIwLC0xMzAwMzk1MjAxLDE1NDA4ODYxODEsLTExMzQ4
+NzIyNTAsMTU0NTA4OTU1MCwxNjQyMzc5OTk0LC0yMTA2MDg0ND
+g1LC0xMzQ3NjQzNjQxLC0xMzg0NjQ2MzExLC0xMTIxODk4OTgz
+LDE2ODI5NTQzNzYsLTE3MTYyNTg3NTgsLTkwMDM4MTcwLDg2Nj
+E3NTM5MiwtMTY1MDQ0ODg2OSwxMTQyOTA2MTUwLDEyODU2MDUy
+NTMsLTE3NjY5OTU0NjFdfQ==
 -->
