@@ -15,7 +15,7 @@
 - [Interferons](/page/covid-review/#interferons)
 - [Host-Targeting Compounds](/page/covid-review/#additional.host-targeting.compounds)
   - [Host Protease Inhibitors](/page/covid-review/#host.protease.inhibitors)
-  - [Additional Host Targeting ](/page/covid-review/#miscellaneous.additional.host.targets)
+  - [Additional Host-Targeting ](/page/covid-review/#miscellaneous.additional.host.targets)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg3MzAxNDZdfQ==
+eyJoaXN0b3J5IjpbLTE2NTM5ODIwMzFdfQ==
 -->
