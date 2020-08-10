@@ -13,9 +13,9 @@
   - [Additional Possible Entry Inhibitors](/page/covid-review/#additional.possible.entry.inhibitors)
 - [Convalescent Plasma](/page/covid-review/#convalescent.plasma)
 - [Interferons](/page/covid-review/#interferons)
-- [Host-Targeting Compounds](/page/covid-review/#additional.host-targeting.compounds)
+- [Host-Targeting Compounds](/page/covid-review/#host-targeting.compounds)
   - [Host Protease Inhibitors](/page/covid-review/#host.protease.inhibitors)
-  - [Additional Host-Targeting ](/page/covid-review/#miscellaneous.additional.host.targets)
+  - [Additional Host-Targeting Compounds](/page/covid-review/#additional.host-targeting.compounds)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM5ODIwMzFdfQ==
+eyJoaXN0b3J5IjpbLTEzMDk0OTU1ODRdfQ==
 -->
