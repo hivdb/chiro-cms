@@ -185,7 +185,7 @@ Two serine protease inhibitors used in Japan for the treatment of pancreatitis a
 
 In Calu-3 lung epithelial cells and Caco-2 cells, camostat inhibited SARS-CoV and SARS-CoV-2 with EC<sub>50</sub>s generally below 1 μM, while the EC<sub>50</sub>s for nafamostat have been about 10 to 100-fold lower. However, the EC<sub>50</sub>s for both drugs against both viruses are considerably higher in Vero cells likely because these cells do not require TMPRSS2 for virus replication[^10.1128/AAC.00819-20][^10.3390/v12060629][^10.26508/lsa.202000786][^10.3390/v12060629][^10.1038/s41586-020-2332-7]. Two studies have reported that aprotonin, a third serine protease inhibitor available in Russia as an aerosol preparation displayed comparable inhibitory activity to camostat[^10.1101/2020.04.03.024257][^PMID32703818]. The FDA approved drug, __alpha-1-antitrypsin (A1AT)__ has also been shown to inhibit TMPRSS2 [^10.1101/2020.05.04.077826]; It is being studied in three clinical trials intravenously and via inhalation.
 
-Camostat mesylate is rapidly converted into its active metabolite GBPA in animals and humans. FOY-251, a methanesulfonate of GBPA has been reported to also inhibit TMPRSS2 but at a somewhat reduced capacity compared with camostat[^10.1101/2020.08.05.237651].
+Camostat mesylate is rapidly converted into its active metabolite GBPA in animals and humans. __FOY-251__, a methanesulfonate of GBPA has been reported to also inhibit TMPRSS2 but at a somewhat reduced capacity compared with camostat[^10.1101/2020.08.05.237651].
 
 Several synthetic furin inhibitors have been shown to inhibit coronaviruses _in vitro_ including MI-1851, which inhibited SARS-CoV-2 alone and synergistically in combination with TMPRSS2 inhibitors[^PMID32703818], while dec-RVKR-CMK, which weakly inhibited MERS-CoV in a pseudovirus entry assay[^10.1073/pnas.1407087111].
 
@@ -516,7 +516,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDYxMjA3NCwxMzc0OTA2NTI0LDE2Mz
+eyJoaXN0b3J5IjpbLTgyMTQyNzE1OCwxMzc0OTA2NTI0LDE2Mz
 U4MjAwNDUsMTQ2MzkxMjkyMCwtMTMwMDM5NTIwMSwxNTQwODg2
 MTgxLC0xMTM0ODcyMjUwLDE1NDUwODk1NTAsMTY0MjM3OTk5NC
 wtMjEwNjA4NDQ4NSwtMTM0NzY0MzY0MSwtMTM4NDY0NjMxMSwt
