@@ -16,6 +16,3 @@
 - [Host-Targeting Compounds](/page/covid-review/#host-targeting.compounds)
   - [Host Protease Inhibitors](/page/covid-review/#host.protease.inhibitors)
   - [Additional Host-Targeting Compounds](/page/covid-review/#additional.host-targeting.compounds)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDk0OTU1ODRdfQ==
--->
