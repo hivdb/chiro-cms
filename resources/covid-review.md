@@ -158,7 +158,7 @@ In an open-label randomized controlled trial of 103 persons with severe or life-
 
 There are currently about 70 ongoing clinical trials of convalescent plasma of which at least 10 are randomized controlled studies.
 
-___Conclusions: Convalescent plasma appears to provide a measureable benefit when it is administered early in the course of disease to patients w. Efficacy also depends on the titer of neutralizing antibodies in the donor sample. However, there is sufficient uncertainty about the clinical efficacy of convalescent plasma in non-severe patients to justify the completion of randomized trials in this population.___
+___Conclusions: Convalescent plasma appears to provide a measurable benefit when it is administered early in the course of disease to patients with severe disease. Efficacy also depends on the titer of neutralizing antibodies in the donor sample. However, there is sufficient uncertainty about the clinical efficacy of convalescent plasma in non-severe patients to justify the completion of randomized trials in this population.___
 
 
 ## Interferons
@@ -519,11 +519,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3NzgxMzQ0LDgwMTk3MTM3NywtMTY1ND
-g1ODI1LC04MjE0MjcxNTgsMTM3NDkwNjUyNCwxNjM1ODIwMDQ1
-LDE0NjM5MTI5MjAsLTEzMDAzOTUyMDEsMTU0MDg4NjE4MSwtMT
-EzNDg3MjI1MCwxNTQ1MDg5NTUwLDE2NDIzNzk5OTQsLTIxMDYw
-ODQ0ODUsLTEzNDc2NDM2NDEsLTEzODQ2NDYzMTEsLTExMjE4OT
-g5ODMsMTY4Mjk1NDM3NiwtMTcxNjI1ODc1OCwtOTAwMzgxNzAs
-ODY2MTc1MzkyXX0=
+eyJoaXN0b3J5IjpbMTE4MjI1Mjc2MCw4MDE5NzEzNzcsLTE2NT
+Q4NTgyNSwtODIxNDI3MTU4LDEzNzQ5MDY1MjQsMTYzNTgyMDA0
+NSwxNDYzOTEyOTIwLC0xMzAwMzk1MjAxLDE1NDA4ODYxODEsLT
+ExMzQ4NzIyNTAsMTU0NTA4OTU1MCwxNjQyMzc5OTk0LC0yMTA2
+MDg0NDg1LC0xMzQ3NjQzNjQxLC0xMzg0NjQ2MzExLC0xMTIxOD
+k4OTgzLDE2ODI5NTQzNzYsLTE3MTYyNTg3NTgsLTkwMDM4MTcw
+LDg2NjE3NTM5Ml19
 -->
