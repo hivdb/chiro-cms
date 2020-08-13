@@ -150,7 +150,7 @@ There are few randomized controlled studies of convalescent plasma for the treat
 
 Two risk-benefit analyses and several experts have argued that the possible large benefit associated with convalescent plasma for SARS-CoV-2 outweighs the small risk of undetected bloodborne infection and allergic reaction[^10.1016/j.tmrv.2020.04.001][^10.1172/JCI138745][^10.1007/s11684-017-0596-6][^10.1172/JCI138003]. According to FDA guidance, the administration of SARS-CoV-2 convalescent plasma must be under an investigational new drug application. Donors must have had resolution of symptoms 28 days before their donation or 14 days before if they have negative nasopharyngeal or blood PCR tests. The recommend neutralizing antibody titers should be 1:160 (minimum >1:80). However, because neutralizing antibodies cannot readily be detected in most laboratories, this requirement is waived provided blood samples can be stored for possible eventual testing. Additionally, the magnitude of SARS-CoV-2 receptor-binding domain antibodies appears to correlate strongly with viral neutralization[^10.1101/2020.05.03.20084442].
 
-Joyner et. al. reported the results of a safety review of the first 5,000 patients receiving convalescent plasma in the U.S. between April 3 and May 11 under the FDA Expanded Access Program[^10.1172/JCI140200]. 81% were classified as having severe or life-threatening diseases and 19% were judged to be at high risk of progressing to severe or life-threatening disease. 66% were in the ICU. 36 (0.72%) had a serious adverse event in the first four hours after transfusion including 25 events considered related to transfusion, including death in 4, transfusion-associated lung injury in 11, circulatory overload in 7, and allergic reaction in 3. Overall, the seven day mortality was 14.9%[^10.1172/JCI140200].
+In a safety review of the first 5,000 patients receiving convalescent plasma in the U.S. between April 3 and May 11 under the FDA Expanded Access Program. 81% were classified as having severe or life-threatening diseases and 19% were judged to be at high risk of progressing to severe or life-threatening disease[^10.1172/JCI140200] . 66% were in the ICU. 36 (0.72%) had a serious adverse event in the first four hours after transfusion including 25 events considered related to transfusion, including death in 4, transfusion-associated lung injury in 11, circulatory overload in 7, and allergic reaction in 3. Overall, the seven day mortality was 14.9%[^10.1172/JCI140200].
 
 In an open-label randomized controlled trial of 103 persons with severe or life-threatening disease, there was no overall difference in the primary endpoint of a 2-point improvement on a 6-point scale by day 28[^10.1001/jama.2020.10044]. However, in the subgroup with severe (but not life-threatening) disease, 21/23 receiving convalescent plasma vs. 15/22 in the control group achieved the primary outcome (p=0.03)[^10.1001/jama.2020.10044]. A similar finding was observed in another observational study of 39 hospitalized patients receiving convalescent plasma in that the risk of dying compared to matched controls was lower among patients not receiving mechanical ventilation (HR=0.19, 95% CI: 0.05-0.72; p=0.02) compared to mechanically ventilated patients (HR=1.24, 95% CI:0.33-4.67)[^10.1101/2020.05.20.20102236]. However, a recent randomized controlled study was terminated prematurely because the enrolling patients had neutralizing antibodies titers that were similar to those of the plasma donors[^10.1101/2020.07.01.20139857].
 
@@ -517,11 +517,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxOTcxMzc3LC0xNjU0ODU4MjUsLTgyMT
-QyNzE1OCwxMzc0OTA2NTI0LDE2MzU4MjAwNDUsMTQ2MzkxMjky
-MCwtMTMwMDM5NTIwMSwxNTQwODg2MTgxLC0xMTM0ODcyMjUwLD
-E1NDUwODk1NTAsMTY0MjM3OTk5NCwtMjEwNjA4NDQ4NSwtMTM0
-NzY0MzY0MSwtMTM4NDY0NjMxMSwtMTEyMTg5ODk4MywxNjgyOT
-U0Mzc2LC0xNzE2MjU4NzU4LC05MDAzODE3MCw4NjYxNzUzOTIs
-LTE2NTA0NDg4NjldfQ==
+eyJoaXN0b3J5IjpbLTcxMjAyMDIwMCw4MDE5NzEzNzcsLTE2NT
+Q4NTgyNSwtODIxNDI3MTU4LDEzNzQ5MDY1MjQsMTYzNTgyMDA0
+NSwxNDYzOTEyOTIwLC0xMzAwMzk1MjAxLDE1NDA4ODYxODEsLT
+ExMzQ4NzIyNTAsMTU0NTA4OTU1MCwxNjQyMzc5OTk0LC0yMTA2
+MDg0NDg1LC0xMzQ3NjQzNjQxLC0xMzg0NjQ2MzExLC0xMTIxOD
+k4OTgzLDE2ODI5NTQzNzYsLTE3MTYyNTg3NTgsLTkwMDM4MTcw
+LDg2NjE3NTM5Ml19
 -->
