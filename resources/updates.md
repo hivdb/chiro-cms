@@ -6,7 +6,7 @@ __AT-527__ is an oral nucleoside analog prodrug of AT-511 which has been studied
 ## Monday August 10
 
 ### DHODH inhibitors
-Dihydroorotate dehydrogenase (DHODH) is an enzyme in the pyrimidine synthesis pathway. DHODH inhibition limits the availability of nucleoside triphosphates required for viral replication. DHODH inhibitors have also been used to treat autoimmune diseases, organ rejection, and cancer. __Leflunomide__ is a licensed drug for the treatment of rheumatoid and psoriatic arthritis. Its active metabolite teriflunomide has been shown to have weak _in vitro_ SARS-CoV-2 activity[^10.1007/s13238-020-00768-w]. It However, several other investigational DHODH inhibitors have exhibited much greater _in vitro_ activity including __PTC299__ which has an EC<sub>50</sub> in the low nanomolar range and a high selectivity index [^10.1007/s13238-020-00768-w][^10.1101/2020.08.05.238394]. PTC299 is an oral drug that is also being developed for oncological indications and has been studied in nine clinical trials in over 300 individuals. A placebo-controlled clinical trial of PTC299 in 380 hospitalized patients with COVID-19 began in July (NCT04439071). 
+Dihydroorotate dehydrogenase (DHODH) is an enzyme in the pyrimidine synthesis pathway. DHODH inhibition limits the availability of nucleoside triphosphates required for viral replication. DHODH inhibitors have also been used to treat autoimmune diseases, organ rejection, and cancer. __Leflunomide__ is a licensed drug for the treatment of rheumatoid and psoriatic arthritis. Its active metabolite teriflunomide has been shown to have weak _in vitro_ SARS-CoV-2 activity[^10.1007/s13238-020-00768-w]. It was shown to reduce virus load and lead to increHowever, several other investigational DHODH inhibitors have exhibited much greater _in vitro_ activity including __PTC299__ which has an EC<sub>50</sub> in the low nanomolar range and a high selectivity index [^10.1007/s13238-020-00768-w][^10.1101/2020.08.05.238394]. PTC299 is an oral drug that is also being developed for oncological indications and has been studied in nine clinical trials in over 300 individuals. A placebo-controlled clinical trial of PTC299 in 380 hospitalized patients with COVID-19 began in July (NCT04439071). 
 
 ### New data on host protease inhibitors
 The FDA approved drug, __alpha-1-antitrypsin (A1AT)__ has also been shown to inhibit TMPRSS2 [^10.1101/2020.05.04.077826]; It is being studied in three clinical trials intravenously and via inhalation.
@@ -24,7 +24,7 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU4Nzc5MjksLTE1NDMzNzUyMDQsLT
-E5MzUxMzk4OTksLTc1MTQxNjM2Miw2MzQ4MTE5NjcsMTYwOTIz
-NDU4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTYxMzE3NTk4LC0xNTQzMzc1MjA0LC0xOT
+M1MTM5ODk5LC03NTE0MTYzNjIsNjM0ODExOTY3LDE2MDkyMzQ1
+OCw3MzA5OTgxMTZdfQ==
 -->
