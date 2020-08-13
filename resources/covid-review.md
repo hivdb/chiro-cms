@@ -46,7 +46,7 @@ __Favipiravir__ (T-705) is a purine analog prodrug that is ribosylated and phosp
 
 The FDA-approved nucleoside analogs sofosbuvir and tenofovir used for the treatment of hepatitis C and HIV-1, respectively, are being studied in several clinical trials. However, they have been shown to have either weak or no clinical activity in vitro[^10.1101/2020.04.29.067983][^10.1101/2020.06.15.153411], while tenofovir has been ineffective in ferrets[^10.1128/mBio.01114-20]. These nucleosides, as well as several others,  have been reported to inhibit SARS-CoV-2 RdRp in biochemical assays in the absence of exonuclease[^10.1101/2020.03.18.997585][^10.1016/j.antiviral.2020.104857] suggesting that their lack of activity in cell culture may result from SARS-CoV-2's proofreading ability. 
 
-AT-527 is an oral prodrug nucleoside analog
+AT-527 is an oral nucleoside analog prodrug of AT-511 which has been studied for the treatment of HCV and has been shown to inhibit 
 Galidesivir (BCX4430) is an adenosine analog that inhibits multiple viruses including filoviruses (Ebola virus and Marburg virus) _in vitro_ and in rodents and cynomolgus macaques[^10.1038/nature13027]. However, it has little, if any _in vitro_ activity against MERS-CoV and SARS-CoV with EC<sub>50</sub> levels of about 60 μM for MERS-CoV and SARS-CoV[^10.1038/nature13027] and of >100 μM for SARS-CoV-2[^10.1016/j.antiviral.2020.104786]. At least seven additional nucleoside analogs have been studied _in vitro_ against SARS-CoV, MERs-CoV, or SARS-CoV-2, including four that are either approved drugs (gemcitabine, mizoribine, or mycophenolate) or being studied in humans (merimepodib) as immunosuppressants or anticancer agents[^10.1099/vir.0.061911-0][^10.1016/j.antiviral.2005.01.003][^10.1128/JVI.00023-19][^10.1101/2020.04.07.028589][^10.1016/j.jinf.2013.09.029].
 
 ___Conclusions: There appears to limited benefit for the use or further study of the nucleoside analogs in this section either because they lack meaningful SARS-CoV-2 inhibitory activity or because they are immunosuppressive.___
@@ -519,11 +519,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjExODA4ODEsLTgyMTQyNzE1OCwxMz
-c0OTA2NTI0LDE2MzU4MjAwNDUsMTQ2MzkxMjkyMCwtMTMwMDM5
-NTIwMSwxNTQwODg2MTgxLC0xMTM0ODcyMjUwLDE1NDUwODk1NT
-AsMTY0MjM3OTk5NCwtMjEwNjA4NDQ4NSwtMTM0NzY0MzY0MSwt
-MTM4NDY0NjMxMSwtMTEyMTg5ODk4MywxNjgyOTU0Mzc2LC0xNz
-E2MjU4NzU4LC05MDAzODE3MCw4NjYxNzUzOTIsLTE2NTA0NDg4
-NjksMTE0MjkwNjE1MF19
+eyJoaXN0b3J5IjpbLTU5ODM5NjgwOCwtODIxNDI3MTU4LDEzNz
+Q5MDY1MjQsMTYzNTgyMDA0NSwxNDYzOTEyOTIwLC0xMzAwMzk1
+MjAxLDE1NDA4ODYxODEsLTExMzQ4NzIyNTAsMTU0NTA4OTU1MC
+wxNjQyMzc5OTk0LC0yMTA2MDg0NDg1LC0xMzQ3NjQzNjQxLC0x
+Mzg0NjQ2MzExLC0xMTIxODk4OTgzLDE2ODI5NTQzNzYsLTE3MT
+YyNTg3NTgsLTkwMDM4MTcwLDg2NjE3NTM5MiwtMTY1MDQ0ODg2
+OSwxMTQyOTA2MTUwXX0=
 -->
