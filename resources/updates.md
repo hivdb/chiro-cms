@@ -1,10 +1,13 @@
 
 
 ## Thursday August 13
+### Convalescent plasma
+Joyner et al published an expanded efficacy analysis of 35,722 hospitalized patients with severe disease in the Expanded Access Program of whom 61% were in the ICU and 33% receiving mechanical ventilation[^10.1101/2020.08.12.20169359]. The 7D mortality was 8.7% [95% CI 8.3%-9.2%] in patients transfused within 3 days of diagnosis but 11.9% [11.4%-12.2%] in patients transfused >=4D (p<0.001). Similar findings observed for 30D mortality (21.6% vs. 26.7%, p<0.0001). 7D mortality was also reduced for those who received plasma with higher SARS-CoV-2 IgG titers[^10.1101/2020.08.12.20169359].
+
+### Nucleoside analogs
 __AT-527__ is an oral nucleoside analog prodrug of AT-511 which has been studied for the treatment of HCV and has been shown to inhibit SARS-CoV-2 in vitro[^10.1101/2020.08.11.242834]. It is being evaluated in a phase II placebo controlled trial of hospitalized patients without severe disease. 
 
 ## Monday August 10
-
 ### DHODH inhibitors
 Dihydroorotate dehydrogenase (DHODH) is an enzyme in the pyrimidine synthesis pathway. DHODH inhibition limits the availability of nucleoside triphosphates required for viral replication. DHODH inhibitors have also been used to treat autoimmune diseases, organ rejection, and cancer. __Leflunomide__ is a licensed drug for the treatment of rheumatoid and psoriatic arthritis. Its active metabolite teriflunomide has been shown to have weak _in vitro_ SARS-CoV-2 activity[^10.1007/s13238-020-00768-w]. Leflunomide was shown to reduce virus load and to increase recovery by day 14 in a clinical trial of 27 patients[^10.1101/2020.05.29.20114223]. Several other investigational DHODH inhibitors have exhibited much greater _in vitro_ activity including __PTC299__ which has an EC<sub>50</sub> in the low nanomolar range and a high selectivity index [^10.1007/s13238-020-00768-w][^10.1101/2020.08.05.238394]. PTC299 is an oral drug that is also being developed for oncological indications and has been studied in nine clinical trials in over 300 individuals. A placebo-controlled clinical trial of PTC299 in 380 hospitalized patients with COVID-19 began in July (NCT04439071). __IMU-838__ and __brequinar__ are two other compounds acting by this mechanism. 
 
@@ -24,7 +27,7 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQyMTc5MjksLTE1NDMzNzUyMDQsLT
-E5MzUxMzk4OTksLTc1MTQxNjM2Miw2MzQ4MTE5NjcsMTYwOTIz
-NDU4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNjQxODYxODMzLC0xNDE0MjE3OTI5LC0xNT
+QzMzc1MjA0LC0xOTM1MTM5ODk5LC03NTE0MTYzNjIsNjM0ODEx
+OTY3LDE2MDkyMzQ1OCw3MzA5OTgxMTZdfQ==
 -->
