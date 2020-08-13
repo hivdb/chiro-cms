@@ -1,4 +1,8 @@
 
+
+## Thursday August 13
+__AT-527__ is an oral nucleoside analog prodrug of AT-511 which has been studied for the treatment of HCV and has been shown to inhibit SARS-CoV-2 in vitro[^10.1101/2020.08.11.242834]. It is being evaluated in a phase II placebo controlled trial of hospitalized patients without severe disease. 
+
 ## Monday August 10
 
 ### Two new host-targeting drugs / mechanisms of action
@@ -11,7 +15,7 @@ The FDA approved drug, __alpha-1-antitrypsin (A1AT)__ has also been shown to inh
 
 Camostat mesylate is rapidly converted into its active metabolite GBPA in animals and humans. __FOY-251__, a methanesulfonate of GBPA has been reported to also inhibit TMPRSS2 but at a somewhat reduced capacity compared with camostat[^10.1101/2020.08.05.237651].
 
-### New synthesis on chloroquine analogs including explanations for their lack of clinical efficacy
+### Updated synthesis on chloroquine (CQ) and hydroxychloroquine (HCQ) 
 However, two large blinded and three large open-label randomized control trials totaling more than 6,000 patients failed to show any clinical or virological benefit from the use of hydroxychloroquine[^10.1101/2020.07.15.20151852][^10.7326/M20-4207][^10.1056/NEJMoa2019014][^10.1101/2020.04.10.20060558][^10.1093/cid/ciaa1009]. Two additional randomized controlled studies totaling more than 3,000 patients failed to show a reduction in the risk of infection among exposed patients receiving HCQ[^10.1101/2020.07.20.20157651][^10.1056/NEJMoa2016638].  The lack of efficacy likely reflects the fact that  at standard dosages, CQ and HCQ do not achieve sufficiently high inhibitory drug levels[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1002/cpt.1909] and because cytoplasmic entry of SARS-CoV-2 appears to be dependent primarily on the membrane based enzyme TMPRSS2 rather than on endosomal fusion and acidification[^10.1101/2020.07.22.216150].
 
 ### Talk on remdesivir and other polymerase inhibitors 
@@ -22,7 +26,7 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDMzNzUyMDQsLTE5MzUxMzk4OTksLT
-c1MTQxNjM2Miw2MzQ4MTE5NjcsMTYwOTIzNDU4LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTIxNDQyOTUzOTAsLTE1NDMzNzUyMDQsLT
+E5MzUxMzk4OTksLTc1MTQxNjM2Miw2MzQ4MTE5NjcsMTYwOTIz
+NDU4LDczMDk5ODExNl19
 -->
