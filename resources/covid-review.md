@@ -156,9 +156,9 @@ Joyner et al published an expanded efficacy analysis of 35,722 hospitalized pati
 
 In an open-label randomized controlled trial of 103 persons with severe or life-threatening disease, there was no overall difference in the primary endpoint of a 2-point improvement on a 6-point scale by day 28[^10.1001/jama.2020.10044]. However, in the subgroup with severe (but not life-threatening) disease, 21/23 receiving convalescent plasma vs. 15/22 in the control group achieved the primary outcome (p=0.03)[^10.1001/jama.2020.10044]. A similar finding was observed in another observational study of 39 hospitalized patients receiving convalescent plasma in that the risk of dying compared to matched controls was lower among patients not receiving mechanical ventilation (HR=0.19, 95% CI: 0.05-0.72; p=0.02) compared to mechanically ventilated patients (HR=1.24, 95% CI:0.33-4.67)[^10.1101/2020.05.20.20102236]. However, a recent randomized controlled study was terminated prematurely because the enrolling patients had neutralizing antibodies titers that were similar to those of the plasma donors[^10.1101/2020.07.01.20139857].
 
-Convalescent plasma appears to be most useful when administered early and when the plasma containThere are currently about 70 ongoing clinical trials of convalescent plasma of which at least 10 are randomized controlled studies.
+There are currently about 70 ongoing clinical trials of convalescent plasma of which at least 10 are randomized controlled studies.
 
-___Conclusions: If convalescent plasma is efficacious, it is likely to be more useful early in the course of disease. Efficacy may also depend on the titer of neutralizing antibodies in the donor sample. However, there is sufficient uncertainty about the clinical efficacy of convalescent plasma to justify the completion of the ongoing randomized trials.___
+___Conclusions: Convalescent plasma appears to provide a measureable benefit when iearly in the course of disease. Efficacy may also depend on the titer of neutralizing antibodies in the donor sample. However, there is sufficient uncertainty about the clinical efficacy of convalescent plasma to justify the completion of the ongoing randomized trials.___
 
 
 ## Interferons
@@ -519,11 +519,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjE4MjE4MSw4MDE5NzEzNzcsLTE2NT
-Q4NTgyNSwtODIxNDI3MTU4LDEzNzQ5MDY1MjQsMTYzNTgyMDA0
-NSwxNDYzOTEyOTIwLC0xMzAwMzk1MjAxLDE1NDA4ODYxODEsLT
-ExMzQ4NzIyNTAsMTU0NTA4OTU1MCwxNjQyMzc5OTk0LC0yMTA2
-MDg0NDg1LC0xMzQ3NjQzNjQxLC0xMzg0NjQ2MzExLC0xMTIxOD
-k4OTgzLDE2ODI5NTQzNzYsLTE3MTYyNTg3NTgsLTkwMDM4MTcw
-LDg2NjE3NTM5Ml19
+eyJoaXN0b3J5IjpbLTE3MjcwNDE4NTIsODAxOTcxMzc3LC0xNj
+U0ODU4MjUsLTgyMTQyNzE1OCwxMzc0OTA2NTI0LDE2MzU4MjAw
+NDUsMTQ2MzkxMjkyMCwtMTMwMDM5NTIwMSwxNTQwODg2MTgxLC
+0xMTM0ODcyMjUwLDE1NDUwODk1NTAsMTY0MjM3OTk5NCwtMjEw
+NjA4NDQ4NSwtMTM0NzY0MzY0MSwtMTM4NDY0NjMxMSwtMTEyMT
+g5ODk4MywxNjgyOTU0Mzc2LC0xNzE2MjU4NzU4LC05MDAzODE3
+MCw4NjYxNzUzOTJdfQ==
 -->
