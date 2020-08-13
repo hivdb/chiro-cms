@@ -4,6 +4,8 @@
 ### Convalescent plasma
 Joyner et al published an expanded efficacy analysis of 35,722 hospitalized patients with severe disease in the Expanded Access Program of whom 61% were in the ICU and 33% receiving mechanical ventilation[^10.1101/2020.08.12.20169359]. The 7D mortality was 8.7% [95% CI 8.3%-9.2%] in patients transfused within 3 days of diagnosis but 11.9% [11.4%-12.2%] in patients transfused >=4D (p<0.001). Similar findings observed for 30D mortality (21.6% vs. 26.7%, p<0.0001). 7D mortality was also reduced for those who received plasma with higher SARS-CoV-2 IgG titers[^10.1101/2020.08.12.20169359].
 
+Updated conclusion: Convalescent plasma appears to provide a measurable benefit when it is administered early in the course of disease to patients with severe disease. Efficacy also depends on the titer of neutralizing antibodies in the donor sample. However, there is sufficient uncertainty about the clinical efficacy of convalescent plasma in non-severe patients to justify the completion of randomized trials in this population.
+
 ### Nucleoside analogs
 __AT-527__ is an oral nucleoside analog prodrug of AT-511 which has been studied for the treatment of HCV and has been shown to inhibit SARS-CoV-2 in vitro[^10.1101/2020.08.11.242834]. It is being evaluated in a phase II placebo controlled trial of hospitalized patients without severe disease. 
 
@@ -27,7 +29,7 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxODYxODMzLC0xNDE0MjE3OTI5LC0xNT
-QzMzc1MjA0LC0xOTM1MTM5ODk5LC03NTE0MTYzNjIsNjM0ODEx
-OTY3LDE2MDkyMzQ1OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE3MjU1MjIzNTUsLTE0MTQyMTc5MjksLT
+E1NDMzNzUyMDQsLTE5MzUxMzk4OTksLTc1MTQxNjM2Miw2MzQ4
+MTE5NjcsMTYwOTIzNDU4LDczMDk5ODExNl19
 -->
