@@ -46,10 +46,8 @@ __Favipiravir__ (T-705) is a purine analog prodrug that is ribosylated and phosp
 
 The FDA-approved nucleoside analogs sofosbuvir and tenofovir used for the treatment of hepatitis C and HIV-1, respectively, are being studied in several clinical trials. However, they have been shown to have either weak or no clinical activity in vitro[^10.1101/2020.04.29.067983][^10.1101/2020.06.15.153411], while tenofovir has been ineffective in ferrets[^10.1128/mBio.01114-20]. These nucleosides, as well as several others,  have been reported to inhibit SARS-CoV-2 RdRp in biochemical assays in the absence of exonuclease[^10.1101/2020.03.18.997585][^10.1016/j.antiviral.2020.104857] suggesting that their lack of activity in cell culture may result from SARS-CoV-2's proofreading ability. 
 
-AT-527 is an oral nucleoside analog prodrug of AT-511 which has been studied for the treatment of HCV and has been shown to inhibit SARS-CoV-2 in vitro[^10.1101/2020.08.11.242834]. It is being evaluated in a phase II placebo controlled trial of hospitalized patients without severe disease. 
+__AT-527__ is an oral nucleoside analog prodrug of AT-511 which has been studied for the treatment of HCV and has been shown to inhibit SARS-CoV-2 in vitro[^10.1101/2020.08.11.242834]. It is being evaluated in a phase II placebo controlled trial of hospitalized patients without severe disease. 
 Galidesivir (BCX4430) is an adenosine analog that inhibits multiple viruses including filoviruses (Ebola virus and Marburg virus) _in vitro_ and in rodents and cynomolgus macaques[^10.1038/nature13027]. However, it has little, if any _in vitro_ activity against MERS-CoV, SARS-CoV, and SARS-CoV-2[^10.1038/nature13027][^10.1016/j.antiviral.2020.104786]. At least seven additional nucleoside analogs have been studied _in vitro_ against SARS-CoV, MERs-CoV, or SARS-CoV-2, including four that are either approved drugs (gemcitabine, mizoribine, or mycophenolate) or being studied in humans (merimepodib) as immunosuppressants or anticancer agents[^10.1099/vir.0.061911-0][^10.1016/j.antiviral.2005.01.003][^10.1128/JVI.00023-19][^10.1101/2020.04.07.028589][^10.1016/j.jinf.2013.09.029].
-
-___Conclusions: There appears to limited benefit for the use or further study of the nucleoside analogs in this section either because they lack meaningful SARS-CoV-2 inhibitory activity or because they are immunosuppressive.___
 
 ## Protease Inhibitors
 Coronaviruses contain two protease enzymes: 3 chymotrypsin-like cysteine protease (3CLpro or Main \[M\]-pro; non-structural protein 5 \[nsp5\]) and papain-like serine protease (PLpro; nsp3)[^10.1002/cmdc.202000223]. 3CLpro cleaves polyprotein 1a/b at 11 sites. It is conserved among several families of RNA viruses and has similar cleavage site specificity to the picornavirus family of 3C proteases. 3CLpro contains 306 amino acids and functions as a homodimer. PLpro is part of a large multidomain transmembrane protein. It cleaves polyprotein 1a/b at the nsp1/2, nsp2/3, and nsp3/4 boundaries and also cleaves host proteins important for innate immunity such as ubiquitin interferon-stimulated gene product 15 (ISG-15). The 3D structure of SARS-CoV-2 3CLpro[^10.1038/s41586-020-2223-y][^10.1126/science.abb3405] and [PLpro](https://www.wwpdb.org/pdb?id=pdb_00006w9c) have been solved and are available for structure-based drug design.
@@ -519,7 +517,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1101/2020.06.06.20124461]: Rajter JC, Sherman M, et int., Rajter J. "ICON (Ivermectin in COvid Nineteen) study: Use of Ivermectin is Associated with Lower Mortality in Hospitalized Patients with COVID19" _medRxiv_, 2020. [10.1101/2020.06.06.20124461](https://doi.org/10.1101/2020.06.06.20124461)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjUzOTk3MiwtODIxNDI3MTU4LDEzNz
+eyJoaXN0b3J5IjpbLTE2NTQ4NTgyNSwtODIxNDI3MTU4LDEzNz
 Q5MDY1MjQsMTYzNTgyMDA0NSwxNDYzOTEyOTIwLC0xMzAwMzk1
 MjAxLDE1NDA4ODYxODEsLTExMzQ4NzIyNTAsMTU0NTA4OTU1MC
 wxNjQyMzc5OTk0LC0yMTA2MDg0NDg1LC0xMzQ3NjQzNjQxLC0x
