@@ -5,5 +5,7 @@ banner:
   subtitle: A narrative summary of the purpose and contents of this database.
   menuContent:
     _resource: home-banner-menu.md
+updates:
+  _resource: updates.md
 missionStatement:
   _resource: mission-statement.md
