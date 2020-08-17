@@ -2,7 +2,7 @@
 ## Talk on remdesivir and other polymerase inhibitors 
 
 
-## Published 
+## Published preprints (August 10-August 17)
 
 
 ## Thursday August 13
@@ -34,7 +34,7 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDU5OTQzOSwtMTM5MzEzODY4MCwtMT
+eyJoaXN0b3J5IjpbLTQ5ODI3NjAxOSwtMTM5MzEzODY4MCwtMT
 cyNTUyMjM1NSwtMTQxNDIxNzkyOSwtMTU0MzM3NTIwNCwtMTkz
 NTEzOTg5OSwtNzUxNDE2MzYyLDYzNDgxMTk2NywxNjA5MjM0NT
 gsNzMwOTk4MTE2XX0=
