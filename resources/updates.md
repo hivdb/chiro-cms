@@ -1,4 +1,9 @@
 
+## Talk on remdesivir and other polymerase inhibitors 
+
+
+## Published 
+
 
 ## Thursday August 13
 ### Convalescent plasma
@@ -21,7 +26,7 @@ Camostat mesylate is rapidly converted into its active metabolite GBPA in animal
 ### Updated synthesis on chloroquine (CQ) and hydroxychloroquine (HCQ) 
 However, two large blinded and three large open-label randomized control trials totaling more than 6,000 patients failed to show any clinical or virological benefit from the use of hydroxychloroquine[^10.1101/2020.07.15.20151852][^10.7326/M20-4207][^10.1056/NEJMoa2019014][^10.1101/2020.04.10.20060558][^10.1093/cid/ciaa1009]. Two additional randomized controlled studies totaling more than 3,000 patients failed to show a reduction in the risk of infection among exposed patients receiving HCQ[^10.1101/2020.07.20.20157651][^10.1056/NEJMoa2016638].  The lack of efficacy likely reflects the fact that  at standard dosages, CQ and HCQ do not achieve sufficiently high inhibitory drug levels[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1002/cpt.1909] and because cytoplasmic entry of SARS-CoV-2 appears to be dependent primarily on the membrane based enzyme TMPRSS2 rather than on endosomal fusion and acidification[^10.1101/2020.07.22.216150].
 
-### Talk on remdesivir and other polymerase inhibitors 
+
 
 
 
@@ -29,8 +34,8 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTMxMzg2ODAsLTE3MjU1MjIzNTUsLT
-E0MTQyMTc5MjksLTE1NDMzNzUyMDQsLTE5MzUxMzk4OTksLTc1
-MTQxNjM2Miw2MzQ4MTE5NjcsMTYwOTIzNDU4LDczMDk5ODExNl
-19
+eyJoaXN0b3J5IjpbLTI0MDU5OTQzOSwtMTM5MzEzODY4MCwtMT
+cyNTUyMjM1NSwtMTQxNDIxNzkyOSwtMTU0MzM3NTIwNCwtMTkz
+NTEzOTg5OSwtNzUxNDE2MzYyLDYzNDgxMTk2NywxNjA5MjM0NT
+gsNzMwOTk4MTE2XX0=
 -->
