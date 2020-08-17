@@ -1,7 +1,7 @@
 
 ### Talk on remdesivir and other polymerase inhibitors
 
-![Talk on remdesivir and other polymerase inhibitors](https://www.youtube.com/watch?v=bp2gMbB5T2w#!width=32vh&height=18vh)
+SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University: https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044
 
 
 ### Published preprints (August 10-August 17)
