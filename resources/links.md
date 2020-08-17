@@ -116,7 +116,7 @@
 [https://blogs.sciencemag.org/pipeline/](https://blogs.sciencemag.org/pipeline/)
 
 ### Antibodies
-- Coronavirus antibody da
+- Coronavirus antibody database
 [http://opig.stats.ox.ac.uk/webapps/covabdab/](http://opig.stats.ox.ac.uk/webapps/covabdab/)
 
 
@@ -128,11 +128,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk0NTY3MDMsMTY5MzI0Mzc0MiwtMT
-MwODY3NTMsLTE2Mjk3MjM0MTQsLTIwMjY3NjA1MTEsNDc3MjQ2
-MTA2LDEzMTQ3ODI4NzYsLTgxOTIxMTIxOCw5NTE4NzY3MTYsLT
-EzMDAwMjM3OTYsMzEwNTgwOTIyLC0xMDgzNzQwOTg3LDg0NjY0
-ODE2NiwtMTk2NDg3NDQwNSwtMzMxMzcwNDQzLC0xNjA3MjY1ND
-Y1LDEwOTM1MjE0MDgsLTEzNzk5MDI4OTYsNTU4NDYyNTUzLC0x
-MDU1NjUyODcyXX0=
+eyJoaXN0b3J5IjpbMTU3MTgwNDE2MywxNjkzMjQzNzQyLC0xMz
+A4Njc1MywtMTYyOTcyMzQxNCwtMjAyNjc2MDUxMSw0NzcyNDYx
+MDYsMTMxNDc4Mjg3NiwtODE5MjExMjE4LDk1MTg3NjcxNiwtMT
+MwMDAyMzc5NiwzMTA1ODA5MjIsLTEwODM3NDA5ODcsODQ2NjQ4
+MTY2LC0xOTY0ODc0NDA1LC0zMzEzNzA0NDMsLTE2MDcyNjU0Nj
+UsMTA5MzUyMTQwOCwtMTM3OTkwMjg5Niw1NTg0NjI1NTMsLTEw
+NTU2NTI4NzJdfQ==
 -->
