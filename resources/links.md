@@ -38,6 +38,7 @@
 [https://covid-nma.com/](https://covid-nma.com/)
  
 ### Treatment trackers
+- Reagan-Udall Foundation for the 
 [https://covid19.reaganudall.org/companies-developing-covid-19-therapies](https://covid19.reaganudall.org/companies-developing-covid-19-therapies)
 - STAT's Drug and Vaccine Tracker:
  [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
@@ -131,11 +132,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjE2ODI0LDE1NzE4MDQxNjMsMTY5Mz
-I0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3MjM0MTQsLTIwMjY3NjA1
-MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgxOTIxMTIxOCw5NT
-E4NzY3MTYsLTEzMDAwMjM3OTYsMzEwNTgwOTIyLC0xMDgzNzQw
-OTg3LDg0NjY0ODE2NiwtMTk2NDg3NDQwNSwtMzMxMzcwNDQzLC
-0xNjA3MjY1NDY1LDEwOTM1MjE0MDgsLTEzNzk5MDI4OTYsNTU4
-NDYyNTUzXX0=
+eyJoaXN0b3J5IjpbLTE3MDAwNDA2MzUsMTU3MTgwNDE2MywxNj
+kzMjQzNzQyLC0xMzA4Njc1MywtMTYyOTcyMzQxNCwtMjAyNjc2
+MDUxMSw0NzcyNDYxMDYsMTMxNDc4Mjg3NiwtODE5MjExMjE4LD
+k1MTg3NjcxNiwtMTMwMDAyMzc5NiwzMTA1ODA5MjIsLTEwODM3
+NDA5ODcsODQ2NjQ4MTY2LC0xOTY0ODc0NDA1LC0zMzEzNzA0ND
+MsLTE2MDcyNjU0NjUsMTA5MzUyMTQwOCwtMTM3OTkwMjg5Niw1
+NTg0NjI1NTNdfQ==
 -->
