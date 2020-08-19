@@ -27,8 +27,7 @@
 [https://inato.com/](https://inato.com/)
 - Global Coronavirus COVID-19 Clinical Trial Tracker
 [https://www.covid-trials.org/](https://www.covid-trials.org/)
-- STAT's Drug and Vaccine Tracker:
- [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
+
 - Covid evidence: 
 [https://covid-evidence.org/](https://covid-evidence.org/)
 - Meta evidence:
@@ -38,7 +37,11 @@
 - Systematic reviews:
 [https://covid-nma.com/](https://covid-nma.com/)
  
-
+### Treatment trackers
+[https://covid19.reaganudall.org/companies-developing-covid-19-therapies](https://covid19.reaganudall.org/companies-developing-covid-19-therapies)
+- STAT's Drug and Vaccine Tracker:
+ [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
+ 
 ### Sequences
 - Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
 - GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
@@ -128,11 +131,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTgwNDE2MywxNjkzMjQzNzQyLC0xMz
-A4Njc1MywtMTYyOTcyMzQxNCwtMjAyNjc2MDUxMSw0NzcyNDYx
-MDYsMTMxNDc4Mjg3NiwtODE5MjExMjE4LDk1MTg3NjcxNiwtMT
-MwMDAyMzc5NiwzMTA1ODA5MjIsLTEwODM3NDA5ODcsODQ2NjQ4
-MTY2LC0xOTY0ODc0NDA1LC0zMzEzNzA0NDMsLTE2MDcyNjU0Nj
-UsMTA5MzUyMTQwOCwtMTM3OTkwMjg5Niw1NTg0NjI1NTMsLTEw
-NTU2NTI4NzJdfQ==
+eyJoaXN0b3J5IjpbLTkwMjE2ODI0LDE1NzE4MDQxNjMsMTY5Mz
+I0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3MjM0MTQsLTIwMjY3NjA1
+MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgxOTIxMTIxOCw5NT
+E4NzY3MTYsLTEzMDAwMjM3OTYsMzEwNTgwOTIyLC0xMDgzNzQw
+OTg3LDg0NjY0ODE2NiwtMTk2NDg3NDQwNSwtMzMxMzcwNDQzLC
+0xNjA3MjY1NDY1LDEwOTM1MjE0MDgsLTEzNzk5MDI4OTYsNTU4
+NDYyNTUzXX0=
 -->
