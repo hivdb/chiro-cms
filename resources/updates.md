@@ -15,6 +15,10 @@ SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 20
 - Wan J, Xing S, et int., and Lan F. “Human-IgG-Neutralizing Monoclonal Antibodies Block the SARS-CoV-2 Infection.” Cell Reports, [2020. doi.org/10.1016/j.celrep.2020.107918](https://doi.org/10.1016/j.celrep.2020.107918). [PubMed32668215](https://www.ncbi.nlm.nih.gov/pubmed/32668215/) [PMC7332464](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332464/)
 - Zost SJ, Gilchuk P, et int., and Crowe JE. “Potently neutralizing and protective human antibodies against SARS-CoV-2.” Nature, 2020. [doi.org/10.1038/s41586-020-2548-6](https://doi.org/10.1038/s41586-020-2548-6). [PubMed32668443](https://www.ncbi.nlm.nih.gov/pubmed/32668443/)
 
+### New clinical trials
+
+- [New clinical trials](https://covdb.stanford.edu/clinical-trials/?fromDate=2020-08-13)
+
 ### Thursday August 13
 #### Convalescent plasma
 Joyner et al published an expanded efficacy analysis of 35,722 hospitalized patients with severe disease in the Expanded Access Program of whom 61% were in the ICU and 33% receiving mechanical ventilation[^10.1101/2020.08.12.20169359]. The 7D mortality was 8.7% \[95% CI 8.3%-9.2%\] in patients transfused within 3 days of diagnosis but 11.9% \[11.4%-12.2%\] in patients transfused >=4D (p<0.001). Similar findings observed for 30D mortality (21.6% vs. 26.7%, p<0.0001). 7D mortality was also reduced for those who received plasma with higher SARS-CoV-2 IgG titers[^10.1101/2020.08.12.20169359].
