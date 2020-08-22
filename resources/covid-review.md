@@ -20,7 +20,7 @@ The NIH Adaptive Trial was the pivotal trial leading to the remdesivir __FDA Eme
 
 The phase Chinese placebo-controlled trial was discontinued prematurely after recruiting 237 (rather than the planned 453 patients) because of the reduction in new SARS-CoV-2 infections. Patients were randomized 2:1 to receive remdesivir or placebo. Although not statistically significant, patients receiving remdesivir had a faster time to clinical improvement than those receiving placebo (median 18 days \[IQR 12–28\] vs 23 days \[15–28\]; HR 1.52 \[0.95–2.43\]. The 28-day mortality was similar in both groups (14% for remdesivir and 13% for placebo). There was no difference in the rates of decline of nasopharyngeal viral RNA levels between the two groups. Adverse events leading to treatment discontinuation were 12% in the remdesivir group and 5% in the placebo group[^10.1016/S0140-6736(20)31022-9].
 
-The randomized controlled open-label Gilead SIMPLE-moderate trial enrolled 596 hospitalized persons with radiographic evidence of pneumonia with oxygen saturations >94% on room air and randomized them 1:1:1 to remdesivir for 10 days, remdesivir for 5 days, or standard of care. Approximately 15% overall were receiving corticosteroids. The primary endpoints were the distribution of clinical status on a 7-point ordinal scale and the proportion with adverse events throughout the study. Due to logistical issues, virological data were limited and not presented. Most patients in the 10D arm did not complete their course of therapy because they were discharged,
+The randomized controlled open-label Gilead SIMPLE-moderate trial enrolled 596 hospitalized persons with radiographic evidence of pneumonia with oxygen saturations >94% on room air and randomized them 1:1:1 to remdesivir for 10 days, remdesivir for 5 days, or standard of care[^10.1001/jama.2020.16349]. Approximately 15% were receiving low-flow O2; 85% did not require O2 supplementation. Approximately 45% in the SOC care group vs. 10% in the remdesivir groups were receiving a chloroquine analog. Approximately 15% overall were receiving corticosteroids. The primary endpoints were the distribution of clinical status on a 7-point ordinal scale and the proportion with adverse events throughout the study. Due to logistical issues, virological data were limited and not presented. Most patients in the 10D arm did not complete their course of therapy because they were discharged,
 
 The Gilead SIMPLE-Severe trial enrolled 397 persons with radiographic evidence of pneumonia who were receiving supplemental oxygen or had an oxygen saturation <=94% on room air. In an unadjusted analysis, there was an improvement of 2 points along a 7-point ordinal scale by day 14 in 64% of those receiving treatment for 5 days and 54% in those receiving treatment for 10 days. However, after adjustment for baseline variables, which were somewhat worse in the 10 day group, the study concluded that there was no difference between the two groups in the time to a 2 point clinical improvement by day 14.
 
@@ -525,11 +525,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODM5OTQzNywtMTEwMTgxMjk5NSwxMT
-gyMjUyNzYwLDgwMTk3MTM3NywtMTY1NDg1ODI1LC04MjE0Mjcx
-NTgsMTM3NDkwNjUyNCwxNjM1ODIwMDQ1LDE0NjM5MTI5MjAsLT
-EzMDAzOTUyMDEsMTU0MDg4NjE4MSwtMTEzNDg3MjI1MCwxNTQ1
-MDg5NTUwLDE2NDIzNzk5OTQsLTIxMDYwODQ0ODUsLTEzNDc2ND
-M2NDEsLTEzODQ2NDYzMTEsLTExMjE4OTg5ODMsMTY4Mjk1NDM3
-NiwtMTcxNjI1ODc1OF19
+eyJoaXN0b3J5IjpbLTIwODk1NjA3MTksLTExMDE4MTI5OTUsMT
+E4MjI1Mjc2MCw4MDE5NzEzNzcsLTE2NTQ4NTgyNSwtODIxNDI3
+MTU4LDEzNzQ5MDY1MjQsMTYzNTgyMDA0NSwxNDYzOTEyOTIwLC
+0xMzAwMzk1MjAxLDE1NDA4ODYxODEsLTExMzQ4NzIyNTAsMTU0
+NTA4OTU1MCwxNjQyMzc5OTk0LC0yMTA2MDg0NDg1LC0xMzQ3Nj
+QzNjQxLC0xMzg0NjQ2MzExLC0xMTIxODk4OTgzLDE2ODI5NTQz
+NzYsLTE3MTYyNTg3NThdfQ==
 -->
