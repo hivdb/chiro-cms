@@ -20,7 +20,9 @@ The NIH Adaptive Trial was the pivotal trial leading to the remdesivir __FDA Eme
 
 The phase Chinese placebo-controlled trial was discontinued prematurely after recruiting 237 (rather than the planned 453 patients) because of the reduction in new SARS-CoV-2 infections. Patients were randomized 2:1 to receive remdesivir or placebo. Although not statistically significant, patients receiving remdesivir had a faster time to clinical improvement than those receiving placebo (median 18 days \[IQR 12–28\] vs 23 days \[15–28\]; HR 1.52 \[0.95–2.43\]. The 28-day mortality was similar in both groups (14% for remdesivir and 13% for placebo). There was no difference in the rates of decline of nasopharyngeal viral RNA levels between the two groups. Adverse events leading to treatment discontinuation were 12% in the remdesivir group and 5% in the placebo group[^10.1016/S0140-6736(20)31022-9].
 
-The Gilead SIMPLE-Severe trial enrolled 397 persons with radiographic evidence of pneumonia who were receiving supplemental oxygen or had an oxygen saturation <=94% on room air. In an unadjusted analysis, there was an improvement of 2 points along a 7-point ordinal scale by day 14 in 64% of those receiving treatment for 5 days and 54% in those receiving treatment for 10 days. However, after adjustment for baseline variables, which were somewhat worse in the 10 day group,  the study concluded that there was no difference between the two groups in the time to a 2 point clinical improvement by day 14.
+The Gilead 
+
+The Gilead SIMPLE-Severe trial enrolled 397 persons with radiographic evidence of pneumonia who were receiving supplemental oxygen or had an oxygen saturation <=94% on room air. In an unadjusted analysis, there was an improvement of 2 points along a 7-point ordinal scale by day 14 in 64% of those receiving treatment for 5 days and 54% in those receiving treatment for 10 days. However, after adjustment for baseline variables, which were somewhat worse in the 10 day group, the study concluded that there was no difference between the two groups in the time to a 2 point clinical improvement by day 14.
 
 It has been difficult to distinguish possible remdesivir adverse effects with those of COVID-19 disease. Gastrointestinal symptoms and transaminase elevations appear to the most common adverse effects. Thrombocytopenia and elevations in prothrombin time may also be related to remdesivir. Hypotension and hypersensitivity reactions have been rare. The RDV formulation contains a cyclodextrin-based solubility enhancer which would be expected to increase plasma exposure in patients with renal impairment. However, remdesivir does not appear to be associated with an increased risk of acute kidney injury and there are no recommendations for dose adjustments in those with an eGFR above 30. Although remdesivir is a CYP450 substrate, there have not yet been convincing reports of drug interactions - although this has not been systematically studied. Gilead Sciences recommends against co-administration with rifampin (presumably because of the CYP450 metabolism) or hydroxychloroquine as there are some data suggesting that chloroquine analogs reduce remdesivir efficacy.
 
@@ -372,7 +374,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1016/j.antiviral.2020.104792]: Tang T, Bidon M, et int., Daniel S. "Coronavirus membrane fusion mechanism offers as a potential target for antiviral development" _Antiviral Res._, 2020. [10.1016/j.antiviral.2020.104792](https://doi.org/10.1016/j.antiviral.2020.104792)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
 [^10.1128/JVI.01697-07]: Ujike M, Nishikawa H, et int., Taguchi F. "Heptad Repeat-Derived Peptides Block Protease-Mediated Direct Entry from the Cell Surface of Severe Acute Respiratory Syndrome Coronavirus but Not Entry via the Endosomal Pathway" _Journal of Virology_, 2008. [10.1128/JVI.01697-07](https://doi.org/10.1128/JVI.01697-07)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -523,11 +525,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE4MTI5OTUsMTE4MjI1Mjc2MCw4MD
-E5NzEzNzcsLTE2NTQ4NTgyNSwtODIxNDI3MTU4LDEzNzQ5MDY1
-MjQsMTYzNTgyMDA0NSwxNDYzOTEyOTIwLC0xMzAwMzk1MjAxLD
-E1NDA4ODYxODEsLTExMzQ4NzIyNTAsMTU0NTA4OTU1MCwxNjQy
-Mzc5OTk0LC0yMTA2MDg0NDg1LC0xMzQ3NjQzNjQxLC0xMzg0Nj
-Q2MzExLC0xMTIxODk4OTgzLDE2ODI5NTQzNzYsLTE3MTYyNTg3
-NTgsLTkwMDM4MTcwXX0=
+eyJoaXN0b3J5IjpbMTgwMzc4MTE1MSwtMTEwMTgxMjk5NSwxMT
+gyMjUyNzYwLDgwMTk3MTM3NywtMTY1NDg1ODI1LC04MjE0Mjcx
+NTgsMTM3NDkwNjUyNCwxNjM1ODIwMDQ1LDE0NjM5MTI5MjAsLT
+EzMDAzOTUyMDEsMTU0MDg4NjE4MSwtMTEzNDg3MjI1MCwxNTQ1
+MDg5NTUwLDE2NDIzNzk5OTQsLTIxMDYwODQ0ODUsLTEzNDc2ND
+M2NDEsLTEzODQ2NDYzMTEsLTExMjE4OTg5ODMsMTY4Mjk1NDM3
+NiwtMTcxNjI1ODc1OF19
 -->
