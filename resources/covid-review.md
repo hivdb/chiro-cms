@@ -20,7 +20,7 @@ The NIH Adaptive Trial was the pivotal trial leading to the remdesivir __FDA Eme
 
 The phase Chinese placebo-controlled trial was discontinued prematurely after recruiting 237 (rather than the planned 453 patients) because of the reduction in new SARS-CoV-2 infections. Patients were randomized 2:1 to receive remdesivir or placebo. Although not statistically significant, patients receiving remdesivir had a faster time to clinical improvement than those receiving placebo (median 18 days \[IQR 12–28\] vs 23 days \[15–28\]; HR 1.52 \[0.95–2.43\]. The 28-day mortality was similar in both groups (14% for remdesivir and 13% for placebo). There was no difference in the rates of decline of nasopharyngeal viral RNA levels between the two groups. Adverse events leading to treatment discontinuation were 12% in the remdesivir group and 5% in the placebo group[^10.1016/S0140-6736(20)31022-9].
 
-The Gilead SIMPLE-moderate trial enrolled 596 persons with radiographic evidence of pneumonia with oxygen saturations >94% on room air.
+The randomized controlled open-label Gilead SIMPLE-moderate trial enrolled 596 hospitalized persons with radiographic evidence of pneumonia with oxygen saturations >94% on room air and randomized them 1:1:1 to remdesivir for 10 days, remdesivir for 5 days, or standard of care.
 
 The Gilead SIMPLE-Severe trial enrolled 397 persons with radiographic evidence of pneumonia who were receiving supplemental oxygen or had an oxygen saturation <=94% on room air. In an unadjusted analysis, there was an improvement of 2 points along a 7-point ordinal scale by day 14 in 64% of those receiving treatment for 5 days and 54% in those receiving treatment for 10 days. However, after adjustment for baseline variables, which were somewhat worse in the 10 day group, the study concluded that there was no difference between the two groups in the time to a 2 point clinical improvement by day 14.
 
@@ -525,7 +525,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI4NTYxMjkwLC0xMTAxODEyOTk1LDExOD
+eyJoaXN0b3J5IjpbODI3NzIyMzk2LC0xMTAxODEyOTk1LDExOD
 IyNTI3NjAsODAxOTcxMzc3LC0xNjU0ODU4MjUsLTgyMTQyNzE1
 OCwxMzc0OTA2NTI0LDE2MzU4MjAwNDUsMTQ2MzkxMjkyMCwtMT
 MwMDM5NTIwMSwxNTQwODg2MTgxLC0xMTM0ODcyMjUwLDE1NDUw
