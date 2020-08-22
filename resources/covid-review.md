@@ -30,7 +30,7 @@ The FDA EUA recommends using remdesivir in patients with severe disease who have
 
 There are several ongoing studies of remdesivir addressing its use in three main scenarios: in pediatric patients, in combination with immunomodulators, and through alternate modes of administration including by inhalation or subcutaneously.
 
-___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial albeit in a re. The optimal use of this drug will become clearer with further study. Remdesivir will likely be the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
+___Conclusion: Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial albeit in a relatively narrow patient population -- those receiving low-flow supplemental oxygen. The optimal use of this drug will become clearer with further study. Remdesivir will likely be the main comparator drug in future trials of moderate-to-severe SARS-CoV-2 infections.___
 
 ### EIDD-2801
 __β-D-N4-hydroxycytidine (NHC)__ is a cytidine analogue that exerts its activity primarily through viral mutagenesis in that it incorporates into new RNA strands but leads to large numbers of replication errors during subsequent rounds of replication [^10.1016/j.coviro.2019.04.002]. β-D-N4-hydroxycytidine-5'-isopropyl ester (EIDD-2801) is an orally available NHC prodrug. The fact that EIDD-2801 is not a chain terminator may explain the mechanism by which it eludes the proof-reading function of coronavirus exonucleases.
@@ -525,7 +525,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NDg3ODYxNywtMTEwMTgxMjk5NSwxMT
+eyJoaXN0b3J5IjpbLTY4NjIxMzI2NCwtMTEwMTgxMjk5NSwxMT
 gyMjUyNzYwLDgwMTk3MTM3NywtMTY1NDg1ODI1LC04MjE0Mjcx
 NTgsMTM3NDkwNjUyNCwxNjM1ODIwMDQ1LDE0NjM5MTI5MjAsLT
 EzMDAzOTUyMDEsMTU0MDg4NjE4MSwtMTEzNDg3MjI1MCwxNTQ1
