@@ -74,6 +74,8 @@
 [http://biosig.unimelb.edu.au/covid3d/](http://biosig.unimelb.edu.au/covid3d/)
 - COVID-19 Data Portal:
 [https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
+- Spike protein and main protease video tutorial (U Wisconsin)
+[https://bcrf.biochem.wisc.edu/2020/05/13/covid-19-protein-structures-movie/](https://bcrf.biochem.wisc.edu/2020/05/13/covid-19-protein-structures-movie/)
 
 ### Chemical structures
 - American Chemical Society resources:
@@ -132,11 +134,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTAzMzc2MywxNTcxODA0MTYzLDE2OT
-MyNDM3NDIsLTEzMDg2NzUzLC0xNjI5NzIzNDE0LC0yMDI2NzYw
-NTExLDQ3NzI0NjEwNiwxMzE0NzgyODc2LC04MTkyMTEyMTgsOT
-UxODc2NzE2LC0xMzAwMDIzNzk2LDMxMDU4MDkyMiwtMTA4Mzc0
-MDk4Nyw4NDY2NDgxNjYsLTE5NjQ4NzQ0MDUsLTMzMTM3MDQ0My
-wtMTYwNzI2NTQ2NSwxMDkzNTIxNDA4LC0xMzc5OTAyODk2LDU1
-ODQ2MjU1M119
+eyJoaXN0b3J5IjpbMzUzMDY5ODk1LDEyNjEwMzM3NjMsMTU3MT
+gwNDE2MywxNjkzMjQzNzQyLC0xMzA4Njc1MywtMTYyOTcyMzQx
+NCwtMjAyNjc2MDUxMSw0NzcyNDYxMDYsMTMxNDc4Mjg3NiwtOD
+E5MjExMjE4LDk1MTg3NjcxNiwtMTMwMDAyMzc5NiwzMTA1ODA5
+MjIsLTEwODM3NDA5ODcsODQ2NjQ4MTY2LC0xOTY0ODc0NDA1LC
+0zMzEzNzA0NDMsLTE2MDcyNjU0NjUsMTA5MzUyMTQwOCwtMTM3
+OTkwMjg5Nl19
 -->
