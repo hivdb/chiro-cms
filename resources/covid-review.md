@@ -218,7 +218,7 @@ The kinase inhibitors dasatinib and imatinib were found to inhibit SARS-CoV and 
 
 __Nitazoxanide__: Nitazoxanide is licensed for the treatment of cryptosporidium infections. It has been reported to inhibit a wide range of viruses in vitro. It has been proposed to interfere with host regulated pathways involved in viral replication including those involving interferon or mTORC1[^10.1016/j.jiph.2016.04.001]. In one study its EC<sub>50</sub> for SARS-CoV-2 was 2.1 μM[^10.1038/s41422-020-0282-0]. One pharmacokinetic analysis suggested that nitazoxanide plasma levels could reach concentrations above its one reported EC<sub>50</sub> level[^10.1002/cpt.1909]. As of July, it is being studied in five ongoing and nine planned clinical trials.
 
-__Ciclesonide__: Ciclesonide is an inhaled corticosteroid discovered in a high-throughput drug screen to inhibit coronavirus replication in the low μM range[^10.1101/2020.03.11.987016][^10.1128/AAC.00819-20][^10.1101/2020.02.25.965582]. Although its mechanism of action is not known, virus passage in the presence of ciclesonide led to the selection of a ciclesonide-resistant mutant, characterized by a point mutation in the NSP15 gene. A single mutation in this gene was responsible for ~100-fold reduced susceptibility. A small case series of three patients from Japan who received inhaled ciclesonide has been published[^10.1016/j.jiac.2020.04.007], As of April 21, there are two ongoing and six planned studies of inhaled ciclesonide.
+__Ciclesonide__: Ciclesonide is an inhaled corticosteroid discovered in a high-throughput drug screen to inhibit coronavirus replication in the low μM range[^10.1101/2020.08.22.258459][^10.1128/AAC.00819-20][^10.1101/2020.02.25.965582]. Although its mechanism of action is not known, MERS-CoV-2 passage passage in the presence of ciclesonide led to the selection of a ciclesonide-resistant mutant, characterized by a point mutation in the NSP15 gene while multiple SARS-CoV-2 passage experiments A single mutation in this gene was responsible for ~100-fold reduced susceptibility. A small case series of three patients from Japan who received inhaled ciclesonide has been published[^10.1016/j.jiac.2020.04.007], As of April 21, there are two ongoing and six planned studies of inhaled ciclesonide.
 
 __Emetine__: Emetine is an FDA-approved drug for treating amebiasis. It is produced from the ipecac root and has been used to induce vomiting. Emetine has been shown in four studies to inhibit multiple coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2 _in vitro_, with EC<sub>50</sub>s consistently below 1.0 μM[^10.1128/AAC.03036-14][^10.1128/JVI.00023-19][^10.1101/2020.02.25.965582][^10.1016/j.antiviral.2020.104786]. Its mechanism of action is not known for certain, although it did inhibit MERS-CoV in an entry inhibitor assay using a pseudotype virus expressing S protein[^10.1128/JVI.00023-19]. After oral administration, its levels in the lungs are much higher than in the plasma and well above its reported EC<sub>50</sub> levels[^10.3390/ph13030051]. Emetine is currently not being studied for the treatment of SARS-CoV-2
 
@@ -376,7 +376,7 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 [^10.1016/j.antiviral.2020.104792]: Tang T, Bidon M, et int., Daniel S. "Coronavirus membrane fusion mechanism offers as a potential target for antiviral development" _Antiviral Res._, 2020. [10.1016/j.antiviral.2020.104792](https://doi.org/10.1016/j.antiviral.2020.104792)
 [^10.1038/s41423-020-0374-2]: Xia S, Zhu Y, et int., Lu L. "Fusion mechanism of 2019-nCoV and fusion inhibitors targeting HR1 domain in spike protein" _Cellular & Molecular Immunology_, 2020. [10.1038/s41423-020-0374-2](https://doi.org/10.1038/s41423-020-0374-2)
 [^10.1128/JVI.01697-07]: Ujike M, Nishikawa H, et int., Taguchi F. "Heptad Repeat-Derived Peptides Block Protease-Mediated Direct Entry from the Cell Surface of Severe Acute Respiratory Syndrome Coronavirus but Not Entry via the Endosomal Pathway" _Journal of Virology_, 2008. [10.1128/JVI.01697-07](https://doi.org/10.1128/JVI.01697-07)
-[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
+[^10.1038/s41422-020-0305-x]: Xia S, Liu M, et int., Lu L. "Inhibition of SARS-CoV-2 (previously 2019-nCoV) infection by a highly potent pan-coronavirus fusion inhibitor targeting its spike protein that harbors a high capacity to mediate membrane fusion" _Cell Res._, 2020. [10.1038/s41422-020-0305-x](https://doi.org/10.1038/s41422-020-0305-x)
 [^10.1128/JVI.00288-17]: Chong H, Xue J, et int., He Y. "A Lipopeptide HIV-1/2 Fusion Inhibitor with Highly Potent In Vitro, Ex Vivo, and In Vivo Antiviral Activity" _J. Virol._, 2017. [10.1128/JVI.00288-17](https://doi.org/10.1128/JVI.00288-17)
 [^10.1038/nature03712]: Imai Y, Kuba K, et int., Penninger JM. "Angiotensin-converting enzyme 2 protects from severe acute lung failure" _Nature_, 2005. [10.1038/nature03712](https://doi.org/10.1038/nature03712)
 [^10.1038/nm1267]: Kuba K, Imai Y, et int., Penninger JM. "A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus-induced lung injury" _Nat. Med._, 2005. [10.1038/nm1267](https://doi.org/10.1038/nm1267)
@@ -528,11 +528,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwMDg3ODY2LC0xMTAxODEyOTk1LDExOD
-IyNTI3NjAsODAxOTcxMzc3LC0xNjU0ODU4MjUsLTgyMTQyNzE1
-OCwxMzc0OTA2NTI0LDE2MzU4MjAwNDUsMTQ2MzkxMjkyMCwtMT
-MwMDM5NTIwMSwxNTQwODg2MTgxLC0xMTM0ODcyMjUwLDE1NDUw
-ODk1NTAsMTY0MjM3OTk5NCwtMjEwNjA4NDQ4NSwtMTM0NzY0Mz
-Y0MSwtMTM4NDY0NjMxMSwtMTEyMTg5ODk4MywxNjgyOTU0Mzc2
-LC0xNzE2MjU4NzU4XX0=
+eyJoaXN0b3J5IjpbLTkzMzk3MjcwMSw5OTAwODc4NjYsLTExMD
+E4MTI5OTUsMTE4MjI1Mjc2MCw4MDE5NzEzNzcsLTE2NTQ4NTgy
+NSwtODIxNDI3MTU4LDEzNzQ5MDY1MjQsMTYzNTgyMDA0NSwxND
+YzOTEyOTIwLC0xMzAwMzk1MjAxLDE1NDA4ODYxODEsLTExMzQ4
+NzIyNTAsMTU0NTA4OTU1MCwxNjQyMzc5OTk0LC0yMTA2MDg0ND
+g1LC0xMzQ3NjQzNjQxLC0xMzg0NjQ2MzExLC0xMTIxODk4OTgz
+LDE2ODI5NTQzNzZdfQ==
 -->
