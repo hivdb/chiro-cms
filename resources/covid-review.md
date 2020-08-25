@@ -228,6 +228,9 @@ __Cyclophilin inhibitors__: Cyclosporin and FK-506 are two immunosuppressive dru
 
 __Ivermectin__: Ivermectin is one of an increasing number of additional compounds found to inhibit SARS-CoV-2 without a defined mechanism of action. It has a reported EC<sub>50</sub> of about 2 μM[^10.1016/j.antiviral.2020.104787]. However, its plasma levels following oral administration appear too low to inhibit coronavirus replication [^10.4269/ajtmh.20-0271][^10.1002/cpt.1909][^10.1101/2020.04.21.20073262]. In one retrospective study, ivermectin use was associated with significantly reduced mortality compared to persons at the same hospitals not receiving ivermectin, particularly in patients with severe pulmonary disease[^10.1101/2020.06.06.20124461]. As of July, ivermectin is being studied in 19 ongoing and 18 planned clinical trials.
 
+
+
+
 <!-- start of references details -->
 
 [^10.3390/v11080745]: Peersen OB. "A Comprehensive Superposition of Viral Polymerase Structures" _Viruses_, 2019. [10.3390/v11080745](https://doi.org/10.3390/v11080745)
@@ -528,11 +531,11 @@ __Ivermectin__: Ivermectin is one of an increasing number of additional compound
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTk2MjY3Nyw5OTAwODc4NjYsLTExMD
-E4MTI5OTUsMTE4MjI1Mjc2MCw4MDE5NzEzNzcsLTE2NTQ4NTgy
-NSwtODIxNDI3MTU4LDEzNzQ5MDY1MjQsMTYzNTgyMDA0NSwxND
-YzOTEyOTIwLC0xMzAwMzk1MjAxLDE1NDA4ODYxODEsLTExMzQ4
-NzIyNTAsMTU0NTA4OTU1MCwxNjQyMzc5OTk0LC0yMTA2MDg0ND
-g1LC0xMzQ3NjQzNjQxLC0xMzg0NjQ2MzExLC0xMTIxODk4OTgz
-LDE2ODI5NTQzNzZdfQ==
+eyJoaXN0b3J5IjpbLTIwMzY1NDEyNDksMTg2MTk2MjY3Nyw5OT
+AwODc4NjYsLTExMDE4MTI5OTUsMTE4MjI1Mjc2MCw4MDE5NzEz
+NzcsLTE2NTQ4NTgyNSwtODIxNDI3MTU4LDEzNzQ5MDY1MjQsMT
+YzNTgyMDA0NSwxNDYzOTEyOTIwLC0xMzAwMzk1MjAxLDE1NDA4
+ODYxODEsLTExMzQ4NzIyNTAsMTU0NTA4OTU1MCwxNjQyMzc5OT
+k0LC0yMTA2MDg0NDg1LC0xMzQ3NjQzNjQxLC0xMzg0NjQ2MzEx
+LC0xMTIxODk4OTgzXX0=
 -->
