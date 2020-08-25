@@ -3,6 +3,9 @@
 
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University: https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044
 
+### Ciclesonide
+An updated preprint[^10.1101/2020.08.22.258459]
+
 ### Remdesivir versus standard of care -- moderate COVID-19 pneumonia (August 21)
 The randomized controlled open-label Gilead SIMPLE-moderate trial enrolled 596 hospitalized persons with radiographic evidence of pneumonia with oxygen saturations >94% on room air and randomized them 1:1:1 to remdesivir for 10 days, remdesivir for 5 days, or standard of care (SOC)[^10.1001/jama.2020.16349].  Approximately 15% were receiving low-flow O2; 85% did not require O2 supplementation. 15% overall were receiving corticosteroids. Approximately 45% in the SOC care group vs. 10% in the remdesivir groups were receiving a chloroquine analog. The primary endpoints were the distribution of clinical status on a 7-point ordinal scale and the proportion with adverse events throughout the study. Due to logistical issues, virological data were limited and not presented. Most patients in the 10 day arm did not complete their course of therapy because they were discharged, By day 11, the 5 day remdesivir group (OR 1.7; 95%CI, 1.1-2.5; P=.02) but not the 10 day group (p=0.18) had an improved clinical status distribution than the SOC group. By day 28, 9 patients died: 2 (1%) in the 5 day group, 3 (2%) in the 10 day group, and 4 (2%) in SOC group. There also did not seem to be a significant reduction in the need for mechanical ventilation (1 vs. 4) or high-flow oxygen (5 vs. 7) between the pooled remdesivir patients vs. SOC by day 11.
 
@@ -64,8 +67,9 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjczOTk4LDI3NTYzOTg2LC00OTgyNz
-YwMTksLTEzOTMxMzg2ODAsLTE3MjU1MjIzNTUsLTE0MTQyMTc5
-MjksLTE1NDMzNzUyMDQsLTE5MzUxMzk4OTksLTc1MTQxNjM2Mi
-w2MzQ4MTE5NjcsMTYwOTIzNDU4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTYyMTM0NzA1NiwyMTMyNzM5OTgsMjc1Nj
+M5ODYsLTQ5ODI3NjAxOSwtMTM5MzEzODY4MCwtMTcyNTUyMjM1
+NSwtMTQxNDIxNzkyOSwtMTU0MzM3NTIwNCwtMTkzNTEzOTg5OS
+wtNzUxNDE2MzYyLDYzNDgxMTk2NywxNjA5MjM0NTgsNzMwOTk4
+MTE2XX0=
 -->
