@@ -4,7 +4,7 @@
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University: https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044
 
 ### Ciclesonide
-An updated preprint has reported that the inhaled corticosteroid ciclesonide consistently selects for mutations in nsp3 and nsp4 when SARS-CoV-2 is cultured in the presence of increasing drug concentrations[^10.1101/2020.08.22.258459]. This demonstrates that ciclesonide has a specific antiviral mechanism, which the authors speculate is interference with the double membrane formation demonstration that a drug selects for drug-resistance virus mutations indicates that it acts specifically by inhibiting the virus rather than b
+An updated preprint has reported that the inhaled corticosteroid ciclesonide consistently selects for mutations in nsp3 and nsp4 when SARS-CoV-2 is cultured in the presence of increasing drug concentrations[^10.1101/2020.08.22.258459]. This demonstrates that ciclesonide has a specific antiviral mechanism, which the authors speculate is interference with the double membrane formation that anchors the coronavirus replication transcription complex within cells. Unfortunately, there has been little progress initating clinical trials with just two being active and six still pending.  demonstration that a drug selects for drug-resistance virus mutations indicates that it acts specifically by inhibiting the virus rather than b
 
 Ciclesonide is an inhaled corticosteroid discovered in a high-throughput drug screen to inhibit coronavirus replication in the low μM range[^10.1101/2020.08.22.258459][^10.1128/AAC.00819-20][^10.1101/2020.02.25.965582]. Although its mechanism of action is not known, MERS-CoV-2 passage passage in the presence of ciclesonide led to the selection of a point mutation in the nsp15 gene while multiple SARS-CoV-2 passage experiments led to consistent mutations in nsp3 (N1543K, G1763S, and D1764A)) and nsp4 (E230K) each of which reduced ciclesonide susceptibility. The mutated part of ns3 and ns4 are thought to be associated with double membrane formation. A single mutation in this gene was responsible for ~100-fold reduced susceptibility. A small case series of three patients from Japan who received inhaled ciclesonide has been published[^10.1016/j.jiac.2020.04.007], As of August 25, there are two ongoing and six planned studies of inhaled ciclesonide.
 
@@ -69,9 +69,9 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzUzODQ4OSwyMTMyNzM5OTgsMjc1Nj
-M5ODYsLTQ5ODI3NjAxOSwtMTM5MzEzODY4MCwtMTcyNTUyMjM1
-NSwtMTQxNDIxNzkyOSwtMTU0MzM3NTIwNCwtMTkzNTEzOTg5OS
-wtNzUxNDE2MzYyLDYzNDgxMTk2NywxNjA5MjM0NTgsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbMjg2ODc4NDY3LDIxMzI3Mzk5OCwyNzU2Mz
+k4NiwtNDk4Mjc2MDE5LC0xMzkzMTM4NjgwLC0xNzI1NTIyMzU1
+LC0xNDE0MjE3OTI5LC0xNTQzMzc1MjA0LC0xOTM1MTM5ODk5LC
+03NTE0MTYzNjIsNjM0ODExOTY3LDE2MDkyMzQ1OCw3MzA5OTgx
+MTZdfQ==
 -->
