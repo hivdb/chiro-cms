@@ -6,7 +6,9 @@ SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 20
 ### Monoclonal antibodies
 Summary description of >100 monoclonal antibodies designed to inhibit virus cell entry: [https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29)
 
-Two antibody preparations are in phase III trials for preventing and treating SARS-CoV-2 infections: (i) the combination of REGN10933 and REGN10987 and (ii) LY3819253. Six antibody preparations are in phase I/II trials: AZD7442, BRII-196, JS016, SCTA01, STI-1499, and TY027. Other than the three papers describing REGN10933 and REGN10987, there are no published papers on the other antibodies[^10.1126/science.abd0827][^10.1126/science.abd0831].
+Two antibody preparations are in phase III trials for preventing and treating SARS-CoV-2 infections: (i) the combination of REGN10933 and REGN10987 and (ii) LY3819253. Six antibody preparations are in phase I/II trials: AZD7442, BRII-196, JS016, SCTA01, STI-1499, and TY027. 
+
+Other than the three papers describing REGN10933 and REGN10987[^10.1126/science.abd0827][^10.1126/science.abd0831][^10.1101/2020.08.02.233320], there are no published papers on any of the other antibodies in clinical trials. 
 
 ### Ciclesonide
 An updated preprint has reported that the inhaled corticosteroid ciclesonide consistently selects for mutations in nsp3 and nsp4 when SARS-CoV-2 is cultured in the presence of increasing drug concentrations[^10.1101/2020.08.22.258459]. This demonstrates that ciclesonide has a specific antiviral mechanism, which the authors speculate is interference with the double membrane formation that anchors the coronavirus replication transcription complex within cells. Unfortunately, there has been little progress initiating clinical trials with just two being active and six still pending.
@@ -73,9 +75,9 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDUwMDA1OCwtMjA3NjMzNjQ2LDE1MT
-E0MDg1NTQsMjEzMjczOTk4LDI3NTYzOTg2LC00OTgyNzYwMTks
-LTEzOTMxMzg2ODAsLTE3MjU1MjIzNTUsLTE0MTQyMTc5MjksLT
-E1NDMzNzUyMDQsLTE5MzUxMzk4OTksLTc1MTQxNjM2Miw2MzQ4
-MTE5NjcsMTYwOTIzNDU4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNjQxMzc1MzE2LC0yMDc2MzM2NDYsMTUxMT
+QwODU1NCwyMTMyNzM5OTgsMjc1NjM5ODYsLTQ5ODI3NjAxOSwt
+MTM5MzEzODY4MCwtMTcyNTUyMjM1NSwtMTQxNDIxNzkyOSwtMT
+U0MzM3NTIwNCwtMTkzNTEzOTg5OSwtNzUxNDE2MzYyLDYzNDgx
+MTk2NywxNjA5MjM0NTgsNzMwOTk4MTE2XX0=
 -->
