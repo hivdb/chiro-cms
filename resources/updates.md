@@ -6,7 +6,7 @@ SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 20
 ### Monoclonal antibodies
 Summary description of >100 monoclonal antibodies designed to inhibit virus cell entry: [https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29)
 
-Two antibody preparations are in phase III trials
+Two antibody preparations are in phase III trials for preventing and: (i) the combination of REGN10933  and REGN10987 and (ii) LY3819253
 
 ### Ciclesonide
 An updated preprint has reported that the inhaled corticosteroid ciclesonide consistently selects for mutations in nsp3 and nsp4 when SARS-CoV-2 is cultured in the presence of increasing drug concentrations[^10.1101/2020.08.22.258459]. This demonstrates that ciclesonide has a specific antiviral mechanism, which the authors speculate is interference with the double membrane formation that anchors the coronavirus replication transcription complex within cells. Unfortunately, there has been little progress initiating clinical trials with just two being active and six still pending.
@@ -73,9 +73,9 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2NjkxOTAzLC0yMDc2MzM2NDYsMTUxMT
-QwODU1NCwyMTMyNzM5OTgsMjc1NjM5ODYsLTQ5ODI3NjAxOSwt
-MTM5MzEzODY4MCwtMTcyNTUyMjM1NSwtMTQxNDIxNzkyOSwtMT
-U0MzM3NTIwNCwtMTkzNTEzOTg5OSwtNzUxNDE2MzYyLDYzNDgx
-MTk2NywxNjA5MjM0NTgsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEzMTAxMDMyMjAsLTIwNzYzMzY0NiwxNT
+ExNDA4NTU0LDIxMzI3Mzk5OCwyNzU2Mzk4NiwtNDk4Mjc2MDE5
+LC0xMzkzMTM4NjgwLC0xNzI1NTIyMzU1LC0xNDE0MjE3OTI5LC
+0xNTQzMzc1MjA0LC0xOTM1MTM5ODk5LC03NTE0MTYzNjIsNjM0
+ODExOTY3LDE2MDkyMzQ1OCw3MzA5OTgxMTZdfQ==
 -->
