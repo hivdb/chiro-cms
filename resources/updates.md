@@ -3,6 +3,8 @@
 
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University: https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044
 
+###
+
 ### Ciclesonide
 An updated preprint has reported that the inhaled corticosteroid ciclesonide consistently selects for mutations in nsp3 and nsp4 when SARS-CoV-2 is cultured in the presence of increasing drug concentrations[^10.1101/2020.08.22.258459]. This demonstrates that ciclesonide has a specific antiviral mechanism, which the authors speculate is interference with the double membrane formation that anchors the coronavirus replication transcription complex within cells. Unfortunately, there has been little progress initiating clinical trials with just two being active and six still pending.
 
@@ -39,7 +41,7 @@ The FDA approved drug, __alpha-1-antitrypsin (A1AT)__ has also been shown to inh
 Camostat mesylate is rapidly converted into its active metabolite GBPA in animals and humans. __FOY-251__, a methanesulfonate of GBPA has been reported to also inhibit TMPRSS2 but at a somewhat reduced capacity compared with camostat[^10.1101/2020.08.05.237651].
 
 #### Updated synthesis on chloroquine (CQ) and hydroxychloroquine (HCQ)
-However, two large blinded and three large open-label randomized control trials totaling more than 6,000 patients failed to show any clinical or virological benefit from the use of hydroxychloroquine[^10.1101/2020.07.15.20151852][^10.7326/M20-4207][^10.1056/NEJMoa2019014][^PMID32409561][^10.1093/cid/ciaa1009]. Two additional randomized controlled studies totaling more than 3,000 patients failed to show a reduction in the risk of infection among exposed patients receiving HCQ[^10.1101/2020.07.20.20157651][^10.1056/NEJMoa2016638].  The lack of efficacy likely reflects the fact that  at standard dosages, CQ and HCQ do not achieve sufficiently high inhibitory drug levels[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1002/cpt.1909] and because cytoplasmic entry of SARS-CoV-2 appears to be dependent primarily on the membrane based enzyme TMPRSS2 rather than on endosomal fusion and acidification[^10.1101/2020.07.22.216150].
+However, two large blinded and three large open-label randomized control trials totaling more than 6,000 patients failed to show any clinical or virological benefit from the use of hydroxychloroquine[^10.1101/2020.07.15.20151852][^10.7326/M20-4207][^10.1056/NEJMoa2019014][^PMID32409561][^10.1093/cid/ciaa1009]. Two additional randomized controlled studies totaling more than 3,000 patients failed to show a reduction in the risk of infection among exposed patients receiving HCQ[^10.1101/2020.07.20.20157651][^10.1056/NEJMoa2016638].  The lack of efficacy likely reflects the fact that  at standard dosages, CQ and HCQ do not achieve sufficiently high inhibitory drug levels[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1002/cpt.1909] and because cytoplasmic entry of SARS-CoV-2, particularly in lung cells, depends primarily on the membrane based enzyme TMPRSS2 rather than on endosomal fusion and acidification[^10.1101/2020.07.22.216150][^10.1038/s41586-020-2575-3].
 
 <!-- start of references details -->
 
@@ -68,9 +70,9 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTQwODU1NCwyMTMyNzM5OTgsMjc1Nj
-M5ODYsLTQ5ODI3NjAxOSwtMTM5MzEzODY4MCwtMTcyNTUyMjM1
-NSwtMTQxNDIxNzkyOSwtMTU0MzM3NTIwNCwtMTkzNTEzOTg5OS
-wtNzUxNDE2MzYyLDYzNDgxMTk2NywxNjA5MjM0NTgsNzMwOTk4
-MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwNzYzMzY0NiwxNTExNDA4NTU0LDIxMz
+I3Mzk5OCwyNzU2Mzk4NiwtNDk4Mjc2MDE5LC0xMzkzMTM4Njgw
+LC0xNzI1NTIyMzU1LC0xNDE0MjE3OTI5LC0xNTQzMzc1MjA0LC
+0xOTM1MTM5ODk5LC03NTE0MTYzNjIsNjM0ODExOTY3LDE2MDky
+MzQ1OCw3MzA5OTgxMTZdfQ==
 -->
