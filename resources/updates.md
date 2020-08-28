@@ -3,14 +3,14 @@
 
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University: https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044
 
-### Monoclonal antibodies
+### Monoclonal antibodies (August 26)
 Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry: [https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29)
 
 Two mAb preparations are in phase III trials for preventing and treating SARS-CoV-2 infections: (i) the combination of REGN10933 and REGN10987 and (ii) LY3819253. Six antibody preparations are in phase I/II trials: AZD7442, BRII-196, JS016, SCTA01, STI-1499, and TY027. 
 
 The above link summaries preclinical data on mAbs from multiple research laboratories several of which will also likely enter clinical trials. However, other than the three papers describing REGN10933 and REGN10987[^10.1126/science.abd0827][^10.1126/science.abd0831][^10.1101/2020.08.02.233320], there are no published preclinical data on any of the other mAbs in clinical trials. Without such data it is not clear how clinical investigators and physicians will choose which trials to enroll.
 
-### Ciclesonide
+### Ciclesonide (August 24)
 An updated preprint has reported that the inhaled corticosteroid ciclesonide consistently selects for mutations in nsp3 and nsp4 when SARS-CoV-2 is cultured in the presence of increasing drug concentrations[^10.1101/2020.08.22.258459]. This demonstrates that ciclesonide has a specific antiviral mechanism, which the authors speculate is interference with the double membrane formation that anchors the coronavirus replication transcription complex within cells. Unfortunately, there has been little progress initiating clinical trials with just two being active and six still pending.
 
 ### Remdesivir versus standard of care -- moderate COVID-19 pneumonia (August 21)
@@ -19,7 +19,6 @@ The randomized controlled open-label Gilead SIMPLE-moderate trial enrolled 596 h
 Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial, albeit in a relatively narrow patient population -- those receiving low-flow supplemental oxygen. The benefits of this drug increasingly rest on a single clinical trial (the NIH adaptive trial), which was unfortunately terminated prematurely.
 
 ### Published preprints (August 17-August 24)
-
 - Weston S, Coleman CM, et int., and Frieman MB. “Broad anti-coronaviral activity of FDA approved drugs against SARS-CoV-2 in vitro and SARS-CoV in vivo.” Journal of Virology, 2020. [doi.org/10.1128/JVI.01218-20](https://doi.org/10.1128/JVI.01218-20). [PubMed32817221](https://www.ncbi.nlm.nih.gov/pubmed/32817221/)
 - Liu L, Wang P, et int., and Ho DD. “Potent neutralizing antibodies against multiple epitopes on SARS-CoV-2 spike.” Nature, 2020. [doi.org/10.1038/s41586-020-2571-7](https://doi.org/10.1038/s41586-020-2571-7). [PubMed32698192](https://www.ncbi.nlm.nih.gov/pubmed/32698192/)
 
@@ -75,9 +74,10 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTgwMTY0OTAsLTIwNzYzMzY0NiwxNT
-ExNDA4NTU0LDIxMzI3Mzk5OCwyNzU2Mzk4NiwtNDk4Mjc2MDE5
-LC0xMzkzMTM4NjgwLC0xNzI1NTIyMzU1LC0xNDE0MjE3OTI5LC
-0xNTQzMzc1MjA0LC0xOTM1MTM5ODk5LC03NTE0MTYzNjIsNjM0
-ODExOTY3LDE2MDkyMzQ1OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjQyMjgzNzgyLC0xMTE4MDE2NDkwLC0yMD
+c2MzM2NDYsMTUxMTQwODU1NCwyMTMyNzM5OTgsMjc1NjM5ODYs
+LTQ5ODI3NjAxOSwtMTM5MzEzODY4MCwtMTcyNTUyMjM1NSwtMT
+QxNDIxNzkyOSwtMTU0MzM3NTIwNCwtMTkzNTEzOTg5OSwtNzUx
+NDE2MzYyLDYzNDgxMTk2NywxNjA5MjM0NTgsNzMwOTk4MTE2XX
+0=
 -->
