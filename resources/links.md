@@ -116,6 +116,8 @@
 
 
 ### News
+- Drug target review:
+[https://www.drugtargetreview.com/research_hub/covid-19/](https://www.drugtargetreview.com/research_hub/covid-19/)
 - Stat:
 [https://www.statnews.com/](https://www.statnews.com/)
 - In the pipeline:
@@ -134,11 +136,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzMDY5ODk1LDEyNjEwMzM3NjMsMTU3MT
-gwNDE2MywxNjkzMjQzNzQyLC0xMzA4Njc1MywtMTYyOTcyMzQx
-NCwtMjAyNjc2MDUxMSw0NzcyNDYxMDYsMTMxNDc4Mjg3NiwtOD
-E5MjExMjE4LDk1MTg3NjcxNiwtMTMwMDAyMzc5NiwzMTA1ODA5
-MjIsLTEwODM3NDA5ODcsODQ2NjQ4MTY2LC0xOTY0ODc0NDA1LC
-0zMzEzNzA0NDMsLTE2MDcyNjU0NjUsMTA5MzUyMTQwOCwtMTM3
-OTkwMjg5Nl19
+eyJoaXN0b3J5IjpbMjEyNzg4MDE0OCwzNTMwNjk4OTUsMTI2MT
+AzMzc2MywxNTcxODA0MTYzLDE2OTMyNDM3NDIsLTEzMDg2NzUz
+LC0xNjI5NzIzNDE0LC0yMDI2NzYwNTExLDQ3NzI0NjEwNiwxMz
+E0NzgyODc2LC04MTkyMTEyMTgsOTUxODc2NzE2LC0xMzAwMDIz
+Nzk2LDMxMDU4MDkyMiwtMTA4Mzc0MDk4Nyw4NDY2NDgxNjYsLT
+E5NjQ4NzQ0MDUsLTMzMTM3MDQ0MywtMTYwNzI2NTQ2NSwxMDkz
+NTIxNDA4XX0=
 -->
