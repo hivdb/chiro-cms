@@ -6,7 +6,7 @@ SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 20
 ### Monoclonal antibodies (August 26)
 Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry: [https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29)
 
-Two mAb preparations are in phase III trials for preventing and treating SARS-CoV-2 infections: (i) the combination of REGN10933 and REGN10987 and (ii) LY3819253. Six antibody preparations are in phase I/II trials: AZD7442, BRII-196, JS016, SCTA01, STI-1499, and TY027. 
+Two mAb preparations are in phase III trials for preventing and treating SARS-CoV-2 infections: (i) the combination of REGN10933 and REGN10987 and (ii) LY3819253. Six antibody preparations are in phase I/II trials: AZD7442, BRII-196, JS016, SCTA01, STI-1499, and TY027.
 
 The above link summaries preclinical data on mAbs from multiple research laboratories several of which will also likely enter clinical trials. However, other than the three papers describing REGN10933 and REGN10987[^10.1126/science.abd0827][^10.1126/science.abd0831][^10.1101/2020.08.02.233320], there are no published preclinical data on any of the other mAbs in clinical trials. Without such data it is not clear how clinical investigators and physicians will choose which trials to enroll.
 
@@ -49,6 +49,9 @@ However, two large blinded and three large open-label randomized control trials 
 
 <!-- start of references details -->
 
+[^10.1126/science.abd0827]: Hansen J, Baum A, et int., Kyratsous CA. "Studies in humanized mice and convalescent humans yield a SARS-CoV-2 antibody cocktail" _Science_, 2020. [10.1126/science.abd0827](https://doi.org/10.1126/science.abd0827)
+[^10.1126/science.abd0831]: Baum A, Fulton BO, et int., Kyratsous CA. "Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies" _Science_, 2020. [10.1126/science.abd0831](https://doi.org/10.1126/science.abd0831)
+[^10.1101/2020.08.02.233320]: Baum A, Copin R, et int., Kyratsous CA. "REGN-COV2 antibody cocktail prevents and treats SARS-CoV-2 infection in rhesus macaques and hamsters" _bioRxiv_, 2020. [10.1101/2020.08.02.233320](https://doi.org/10.1101/2020.08.02.233320)
 [^10.1101/2020.08.22.258459]: Matsuyama S, Kawase M, et int., Fukushi S. "The inhaled steroid ciclesonide blocks SARS-CoV-2 RNA replication by targeting viral replication-transcription complex in culture cells" _bioRxiv_, 2020. [10.1101/2020.08.22.258459](https://doi.org/10.1101/2020.08.22.258459)
 [^10.1001/jama.2020.16349]: Spinner CD, Gottlieb RL, et int., Marty FM. "Effect of Remdesivir vs Standard Care on Clinical Status at 11 Days in Patients With Moderate COVID-19: A Randomized Clinical Trial" _JAMA_, 2020. [10.1001/jama.2020.16349](https://doi.org/10.1001/jama.2020.16349)
 [^10.1101/2020.08.12.20169359]: Joyner MJ, Senefeld JW, et int., Casadevall A. "Effect of Convalescent Plasma on Mortality among Hospitalized Patients with COVID-19: Initial Three-Month Experience" _medRxiv_, 2020. [10.1101/2020.08.12.20169359](https://doi.org/10.1101/2020.08.12.20169359)
@@ -71,6 +74,7 @@ However, two large blinded and three large open-label randomized control trials 
 [^10.1002/cpt.1856]: Garcia-Cremades M, Solans BP, et int., Savic RM. "Optimizing hydroxychloroquine dosing for patients with COVID-19: An integrative modeling approach for effective drug repurposing" _Clin. Pharmacol. Ther._, 2020. [10.1002/cpt.1856](https://doi.org/10.1002/cpt.1856)
 [^10.1002/cpt.1909]: Arshad U, Pertinez H, et int., Owen A. "Prioritisation of Anti-SARS-Cov-2 Drug Repurposing Opportunities Based on Plasma and Target Site Concentrations Derived from their Established Human Pharmacokinetics" _Clin. Pharmacol. Ther._, 2020. [10.1002/cpt.1909](https://doi.org/10.1002/cpt.1909)
 [^10.1101/2020.07.22.216150]: Ou T, Mou H, et int., Farzan M. "Hydroxychloroquine-mediated inhibition of SARS-CoV-2 entry is attenuated by TMPRSS2" _bioRxiv_, 2020. [10.1101/2020.07.22.216150](https://doi.org/10.1101/2020.07.22.216150)
+[^10.1038/s41586-020-2575-3]: Hoffmann M, Mösbauer K, et int., Pöhlmann S. "Chloroquine does not inhibit infection of human lung cells with SARS-CoV-2" _Nature_, 2020. [10.1038/s41586-020-2575-3](https://doi.org/10.1038/s41586-020-2575-3)
 
 
 <!--stackedit_data:
