@@ -18,13 +18,15 @@ The randomized controlled open-label Gilead SIMPLE-moderate trial enrolled 596 h
 
 Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial, albeit in a relatively narrow patient population -- those receiving low-flow supplemental oxygen. The benefits of this drug increasingly rest on a single clinical trial (the NIH adaptive trial), which was unfortunately terminated prematurely.
 
-### Published preprints (August 17-August 24)
-- Weston S, Coleman CM, et int., and Frieman MB. “Broad anti-coronaviral activity of FDA approved drugs against SARS-CoV-2 in vitro and SARS-CoV in vivo.” Journal of Virology, 2020. [doi.org/10.1128/JVI.01218-20](https://doi.org/10.1128/JVI.01218-20). [PubMed32817221](https://www.ncbi.nlm.nih.gov/pubmed/32817221/)
-- Liu L, Wang P, et int., and Ho DD. “Potent neutralizing antibodies against multiple epitopes on SARS-CoV-2 spike.” Nature, 2020. [doi.org/10.1038/s41586-020-2571-7](https://doi.org/10.1038/s41586-020-2571-7). [PubMed32698192](https://www.ncbi.nlm.nih.gov/pubmed/32698192/)
+### Published preprints, August 31
 
-### New clinical trials, August 20
+- Vuong W, Khan MB, et int., and Lemieux MJ. “Feline coronavirus drug inhibits the main protease of SARS-CoV-2 and blocks virus replication.” Nature Communications, 2020. [doi.org/10.1038/s41467-020-18096-2](https://doi.org/10.1038/s41467-020-18096-2). [PubMed32855413](https://www.ncbi.nlm.nih.gov/pubmed/32855413/)
+- Weston S, Coleman CM, et int., and Frieman MB. “Broad anti-coronaviral activity of FDA approved drugs against SARS-CoV-2 in vitro and SARS-CoV in vivo.” Journal of Virology, 2020. [doi.org/10.1128/jvi.01218-20](https://doi.org/10.1128/jvi.01218-20). [PubMed32817221](https://www.ncbi.nlm.nih.gov/pubmed/32817221/)
+- Klemm T, Ebert G, et int., and Komander D. “Mechanism and inhibition of the papain‐like protease, PLpro, of SARS‐CoV‐2.” The EMBO Journal, 2020. [doi.org/10.15252/embj.2020106275](https://doi.org/10.15252/embj.2020106275). [PubMed32845033](https://www.ncbi.nlm.nih.gov/pubmed/32845033/)
 
-- [New clinical trials](https://covdb.stanford.edu/clinical-trials/?fromDate=2020-08-20)
+### New clinical trials, August 31
+
+- [New clinical trials](https://covdb.stanford.edu/clinical-trials/?fromDate=2020-08-27)
 
 ### Thursday August 13
 #### Convalescent plasma
