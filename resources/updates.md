@@ -24,9 +24,9 @@ Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically benefici
 - Weston S, Coleman CM, et int., and Frieman MB. “Broad anti-coronaviral activity of FDA approved drugs against SARS-CoV-2 in vitro and SARS-CoV in vivo.” Journal of Virology, 2020. [doi.org/10.1128/jvi.01218-20](https://doi.org/10.1128/jvi.01218-20). [PubMed32817221](https://www.ncbi.nlm.nih.gov/pubmed/32817221/)
 - Klemm T, Ebert G, et int., and Komander D. “Mechanism and inhibition of the papain‐like protease, PLpro, of SARS‐CoV‐2.” The EMBO Journal, 2020. [doi.org/10.15252/embj.2020106275](https://doi.org/10.15252/embj.2020106275). [PubMed32845033](https://www.ncbi.nlm.nih.gov/pubmed/32845033/)
 
-### New clinical trials, August 31
+### New clinical trials, Sep 8
 
-- [New clinical trials](https://covdb.stanford.edu/clinical-trials/?fromDate=2020-08-27)
+- [New clinical trials](https://covdb.stanford.edu/clinical-trials/?fromDate=2020-09-03)
 
 ### Thursday August 13
 #### Convalescent plasma
