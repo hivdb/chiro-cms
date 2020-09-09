@@ -22,10 +22,9 @@ SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 20
 ## New clinical trials (September 8)
 Fourteen clinical trials were added since September 3: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-03).
 
-## Published preprints (August 31)
-- Vuong W, Khan MB, et int., and Lemieux MJ. “Feline coronavirus drug inhibits the main protease of SARS-CoV-2 and blocks virus replication.” Nature Communications, 2020. [doi.org/10.1038/s41467-020-18096-2](https://doi.org/10.1038/s41467-020-18096-2). [PubMed32855413](https://www.ncbi.nlm.nih.gov/pubmed/32855413/)
-- Weston S, Coleman CM, et int., and Frieman MB. “Broad anti-coronaviral activity of FDA approved drugs against SARS-CoV-2 in vitro and SARS-CoV in vivo.” Journal of Virology, 2020. [doi.org/10.1128/.01218-20](https://doi.org/10.1128/jviJVI.01218-20). [PubMed32817221](https://www.ncbi.nlm.nih.gov/pubmed/32817221/)
-- Klemm T, Ebert G, et int., and Komander D. “Mechanism and inhibition of the papain‐like protease, PLpro, of SARS‐-CoV‐2.” The EMBO Journal, 2020. [doi.org/10.15252/embj.2020106275](https://doi.org/10.15252/embj.2020106275). [PubMed32845033](https://www.ncbi.nlm.nih.gov/pubmed/32845033/)
+## Published preprints (September 8)
+
+- Hanke L, Vidakovics Perez L, et int., and McInerney GM. “An alpaca nanobody neutralizes SARS-CoV-2 by blocking receptor interaction.” Nature Communications, 2020. [doi.org/10.1038/s41467-020-18174-5](https://doi.org/10.1038/s41467-020-18174-5). [PubMed32887876](https://www.ncbi.nlm.nih.gov/pubmed/32887876/)
 
 ## Monoclonal antibodies (August 26)
 Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry: [MAb list](/compound-list/?target=Entry%20%28monoclonal%20antibodies%29).
