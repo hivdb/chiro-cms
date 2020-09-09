@@ -1,0 +1,11 @@
+---
+pageTitle: Latest Updates
+# heroImage: signpost.jpg
+heroImage: latest-updates-bg.jpg
+introHeader: |-
+  Latest Updates
+content:
+  _resource: updates.md
+toc: true
+escapeHtml: false
+...

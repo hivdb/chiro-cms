@@ -1,52 +1,66 @@
+<!--
+Latest-updates detailed page
 
-### Talk on remdesivir and other polymerase inhibitors
+Instruction:
 
-SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University: https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044
+1. The homepage version's three hashtags (###) title should be linked to the two hashtags (##) title here.
 
-### Monoclonal antibodies (August 26)
-Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry: [https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29)
+2. Dated updates should be listed in descending order.
+
+3. For links from covdb.stanford.edu, please remove the leading "https://covdb.stanford.edu".
+   For example, "https://covdb.stanford.edu/page/updates/" should be shorten to "/page/updates/".
+
+4. Try not to include plain links such as [https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044).
+   Please include readable content in the bracket, e.g. [video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044).
+
+5. Please do not delete this instruction.
+
+-->
+## Talk on remdesivir and other polymerase inhibitors
+SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
+
+## New clinical trials (September 8)
+Fourteen clinical trials were added since September 3: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-03).
+
+## Published preprints (August 31)
+- Vuong W, Khan MB, et int., and Lemieux MJ. “Feline coronavirus drug inhibits the main protease of SARS-CoV-2 and blocks virus replication.” Nature Communications, 2020. [doi.org/10.1038/s41467-020-18096-2](https://doi.org/10.1038/s41467-020-18096-2). [PubMed32855413](https://www.ncbi.nlm.nih.gov/pubmed/32855413/)
+- Weston S, Coleman CM, et int., and Frieman MB. “Broad anti-coronaviral activity of FDA approved drugs against SARS-CoV-2 in vitro and SARS-CoV in vivo.” Journal of Virology, 2020. [doi.org/10.1128/.01218-20](https://doi.org/10.1128/jviJVI.01218-20). [PubMed32817221](https://www.ncbi.nlm.nih.gov/pubmed/32817221/)
+- Klemm T, Ebert G, et int., and Komander D. “Mechanism and inhibition of the papain‐like protease, PLpro, of SARS‐-CoV‐2.” The EMBO Journal, 2020. [doi.org/10.15252/embj.2020106275](https://doi.org/10.15252/embj.2020106275). [PubMed32845033](https://www.ncbi.nlm.nih.gov/pubmed/32845033/)
+
+## Monoclonal antibodies (August 26)
+Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry: [MAb list](/compound-list/?target=Entry%20%28monoclonal%20antibodies%29).
 
 Two mAb preparations are in phase III trials for preventing and treating SARS-CoV-2 infections: (i) the combination of REGN10933 and REGN10987 and (ii) LY3819253. Six antibody preparations are in phase I/II trials: AZD7442, BRII-196, JS016, SCTA01, STI-1499, and TY027.
 
 The above link summaries preclinical data on mAbs from multiple research laboratories several of which will also likely enter clinical trials. However, other than the three papers describing REGN10933 and REGN10987[^10.1126/science.abd0827][^10.1126/science.abd0831][^10.1101/2020.08.02.233320], there are no published preclinical data on any of the other mAbs in clinical trials. Without such data it is not clear how clinical investigators and physicians will choose which trials to enroll.
 
-### Ciclesonide (August 24)
+## Ciclesonide (August 24)
 An updated preprint has reported that the inhaled corticosteroid ciclesonide consistently selects for mutations in nsp3 and nsp4 when SARS-CoV-2 is cultured in the presence of increasing drug concentrations[^10.1101/2020.08.22.258459]. This demonstrates that ciclesonide has a specific antiviral mechanism, which the authors speculate is interference with the double membrane formation that anchors the coronavirus replication transcription complex within cells. Unfortunately, there has been little progress initiating clinical trials with just two being active and six still pending.
 
-### Remdesivir versus standard of care -- moderate COVID-19 pneumonia (August 21)
+## Remdesivir versus standard of care – moderate COVID-19 pneumonia (August 21)
 The randomized controlled open-label Gilead SIMPLE-moderate trial enrolled 596 hospitalized persons with radiographic evidence of pneumonia with oxygen saturations >94% on room air and randomized them 1:1:1 to remdesivir for 10 days, remdesivir for 5 days, or standard of care (SOC)[^10.1001/jama.2020.16349].  Approximately 15% were receiving low-flow O2; 85% did not require O2 supplementation. 15% overall were receiving corticosteroids. Approximately 45% in the SOC care group vs. 10% in the remdesivir groups were receiving a chloroquine analog. The primary endpoints were the distribution of clinical status on a 7-point ordinal scale and the proportion with adverse events throughout the study. Due to logistical issues, virological data were limited and not presented. Most patients in the 10 day arm did not complete their course of therapy because they were discharged, By day 11, the 5 day remdesivir group (OR 1.7; 95%CI, 1.1-2.5; P=.02) but not the 10 day group (p=0.18) had an improved clinical status distribution than the SOC group. By day 28, 9 patients died: 2 (1%) in the 5 day group, 3 (2%) in the 10 day group, and 4 (2%) in SOC group. There also did not seem to be a significant reduction in the need for mechanical ventilation (1 vs. 4) or high-flow oxygen (5 vs. 7) between the pooled remdesivir patients vs. SOC by day 11.
 
-Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial, albeit in a relatively narrow patient population -- those receiving low-flow supplemental oxygen. The benefits of this drug increasingly rest on a single clinical trial (the NIH adaptive trial), which was unfortunately terminated prematurely.
+Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial, albeit in a relatively narrow patient population – those receiving low-flow supplemental oxygen. The benefits of this drug increasingly rest on a single clinical trial (the NIH adaptive trial), which was unfortunately terminated prematurely.
 
-### Published preprints, (August 31)
-
-- Vuong W, Khan MB, et int., and Lemieux MJ. “Feline coronavirus drug inhibits the main protease of SARS-CoV-2 and blocks virus replication.” Nature Communications, 2020. [doi.org/10.1038/s41467-020-18096-2](https://doi.org/10.1038/s41467-020-18096-2). [PubMed32855413](https://www.ncbi.nlm.nih.gov/pubmed/32855413/)
-- Weston S, Coleman CM, et int., and Frieman MB. “Broad anti-coronaviral activity of FDA approved drugs against SARS-CoV-2 in vitro and SARS-CoV in vivo.” Journal of Virology, 2020. [doi.org/10.1128/.01218-20](https://doi.org/10.1128/jviJVI.01218-20). [PubMed32817221](https://www.ncbi.nlm.nih.gov/pubmed/32817221/)
-- Klemm T, Ebert G, et int., and Komander D. “Mechanism and inhibition of the papain‐like protease, PLpro, of SARS‐-CoV‐2.” The EMBO Journal, 2020. [doi.org/10.15252/embj.2020106275](https://doi.org/10.15252/embj.2020106275). [PubMed32845033](https://www.ncbi.nlm.nih.gov/pubmed/32845033/)
-
-### New clinical trials, Sep 8
-
-- [New clinical trials](https://covdb.stanford.edu/clinical-trials/?fromDate=2020-09-03)
-
-### Thursday August 13
-#### Convalescent plasma
+## Thursday August 13
+### Convalescent plasma
 Joyner et al published an expanded efficacy analysis of 35,722 hospitalized patients with severe disease in the Expanded Access Program of whom 61% were in the ICU and 33% receiving mechanical ventilation[^10.1101/2020.08.12.20169359]. The 7D mortality was 8.7% \[95% CI 8.3%-9.2%\] in patients transfused within 3 days of diagnosis but 11.9% \[11.4%-12.2%\] in patients transfused >=4D (p<0.001). Similar findings observed for 30D mortality (21.6% vs. 26.7%, p<0.0001). 7D mortality was also reduced for those who received plasma with higher SARS-CoV-2 IgG titers[^10.1101/2020.08.12.20169359].
 
 Updated conclusion: Convalescent plasma likely provides a measurable modest benefit when administered early in the course of disease to patients with severe disease. Efficacy also depends on the titer of neutralizing antibodies in the donor sample. However, there is sufficient uncertainty about the clinical efficacy of convalescent plasma particularly in non-severe patients to justify the completion of randomized trials for this complicated expensive intervention.
 
-#### Nucleoside analogs
+### Nucleoside analogs
 __AT-527__ is an oral nucleoside analog prodrug of AT-511 which has been studied for the treatment of HCV and has been shown to inhibit SARS-CoV-2 in vitro[^10.1101/2020.08.11.242834]. It is being evaluated in a phase II placebo controlled trial of hospitalized patients without severe disease.
 
-### Monday August 10
-#### DHODH inhibitors
+## Monday August 10
+### DHODH inhibitors
 Dihydroorotate dehydrogenase (DHODH) is an enzyme in the pyrimidine synthesis pathway. DHODH inhibition limits the availability of nucleoside triphosphates required for viral replication. DHODH inhibitors have also been used to treat autoimmune diseases, organ rejection, and cancer. __Leflunomide__ is a licensed drug for the treatment of rheumatoid and psoriatic arthritis. Its active metabolite teriflunomide has been shown to have weak _in vitro_ SARS-CoV-2 activity[^10.1007/s13238-020-00768-w]. Leflunomide was shown to reduce virus load and to increase recovery by day 14 in a clinical trial of 27 patients[^10.1101/2020.05.29.20114223]. Several other investigational DHODH inhibitors have exhibited much greater _in vitro_ activity including __PTC299__ which has an EC<sub>50</sub> in the low nanomolar range and a high selectivity index [^10.1007/s13238-020-00768-w][^10.1101/2020.08.05.238394]. PTC299 is an oral drug that is also being developed for oncological indications and has been studied in nine clinical trials in over 300 individuals. A placebo-controlled clinical trial of PTC299 in 380 hospitalized patients with COVID-19 began in July (NCT04439071). __IMU-838__ and __brequinar__ are two other compounds acting by this mechanism.
 
-#### New data on host protease inhibitors
+### New data on host protease inhibitors
 The FDA approved drug, __alpha-1-antitrypsin (A1AT)__ has also been shown to inhibit TMPRSS2 [^10.1101/2020.05.04.077826]; It is being studied in three clinical trials intravenously and via inhalation.
 
 Camostat mesylate is rapidly converted into its active metabolite GBPA in animals and humans. __FOY-251__, a methanesulfonate of GBPA has been reported to also inhibit TMPRSS2 but at a somewhat reduced capacity compared with camostat[^10.1101/2020.08.05.237651].
 
-#### Updated synthesis on chloroquine (CQ) and hydroxychloroquine (HCQ)
+### Updated synthesis on chloroquine (CQ) and hydroxychloroquine (HCQ)
 However, two large blinded and three large open-label randomized control trials totaling more than 6,000 patients failed to show any clinical or virological benefit from the use of hydroxychloroquine[^10.1101/2020.07.15.20151852][^10.7326/M20-4207][^10.1056/NEJMoa2019014][^PMID32409561][^10.1093/cid/ciaa1009]. Two additional randomized controlled studies totaling more than 3,000 patients failed to show a reduction in the risk of infection among exposed patients receiving HCQ[^10.1101/2020.07.20.20157651][^10.1056/NEJMoa2016638].  The lack of efficacy likely reflects the fact that  at standard dosages, CQ and HCQ do not achieve sufficiently high inhibitory drug levels[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1002/cpt.1909] and because cytoplasmic entry of SARS-CoV-2, particularly in lung cells, depends primarily on the membrane based enzyme TMPRSS2 rather than on endosomal fusion and acidification[^10.1101/2020.07.22.216150][^10.1038/s41586-020-2575-3].
 
 <!-- start of references details -->
