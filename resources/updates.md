@@ -18,11 +18,11 @@ The randomized controlled open-label Gilead SIMPLE-moderate trial enrolled 596 h
 
 Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial, albeit in a relatively narrow patient population -- those receiving low-flow supplemental oxygen. The benefits of this drug increasingly rest on a single clinical trial (the NIH adaptive trial), which was unfortunately terminated prematurely.
 
-### Published preprints, August 31
+### Published preprints, (August 31
 
-- Vuong W, Khan MB, et int., and Lemieux MJ. “Feline coronavirus drug inhibits the main protease of SARS-CoV-2 and blocks virus replication.” Nature Communications, 2020. [doi.org/10.1038/s41467-020-18096-2](https://doi.org/10.1038/s41467-020-18096-2). [PubMed32855413](https://www.ncbi.nlm.nih.gov/pubmed/32855413/)
-- Weston S, Coleman CM, et int., and Frieman MB. “Broad anti-coronaviral activity of FDA approved drugs against SARS-CoV-2 in vitro and SARS-CoV in vivo.” Journal of Virology, 2020. [doi.org/10.1128/jvi.01218-20](https://doi.org/10.1128/jvi.01218-20). [PubMed32817221](https://www.ncbi.nlm.nih.gov/pubmed/32817221/)
-- Klemm T, Ebert G, et int., and Komander D. “Mechanism and inhibition of the papain‐like protease, PLpro, of SARS‐CoV‐2.” The EMBO Journal, 2020. [doi.org/10.15252/embj.2020106275](https://doi.org/10.15252/embj.2020106275). [PubMed32845033](https://www.ncbi.nlm.nih.gov/pubmed/32845033/)
+- Vuong W, Khan MB, et int., and Lemieux MJ. “Feline coronavirus drug inhibits the main protease of SARS-CoV-2 and blocks virus replication.” Nature Communications, 2020. [doi.org/10.1038/s41467-020-18096-2](https://doi.org/10.1038/s41467-020-18096-2). [PubMed32855413](https://www.ncbi.nlm.nih.gov/pubm4)
+- Weston S, Coleman CM, et int., and Frieman MB. “Broad anti-coronaviral activity of FDA approved drugs against SARS-CoV-2 in vitro and SARS-CoV in vivo.” Journal of Virology, 2020. [doi.org/10.1128/.01218-20](https://doi.org/10.1128/jviJVI.01218-20). [PubMed32](https://www.ncbi.nlm.nih.gov/pubmed/32817221/)
+- Klemm T, Ebert G, et int., and Komander D. “Mechanism and inhibition of the papain‐like protease, PLpro, of SARS‐-CoV‐2.” The EMBO Journal, 2020. [doi.org/10.15252/emu](https://doi.org/10.15252/embj.2020106275). [PubMed32845033698192](https://www.ncbi.nlm.nih.gov/pubmed/32845033/)
 
 ### New clinical trials, Sep 8
 
@@ -80,10 +80,10 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyMjgzNzgyLC0xMTE4MDE2NDkwLC0yMD
-c2MzM2NDYsMTUxMTQwODU1NCwyMTMyNzM5OTgsMjc1NjM5ODYs
-LTQ5ODI3NjAxOSwtMTM5MzEzODY4MCwtMTcyNTUyMjM1NSwtMT
-QxNDIxNzkyOSwtMTU0MzM3NTIwNCwtMTkzNTEzOTg5OSwtNzUx
-NDE2MzYyLDYzNDgxMTk2NywxNjA5MjM0NTgsNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbMTA0MzI2OTgwLDI0MjI4Mzc4MiwtMTExOD
+AxNjQ5MCwtMjA3NjMzNjQ2LDE1MTE0MDg1NTQsMjEzMjczOTk4
+LDI3NTYzOTg2LC00OTgyNzYwMTksLTEzOTMxMzg2ODAsLTE3Mj
+U1MjIzNTUsLTE0MTQyMTc5MjksLTE1NDMzNzUyMDQsLTE5MzUx
+Mzk4OTksLTc1MTQxNjM2Miw2MzQ4MTE5NjcsMTYwOTIzNDU4LD
+czMDk5ODExNl19
 -->
