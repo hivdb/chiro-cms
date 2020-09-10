@@ -28,8 +28,8 @@ SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 20
 ### [New clinical trials (September 8)](/page/updates/#new.clinical.trials.september.8.)
 Fourteen clinical trials were added since September 3: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-03).
 
-### [Published preprints (August 31)](/page/updates/#published.preprints.august.31.)
-Three preprints were published. ([updates](/page/updates/#published.preprints.august.31.))
+### [Published preprints (September 8)](/page/updates/#published.preprints.september.8.)
+One preprint was published. ([updates](/page/updates/#published.preprints.september.8.))
 
 ### [Monoclonal antibodies (August 26)](/page/updates/#monoclonal.antibodies.august.26.)
 Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry. ([MAb list](/compound-list/?target=Entry%20%28monoclonal%20antibodies%29))
