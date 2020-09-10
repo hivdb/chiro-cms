@@ -27,7 +27,7 @@ Fourteen clinical trials were added since September 3: [list of new clinical tri
 - Hanke L, Vidakovics Perez L, et int., and McInerney GM. “An alpaca nanobody neutralizes SARS-CoV-2 by blocking receptor interaction.” Nature Communications, 2020. [doi.org/10.1038/s41467-020-18174-5](https://doi.org/10.1038/s41467-020-18174-5). [PubMed32887876](https://www.ncbi.nlm.nih.gov/pubmed/32887876/)
 
 ## Monoclonal antibodies (August 26)
-Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry: [MAb list](/compound-list/?target=Entry%20%28monoclonal%20antibodies%29).
+Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry: [MAb list](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29).
 
 Two mAb preparations are in phase III trials for preventing and treating SARS-CoV-2 infections: (i) the combination of REGN10933 and REGN10987 and (ii) LY3819253. Six antibody preparations are in phase I/II trials: AZD7442, BRII-196, JS016, SCTA01, STI-1499, and TY027.
 
@@ -93,10 +93,10 @@ However, two large blinded and three large open-label randomized control trials 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzI2OTgwLDI0MjI4Mzc4MiwtMTExOD
-AxNjQ5MCwtMjA3NjMzNjQ2LDE1MTE0MDg1NTQsMjEzMjczOTk4
-LDI3NTYzOTg2LC00OTgyNzYwMTksLTEzOTMxMzg2ODAsLTE3Mj
-U1MjIzNTUsLTE0MTQyMTc5MjksLTE1NDMzNzUyMDQsLTE5MzUx
-Mzk4OTksLTc1MTQxNjM2Miw2MzQ4MTE5NjcsMTYwOTIzNDU4LD
-czMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTIwNjI1ODIyNTgsMTA0MzI2OTgwLDI0Mj
+I4Mzc4MiwtMTExODAxNjQ5MCwtMjA3NjMzNjQ2LDE1MTE0MDg1
+NTQsMjEzMjczOTk4LDI3NTYzOTg2LC00OTgyNzYwMTksLTEzOT
+MxMzg2ODAsLTE3MjU1MjIzNTUsLTE0MTQyMTc5MjksLTE1NDMz
+NzUyMDQsLTE5MzUxMzk4OTksLTc1MTQxNjM2Miw2MzQ4MTE5Nj
+csMTYwOTIzNDU4LDczMDk5ODExNl19
 -->
