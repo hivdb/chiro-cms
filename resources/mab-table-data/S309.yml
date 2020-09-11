@@ -1,0 +1,26 @@
+references:
+  - doi: 10.1038/s41586-020-2349-y
+    firstAuthor:
+      surname: Pinto
+      givenNames: Dora
+    year: 2020
+    journal: Nature
+source:
+  - SARS-1 B cells
+  - RBD & S trimer
+antibodies:
+  - name: S309
+    ec50: 80
+    pdb: S trimer (6WPS, 6WPT)
+    species: Human
+    IGHV: IGHV1-18
+    PcntMutH: 6%
+    CDRH3Len: 20
+    IGHJ: IGHJ4
+    IGLV: IGKV3-20
+    PcntMutL: 3%
+    CDRL3Len: 8
+    IGLJ: IGKJ4
+config: |-
+  S309: Cross-neutralizes SARS-1, Non-ACE2, Open and closed,
+  Proteoglycan epitope (N343)

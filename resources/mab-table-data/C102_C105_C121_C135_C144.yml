@@ -1,0 +1,80 @@
+references:
+  - doi: 10.1038/s41586-020-2456-9
+    firstAuthor:
+      surname: Robbiani
+      givenNames: Davide F.
+    year: 2020
+    journal: Nature
+  - doi: 10.1016/j.cell.2020.06.025
+    firstAuthor:
+      surname: Barnes
+      givenNames: Christopher O.
+    year: 2020
+    journal: Cell
+  - doi: 10.1101/2020.07.21.214759
+    firstAuthor:
+      surname: Weisblum
+      givenNames: Yiska
+    year: 2020
+    journal: bioRxiv
+source:
+  - SARS-2 B cells
+  - RBD
+antibodies:
+  - name: C102
+    species: Human
+    IGHV: IGHV3-53
+    PcntMutH: 3%
+    CDRH3Len: 11
+    IGHJ: IGHJ4
+    IGLV: IGKV3-20
+    PcntMutL: 0%
+    CDRL3Len: 9
+    IGLJ: IGKJ1
+  - name: C105
+    ec50: 26
+    pdb: S trimer (6XCM
+    species: Human
+    IGHV: IGHV3-53
+    PcntMutH: 1%
+    CDRH3Len: 12
+    IGHJ: IGHJ4
+    IGLV: IGLV2-8
+    PcntMutL: 1%
+    CDRL3Len: 11
+    IGLJ: IGLJ3
+  - name: C121
+    ec50: 1.6
+    species: Human
+    IGHV: IGHV1-2
+    PcntMutH: 2%
+    CDRH3Len: 22
+    IGHJ: IGHJ6
+    IGLV: IGLV2-23
+    PcntMutL: 0%
+    CDRL3Len: 10
+    IGLJ: IGLJ3
+  - name: C135
+    ec50: 3
+    species: Human
+    IGHV: IGHV3-30
+    PcntMutH: 4%
+    CDRH3Len: 12
+    IGHJ: IGHJ4
+    IGLV: IGKV1-5
+    PcntMutL: 3%
+    CDRL3Len: 9
+    IGLJ: IGKJ1
+  - name: C144
+    ec50: 2.5
+    species: Human
+    IGHV: IGHV3-53
+    PcntMutH: 3%
+    CDRH3Len: 25
+    IGHJ: IGHJ4
+    IGLV: IGLV2-14
+    PcntMutL: 1%
+    CDRL3Len: 10
+    IGLJ: IGLJ1
+config: |-
+  C105: ACE2-competing, Binds 2 or 3 RBDs in up configuration.

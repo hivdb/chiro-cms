@@ -1,0 +1,45 @@
+references:
+  - doi: 10.1038/s41594-020-0480-y
+    firstAuthor:
+      surname: Zhou
+      givenNames: Daming
+    year: 2020
+    journal: Nature Structural & Molecular Biology
+    journalShort: Nat Struct Mol Biol
+  - doi: 10.1038/s41594-020-0469-6
+    firstAuthor:
+      surname: Huo
+      givenNames: Jiangdong
+    year: 2020
+    journal: Nature Structural & Molecular Biology
+    journalShort: Nat Struct Mol Biol
+source:
+  - SARS-CoV-2 plasmablasts
+  - ELISA S1 & Spike
+antibodies:
+  - name: EY6A
+    ec50: 70
+    pdb: / Disordered spike (6ZDG, 6ZFO)
+    species: Human
+    IGHV: IGHV3-30-3
+    PcntMutH: 3%
+    CDRH3Len: 14
+    IGHJ: IGHJ4
+    IGLV: IGKV1-39
+    PcntMutL: 0%
+    CDRL3Len: 10
+    IGLJ: IGKJ4
+  - name: H11-H4
+    ec50: 90
+    pdb: '+ CR3022: RBD (6ZH9) (Huo)'
+    species: Alpaca
+    IGHV: IGHV3-3
+    PcntMutH: 8%
+    CDRH3Len: 20
+    IGHJ: IGHJ4
+    IGLV: ''
+    PcntMutL: ''
+    CDRL3Len:
+    IGLJ: ''
+config: |-
+  EY6A: non-ACE2

@@ -1,0 +1,30 @@
+references:
+  - doi: 10.1038/s41586-020-2571-7
+    firstAuthor:
+      surname: Liu
+      givenNames: Lihong
+    year: 2020
+    journal: Nature
+source:
+  - SARS-2 B cells
+  - S trimer
+antibodies:
+  - name: 1-20
+    ec50: 7.5
+  - name: 1-57
+    ec50: 7.5
+  - name: 2-15
+    ec50: 0.8
+  - name: 2-17
+    ec50: 6
+  - name: 2-7
+    ec50: 3
+  - name: 4-8
+    ec50: 9
+    pdb: S trimer
+  - name: 5-24
+    ec50: 7.5
+config: |-
+  2-4: ACE2-competing, binds RBD in down position.
+  4-8: binds NTD
+  2-43 (5.8 angstroms): 3 bound Fabs to a quaternary epitope at top of spike with binding to adjacent S1 protomers

@@ -1,0 +1,38 @@
+references:
+  - doi: 10.1371/journal.pmed.0030237
+    firstAuthor:
+      surname: ter Meulen
+      givenNames: Jan
+    year: 2006
+    journal: PLoS Medicine
+    journalShort: PLoS Med
+  - doi: 10.1126/science.abb7269
+    firstAuthor:
+      surname: Yuan
+      givenNames: Meng
+    year: 2020
+    journal: Science
+  - doi: 10.1016/j.chom.2020.06.010
+    firstAuthor:
+      surname: Huo
+      givenNames: Jiandong
+    year: 2020
+    journal: Cell Host & Microbe
+source:
+  - SARS-1 scFv phage display / Irradiated SARS-1
+antibodies:
+  - name: CR3022
+    ec50: 114
+    pdb: S trimer (6Z97)
+    species: Human
+    IGHV: IGHV5-51
+    PcntMutH: 9%
+    CDRH3Len: 12
+    IGHJ: IGHJ6
+    IGLV: IGKV4-1
+    PcntMutL: 3%
+    CDRL3Len: 9
+    IGLJ: IGKJ1
+config: |-
+  CR3022 is a SARS-1 cross-reacting mAb that binds to a non-competing
+  RBD epitope accessible only when the RBD is in the up configuration.

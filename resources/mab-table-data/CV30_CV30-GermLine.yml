@@ -1,0 +1,32 @@
+references:
+  - doi: 10.1016/j.immuni.2020.06.001
+    firstAuthor:
+      surname: Seydoux
+      givenNames: Emilie
+    year: 2020
+    journal: Immunity
+  - doi: 10.1101/2020.06.12.148692
+    firstAuthor:
+      surname: Hurlburt
+      givenNames: Nicholas K.
+    year: 2020
+    journal: bioRxiv
+source:
+  - SARS-2 B cells
+  - Trimeric spike & RBD
+antibodies:
+  - name: CV30
+    ec50: 1650
+    pdb: RBD (6XE1)
+    species: Human
+    IGHV: IGHV3-53
+    PcntMutH: 2%
+    CDRH3Len: 12
+    IGHJ: IGHJ6
+    IGLV: IGKV3-20
+    PcntMutL: 0%
+    CDRL3Len: 9
+    IGLJ: IGKJ2
+  - name: CV30-GermLine
+config: |-
+  CV30: ACE2

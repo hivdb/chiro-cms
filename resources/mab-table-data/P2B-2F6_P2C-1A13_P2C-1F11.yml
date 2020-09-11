@@ -1,0 +1,31 @@
+references:
+  - doi: 10.1038/s41586-020-2380-z
+    firstAuthor:
+      surname: Ju
+      givenNames: Bin
+    year: 2020
+    journal: Nature
+source:
+  - SARS-2 B cells
+  - RBD
+antibodies:
+  - name: P2B-2F6
+    ec50: 410
+    pdb: RBD (7BWJ)
+    species: Human
+    IGHV: IGHV4-38-2
+    PcntMutH: 1%
+    CDRH3Len: 20
+    IGHJ: IGHJ3
+    IGLV: IGLV2-8
+    PcntMutL: 0%
+    CDRL3Len: 10
+    IGLJ: IGLJ3
+  - name: P2C-1A13
+    ec50: 280
+  - name: P2C-1F11
+    ec50: 30
+config: |-
+  P2B-2F6: ACE2, Aligned with open and closed configuration;
+  P2C-1F11: ACE2;
+  P2C-1A13: ACE2

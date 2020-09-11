@@ -1,0 +1,38 @@
+references:
+  - doi: 10.1016/j.cell.2020.06.044
+    firstAuthor:
+      surname: Kreer
+      givenNames: Christoph
+    year: 2020
+    journal: Cell
+source:
+  - SARS-2 B cells
+  - S trimer
+antibodies:
+  - name: MnC2t1p1_A3
+    species: Human
+    IGHV: IGHV3-66
+    PcntMutH: 3%
+    CDRH3Len: 13
+    IGHJ: IGHJ4
+    IGLV: IGKV1D-12
+    PcntMutL: 0%
+    CDRL3Len: 9
+    IGLJ: IGKJ1
+  - name: MnC2t1p1_C11
+    ec50: 100
+    ec50Note: IC100
+  - name: MnC4t2p1_B3
+    ec50: 100
+    ec50Note: IC100
+    species: Human
+    IGHV: IGHV3-9
+    PcntMutH: 10%
+    CDRH3Len: 17
+    IGHJ: IGHJ2
+    IGLV: IGKV1-12
+    PcntMutL: 4%
+    CDRL3Len: 9
+    IGLJ: IGKJ3
+config: |-
+  None

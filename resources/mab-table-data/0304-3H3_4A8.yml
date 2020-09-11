@@ -1,0 +1,36 @@
+references:
+  - doi: 10.1126/science.abc6952
+    firstAuthor:
+      surname: Chi
+      givenNames: Xiangyang
+    year: 2020
+    journal: Science
+source:
+  - SARS-2 B cells
+  - S trimer
+antibodies:
+  - name: 0304-3H3
+    ec50: 40
+    species: Human
+    IGHV: IGHV4-59
+    PcntMutH: 4%
+    CDRH3Len: 18
+    IGHJ: IGHJ2
+    IGLV: IGKV3-15
+    PcntMutL: 2%
+    CDRL3Len: 10
+    IGLJ: IGKJ1
+  - name: 4A8
+    ec50: 610
+    pdb: S trimer (7C2L*)
+    species: Human
+    IGHV: IGHV1-24
+    PcntMutH: 3%
+    CDRH3Len: 21
+    IGHJ: IGHJ6
+    IGLV: IGKV2-24
+    PcntMutL: 2%
+    CDRL3Len: 9
+    IGLJ: IGKJ3
+config: |-
+  4A8: Binds NTD

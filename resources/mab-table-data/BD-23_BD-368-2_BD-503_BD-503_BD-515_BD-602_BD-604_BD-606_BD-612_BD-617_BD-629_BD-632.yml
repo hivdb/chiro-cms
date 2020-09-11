@@ -1,0 +1,68 @@
+references:
+  - doi: 10.1016/j.cell.2020.05.025
+    firstAuthor:
+      surname: Cao
+      givenNames: Yunlong
+    year: 2020
+    journal: Cell
+  - doi: 10.1101/2020.07.09.195263
+    firstAuthor:
+      surname: Du
+      givenNames: Shuo
+    year: 2020
+    journal: bioRxiv
+source:
+  - SARS-2 B cells
+  - RBD & S trimer
+antibodies:
+  - name: BD-23
+    pdb: S Trimer (7BYR)
+  - name: BD-368-2
+    ec50: 15
+    pdb: S Trimer (7CHH, Pending)
+  - name: BD-503
+    ec50: 140
+  - name: BD-503
+    ec50: 140
+  - name: BD-515
+    ec50: 200
+  - name: BD-602
+    ec50Note: PV
+    ec50: 11
+  - name: BD-604
+    ec50: 5
+    pdb: RBD (7CH4, Pending)
+    species: Human
+    IGHV: IGHV3-53
+    PcntMutH: 5%
+    CDRH3Len: 11
+    IGHJ: IGHJ6
+    IGLV: ''
+    PcntMutL: ''
+    CDRL3Len:
+    IGLJ: ''
+  - name: BD-606
+    ec50: 6
+  - name: BD-612
+    ec50: 18
+  - name: BD-617
+    ec50: 9
+  - name: BD-629
+    ec50: 4
+    pdb: RBD (7CH5, Pending)
+    species: Human
+    IGHV: IGHV3-53
+    PcntMutH: 4%
+    CDRH3Len: 11
+    IGHJ: IGHJ4
+    IGLV: ''
+    PcntMutL: ''
+    CDRL3Len:
+    IGLJ: ''
+  - name: BD-632
+    ec50: 17
+config: |-
+  BD-23: ACE2, Closed;
+  BD-368-2: ACE2, Occupies all three RBDs simultaneously regardless of configuration and it can bind the same RBD simultaneously with VH3-53/66 mAbs;
+  BD-604. BD-629, and BD-236 are ACE2-competing mAbs that only bind the open configuration.
+  [Note: Claim that VH3-53/66 only bind to open configuration]

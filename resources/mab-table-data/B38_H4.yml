@@ -1,0 +1,38 @@
+references:
+  - doi: 10.1126/science.abc2241
+    firstAuthor:
+      surname: Wu
+      givenNames: Yan
+    year: 2020
+    journal: Science
+source:
+  - SARS-2 B cells
+  - RBD
+antibodies:
+  - name: B38
+    ec50: 180
+    pdb: RBD (7BZ5)
+    species: Human
+    IGHV: IGHV3-53
+    PcntMutH: 1%
+    CDRH3Len: 9
+    IGHJ: IGHJ6
+    IGLV: IGKV1-9
+    PcntMutL: 2%
+    CDRL3Len: 10
+    IGLJ: IGKJ2
+  - name: H4
+    ec50: 900
+    species: Human
+    IGHV: IGHV1-2
+    PcntMutH: 0%
+    CDRH3Len: 19
+    IGHJ: IGHJ2
+    IGLV: IGKV2-40
+    PcntMutL: 2%
+    CDRL3Len: 9
+    IGLJ: IGKJ4
+config: |-
+  H4: ACE2;
+  B38; ACE2;
+  H4 and B38: non-overlapping

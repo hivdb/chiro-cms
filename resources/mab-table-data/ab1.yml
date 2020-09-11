@@ -1,0 +1,15 @@
+references:
+  - doi: 10.1101/2020.05.13.093088
+    firstAuthor:
+      surname: Li
+      givenNames: Wei
+    year: 2020
+    journal: bioRxiv
+source:
+  - 'Phage display: Naïve B cell Fab & scFv libraries'
+  - RBD panning
+antibodies:
+  - name: ab1
+    ec50: 195
+config: |-
+  ACE2-competing

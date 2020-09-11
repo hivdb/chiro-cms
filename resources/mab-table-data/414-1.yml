@@ -1,0 +1,15 @@
+references:
+  - doi: 10.1016/j.celrep.2020.107918
+    firstAuthor:
+      surname: Wan
+      givenNames: Jinkai
+    year: 2020
+    journal: Cell Reports
+source:
+  - SARS-2 B cells
+  - RBD & S trimer
+antibodies:
+  - name: 414-1
+    ec50: 263
+config: |-
+  414-1: ACE2-competing

@@ -1,0 +1,71 @@
+references:
+  - doi: 10.1126/science.abd0827
+    firstAuthor:
+      surname: Hansen
+      givenNames: Johanna
+    year: 2020
+    journal: Science
+  - doi: 10.1126/science.abd0831
+    firstAuthor:
+      surname: Baum
+      givenNames: Alina
+    year: 2020
+    journal: Science
+  - doi: 10.1101/2020.08.02.233320
+    firstAuthor:
+      surname: Baum
+      givenNames: Alina
+    year: 2020
+    journal: bioRxiv
+source:
+  - Humanized mice immunized with S boosted with RBD
+antibodies:
+  - name: REGN10933
+    ec50: 8
+    pdb: '+REGN10987: RBD (6XDG)'
+    species: Human
+    IGHV: IGHV3-11
+    PcntMutH: 3%
+    CDRH3Len: 13
+    IGHJ: IGHJ4
+    IGLV: IGKV1-33
+    PcntMutL: 3%
+    CDRL3Len: 9
+    IGLJ: IGKJ4
+  - name: REGN10934
+    ec50: 4.5
+    species: Human
+    IGHV: IGHV3-15
+    PcntMutH: 1%
+    CDRH3Len: 11
+    IGHJ: IGHJ2
+    IGLV: IGKV1-33
+    PcntMutL: 3%
+    CDRL3Len: 9
+    IGLJ: IGKJ1
+  - name: REGN10987
+    ec50: 6
+    species: Human
+    IGHV: IGHV3-30
+    PcntMutH: 3%
+    CDRH3Len: 13
+    IGHJ: IGHJ4
+    IGLV: IGLV2-14
+    PcntMutL: 3%
+    CDRL3Len: 10
+    IGLJ: IGLJ3
+  - name: REGN10989
+    ec50: 1.1
+    species: Human
+    IGHV: IGHV1-2
+    PcntMutH: 6%
+    CDRH3Len: 16
+    IGHJ: IGHJ5
+    IGLV: IGLV2-14
+    PcntMutL: 4%
+    CDRL3Len: 10
+    IGLJ: IGLJ3
+config: |-
+  REGN10933: ACE2, RBD top
+  REGN10987: ACE2
+  REGN10933 and REGN10987: non-overlapping

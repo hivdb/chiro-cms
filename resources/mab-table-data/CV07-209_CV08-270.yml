@@ -1,0 +1,18 @@
+references:
+  - doi: 10.1101/2020.08.15.252320
+    firstAuthor:
+      surname: Kreye
+      givenNames: Jakob
+    year: 2020
+    journal: bioRxiv
+source:
+  - SARS-2 B cells
+  - ELISA for RBD binding
+antibodies:
+  - name: CV07-209
+    ec50: 3.1
+    pdb: RBD (6XKQ
+  - name: CV08-270
+config: |-
+  CV-209: ACE2-competing
+  CV-270: partial ACE2-competing

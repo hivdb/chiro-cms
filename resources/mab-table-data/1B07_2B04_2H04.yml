@@ -1,0 +1,54 @@
+references:
+  - doi: 10.4049/jimmunol.2000583
+    firstAuthor:
+      surname: Alsoussi
+      givenNames: Wafaa B.
+    year: 2020
+    journal: The Journal of Immunology
+    journalShort: J.I.
+  - doi: 10.1016/j.cell.2020.06.011
+    firstAuthor:
+      surname: Hassan
+      givenNames: Ahmed O.
+    year: 2020
+    journal: Cell
+source:
+  - Plasmablasts from mice immunized with RBD followed by trimeric S boosting
+  - humanized
+antibodies:
+  - name: 1B07
+    ec50: 37
+    species: Mouse
+    IGHV: IGHV2-9-1
+    PcntMutH: 0%
+    CDRH3Len: 15
+    IGHJ: IGHJ4
+    IGLV: IGLV1
+    PcntMutL: 2%
+    CDRL3Len: 9
+    IGLJ: IGLJ3
+  - name: 2B04
+    ec50: 1.5
+    species: Mouse
+    IGHV: IGHV2-9-1
+    PcntMutH: 3%
+    CDRH3Len: 14
+    IGHJ: IGHJ4
+    IGLV: IGLV1
+    PcntMutL: 0%
+    CDRL3Len: 9
+    IGLJ: IGLJ1
+  - name: 2H04
+    ec50: 300
+    species: Mouse
+    IGHV: IGHV1-55
+    PcntMutH: 6%
+    CDRH3Len: 13
+    IGHJ: IGHJ2
+    IGLV: IGKV5-48
+    PcntMutL: 4%
+    CDRL3Len: 9
+    IGLJ: IGKJ5
+config: |-
+  2B04: ACE2;
+  2H04: non-ACE2
