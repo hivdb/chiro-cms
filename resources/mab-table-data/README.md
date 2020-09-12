@@ -26,12 +26,12 @@ Please refer to `mab-table-data/` folder for examples.
 
 ### `Antibody` object
 
-| Field                       | Type        | Description                                                                  | Required? |
-| :---                        | :---        | :---                                                                         | :---      |
-| name                        | text        | Name of this MAb.                                                            | Required  |
-| ec50                        | text/number | The EC50 info of this MAb. If only puts in number the default unit is ng/ml. | Optional  |
-| ec50Note                    | text        | Notation for EC50. Can be "PV", "IC100" or "IC90".                           | Optional  |
-| pdb                         | text        | Descriptional text for PDB structures.                                       | Optional  |
-| species                     | text        |                                                                              | Optional  |
-| IGHV/PcntMutH/CDRH3Len/IGHJ | -           | Auto populated fields from MAb alignments. Don't change them.                | Optional  |
-| IGLV/PcntMutL/CDRL3Len/IGLJ | -           | Auto populated fields from MAb alignments. Don't change them.                | Optional  |
+| Field                         | Type        | Description                                                                  | Required? |
+| :---                          | :---        | :---                                                                         | :---      |
+| `name`                        | text        | Name of this MAb.                                                            | Required  |
+| `ec50`                        | text/number | The EC50 info of this MAb. If only puts in number the default unit is ng/ml. | Optional  |
+| `ec50Note`                    | text        | Notation for EC50. Can be "PV", "IC100" or "IC90".                           | Optional  |
+| `pdb`                         | text        | Descriptional text for PDB structures.                                       | Optional  |
+| `species`                     | text        |                                                                              | Optional  |
+| `IGHV/PcntMutH/CDRH3Len/IGHJ` | -           | Auto populated fields from MAb alignments. Don't change them.                | Optional  |
+| `IGLV/PcntMutL/CDRL3Len/IGLJ` | -           | Auto populated fields from MAb alignments. Don't change them.                | Optional  |
