@@ -1,5 +1,7 @@
 # MAb Table Data Editing Instruction
 
+Please refer to `mab-table-data/` folder for examples.
+
 ## List of all fields
 
 | Field         | Type    | Description                  | Required? |
