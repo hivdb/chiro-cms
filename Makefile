@@ -1,7 +1,7 @@
 requirements.txt: Pipfile.lock
-	@pipenv freeze --requirements > requirements.txt
+	@pipenv lock --requirements > requirements.txt
 
-build-docker:
+build-docker: requirements.txt
 	@docker pull python:3
 	@docker build . --no-cache -t hivdb/chiro-cms-builder:latest
 
@@ -11,7 +11,7 @@ push-docker: build-docker
 pull-docker:
 	@docker pull hivdb/chiro-cms-builder:latest
 
-build: build.py pages images resources downloads
+build: build.py pages images resources downloads build_plugins
 	@rm -rf build/
 	@docker run \
 		--mount type=bind,source=$(PWD),target=/app \
