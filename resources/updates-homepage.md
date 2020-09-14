@@ -25,8 +25,8 @@ Instruction:
 ### [Talk on remdesivir and other polymerase inhibitors](/page/updates/#talk.on.remdesivir.and.other.polymerase.inhibitors)
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
-### [New clinical trials (September 8)](/page/updates/#new.clinical.trials.september.8.)
-Fourteen clinical trials were added since September 3: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-03).
+### [New clinical trials (September 10)](/page/updates/#new.clinical.trials.september.10.)
+20 clinical trials were added since September 10: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-10).
 
 ### [Published preprints (September 8)](/page/updates/#published.preprints.september.8.)
 One preprint was published. ([updates](/page/updates/#published.preprints.september.8.))
