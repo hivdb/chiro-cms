@@ -29,13 +29,6 @@ Li T, Han X, et int., and Jin A. “A key linear epitope for a potent neutralizi
 ### New clinical trials (Sep 10)
 20 clinical trials were added since September 10: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-10).
 
-<!--
-### Preprints => Peer-reviewed publications (Sep 1 - Sep 15): link
-
-
-### [Talk on remdesivir and other polymerase inhibitors](/page/updates/#talk.on.remdesivir.and.other.polymerase.inhibitors)
-SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
-
 ### [Published preprints (September 8)](/page/updates/#published.preprints.september.8.)
 One preprint was published. ([updates](/page/updates/#published.preprints.september.8.))
 
@@ -44,6 +37,13 @@ Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit vir
 
 ### [Ciclesonide (August 24)](/page/updates/#ciclesonide.august.24.)
 An updated preprint has reported that the inhaled corticosteroid ciclesonide consistently selects for mutations in nsp3 and nsp4 when SARS-CoV-2 is cultured in the presence of increasing drug concentrations.
+
+<!--
+### Preprints => Peer-reviewed publications (Sep 1 - Sep 15): link
+
+
+### [Talk on remdesivir and other polymerase inhibitors](/page/updates/#talk.on.remdesivir.and.other.polymerase.inhibitors)
+SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
 ### [Remdesivir versus SoC – moderate COVID-19 pneumonia (August 21)](/page/updates/#remdesivir.versus.standard.of.care.moderate.covid-19.pneumonia.august.21.)
 The randomized controlled open-label Gilead SIMPLE-moderate trial enrolled 596 hospitalized persons with radiographic evidence of pneumonia with oxygen saturations >94% on room air and randomized them 1:1:1 to remdesivir for 10 days, remdesivir for 5 days, or standard of care (SOC).
