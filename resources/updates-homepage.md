@@ -24,7 +24,7 @@ Instruction:
 -->
 
 ### New reference (Sep 15)
-[Potent neutralizing antibodies against multiple epitopes on SARS-CoV-2 spike.](/search/?article=Liu20e)
+Liu L, Wang P, et int., and Ho DD. “Potent neutralizing antibodies against multiple epitopes on SARS-CoV-2 spike.” _Nature_, 2020.([results](/search/?article=Liu20e))
 
 ### New clinical trials (Sep 10)
 20 clinical trials were added since September 10: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-10).
