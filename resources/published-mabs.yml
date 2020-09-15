@@ -1,0 +1,61 @@
+columnDefs:
+  - name: references
+    label: References
+    render: articleList
+    sort: articleList
+  - name: source
+    label: Source
+    render: join
+    renderConfig:
+      joinBy: ";\n"
+  - name: antibodies.name
+    label: MAb name
+    multiCells: true
+  - name: antibodies.IGHV
+    label: IGHV
+    render: nowrap
+    multiCells: true
+  - name: antibodies.PcntMutH
+    label: Mut (H)
+    render: nowrap
+    sort: numeric
+    multiCells: true
+  - name: antibodies.CDRH3Len
+    label: H3
+    render: nowrap
+    multiCells: true
+  - name: antibodies.IGHJ
+    label: IGHJ
+    render: nowrap
+    multiCells: true
+  - name: antibodies.IGLV
+    label: IGLV
+    render: nowrap
+    multiCells: true
+  - name: antibodies.PcntMutL
+    label: Mut (L)
+    render: nowrap
+    sort: numeric
+    multiCells: true
+  - name: antibodies.CDRL3Len
+    label: L3
+    render: nowrap
+    multiCells: true
+  - name: antibodies.IGLJ
+    label: IGLJ
+    render: nowrap
+    multiCells: true
+  - name: antibodies.ec50
+    label: EC50
+    render: nowrap
+    sort: literalEC50
+    multiCells: true
+  - name: antibodies.pdb
+    label: PDB structures
+    render: nl2br
+    multiCells: true
+  - name: description
+    label: Description
+    textAlign: left
+    render: nl2br
+    sortable: false

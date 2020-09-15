@@ -1,0 +1,15 @@
+columnDefs:
+  - name: antibodies.name
+    label: MAb name
+    multiCells: true
+  - name: company
+    label: Company
+  - name: phase
+    label: Phase
+  - name: clinicalTrials
+    label: Trial Number(s)
+    render: nl2br
+  - name: references
+    label: References
+    render: articleList
+    sort: articleList

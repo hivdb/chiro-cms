@@ -1,0 +1,18 @@
+---
+pageTitle: Monoclonal Antibodies
+# heroImage: signpost.jpg
+heroImage: mab-tables-bg.jpg
+introHeader: |-
+  Monoclonal Antibodies
+content:
+  _resource: mab-tables.md
+tables:
+  clinicalTrialMAbs:
+    _resource: clinical-trial-mabs.json
+  animalModelMAbs:
+    _resource: animal-model-mabs.json
+  publishedMAbs:
+    _resource: published-mabs.json
+toc: false
+escapeHtml: false
+...

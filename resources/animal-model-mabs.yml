@@ -1,0 +1,11 @@
+columnDefs:
+  - name: references
+    label: References
+    render: articleList
+    sort: articleList
+  - name: antibodies.name
+    label: MAb name
+    multiCells: true
+  - name: animalModel
+    label: Animal model
+    render: nl2br

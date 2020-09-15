@@ -1,6 +1,5 @@
 #! /usr/bin/env python
 
-import os
 import re
 import csv
 import sys
@@ -11,9 +10,7 @@ from ruamel.yaml.scalarstring import PreservedScalarString
 
 from functools import lru_cache
 
-
 yaml = ruamel.yaml.YAML()
-yaml.indent(sequence=4, offset=2)
 
 
 def wrapped(s, width=70):
@@ -122,14 +119,7 @@ def extract_references(row):
         if journal_short and journal != journal_short:
             refobj['journalShort'] = journal_short
         refobjs.append(refobj)
-    if not refobjs:
-        raise ValueError("No DOI was found in row {}"
-                         .format(get_first(row, 'mab names')))
     return refobjs
-
-
-def extract_source(row):
-    return smart_split2(get_first(row, 'source', 'sources'))
 
 
 EC50_PATTERN = re.compile(r"""
@@ -157,7 +147,10 @@ def contains_word(text, word):
 
 
 def extract_ec50(row, ab_names):
-    ec50s = smart_split2(get_first(row, 'ec50'))
+    ec50s = get_first(row, 'ec50', required=False)
+    if not ec50s:
+        return {}
+    ec50s = smart_split2(ec50s)
     ec50lookup = {}
     for ec50desc in ec50s:
         for ab_name in ab_names:
@@ -199,7 +192,10 @@ def extract_ec50(row, ab_names):
 
 
 def extract_pdb(row, ab_names):
-    pdbs = smart_split2(get_first(row, 'pdb structures', 'pdb'))
+    pdbs = get_first(row, 'pdb structures', 'pdb', required=False)
+    if not pdbs:
+        return {}
+    pdbs = smart_split2(pdbs, ';')
     pdblookup = {}
     for pdbdesc in pdbs:
         for ab_name in ab_names:
@@ -216,7 +212,7 @@ def extract_pdb(row, ab_names):
 
 def extract_antibodies(row, alnlookup):
     ab_names = smart_split2(get_first(
-        row, 'mab names', 'ab names', 'antibody names'))
+        row, 'mab names', 'ab names', 'antibody names', 'mab name(s)'))
     ec50lookup = extract_ec50(row, ab_names)
     pdblookup = extract_pdb(row, ab_names)
     ab_objs = []
@@ -249,6 +245,8 @@ def load_data(filepath):
 
 
 def load_aln_data(filepath):
+    if filepath == '__none__':
+        return {}
     with open(filepath, encoding='utf-8-sig') as fp:
         lookup = {}
         for row in csv.DictReader(fp):
@@ -280,29 +278,48 @@ def yaml_filename(groupobj):
 
 def main():
     if len(sys.argv) != 4:
-        print('Usage: {} <MAbCSV> <MAbAlignmentCSV> <OUTDIR>'
+        print('Usage: {} <MAbCSV> <MAbAlignmentCSV> <OUT_YAML>'
               .format(sys.argv[0]), file=sys.stderr)
         exit(1)
-    mabcsv_path, alncsv_path, outdir = sys.argv[1:]
-    os.makedirs(outdir, exist_ok=True)
+    mabcsv_path, alncsv_path, out_path = sys.argv[1:]
 
     mabdata = load_data(mabcsv_path)
     alnlookup = load_aln_data(alncsv_path)
+    groups = []
     for row in mabdata:
         groupobj = {
             'references': extract_references(row),
-            'source': extract_source(row),
             'antibodies': extract_antibodies(row, alnlookup),
-            'config': wrapped(
-                get_first(row, 'configuration', 'config')
-            )
         }
-        with open(
-            os.path.join(
-              outdir, yaml_filename(groupobj)
-            ), 'w'
-        ) as fp:
-            yaml.dump(groupobj, fp)
+        source = get_first(row, 'source', 'sources', required=False)
+        if source:
+            groupobj['source'] = smart_split2(source)
+
+        desc = get_first(row, 'description', required=False)
+        if desc:
+            groupobj['description'] = wrapped(desc)
+
+        animal_model = get_first(
+            row, 'animal model', 'animal models', required=False)
+        if animal_model:
+            groupobj['animalModel'] = wrapped(animal_model)
+
+        company = get_first(row, 'company', required=False)
+        if company:
+            groupobj['company'] = company
+
+        phase = get_first(row, 'phase', required=False)
+        if phase:
+            groupobj['phase'] = phase
+
+        clinical_trials = get_first(
+            row, 'nct number', 'trial number', 'clinical trial',
+            'clinical trial number', required=False)
+        if clinical_trials:
+            groupobj['clinicalTrials'] = wrapped(clinical_trials)
+        groups.append(groupobj)
+    with open(out_path, 'w') as fp:
+        yaml.dump(groups, fp)
 
 
 if __name__ == '__main__':
