@@ -2,15 +2,15 @@
 
 <div class="figure-image">
 
-![SARS-CoV-2 Trimeric Spike (side view and top view)](spike-structures/fig1.png#!maxHeight=40rem)
+![SARS-CoV-2 Trimeric Spike (side view and top view)](spike-structures/fig1.png#!maxHeight=35rem)
 
 </div>
 
 <div class="figure-caption">
 
-## [Figure 1](#fig1). SARS-CoV-2 Trimeric Spike
+## [Figure 1](#fig1). SARS-CoV-2 Trimeric Spike.
 
-(side view and top view). Each color represents one chain in the trimer. (PDB: [6VXX])
+Side view and top view. Each color represents one chain in the trimer. (PDB: [6VXX])
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div class="figure-image">
 
-![Trimeric spike structures illustrating receptor binding domain (RBD) up (open; ACE2 accessible) and down (closed) configurations](spike-structures/fig2.png#!maxHeight=25rem)
+![Trimeric spike structures illustrating receptor binding domain (RBD) up (open; ACE2 accessible) and down (closed) configurations](spike-structures/fig2.png#!maxHeight=20rem)
 
 </div>
 
@@ -42,7 +42,7 @@ The structures on the left capture one of three chains having RBD in an up confi
 
 <div class="figure-image">
 
-![Spike RBD bound to ACE-2](spike-structures/fig3.png#!maxHeight=25rem)
+![Spike RBD bound to ACE-2](spike-structures/fig3.png#!maxHeight=20rem)
 
 </div>
 
@@ -60,7 +60,7 @@ One of the three spike receptor binding domains (RBD) bound to the human ACE2 pr
 
 <div class="figure-image">
 
-![Spike S1 and S2 subunits](spike-structures/fig4.png#!maxHeight=25rem)
+![Spike S1 and S2 subunits](spike-structures/fig4.png#!maxHeight=20rem)
 
 </div>
 
@@ -78,7 +78,7 @@ The spike protein is processed by host proteases to generate two functional subu
 
 <div class="figure-image">
 
-![S1 domains](spike-structures/fig5.png#!maxHeight=25rem)
+![S1 domains](spike-structures/fig5.png#!maxHeight=20rem)
 
 </div>
 
@@ -96,7 +96,7 @@ The four S1 domains – N terminal domain (NTD; aka S1A; cyan), receptor binding
 
 <div class="figure-image">
 
-![RBD core mAb epitopes](spike-structures/fig6.png#!maxHeight=40rem)
+![RBD core mAb epitopes](spike-structures/fig6.png#!maxHeight=35rem)
 
 </div>
 
@@ -116,7 +116,7 @@ CR3022 and S309 are non-ACE2 competing monoclonal antibodies (mAb) that bind non
 
 <div class="figure-image">
 
-![RBD RBM antibody sites group 1](spike-structures/fig7.png#!maxHeight=40rem)
+![RBD RBM antibody sites group 1](spike-structures/fig7.png#!maxHeight=35rem)
 
 </div>
 
@@ -134,7 +134,7 @@ B38, CB6, CC12.1, CC12.3, CV30, and C105 are ACE2 competing monoclonal antibodie
 
 <div class="figure-image">
 
-![RBD RBM antibody sites group 2](spike-structures/fig8.png#!maxHeight=40rem)
+![RBD RBM antibody sites group 2](spike-structures/fig8.png#!maxHeight=35rem)
 
 </div>
 
@@ -152,7 +152,7 @@ P2-2F6, BD23, and 2-4 are ACE2 competing monoclonal antibodies (mAbs) that bind 
 
 <div class="figure-image">
 
-![Regeneron ACE2-competing mAbs](spike-structures/fig9.png#!maxHeight=40rem)
+![Regeneron ACE2-competing mAbs](spike-structures/fig9.png#!maxHeight=35rem)
 
 </div>
 
