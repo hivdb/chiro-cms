@@ -23,13 +23,16 @@ Instruction:
 
 -->
 
-### New reference (Sep 15)
-Liu L, Wang P, et int., and Ho DD. “Potent neutralizing antibodies against multiple epitopes on SARS-CoV-2 spike.” _Nature_, 2020.([results](/search/?article=Liu20e))
+### Newly added reference (Sep 15)
+Li T, Han X, et int., and Jin A. “A key linear epitope for a potent neutralizing antibody to SARS-CoV-2 S-RBD.” _bioRxiv_, 2020. ([results](/search/?article=Li20e))
 
 ### New clinical trials (Sep 10)
 20 clinical trials were added since September 10: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-10).
 
 <!--
+### Preprints => Peer-reviewed publications (Sep 1 - Sep 15): link
+
+
 ### [Talk on remdesivir and other polymerase inhibitors](/page/updates/#talk.on.remdesivir.and.other.polymerase.inhibitors)
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
