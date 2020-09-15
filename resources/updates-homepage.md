@@ -22,11 +22,16 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+
+### New clinical trials (Sep 10)
+20 clinical trials were added since September 10: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-10).
+
+### New reference (Sep 15)
+[Potent neutralizing antibodies against multiple epitopes on SARS-CoV-2 spike.](/search/?article=Liu20e)
+
+<!--
 ### [Talk on remdesivir and other polymerase inhibitors](/page/updates/#talk.on.remdesivir.and.other.polymerase.inhibitors)
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
-
-### [New clinical trials (September 10)](/page/updates/#new.clinical.trials.september.10.)
-20 clinical trials were added since September 10: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-10).
 
 ### [Published preprints (September 8)](/page/updates/#published.preprints.september.8.)
 One preprint was published. ([updates](/page/updates/#published.preprints.september.8.))
@@ -45,3 +50,5 @@ New updates in [SARS-COV-2 Antiviral Therapy](/page/covid-review/) about convale
 
 ### [Monday August 10](/page/updates/#monday.august.10)
 New updates in [SARS-COV-2 Antiviral Therapy](/page/covid-review/) about DHODH inhibitors, host protease inhibitors, chloroquine and hydroxychloroquine. ([changes](/page/updates/#thursday.august.10))
+
+-->
