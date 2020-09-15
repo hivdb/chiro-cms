@@ -3,7 +3,6 @@
 import re
 import csv
 import sys
-import textwrap
 import requests
 import ruamel.yaml
 from ruamel.yaml.scalarstring import PreservedScalarString
@@ -11,12 +10,6 @@ from ruamel.yaml.scalarstring import PreservedScalarString
 from functools import lru_cache
 
 yaml = ruamel.yaml.YAML()
-
-
-def wrapped(s, width=70):
-    if '\n' in s or '\r' in s:
-        return PreservedScalarString(s)
-    return PreservedScalarString('\n'.join(textwrap.wrap(s, width=width)))
 
 
 def norm_space(text):
@@ -201,9 +194,9 @@ def extract_pdb(row, ab_names):
         for ab_name in ab_names:
             if not contains_word(pdbdesc, ab_name):
                 continue
-            for part in pdbdesc.split(ab_name):
+            for part in pdbdesc.split(ab_name, 1):
                 part = part.strip(': \t')
-                if part:
+                if part and '*' not in part:
                     pdblookup[ab_name] = part
                     break
             break
@@ -297,12 +290,12 @@ def main():
 
         desc = get_first(row, 'description', required=False)
         if desc:
-            groupobj['description'] = wrapped(desc)
+            groupobj['description'] = PreservedScalarString(desc)
 
         animal_model = get_first(
             row, 'animal model', 'animal models', required=False)
         if animal_model:
-            groupobj['animalModel'] = wrapped(animal_model)
+            groupobj['animalModel'] = PreservedScalarString(animal_model)
 
         company = get_first(row, 'company', required=False)
         if company:
@@ -316,7 +309,7 @@ def main():
             row, 'nct number', 'trial number', 'clinical trial',
             'clinical trial number', required=False)
         if clinical_trials:
-            groupobj['clinicalTrials'] = wrapped(clinical_trials)
+            groupobj['clinicalTrials'] = PreservedScalarString(clinical_trials)
         groups.append(groupobj)
     with open(out_path, 'w') as fp:
         yaml.dump(groups, fp)

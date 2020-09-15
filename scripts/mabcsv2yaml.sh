@@ -20,3 +20,5 @@ pipenv run python3 scripts/mabcsv2yaml.py \
     ~/Dropbox/Coronavirus/DatabaseFiles/MabSummary-CSVFILES/clinicalTrialMAbs.csv \
     __none__ \
     resources/clinical-trial-mabs-data.yml
+
+touch resources/
