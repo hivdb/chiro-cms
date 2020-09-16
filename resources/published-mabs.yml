@@ -1,3 +1,5 @@
+tableScrollStyle:
+  maxHeight: 90vh
 columnDefs:
   - name: references
     label: References
@@ -8,15 +10,17 @@ columnDefs:
     render: join
     renderConfig:
       joinBy: ";\n"
+    headCellStyle:
+      minWidth: 12rem
   - name: antibodies.name
-    label: MAb name
+    label: MAb
     multiCells: true
   - name: antibodies.IGHV
     label: IGHV
     render: nowrap
     multiCells: true
   - name: antibodies.PcntMutH
-    label: Mut (H)
+    label: SHMᴴ
     render: nowrap
     sort: numeric
     multiCells: true
@@ -33,7 +37,7 @@ columnDefs:
     render: nowrap
     multiCells: true
   - name: antibodies.PcntMutL
-    label: Mut (L)
+    label: SHMᴸ
     render: nowrap
     sort: numeric
     multiCells: true
@@ -48,10 +52,10 @@ columnDefs:
   - name: antibodies.ec50
     label: EC50
     render: nowrap
-    sort: literalEC50
+    sort: numeric
     multiCells: true
   - name: antibodies.pdb
-    label: PDB structures
+    label: PDB
     render: nl2br
     multiCells: true
   - name: description
@@ -59,3 +63,5 @@ columnDefs:
     textAlign: left
     render: nl2br
     sortable: false
+    headCellStyle:
+      minWidth: 25rem

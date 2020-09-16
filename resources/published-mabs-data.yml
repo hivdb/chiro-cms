@@ -10,18 +10,27 @@
     ec50: 410
     pdb: RBD (7BWJ)
     species: Human
-    IGHV: IGHV4-38-2
+    IGHV: HV4-38-2
     PcntMutH: 1%
     CDRH3Len: 20
-    IGHJ: IGHJ3
-    IGLV: IGLV2-8
+    IGHJ: HJ3
+    IGLV: LV2-8
     PcntMutL: 0%
     CDRL3Len: 10
-    IGLJ: IGLJ3
+    IGLJ: LJ3
   - name: P2C-1A13
     ec50: 280
   - name: P2C-1F11
     ec50: 30
+    species: Human
+    IGHV: HV3-66
+    PcntMutH: 1.75%
+    CDRH3Len: 11
+    IGHJ: ''
+    IGLV: KV3-20
+    PcntMutL: 0%
+    CDRL3Len: 8
+    IGLJ: ''
   source:
   - SARS-2 B cells
   - RBD
@@ -39,14 +48,14 @@
     ec50: 835
     pdb: RBD (7C01)
     species: Human
-    IGHV: IGHV3-66
+    IGHV: HV3-66
     PcntMutH: 3%
     CDRH3Len: 13
-    IGHJ: IGHJ4
-    IGLV: IGKV1-39
+    IGHJ: HJ4
+    IGLV: KV1-39
     PcntMutL: 2%
     CDRL3Len: 11
-    IGLJ: IGKJ2
+    IGLJ: KJ2
   source:
   - SARS-2 B cells
   - RBD
@@ -64,14 +73,14 @@
     ec50: 80
     pdb: S trimer (6WPS, 6WPT)
     species: Human
-    IGHV: IGHV1-18
+    IGHV: HV1-18
     PcntMutH: 6%
     CDRH3Len: 20
-    IGHJ: IGHJ4
-    IGLV: IGKV3-20
+    IGHJ: HJ4
+    IGLV: KV3-20
     PcntMutL: 3%
     CDRL3Len: 8
-    IGLJ: IGKJ4
+    IGLJ: KJ4
   source:
   - SARS-1 B cells
   - RBD & S trimer
@@ -135,48 +144,59 @@
   - name: COVA1-16
     ec50: 745
     species: Human
-    IGHV: IGHV1-46
+    IGHV: HV1-46
     PcntMutH: 1%
     CDRH3Len: 22
-    IGHJ: IGHJ1
-    IGLV: IGKV1-33
+    IGHJ: HJ1
+    IGLV: KV1-33
     PcntMutL: 2%
     CDRL3Len: 9
-    IGLJ: IGKJ4
+    IGLJ: KJ4
   - name: COVA1-18
     ec50: 7
     species: Human
-    IGHV: IGHV3-66
+    IGHV: HV3-66
     PcntMutH: 0%
     CDRH3Len: 12
-    IGHJ: IGHJ4
-    IGLV: IGLV7-46
+    IGHJ: HJ4
+    IGLV: LV7-46
     PcntMutL: 4%
     CDRL3Len: 9
-    IGLJ: IGLJ3
+    IGLJ: LJ3
+  - name: COVA2-04
+    ec50: 2500
+    pdb: RBD
+    species: Human
+    IGHV: HV3-53
+    PcntMutH: 2%
+    CDRH3Len: 12
+    IGHJ: HJ6
+    IGLV: KV3-20
+    PcntMutL: 1%
+    CDRL3Len: 8
+    IGLJ: KJ3
   - name: COVA2-15
     ec50: 9
     species: Human
-    IGHV: IGHV3-23
+    IGHV: HV3-23
     PcntMutH: 3%
     CDRH3Len: 22
-    IGHJ: IGHJ4
-    IGLV: IGKV2-30
+    IGHJ: HJ4
+    IGLV: KV2-30
     PcntMutL: 3%
     CDRL3Len: 9
-    IGLJ: IGKJ2
+    IGLJ: KJ2
   - name: COVA2-39
     ec50: 54
     species: Human
-    IGHV: IGHV3-53
+    IGHV: HV3-53
     PcntMutH: 3%
     CDRH3Len: 17
-    IGHJ: IGHJ3
-    IGLV: IGLV2-23
+    IGHJ: HJ3
+    IGLV: LV2-23
     PcntMutL: 1%
     CDRL3Len: 10
-    IGLJ: IGLJ3
-  - name: COVA2-4
+    IGLJ: LJ3
   source:
   - SARS-2 B cells
   - S trimer
@@ -200,25 +220,25 @@
     ec50: 46
     pdb: RBD + CR3022 (6XC3)
     species: Human
-    IGHV: IGHV3-53
+    IGHV: HV3-53
     PcntMutH: 2%
     CDRH3Len: 11
-    IGHJ: IGHJ6
-    IGLV: IGKV1-9
+    IGHJ: HJ6
+    IGLV: KV1-9
     PcntMutL: 2%
     CDRL3Len: 11
-    IGLJ: IGKJ3
+    IGLJ: KJ3
   - name: CC12.3
     pdb: RBD + CR3022 (6XC7)
     species: Human
-    IGHV: IGHV3-53
+    IGHV: HV3-53
     PcntMutH: 4%
     CDRH3Len: 11
-    IGHJ: IGHJ4
-    IGLV: IGKV3-20
+    IGHJ: HJ4
+    IGLV: KV3-20
     PcntMutL: 0%
     CDRL3Len: 9
-    IGLJ: IGKJ2
+    IGLJ: KJ2
   source:
   - SARS-2 B cells
   - RBD & S trimer
@@ -240,15 +260,51 @@
   antibodies:
   - name: BD-23
     pdb: S Trimer (7BYR)
+    species: Human
+    IGHV: HV7-4-1
+    PcntMutH: 0%
+    CDRH3Len: 19
+    IGHJ: HJ6
+    IGLV: KV1-5
+    PcntMutL: 0%
+    CDRL3Len: 9
+    IGLJ: KJ2
   - name: BD-368-2
     ec50: 15
     pdb: S Trimer (7CHH, Pending)
   - name: BD-503
     ec50: 140
+    species: Human
+    IGHV: HV3-53
+    PcntMutH: ''
+    CDRH3Len: 13
+    IGHJ: HJ6
+    IGLV: KV1D-39
+    PcntMutL: ''
+    CDRL3Len: 12
+    IGLJ: KJ3
   - name: BD-503
     ec50: 140
+    species: Human
+    IGHV: HV3-53
+    PcntMutH: ''
+    CDRH3Len: 13
+    IGHJ: HJ6
+    IGLV: KV1D-39
+    PcntMutL: ''
+    CDRL3Len: 12
+    IGLJ: KJ3
   - name: BD-515
     ec50: 200
+    species: Human
+    IGHV: HV3-66
+    PcntMutH: ''
+    CDRH3Len: 12
+    IGHJ: HJ4
+    IGLV: KV1D-33
+    PcntMutL: ''
+    CDRL3Len: 11
+    IGLJ: KJ5
   - name: BD-602
     ec50Note: PV
     ec50: 11
@@ -256,10 +312,10 @@
     ec50: 5
     pdb: RBD (7CH4, Pending)
     species: Human
-    IGHV: IGHV3-53
+    IGHV: HV3-53
     PcntMutH: 5%
     CDRH3Len: 11
-    IGHJ: IGHJ6
+    IGHJ: HJ6
     IGLV: ''
     PcntMutL: ''
     CDRL3Len:
@@ -274,10 +330,10 @@
     ec50: 4
     pdb: RBD (7CH5, Pending)
     species: Human
-    IGHV: IGHV3-53
+    IGHV: HV3-53
     PcntMutH: 4%
     CDRH3Len: 11
-    IGHJ: IGHJ4
+    IGHJ: HJ4
     IGLV: ''
     PcntMutL: ''
     CDRL3Len:
@@ -300,25 +356,25 @@
   - name: 0304-3H3
     ec50: 40
     species: Human
-    IGHV: IGHV4-59
+    IGHV: HV4-59
     PcntMutH: 4%
     CDRH3Len: 18
-    IGHJ: IGHJ2
-    IGLV: IGKV3-15
+    IGHJ: HJ2
+    IGLV: KV3-15
     PcntMutL: 2%
     CDRL3Len: 10
-    IGLJ: IGKJ1
+    IGLJ: KJ1
   - name: 4A8
     ec50: 610
     species: Human
-    IGHV: IGHV1-24
+    IGHV: HV1-24
     PcntMutH: 3%
     CDRH3Len: 21
-    IGHJ: IGHJ6
-    IGLV: IGKV2-24
+    IGHJ: HJ6
+    IGLV: KV2-24
     PcntMutL: 2%
     CDRL3Len: 9
-    IGLJ: IGKJ3
+    IGLJ: KJ3
   source:
   - SARS-2 B cells
   - S trimer
@@ -357,25 +413,25 @@
     ec50: 180
     pdb: RBD (7BZ5)
     species: Human
-    IGHV: IGHV3-53
+    IGHV: HV3-53
     PcntMutH: 1%
     CDRH3Len: 9
-    IGHJ: IGHJ6
-    IGLV: IGKV1-9
+    IGHJ: HJ6
+    IGLV: KV1-9
     PcntMutL: 2%
     CDRL3Len: 10
-    IGLJ: IGKJ2
+    IGLJ: KJ2
   - name: H4
     ec50: 900
     species: Human
-    IGHV: IGHV1-2
+    IGHV: HV1-2
     PcntMutH: 0%
     CDRH3Len: 19
-    IGHJ: IGHJ2
-    IGLV: IGKV2-40
+    IGHJ: HJ2
+    IGLV: KV2-40
     PcntMutL: 2%
     CDRL3Len: 9
-    IGLJ: IGKJ4
+    IGLJ: KJ4
   source:
   - SARS-2 B cells
   - RBD
@@ -405,48 +461,48 @@
     ec50: 8
     pdb: RBD (6XDG)
     species: Human
-    IGHV: IGHV3-11
+    IGHV: HV3-11
     PcntMutH: 3%
     CDRH3Len: 13
-    IGHJ: IGHJ4
-    IGLV: IGKV1-33
+    IGHJ: HJ4
+    IGLV: KV1-33
     PcntMutL: 3%
     CDRL3Len: 9
-    IGLJ: IGKJ4
+    IGLJ: KJ4
   - name: REGN10934
     ec50: 4.5
     species: Human
-    IGHV: IGHV3-15
+    IGHV: HV3-15
     PcntMutH: 1%
     CDRH3Len: 11
-    IGHJ: IGHJ2
-    IGLV: IGKV1-33
+    IGHJ: HJ2
+    IGLV: KV1-33
     PcntMutL: 3%
     CDRL3Len: 9
-    IGLJ: IGKJ1
+    IGLJ: KJ1
   - name: REGN10987
     ec50: 6
     pdb: RBD (6XDG)
     species: Human
-    IGHV: IGHV3-30
+    IGHV: HV3-30
     PcntMutH: 3%
     CDRH3Len: 13
-    IGHJ: IGHJ4
-    IGLV: IGLV2-14
+    IGHJ: HJ4
+    IGLV: LV2-14
     PcntMutL: 3%
     CDRL3Len: 10
-    IGLJ: IGLJ3
+    IGLJ: LJ3
   - name: REGN10989
     ec50: 1.1
     species: Human
-    IGHV: IGHV1-2
+    IGHV: HV1-2
     PcntMutH: 6%
     CDRH3Len: 16
-    IGHJ: IGHJ5
-    IGLV: IGLV2-14
+    IGHJ: HJ5
+    IGLV: LV2-14
     PcntMutL: 4%
     CDRL3Len: 10
-    IGLJ: IGLJ3
+    IGLJ: LJ3
   source:
   - Humanized mice immunized with S boosted with RBD
   description: |-
@@ -473,59 +529,59 @@
   antibodies:
   - name: C102
     species: Human
-    IGHV: IGHV3-53
+    IGHV: HV3-53
     PcntMutH: 3%
     CDRH3Len: 11
-    IGHJ: IGHJ4
-    IGLV: IGKV3-20
+    IGHJ: HJ4
+    IGLV: KV3-20
     PcntMutL: 0%
     CDRL3Len: 9
-    IGLJ: IGKJ1
+    IGLJ: KJ1
   - name: C105
     ec50: 26
     pdb: S trimer (6XCM, 6XCN)
     species: Human
-    IGHV: IGHV3-53
+    IGHV: HV3-53
     PcntMutH: 1%
     CDRH3Len: 12
-    IGHJ: IGHJ4
-    IGLV: IGLV2-8
+    IGHJ: HJ4
+    IGLV: LV2-8
     PcntMutL: 1%
     CDRL3Len: 11
-    IGLJ: IGLJ3
+    IGLJ: LJ3
   - name: C121
     ec50: 1.6
     species: Human
-    IGHV: IGHV1-2
+    IGHV: HV1-2
     PcntMutH: 2%
     CDRH3Len: 22
-    IGHJ: IGHJ6
-    IGLV: IGLV2-23
+    IGHJ: HJ6
+    IGLV: LV2-23
     PcntMutL: 0%
     CDRL3Len: 10
-    IGLJ: IGLJ3
+    IGLJ: LJ3
   - name: C135
     ec50: 3
     species: Human
-    IGHV: IGHV3-30
+    IGHV: HV3-30
     PcntMutH: 4%
     CDRH3Len: 12
-    IGHJ: IGHJ4
-    IGLV: IGKV1-5
+    IGHJ: HJ4
+    IGLV: KV1-5
     PcntMutL: 3%
     CDRL3Len: 9
-    IGLJ: IGKJ1
+    IGLJ: KJ1
   - name: C144
     ec50: 2.5
     species: Human
-    IGHV: IGHV3-53
+    IGHV: HV3-53
     PcntMutH: 3%
     CDRH3Len: 25
-    IGHJ: IGHJ4
-    IGLV: IGLV2-14
+    IGHJ: HJ4
+    IGLV: LV2-14
     PcntMutL: 1%
     CDRL3Len: 10
-    IGLJ: IGLJ1
+    IGLJ: LJ1
   source:
   - SARS-2 B cells
   - RBD
@@ -585,35 +641,35 @@
   - name: COV2-2130
     ec50: 105
     species: Human
-    IGHV: IGHV3-15
+    IGHV: HV3-15
     PcntMutH: 4%
     CDRH3Len: 22
-    IGHJ: IGHJ4
-    IGLV: IGKV4-1
+    IGHJ: HJ4
+    IGLV: KV4-1
     PcntMutL: 4%
     CDRL3Len: 8
-    IGLJ: IGKJ4
+    IGLJ: KJ4
   - name: COV2-2196
     ec50: 15
     species: Human
-    IGHV: IGHV1-58
+    IGHV: HV1-58
     PcntMutH: 2%
     CDRH3Len: 16
-    IGHJ: IGHJ3
-    IGLV: IGKV3-20
+    IGHJ: HJ3
+    IGLV: KV3-20
     PcntMutL: 0%
     CDRL3Len: 10
-    IGLJ: IGKJ1
+    IGLJ: KJ1
   - name: COV2-2381
     species: Human
-    IGHV: IGHV1-58
+    IGHV: HV1-58
     PcntMutH: 2%
     CDRH3Len: 16
-    IGHJ: IGHJ3
-    IGLV: IGKV3-20
+    IGHJ: HJ3
+    IGLV: KV3-20
     PcntMutL: 2%
     CDRL3Len: 10
-    IGLJ: IGKJ1
+    IGLJ: KJ1
   source:
   - SARS-2 B cells
   - RBD & S trimer
@@ -635,38 +691,38 @@
     ec50Note: IC100
   - name: MnC2t1p1_A3
     species: Human
-    IGHV: IGHV3-66
+    IGHV: HV3-66
     PcntMutH: 3%
     CDRH3Len: 13
-    IGHJ: IGHJ4
-    IGLV: IGKV1D-12
+    IGHJ: HJ4
+    IGLV: KV1D-12
     PcntMutL: 0%
     CDRL3Len: 9
-    IGLJ: IGKJ1
+    IGLJ: KJ1
   - name: MnC2t2p1_C11
     ec50: 100
     ec50Note: IC100
     species: Human
-    IGHV: IGHV1-69
+    IGHV: HV1-69
     PcntMutH: 3%
     CDRH3Len: 23
-    IGHJ: IGHJ5
-    IGLV: IGKV1-39
+    IGHJ: HJ5
+    IGLV: KV1-39
     PcntMutL: 3%
     CDRL3Len: 9
-    IGLJ: IGKJ2
+    IGLJ: KJ2
   - name: MnC4t2p1_B3
     ec50: 100
     ec50Note: IC100
     species: Human
-    IGHV: IGHV3-9
+    IGHV: HV3-9
     PcntMutH: 10%
     CDRH3Len: 17
-    IGHJ: IGHJ2
-    IGLV: IGKV1-12
+    IGHJ: HJ2
+    IGLV: KV1-12
     PcntMutL: 4%
     CDRL3Len: 9
-    IGLJ: IGKJ3
+    IGLJ: KJ3
   source:
   - SARS-2 B cells
   - S trimer
@@ -697,14 +753,14 @@
     ec50: 114
     pdb: "RBD (6W41, 6YLA, 6YM0, 6YOR)\nS trimer (6Z97)"
     species: Human
-    IGHV: IGHV5-51
+    IGHV: HV5-51
     PcntMutH: 9%
     CDRH3Len: 12
-    IGHJ: IGHJ6
-    IGLV: IGKV4-1
+    IGHJ: HJ6
+    IGLV: KV4-1
     PcntMutL: 3%
     CDRL3Len: 9
-    IGLJ: IGKJ1
+    IGLJ: KJ1
   source:
   - SARS-1 scFv phage display / Irradiated SARS-1
   description: |-
@@ -742,36 +798,36 @@
   - name: 1B07
     ec50: 37
     species: Mouse
-    IGHV: IGHV2-9-1
+    IGHV: HV2-9-1
     PcntMutH: 0%
     CDRH3Len: 15
-    IGHJ: IGHJ4
-    IGLV: IGLV1
+    IGHJ: HJ4
+    IGLV: LV1
     PcntMutL: 2%
     CDRL3Len: 9
-    IGLJ: IGLJ3
+    IGLJ: LJ3
   - name: 2B04
     ec50: 1.5
     species: Mouse
-    IGHV: IGHV2-9-1
+    IGHV: HV2-9-1
     PcntMutH: 3%
     CDRH3Len: 14
-    IGHJ: IGHJ4
-    IGLV: IGLV1
+    IGHJ: HJ4
+    IGLV: LV1
     PcntMutL: 0%
     CDRL3Len: 9
-    IGLJ: IGLJ1
+    IGLJ: LJ1
   - name: 2H04
     ec50: 300
     species: Mouse
-    IGHV: IGHV1-55
+    IGHV: HV1-55
     PcntMutH: 6%
     CDRH3Len: 13
-    IGHJ: IGHJ2
-    IGLV: IGKV5-48
+    IGHJ: HJ2
+    IGLV: KV5-48
     PcntMutL: 4%
     CDRL3Len: 9
-    IGLJ: IGKJ5
+    IGLJ: KJ5
   source:
   - Plasmablasts from mice immunized with RBD followed by trimeric S boosting
   - humanized
@@ -812,14 +868,14 @@
     ec50: 1650
     pdb: RBD (6XE1)
     species: Human
-    IGHV: IGHV3-53
+    IGHV: HV3-53
     PcntMutH: 2%
     CDRH3Len: 12
-    IGHJ: IGHJ6
-    IGLV: IGKV3-20
+    IGHJ: HJ6
+    IGLV: KV3-20
     PcntMutL: 0%
     CDRL3Len: 9
-    IGLJ: IGKJ2
+    IGLJ: KJ2
   - name: CV30-GermLine
   source:
   - SARS-2 B cells
@@ -847,22 +903,22 @@
     pdb: "Nanobody (H11-H4) / RBD (6ZCZ)\nRBD (6ZER)\nTrimeric spike (6ZDH)\nDisordered\
       \ spike (6ZDG, 6ZFO)"
     species: Human
-    IGHV: IGHV3-30-3
+    IGHV: HV3-30-3
     PcntMutH: 3%
     CDRH3Len: 14
-    IGHJ: IGHJ4
-    IGLV: IGKV1-39
+    IGHJ: HJ4
+    IGLV: KV1-39
     PcntMutL: 0%
     CDRL3Len: 10
-    IGLJ: IGKJ4
+    IGLJ: KJ4
   - name: H11-H4
     ec50: 90
     pdb: CR3022 / RBD (6ZH9) (Huo)
     species: Alpaca
-    IGHV: IGHV3-3
+    IGHV: HV3-3
     PcntMutH: 8%
     CDRH3Len: 20
-    IGHJ: IGHJ4
+    IGHJ: HJ4
     IGLV: ''
     PcntMutL: ''
     CDRL3Len:
@@ -871,7 +927,7 @@
   - SARS-CoV-2 plasmablasts
   - ELISA S1 & Spike
   description: |-
-    EY6A is a non-ACE2 competing mAb that competes with CR3022. CHECK SARS-1
+    EY6A is a non-ACE2 competing mAb that cross-neutralizes SARS-CoV-1 and cross-neutralizes SARS-CoV-1.
 - references:
   - doi: 10.1101/2020.07.14.203414
     firstAuthor:
@@ -904,6 +960,15 @@
   - name: CV07-209
     ec50: 3.1
     pdb: RBD (6XKQ, pending)
+    species: Human
+    IGHV: HV3-11
+    PcntMutH: 2%
+    CDRH3Len: 12
+    IGHJ: HJ4
+    IGLV: 'KV1-33 '
+    PcntMutL: 1%
+    CDRL3Len: 9
+    IGLJ: KJ4
   - name: CV08-270
   source:
   - SARS-2 B cells
@@ -939,6 +1004,15 @@
   antibodies:
   - name: MD65
     ec50: 220
+    species: Human
+    IGHV: HV3-66
+    PcntMutH: 4%
+    CDRH3Len:
+    IGHJ: ''
+    IGLV: KV3-20
+    PcntMutL: 4%
+    CDRL3Len:
+    IGLJ: ''
   source:
   - Human B cell phage display scFv libraries from acute and convalescent sera selected
     for RBD and S1 binding.

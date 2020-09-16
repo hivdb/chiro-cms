@@ -250,14 +250,14 @@ def load_aln_data(filepath):
             cdrl3len = int(cdrl3len) if cdrl3len else None
             lookup[ab_name] = {
                 'species': row['Species'],
-                'IGHV': row['IGHV'],
+                'IGHV': re.sub(r'^IG', '', row['IGHV']),
                 'PcntMutH': row['%Mut(H)'],
                 'CDRH3Len': cdrh3len,
-                'IGHJ': row['IGHJ'],
-                'IGLV': row['IGLV'],
+                'IGHJ': re.sub(r'^IG', '', row['IGHJ']),
+                'IGLV': re.sub(r'^IG', '', row['IGLV']),
                 'PcntMutL': row['%Mut(L)'],
                 'CDRL3Len': cdrl3len,
-                'IGLJ': row['IGLJ']
+                'IGLJ': re.sub(r'^IG', '', row['IGLJ'])
             }
         return lookup
 
