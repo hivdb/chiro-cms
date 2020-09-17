@@ -19,12 +19,16 @@ Instruction:
 ## Talk on remdesivir and other polymerase inhibitors
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
+## Published preprints (Sep 1 - Sep 15)
+
+- Liu STH, Lin H, et int., and Bouvier NM. “Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study.” _Nature Medicine_, 2020. ([results](/search/?article=Liu20d)). [doi.org/10.1038/s41591-020-1088-9](https://doi.org/10.1038/s41591-020-1088-9). [PubMed32934372](https://www.ncbi.nlm.nih.gov/pubmed/32934372/).
+
+### Newly added reference (Sep 15)
+
+- Li T, Han X, et int., and Jin A. “A key linear epitope for a potent neutralizing antibody to SARS-CoV-2 S-RBD.” _bioRxiv_, 2020. ([results](/search/?article=Li20e))
+
 ## New clinical trials (September 10)
 20 clinical trials were added since September 10: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-10).
-
-## Published preprints (September 8)
-
-- Hanke L, Vidakovics Perez L, et int., and McInerney GM. “An alpaca nanobody neutralizes SARS-CoV-2 by blocking receptor interaction.” Nature Communications, 2020. [doi.org/10.1038/s41467-020-18174-5](https://doi.org/10.1038/s41467-020-18174-5). [PubMed32887876](https://www.ncbi.nlm.nih.gov/pubmed/32887876/)
 
 ## Monoclonal antibodies (August 26)
 Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry: [MAb list](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29).

@@ -23,14 +23,16 @@ Instruction:
 
 -->
 
+
+### [Published preprints (Sep 1 - Sep 15)](/page/updates/#published.preprints.sep.1.-.sep.15.)
+
+Liu STH, Lin H, et int., and Bouvier NM. “Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study.” _Nature Medicine_, 2020. ([results](/search/?article=Liu20d)). [doi.org/10.1038/s41591-020-1088-9](https://doi.org/10.1038/s41591-020-1088-9). [PubMed32934372](https://www.ncbi.nlm.nih.gov/pubmed/32934372/).
+
 ### Newly added reference (Sep 15)
 Li T, Han X, et int., and Jin A. “A key linear epitope for a potent neutralizing antibody to SARS-CoV-2 S-RBD.” _bioRxiv_, 2020. ([results](/search/?article=Li20e))
 
 ### New clinical trials (Sep 10)
 20 clinical trials were added since September 10: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-10).
-
-### [Published preprints (September 8)](/page/updates/#published.preprints.september.8.)
-One preprint was published. ([updates](/page/updates/#published.preprints.september.8.))
 
 ### [Monoclonal antibodies (August 26)](/page/updates/#monoclonal.antibodies.august.26.)
 Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry. ([MAb list](/compound-list/?target=Entry%20%28monoclonal%20antibodies%29))
