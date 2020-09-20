@@ -23,8 +23,12 @@ Instruction:
 
 -->
 
+### [Published preprints (Sep 18)](/page/updates/#published.preprints)
 
-### [Published preprints (Sep 1 - Sep 15)](/page/updates/#published.preprints.sep.1.-.sep.15.)
+Lokugamage KG, Hage A, et int., and Menachery VD. “Type I interferon susceptibility distinguishes SARS-CoV-2 from SARS-CoV.” _Journal of Virology_, 2020. ([results](/search/?article=Lokugamage20)). [doi.org/10.1128/jvi.01410-20](https://doi.org/10.1128/jvi.01410-20). [PubMed32938761](https://www.ncbi.nlm.nih.gov/pubmed/32938761/)
+
+
+### [Published preprints (Sep 15)](/page/updates/#published.preprints)
 
 Liu STH, Lin H, et int., and Bouvier NM. “Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study.” _Nature Medicine_, 2020. ([results](/search/?article=Liu20d)). [doi.org/10.1038/s41591-020-1088-9](https://doi.org/10.1038/s41591-020-1088-9). [PubMed32934372](https://www.ncbi.nlm.nih.gov/pubmed/32934372/).
 

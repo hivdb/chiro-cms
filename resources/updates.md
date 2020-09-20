@@ -19,8 +19,9 @@ Instruction:
 ## Talk on remdesivir and other polymerase inhibitors
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
-## Published preprints (Sep 1 - Sep 15)
+## Published preprints (September)
 
+- Lokugamage KG, Hage A, et int., and Menachery VD. “Type I interferon susceptibility distinguishes SARS-CoV-2 from SARS-CoV.” _Journal of Virology_, 2020. ([results](/search/?article=Lokugamage20)). [doi.org/10.1128/jvi.01410-20](https://doi.org/10.1128/jvi.01410-20). [PubMed32938761](https://www.ncbi.nlm.nih.gov/pubmed/32938761/)
 - Liu STH, Lin H, et int., and Bouvier NM. “Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study.” _Nature Medicine_, 2020. ([results](/search/?article=Liu20d)). [doi.org/10.1038/s41591-020-1088-9](https://doi.org/10.1038/s41591-020-1088-9). [PubMed32934372](https://www.ncbi.nlm.nih.gov/pubmed/32934372/).
 
 ### Newly added reference (Sep 15)
