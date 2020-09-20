@@ -19,17 +19,18 @@ Instruction:
 ## Talk on remdesivir and other polymerase inhibitors
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
+## New clinical trials (September 18)
+
+13 clinical trials were added since September 17: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-17).
+
 ## Published preprints (September)
 
 - Lokugamage KG, Hage A, et int., and Menachery VD. “Type I interferon susceptibility distinguishes SARS-CoV-2 from SARS-CoV.” _Journal of Virology_, 2020. ([results](/search/?article=Lokugamage20)). [doi.org/10.1128/jvi.01410-20](https://doi.org/10.1128/jvi.01410-20). [PubMed32938761](https://www.ncbi.nlm.nih.gov/pubmed/32938761/)
 - Liu STH, Lin H, et int., and Bouvier NM. “Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study.” _Nature Medicine_, 2020. ([results](/search/?article=Liu20d)). [doi.org/10.1038/s41591-020-1088-9](https://doi.org/10.1038/s41591-020-1088-9). [PubMed32934372](https://www.ncbi.nlm.nih.gov/pubmed/32934372/).
 
-### Newly added reference (Sep 15)
+## Newly added reference (Sep 15)
 
 - Li T, Han X, et int., and Jin A. “A key linear epitope for a potent neutralizing antibody to SARS-CoV-2 S-RBD.” _bioRxiv_, 2020. ([results](/search/?article=Li20e))
-
-## New clinical trials (September 10)
-20 clinical trials were added since September 10: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-10).
 
 ## Monoclonal antibodies (August 26)
 Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry: [MAb list](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29).

@@ -23,6 +23,10 @@ Instruction:
 
 -->
 
+### [New clinical trials (Sep 18)](https://covdb.stanford.edu/page/updates/#new.clinical.trials.september.18.)
+
+13 clinical trials were added since September 17: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-17).
+
 ### [Published preprints (Sep 18)](/page/updates/#published.preprints)
 
 Lokugamage KG, Hage A, et int., and Menachery VD. “Type I interferon susceptibility distinguishes SARS-CoV-2 from SARS-CoV.” _Journal of Virology_, 2020. ([results](/search/?article=Lokugamage20)). [doi.org/10.1128/jvi.01410-20](https://doi.org/10.1128/jvi.01410-20). [PubMed32938761](https://www.ncbi.nlm.nih.gov/pubmed/32938761/)
@@ -32,11 +36,9 @@ Lokugamage KG, Hage A, et int., and Menachery VD. “Type I interferon susceptib
 
 Liu STH, Lin H, et int., and Bouvier NM. “Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study.” _Nature Medicine_, 2020. ([results](/search/?article=Liu20d)). [doi.org/10.1038/s41591-020-1088-9](https://doi.org/10.1038/s41591-020-1088-9). [PubMed32934372](https://www.ncbi.nlm.nih.gov/pubmed/32934372/).
 
-### Newly added reference (Sep 15)
+### [Newly added reference (Sep 15)](https://covdb.stanford.edu/page/updates/#newly.added.reference.sep.15.)
 Li T, Han X, et int., and Jin A. “A key linear epitope for a potent neutralizing antibody to SARS-CoV-2 S-RBD.” _bioRxiv_, 2020. ([results](/search/?article=Li20e))
 
-### New clinical trials (Sep 10)
-20 clinical trials were added since September 10: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-10).
 
 ### [Monoclonal antibodies (August 26)](/page/updates/#monoclonal.antibodies.august.26.)
 Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry. ([MAb list](/compound-list/?target=Entry%20%28monoclonal%20antibodies%29))
