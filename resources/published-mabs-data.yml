@@ -1,126 +1,56 @@
 - references:
-  - doi: 10.1038/s41586-020-2380-z
+  - doi: 10.4049/jimmunol.2000583
     firstAuthor:
-      surname: Ju
-      givenNames: Bin
+      surname: Alsoussi
+      givenNames: Wafaa B.
     year: 2020
-    journal: Nature
-  antibodies:
-  - name: P2B-2F6
-    ec50: 410
-    pdb: RBD (7BWJ)
-    species: Human
-    IGHV: HV4-38-2
-    PcntMutH: 1%
-    CDRH3Len: 20
-    IGHJ: HJ3
-    IGLV: LV2-8
-    PcntMutL: 0%
-    CDRL3Len: 10
-    IGLJ: LJ3
-  - name: P2C-1A13
-    ec50: 280
-  - name: P2C-1F11
-    ec50: 30
-    species: Human
-    IGHV: HV3-66
-    PcntMutH: 1.75%
-    CDRH3Len: 11
-    IGHJ: ''
-    IGLV: KV3-20
-    PcntMutL: 0%
-    CDRL3Len: 8
-    IGLJ: ''
-  source:
-  - SARS-2 B cells
-  - RBD
-  description: |-
-    P2B-2F6, P2C-1F11, and P2C-1A13 are ACE2-competing mAbs. P2B-2F6 is predicted to bind with RBD in both its up and down configurations.
-- references:
-  - doi: 10.1038/s41586-020-2381-y
+    journal: The Journal of Immunology
+    journalShort: J.I.
+  - doi: 10.1016/j.cell.2020.06.011
     firstAuthor:
-      surname: Shi
-      givenNames: Rui
+      surname: Hassan
+      givenNames: Ahmed O.
     year: 2020
-    journal: Nature
+    journal: Cell
   antibodies:
-  - name: CB6
-    ec50: 835
-    pdb: RBD (7C01)
-    species: Human
-    IGHV: HV3-66
-    PcntMutH: 3%
-    CDRH3Len: 13
+  - name: 1B07
+    ec50: 37
+    species: Mouse
+    IGHV: HV2-9-1
+    PcntMutH: 0%
+    CDRH3Len: 15
     IGHJ: HJ4
-    IGLV: KV1-39
+    IGLV: LV1
     PcntMutL: 2%
-    CDRL3Len: 11
-    IGLJ: KJ2
-  source:
-  - SARS-2 B cells
-  - RBD
-  description: |-
-    CB6 is an ACE2-competing mAb. It has been shown to reduice virus levels and lung pathology when administered 1 day before and 1 day after infection of rhesus macaques. Its Fc receptor has been mutated (LALA) to prolong its half-life. The same mAb or a similar one called JS016 is being evaluated in a phase I clinical trial.
-- references:
-  - doi: 10.1038/s41586-020-2349-y
-    firstAuthor:
-      surname: Pinto
-      givenNames: Dora
-    year: 2020
-    journal: Nature
-  antibodies:
-  - name: S309
-    ec50: 80
-    pdb: S trimer (6WPS, 6WPT)
-    species: Human
-    IGHV: HV1-18
-    PcntMutH: 6%
-    CDRH3Len: 20
+    CDRL3Len: 9
+    IGLJ: LJ3
+  - name: 2B04
+    ec50: 1.5
+    species: Mouse
+    IGHV: HV2-9-1
+    PcntMutH: 3%
+    CDRH3Len: 14
     IGHJ: HJ4
-    IGLV: KV3-20
-    PcntMutL: 3%
-    CDRL3Len: 8
-    IGLJ: KJ4
+    IGLV: LV1
+    PcntMutL: 0%
+    CDRL3Len: 9
+    IGLJ: LJ1
+  - name: 2H04
+    ec50: 300
+    species: Mouse
+    IGHV: HV1-55
+    PcntMutH: 6%
+    CDRH3Len: 13
+    IGHJ: HJ2
+    IGLV: KV5-48
+    PcntMutL: 4%
+    CDRL3Len: 9
+    IGLJ: KJ5
   source:
-  - SARS-1 B cells
-  - RBD & S trimer
+  - Plasmablasts from mice immunized with RBD followed by trimeric S boosting
+  - humanized
   description: |-
-    S309 is a non-ACE2-competing mAb that binds to the RBD core region and cross-neutralizes SARS-1. It binds to RBD in its open and closed configuration and it binds to a unique proteoglycan epitope at N343.
-- references:
-  - doi: 10.1038/s41423-020-0426-7
-    firstAuthor:
-      surname: Chen
-      givenNames: Xiangyu
-    year: 2020
-    journal: Cellular & Molecular Immunology
-    journalShort: Cell Mol Immunol
-  antibodies:
-  - name: 311mab-31B5
-    ec50: 34
-    ec50Note: PV
-  - name: 311mab-32D4
-    ec50: 70
-    ec50Note: PV
-  source:
-  - SARS-2 B cells
-  - RBD
-  description: |-
-    311mab-31B5 and 311mab-32D4 are ACE2-competing mAbs.
-- references:
-  - doi: 10.1038/s41467-020-16256-y
-    firstAuthor:
-      surname: Wang
-      givenNames: Chunyan
-    year: 2020
-    journal: Nature Communications
-    journalShort: Nat Commun
-  antibodies:
-  - name: 47D11
-    ec50: 570
-  source:
-  - H2L2 mice immunized with S trimer of OC43, SARS, and MERS
-  description: |-
-    47D11 is a non-ACE2-competing mAb that cross-neutralizes SARS-1.
+    2B04 and 1B07 (but not 2H04) are ACE2-competing mAbs. 2B04 and 1B07 (but to a much lesser extent 2H04) also reduced weight loss, lung pathology, and virus levels in a mouse prevention model.
 - references:
   - doi: 10.1126/science.abc5902
     firstAuthor:
@@ -202,48 +132,6 @@
   - S trimer
   description: |-
     COVA1-16, COVA1-18, COVA2-04, COVA2-15, and COVA2-39 are ACE2-competing mAbs. COVA1-16 cross neutralizes SARS-CoV-1. It competes with ACE2 indirectly via steric hindrance. It binds to RBD in the up configuration, likely bivalently. COVA2-4 and COVA2-39 approach RBD from different angles. COVA2-4 contacts more ACE2-binding residues than COVA2-39 (11 vs. 16 of 17). COVA2-15 appears to bind ACE2 in its up and down configuration.
-- references:
-  - doi: 10.1126/science.abc7520
-    firstAuthor:
-      surname: Rogers
-      givenNames: Thomas F.
-    year: 2020
-    journal: Science
-  - doi: 10.1126/science.abd2321
-    firstAuthor:
-      surname: Yuan
-      givenNames: Meng
-    year: 2020
-    journal: Science
-  antibodies:
-  - name: CC12.1
-    ec50: 46
-    pdb: RBD + CR3022 (6XC3)
-    species: Human
-    IGHV: HV3-53
-    PcntMutH: 2%
-    CDRH3Len: 11
-    IGHJ: HJ6
-    IGLV: KV1-9
-    PcntMutL: 2%
-    CDRL3Len: 11
-    IGLJ: KJ3
-  - name: CC12.3
-    pdb: RBD + CR3022 (6XC7)
-    species: Human
-    IGHV: HV3-53
-    PcntMutH: 4%
-    CDRH3Len: 11
-    IGHJ: HJ4
-    IGLV: KV3-20
-    PcntMutL: 0%
-    CDRL3Len: 9
-    IGLJ: KJ2
-  source:
-  - SARS-2 B cells
-  - RBD & S trimer
-  description: |-
-    CC12.1 and CC12.3 bind the ACE2-binding site with the same angle of approach. CC12.1 and CC12.3 bind 15 and 11 ACE2-binding residues, respectively. Both bind only in the open configuration. CC12.1 reduced weight loss in a hamster prevention model.
 - references:
   - doi: 10.1016/j.cell.2020.05.025
     firstAuthor:
@@ -346,6 +234,26 @@
   description: |-
     BD-368-2 is an ACE2-competing mAb that can occupy all three RBDs simultaneously regardless of its configuration. It also does not compete with the ACE2-competing mAbs encoded by VH3-53/66. BD-604. BD-629, and BD-236 are ACE2-competing mAbs that bind RBD in its up configuration. BD-23 is an ACE2-competing mAb that binds RBD in its down configuration. BD-368-2 reduced weight loss and virus levels in a mouse treatment and prevention model.
 - references:
+  - doi: 10.1038/s41423-020-0426-7
+    firstAuthor:
+      surname: Chen
+      givenNames: Xiangyu
+    year: 2020
+    journal: Cellular & Molecular Immunology
+    journalShort: Cell Mol Immunol
+  antibodies:
+  - name: 311mab-31B5
+    ec50: 34
+    ec50Note: PV
+  - name: 311mab-32D4
+    ec50: 70
+    ec50Note: PV
+  source:
+  - SARS-2 B cells
+  - RBD
+  description: |-
+    311mab-31B5 and 311mab-32D4 are ACE2-competing mAbs.
+- references:
   - doi: 10.1126/science.abc6952
     firstAuthor:
       surname: Chi
@@ -381,62 +289,23 @@
   description: |-
     4A8 binds the NTD. The mechanism of 0304-3H3 binding is uncertain.
 - references:
-  - doi: 10.1126/science.abc7424
+  - doi: 10.1038/s41467-020-18058-8
     firstAuthor:
-      surname: Wec
-      givenNames: Anna Z.
+      surname: Ejemel
+      givenNames: Monir
     year: 2020
-    journal: Science
+    journal: Nature Communications
+    journalShort: Nat Commun
   antibodies:
-  - name: ADI-55688
-    ec50: 190
-  - name: ADI-55689
-    ec50: 100
-  - name: ADI-56000
-    ec50: 120
-  - name: ADI-56046
-    ec50: 100
+  - name: mAb362 (IgA)
+  - name: mAb362 (IgG)
+  - name: mAb362 (dimeric IgA)
+  - name: mAb362 (secretory IgA)
   source:
-  - SARS-1 B cells
-  - S tetramer
+  - Spleen cells from transgenic HuMAb mice immunized with SARS-1 S
+  - Screened for binding to SARS-2 RBD.
   description: |-
-    ADI-55689 cross-neutralizes SARS-1 and competes with ACE2 but not CR3022. It binds at the edge of the ACE2 binding site. ADI-56046 also cross neutralizes SARS-1 and competes with ACE2 but binds further away from the tip of the RBD and causes it to compete with CR3022.
-- references:
-  - doi: 10.1126/science.abc2241
-    firstAuthor:
-      surname: Wu
-      givenNames: Yan
-    year: 2020
-    journal: Science
-  antibodies:
-  - name: B38
-    ec50: 180
-    pdb: RBD (7BZ5)
-    species: Human
-    IGHV: HV3-53
-    PcntMutH: 1%
-    CDRH3Len: 9
-    IGHJ: HJ6
-    IGLV: KV1-9
-    PcntMutL: 2%
-    CDRL3Len: 10
-    IGLJ: KJ2
-  - name: H4
-    ec50: 900
-    species: Human
-    IGHV: HV1-2
-    PcntMutH: 0%
-    CDRH3Len: 19
-    IGHJ: HJ2
-    IGLV: KV2-40
-    PcntMutL: 2%
-    CDRL3Len: 9
-    IGLJ: KJ4
-  source:
-  - SARS-2 B cells
-  - RBD
-  description: |-
-    H4 and B38 are ACE2-competing mAbs that bind to non-overlapping epitopes. Both mAbs have been shown to reduce lung pathology and virus levels in a mouse treatment model.
+    ACE2 competing; Can only bind in the open configuration. Cross-neutralizes S1; Mutational scanning to identify binding residues
 - references:
   - doi: 10.1126/science.abd0827
     firstAuthor:
@@ -507,6 +376,233 @@
   - Humanized mice immunized with S boosted with RBD
   description: |-
     REGN10933 and REGN10987 are ACE2=competing mAbs that bind to non-overlapping RBD epitopes. This combination of mAbs also reduce weight loss, lung pathology, and virus levels in mouse treatment and prevention models.
+- references:
+  - doi: 10.1038/s41586-020-2380-z
+    firstAuthor:
+      surname: Ju
+      givenNames: Bin
+    year: 2020
+    journal: Nature
+  antibodies:
+  - name: P2B-2F6
+    ec50: 410
+    pdb: RBD (7BWJ)
+    species: Human
+    IGHV: HV4-38-2
+    PcntMutH: 1%
+    CDRH3Len: 20
+    IGHJ: HJ3
+    IGLV: LV2-8
+    PcntMutL: 0%
+    CDRL3Len: 10
+    IGLJ: LJ3
+  - name: P2C-1A13
+    ec50: 280
+  - name: P2C-1F11
+    ec50: 30
+    species: Human
+    IGHV: HV3-66
+    PcntMutH: 1.75%
+    CDRH3Len: 11
+    IGHJ: ''
+    IGLV: KV3-20
+    PcntMutL: 0%
+    CDRL3Len: 8
+    IGLJ: ''
+  source:
+  - SARS-2 B cells
+  - RBD
+  description: |-
+    P2B-2F6, P2C-1F11, and P2C-1A13 are ACE2-competing mAbs. P2B-2F6 is predicted to bind with RBD in both its up and down configurations.
+- references:
+  - doi: 10.1016/j.cell.2020.06.044
+    firstAuthor:
+      surname: Kreer
+      givenNames: Christoph
+    year: 2020
+    journal: Cell
+  antibodies:
+  - name: FnC1t2p1_D4
+    ec50: 100
+    ec50Note: IC100
+  - name: HbnC3t1p1_C6
+    ec50: 100
+    ec50Note: IC100
+  - name: MnC2t1p1_A3
+    species: Human
+    IGHV: HV3-66
+    PcntMutH: 3%
+    CDRH3Len: 13
+    IGHJ: HJ4
+    IGLV: KV1D-12
+    PcntMutL: 0%
+    CDRL3Len: 9
+    IGLJ: KJ1
+  - name: MnC2t2p1_C11
+    ec50: 100
+    ec50Note: IC100
+    species: Human
+    IGHV: HV1-69
+    PcntMutH: 3%
+    CDRH3Len: 23
+    IGHJ: HJ5
+    IGLV: KV1-39
+    PcntMutL: 3%
+    CDRL3Len: 9
+    IGLJ: KJ2
+  - name: MnC4t2p1_B3
+    ec50: 100
+    ec50Note: IC100
+    species: Human
+    IGHV: HV3-9
+    PcntMutH: 10%
+    CDRH3Len: 17
+    IGHJ: HJ2
+    IGLV: KV1-12
+    PcntMutL: 4%
+    CDRL3Len: 9
+    IGLJ: KJ3
+  source:
+  - SARS-2 B cells
+  - S trimer
+  description: |-
+    None
+- references:
+  - doi: 10.1101/2020.08.15.252320
+    firstAuthor:
+      surname: Kreye
+      givenNames: Jakob
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: CV07-209
+    ec50: 3.1
+    pdb: RBD (6XKQ, pending)
+    species: Human
+    IGHV: HV3-11
+    PcntMutH: 2%
+    CDRH3Len: 12
+    IGHJ: HJ4
+    IGLV: 'KV1-33 '
+    PcntMutL: 1%
+    CDRL3Len: 9
+    IGLJ: KJ4
+  - name: CV08-270
+  source:
+  - SARS-2 B cells
+  - ELISA for RBD binding
+  description: |-
+    CV07-209 is an ACE2 competing mAb. CV07-270's epitope mimimally overlaps with ACE2 binding residues. CV07-209 reduces weight loss, lung pathology, and virus levels in a hamster prevention and treatment model.
+- references:
+  - doi: 10.1101/2020.05.13.093088
+    firstAuthor:
+      surname: Li
+      givenNames: Wei
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: ab1
+    ec50: 195
+  source:
+  - 'Phage display: Naïve B cell Fab & scFv libraries'
+  - RBD panning
+  description: |-
+    ab1 is an ACE2-competing mAb that has been shown to reduce lung virus levels when administered prophylatically in a mouse model.
+- references:
+  - doi: 10.1038/s41586-020-2571-7
+    firstAuthor:
+      surname: Liu
+      givenNames: Lihong
+    year: 2020
+    journal: Nature
+  antibodies:
+  - name: 1-20
+    ec50: 7.5
+  - name: 1-57
+    ec50: 7.5
+  - name: 2-15
+    ec50: 0.8
+  - name: 2-17
+    ec50: 6
+  - name: 2-7
+    ec50: 3
+  - name: 4-8
+    ec50: 9
+    pdb: S trimer
+  - name: 5-24
+    ec50: 7.5
+  source:
+  - SARS-2 B cells
+  - S trimer
+  description: |-
+    2-4 ia an ACE2-competing mAb that binds RBD in its down position. In a low-resolution image 2-43 appears to bind to a quartenrary epitope at the top of spike with binding to adjacent S1 protomers. 4-8 binds to NTD. 2-15 is an ACE3-competing mAb that reduced lung virus levels in a hamster prevention model.
+- references:
+  - doi: 10.1126/science.abc5881
+    firstAuthor:
+      surname: Lv
+      givenNames: Zhe
+    year: 2020
+    journal: Science
+  antibodies:
+  - name: H014
+    ec50: 570
+  source:
+  - Phage display
+  - Spleen Ab library from mice immunized with SARS-CoV RBD
+  - SARS-CoV-2 RBD panning
+  - humanized
+  description: |-
+    H014 is an ACE2-competing mAb that binds to RBD in its up configuration.
+- references:
+  - doi: 10.1038/s41467-020-18159-4
+    firstAuthor:
+      surname: Noy-Porat
+      givenNames: Tal
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies:
+  - name: MD65
+    ec50: 220
+    species: Human
+    IGHV: HV3-66
+    PcntMutH: 4%
+    CDRH3Len:
+    IGHJ: ''
+    IGLV: KV3-20
+    PcntMutL: 4%
+    CDRL3Len:
+    IGLJ: ''
+  source:
+  - Human B cell phage display scFv libraries from acute and convalescent sera selected
+    for RBD and S1 binding.
+  description: |-
+    MD65 is an ACE2-competing mAb
+- references:
+  - doi: 10.1038/s41586-020-2349-y
+    firstAuthor:
+      surname: Pinto
+      givenNames: Dora
+    year: 2020
+    journal: Nature
+  antibodies:
+  - name: S309
+    ec50: 80
+    pdb: S trimer (6WPS, 6WPT)
+    species: Human
+    IGHV: HV1-18
+    PcntMutH: 6%
+    CDRH3Len: 20
+    IGHJ: HJ4
+    IGLV: KV3-20
+    PcntMutL: 3%
+    CDRL3Len: 8
+    IGLJ: KJ4
+  source:
+  - SARS-1 B cells
+  - RBD & S trimer
+  description: |-
+    S309 is a non-ACE2-competing mAb that binds to the RBD core region and cross-neutralizes SARS-1. It binds to RBD in its open and closed configuration and it binds to a unique proteoglycan epitope at N343.
 - references:
   - doi: 10.1038/s41586-020-2456-9
     firstAuthor:
@@ -586,148 +682,106 @@
   - SARS-2 B cells
   - RBD
   description: |-
-    C105, C121, C135, and C144 are ACE2-competing mAbs. C105 binds 2 or 3 RBDs in the up configuration. C135 and C144 bind to RBD's up and down configurations.
+    C105, C121, C135, and C144 are ACE2-competing mAbs. C105 binds 2 or 3 RBDs in the up configuration. C135 and C144 bind to RBD's up and down configurations. C121 / C135 and C144 / C135 bind to non-overlapping epitopes.
 - references:
-  - doi: 10.1016/j.celrep.2020.107918
+  - doi: 10.1126/science.abc7520
     firstAuthor:
-      surname: Wan
-      givenNames: Jinkai
+      surname: Rogers
+      givenNames: Thomas F.
     year: 2020
-    journal: Cell Reports
-  antibodies:
-  - name: 414-1
-    ec50: 263
-  source:
-  - SARS-2 B cells
-  - RBD & S trimer
-  description: |-
-    414-1 is an ACE2-competing mAb
-- references:
-  - doi: 10.1038/s41586-020-2571-7
+    journal: Science
+  - doi: 10.1126/science.abd2321
     firstAuthor:
-      surname: Liu
-      givenNames: Lihong
+      surname: Yuan
+      givenNames: Meng
     year: 2020
-    journal: Nature
+    journal: Science
   antibodies:
-  - name: 1-20
-    ec50: 7.5
-  - name: 1-57
-    ec50: 7.5
-  - name: 2-15
-    ec50: 0.8
-  - name: 2-17
-    ec50: 6
-  - name: 2-7
-    ec50: 3
-  - name: 4-8
-    ec50: 9
-    pdb: S trimer
-  - name: 5-24
-    ec50: 7.5
-  source:
-  - SARS-2 B cells
-  - S trimer
-  description: |-
-    2-4 ia an ACE2-competing mAb that binds RBD in its down position. In a low-resolution image 2-43 appears to bind to a quartenrary epitope at the top of spike with binding to adjacent S1 protomers. 4-8 binds to NTD. 2-15 is an ACE3-competing mAb that reduced lung virus levels in a hamster prevention model.
-- references:
-  - doi: 10.1038/s41586-020-2548-6
-    firstAuthor:
-      surname: Zost
-      givenNames: Seth J.
-    year: 2020
-    journal: Nature
-  antibodies:
-  - name: COV2-2130
-    ec50: 105
+  - name: CC12.1
+    ec50: 46
+    pdb: RBD + CR3022 (6XC3)
     species: Human
-    IGHV: HV3-15
-    PcntMutH: 4%
-    CDRH3Len: 22
-    IGHJ: HJ4
-    IGLV: KV4-1
-    PcntMutL: 4%
-    CDRL3Len: 8
-    IGLJ: KJ4
-  - name: COV2-2196
-    ec50: 15
-    species: Human
-    IGHV: HV1-58
+    IGHV: HV3-53
     PcntMutH: 2%
-    CDRH3Len: 16
-    IGHJ: HJ3
+    CDRH3Len: 11
+    IGHJ: HJ6
+    IGLV: KV1-9
+    PcntMutL: 2%
+    CDRL3Len: 11
+    IGLJ: KJ3
+  - name: CC12.3
+    pdb: RBD + CR3022 (6XC7)
+    species: Human
+    IGHV: HV3-53
+    PcntMutH: 4%
+    CDRH3Len: 11
+    IGHJ: HJ4
     IGLV: KV3-20
     PcntMutL: 0%
-    CDRL3Len: 10
-    IGLJ: KJ1
-  - name: COV2-2381
-    species: Human
-    IGHV: HV1-58
-    PcntMutH: 2%
-    CDRH3Len: 16
-    IGHJ: HJ3
-    IGLV: KV3-20
-    PcntMutL: 2%
-    CDRL3Len: 10
-    IGLJ: KJ1
+    CDRL3Len: 9
+    IGLJ: KJ2
   source:
   - SARS-2 B cells
   - RBD & S trimer
   description: |-
-    COV2-2196 and COV2-2130 are ACE2-competing mAbs that bind to nonoverlapping RBD epitopes. COV2-2196 binds RBD in the configuration; COV2-2130 binds RBD in the up and down configuration. Each mAb reduces weight loss and lung virus levels in a mouse prevention model. COV2-2196 redices lung virus levels in rhesus macaques.
+    CC12.1 and CC12.3 bind the ACE2-binding site with the same angle of approach. CC12.1 and CC12.3 bind 15 and 11 ACE2-binding residues, respectively. Both bind only in the open configuration. CC12.1 reduced weight loss in a hamster prevention model.
 - references:
-  - doi: 10.1016/j.cell.2020.06.044
+  - doi: 10.1016/j.immuni.2020.06.001
     firstAuthor:
-      surname: Kreer
-      givenNames: Christoph
+      surname: Seydoux
+      givenNames: Emilie
     year: 2020
-    journal: Cell
+    journal: Immunity
+  - doi: 10.1101/2020.06.12.148692
+    firstAuthor:
+      surname: Hurlburt
+      givenNames: Nicholas K.
+    year: 2020
+    journal: bioRxiv
   antibodies:
-  - name: FnC1t2p1_D4
-    ec50: 100
-    ec50Note: IC100
-  - name: HbnC3t1p1_C6
-    ec50: 100
-    ec50Note: IC100
-  - name: MnC2t1p1_A3
+  - name: CV30
+    ec50: 1650
+    pdb: RBD (6XE1)
+    species: Human
+    IGHV: HV3-53
+    PcntMutH: 2%
+    CDRH3Len: 12
+    IGHJ: HJ6
+    IGLV: KV3-20
+    PcntMutL: 0%
+    CDRL3Len: 9
+    IGLJ: KJ2
+  - name: CV30-GermLine
+  source:
+  - SARS-2 B cells
+  - Trimeric spike & RBD
+  description: |-
+    CV30 is an ACE2 competing mAb, which binds to a high proportion of the ACE2-binding residues.
+- references:
+  - doi: 10.1038/s41586-020-2381-y
+    firstAuthor:
+      surname: Shi
+      givenNames: Rui
+    year: 2020
+    journal: Nature
+  antibodies:
+  - name: CB6
+    ec50: 835
+    pdb: RBD (7C01)
     species: Human
     IGHV: HV3-66
     PcntMutH: 3%
     CDRH3Len: 13
     IGHJ: HJ4
-    IGLV: KV1D-12
-    PcntMutL: 0%
-    CDRL3Len: 9
-    IGLJ: KJ1
-  - name: MnC2t2p1_C11
-    ec50: 100
-    ec50Note: IC100
-    species: Human
-    IGHV: HV1-69
-    PcntMutH: 3%
-    CDRH3Len: 23
-    IGHJ: HJ5
     IGLV: KV1-39
-    PcntMutL: 3%
-    CDRL3Len: 9
+    PcntMutL: 2%
+    CDRL3Len: 11
     IGLJ: KJ2
-  - name: MnC4t2p1_B3
-    ec50: 100
-    ec50Note: IC100
-    species: Human
-    IGHV: HV3-9
-    PcntMutH: 10%
-    CDRH3Len: 17
-    IGHJ: HJ2
-    IGLV: KV1-12
-    PcntMutL: 4%
-    CDRL3Len: 9
-    IGLJ: KJ3
   source:
   - SARS-2 B cells
-  - S trimer
+  - RBD
   description: |-
-    None
+    CB6 is an ACE2-competing mAb. It has been shown to reduice virus levels and lung pathology when administered 1 day before and 1 day after infection of rhesus macaques. Its Fc receptor has been mutated (LALA) to prolong its half-life. The same mAb or a similar one called JS016 is being evaluated in a phase I clinical trial.
 - references:
   - doi: 10.1371/journal.pmed.0030237
     firstAuthor:
@@ -766,122 +820,119 @@
   description: |-
     CR3022 is a SARS-1 cross-reacting mAb that binds to a non-competing RBD epitope accessible only when the RBD is in the up configuration.
 - references:
-  - doi: 10.1101/2020.05.13.093088
+  - doi: 10.1016/j.celrep.2020.107918
     firstAuthor:
-      surname: Li
-      givenNames: Wei
+      surname: Wan
+      givenNames: Jinkai
+    year: 2020
+    journal: Cell Reports
+  antibodies:
+  - name: 414-1
+    ec50: 263
+  source:
+  - SARS-2 B cells
+  - RBD & S trimer
+  description: |-
+    414-1 is an ACE2-competing mAb
+- references:
+  - doi: 10.1038/s41467-020-16256-y
+    firstAuthor:
+      surname: Wang
+      givenNames: Chunyan
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  - doi: 10.1101/2020.08.24.264630
+    firstAuthor:
+      surname: Haagmans
+      givenNames: Bart L.
     year: 2020
     journal: bioRxiv
   antibodies:
-  - name: ab1
-    ec50: 195
+  - name: 47D11
+    ec50: 570
   source:
-  - 'Phage display: Naïve B cell Fab & scFv libraries'
-  - RBD panning
+  - H2L2 mice immunized with S trimer of OC43, SARS, and MERS
   description: |-
-    ab1 is an ACE2-competing mAb that has been shown to reduce lung virus levels when administered prophylatically in a mouse model.
+    47D11 is a non-ACE2-competing mAb that cross-neutralizes SARS-1. It has also been shown to reduce weight loss, lung pathology, and virus levels in a hamster SARS-CoV-2 prevention model.
 - references:
-  - doi: 10.4049/jimmunol.2000583
+  - doi: 10.1101/2020.07.14.203414
     firstAuthor:
-      surname: Alsoussi
-      givenNames: Wafaa B.
+      surname: Wang
+      givenNames: Bei
     year: 2020
-    journal: The Journal of Immunology
-    journalShort: J.I.
-  - doi: 10.1016/j.cell.2020.06.011
-    firstAuthor:
-      surname: Hassan
-      givenNames: Ahmed O.
-    year: 2020
-    journal: Cell
+    journal: bioRxiv
   antibodies:
-  - name: 1B07
-    ec50: 37
-    species: Mouse
-    IGHV: HV2-9-1
-    PcntMutH: 0%
-    CDRH3Len: 15
-    IGHJ: HJ4
-    IGLV: LV1
-    PcntMutL: 2%
-    CDRL3Len: 9
-    IGLJ: LJ3
-  - name: 2B04
-    ec50: 1.5
-    species: Mouse
-    IGHV: HV2-9-1
-    PcntMutH: 3%
-    CDRH3Len: 14
-    IGHJ: HJ4
-    IGLV: LV1
-    PcntMutL: 0%
-    CDRL3Len: 9
-    IGLJ: LJ1
-  - name: 2H04
-    ec50: 300
-    species: Mouse
-    IGHV: HV1-55
-    PcntMutH: 6%
-    CDRH3Len: 13
-    IGHJ: HJ2
-    IGLV: KV5-48
-    PcntMutL: 4%
-    CDRL3Len: 9
-    IGLJ: KJ5
+  - name: 1F6
+  - name: 2H4
+  - name: 3D11
+  - name: 3F11
+  - name: 5A6
+    ec50: 141
+    pdb: Trimeric Spike
+  - name: 6F8
   source:
-  - Plasmablasts from mice immunized with RBD followed by trimeric S boosting
-  - humanized
+  - Fab phage display library created from healthy human B cells selected for RBD
+    binding.
   description: |-
-    2B04 and 1B07 (but not 2H04) are ACE2-competing mAbs. 2B04 and 1B07 (but to a much lesser extent 2H04) also reduced weight loss, lung pathology, and virus levels in a mouse prevention model.
+    5A6 is an ACE2-competing mAb that binds bivalently to one RBD in the up configion and another in the down configuration.
 - references:
-  - doi: 10.1126/science.abc5881
+  - doi: 10.1126/science.abc7424
     firstAuthor:
-      surname: Lv
-      givenNames: Zhe
+      surname: Wec
+      givenNames: Anna Z.
     year: 2020
     journal: Science
   antibodies:
-  - name: H014
-    ec50: 570
+  - name: ADI-55688
+    ec50: 190
+  - name: ADI-55689
+    ec50: 100
+  - name: ADI-56000
+    ec50: 120
+  - name: ADI-56046
+    ec50: 100
   source:
-  - Phage display
-  - Spleen Ab library from mice immunized with SARS-CoV RBD
-  - SARS-CoV-2 RBD panning
-  - humanized
+  - SARS-1 B cells
+  - S tetramer
   description: |-
-    H014 is an ACE2-competing mAb that binds to RBD in its up configuration.
+    ADI-55689 cross-neutralizes SARS-1 and competes with ACE2 but not CR3022. It binds at the edge of the ACE2 binding site. ADI-56046 also cross neutralizes SARS-1 and competes with ACE2 but binds further away from the tip of the RBD and causes it to compete with CR3022.
 - references:
-  - doi: 10.1016/j.immuni.2020.06.001
+  - doi: 10.1126/science.abc2241
     firstAuthor:
-      surname: Seydoux
-      givenNames: Emilie
+      surname: Wu
+      givenNames: Yan
     year: 2020
-    journal: Immunity
-  - doi: 10.1101/2020.06.12.148692
-    firstAuthor:
-      surname: Hurlburt
-      givenNames: Nicholas K.
-    year: 2020
-    journal: bioRxiv
+    journal: Science
   antibodies:
-  - name: CV30
-    ec50: 1650
-    pdb: RBD (6XE1)
+  - name: B38
+    ec50: 180
+    pdb: RBD (7BZ5)
     species: Human
     IGHV: HV3-53
-    PcntMutH: 2%
-    CDRH3Len: 12
+    PcntMutH: 1%
+    CDRH3Len: 9
     IGHJ: HJ6
-    IGLV: KV3-20
-    PcntMutL: 0%
-    CDRL3Len: 9
+    IGLV: KV1-9
+    PcntMutL: 2%
+    CDRL3Len: 10
     IGLJ: KJ2
-  - name: CV30-GermLine
+  - name: H4
+    ec50: 900
+    species: Human
+    IGHV: HV1-2
+    PcntMutH: 0%
+    CDRH3Len: 19
+    IGHJ: HJ2
+    IGLV: KV2-40
+    PcntMutL: 2%
+    CDRL3Len: 9
+    IGLJ: KJ4
   source:
   - SARS-2 B cells
-  - Trimeric spike & RBD
+  - RBD
   description: |-
-    CV30 is an ACE2 competing mAb, which binds to a high proportion of the ACE2-binding residues.
+    H4 and B38 are ACE2-competing mAbs that bind to non-overlapping epitopes. Both mAbs have been shown to reduce lung pathology and virus levels in a mouse treatment model.
 - references:
   - doi: 10.1038/s41594-020-0480-y
     firstAuthor:
@@ -929,92 +980,75 @@
   description: |-
     EY6A is a non-ACE2 competing mAb that cross-neutralizes SARS-CoV-1 and cross-neutralizes SARS-CoV-1.
 - references:
-  - doi: 10.1101/2020.07.14.203414
+  - doi: 10.1038/s41591-020-0998-x
     firstAuthor:
-      surname: Wang
-      givenNames: Bei
+      surname: Zost
+      givenNames: Seth J.
     year: 2020
-    journal: bioRxiv
-  antibodies:
-  - name: 1F6
-  - name: 2H4
-  - name: 3D11
-  - name: 3F11
-  - name: 5A6
-    ec50: 141
-    pdb: Trimeric Spike
-  - name: 6F8
-  source:
-  - Fab phage display library created from healthy human B cells selected for RBD
-    binding.
-  description: |-
-    5A6 is an ACE2-competing mAb that binds bivalently to one RBD in the up configion and another in the down configuration.
-- references:
-  - doi: 10.1101/2020.08.15.252320
+    journal: Nature Medicine
+    journalShort: Nat Med
+  - doi: 10.1038/s41586-020-2548-6
     firstAuthor:
-      surname: Kreye
-      givenNames: Jakob
+      surname: Zost
+      givenNames: Seth J.
     year: 2020
-    journal: bioRxiv
+    journal: Nature
   antibodies:
-  - name: CV07-209
-    ec50: 3.1
-    pdb: RBD (6XKQ, pending)
+  - name: COV2-2130
+    ec50: 105
     species: Human
-    IGHV: HV3-11
-    PcntMutH: 2%
-    CDRH3Len: 12
+    IGHV: HV3-15
+    PcntMutH: 4%
+    CDRH3Len: 22
     IGHJ: HJ4
-    IGLV: 'KV1-33 '
-    PcntMutL: 1%
-    CDRL3Len: 9
+    IGLV: KV4-1
+    PcntMutL: 4%
+    CDRL3Len: 8
     IGLJ: KJ4
-  - name: CV08-270
+  - name: COV2-2196
+    ec50: 15
+    species: Human
+    IGHV: HV1-58
+    PcntMutH: 2%
+    CDRH3Len: 16
+    IGHJ: HJ3
+    IGLV: KV3-20
+    PcntMutL: 0%
+    CDRL3Len: 10
+    IGLJ: KJ1
+  - name: COV2-2381
+    species: Human
+    IGHV: HV1-58
+    PcntMutH: 2%
+    CDRH3Len: 16
+    IGHJ: HJ3
+    IGLV: KV3-20
+    PcntMutL: 2%
+    CDRL3Len: 10
+    IGLJ: KJ1
   source:
   - SARS-2 B cells
-  - ELISA for RBD binding
+  - RBD & S trimer
   description: |-
-    CV07-209 is an ACE2 competing mAb. CV07-270's epitope mimimally overlaps with ACE2 binding residues. CV07-209 reduces weight loss, lung pathology, and virus levels in a hamster prevention and treatment model.
+    COV2-2196 and COV2-2130 are ACE2-competing mAbs that bind to nonoverlapping RBD epitopes. COV2-2196 binds RBD in the configuration; COV2-2130 binds RBD in the up and down configuration. Each mAb reduces weight loss and lung virus levels in a mouse prevention model. COV2-2196 redices lung virus levels in rhesus macaques.
 - references:
-  - doi: 10.1038/s41467-020-18058-8
+  - doi: 10.1101/2020.09.11.292631
     firstAuthor:
-      surname: Ejemel
-      givenNames: Monir
+      surname: Li
+      givenNames: Tingting
     year: 2020
-    journal: Nature Communications
-    journalShort: Nat Commun
+    journal: bioRxiv
   antibodies:
-  - name: mAb362 (IgA)
-  - name: mAb362 (IgG)
-  - name: mAb362 (dimeric IgA)
-  - name: mAb362 (secretory IgA)
+  - name: 13G9
+    ec50: 7
+  - name: 510A5
+    ec50: 11
+  - name: 51D7
+    ec50: 39
+  - name: 58G6
+    ec50: 10
   source:
-  - Spleen cells from transgenic HuMAb mice immunized with SARS-1 S
-  - Screened for binding to SARS-2 RBD.
+  - SARS-2 B cells
+  - RBD
   description: |-
-    ACE2 competing; Can only bind in the open configuration. Cross-neutralizes S1; Mutational scanning to identify binding residues
-- references:
-  - doi: 10.1038/s41467-020-18159-4
-    firstAuthor:
-      surname: Noy-Porat
-      givenNames: Tal
-    year: 2020
-    journal: Nature Communications
-    journalShort: Nat Commun
-  antibodies:
-  - name: MD65
-    ec50: 220
-    species: Human
-    IGHV: HV3-66
-    PcntMutH: 4%
-    CDRH3Len:
-    IGHJ: ''
-    IGLV: KV3-20
-    PcntMutL: 4%
-    CDRL3Len:
-    IGLJ: ''
-  source:
-  - Human B cell phage display scFv libraries from acute and convalescent sera selected
-    for RBD and S1 binding.
-  description: |-
-    MD65 is an ACE2-competing mAb
+    Pending

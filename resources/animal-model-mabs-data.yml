@@ -145,3 +145,14 @@
   - name: CV07-209
   animalModel: |-
     Syrian hamsters
+- references:
+  - doi: 10.1101/2020.08.24.264630
+    firstAuthor:
+      surname: Haagmans
+      givenNames: Bart L.
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: 47D11
+  animalModel: |-
+    Syrian hamsters
