@@ -15,6 +15,22 @@ columnDefs:
   - name: antibodies.name
     label: MAb
     multiCells: true
+  - name: antibodies.ec50
+    label: EC50
+    render: nowrap
+    sort: numeric
+    multiCells: true
+  - name: antibodies.pdb
+    label: PDB
+    render: nl2br
+    multiCells: true
+  - name: description
+    label: Description
+    textAlign: left
+    render: nl2br
+    sortable: false
+    headCellStyle:
+      minWidth: 25rem
   - name: antibodies.IGHV
     label: IGHV
     render: nowrap
@@ -49,19 +65,3 @@ columnDefs:
     label: IGLJ
     render: nowrap
     multiCells: true
-  - name: antibodies.ec50
-    label: EC50
-    render: nowrap
-    sort: numeric
-    multiCells: true
-  - name: antibodies.pdb
-    label: PDB
-    render: nl2br
-    multiCells: true
-  - name: description
-    label: Description
-    textAlign: left
-    render: nl2br
-    sortable: false
-    headCellStyle:
-      minWidth: 25rem
