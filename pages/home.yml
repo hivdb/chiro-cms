@@ -9,3 +9,26 @@ updates:
   _resource: updates-homepage.md
 missionStatement:
   _resource: mission-statement.md
+projects:
+  - title: Paper
+    description: Coronavirus Antiviral Research Database
+    link: https://www.mdpi.com/1999-4915/12/9/1006
+    extLink: true
+    image: home/project-paper.png
+  - title: Spike structures
+    description: Figures of SARS-COV-2 Spike structures
+    link: /page/spike-structures/
+    image: home/project-spike-structures.png
+  - title: Spike viewer
+    description: A mutation annotation viewer of Spike gene
+    link: /mut-annot-viewer/SARS2S/
+    image: home/project-spike-viewer.png
+  - title: Polymerase talk
+    description: Watch our video on remdesivir and other polymerase inhibitors
+    link: https://www.youtube.com/watch?v=bp2gMbB5T2w
+    extLink: true
+    image: home/project-polymerase-talk.png
+  - title: Spike antibodies
+    description: Tables of monoclonal antibodies
+    link: /page/mab-tables/
+    image: home/project-spike-antibodies.png
