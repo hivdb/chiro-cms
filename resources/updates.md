@@ -19,34 +19,34 @@ Instruction:
 ## Talk on remdesivir and other polymerase inhibitors
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
-## A SARS-CoV-2 antiviral therapy score card
+## A SARS-CoV-2 antiviral therapy score card (Sep 21)
 
-[A SARS-CoV-2 antiviral therapy score card](https://www.jstage.jst.go.jp/article/ghm/advpub/0/advpub_2020.01082/_pdf/-char/en)
+Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
 
-## New clinical trials (September 18)
+## New clinical trials (Sep 18)
 
 13 clinical trials were added since September 17: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-17).
 
-## Published preprints (September)
+## Published preprints (Sep 16 ~ Sep 18)
 
-- Lokugamage KG, Hage A, et int., and Menachery VD. “Type I interferon susceptibility distinguishes SARS-CoV-2 from SARS-CoV.” _Journal of Virology_, 2020. ([results](/search/?article=Lokugamage20)). [doi.org/10.1128/jvi.01410-20](https://doi.org/10.1128/jvi.01410-20). [PubMed32938761](https://www.ncbi.nlm.nih.gov/pubmed/32938761/)
-- Liu STH, Lin H, et int., and Bouvier NM. “Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study.” _Nature Medicine_, 2020. ([results](/search/?article=Liu20d)). [doi.org/10.1038/s41591-020-1088-9](https://doi.org/10.1038/s41591-020-1088-9). [PubMed32934372](https://www.ncbi.nlm.nih.gov/pubmed/32934372/).
+- Lokugamage KG, Hage A, et int., and Menachery VD. [“Type I interferon susceptibility distinguishes SARS-CoV-2 from SARS-CoV.”](/search/?article=Lokugamage20) _Journal of Virology_, 2020. [doi.org/10.1128/jvi.01410-20](https://doi.org/10.1128/jvi.01410-20). [PubMed32938761](https://www.ncbi.nlm.nih.gov/pubmed/32938761/)
+- Liu STH, Lin H, et int., and Bouvier NM. [“Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study.”](/search/?article=Liu20d) _Nature Medicine_, 2020. [doi.org/10.1038/s41591-020-1088-9](https://doi.org/10.1038/s41591-020-1088-9). [PubMed32934372](https://www.ncbi.nlm.nih.gov/pubmed/32934372/).
 
 ## Newly added reference (Sep 15)
 
-- Li T, Han X, et int., and Jin A. “A key linear epitope for a potent neutralizing antibody to SARS-CoV-2 S-RBD.” _bioRxiv_, 2020. ([results](/search/?article=Li20e))
+- Li T, Han X, et int., and Jin A. [“A key linear epitope for a potent neutralizing antibody to SARS-CoV-2 S-RBD.”](/search/?article=Li20e) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.11.292631](https://doi.org/10.1101/2020.09.11.292631).
 
-## Monoclonal antibodies (August 26)
+## Monoclonal antibodies (Aug 26)
 Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry: [MAb list](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29).
 
 Two mAb preparations are in phase III trials for preventing and treating SARS-CoV-2 infections: (i) the combination of REGN10933 and REGN10987 and (ii) LY3819253. Six antibody preparations are in phase I/II trials: AZD7442, BRII-196, JS016, SCTA01, STI-1499, and TY027.
 
 The above link summaries preclinical data on mAbs from multiple research laboratories several of which will also likely enter clinical trials. However, other than the three papers describing REGN10933 and REGN10987[^10.1126/science.abd0827][^10.1126/science.abd0831][^10.1101/2020.08.02.233320], there are no published preclinical data on any of the other mAbs in clinical trials. Without such data it is not clear how clinical investigators and physicians will choose which trials to enroll.
 
-## Ciclesonide (August 24)
+## Ciclesonide (Aug 24)
 An updated preprint has reported that the inhaled corticosteroid ciclesonide consistently selects for mutations in nsp3 and nsp4 when SARS-CoV-2 is cultured in the presence of increasing drug concentrations[^10.1101/2020.08.22.258459]. This demonstrates that ciclesonide has a specific antiviral mechanism, which the authors speculate is interference with the double membrane formation that anchors the coronavirus replication transcription complex within cells. Unfortunately, there has been little progress initiating clinical trials with just two being active and six still pending.
 
-## Remdesivir versus standard of care – moderate COVID-19 pneumonia (August 21)
+## Remdesivir versus standard of care – moderate COVID-19 pneumonia (Aug 21)
 The randomized controlled open-label Gilead SIMPLE-moderate trial enrolled 596 hospitalized persons with radiographic evidence of pneumonia with oxygen saturations >94% on room air and randomized them 1:1:1 to remdesivir for 10 days, remdesivir for 5 days, or standard of care (SOC)[^10.1001/jama.2020.16349].  Approximately 15% were receiving low-flow O2; 85% did not require O2 supplementation. 15% overall were receiving corticosteroids. Approximately 45% in the SOC care group vs. 10% in the remdesivir groups were receiving a chloroquine analog. The primary endpoints were the distribution of clinical status on a 7-point ordinal scale and the proportion with adverse events throughout the study. Due to logistical issues, virological data were limited and not presented. Most patients in the 10 day arm did not complete their course of therapy because they were discharged, By day 11, the 5 day remdesivir group (OR 1.7; 95%CI, 1.1-2.5; P=.02) but not the 10 day group (p=0.18) had an improved clinical status distribution than the SOC group. By day 28, 9 patients died: 2 (1%) in the 5 day group, 3 (2%) in the 10 day group, and 4 (2%) in SOC group. There also did not seem to be a significant reduction in the need for mechanical ventilation (1 vs. 4) or high-flow oxygen (5 vs. 7) between the pooled remdesivir patients vs. SOC by day 11.
 
 Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial, albeit in a relatively narrow patient population – those receiving low-flow supplemental oxygen. The benefits of this drug increasingly rest on a single clinical trial (the NIH adaptive trial), which was unfortunately terminated prematurely.
