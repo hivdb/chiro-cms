@@ -1,5 +1,3 @@
-tableScrollStyle:
-  maxHeight: 90vh
 columnDefs:
   - name: references
     label: References

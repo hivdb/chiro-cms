@@ -19,6 +19,9 @@ Instruction:
 ## Talk on remdesivir and other polymerase inhibitors
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
+## Interface update (Sep 22)
+We now support downloading CSV/Excel files for tables.
+
 ## A SARS-CoV-2 antiviral therapy score card (Sep 21)
 
 Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).

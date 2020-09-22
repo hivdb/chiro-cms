@@ -22,6 +22,8 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### [Interface update (Sep 22)](/page/updates/#interface.update.sep.22.)
+We now support downloading CSV/Excel files for tables.
 
 ### [Editorial (Sep 21)](/page/updates/#a.sars-cov-2.antiviral.therapy.score.card.sep.21.)
 

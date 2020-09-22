@@ -10,6 +10,11 @@ updates:
 missionStatement:
   _resource: mission-statement.md
 projects:
+  - title: Editorial
+    description: A SARS-CoV-2 antiviral therapy score card
+    link: https://www.jstage.jst.go.jp/article/ghm/advpub/0/advpub_2020.01082/_article
+    extLink: true
+    image: home/project-editorial.png
   - title: Paper
     description: Coronavirus Antiviral Research Database
     link: https://www.mdpi.com/1999-4915/12/9/1006
