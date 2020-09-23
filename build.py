@@ -109,7 +109,7 @@ def main():
                 data['lastModified'] = (
                     datetime.utcfromtimestamp(mtime).isoformat() + 'Z'
                 )
-                json.dump(data, jsonfp, indent=2)
+                json.dump(data, jsonfp)
                 print('create: {}'.format(jsonpath))
     copy_tree(IMAGEDIR, os.path.join(BUILDDIR, 'images'))
     copy_tree(DOWNLOADDIR, os.path.join(BUILDDIR, 'downloads'))
