@@ -22,6 +22,10 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### [Newly added reference (Sep 23)](/page/updates/#newly.added.reference.sep.23.)
+
+Cao L, Goreshnik I, et int., and Baker D. [“De novo design of picomolar SARS-CoV-2 miniprotein inhibitors.”](/search/?article=Cao20e) _Science_, 2020. [doi.org/10.1126/science.abd9909](https://doi.org/10.1126/science.abd9909). [PubMed32907861](https://www.ncbi.nlm.nih.gov/pubmed/32907861/)
+
 ### [Interface update (Sep 22)](/page/updates/#interface.update.sep.22.)
 We now support downloading CSV/Excel files for tables.
 
@@ -35,12 +39,5 @@ Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medic
 
 ### [Published preprints (Sep 18)](/page/updates/#published.preprints.sep.16.sep.18.)
 
-Lokugamage KG, etc. [“Type I interferon susceptibility distinguishes SARS-CoV-2 from SARS-CoV.”](/search/?article=Lokugamage20) _Journal of Virology_, 2020. [doi.org/10.1128/jvi.01410-20](https://doi.org/10.1128/jvi.01410-20). [PubMed32938761](https://www.ncbi.nlm.nih.gov/pubmed/32938761/)
+2 published preprints were added since September 16.
 
-### [Published preprints (Sep 15)](/page/updates/#published.preprints.sep.16.sep.18.)
-
-Liu STH, etc. [“Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study.”](/search/?article=Liu20d) _Nature Medicine_, 2020. [doi.org/10.1038/s41591-020-1088-9](https://doi.org/10.1038/s41591-020-1088-9). [PubMed32934372](https://www.ncbi.nlm.nih.gov/pubmed/32934372/).
-
-### [Newly added reference (Sep 15)](/page/updates/#newly.added.reference.sep.15.)
-
-Li T, Han X, et int., and Jin A. [“A key linear epitope for a potent neutralizing antibody to SARS-CoV-2 S-RBD.”](/search/?article=Li20e) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.11.292631](https://doi.org/10.1101/2020.09.11.292631).
