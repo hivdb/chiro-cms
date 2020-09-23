@@ -16,15 +16,15 @@ def build_resource_json(resource_dir, buildres_dir, **kw):
         data_dir = '{}-data'.format(resname)
         data_dir = os.path.join(resource_dir, data_dir)
         data = []
-        yaml_path_matched = False
+        data_loaded = False
         for suffix in ('yml', 'yaml', 'json'):
             yaml_path = os.path.extsep.join([data_dir, suffix])
             if os.path.isfile(yaml_path):
-                yaml_path_matched = True
+                data_loaded = True
                 with open(yaml_path, encoding='utf-8-sig') as fp:
                     data = ruamel.yaml.load(fp, Loader=ruamel.yaml.Loader)
                     break
-        if not yaml_path_matched:
+        if not data_loaded:
             for basedir, _, yaml_paths in os.walk(data_dir):
                 for yaml_path in yaml_paths:
                     yaml_path = os.path.join(basedir, yaml_path)
@@ -32,15 +32,12 @@ def build_resource_json(resource_dir, buildres_dir, **kw):
                             not re.search(r'\.ya?ml$', yaml_path):
                         continue
                     with open(yaml_path, encoding='utf-8-sig') as fp:
-                        yaml_path_matched = True
+                        data_loaded = True
                         group = ruamel.yaml.load(fp, Loader=ruamel.yaml.Loader)
                         data.append(group)
         dest_json = os.path.join(buildres_dir, '{}.json'.format(resname))
-        if not yaml_path_matched:
-            print('skip creating {} (data file not found)'.format(dest_json))
         with open(dest_json, 'w') as fp:
-            json.dump({
-                **res_config,
-                'data': data
-            }, fp, indent=2)
+            if data_loaded:
+                res_config['data'] = data
+            json.dump(res_config, fp, indent=2)
             print('create: {}'.format(dest_json))

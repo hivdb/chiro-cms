@@ -1,0 +1,228 @@
+- annotDef:
+    category: subdomain
+    colorRules: []
+    hideCitations: true
+    level: position
+    name: subdomain
+  annotations:
+  - description: N-terminal domain (S1A)
+    positions:
+    - [13, 305]
+    value: NTD
+  - description: Receptor-finding domain (S1B)
+    positions:
+    - [306, 534]
+    value: RBD
+  - description: S1C
+    positions:
+    - [535, 590]
+    value: SD1
+  - description: S1D
+    positions:
+    - [591, 680]
+    value: SD2
+  - description: Furin cleavage site
+    positions:
+    - [681, 686]
+    value: S1/S2
+  - description: Fusion peptide
+    positions:
+    - [788, 806]
+    value: FP
+  - description: Heptad repeat 1
+    positions:
+    - [912, 984]
+    value: HR1
+  - description: Heptad repeat 2
+    positions:
+    - [1163, 1213]
+    value: HR2
+  - description: Transmembrane
+    positions:
+    - [1214, 1237]
+    value: TM
+  - description: Cytoplasmic
+    positions:
+    - [1238, 1273]
+    value: CP
+  citationDefs:
+  - author: Wrapp
+    doi: 10.1126/science.abb2507
+    section: Figure S5
+    year: 2020
+  dataSourceType: POS_ANNOTS
+  mutAnnotPath: resources/mutannot-spike.yml
+- annotDef:
+    category: antibody
+    colorRules: []
+    hideCitations: true
+    level: position
+    name: EY6A
+  annotations:
+  - positions:
+    - [368, 370]
+    - [374, 386]
+    - [388, 390]
+    - [392, 392]
+    - [411, 414]
+    - [426, 430]
+    - [515, 515]
+    - [517, 517]
+    value: EY6A
+  citationDefs:
+  - author: Zhou
+    doi: 10.1038/s41594-020-0480-y
+    section: 'PDB: 6ZCZ'
+    year: 2020
+  dataSourceType: POS_ANNOTS
+  mutAnnotPath: resources/mutannot-spike.yml
+- annotDef:
+    category: escapeMutants
+    colorRules: []
+    hideCitations: true
+    label: All
+    level: aminoAcid
+    name: escape mutants
+  citationDefs:
+  - author: Baum
+    doi: 10.1126/science.abd0831
+    section: Figure 2
+    year: 2020
+  - author: Weisblum
+    doi: 10.1101/2020.07.21.214759
+    section: 'Figure 3, 4, 6, 7'
+    year: 2020
+  dataSourceAAColumns: [Baum20, Weisblum20]
+  dataSourcePath: scripts/escape-mutants-S.yml
+  dataSourceType: AA_ANNOTS
+  mutAnnotPath: resources/mutannot-spike.yml
+- annotDef:
+    category: escapeMutants
+    colorRules: []
+    hideCitations: true
+    label: Baum, 2020
+    level: aminoAcid
+    name: escape mutants Baum20
+  citationDefs:
+  - author: Baum
+    doi: 10.1126/science.abd0831
+    section: Figure 2
+    year: 2020
+  dataSourceAAColumns: [Baum20]
+  dataSourcePath: scripts/escape-mutants-S.yml
+  dataSourceType: AA_ANNOTS
+  mutAnnotPath: resources/mutannot-spike.yml
+- annotDef:
+    category: escapeMutants
+    colorRules: []
+    hideCitations: true
+    label: Weisblum, 2020
+    level: aminoAcid
+    name: escape mutants Weisblum20
+  citationDefs:
+  - author: Weisblum
+    doi: 10.1101/2020.07.21.214759
+    section: 'Figure 3, 4, 6, 7'
+    year: 2020}
+  dataSourceAAColumns: [Weisblum20]
+  dataSourcePath: scripts/escape-mutants-S.yml
+  dataSourceType: AA_ANNOTS
+  mutAnnotPath: resources/mutannot-spike.yml
+- annotName: escape mutants Rogers20
+  dataSourceType: DEL_ANNOTS
+  mutAnnotPath: resources/mutannot-spike.yml
+- annotDef:
+    category: polymorphism
+    colorRules: []
+    hideCitations: true
+    label: ≥0.05%
+    level: aminoAcid
+    name: var2000
+  citationDefs:
+  - author: Tzou
+    doi: 10.3390/v12091006
+    section: Psuedo section
+    year: 2020
+  dataSourceCutoff: 0.0005
+  dataSourceGene: S
+  dataSourcePath: ../sierra-sars2/src/main/resources/aapcnt/rx-all_taxon-SARS2.json
+  dataSourceType: AAPCNT
+  geneDefGene: SARS2S
+  geneDefPath: ../sierra-sars2/src/main/resources/genes.json
+  mutAnnotPath: resources/mutannot-spike.yml
+- annotDef:
+    category: polymorphism
+    colorRules: []
+    hideCitations: true
+    label: ≥0.1%
+    level: aminoAcid
+    name: var1000
+  citationDefs:
+  - author: Tzou
+    doi: 10.3390/v12091006
+    section: Psuedo section
+    year: 2020
+  dataSourceCutoff: 0.001
+  dataSourceGene: S
+  dataSourcePath: ../sierra-sars2/src/main/resources/aapcnt/rx-all_taxon-SARS2.json
+  dataSourceType: AAPCNT
+  geneDefGene: SARS2S
+  geneDefPath: ../sierra-sars2/src/main/resources/genes.json
+  mutAnnotPath: resources/mutannot-spike.yml
+- annotDef:
+    category: subdomain
+    colorRules: []
+    hideCitations: true
+    level: position
+    name: subdomain
+  annotations:
+  - description: β-hairpin
+    positions:
+    - [29, 50]
+    value: β-hairpin
+  - description: nidovirus RdRP-associated nucleotidyltransferase
+    positions:
+    - [51, 249]
+    value: NiRAN
+  - description: Interface
+    positions:
+    - [250, 365]
+    value: Interface
+  - description: Fingers
+    positions:
+    - [366, 581]
+    value: Fingers
+  - description: Palm
+    positions:
+    - [680, 815]
+    value: Palm
+  - description: Thumb
+    positions:
+    - [816, 932]
+    value: Thumb
+  citationDefs:
+  - author: Gao
+    doi: 10.1126/science.abb7498
+    section: Figure 1
+    year: 2020
+  dataSourceType: POS_ANNOTS
+  mutAnnotPath: resources/mutannot-rdrp.yml
+- annotDef:
+    category: polymorphism
+    colorRules: []
+    hideCitations: true
+    label: ≥0.1%
+    level: aminoAcid
+    name: var2000
+  citationDefs:
+  - author: Tzou
+    doi: 10.3390/v12091006
+    section: Psuedo section
+    year: 2020
+  dataSourceCutoff: 0.001
+  dataSourceGene: RdRP
+  dataSourcePath: ../sierra-sars2/src/main/resources/aapcnt/rx-all_taxon-SARS2.json
+  dataSourceType: AAPCNT
+  geneDefGene: SARS2RdRP
+  geneDefPath: ../sierra-sars2/src/main/resources/genes.json
+  mutAnnotPath: resources/mutannot-rdrp.yml

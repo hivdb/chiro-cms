@@ -43,22 +43,30 @@ def getmtime(resource_path):
 def load_resources(data):
     mtime = 0
     if isinstance(data, dict):
-        for key, val in data.items():
-            if isinstance(val, dict) and '_resource' in val:
-                resource_path = os.path.join(BUILDRESDIR, val['_resource'])
-                if not os.path.isfile(resource_path):
-                    resource_path = os.path.join(RESOURCEDIR, val['_resource'])
-                mtime = max(getmtime(resource_path), mtime)
-                with open(resource_path) as fp:
-                    if resource_path.endswith('.json'):
-                        data[key] = json.load(fp)
-                    else:
-                        data[key] = fp.read()
-            mtime = max(load_resources(val), mtime)
+        if '_resource' in data:
+            rpath = data.pop('_resource')
+            resource_path = os.path.join(BUILDRESDIR, rpath)
+            if not os.path.isfile(resource_path):
+                resource_path = os.path.join(RESOURCEDIR, rpath)
+            mtime = max(getmtime(resource_path), mtime)
+            with open(resource_path) as fp:
+                if resource_path.endswith('.json'):
+                    data = json.load(fp)
+                else:
+                    data = fp.read()
+        else:
+            for key, val in data.items():
+                val, nested_mtime = load_resources(val)
+                data[key] = val
+                mtime = max(nested_mtime, mtime)
     elif isinstance(data, list):
+        new_data = []
         for val in data:
-            mtime = max(load_resources(val), mtime)
-    return mtime
+            val, nested_mtime = load_resources(val)
+            new_data.append(val)
+            mtime = max(nested_mtime, mtime)
+        data = new_data
+    return data, mtime
 
 
 def run_plugins():
@@ -96,7 +104,8 @@ def main():
             os.makedirs(os.path.dirname(jsonpath), exist_ok=True)
             with open(yamlpath) as yamlfp, open(jsonpath, 'w') as jsonfp:
                 data = ruamel.yaml.load(yamlfp, Loader=ruamel.yaml.Loader)
-                mtime = max(load_resources(data), mtime)
+                data, new_mtime = load_resources(data)
+                mtime = max(new_mtime, mtime)
                 data['lastModified'] = (
                     datetime.utcfromtimestamp(mtime).isoformat() + 'Z'
                 )
