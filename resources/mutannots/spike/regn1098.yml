@@ -1,0 +1,13 @@
+name: REGN1098
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1126/science.abd0827
+  author: Hansen
+  year: 2020
+  section: 'PDB: 6XDG'
+  positions: [403, 439, 440, 441, 444, 445, 446, 447, 448, 449, 450, 498, 500]
+positions:
+- subgroup: REGN1098
+  positions: [403, 439, 440, 441, 444, 445, 446, 447, 448, 449, 450, 498, 500]

@@ -1,0 +1,15 @@
+name: var1000
+label: ≥0.1%
+level: aminoAcid
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.3390/v12091006
+  author: Tzou
+  year: 2020
+  section: Psuedo section
+  positions: [5, 18, 21, 29, 49, 54, 145, 439, 477, 478, 583, 614, 675, 677, 769,
+    829, 839, 847, 859, 879, 936, 939, 1073, 1078, 1121, 1176, 1263]
+aminoAcids: [5F, 18F, 21I, 29I, 49Y, 54F, 145d, 439K, 477N, 478I, 583D, 614G, 675HR,
+  677H, 769V, 829T, 839Y, 847K, 859I, 879S, 936Y, 939F, 1073N, 1078S, 1121L, 1176F,
+  1263L]

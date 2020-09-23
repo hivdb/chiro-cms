@@ -1,0 +1,14 @@
+name: escape mutants Baum20
+label: Baum, 2020
+level: aminoAcid
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1126/science.abd0831
+  author: Baum
+  year: 2020
+  section: Figure 2
+  positions: [74, 79, 259, 417, 444, 445, 450, 453, 455, 484, 485, 486, 490, 493,
+    655, 682, 685, 687, 769, 779, 1128]
+aminoAcids: [74K, 79I, 259K, 417E, 444Q, 445A, 450D, 453F, 455F, 484K, 485D, 486V,
+  490P, 493K, 655Y, 682Q, 685S, 687G, 769E, 779K, 1128A]

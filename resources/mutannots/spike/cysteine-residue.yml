@@ -1,0 +1,23 @@
+name: Cysteine residue
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1038/s41586-020-2180-5
+  author: Lan
+  year: 2020
+  section: Section "Main" paragraph 6
+  positions: [336, 361, 379, 391, 432, 480, 488, 525]
+positions:
+- subgroup: 336-361
+  description: Cys336-Cys361 pair
+  positions: [336, 361]
+- subgroup: 379-432
+  description: Cys379-Cys432 pair
+  positions: [379, 432]
+- subgroup: 391-525
+  description: Cys391-Cys525 pair
+  positions: [391, 525]
+- subgroup: 480-488
+  description: Cys480-Cys488 pair
+  positions: [480, 488]

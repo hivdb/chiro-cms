@@ -1,0 +1,70 @@
+taxonomy: SARS2
+gene: SARS2RdRP
+fragmentOptions:
+- name: S1
+  seqFragment: [1, 686]
+- name: RBD
+  seqFragment: [306, 534]
+- name: S2
+  seqFragment: [681, 1273]
+- name: All
+  seqFragment: [1, 1273]
+annotCategories:
+- name: subdomain
+  dropdown: false
+  defaultAnnot: subdomain
+  multiSelect: false
+  annotStyle: colorBox
+  annotNames: [subdomain]
+- name: ace2
+  dropdown: false
+  defaultAnnot: ACE2
+  multiSelect: false
+  annotStyle: circleInBox
+  annotNames: [ACE2]
+- name: antibody
+  display: antibodies
+  dropdown: true
+  defaultAnnots: []
+  multiSelect: true
+  annotStyle: underscore
+  annotNames:
+  - REGN1098
+  - REGN1093
+  - CR3022
+  - S309
+  - CB6
+  - P2B-2F6
+  - B38
+  - BD23
+  - C105
+  - EY6A
+- name: polymorphism
+  dropdown: true
+  defaultAnnot: var2000
+  multiSelect: false
+  annotStyle: aminoAcids
+  color: '#000'
+  annotNames:
+  - var2000
+  - var1000
+- name: escapeMutants
+  display: escape mutants
+  dropdown: true
+  defaultAnnot: escape mutants
+  multiSelect: false
+  annotStyle: aminoAcids
+  annotNames:
+  - escape mutants
+  - escape mutants Baum20
+  - escape mutants Weisblum20
+- name: _hide
+  display: false
+  dropdown: false
+  defaultAnnot:
+  multiSelect: false
+  annotStyle: hide
+  annotNames:
+  - secondary structure
+  - Glycan
+  - Cysteine residue

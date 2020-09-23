@@ -1,0 +1,21 @@
+name: Glycan
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1016/j.cell.2020.02.058
+  author: Walls
+  year: 2020
+  section: Table 2
+  positions: [17, 25, 61, 69, 74, 112, 121, 122, 149, 165, 234, 282, 331, 343, 370,
+    603, 616, 657, 709, 717, 801, 1074, 1098, 1134, 1158, 1173, 1194]
+- doi: 10.1126/science.abb9983
+  author: Watanabe
+  year: 2020
+  section: Figure 1A
+  positions: [17, 61, 74, 122, 149, 165, 234, 282, 331, 343, 603, 616, 657, 709, 717,
+    801, 1074, 1098, 1134, 1158, 1173, 1194]
+positions:
+- subgroup: Glycan
+  positions: [17, 25, 61, 69, 74, 112, 121, 122, 149, 165, 234, 282, 331, 343, 370,
+    603, 616, 657, 709, 717, 801, 1074, 1098, 1134, 1158, 1173, 1194]
