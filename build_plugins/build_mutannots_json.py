@@ -5,7 +5,7 @@ import ruamel.yaml
 
 yaml = ruamel.yaml.YAML()
 
-VERSION = '20200910120644'
+VERSION = '20200924115632'
 
 
 def get_citation_id(citation, reverse_citations):
@@ -113,6 +113,7 @@ def build_mutannots_json(resource_dir, buildres_dir, **kw):
         payload = {
             'taxonomy': geneconfig['taxonomy'],
             'gene': geneconfig['gene'],
+            'refSequence': geneconfig['refSequence'],
             'fragmentOptions': geneconfig['fragmentOptions'],
             'annotCategories': categories,
             'annotations': annotdefs,

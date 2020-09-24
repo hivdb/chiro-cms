@@ -1,3 +1,6 @@
 ---
-_resource: mutannot-spike.json
+content:
+  _resource: mutannot-spike-viewer.md
+data:
+  _resource: mutannot-spike.json
 ...
