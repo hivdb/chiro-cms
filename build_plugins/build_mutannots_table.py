@@ -50,7 +50,12 @@ def build_mutannots_table(resource_dir, buildres_dir, **kw):
             {'name': 'refAA',
              'label': 'Ref'}
         ]
-        rows = {}
+        rows = {
+            pos0 + 1: {
+                'position': pos0 + 1,
+                'refAA': aa
+            } for pos0, aa in enumerate(refseq)
+        }
         for cat in geneconfig['annotCategories']:
             cat_annots = cat.pop('annotNames')
             for annot_name in cat_annots:
@@ -94,10 +99,7 @@ def build_mutannots_table(resource_dir, buildres_dir, **kw):
                             for pos in subgroup['positions']:
                                 if pos not in posset:
                                     continue
-                                row = rows.setdefault(pos, {
-                                    'position': pos,
-                                    'refAA': refseq[pos - 1]
-                                })
+                                row = rows[pos]
                                 row[col_name] = subgroup['subgroup']
                     else:
                         for aas in annotdata['aminoAcids']:
@@ -106,10 +108,7 @@ def build_mutannots_table(resource_dir, buildres_dir, **kw):
                             pos = int(pos)
                             if pos not in posset:
                                 continue
-                            row = rows.setdefault(pos, {
-                                'position': pos,
-                                'refAA': refseq[pos - 1]
-                            })
+                            row = rows[pos]
                             row[col_name] = ''.join(sorted(aas))
 
         rows = list(rows.values())
