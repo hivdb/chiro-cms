@@ -106,3 +106,16 @@
   phase: I
   clinicalTrials: |-
     NCT04483375
+- references:
+  - doi: 10.1038/s41586-020-2349-y
+    firstAuthor:
+      surname: Pinto
+      givenNames: Dora
+    year: 2020
+    journal: Nature
+  antibodies:
+  - name: VIR-7831
+  company: Vir Biotechnology, GSK
+  phase: III
+  clinicalTrials: |-
+    NCT04545060

@@ -524,6 +524,10 @@
     ec50: 0.8
   - name: 2-17
     ec50: 6
+  - name: 2-4
+    pdb: S trimer (6XEY)
+  - name: 2-43
+    pdb: S trimer
   - name: 2-7
     ec50: 3
   - name: 4-8
@@ -535,7 +539,7 @@
   - SARS-2 B cells
   - S trimer
   description: |-
-    2-4 ia an ACE2-competing mAb that binds RBD in its down position. In a low-resolution image 2-43 appears to bind to a quartenrary epitope at the top of spike with binding to adjacent S1 protomers. 4-8 binds to NTD. 2-15 is an ACE3-competing mAb that reduced lung virus levels in a hamster prevention model.
+    2-4 ia an ACE2-competing mAb that binds RBD in its down position. In a low-resolution image 2-43 appears to bind to a quartenrary epitope at the top of spike with binding to adjacent S1 protomers. 4-8 binds to NTD. 2-15 is an ACE2-competing mAb that reduced lung virus levels in a hamster prevention model.
 - references:
   - doi: 10.1126/science.abc5881
     firstAuthor:
