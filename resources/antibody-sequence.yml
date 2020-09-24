@@ -1,0 +1,65 @@
+columnDefs:
+  - name: references
+    label: References
+    render: articleList
+    sort: articleList
+  - name: antibodies.name
+    label: MAb name
+    multiCells: true
+  - name: antibodies.species
+    label: Species
+    multiCells: true
+  - name: antibodies.ighv
+    label: IGHV (SHM)
+    multiCells: true
+  - name: antibodies.hvregion
+    label: H chain V region
+    multiCells: true
+    bodyCellStyle:
+      fontFamily: 'Consolas, "Liberation Mono", "Nimbus Mono L", "Andale Mono", "Courier New", monospace'
+      textAlign: left
+      fontSize: 70%
+  - name: antibodies.cdrh3
+    label: CDRH3 (length)
+    multiCells: true
+    bodyCellStyle:
+      fontFamily: 'Consolas, "Liberation Mono", "Nimbus Mono L", "Andale Mono", "Courier New", monospace'
+      textAlign: left
+      fontSize: 70%
+  - name: antibodies.ighj
+    label: IGHJ
+    multiCells: true
+  - name: antibodies.hjregion
+    label: H chain J region
+    multiCells: true
+    bodyCellStyle:
+      fontFamily: 'Consolas, "Liberation Mono", "Nimbus Mono L", "Andale Mono", "Courier New", monospace'
+      textAlign: left
+      fontSize: 70%
+  - name: antibodies.iglv
+    label: IGLV (SHM)
+    multiCells: true
+  - name: antibodies.lvregion
+    label: L chain V region
+    multiCells: true
+    bodyCellStyle:
+      fontFamily: 'Consolas, "Liberation Mono", "Nimbus Mono L", "Andale Mono", "Courier New", monospace'
+      textAlign: left
+      fontSize: 70%
+  - name: antibodies.cdrl3
+    label: CDRL3 (length)
+    multiCells: true
+    bodyCellStyle:
+      fontFamily: 'Consolas, "Liberation Mono", "Nimbus Mono L", "Andale Mono", "Courier New", monospace'
+      textAlign: left
+      fontSize: 70%
+  - name: antibodies.iglj
+    label: IGLJ
+    multiCells: true
+  - name: antibodies.ljregion
+    label: L chain J region
+    multiCells: true
+    bodyCellStyle:
+      fontFamily: 'Consolas, "Liberation Mono", "Nimbus Mono L", "Andale Mono", "Courier New", monospace'
+      textAlign: left
+      fontSize: 70%

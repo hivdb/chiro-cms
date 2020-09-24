@@ -1,0 +1,13 @@
+---
+pageTitle: Monoclonal Antibodies Sequences
+heroImage: mab-tables-bg.jpg
+introHeader: |-
+  Monoclonal Antibodies Sequences
+content:
+  _resource: mab-sequence-tables.md
+tables:
+  antibodySequence:
+    _resource: antibody-sequence.json
+toc: false
+escapeHtml: false
+...
