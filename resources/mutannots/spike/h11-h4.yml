@@ -1,0 +1,21 @@
+name: H11-H4
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1038/s41594-020-0469-6
+  author: Huo
+  year: 2020
+  section: 'PDB: 6ZHD, 6ZCZ'
+  positions: [444, 447, 448, 449, 450, 452, 455, 456, 470, 482, 483, 484, 489,
+    490, 492, 493]
+- doi: 10.1038/s41594-020-0480-y
+  author: Zhou
+  year: 2020
+  section: 'PDB: 6ZHD, 6ZCZ'
+  positions: [444, 447, 448, 449, 450, 452, 455, 456, 470, 482, 483, 484, 489,
+    490, 492, 493]
+positions:
+- subgroup: H11-H4
+  positions: [444, 447, 448, 449, 450, 452, 455, 456, 470, 482, 483, 484, 489,
+    490, 492, 493]

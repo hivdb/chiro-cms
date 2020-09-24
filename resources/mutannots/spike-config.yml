@@ -30,16 +30,21 @@ annotCategories:
   multiSelect: true
   annotStyle: underscore
   annotNames:
+  - CR3022
+  - EY6A
+  - S309
+  - P2B-2F6
+  - BD23
+  - 2-4
+  - H11-D4
+  - H11-H4
+  - B38
+  - CB6
+  - C105
+  - CC12.1
+  - CV30
   - REGN10987
   - REGN10933
-  - CR3022
-  - S309
-  - CB6
-  - P2B-2F6
-  - B38
-  - BD23
-  - C105
-  - EY6A
 - name: polymorphism
   dropdown: true
   defaultAnnot: var2000
