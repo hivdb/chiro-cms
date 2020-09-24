@@ -1,0 +1,14 @@
+---
+pageTitle: Mutations of Spike Gene
+# heroImage: signpost.jpg
+heroImage: mab-tables-bg.jpg
+introHeader: |-
+  Mutations of Spike Gene
+content:
+  _resource: mutannot-spike-table.md
+tables:
+  mutannotSpikeTable:
+    _resource: mutannot-spike-table.json
+toc: false
+escapeHtml: false
+...

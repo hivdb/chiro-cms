@@ -1,5 +1,6 @@
 name: escape mutants
 label: All
+tableColLabel: "Escape\n(all)"
 level: aminoAcid
 hideCitations: true
 colorRules: []

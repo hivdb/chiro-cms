@@ -1,4 +1,5 @@
 name: secondary structure
+tableColLabel: "Secondary\nstructure"
 level: position
 hideCitations: true
 colorRules: [^β, ^T$, ^α, ^η, ^π]
