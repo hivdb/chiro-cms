@@ -22,6 +22,9 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### [New table added (Sep 24)](/page/updates/#new.table.added.sep.24.)
+We added a [table of mutation annotations for SARS-CoV-2 Spike gene](/page/mutannot-spike-table/) and data for six monoclonal antibodies.
+
 ### [Newly added reference (Sep 23)](/page/updates/#newly.added.reference.sep.23.)
 
 Cao L, Goreshnik I, et int., and Baker D. [“De novo design of picomolar SARS-CoV-2 miniprotein inhibitors.”](/search/?article=Cao20e) _Science_, 2020. [doi.org/10.1126/science.abd9909](https://doi.org/10.1126/science.abd9909). [PubMed32907861](https://www.ncbi.nlm.nih.gov/pubmed/32907861/)
