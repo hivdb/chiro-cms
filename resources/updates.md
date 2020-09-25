@@ -19,6 +19,9 @@ Instruction:
 ## Talk on remdesivir and other polymerase inhibitors
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
+## New Spike structure (Sep 24)
+We added a figure [Naturally occurring spike RBD variants and mAb escape mutations](/page/spike-structures/#fig10).
+
 ## New table added (Sep 24)
 We added a [table of mutation annotations for SARS-CoV-2 Spike gene](/page/mutannot-spike-table/). Data for following six MAbs are also added:
 - 2-4

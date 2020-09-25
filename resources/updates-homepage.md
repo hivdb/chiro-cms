@@ -22,6 +22,9 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### [New spike structure (Sep 24)](/page/updates/#new.spike.structure.sep.24.)
+We added a figure [Naturally occurring spike RBD variants and mAb escape mutations](/page/spike-structures/#fig10).
+
 ### [New table added (Sep 24)](/page/updates/#new.table.added.sep.24.)
 We added a [table of mutation annotations for SARS-CoV-2 Spike gene](/page/mutannot-spike-table/) and data for six monoclonal antibodies.
 
