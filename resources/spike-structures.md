@@ -165,3 +165,21 @@ REGN19033 and REGN10987 are ACE2-competing monoclonal antibodies (mAbs) that bin
 </div>
 
 </section>
+
+<section id="fig10" class="figure-section">
+
+<div class="figure-image">
+
+![RBD variants and escape mutations](spike-structures/fig10.png#!maxHeight=35rem)
+
+</div>
+
+<div class="figure-caption">
+
+## [Figure 10](#fig10). Naturally occurring spike RBD variants and mAb escape mutations.
+
+Loop representation of RBD positions 333 to 526 showing SARS-CoV-2 variants reported in >0.05% of reported virus isolates(blue) (A) and escape mutations(magenta) reported during in vitro virus passage (Baum et al DOI; Weisblum et al DOI) with mAbs C105 and REGN10987 and REGN10933 (B). ACE2 binding residues are in yellow.
+
+</div>
+
+</section>
