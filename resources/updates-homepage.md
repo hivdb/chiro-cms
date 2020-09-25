@@ -22,6 +22,11 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+
+### [Newly added reference (Sep 25)](/page/updates/#newly.added.reference.sep.25.)
+
+ter Ellen BM, Dinesh Kumar N, et int., and Smit JM. [“Resveratrol And Pterostilbene Potently Inhibit SARS-CoV-2 Infection In Vitro.”](/search/?article=Ellen%20ter20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.285940](https://doi.org/10.1101/2020.09.24.285940).
+
 ### [New spike structure (Sep 24)](/page/updates/#new.spike.structure.sep.24.)
 We added a figure [Naturally occurring spike RBD variants and mAb escape mutations](/page/spike-structures/#fig10).
 
