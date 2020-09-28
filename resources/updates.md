@@ -19,6 +19,10 @@ Instruction:
 ## Talk on remdesivir and other polymerase inhibitors
 SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
+## New clinical trials (Sep 28)
+
+14 clinical trials were added since September 24: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-24).
+
 ## Newly added reference (Sep 25)
 
 - ter Ellen BM, Dinesh Kumar N, et int., and Smit JM. [“Resveratrol And Pterostilbene Potently Inhibit SARS-CoV-2 Infection In Vitro.”](/search/?article=Ellen%20ter20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.285940](https://doi.org/10.1101/2020.09.24.285940).
@@ -45,10 +49,6 @@ We now support downloading CSV/Excel files for tables.
 ## A SARS-CoV-2 antiviral therapy score card (Sep 21)
 
 Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
-
-## New clinical trials (Sep 18)
-
-13 clinical trials were added since September 17: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-17).
 
 ## Published preprints (Sep 16 ~ Sep 18)
 

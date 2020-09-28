@@ -23,6 +23,10 @@ Instruction:
 
 -->
 
+### [New clinical trials (Sep 28)](/page/updates/#new.clinical.trials.sep.28.)
+
+14 clinical trials were added since September 24: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-24).
+
 ### [Newly added reference (Sep 25)](/page/updates/#newly.added.reference.sep.25.)
 
 ter Ellen BM, Dinesh Kumar N, et int., and Smit JM. [“Resveratrol And Pterostilbene Potently Inhibit SARS-CoV-2 Infection In Vitro.”](/search/?article=Ellen%20ter20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.285940](https://doi.org/10.1101/2020.09.24.285940).
@@ -43,10 +47,6 @@ We now support downloading CSV/Excel files for tables.
 ### [Editorial (Sep 21)](/page/updates/#a.sars-cov-2.antiviral.therapy.score.card.sep.21.)
 
 Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
-
-### [New clinical trials (Sep 18)](/page/updates/#new.clinical.trials.sep.18.)
-
-13 clinical trials were added since September 17: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-17).
 
 ### [Published preprints (Sep 18)](/page/updates/#published.preprints.sep.16.sep.18.)
 
