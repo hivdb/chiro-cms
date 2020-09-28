@@ -23,6 +23,12 @@ SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 20
 
 14 clinical trials were added since September 24: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-24).
 
+## Published preprints (Sep 16 ~ Sep 28)
+
+- Zhu W, Xu M, et int., and Zheng W. [“Identification of SARS-CoV-2 3CL Protease Inhibitors by a Quantitative High-Throughput Screening.”](/search/?article=Zhu20d) ACS Pharmacology & Translational Science, 2020. [doi.org/10.1021/acsptsci.0c00108](https://doi.org/10.1021/acsptsci.0c00108).
+- Lokugamage KG, Hage A, et int., and Menachery VD. [“Type I interferon susceptibility distinguishes SARS-CoV-2 from SARS-CoV.”](/search/?article=Lokugamage20) _Journal of Virology_, 2020. [doi.org/10.1128/jvi.01410-20](https://doi.org/10.1128/jvi.01410-20). [PubMed32938761](https://www.ncbi.nlm.nih.gov/pubmed/32938761/)
+- Liu STH, Lin H, et int., and Bouvier NM. [“Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study.”](/search/?article=Liu20d) _Nature Medicine_, 2020. [doi.org/10.1038/s41591-020-1088-9](https://doi.org/10.1038/s41591-020-1088-9). [PubMed32934372](https://www.ncbi.nlm.nih.gov/pubmed/32934372/).
+
 ## Newly added reference (Sep 25)
 
 - ter Ellen BM, Dinesh Kumar N, et int., and Smit JM. [“Resveratrol And Pterostilbene Potently Inhibit SARS-CoV-2 Infection In Vitro.”](/search/?article=Ellen%20ter20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.285940](https://doi.org/10.1101/2020.09.24.285940).
@@ -49,11 +55,6 @@ We now support downloading CSV/Excel files for tables.
 ## A SARS-CoV-2 antiviral therapy score card (Sep 21)
 
 Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
-
-## Published preprints (Sep 16 ~ Sep 18)
-
-- Lokugamage KG, Hage A, et int., and Menachery VD. [“Type I interferon susceptibility distinguishes SARS-CoV-2 from SARS-CoV.”](/search/?article=Lokugamage20) _Journal of Virology_, 2020. [doi.org/10.1128/jvi.01410-20](https://doi.org/10.1128/jvi.01410-20). [PubMed32938761](https://www.ncbi.nlm.nih.gov/pubmed/32938761/)
-- Liu STH, Lin H, et int., and Bouvier NM. [“Convalescent plasma treatment of severe COVID-19: a propensity score–matched control study.”](/search/?article=Liu20d) _Nature Medicine_, 2020. [doi.org/10.1038/s41591-020-1088-9](https://doi.org/10.1038/s41591-020-1088-9). [PubMed32934372](https://www.ncbi.nlm.nih.gov/pubmed/32934372/).
 
 ## Monoclonal antibodies (Aug 26)
 Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry: [MAb list](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29).
