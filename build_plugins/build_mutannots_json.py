@@ -38,6 +38,9 @@ def build_mutannots_json(resource_dir, buildres_dir, **kw):
         genedir = os.path.join(mutannots_dir, resname)
         annotdata_lookup = {}
         for annotyaml in os.listdir(genedir):
+            match = re.search(r'.+\.ya?ml$', annotyaml)
+            if not match:
+                continue
             with open(os.path.join(genedir, annotyaml),
                       encoding='utf-8-sig') as fp:
                 annotdata = yaml.load(fp)

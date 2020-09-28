@@ -1,0 +1,39 @@
+name: Remdesivir
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1126/science.abc1560
+  author: Yin
+  year: 2020
+  section: "Figure 3D; PDB: 7BV2"
+  positions:
+  - 545
+  - 555 
+  - 557  # add by Philip (from 7BV2 within 5Å)
+  - 622  # add by Philip (from 7BV2 within 5Å)
+  - 623
+  - 680  # add by Philip (from 7BV2 within 5Å)
+  - 682
+  - 687
+  - 688  # add by Philip (from 7BV2 within 5Å)
+  - 691
+  - 759
+  - 760
+  # - 761  # removed by Philip (only bound to MAG not RDV)
+positions:
+- subgroup: RDV
+  positions:
+  - 545
+  - 555 
+  - 557  # add by Philip (from 7BV2 within 5Å)
+  - 622  # add by Philip (from 7BV2 within 5Å)
+  - 623
+  - 680  # add by Philip (from 7BV2 within 5Å)
+  - 682
+  - 687
+  - 688  # add by Philip (from 7BV2 within 5Å)
+  - 691
+  - 759
+  - 760
+  # - 761  # removed by Philip (only bound to MAG not RDV)

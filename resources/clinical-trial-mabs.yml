@@ -1,15 +1,121 @@
-columnDefs:
-  - name: antibodies.name
-    label: MAb name
-    multiCells: true
-  - name: company
-    label: Company
-  - name: phase
-    label: Phase
-  - name: clinicalTrials
-    label: Trial Number(s)
-    render: nl2br
-  - name: references
-    label: References
-    render: articleList
-    sort: articleList
+- references:
+  - doi: 10.1126/science.abd0827
+    firstAuthor:
+      surname: Hansen
+      givenNames: Johanna
+    year: 2020
+    journal: Science
+  - doi: 10.1126/science.abd0831
+    firstAuthor:
+      surname: Baum
+      givenNames: Alina
+    year: 2020
+    journal: Science
+  - doi: 10.1101/2020.08.02.233320
+    firstAuthor:
+      surname: Baum
+      givenNames: Alina
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: REGN10933 +REGN10987
+  company: Regeneron
+  phase: III
+  clinicalTrials: |-
+    NCT04425629 (Outpatient; Phase I, II, III; n=2100)
+    NCT04426695 (Hospitalized; Phase I, II, III; n=2970)
+    NCT04452318 (Prevention; Phase III)
+    NCT04519437
+- references: []
+  antibodies:
+  - name: LY3819253
+  company: Lilly / AbCellera
+  phase: III
+  clinicalTrials: |-
+    NCT04411628 (Phase I; n=40)
+    NCT04497987 (Prevention; Phase III; n=2400)
+    NCT04518410 (Outpatients; Phase III; n=2000)
+    NCT04501978
+- references: []
+  antibodies:
+  - name: TY027
+  company: Tychan Pte
+  phase: I
+  clinicalTrials: |-
+    NCT04429529
+- references:
+  - doi: 10.1038/s41586-020-2381-y
+    firstAuthor:
+      surname: Shi
+      givenNames: Rui
+    year: 2020
+    journal: Nature
+  antibodies:
+  - name: JS016
+  company: Shanghai Junshi Bioscience
+  phase: I
+  clinicalTrials: |-
+    NCT04441918
+- references: []
+  antibodies:
+  - name: BRII-196
+  company: Brii Biosciences
+  phase: I
+  clinicalTrials: |-
+    NCT04479631
+    NCT04479644
+- references: []
+  antibodies:
+  - name: AZD7442 (AZD8895 and AZD1061)
+  company: AstraZeneca / Paraxel
+  phase: I
+  clinicalTrials: |-
+    NCT04507256
+- references: []
+  antibodies:
+  - name: CT-P59
+  company: Celltrion
+  phase: I
+  clinicalTrials: |-
+    NCT04525079
+- references: []
+  antibodies:
+  - name: MW33
+  company: Mabwell Bioscience
+  phase: I
+  clinicalTrials: |-
+    NCT04533048
+- references: []
+  antibodies:
+  - name: BGB DXP593
+  company: BeiGene
+  phase: I
+  clinicalTrials: |-
+    NCT04532294
+- references: []
+  antibodies:
+  - name: STI-1499
+  company: Sorrento Therapeutics
+  phase: I
+  clinicalTrials: |-
+    NCT04454398
+- references: []
+  antibodies:
+  - name: SCTA01
+  company: Sinocelltech
+  phase: I
+  clinicalTrials: |-
+    NCT04483375
+- references:
+  - doi: 10.1038/s41586-020-2349-y
+    firstAuthor:
+      surname: Pinto
+      givenNames: Dora
+    year: 2020
+    journal: Nature
+  antibodies:
+  - name: VIR-7831
+  company: Vir Biotechnology, GSK
+  phase: III
+  clinicalTrials: |-
+    NCT04545060

@@ -7,12 +7,110 @@ introHeader: |-
 content:
   _resource: mab-tables.md
 tables:
+
   clinicalTrialMAbs:
-    _resource: clinical-trial-mabs.json
+    columnDefs:
+    - name: antibodies.name
+      label: MAb name
+      multiCells: true
+    - name: company
+      label: Company
+    - name: phase
+      label: Phase
+    - name: clinicalTrials
+      label: Trial Number(s)
+      render: nl2br
+    - name: references
+      label: References
+      render: articleList
+      sort: articleList
+    data:
+      _resource: clinical-trial-mabs.json
+
   animalModelMAbs:
-    _resource: animal-model-mabs.json
+    columnDefs:
+    - name: references
+      label: References
+      render: articleList
+      sort: articleList
+    - name: antibodies.name
+      label: MAb name
+      multiCells: true
+    - name: animalModel
+      label: Animal model
+      render: nl2br
+    data:
+      _resource: animal-model-mabs.json
+
   publishedMAbs:
-    _resource: published-mabs.json
+    columnDefs:
+    - name: references
+      label: References
+      render: articleList
+      sort: articleList
+    - name: source
+      label: Source
+      render: join
+      renderConfig:
+        joinBy: ";\n"
+      headCellStyle:
+        minWidth: 12rem
+    - name: antibodies.name
+      label: MAb
+      multiCells: true
+    - name: antibodies.ec50
+      label: EC50
+      render: nowrap
+      sort: numeric
+      multiCells: true
+    - name: antibodies.pdb
+      label: PDB
+      render: nl2br
+      multiCells: true
+    - name: description
+      label: Description
+      textAlign: left
+      render: nl2br
+      sortable: false
+      headCellStyle:
+        minWidth: 25rem
+    - name: antibodies.IGHV
+      label: IGHV
+      render: nowrap
+      multiCells: true
+    - name: antibodies.PcntMutH
+      label: SHMᴴ
+      render: nowrap
+      sort: numeric
+      multiCells: true
+    - name: antibodies.CDRH3Len
+      label: H3
+      render: nowrap
+      multiCells: true
+    - name: antibodies.IGHJ
+      label: IGHJ
+      render: nowrap
+      multiCells: true
+    - name: antibodies.IGLV
+      label: IGLV
+      render: nowrap
+      multiCells: true
+    - name: antibodies.PcntMutL
+      label: SHMᴸ
+      render: nowrap
+      sort: numeric
+      multiCells: true
+    - name: antibodies.CDRL3Len
+      label: L3
+      render: nowrap
+      multiCells: true
+    - name: antibodies.IGLJ
+      label: IGLJ
+      render: nowrap
+      multiCells: true
+    data:
+      _resource: published-mabs.json
+
 toc: false
 escapeHtml: false
 ...
