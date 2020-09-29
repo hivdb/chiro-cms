@@ -6,7 +6,7 @@
 
 ## Inteferon
 
-- [Interferon preparations](https://docs.google.com/spreadsheets/d/1FO0-SVBNMaq2o6x0hQRKMLfiJ0pPiT65vB91HixOPns/edit#gid=602678947)
+- [Interferon preparations](https://office365stanford-my.sharepoint.com/:x:/r/personal/philiptz_stanford_edu/_layouts/15/Doc.aspx?sourcedoc=%7B35049CA7-53DA-4EC1-822B-D4458EE3AB68%7D&file=Interferon%20preparations.xlsx&action=default&mobileredirect=true)
 
 ## Monoclonal antibody
 
