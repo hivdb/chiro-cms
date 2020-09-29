@@ -23,6 +23,14 @@ Instruction:
 
 -->
 
+### [Newly added reference (Sep 29)](/page/updates/#newly.added.reference.sep.29.)
+
+Brunaugh AD, Seo H, et int., and Smyth HD. [“Broad-Spectrum, Patient-Adaptable Inhaled Niclosamide-Lysozyme Particles are Efficacious Against Coronaviruses in Lethal Murine Infection Models.”](/search/?article=Brunaugh20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.310490](https://doi.org/10.1101/2020.09.24.310490).
+
+### [Newly added reference (Sep 29)](/page/updates/#newly.added.reference.sep.29.)
+
+Curreli F, Victor SMB, et int., and Debnath AK. [“Stapled peptides based on Human Angiotensin-Converting Enzyme 2 (ACE2) potently inhibit SARS-CoV-2 infection in vitro.”](/search/?article=Curreli20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.25.266437](https://doi.org/10.1101/2020.08.25.266437).
+
 ### [New clinical trials (Sep 28)](/page/updates/#new.clinical.trials.sep.28.)
 
 14 clinical trials were added since September 24: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-24).
