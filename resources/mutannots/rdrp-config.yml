@@ -19,7 +19,14 @@ annotCategories:
   multiSelect: false
   annotStyle: aminoAcids
   color: '#999'
-  annotNames: [var2000, mers]
+  annotNames: [var2000]
+- name: cov-diff
+  display: diff from other CoVs
+  dropdown: true
+  defaultAnnot: sars
+  multiSelect: false
+  annotStyle: aminoAcids
+  annotNames: [sars, mers]
 - name: _hide
   display: false
   dropdown: false
