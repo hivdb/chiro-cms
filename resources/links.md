@@ -129,7 +129,7 @@
 
 - The Antibody Society
 https://chineseantibody.org/covid-19-track/
-
+https://www.antibodysociety.org/covid-19-biologics-tracker/
  
 
 ### Talks
@@ -144,7 +144,7 @@ https://chineseantibody.org/covid-19-track/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg5MDE0MTMsLTczNTU3NjcwNSwyMT
+eyJoaXN0b3J5IjpbLTIwMjA4NDE0MzQsLTczNTU3NjcwNSwyMT
 I3ODgwMTQ4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4MDQx
 NjMsMTY5MzI0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3MjM0MTQsLT
 IwMjY3NjA1MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgxOTIx
