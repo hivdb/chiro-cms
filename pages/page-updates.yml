@@ -7,5 +7,6 @@ introHeader: |-
 content:
   _resource: updates.md
 toc: true
+collapsableLevels: ["h3"]
 escapeHtml: false
 ...

@@ -23,11 +23,11 @@ Instruction:
 
 -->
 
-### [Newly added reference (Sep 29)](/page/updates/#newly.added.reference.sep.29.)
+### [Newly added reference (Sep 29)](/page/updates/#changelog)
 
 Brunaugh AD, Seo H, et int., and Smyth HD. [“Broad-Spectrum, Patient-Adaptable Inhaled Niclosamide-Lysozyme Particles are Efficacious Against Coronaviruses in Lethal Murine Infection Models.”](/search/?article=Brunaugh20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.310490](https://doi.org/10.1101/2020.09.24.310490).
 
-### [Newly added reference (Sep 29)](/page/updates/#newly.added.reference.sep.29.)
+### [Newly added reference (Sep 29)](/page/updates/#changelog)
 
 Curreli F, Victor SMB, et int., and Debnath AK. [“Stapled peptides based on Human Angiotensin-Converting Enzyme 2 (ACE2) potently inhibit SARS-CoV-2 infection in vitro.”](/search/?article=Curreli20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.25.266437](https://doi.org/10.1101/2020.08.25.266437).
 
@@ -39,7 +39,7 @@ Curreli F, Victor SMB, et int., and Debnath AK. [“Stapled peptides based on Hu
 
 3 published preprints were added since September 16.
 
-### [Newly added reference (Sep 25)](/page/updates/#newly.added.reference.sep.25.)
+### [Newly added reference (Sep 25)](/page/updates/#changelog)
 
 ter Ellen BM, Dinesh Kumar N, et int., and Smit JM. [“Resveratrol And Pterostilbene Potently Inhibit SARS-CoV-2 Infection In Vitro.”](/search/?article=Ellen%20ter20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.285940](https://doi.org/10.1101/2020.09.24.285940).
 
@@ -49,7 +49,7 @@ We added a figure [Naturally occurring spike RBD variants and mAb escape mutatio
 ### [New table added (Sep 24)](/page/updates/#new.table.added.sep.24.)
 We added a [table of mutation annotations for SARS-CoV-2 Spike gene](/page/mutannot-spike-table/) and data for six monoclonal antibodies.
 
-### [Newly added reference (Sep 23)](/page/updates/#newly.added.reference.sep.23.)
+### [Newly added reference (Sep 23)](/page/updates/#changelog)
 
 Cao L, Goreshnik I, et int., and Baker D. [“De novo design of picomolar SARS-CoV-2 miniprotein inhibitors.”](/search/?article=Cao20e) _Science_, 2020. [doi.org/10.1126/science.abd9909](https://doi.org/10.1126/science.abd9909). [PubMed32907861](https://www.ncbi.nlm.nih.gov/pubmed/32907861/)
 
