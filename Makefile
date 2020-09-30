@@ -11,7 +11,6 @@ push-docker: build-docker
 pull-docker:
 	@docker pull hivdb/chiro-cms-builder:latest
 
-build: build.py pages images resources downloads build_plugins
 build: $(shell find . -type f -not -path "./.git*" -a -not -path "*.swp" -a -not -path "*.swo" -a -not -path "*/.DS_Store" -a -not -path "*/.gradle/*" -a -not -path "*/build/*" -a -not -path "*.log" -a -not -path "*/local/*" | sed 's#\([| ]\)#\\\1#g') build.py build_plugins/*.py
 	@rm -rf build/
 	@docker run \
