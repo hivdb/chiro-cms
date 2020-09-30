@@ -106,13 +106,17 @@ def build_mutannots_table(resource_dir, buildres_dir, **kw):
                                 row[col_name] = subgroup['subgroup']
                     else:
                         for aas in annotdata['aminoAcids']:
-                            match = re.match(r'^(\d+)([A-Zid*]+)$', aas)
+                            match = re.match(
+                                r'^(\d+)([A-Zid*]+|[A-Z*]_[A-Z*]+)$', aas)
                             pos, aas = match.groups()
                             pos = int(pos)
                             if pos not in posset:
                                 continue
                             row = rows[pos]
-                            row[col_name] = ''.join(sorted(aas))
+                            if '_' in aas:
+                                row[col_name] = aas
+                            else:
+                                row[col_name] = ''.join(sorted(aas))
 
         rows = list(rows.values())
         dest_json = os.path.join(

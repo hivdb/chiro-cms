@@ -18,8 +18,8 @@ annotCategories:
   defaultAnnot: var2000
   multiSelect: false
   annotStyle: aminoAcids
-  color: '#000'
-  annotNames: [var2000]
+  color: '#999'
+  annotNames: [var2000, mers]
 - name: _hide
   display: false
   dropdown: false

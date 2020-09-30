@@ -88,30 +88,35 @@ def build_mutannots_json(resource_dir, buildres_dir, **kw):
                         for pos in subgroup['positions']:
                             posdata = positions.setdefault(pos, {
                                 'position': pos,
-                                'annotations': []
+                                'annotations': {}
                             })
-                            posdata['annotations'].append({
+                            posdata['annotations'][annot_name] = {
                                 'name': annot_name,
                                 'value': subgroup['subgroup'],
                                 'description': subgroup.get('description', ''),
                                 'citationIds': pos_cites[pos]
-                            })
+                            }
                 else:
                     for aas in annotdata['aminoAcids']:
-                        match = re.match(r'^(\d+)([A-Zid*]+)$', aas)
+                        match = re.match(
+                            r'^(\d+)([A-Zid*]+|[A-Z*]_[A-Z*]+)$', aas)
                         pos, aas = match.groups()
                         pos = int(pos)
-                        aas = list(aas)
                         posdata = positions.setdefault(pos, {
                             'position': pos,
-                            'annotations': []
+                            'annotations': {}
                         })
-                        posdata['annotations'].append({
+                        if '_' in aas:
+                            aas = [aas]
+                        posdata['annotations'].setdefault(annot_name, {
                             'name': annot_name,
                             'description': '',
-                            'aminoAcids': aas,
+                            'aminoAcids': [],
                             'citationIds': pos_cites[pos]
-                        })
+                        })['aminoAcids'].extend(aas)
+        positions = list(positions.values())
+        for posdata in positions:
+            posdata['annotations'] = list(posdata['annotations'].values())
 
         payload = {
             'taxonomy': geneconfig['taxonomy'],
@@ -121,7 +126,7 @@ def build_mutannots_json(resource_dir, buildres_dir, **kw):
             'annotCategories': categories,
             'annotations': annotdefs,
             'citations': citations,
-            'positions': list(positions.values()),
+            'positions': positions,
             'version': VERSION
         }
         dest_json = os.path.join(
