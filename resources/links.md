@@ -127,6 +127,9 @@
 - Coronavirus antibody database
 [http://opig.stats.ox.ac.uk/webapps/covabdab/](http://opig.stats.ox.ac.uk/webapps/covabdab/)
 
+- The Antibody Society
+https://chineseantibody.org/covid-19-track/
+ 
 
 ### Talks
 - Cold Spring Harbor Meetings
@@ -140,11 +143,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTU3NjcwNSwyMTI3ODgwMTQ4LDM1Mz
-A2OTg5NSwxMjYxMDMzNzYzLDE1NzE4MDQxNjMsMTY5MzI0Mzc0
-MiwtMTMwODY3NTMsLTE2Mjk3MjM0MTQsLTIwMjY3NjA1MTEsND
-c3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgxOTIxMTIxOCw5NTE4NzY3
-MTYsLTEzMDAwMjM3OTYsMzEwNTgwOTIyLC0xMDgzNzQwOTg3LD
-g0NjY0ODE2NiwtMTk2NDg3NDQwNSwtMzMxMzcwNDQzLC0xNjA3
-MjY1NDY1XX0=
+eyJoaXN0b3J5IjpbLTg3ODM0MDg1NSwtNzM1NTc2NzA1LDIxMj
+c4ODAxNDgsMzUzMDY5ODk1LDEyNjEwMzM3NjMsMTU3MTgwNDE2
+MywxNjkzMjQzNzQyLC0xMzA4Njc1MywtMTYyOTcyMzQxNCwtMj
+AyNjc2MDUxMSw0NzcyNDYxMDYsMTMxNDc4Mjg3NiwtODE5MjEx
+MjE4LDk1MTg3NjcxNiwtMTMwMDAyMzc5NiwzMTA1ODA5MjIsLT
+EwODM3NDA5ODcsODQ2NjQ4MTY2LC0xOTY0ODc0NDA1LC0zMzEz
+NzA0NDNdfQ==
 -->
