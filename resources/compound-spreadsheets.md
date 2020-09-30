@@ -6,7 +6,7 @@
 
 ## Inteferon
 
-- [Interferon preparations](https://office365stanford-my.sharepoint.com/:x:/r/personal/philiptz_stanford_edu/_layouts/15/Doc.aspx?sourcedoc=%7B35049CA7-53DA-4EC1-822B-D4458EE3AB68%7D&file=Interferon%20preparations.xlsx&action=default&mobileredirect=true)
+- [Interferon preparations](https://office365stanford-my.sharepoint.com/:x:/r/personal/philiptz_stanford_edu/_layouts/15/Doc.aspx?sourcedoc=%7B35049CA7-53DA-4EC1-822B-D4458EE3AB68%7D&file=Interferon%20preparations.xlsx&action=default&mobileredirect=truedocs.google.com/spreadsheets/d/1FO0-SVBNMaq2o6x0hQRKMLfiJ0pPiT65vB91HixOPns/edit#gid=602678947)
 
 ## Monoclonal antibody
 
@@ -17,5 +17,5 @@
 - [ClinicalTrials, Antiviral trials](https://docs.google.com/spreadsheets/d/1MRPF8xJ_UjSqbICfLRDY6UdbscmnS4g6lUcPpoaZe6Y/edit?usp=sharing)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjAzNDU1Ml19
+eyJoaXN0b3J5IjpbLTEwNDQzODMwOTUsLTQyMjAzNDU1Ml19
 -->
