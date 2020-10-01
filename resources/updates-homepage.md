@@ -103,9 +103,8 @@ Olagnier D, Farahani E, et int., and Holm CK. [“Identification of SARS-CoV2-me
 Schooley RT, Carlin AF, et int., and Hostetler KY. [“Rethinking Remdesivir: Synthesis of Lipid Prodrugs that Substantially Enhance Anti-Coronavirus Activity.”](/search/?article=Schooley20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.26.269159](https://doi.org/10.1101/2020.08.26.269159). \[[PubMed32869033](https://www.ncbi.nlm.nih.gov/pubmed/32869033/)\] \[[PMC7457622](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457622/)\]
 
 
-### [New clinical trials (Sep 28)](/page/updates/#new.clinical.trials.sep.28.)
-
-14 clinical trials were added since September 24: [list of new clinical trials](/clinical-trials/?fromDate=2020-09-24).
+### [Clinical Trials September 24, 2020](/page/updates/#clinical.trials)
+10 clinical trials were added.
 
 ### [Preprints => Peer-Reviewed Publications](/page/updates/#preprints.peer-reviewed.publications)
 
