@@ -27,6 +27,14 @@ Instruction:
 Proud PC, Tsitoura D, et int., and Carroll MW. [“Prophylactic intranasal administration of a TLR2 agonist reduces upper respiratory tract viral shedding in a SARS-CoV-2 challenge ferret model.”](/search/?article=Proud20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.25.309914](https://doi.org/10.1101/2020.09.25.309914).
 ### Study (Oct 01)
 Son J, Huang S, et int., and Ding S. [“Nitazoxanide and JIB-04 have broad-spectrum antiviral activity and inhibit SARS-CoV-2 replication in cell culture and coronavirus pathogenesis in a pig model.”](/search/?article=Son20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.312165](https://doi.org/10.1101/2020.09.24.312165).
+### Study (Oct 01)
+Fagre AC, Manhard J, et int., and Schountz T. [“A potent SARS-CoV-2 neutralizing human monoclonal antibody that reduces viral burden and disease severity in Syrian hamsters.”](/search/?article=Fagre20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.25.313601](https://doi.org/10.1101/2020.09.25.313601).
+### Study (Oct 01)
+Lin C, Li Y, et int., and Chen J. [“Ceftazidime Is a Potential Drug to Inhibit SARS-CoV-2 Infection In Vitro by Blocking Spike Protein-ACE2 Interaction.”](/search/?article=Lin20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.14.295956](https://doi.org/10.1101/2020.09.14.295956).
+### Study (Oct 01)
+Xiao T, Lu J, et int., and Chen B. [“A trimeric human angiotensin-converting enzyme 2 as an anti-SARS-CoV-2 agent in vitro.”](/search/?article=Xiao20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.18.301952](https://doi.org/10.1101/2020.09.18.301952). \[[PubMed32995768](https://www.ncbi.nlm.nih.gov/pubmed/32995768/)\] \[[PMC7523094](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523094/)\]
+### Study (Oct 01)
+Zhang L, Cao L, et int., and Zhu F. [“A proof of concept for neutralizing antibody-guided vaccine design against SARS-CoV-2.”](/search/?article=Zhang20f) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.23.309294](https://doi.org/10.1101/2020.09.23.309294).
 ### Study (Sep 29)
 Brunaugh AD, Seo H, et int., and Smyth HD. [“Broad-Spectrum, Patient-Adaptable Inhaled Niclosamide-Lysozyme Particles are Efficacious Against Coronaviruses in Lethal Murine Infection Models.”](/search/?article=Brunaugh20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.310490](https://doi.org/10.1101/2020.09.24.310490).
 ### Study (Sep 29)
@@ -93,6 +101,7 @@ Noy-Porat T, Makdasi E, et int., and Rosenfeld R. [“A panel of human neutraliz
 Olagnier D, Farahani E, et int., and Holm CK. [“Identification of SARS-CoV2-mediated suppression of NRF2 signaling reveals a potent antiviral and anti-inflammatory activity of 4-octyl-itaconate and dimethyl fumarate.”](/search/?article=Olagnier20) _bioRxiv_, 2020. [doi.org/10.1101/2020.07.16.206458](https://doi.org/10.1101/2020.07.16.206458).
 ### Study (Sep 01)
 Schooley RT, Carlin AF, et int., and Hostetler KY. [“Rethinking Remdesivir: Synthesis of Lipid Prodrugs that Substantially Enhance Anti-Coronavirus Activity.”](/search/?article=Schooley20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.26.269159](https://doi.org/10.1101/2020.08.26.269159). \[[PubMed32869033](https://www.ncbi.nlm.nih.gov/pubmed/32869033/)\] \[[PMC7457622](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457622/)\]
+
 
 ### [New clinical trials (Sep 28)](/page/updates/#new.clinical.trials.sep.28.)
 
