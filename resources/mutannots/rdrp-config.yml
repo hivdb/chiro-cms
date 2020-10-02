@@ -27,13 +27,6 @@ annotCategories:
   multiSelect: false
   annotStyle: aminoAcids
   annotNames: [sars, mers, mhv, oc43, hku1, pedv]
-- name: conserved position
-  dropdown: false
-  defaultAnnot: conserved position
-  multiSelect: false
-  annotStyle: circleInBox
-  annotNames:
-  - conserved position
 - name: _hide
   display: false
   dropdown: false
