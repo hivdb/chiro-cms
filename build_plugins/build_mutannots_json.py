@@ -24,6 +24,22 @@ def get_citation_id(citation, reverse_citations):
     }
 
 
+def get_positions(obj):
+    positions = []
+    ranges = obj.get('positions')
+    for rangetext in ranges:
+        if isinstance(rangetext, int):
+            positions.append(rangetext)
+        elif rangetext.isdigit():
+            positions.append(int(rangetext))
+        else:
+            start, end = rangetext.split('-', 1)
+            start = int(start.strip())
+            end = int(end.strip())
+            positions.extend(range(start, end + 1))
+    return sorted(set(positions))
+
+
 def build_mutannots_json(resource_dir, buildres_dir, **kw):
     mutannots_dir = os.path.join(resource_dir, 'mutannots')
     for resyaml in os.listdir(mutannots_dir):
@@ -70,7 +86,7 @@ def build_mutannots_json(resource_dir, buildres_dir, **kw):
                 annotdefs.append(annotdef)
 
                 for cite in annotdata['citations']:
-                    cite_pos = cite.pop('positions')
+                    cite_pos = get_positions(cite)
                     cite_id = get_citation_id(cite, rev_citations)
                     cite_id_str = '{citationId}.{sectionId}'.format(**cite_id)
                     citations[cite_id_str] = {
@@ -85,7 +101,7 @@ def build_mutannots_json(resource_dir, buildres_dir, **kw):
 
                 if level == 'position':
                     for subgroup in annotdata['positions']:
-                        for pos in subgroup['positions']:
+                        for pos in get_positions(subgroup):
                             posdata = positions.setdefault(pos, {
                                 'position': pos,
                                 'annotations': {}

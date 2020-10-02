@@ -1,0 +1,15 @@
+name: Motif G
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1126/science.abc1560
+  author: Yin
+  year: 2020
+  section: "Figure S6; PDB: 7BV2"
+  positions:
+  - 499-513
+positions:
+- subgroup: Motif G
+  positions:
+  - 499-513

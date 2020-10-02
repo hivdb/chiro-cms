@@ -1,0 +1,15 @@
+name: Motif E
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1126/science.abc1560
+  author: Yin
+  year: 2020
+  section: "Figure S6; PDB: 7BV2"
+  positions:
+  - 810-820
+positions:
+- subgroup: Motif E
+  positions:
+  - 810-820

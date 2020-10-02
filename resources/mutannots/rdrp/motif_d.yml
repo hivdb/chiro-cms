@@ -1,0 +1,15 @@
+name: Motif D
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1126/science.abc1560
+  author: Yin
+  year: 2020
+  section: "Figure S6; PDB: 7BV2"
+  positions:
+  - 771-796
+positions:
+- subgroup: Motif D
+  positions:
+  - 771-796
