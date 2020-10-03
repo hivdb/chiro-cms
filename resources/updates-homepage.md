@@ -23,6 +23,18 @@ Instruction:
 
 -->
 
+### [Press Release (Oct 02)](/page/press-release)
+
+[Synairgen plc, Interim results for the six months ended 30 June 2020](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Synairgen20200930.pdf)
+
+### [Press Release (Oct 02)](/page/press-release)
+
+[Lilly announces proof of concept data for neutralizing antibody LY-CoV555 in the COVID-19outpatient setting](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly20200930.pdf)
+
+### [Press Release (Oct 02)](/page/press-release)
+
+[Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Regeneron20200930.pdf)
+
 ### Study (Oct 01)
 Proud PC, Tsitoura D, et int., and Carroll MW. [“Prophylactic intranasal administration of a TLR2 agonist reduces upper respiratory tract viral shedding in a SARS-CoV-2 challenge ferret model.”](/search/?article=Proud20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.25.309914](https://doi.org/10.1101/2020.09.25.309914).
 ### Study (Oct 01)
