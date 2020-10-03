@@ -23,6 +23,13 @@ Instruction:
 
 -->
 
+### Data Base Entries(Oct 03)
+Jones BE, Brown-Augsburger PL, et int., and Falconer E. [“LY-CoV555, a rapidly isolated potent neutralizing antibody, provides protection in a non-human primate model of SARS-CoV-2 infection.”](/search/?article=Jones20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.30.318972](https://doi.org/10.1101/2020.09.30.318972).
+### Data Base Entries(Oct 03)
+Sagar S, Rathinavel AK, et int., and Radhakrishnan P. [“Bromelain Inhibits SARS-CoV-2 Infection in VeroE6 Cells.”](/search/?article=Sagar20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.16.297366](https://doi.org/10.1101/2020.09.16.297366). \[[PubMed32995771](https://www.ncbi.nlm.nih.gov/pubmed/32995771/)\] \[[PMC7523097](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523097/)\]
+### Data Base Entries(Oct 03)
+Watson A, Ferreira L, et int., and Stroud R. [“Peptide Antidotes to SARS-CoV-2 (COVID-19).”](/search/?article=Watson20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.06.238915](https://doi.org/10.1101/2020.08.06.238915).
+
 ### [Press Release (Oct 02)](/page/press-release)
 
 [Synairgen plc, Interim results for the six months ended 30 June 2020](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Synairgen20200930.pdf)
@@ -34,6 +41,9 @@ Instruction:
 ### [Press Release (Oct 02)](/page/press-release)
 
 [Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Regeneron20200930.pdf)
+
+### [Clinical Trials (Oct 01)](/page/updates/#clinical.trials)
+[9 clinical trials were added.](/clinical-trials/?fromDate=2020-10-01)
 
 ### Data Base Entries (Oct 01)
 Proud PC, Tsitoura D, et int., and Carroll MW. [“Prophylactic intranasal administration of a TLR2 agonist reduces upper respiratory tract viral shedding in a SARS-CoV-2 challenge ferret model.”](/search/?article=Proud20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.25.309914](https://doi.org/10.1101/2020.09.25.309914).
@@ -56,8 +66,8 @@ Ellen ter B, Dinesh Kumar N, et int., and Smit J. [“Resveratrol And Pterostilb
 ### Data Base Entries (Sep 24)
 Pereda R, González D, et int., and Domínguez RE. [“Therapeutic Effectiveness of Interferon-α2b Against COVID-19: The Cuban Experience.”](/search/?article=Pereda20) _Journal of Interferon & Cytokine Research_, 2020. [doi.org/10.1089/jir.2020.0124](https://doi.org/10.1089/jir.2020.0124). \[[PubMed32960147](https://www.ncbi.nlm.nih.gov/pubmed/32960147/)\]
 
-### [Clinical Trials (Sept 24)](/page/updates/#clinical.trials)
-10 clinical trials were added.
+### [Clinical Trials (Sep 24)](/page/updates/#clinical.trials)
+[10 clinical trials were added.](/clinical-trials/?fromDate=2020-09-04)
 
 ### [New spike structure (Sep 24)](/page/updates/#features)
 We added a figure [Naturally occurring spike RBD variants and mAb escape mutations](/page/spike-structures/#fig10).
@@ -119,19 +129,3 @@ Gorshkov K, Chen CZ, et int., and Zheng W. [“The SARS-CoV-2 cytopathic effect 
 Lang J, Yang N, et int., and Jiang C. [“Inhibition of SARS Pseudovirus Cell Entry by Lactoferrin Binding to Heparan Sulfate Proteoglycans.”](/search/?article=Lang11) _PLoS ONE_, 2011. [doi.org/10.1371/journal.pone.0023710](https://doi.org/10.1371/journal.pone.0023710). \[[PubMed21887302](https://www.ncbi.nlm.nih.gov/pubmed/21887302/)\] \[[PMC3161750](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3161750/)\]
 ### Data Base Entries (Sep 03)
 Resnick SJ, Iketani S, et int., and Chavez A. [“A simplified cell-based assay to identify coronavirus 3CL protease inhibitors.”](/search/?article=Resnick20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.29.272864](https://doi.org/10.1101/2020.08.29.272864). \[[PubMed32869020](https://www.ncbi.nlm.nih.gov/pubmed/32869020/)\] \[[PMC7457602](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457602/)\]
-### Data Base Entries (Sep 02)
-Li T, Cai H, et int., and Li D. [“A potent synthetic nanobody targets RBD and protects mice from SARS-CoV-2 infection.”](/search/?article=Li20d) _bioRxiv_, 2020. [doi.org/10.1101/2020.06.09.143438](https://doi.org/10.1101/2020.06.09.143438).
-### Data Base Entries (Sep 01)
-Bermejo-Jambrina M, Eder J, et int., and Geijtenbeek TBH. [“SARS-CoV-2 Infection and Transmission Depends on Heparan Sulfates and Is Blocked by Low Molecular Weight Heparins.”](/search/?article=Bermejo-Jambrina20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.18.255810](https://doi.org/10.1101/2020.08.18.255810).
-### Data Base Entries (Sep 01)
-Chen Y, Lear T, et int., and Chen B. [“A high throughput screen for TMPRSS2 expression identifies FDA-approved and clinically advanced compounds that can limit SARS-CoV-2 entry.”](/search/?article=Chen20k) _Research square_, 2020. [doi.org/10.21203/rs.3.rs-48659/v1](https://doi.org/10.21203/rs.3.rs-48659/v1). \[[PubMed32818215](https://www.ncbi.nlm.nih.gov/pubmed/32818215/)\] \[[PMC7430593](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7430593/)\]
-### Data Base Entries (Sep 01)
-Ejemel M, Li Q, et int., and Wang Y. [“A cross-reactive human IgA monoclonal antibody blocks SARS-CoV-2 spike-ACE2 interaction.”](/search/?article=Ejemel20) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-18058-8](https://doi.org/10.1038/s41467-020-18058-8). \[[PubMed32826914](https://www.ncbi.nlm.nih.gov/pubmed/32826914/)\] \[[PMC7442812](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7442812/)\]
-### Data Base Entries (Sep 01)
-Kreye J, Reincke SM, et int., and Prüss H. [“A SARS-CoV-2 neutralizing antibody protects from lung pathology in a COVID-19 hamster model.”](/search/?article=Kreye20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.15.252320](https://doi.org/10.1101/2020.08.15.252320). \[[PubMed32817952](https://www.ncbi.nlm.nih.gov/pubmed/32817952/)\] \[[PMC7430590](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7430590/)\]
-### Data Base Entries (Sep 01)
-Noy-Porat T, Makdasi E, et int., and Rosenfeld R. [“A panel of human neutralizing mAbs targeting SARS-CoV-2 spike at multiple epitopes.”](/search/?article=Noy-Porat20) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-18159-4](https://doi.org/10.1038/s41467-020-18159-4). \[[PubMed32855401](https://www.ncbi.nlm.nih.gov/pubmed/32855401/)\] \[[PMC7452893](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7452893/)\]
-### Data Base Entries (Sep 01)
-Olagnier D, Farahani E, et int., and Holm CK. [“Identification of SARS-CoV2-mediated suppression of NRF2 signaling reveals a potent antiviral and anti-inflammatory activity of 4-octyl-itaconate and dimethyl fumarate.”](/search/?article=Olagnier20) _bioRxiv_, 2020. [doi.org/10.1101/2020.07.16.206458](https://doi.org/10.1101/2020.07.16.206458).
-### Data Base Entries (Sep 01)
-Schooley RT, Carlin AF, et int., and Hostetler KY. [“Rethinking Remdesivir: Synthesis of Lipid Prodrugs that Substantially Enhance Anti-Coronavirus Activity.”](/search/?article=Schooley20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.26.269159](https://doi.org/10.1101/2020.08.26.269159). \[[PubMed32869033](https://www.ncbi.nlm.nih.gov/pubmed/32869033/)\] \[[PMC7457622](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457622/)\]
