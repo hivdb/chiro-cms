@@ -55,8 +55,30 @@ Curreli F, Victor SMB, et int., and Debnath AK. [“Stapled peptides based on Hu
 Ellen ter B, Dinesh Kumar N, et int., and Smit J. [“Resveratrol And Pterostilbene Potently Inhibit SARS-CoV-2 Infection In Vitro.”](/search/?article=Ellen%20ter20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.285940](https://doi.org/10.1101/2020.09.24.285940).
 ### Study (Sep 24)
 Pereda R, González D, et int., and Domínguez RE. [“Therapeutic Effectiveness of Interferon-α2b Against COVID-19: The Cuban Experience.”](/search/?article=Pereda20) _Journal of Interferon & Cytokine Research_, 2020. [doi.org/10.1089/jir.2020.0124](https://doi.org/10.1089/jir.2020.0124). \[[PubMed32960147](https://www.ncbi.nlm.nih.gov/pubmed/32960147/)\]
+
+### [Clinical Trials (Sept 24)](/page/updates/#clinical.trials)
+10 clinical trials were added.
+
+### [New spike structure (Sep 24)](/page/updates/#features)
+We added a figure [Naturally occurring spike RBD variants and mAb escape mutations](/page/spike-structures/#fig10).
+
+### [New table added (Sep 24)](/page/updates/#features)
+We added a [table of mutation annotations for SARS-CoV-2 Spike gene](/page/mutannot-spike-table/) and data for six monoclonal antibodies.
+
 ### Study (Sep 23)
 Cao L, Goreshnik I, et int., and Baker D. [“De novo design of picomolar SARS-CoV-2 miniprotein inhibitors.”](/search/?article=Cao20e) _Science_, 2020. [doi.org/10.1126/science.abd9909](https://doi.org/10.1126/science.abd9909). \[[PubMed32907861](https://www.ncbi.nlm.nih.gov/pubmed/32907861/)\]
+
+### [Interface update (Sep 22)](/page/updates/#features)
+We now support downloading CSV/Excel files for tables.
+
+### [Editorial (Sep 21)](/page/updates/#papers)
+
+Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
+
+### [Preprints => Peer-Reviewed Publications (Sep 16)](/page/updates/#preprints.peer-reviewed.publications)
+
+3 published preprints were added.
+
 ### Study (Sep 15)
 Li T, Han X, et int., and Jin A. [“A key linear epitope for a potent neutralizing antibody to SARS-CoV-2 S-RBD.”](/search/?article=Li20e) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.11.292631](https://doi.org/10.1101/2020.09.11.292631).
 ### Study (Sep 14)
@@ -115,23 +137,10 @@ Olagnier D, Farahani E, et int., and Holm CK. [“Identification of SARS-CoV2-me
 Schooley RT, Carlin AF, et int., and Hostetler KY. [“Rethinking Remdesivir: Synthesis of Lipid Prodrugs that Substantially Enhance Anti-Coronavirus Activity.”](/search/?article=Schooley20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.26.269159](https://doi.org/10.1101/2020.08.26.269159). \[[PubMed32869033](https://www.ncbi.nlm.nih.gov/pubmed/32869033/)\] \[[PMC7457622](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457622/)\]
 
 
-### [Clinical Trials September 24, 2020](/page/updates/#clinical.trials)
-10 clinical trials were added.
 
-### [Preprints => Peer-Reviewed Publications](/page/updates/#preprints.peer-reviewed.publications)
 
-3 published preprints were added since September 16.
 
-### [New spike structure (Sep 24)](/page/updates/#new.spike.structure.sep.24.)
-We added a figure [Naturally occurring spike RBD variants and mAb escape mutations](/page/spike-structures/#fig10).
 
-### [New table added (Sep 24)](/page/updates/#new.table.added.sep.24.)
-We added a [table of mutation annotations for SARS-CoV-2 Spike gene](/page/mutannot-spike-table/) and data for six monoclonal antibodies.
 
-### [Interface update (Sep 22)](/page/updates/#interface.update.sep.22.)
-We now support downloading CSV/Excel files for tables.
 
-### [Editorial (Sep 21)](/page/updates/#a.sars-cov-2.antiviral.therapy.score.card.sep.21.)
-
-Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
 

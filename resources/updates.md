@@ -16,67 +16,40 @@ Instruction:
 5. Please do not delete this instruction.
 
 -->
-## Talk on remdesivir and other polymerase inhibitors
-SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
-## New Spike structure (Sep 24)
-We added a figure [Naturally occurring spike RBD variants and mAb escape mutations](/page/spike-structures/#fig10).
+## Papers
 
-## New table added (Sep 24)
-We added a [table of mutation annotations for SARS-CoV-2 Spike gene](/page/mutannot-spike-table/). Data for following six MAbs are also added:
-- 2-4
-- H11-D4
-- H11-H4
-- CC12.1
-- CC12.3
-- CV30
+- Editorial (September 21)
+    - Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
+- Paper (September 4)
+    - Tzou PL, Tao KM, et int., and Shafer R. “Coronavirus Antiviral Research Database (CoV-RDB): An Online Database Designed to Facilitate Comparisons between Candidate Anti-Coronavirus Compounds” _Viruses_, 2020. [doi.org/10.3390/v12091006](https://doi.org/10.3390/v12091006). \[[PubMed32916958](https://www.ncbi.nlm.nih.gov/pubmed/32916958/)\].
 
-## Interface update (Sep 22)
-We now support downloading CSV/Excel files for tables.
+## Talks
 
-## A SARS-CoV-2 antiviral therapy score card (Sep 21)
+- August 10
+    - SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
-Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
+## Features
 
-## Monoclonal antibodies (Aug 26)
-Summary description of >100 monoclonal antibodies (mAbs) designed to inhibit virus cell entry: [MAb list](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29](https://covdb.stanford.edu/compound-list/?target=Entry%20%28monoclonal%20antibodies%29).
+-  New Spike structure (September 24)
+    - We added a figure [Naturally occurring spike RBD variants and mAb escape mutations](/page/spike-structures/#fig10).
+-  New table added (September 24)
+    - We added a [table of mutation annotations for SARS-CoV-2 Spike gene](/page/mutannot-spike-table/). Data for following six MAbs are also added:
+        - 2-4
+        - H11-D4
+        - H11-H4
+        - CC12.1
+        - CC12.3
+        - CV30
+- Interface update (September 22)
+    - We now support downloading CSV/Excel files for tables.
 
-Two mAb preparations are in phase III trials for preventing and treating SARS-CoV-2 infections: (i) the combination of REGN10933 and REGN10987 and (ii) LY3819253. Six antibody preparations are in phase I/II trials: AZD7442, BRII-196, JS016, SCTA01, STI-1499, and TY027.
+## Press Release
 
-The above link summaries preclinical data on mAbs from multiple research laboratories several of which will also likely enter clinical trials. However, other than the three papers describing REGN10933 and REGN10987[^10.1126/science.abd0827][^10.1126/science.abd0831][^10.1101/2020.08.02.233320], there are no published preclinical data on any of the other mAbs in clinical trials. Without such data it is not clear how clinical investigators and physicians will choose which trials to enroll.
+- October 2
+    - [3 new press releases were added](http://localhost:3012/page/press-release/).
 
-## Ciclesonide (Aug 24)
-An updated preprint has reported that the inhaled corticosteroid ciclesonide consistently selects for mutations in nsp3 and nsp4 when SARS-CoV-2 is cultured in the presence of increasing drug concentrations[^10.1101/2020.08.22.258459]. This demonstrates that ciclesonide has a specific antiviral mechanism, which the authors speculate is interference with the double membrane formation that anchors the coronavirus replication transcription complex within cells. Unfortunately, there has been little progress initiating clinical trials with just two being active and six still pending.
-
-## Remdesivir versus standard of care – moderate COVID-19 pneumonia (Aug 21)
-The randomized controlled open-label Gilead SIMPLE-moderate trial enrolled 596 hospitalized persons with radiographic evidence of pneumonia with oxygen saturations >94% on room air and randomized them 1:1:1 to remdesivir for 10 days, remdesivir for 5 days, or standard of care (SOC)[^10.1001/jama.2020.16349].  Approximately 15% were receiving low-flow O2; 85% did not require O2 supplementation. 15% overall were receiving corticosteroids. Approximately 45% in the SOC care group vs. 10% in the remdesivir groups were receiving a chloroquine analog. The primary endpoints were the distribution of clinical status on a 7-point ordinal scale and the proportion with adverse events throughout the study. Due to logistical issues, virological data were limited and not presented. Most patients in the 10 day arm did not complete their course of therapy because they were discharged, By day 11, the 5 day remdesivir group (OR 1.7; 95%CI, 1.1-2.5; P=.02) but not the 10 day group (p=0.18) had an improved clinical status distribution than the SOC group. By day 28, 9 patients died: 2 (1%) in the 5 day group, 3 (2%) in the 10 day group, and 4 (2%) in SOC group. There also did not seem to be a significant reduction in the need for mechanical ventilation (1 vs. 4) or high-flow oxygen (5 vs. 7) between the pooled remdesivir patients vs. SOC by day 11.
-
-Remdesivir is the first anti-SARS-CoV-2 compound shown to be clinically beneficial, albeit in a relatively narrow patient population – those receiving low-flow supplemental oxygen. The benefits of this drug increasingly rest on a single clinical trial (the NIH adaptive trial), which was unfortunately terminated prematurely.
-
-## Thursday August 13
-### Convalescent plasma
-Joyner et al published an expanded efficacy analysis of 35,722 hospitalized patients with severe disease in the Expanded Access Program of whom 61% were in the ICU and 33% receiving mechanical ventilation[^10.1101/2020.08.12.20169359]. The 7D mortality was 8.7% \[95% CI 8.3%-9.2%\] in patients transfused within 3 days of diagnosis but 11.9% \[11.4%-12.2%\] in patients transfused >=4D (p<0.001). Similar findings observed for 30D mortality (21.6% vs. 26.7%, p<0.0001). 7D mortality was also reduced for those who received plasma with higher SARS-CoV-2 IgG titers[^10.1101/2020.08.12.20169359].
-
-Updated conclusion: Convalescent plasma likely provides a measurable modest benefit when administered early in the course of disease to patients with severe disease. Efficacy also depends on the titer of neutralizing antibodies in the donor sample. However, there is sufficient uncertainty about the clinical efficacy of convalescent plasma particularly in non-severe patients to justify the completion of randomized trials for this complicated expensive intervention.
-
-### Nucleoside analogs
-__AT-527__ is an oral nucleoside analog prodrug of AT-511 which has been studied for the treatment of HCV and has been shown to inhibit SARS-CoV-2 in vitro[^10.1101/2020.08.11.242834]. It is being evaluated in a phase II placebo controlled trial of hospitalized patients without severe disease.
-
-## Monday August 10
-### DHODH inhibitors
-Dihydroorotate dehydrogenase (DHODH) is an enzyme in the pyrimidine synthesis pathway. DHODH inhibition limits the availability of nucleoside triphosphates required for viral replication. DHODH inhibitors have also been used to treat autoimmune diseases, organ rejection, and cancer. __Leflunomide__ is a licensed drug for the treatment of rheumatoid and psoriatic arthritis. Its active metabolite teriflunomide has been shown to have weak _in vitro_ SARS-CoV-2 activity[^10.1007/s13238-020-00768-w]. Leflunomide was shown to reduce virus load and to increase recovery by day 14 in a clinical trial of 27 patients[^10.1101/2020.05.29.20114223]. Several other investigational DHODH inhibitors have exhibited much greater _in vitro_ activity including __PTC299__ which has an EC<sub>50</sub> in the low nanomolar range and a high selectivity index [^10.1007/s13238-020-00768-w][^10.1101/2020.08.05.238394]. PTC299 is an oral drug that is also being developed for oncological indications and has been studied in nine clinical trials in over 300 individuals. A placebo-controlled clinical trial of PTC299 in 380 hospitalized patients with COVID-19 began in July (NCT04439071). __IMU-838__ and __brequinar__ are two other compounds acting by this mechanism.
-
-### New data on host protease inhibitors
-The FDA approved drug, __alpha-1-antitrypsin (A1AT)__ has also been shown to inhibit TMPRSS2 [^10.1101/2020.05.04.077826]; It is being studied in three clinical trials intravenously and via inhalation.
-
-Camostat mesylate is rapidly converted into its active metabolite GBPA in animals and humans. __FOY-251__, a methanesulfonate of GBPA has been reported to also inhibit TMPRSS2 but at a somewhat reduced capacity compared with camostat[^10.1101/2020.08.05.237651].
-
-### Updated synthesis on chloroquine (CQ) and hydroxychloroquine (HCQ)
-However, two large blinded and three large open-label randomized control trials totaling more than 6,000 patients failed to show any clinical or virological benefit from the use of hydroxychloroquine[^10.1101/2020.07.15.20151852][^10.7326/M20-4207][^10.1056/NEJMoa2019014][^PMID32409561][^10.1093/cid/ciaa1009]. Two additional randomized controlled studies totaling more than 3,000 patients failed to show a reduction in the risk of infection among exposed patients receiving HCQ[^10.1101/2020.07.20.20157651][^10.1056/NEJMoa2016638].  The lack of efficacy likely reflects the fact that  at standard dosages, CQ and HCQ do not achieve sufficiently high inhibitory drug levels[^10.1111/j.1365-2125.1989.tb03439.x][^10.2165/00003088-199631040-00003][^10.1128/AAC.00339-08][^10.1002/cpt.1856][^10.1002/cpt.1909] and because cytoplasmic entry of SARS-CoV-2, particularly in lung cells, depends primarily on the membrane based enzyme TMPRSS2 rather than on endosomal fusion and acidification[^10.1101/2020.07.22.216150][^10.1038/s41586-020-2575-3].
-
-<!-- start of change log -->
-
-## Study
+## Data Base Entries
 ### October 2020
 - October 01
     - Proud PC, Tsitoura D, et int., and Carroll MW. [“Prophylactic intranasal administration of a TLR2 agonist reduces upper respiratory tract viral shedding in a SARS-CoV-2 challenge ferret model.”](/search/?article=Proud20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.25.309914](https://doi.org/10.1101/2020.09.25.309914).
@@ -765,934 +738,900 @@ However, two large blinded and three large open-label randomized control trials 
     - Williamson BN, Feldmann F, et int., and de Wit E. [“Clinical benefit of remdesivir in rhesus macaques infected with SARS-CoV-2.”](/search/?article=Williamson20) _Nature_, 2020. [doi.org/10.1038/s41586-020-2423-5](https://doi.org/10.1038/s41586-020-2423-5). \[[PubMed32516797](https://www.ncbi.nlm.nih.gov/pubmed/32516797/)\] \[[PMC7486271](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7486271/)\]
 - June 15
     - Ju B, Zhang Q, et int., and Zhang L. [“Human neutralizing antibodies elicited by SARS-CoV-2 infection.”](/search/?article=Ju20) _Nature_, 2020. [doi.org/10.1038/s41586-020-2380-z](https://doi.org/10.1038/s41586-020-2380-z). \[[PubMed32454513](https://www.ncbi.nlm.nih.gov/pubmed/32454513/)\]
+<!-- end of study -->
+
+<!-- start of clinical trials -->
 
 ## Clinical Trials
-### September 24, 2020
-[10 clinical trials were added.](/clinical-trials/?fromDate=2020-09-24)
-- NCT04558476
-- NCT04560231
-- NCT04558463
-- NCT04558021
-- NCT04554992
-- NCT04555148
-- NCT04561063
-- NCT04561076
-- NCT04561219
-- NCT04563208
-### September 17, 2020
-[14 clinical trials were added.](/clinical-trials/?fromDate=2020-09-17)
-- NCT04547660
-- NCT04546581
-- NCT04548557
-- NCT04551898
-- NCT04552379
-- NCT04551755
-- NCT04550325
-- NCT04552483
-- NCT04551768
-- NCT04547140
-- EUCTR2020-001608-40-DE
-- NCT04547127
-- ISRCTN31062548
-- EUCTR2020-002503-19-GB
-### September 10, 2020
-[18 clinical trials were added.](/clinical-trials/?fromDate=2020-09-10)
-- CTRI/2020/08/027225
-- CTRI/2020/08/027282
-- EUCTR2020-002869-34-BE
-- NCT04541485
-- NCT04542967
-- CTRI/2020/08/027394
-- NCT04542694
-- IRCT20200509047364N2
-- NCT04542941
-- NCT04545541
-- NCT04545060
-- NCT04539795
-- IRCT20180922041089N4
-- NCT04540926
-- NCT04542330
-- CTRI/2020/08/027345
-- NCT04542434
-- CTRI/2020/09/027535
-### September 03, 2020
-[14 clinical trials were added.](/clinical-trials/?fromDate=2020-09-03)
-- NCT04532931
-- NCT04533347
-- NCT04535063
-- NCT04534673
-- NCT04539275
-- NCT04532294
-- NCT04535167
-- NCT04532372
-- NCT04534725
-- NCT04535869
-- NCT04537663
-- NCT04534803
-- NCT04539262
-- NCT04533048
-### August 27, 2020
-[18 clinical trials were added.](/clinical-trials/?fromDate=2020-08-27)
-- NCT04525079
-- NCT04531748
-- NCT04527133
-- NCT04527211
-- NCT04523831
-- NCT04528927
-- NCT04530617
-- NCT04530474
-- NCT04524052
-- NCT04528888
-- NCT04528368
-- NCT04530422
-- NCT04524663
-- NCT04530370
-- NCT04529525
-- NCT04529499
-- NCT04530578
-- NCT04524507
-### August 26, 2020
-[1 clinical trials were added.](/clinical-trials/?fromDate=2020-08-26)
-- ChiCTR2000030262
-### August 20, 2020
-[38 clinical trials were added.](/clinical-trials/?fromDate=2020-08-20)
-- IRCT20190624043993N2
-- IRCT20200414047076N1
-- NCT04516811
-- NCT04516564
-- CTRI/2020/08/027162
-- EUCTR2020-002038-33-FI
-- EUCTR2020-000936-23-PT
-- NCT04516954
-- EUCTR2020-002283-32-IT
-- NCT04523246
-- PER-034-20
-- IRCT20200506047323N3
-- IRCT20200718048129N1
-- IRCT20200503047281N1
-- PER-031-20
-- ACTRN12620000816954
-- IRCT20200511047399N1
-- PACTR202007700757139
-- IRCT20200404046937N4
-- NCT04519125
-- NCT04516915
-- NCT04521296
-- IRCT20151227025726N20
-- PACTR202007653923168
-- IRCT20200426047206N3
-- NCT04519437
-- NCT04521322
-- EUCTR2020-002458-25-IT
-- NCT04521036
-- NCT04521309
-- CTRI/2020/07/026668
-- NCT04514302
-- NCT04523090
-- NCT04513158
-- IRCT20190602043787N3
-- NCT04521400
-- PACTR202008855701534
-- NCT04518410
-### August 18, 2020
-[1 clinical trials were added.](/clinical-trials/?fromDate=2020-08-18)
-- NCT04379271
-### August 13, 2020
-[6 clinical trials were added.](/clinical-trials/?fromDate=2020-08-13)
-- EUCTR2020-002574-27-FR
-- ISRCTN15913068
-- NCT04510233
-- NCT04507256
-- JPRN-jRCT2071200023
-- ISRCTN13035264
-### August 06, 2020
-[21 clinical trials were added.](/clinical-trials/?fromDate=2020-08-06)
-- NCT04497987
-- NCT04502472
-- NCT04497649
-- EUCTR2020-002503-19-NL
-- NCT04497324
-- NCT04501978
-- NCT04501796
-- NCT04502342
-- NCT04497519
-- NCT04498325
-- NCT04498936
-- ISRCTN67000769
-- NCT04499677
-- NCT04496245
-- ISRCTN10207947
-- NCT04501952
-- NCT04500067
-- ChiCTR2000030058
-- NCT04501965
-- NCT04498377
-- NCT04501783
-### August 02, 2020
-[2 clinical trials were added.](/clinical-trials/?fromDate=2020-08-02)
-- ChiCTR2000029853
-- ChiCTR2000029544
-### July 30, 2020
-[19 clinical trials were added.](/clinical-trials/?fromDate=2020-07-30)
-- IRCT20160118026097N3
-- IRCT20150107020592N26
-- NCT04488081
-- NCT04492475
-- EUCTR2020-001890-56-ES
-- NCT04494399
-- NL8726
-- NCT04491994
-- NCT04492891
-- NCT04494984
-- EUCTR2020-001971-33-ES
-- EUCTR2020-002668-29-GB
-- NCT04487574
-- NCT04487444
-- EUCTR2020-002449-41-ES
-- ISRCTN14241621
-- NL8477
-- CTRI/2020/06/026001
-- NCT04495101
-### July 23, 2020
-[17 clinical trials were added.](/clinical-trials/?fromDate=2020-07-23)
-- NCT04480138
-- NCT04485130
-- NCT04483973
-- NCT04479644
-- NCT04480632
-- NCT04480424
-- NCT04483960
-- NCT04480333
-- NCT04479631
-- NCT04482686
-- NCT04483375
-- EUCTR2020-002106-68-GB
-- NCT04484025
-- NCT04477083
-- NCT04486313
-- NCT04479163
-- NCT04476888
-### July 16, 2020
-[31 clinical trials were added.](/clinical-trials/?fromDate=2020-07-16)
-- PER-013-20
-- NCT04473053
-- EUCTR2020-002456-21-NL
-- CTRI/2020/06/026123
-- PACTR202006760881890
-- NCT04472572
-- NCT04464460
-- CTRI/2020/06/026087
-- NCT04469491
-- PER-016-20
-- IRCT20200624047908N1
-- NCT04474340
-- IRCT20200513047426N1
-- NCT04470544
-- NCT04475302
-- IRCT20200504047298N1
-- CTRI/2020/06/026232
-- JPRN-jRCTs041200025
-- NCT04468958
-- NCT04468009
-- NCT04472585
-- CTRI/2020/06/026220
-- NCT04475120
-- CTRI/2020/06/026222
-- NCT04468087
-- IRCT20150107020592N30
-- IRCT20200416047099N2
-- IRCT20150107020592N27
-- NCT04469179
-- IRCT20111224008507N3
-- PACTR202006537901307
-### July 09, 2020
-[35 clinical trials were added.](/clinical-trials/?fromDate=2020-07-09)
-- EUCTR2020-001803-17-GB
-- CTRI/2020/06/025854
-- CTRI/2020/05/025346
-- NCT04467151
-- NCT04461353
-- CTRI/2020/06/025849
-- EUCTR2020-002110-41-GB
-- CTRI/2020/06/025575
-- NCT04460443
-- NCT04459702
-- NCT04464408
-- CTRI/2020/05/025299
-- NCT04461379
-- DRKS00022203
-- NCT04466241
-- CTRI/2020/05/025328
-- NCT04459286
-- NCT04464395
-- CTRI/2020/05/025242
-- NCT04458363
-- CTRI/2020/05/025209
-- CTRI/2020/05/025224
-- CTRI/2020/06/025760
-- NCT04462848
-- NCT04463264
-- CTRI/2020/06/025799
-- NCT04458948
-- NCT04457726
-- CTRI/2020/04/024706
-- NCT04466540
-- CTRI/2020/06/025803
-- EUCTR2020-001549-38-DE
-- CTRI/2020/06/025957
-- CTRI/2020/06/025704
-- NCT04465695
-### July 02, 2020
-[19 clinical trials were added.](/clinical-trials/?fromDate=2020-07-02)
-- NCT04452812
-- NCT04452565
-- EUCTR2020-001987-28-IT
-- EUCTR2020-001172-15-DE
-- NCT04452318
-- EUCTR2020-001501-24-IT
-- NCT04456413
-- EUCTR2020-001558-23-IT
-- NCT04455815
-- NCT04454398
-- NCT04452643
-- NL8633
-- NCT04453384
-- NCT04452799
-- EUCTR2020-001528-32-IT
-- NCT04449588
-- NCT04455958
-- NCT04451239
-- NCT04456153
-### June 25, 2020
-[23 clinical trials were added.](/clinical-trials/?fromDate=2020-06-25)
-- NCT04446377
-- NCT04446429
-- NCT04445207
-- NCT04447534
-- NCT04443725
-- NCT04445467
-- NCT04442191
-- NCT04448119
-- NCT04441398
-- EUCTR2020-002233-15-DE
-- NCT04442958
-- NCT04441047
-- NCT04442178
-- NCT04449380
-- NCT04441424
-- NCT04446104
-- EUCTR2020-000982-18-SE
-- NCT04443270
-- NCT04441918
-- NCT04447235
-- NCT04442048
-- NCT04442230
-- NCT04445311
-### June 18, 2020
-[42 clinical trials were added.](/clinical-trials/?fromDate=2020-06-18)
-- IRCT20151227025726N15
-- IRCT20200428047228N2
-- EUCTR2020-002091-12-BG
-- NCT04431466
-- NCT04432324
-- NCT04436458
-- NCT04439071
-- IRCT20200412047042N1
-- NCT04434131
-- EUCTR2020-001904-41-GB
-- IRCT20200511047396N1
-- NCT04438057
-- IRCT20200523047550N1
-- NCT04435015
-- EUCTR2020-002111-22-PL
-- KCT0005105
-- IRCT20140428017469N1
-- IRCT20200502047268N1
-- NCT04438837
-- NCT04431453
-- NCT04438694
-- IRCT20151227025726N18
-- NCT04432272
-- IRCT20200501047259N1
-- IRCT20200422047168N2
-- IRCT20200411047019N1
-- EUCTR2020-001928-34-SE
-- NCT04435522
-- NCT04435587
-- NCT04437693
-- NCT04438850
-- PACTR202005622389003
-- IRCT20150107020592N22
-- IRCT20161206031256N3
-- NCT04435795
-- NCT04435808
-- NCT04433910
-- NCT04432103
-- NCT04435314
-- IRCT20200525047562N1
-- NCT04434248
-- IRCT20200517047485N1
-### June 11, 2020
-[27 clinical trials were added.](/clinical-trials/?fromDate=2020-06-11)
-- NCT04429529
-- NCT04418531
-- NCT04425629
-- NCT04425915
-- NCT04423861
-- NCT04426201
-- NCT04421664
-- NCT04427865
-- NCT04421404
-- NCT04425837
-- NCT04429711
-- NCT04428268
-- NCT04428008
-- NCT04429867
-- NCT04427501
-- NCT04422561
-- NCT04422678
-- NCT04428021
-- NCT04418518
-- NCT04421534
-- NCT04426695
-- NCT04429854
-- NCT04420247
-- NCT04425772
-- NCT04425707
-- NCT04425460
-- NCT04418128
-### June 04, 2020
-[22 clinical trials were added.](/clinical-trials/?fromDate=2020-06-04)
-- ISRCTN99916292
-- NCT04412486
-- NCT04417335
-- EUCTR2020-001573-78-FR
-- NCT04414241
-- NCT04411667
-- EUCTR2020-001671-32-ES
-- NCT04411628
-- NCT04412785
-- NCT04410562
-- NCT04411433
-- NCT04414267
-- ISRCTN40302986
-- EUCTR2020-001512-26-DE
-- EUCTR2020-002287-31-ES
-- NCT04411602
-- NCT04409262
-- NCT04410354
-- EUCTR2020-002448-21-GR
-- NCT04409483
-- NCT04415086
-- EUCTR2020-001605-23-ES
-### May 28, 2020
-[27 clinical trials were added.](/clinical-trials/?fromDate=2020-05-28)
-- NCT04406246
-- EUCTR2020-001366-11-IE
-- NCT04403100
-- NCT04405843
-- NCT04401579
-- NCT04408183
-- NCT04402203
-- NCT04400929
-- NCT04406194
-- NCT04405739
-- NCT04403477
-- NCT04407507
-- NCT04407130
-- NCT04405271
-- NCT04403269
-- NCT04405921
-- NCT04407208
-- NCT04408040
-- NCT04405310
-- NCT04407000
-- NCT04407689
-- EUCTR2020-001704-42-ES
-- NCT04405570
-- NCT04403555
-- NCT04406064
-- NCT04408456
-- NCT04405999
-### May 21, 2020
-[57 clinical trials were added.](/clinical-trials/?fromDate=2020-05-21)
-- CTRI/2020/04/024915
-- NCT04389385
-- NCT04394416
-- NCT04400682
-- KCT0005003
-- ACTRN12620000566932
-- NCT04392713
-- CTRI/2020/05/025067
-- NCT04389359
-- NCT04390178
-- PACTR202004893013257
-- NCT04396106
-- NCT04397523
-- TCTR20200514001
-- CTRI/2020/04/024858
-- NCT04391127
-- NCT04392219
-- NCT04392531
-- NCT04390061
-- NCT04392427
-- NCT04400058
-- NCT04395170
-- CTRI/2020/04/024948
-- NCT04393311
-- CTRI/2020/05/025068
-- CTRI/2020/04/024904
-- CTRI/2020/05/025114
-- NCT04390594
-- CTRI/2020/04/024729
-- JPRN-jRCTs031200026
-- ISRCTN88057279
-- NCT04391101
-- NCT04397757
-- CTRI/2020/04/024749
-- NCT04396067
-- NCT04399356
-- NCT04392128
-- NCT04400019
-- CTRI/2020/04/024806
-- NCT04394442
-- NCT04390503
-- NCT04397328
-- NCT04392973
-- NCT04389944
-- NCT04392414
-- NL8609
-- NCT04393727
-- NCT04389710
-- NCT04399746
-- CTRI/2020/04/024775
-- NCT04390022
-- CTRI/2020/04/024804
-- CTRI/2020/04/024833
-- CTRI/2020/04/024949
-- NCT04392232
-- CTRI/2020/05/025013
-- CTRI/2020/05/025022
-### May 14, 2020
-[47 clinical trials were added.](/clinical-trials/?fromDate=2020-05-14)
-- NCT04381858
-- NCT04388709
-- NCT04384588
-- NCT04382846
-- NCT04385264
-- NCT04381364
-- ACTRN12620000557932
-- NCT04387409
-- NCT04382066
-- NCT04382950
-- NCT04383535
-- NCT04380935
-- NCT04387240
-- NCT04387760
-- NCT04381936
-- NCT04384458
-- NCT04385043
-- NCT04381988
-- NCT04388410
-- EUCTR2020-001783-28-HU
-- NCT04381962
-- NCT04385186
-- NCT04381377
-- NCT04381884
-- EUCTR2020-001953-36-ES
-- EUCTR2020-001784-88-FI
-- EUCTR2020-001474-29-ES
-- EUCTR2020-002123-11-ES
-- NCT04384497
-- NCT04385849
-- EUCTR2020-001994-66-ES
-- EUCTR2020-001632-10-DE
-- EUCTR2020-001768-27-FR
-- EUCTR2020-001696-32-ES
-- NCT04382625
-- NCT04384380
-- NCT04388527
-- NCT04383717
-- NCT04384549
-- NCT04385836
-- EUCTR2020-001635-27-FR
-- NCT04383548
-- NCT04385199
-- NCT04386070
-- EUCTR2020-001697-30-ES
-- NCT04385095
-- EUCTR2020-001740-26-GB
-### May 07, 2020
-[39 clinical trials were added.](/clinical-trials/?fromDate=2020-05-07)
-- NCT04374539
-- NCT04372979
-- NCT04374942
-- NCT04377672
-- NCT04379336
-- NCT04374279
-- NCT04374526
-- NCT04371523
-- NCT04372082
-- NCT04375098
-- NCT04379479
-- NCT04373460
-- NCT04372368
-- NCT04379492
-- NCT04374565
-- NCT04373733
-- NCT04375046
-- NCT04376814
-- NCT04377711
-- NCT04371926
-- RPCEC00000308
-- NCT04379518
-- NCT04373044
-- NCT04376034
-- RPCEC00000307
-- NCT04374487
-- NCT04371107
-- NCT04372628
-- NCT04372017
-- NCT04377646
-- NCT04377568
-- NCT04374552
-- NCT04374903
-- NCT04376788
-- NCT04371406
-- NCT04370782
-- NCT04373824
-- NCT04374019
-- NCT04373291
-### April 30, 2020
-[39 clinical trials were added.](/clinical-trials/?fromDate=2020-04-30)
-- NCT04369742
-- NCT04359810
-- NCT04360759
-- NCT04366245
-- NCT04369365
-- NCT04359615
-- NCT04358783
-- NCT04360356
-- NCT04359316
-- NCT04363866
-- NCT04360122
-- NCT04365439
-- NCT04370262
-- NCT04364737
-- NCT04359953
-- NCT04361253
-- NCT04359537
-- NCT04361461
-- NCT04362176
-- NCT04363827
-- NCT03648372
-- NCT04360486
-- NCT04365582
-- NCT04364022
-- NCT04359095
-- NCT04370015
-- NCT04365101
-- NCT04366739
-- NCT04365231
-- ACTRN12620000501943
-- NCT04359680
-- NCT04362332
-- NCT04364815
-- NCT04363450
-- NCT04361318
-- NCT04363060
-- NCT04358406
-- NCT04358549
-- NCT04363203
-### April 23, 2020
-[40 clinical trials were added.](/clinical-trials/?fromDate=2020-04-23)
-- NCT04357444
-- NCT04358068
-- NCT04355897
-- IRCT20200310046736N1
-- NCT04357613
-- ISRCTN14326006
-- NCT04354870
-- NCT04252885
-- CTRI/2020/03/024402
-- NCT04353271
-- NCT04354597
-- NCT04353037
-- CTRI/2020/04/024479
-- NCT04352400
-- JPRN-jRCTs031190269
-- NCT04357106
-- NCT04355026
-- NCT04354259
-- JPRN-jRCT2031190264
-- NCT04354428
-- PACTR202004801273802
-- ACTRN12620000473965
-- NCT04354805
-- NCT04356495
-- NCT04356534
-- NCT04352946
-- NCT04354441
-- JPRN-JapicCTI-205238
-- NCT04355052
-- NCT04353206
-- NCT04356482
-- TCTR20200404004
-- NCT04356677
-- NCT04355767
-- NCT04352933
-- NCT04358081
-- NCT04352751
-- NCT04353284
-- NCT04354831
-- NCT04354389
-### April 17, 2020
-[69 clinical trials were added.](/clinical-trials/?fromDate=2020-04-17)
-- NCT04345419
-- NCT04349241
-- NCT04345679
-- NCT04346147
-- ACTRN12620000457943
-- ChiCTR2000029757
-- NCT04347915
-- NCT04346446
-- NCT04347980
-- NCT04345692
-- NCT04348474
-- ChiCTR2000030391
-- NCT02845843
-- NCT03891420
-- NCT04344535
-- NCT04345991
-- NCT04351620
-- NCT04347681
-- NCT04351191
-- NCT04349592
-- NCT04344379
-- NCT04348656
-- NCT04351295
-- EUCTR2020-001194-69-ES
-- NCT04346589
-- EUCTR2020-001565-37-ES
-- NCT04344457
-- NCT04343092
-- NCT04343261
-- NCT04346329
-- NCT04350684
-- NCT04351919
-- NCT04344444
-- NCT04345276
-- EUCTR2020-001188-96-FR
-- EUCTR2020-001333-13-FR
-- NCT04350450
-- EUCTR2020-001421-31-ES
-- NCT04347174
-- NCT04348409
-- NCT04343755
-- NCT04343677
-- NCT04347512
-- NCT04345406
-- EUCTR2020-001606-33-ES
-- EUCTR2020-001310-38-DE
-- NCT04343248
-- NCT04349371
-- NCT04345653
-- NCT04350580
-- EUCTR2020-001250-21-FR
-- NCT04344600
-- NCT04345523
-- NCT04346628
-- NCT04349228
-- NCT04343768
-- NCT04345289
-- NCT04351516
-- NCT04344951
-- NCT04350671
-- NCT04350281
-- NCT04343976
-- NCT04347889
-- NCT04342650
-- NCT04345861
-- NCT04351347
-- NCT04346667
-- NCT04347031
-- NCT04351724
-### April 10, 2020
-[29 clinical trials were added.](/clinical-trials/?fromDate=2020-04-10)
-- NCT04340050
-- NCT04340349
-- EUCTR2020-001281-11-FR
-- ISRCTN50189673
-- NCT04341493
-- EUCTR2020-001271-33-FR
-- EUCTR2020-001236-10-NL
-- ACTRN12620000447954
-- NCT04339816
-- NCT04336332
-- EUCTR2020-001345-38-GR
-- NCT04338360
-- EUCTR2020-001270-29-GB
-- NCT04342156
-- NCT04338906
-- NCT04342182
-- NL8490
-- NCT04341727
-- NCT04342221
-- NL8491
-- NCT04338698
-- NCT04336748
-- ACTRN12620000445976
-- NCT04336904
-- NCT04341870
-- NCT04339426
-- NCT04342169
-- NCT04340544
-- NCT04341441
-### April 06, 2020
-[18 clinical trials were added.](/clinical-trials/?fromDate=2020-04-06)
-- NCT04333225
-- NCT04334512
-- NCT04335136
-- NCT04332094
-- NCT04332835
-- NCT04332380
-- NCT04331600
-- NCT04332991
-- NCT04333654
-- NCT04334382
-- NCT04334460
-- NCT04331899
-- NCT04331834
-- NCT04334967
-- NCT04335552
-- NCT04335084
-- NCT04333355
-- NCT04334928
-### April 01, 2020
-[83 clinical trials were added.](/clinical-trials/?fromDate=2020-04-01)
-- NCT04321174
-- JPRN-jRCTs031190226
-- JPRN-jRCTs041190120
-- ChiCTR2000029868
-- NCT04323761
-- NCT04330144
-- NCT04280705
-- NCT04315948
-- NCT04328285
-- NCT04322396
-- NCT04315896
-- NCT04261517
-- EUCTR2020-001023-14-GB
-- NCT04303299
-- IRCT20200128046294N2
-- EUCTR2020-001224-33-DE
-- NCT04329572
-- NCT04318015
-- NCT04310228
-- NCT04307693
-- NCT04328467
-- NCT04328272
-- NCT04329832
-- NCT04257656
-- IRCT20100228003449N28
-- NCT04308668
-- NCT04330690
-- NCT04322123
-- IRCT20100228003449N29
-- NCT04323631
-- NCT04327206
-- NCT04328012
-- NCT04292730
-- NCT04321278
-- NCT04322344
-- NCT04303507
-- NCT04275245
-- NCT04329923
-- NCT04264858
-- NCT04255017
-- ACTRN12620000417987
-- NCT04318444
-- JPRN-jRCTs031190227
-- NCT04330586
-- EUCTR2020-000890-25-FR
-- NCT04321096
-- IRCT20100228003449N30
-- ChiCTR2000030254
-- NCT04252664
-- NCT04295551
-- NCT04304053
-- NCT04276688
-- NCT04252274
-- NCT04321616
-- NCT04323800
-- NCT04254874
-- EUCTR2020-001243-15-BE
-- NCT04320238
-- NCT04302766
-- ChiCTR2000030046
-- NCT04261270
-- NCT04327349
-- ISRCTN86534580
-- NCT04291729
-- EUCTR2020-000982-18-NO
-- ChiCTR2000029559
-- NCT04324463
-- NCT04330495
-- ChiCTR2000029496
-- EUCTR2020-000919-69-NL
-- NCT04321421
-- EUCTR2020-001010-38-NO
-- NCT04329611
-- IRCT20151227025726N12
-- ChiCTR2000029609
-- NCT04323527
-- NCT04325893
-- NCT04326725
-- IRCT20100228003449N27
-- NCT04293887
-- NCT04292340
-- NCT04292899
-- NCT04328493
-
-
-<!-- end of change log -->
-
-
-<!-- start of references details -->
-
-[^10.1126/science.abd0827]: Hansen J, Baum A, et int., Kyratsous CA. "Studies in humanized mice and convalescent humans yield a SARS-CoV-2 antibody cocktail" _Science_, 2020. [10.1126/science.abd0827](https://doi.org/10.1126/science.abd0827)
-[^10.1126/science.abd0831]: Baum A, Fulton BO, et int., Kyratsous CA. "Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies" _Science_, 2020. [10.1126/science.abd0831](https://doi.org/10.1126/science.abd0831)
-[^10.1101/2020.08.02.233320]: Baum A, Copin R, et int., Kyratsous CA. "REGN-COV2 antibody cocktail prevents and treats SARS-CoV-2 infection in rhesus macaques and hamsters" _bioRxiv_, 2020. [10.1101/2020.08.02.233320](https://doi.org/10.1101/2020.08.02.233320)
-[^10.1101/2020.08.22.258459]: Matsuyama S, Kawase M, et int., Fukushi S. "The inhaled steroid ciclesonide blocks SARS-CoV-2 RNA replication by targeting viral replication-transcription complex in culture cells" _bioRxiv_, 2020. [10.1101/2020.08.22.258459](https://doi.org/10.1101/2020.08.22.258459)
-[^10.1001/jama.2020.16349]: Spinner CD, Gottlieb RL, et int., Marty FM. "Effect of Remdesivir vs Standard Care on Clinical Status at 11 Days in Patients With Moderate COVID-19: A Randomized Clinical Trial" _JAMA_, 2020. [10.1001/jama.2020.16349](https://doi.org/10.1001/jama.2020.16349)
-[^10.1101/2020.08.12.20169359]: Joyner MJ, Senefeld JW, et int., Casadevall A. "Effect of Convalescent Plasma on Mortality among Hospitalized Patients with COVID-19: Initial Three-Month Experience" _medRxiv_, 2020. [10.1101/2020.08.12.20169359](https://doi.org/10.1101/2020.08.12.20169359)
-[^10.1101/2020.08.11.242834]: Good SS, Westover J, et int., Sommadossi J. "AT-527 is a potent in vitro replication inhibitor of SARS-CoV-2, the virus responsible for the COVID-19 pandemic" _bioRxiv_, 2020. [10.1101/2020.08.11.242834](https://doi.org/10.1101/2020.08.11.242834)
-[^10.1007/s13238-020-00768-w]: Xiong R, Zhang L, et int., Xu K. "Novel and potent inhibitors targeting DHODH are broad-spectrum antivirals against RNA viruses including newly-emerged coronavirus SARS-CoV-2" _Protein Cell_, 2020. [10.1007/s13238-020-00768-w](https://doi.org/10.1007/s13238-020-00768-w)
-[^10.1101/2020.05.29.20114223]: Wang Q, Guo H, et int., Hu Z. "Efficacy and Safety of Leflunomide for Refractory COVID-19: An Open-label Controlled Study" _medRxiv_, 2020. [10.1101/2020.05.29.20114223](https://doi.org/10.1101/2020.05.29.20114223)
-[^10.1101/2020.08.05.238394]: Luban J, Sattler R, et int., Peltz S. "The DHODH Inhibitor PTC299 Arrests SARS-CoV-2 Replication and Suppresses Induction of Inflammatory Cytokines" _bioRxiv_, 2020. [10.1101/2020.08.05.238394](https://doi.org/10.1101/2020.08.05.238394)
-[^10.1101/2020.05.04.077826]: Azouz NP, Klingler AM, Rothenberg ME. "Alpha 1 Antitrypsin is an Inhibitor of the SARS-CoV2–Priming Protease TMPRSS2" _bioRxiv_, 2020. [10.1101/2020.05.04.077826](https://doi.org/10.1101/2020.05.04.077826)
-[^10.1101/2020.08.05.237651]: Hoffmann M, Hofmann-Winkler H, et int., Poehlmann S. "Camostat mesylate inhibits SARS-CoV-2 activation by TMPRSS2-related proteases and its metabolite GBPA exerts antiviral activity" _bioRxiv_, 2020. [10.1101/2020.08.05.237651](https://doi.org/10.1101/2020.08.05.237651)
-[^10.1101/2020.07.15.20151852]: Horby P, Mafham M, et int., Landray MJ. "Effect of Hydroxychloroquine in Hospitalized Patients with COVID-19: Preliminary results from a multi-centre, randomized, controlled trial." _medRxiv_, 2020. [10.1101/2020.07.15.20151852](https://doi.org/10.1101/2020.07.15.20151852)
-[^10.7326/M20-4207]: Skipper CP, Pastick KA, et int., Boulware DR. "Hydroxychloroquine in Nonhospitalized Adults With Early COVID-19: A Randomized Trial" _Ann. Intern. Med._, 2020. [10.7326/M20-4207](https://doi.org/10.7326/M20-4207)
-[^10.1056/NEJMoa2019014]: Cavalcanti AB, Zampieri FG, et int., Berwanger O. "Hydroxychloroquine with or without Azithromycin in Mild-to-Moderate Covid-19" _New England Journal of Medicine_, 2020. [10.1056/NEJMoa2019014](https://doi.org/10.1056/NEJMoa2019014)
-[^PMID32409561]: Tang W, Cao Z, et int., Xie Q. "Hydroxychloroquine in patients with mainly mild to moderate coronavirus disease 2019: open label, randomised controlled trial" _BMJ_, 2020. [PMID32409561](https://pubmed.ncbi.nlm.nih.gov/32409561)
-[^10.1093/cid/ciaa1009]: Mitjà O, Corbacho-Monné M, et int., Vall-Mayans M. "Hydroxychloroquine for Early Treatment of Adults with Mild Covid-19: A Randomized-Controlled Trial" _Clin Infect Dis_, 2020. [10.1093/cid/ciaa1009](https://doi.org/10.1093/cid/ciaa1009)
-[^10.1101/2020.07.20.20157651]: Mitja O, Ubals M, et int., Clotet B. "A Cluster-Randomized Trial of Hydroxychloroquine as Prevention of Covid-19 Transmission and Disease" _medRxiv_, 2020. [10.1101/2020.07.20.20157651](https://doi.org/10.1101/2020.07.20.20157651)
-[^10.1056/NEJMoa2016638]: Boulware DR, Pullen MF, et int., Hullsiek KH. "A Randomized Trial of Hydroxychloroquine as Postexposure Prophylaxis for Covid-19" _New England Journal of Medicine_, 2020. [10.1056/NEJMoa2016638](https://doi.org/10.1056/NEJMoa2016638)
-[^10.1111/j.1365-2125.1989.tb03439.x]: Tett SE, Cutler DJ, et int., Brown KF. "Bioavailability of hydroxychloroquine tablets in healthy volunteers" _Br J Clin Pharmacol_, 1989. [10.1111/j.1365-2125.1989.tb03439.x](https://doi.org/10.1111/j.1365-2125.1989.tb03439.x)
-[^10.2165/00003088-199631040-00003]: Ducharme J, Farinotti R. "Clinical pharmacokinetics and metabolism of chloroquine. Focus on recent advancements" _Clin Pharmacokinet_, 1996. [10.2165/00003088-199631040-00003](https://doi.org/10.2165/00003088-199631040-00003)
-[^10.1128/AAC.00339-08]: Lim H, Im J, et int., Park J. "Pharmacokinetics of hydroxychloroquine and its clinical implications in chemoprophylaxis against malaria caused by Plasmodium vivax" _Antimicrob. Agents Chemother._, 2009. [10.1128/AAC.00339-08](https://doi.org/10.1128/AAC.00339-08)
-[^10.1002/cpt.1856]: Garcia-Cremades M, Solans BP, et int., Savic RM. "Optimizing hydroxychloroquine dosing for patients with COVID-19: An integrative modeling approach for effective drug repurposing" _Clin. Pharmacol. Ther._, 2020. [10.1002/cpt.1856](https://doi.org/10.1002/cpt.1856)
-[^10.1002/cpt.1909]: Arshad U, Pertinez H, et int., Owen A. "Prioritisation of Anti-SARS-Cov-2 Drug Repurposing Opportunities Based on Plasma and Target Site Concentrations Derived from their Established Human Pharmacokinetics" _Clin. Pharmacol. Ther._, 2020. [10.1002/cpt.1909](https://doi.org/10.1002/cpt.1909)
-[^10.1101/2020.07.22.216150]: Ou T, Mou H, et int., Farzan M. "Hydroxychloroquine-mediated inhibition of SARS-CoV-2 entry is attenuated by TMPRSS2" _bioRxiv_, 2020. [10.1101/2020.07.22.216150](https://doi.org/10.1101/2020.07.22.216150)
-[^10.1038/s41586-020-2575-3]: Hoffmann M, Mösbauer K, et int., Pöhlmann S. "Chloroquine does not inhibit infection of human lung cells with SARS-CoV-2" _Nature_, 2020. [10.1038/s41586-020-2575-3](https://doi.org/10.1038/s41586-020-2575-3)
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI1ODIyNTgsMTA0MzI2OTgwLDI0Mj
-I4Mzc4MiwtMTExODAxNjQ5MCwtMjA3NjMzNjQ2LDE1MTE0MDg1
-NTQsMjEzMjczOTk4LDI3NTYzOTg2LC00OTgyNzYwMTksLTEzOT
-MxMzg2ODAsLTE3MjU1MjIzNTUsLTE0MTQyMTc5MjksLTE1NDMz
-NzUyMDQsLTE5MzUxMzk4OTksLTc1MTQxNjM2Miw2MzQ4MTE5Nj
-csMTYwOTIzNDU4LDczMDk5ODExNl19
--->
+### September 2020
+- September 24
+    - [10 clinical trials were added.](/clinical-trials/?fromDate=2020-09-24)
+    - NCT04558463
+    - NCT04561063
+    - NCT04558476
+    - NCT04561219
+    - NCT04560231
+    - NCT04558021
+    - NCT04554992
+    - NCT04555148
+    - NCT04561076
+    - NCT04563208
+- September 17
+    - [14 clinical trials were added.](/clinical-trials/?fromDate=2020-09-17)
+    - NCT04550325
+    - NCT04551755
+    - NCT04552379
+    - EUCTR2020-002503-19-GB
+    - NCT04552483
+    - NCT04547660
+    - NCT04546581
+    - NCT04548557
+    - NCT04547127
+    - EUCTR2020-001608-40-DE
+    - NCT04551898
+    - NCT04551768
+    - ISRCTN31062548
+    - NCT04547140
+- September 10
+    - [18 clinical trials were added.](/clinical-trials/?fromDate=2020-09-10)
+    - NCT04545060
+    - CTRI/2020/08/027394
+    - NCT04539795
+    - NCT04541485
+    - NCT04542694
+    - NCT04542967
+    - CTRI/2020/09/027535
+    - IRCT20200509047364N2
+    - NCT04540926
+    - CTRI/2020/08/027225
+    - IRCT20180922041089N4
+    - NCT04542434
+    - NCT04542941
+    - NCT04545541
+    - CTRI/2020/08/027282
+    - CTRI/2020/08/027345
+    - NCT04542330
+    - EUCTR2020-002869-34-BE
+- September 03
+    - [14 clinical trials were added.](/clinical-trials/?fromDate=2020-09-03)
+    - NCT04537663
+    - NCT04533347
+    - NCT04532372
+    - NCT04533048
+    - NCT04532294
+    - NCT04534803
+    - NCT04539262
+    - NCT04534673
+    - NCT04535167
+    - NCT04535063
+    - NCT04535869
+    - NCT04539275
+    - NCT04532931
+    - NCT04534725
+### August 2020
+- August 27
+    - [18 clinical trials were added.](/clinical-trials/?fromDate=2020-08-27)
+    - NCT04527133
+    - NCT04527211
+    - NCT04529499
+    - NCT04524663
+    - NCT04530422
+    - NCT04528927
+    - NCT04530370
+    - NCT04530617
+    - NCT04531748
+    - NCT04523831
+    - NCT04525079
+    - NCT04528888
+    - NCT04524507
+    - NCT04530578
+    - NCT04530474
+    - NCT04528368
+    - NCT04524052
+    - NCT04529525
+- August 26
+    - [1 clinical trials were added.](/clinical-trials/?fromDate=2020-08-26)
+    - ChiCTR2000030262
+- August 20
+    - [38 clinical trials were added.](/clinical-trials/?fromDate=2020-08-20)
+    - NCT04516811
+    - NCT04521322
+    - IRCT20200511047399N1
+    - NCT04516954
+    - NCT04519125
+    - NCT04521400
+    - PER-034-20
+    - NCT04519437
+    - PACTR202008855701534
+    - IRCT20200404046937N4
+    - IRCT20200718048129N1
+    - NCT04518410
+    - NCT04521036
+    - IRCT20190602043787N3
+    - IRCT20200503047281N1
+    - NCT04513158
+    - EUCTR2020-002458-25-IT
+    - IRCT20200426047206N3
+    - CTRI/2020/08/027162
+    - EUCTR2020-000936-23-PT
+    - ACTRN12620000816954
+    - PACTR202007653923168
+    - IRCT20151227025726N20
+    - NCT04521309
+    - NCT04523246
+    - IRCT20190624043993N2
+    - NCT04523090
+    - NCT04514302
+    - NCT04516915
+    - PER-031-20
+    - IRCT20200506047323N3
+    - NCT04516564
+    - NCT04521296
+    - CTRI/2020/07/026668
+    - EUCTR2020-002283-32-IT
+    - PACTR202007700757139
+    - IRCT20200414047076N1
+    - EUCTR2020-002038-33-FI
+- August 18
+    - [1 clinical trials were added.](/clinical-trials/?fromDate=2020-08-18)
+    - NCT04379271
+- August 13
+    - [6 clinical trials were added.](/clinical-trials/?fromDate=2020-08-13)
+    - EUCTR2020-002574-27-FR
+    - JPRN-jRCT2071200023
+    - ISRCTN13035264
+    - NCT04510233
+    - ISRCTN15913068
+    - NCT04507256
+- August 06
+    - [21 clinical trials were added.](/clinical-trials/?fromDate=2020-08-06)
+    - NCT04498325
+    - NCT04501783
+    - ChiCTR2000030058
+    - NCT04498936
+    - NCT04497324
+    - NCT04500067
+    - NCT04496245
+    - NCT04501796
+    - NCT04501978
+    - ISRCTN67000769
+    - NCT04499677
+    - NCT04497519
+    - NCT04501952
+    - NCT04498377
+    - NCT04501965
+    - NCT04497987
+    - NCT04502342
+    - EUCTR2020-002503-19-NL
+    - NCT04497649
+    - ISRCTN10207947
+    - NCT04502472
+- August 02
+    - [2 clinical trials were added.](/clinical-trials/?fromDate=2020-08-02)
+    - ChiCTR2000029544
+    - ChiCTR2000029853
+### July 2020
+- July 30
+    - [19 clinical trials were added.](/clinical-trials/?fromDate=2020-07-30)
+    - EUCTR2020-001890-56-ES
+    - NCT04492891
+    - NCT04487574
+    - CTRI/2020/06/026001
+    - IRCT20160118026097N3
+    - NCT04494984
+    - NCT04487444
+    - NCT04495101
+    - NL8477
+    - NCT04488081
+    - EUCTR2020-002449-41-ES
+    - IRCT20150107020592N26
+    - ISRCTN14241621
+    - NCT04492475
+    - NCT04494399
+    - EUCTR2020-002668-29-GB
+    - NL8726
+    - EUCTR2020-001971-33-ES
+    - NCT04491994
+- July 23
+    - [17 clinical trials were added.](/clinical-trials/?fromDate=2020-07-23)
+    - NCT04479631
+    - NCT04486313
+    - NCT04480632
+    - NCT04484025
+    - NCT04480424
+    - NCT04485130
+    - NCT04479163
+    - EUCTR2020-002106-68-GB
+    - NCT04480333
+    - NCT04476888
+    - NCT04477083
+    - NCT04479644
+    - NCT04480138
+    - NCT04483375
+    - NCT04483973
+    - NCT04482686
+    - NCT04483960
+- July 16
+    - [31 clinical trials were added.](/clinical-trials/?fromDate=2020-07-16)
+    - NCT04470544
+    - NCT04468958
+    - NCT04474340
+    - NCT04464460
+    - IRCT20200416047099N2
+    - PER-013-20
+    - NCT04472585
+    - CTRI/2020/06/026087
+    - IRCT20200513047426N1
+    - NCT04473053
+    - IRCT20150107020592N30
+    - IRCT20150107020592N27
+    - CTRI/2020/06/026220
+    - IRCT20200504047298N1
+    - NCT04469491
+    - JPRN-jRCTs041200025
+    - NCT04469179
+    - NCT04475302
+    - PER-016-20
+    - EUCTR2020-002456-21-NL
+    - NCT04472572
+    - NCT04468087
+    - PACTR202006537901307
+    - CTRI/2020/06/026232
+    - CTRI/2020/06/026222
+    - NCT04468009
+    - PACTR202006760881890
+    - IRCT20111224008507N3
+    - CTRI/2020/06/026123
+    - IRCT20200624047908N1
+    - NCT04475120
+- July 09
+    - [35 clinical trials were added.](/clinical-trials/?fromDate=2020-07-09)
+    - CTRI/2020/06/025849
+    - CTRI/2020/05/025242
+    - DRKS00022203
+    - CTRI/2020/06/025575
+    - CTRI/2020/05/025299
+    - NCT04460443
+    - CTRI/2020/05/025328
+    - NCT04459702
+    - NCT04461379
+    - NCT04466241
+    - CTRI/2020/04/024706
+    - NCT04458948
+    - NCT04464408
+    - CTRI/2020/06/025760
+    - CTRI/2020/05/025224
+    - EUCTR2020-001803-17-GB
+    - NCT04457726
+    - NCT04465695
+    - CTRI/2020/05/025209
+    - EUCTR2020-002110-41-GB
+    - CTRI/2020/06/025803
+    - NCT04467151
+    - CTRI/2020/06/025799
+    - NCT04459286
+    - NCT04464395
+    - NCT04463264
+    - NCT04462848
+    - NCT04466540
+    - NCT04461353
+    - CTRI/2020/05/025346
+    - CTRI/2020/06/025957
+    - NCT04458363
+    - CTRI/2020/06/025704
+    - CTRI/2020/06/025854
+    - EUCTR2020-001549-38-DE
+- July 02
+    - [19 clinical trials were added.](/clinical-trials/?fromDate=2020-07-02)
+    - NCT04452812
+    - EUCTR2020-001987-28-IT
+    - NL8633
+    - EUCTR2020-001501-24-IT
+    - NCT04452643
+    - NCT04449588
+    - NCT04454398
+    - NCT04453384
+    - NCT04451239
+    - NCT04456153
+    - NCT04452565
+    - NCT04452318
+    - NCT04455958
+    - EUCTR2020-001528-32-IT
+    - EUCTR2020-001172-15-DE
+    - NCT04455815
+    - NCT04456413
+    - NCT04452799
+    - EUCTR2020-001558-23-IT
+### June 2020
+- June 25
+    - [23 clinical trials were added.](/clinical-trials/?fromDate=2020-06-25)
+    - NCT04445207
+    - NCT04448119
+    - NCT04447235
+    - NCT04445311
+    - NCT04442230
+    - NCT04442191
+    - NCT04441047
+    - NCT04441918
+    - NCT04443725
+    - NCT04443270
+    - NCT04442958
+    - NCT04446104
+    - NCT04445467
+    - NCT04446377
+    - NCT04446429
+    - NCT04441398
+    - EUCTR2020-002233-15-DE
+    - NCT04449380
+    - EUCTR2020-000982-18-SE
+    - NCT04442048
+    - NCT04447534
+    - NCT04441424
+    - NCT04442178
+- June 18
+    - [42 clinical trials were added.](/clinical-trials/?fromDate=2020-06-18)
+    - NCT04432324
+    - IRCT20200523047550N1
+    - NCT04431466
+    - IRCT20200502047268N1
+    - NCT04432103
+    - IRCT20150107020592N22
+    - NCT04437693
+    - IRCT20151227025726N15
+    - NCT04431453
+    - NCT04438057
+    - NCT04432272
+    - IRCT20200412047042N1
+    - NCT04436458
+    - NCT04438694
+    - IRCT20200428047228N2
+    - NCT04434248
+    - NCT04438837
+    - IRCT20200525047562N1
+    - NCT04435795
+    - NCT04435015
+    - NCT04435522
+    - NCT04435587
+    - PACTR202005622389003
+    - NCT04439071
+    - EUCTR2020-001904-41-GB
+    - EUCTR2020-001928-34-SE
+    - IRCT20200501047259N1
+    - EUCTR2020-002111-22-PL
+    - IRCT20140428017469N1
+    - IRCT20200517047485N1
+    - IRCT20151227025726N18
+    - EUCTR2020-002091-12-BG
+    - IRCT20161206031256N3
+    - NCT04433910
+    - IRCT20200511047396N1
+    - NCT04435314
+    - NCT04435808
+    - IRCT20200422047168N2
+    - IRCT20200411047019N1
+    - KCT0005105
+    - NCT04434131
+    - NCT04438850
+- June 11
+    - [27 clinical trials were added.](/clinical-trials/?fromDate=2020-06-11)
+    - NCT04426201
+    - NCT04428021
+    - NCT04429711
+    - NCT04425707
+    - NCT04428268
+    - NCT04422678
+    - NCT04418531
+    - NCT04425915
+    - NCT04425460
+    - NCT04418518
+    - NCT04423861
+    - NCT04422561
+    - NCT04421664
+    - NCT04425629
+    - NCT04429854
+    - NCT04420247
+    - NCT04418128
+    - NCT04426695
+    - NCT04429529
+    - NCT04427501
+    - NCT04425837
+    - NCT04421404
+    - NCT04425772
+    - NCT04428008
+    - NCT04427865
+    - NCT04429867
+    - NCT04421534
+- June 04
+    - [22 clinical trials were added.](/clinical-trials/?fromDate=2020-06-04)
+    - NCT04411433
+    - NCT04412785
+    - EUCTR2020-001573-78-FR
+    - NCT04414267
+    - NCT04412486
+    - NCT04411667
+    - NCT04411628
+    - EUCTR2020-002287-31-ES
+    - NCT04414241
+    - NCT04415086
+    - ISRCTN99916292
+    - NCT04410562
+    - EUCTR2020-001671-32-ES
+    - NCT04410354
+    - EUCTR2020-001605-23-ES
+    - EUCTR2020-002448-21-GR
+    - NCT04409262
+    - NCT04417335
+    - NCT04411602
+    - ISRCTN40302986
+    - EUCTR2020-001512-26-DE
+    - NCT04409483
+### May 2020
+- May 28
+    - [27 clinical trials were added.](/clinical-trials/?fromDate=2020-05-28)
+    - NCT04402203
+    - NCT04406246
+    - NCT04403477
+    - EUCTR2020-001704-42-ES
+    - NCT04400929
+    - NCT04407130
+    - NCT04401579
+    - NCT04405999
+    - NCT04405310
+    - NCT04403100
+    - NCT04408040
+    - NCT04405843
+    - NCT04407507
+    - NCT04403555
+    - NCT04406064
+    - NCT04405739
+    - NCT04405570
+    - EUCTR2020-001366-11-IE
+    - NCT04408183
+    - NCT04406194
+    - NCT04407208
+    - NCT04405921
+    - NCT04407000
+    - NCT04407689
+    - NCT04405271
+    - NCT04408456
+    - NCT04403269
+- May 21
+    - [57 clinical trials were added.](/clinical-trials/?fromDate=2020-05-21)
+    - NCT04392232
+    - NCT04395170
+    - NCT04396106
+    - CTRI/2020/04/024833
+    - CTRI/2020/04/024749
+    - CTRI/2020/04/024858
+    - NCT04391101
+    - TCTR20200514001
+    - JPRN-jRCTs031200026
+    - NCT04389944
+    - NCT04393727
+    - CTRI/2020/05/025068
+    - CTRI/2020/04/024904
+    - NCT04390061
+    - NCT04392219
+    - NCT04400682
+    - NL8609
+    - NCT04392973
+    - NCT04392713
+    - CTRI/2020/05/025022
+    - NCT04397328
+    - NCT04392128
+    - PACTR202004893013257
+    - ACTRN12620000566932
+    - NCT04394416
+    - CTRI/2020/05/025013
+    - NCT04389385
+    - NCT04390594
+    - CTRI/2020/05/025067
+    - NCT04396067
+    - NCT04390503
+    - NCT04399746
+    - NCT04392531
+    - KCT0005003
+    - NCT04389710
+    - NCT04397757
+    - NCT04393311
+    - CTRI/2020/05/025114
+    - NCT04392427
+    - NCT04399356
+    - CTRI/2020/04/024729
+    - CTRI/2020/04/024806
+    - NCT04400058
+    - NCT04394442
+    - NCT04400019
+    - CTRI/2020/04/024804
+    - NCT04389359
+    - NCT04391127
+    - NCT04392414
+    - ISRCTN88057279
+    - NCT04397523
+    - NCT04390178
+    - CTRI/2020/04/024949
+    - CTRI/2020/04/024775
+    - CTRI/2020/04/024915
+    - CTRI/2020/04/024948
+    - NCT04390022
+- May 14
+    - [47 clinical trials were added.](/clinical-trials/?fromDate=2020-05-14)
+    - NCT04382950
+    - NCT04381377
+    - EUCTR2020-001635-27-FR
+    - EUCTR2020-001783-28-HU
+    - EUCTR2020-001768-27-FR
+    - NCT04381962
+    - NCT04384549
+    - NCT04388527
+    - NCT04386070
+    - NCT04384380
+    - NCT04385199
+    - EUCTR2020-001697-30-ES
+    - NCT04385849
+    - NCT04381364
+    - NCT04388410
+    - NCT04385186
+    - NCT04388709
+    - EUCTR2020-001632-10-DE
+    - NCT04385095
+    - NCT04384497
+    - NCT04382846
+    - NCT04387409
+    - NCT04385043
+    - NCT04381988
+    - EUCTR2020-001740-26-GB
+    - NCT04382066
+    - NCT04380935
+    - NCT04383548
+    - NCT04385264
+    - NCT04381936
+    - EUCTR2020-002123-11-ES
+    - EUCTR2020-001474-29-ES
+    - EUCTR2020-001784-88-FI
+    - NCT04383717
+    - EUCTR2020-001953-36-ES
+    - NCT04384458
+    - NCT04381884
+    - ACTRN12620000557932
+    - NCT04385836
+    - NCT04387240
+    - EUCTR2020-001994-66-ES
+    - NCT04384588
+    - EUCTR2020-001696-32-ES
+    - NCT04382625
+    - NCT04383535
+    - NCT04381858
+    - NCT04387760
+- May 07
+    - [39 clinical trials were added.](/clinical-trials/?fromDate=2020-05-07)
+    - NCT04377711
+    - NCT04374279
+    - NCT04379479
+    - RPCEC00000308
+    - NCT04372082
+    - RPCEC00000307
+    - NCT04371406
+    - NCT04374565
+    - NCT04376814
+    - NCT04376034
+    - NCT04376788
+    - NCT04372628
+    - NCT04371523
+    - NCT04371107
+    - NCT04374552
+    - NCT04375098
+    - NCT04377672
+    - NCT04371926
+    - NCT04374526
+    - NCT04373733
+    - NCT04373044
+    - NCT04377646
+    - NCT04372017
+    - NCT04373291
+    - NCT04373824
+    - NCT04374019
+    - NCT04379336
+    - NCT04370782
+    - NCT04379492
+    - NCT04379518
+    - NCT04374539
+    - NCT04374903
+    - NCT04375046
+    - NCT04374942
+    - NCT04372368
+    - NCT04374487
+    - NCT04373460
+    - NCT04372979
+    - NCT04377568
+### April 2020
+- April 30
+    - [39 clinical trials were added.](/clinical-trials/?fromDate=2020-04-30)
+    - NCT04363060
+    - NCT04370262
+    - NCT04365439
+    - NCT04362332
+    - NCT04359953
+    - NCT04361318
+    - NCT04360486
+    - NCT04361461
+    - NCT04359316
+    - NCT04370015
+    - NCT04369742
+    - NCT03648372
+    - NCT04364815
+    - NCT04359537
+    - NCT04360759
+    - NCT04358406
+    - NCT04365231
+    - NCT04366245
+    - NCT04365582
+    - NCT04359615
+    - NCT04359810
+    - ACTRN12620000501943
+    - NCT04360356
+    - NCT04361253
+    - NCT04364022
+    - NCT04364737
+    - NCT04363827
+    - NCT04365101
+    - NCT04362176
+    - NCT04363203
+    - NCT04363866
+    - NCT04360122
+    - NCT04358549
+    - NCT04358783
+    - NCT04369365
+    - NCT04366739
+    - NCT04359680
+    - NCT04359095
+    - NCT04363450
+- April 23
+    - [40 clinical trials were added.](/clinical-trials/?fromDate=2020-04-23)
+    - NCT04356482
+    - NCT04355052
+    - NCT04354870
+    - NCT04354428
+    - NCT04353206
+    - NCT04352933
+    - NCT04357444
+    - NCT04352400
+    - IRCT20200310046736N1
+    - JPRN-jRCT2031190264
+    - NCT04356534
+    - NCT04353271
+    - NCT04354805
+    - NCT04355026
+    - NCT04356677
+    - NCT04252885
+    - NCT04358081
+    - NCT04354597
+    - NCT04352751
+    - ISRCTN14326006
+    - NCT04357613
+    - PACTR202004801273802
+    - ACTRN12620000473965
+    - NCT04353284
+    - NCT04354389
+    - NCT04354441
+    - NCT04355767
+    - NCT04356495
+    - NCT04354831
+    - NCT04354259
+    - NCT04352946
+    - CTRI/2020/04/024479
+    - JPRN-JapicCTI-205238
+    - NCT04355897
+    - TCTR20200404004
+    - NCT04357106
+    - JPRN-jRCTs031190269
+    - CTRI/2020/03/024402
+    - NCT04353037
+    - NCT04358068
+- April 17
+    - [69 clinical trials were added.](/clinical-trials/?fromDate=2020-04-17)
+    - NCT04345679
+    - NCT04347031
+    - NCT04347174
+    - NCT02845843
+    - NCT04345692
+    - NCT04342650
+    - NCT04344951
+    - NCT04345991
+    - NCT04346667
+    - EUCTR2020-001188-96-FR
+    - NCT04344535
+    - NCT04351191
+    - NCT04343768
+    - NCT04348474
+    - NCT04344444
+    - NCT04343092
+    - NCT04344457
+    - NCT04351919
+    - NCT04350450
+    - ACTRN12620000457943
+    - NCT04345289
+    - NCT04349241
+    - NCT04349592
+    - NCT04351295
+    - NCT04344600
+    - NCT04345523
+    - NCT04346329
+    - NCT04351516
+    - NCT04343248
+    - NCT04343976
+    - ChiCTR2000029757
+    - NCT04346628
+    - EUCTR2020-001250-21-FR
+    - EUCTR2020-001310-38-DE
+    - NCT04345276
+    - NCT04344379
+    - NCT03891420
+    - NCT04345861
+    - NCT04347512
+    - NCT04347915
+    - NCT04348409
+    - NCT04350580
+    - NCT04343755
+    - NCT04351724
+    - NCT04349228
+    - NCT04343677
+    - EUCTR2020-001606-33-ES
+    - EUCTR2020-001194-69-ES
+    - NCT04351347
+    - NCT04347889
+    - NCT04345406
+    - NCT04345653
+    - NCT04350281
+    - NCT04343261
+    - NCT04345419
+    - NCT04348656
+    - EUCTR2020-001421-31-ES
+    - NCT04351620
+    - EUCTR2020-001333-13-FR
+    - NCT04347681
+    - NCT04346446
+    - NCT04349371
+    - NCT04350671
+    - NCT04350684
+    - NCT04346589
+    - EUCTR2020-001565-37-ES
+    - NCT04346147
+    - NCT04347980
+    - ChiCTR2000030391
+- April 10
+    - [29 clinical trials were added.](/clinical-trials/?fromDate=2020-04-10)
+    - EUCTR2020-001271-33-FR
+    - NCT04340544
+    - ACTRN12620000447954
+    - NCT04336904
+    - NCT04339426
+    - NCT04338698
+    - EUCTR2020-001236-10-NL
+    - NCT04340349
+    - NCT04342156
+    - NCT04341441
+    - NCT04336332
+    - NCT04342182
+    - NCT04338360
+    - NCT04340050
+    - EUCTR2020-001281-11-FR
+    - NCT04342169
+    - NL8490
+    - NCT04341727
+    - NL8491
+    - ACTRN12620000445976
+    - ISRCTN50189673
+    - NCT04341493
+    - NCT04342221
+    - NCT04338906
+    - NCT04341870
+    - EUCTR2020-001345-38-GR
+    - NCT04339816
+    - EUCTR2020-001270-29-GB
+    - NCT04336748
+- April 06
+    - [18 clinical trials were added.](/clinical-trials/?fromDate=2020-04-06)
+    - NCT04333355
+    - NCT04331834
+    - NCT04332835
+    - NCT04332094
+    - NCT04331600
+    - NCT04333654
+    - NCT04334460
+    - NCT04334928
+    - NCT04335084
+    - NCT04332380
+    - NCT04334382
+    - NCT04332991
+    - NCT04333225
+    - NCT04334512
+    - NCT04335136
+    - NCT04334967
+    - NCT04335552
+    - NCT04331899
+- April 01
+    - [83 clinical trials were added.](/clinical-trials/?fromDate=2020-04-01)
+    - NCT04280705
+    - NCT04329611
+    - ChiCTR2000030046
+    - NCT04252274
+    - NCT04307693
+    - NCT04310228
+    - NCT04328285
+    - EUCTR2020-000919-69-NL
+    - NCT04293887
+    - IRCT20100228003449N28
+    - NCT04321616
+    - JPRN-jRCTs041190120
+    - EUCTR2020-000982-18-NO
+    - NCT04330586
+    - NCT04324463
+    - NCT04329923
+    - NCT04330495
+    - NCT04261517
+    - NCT04308668
+    - NCT04257656
+    - IRCT20100228003449N30
+    - NCT04326725
+    - NCT04302766
+    - ISRCTN86534580
+    - NCT04276688
+    - NCT04323527
+    - NCT04330690
+    - NCT04295551
+    - NCT04315948
+    - NCT04322396
+    - NCT04323761
+    - ChiCTR2000029609
+    - NCT04323800
+    - NCT04320238
+    - ChiCTR2000030254
+    - JPRN-jRCTs031190226
+    - NCT04275245
+    - NCT04252664
+    - IRCT20151227025726N12
+    - NCT04291729
+    - NCT04327349
+    - NCT04321278
+    - NCT04292899
+    - NCT04292730
+    - NCT04304053
+    - NCT04325893
+    - NCT04322123
+    - EUCTR2020-001023-14-GB
+    - NCT04322344
+    - NCT04329832
+    - IRCT20200128046294N2
+    - NCT04321421
+    - NCT04264858
+    - EUCTR2020-000890-25-FR
+    - EUCTR2020-001010-38-NO
+    - ChiCTR2000029559
+    - ACTRN12620000417987
+    - IRCT20100228003449N27
+    - NCT04303299
+    - NCT04315896
+    - NCT04261270
+    - NCT04321096
+    - NCT04329572
+    - NCT04292340
+    - NCT04255017
+    - NCT04328467
+    - NCT04318444
+    - NCT04303507
+    - NCT04328493
+    - EUCTR2020-001243-15-BE
+    - NCT04328272
+    - ChiCTR2000029868
+    - ChiCTR2000029496
+    - NCT04327206
+    - NCT04318015
+    - EUCTR2020-001224-33-DE
+    - IRCT20100228003449N29
+    - NCT04321174
+    - NCT04254874
+    - NCT04323631
+    - JPRN-jRCTs031190227
+    - NCT04330144
+    - NCT04328012
