@@ -111,6 +111,6 @@ tables:
     data:
       _resource: published-mabs.json
 
-toc: false
+toc: true
 escapeHtml: false
 ...
