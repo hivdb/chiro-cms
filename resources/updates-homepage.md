@@ -22,7 +22,8 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
-
+### Data Base Entries(Oct 05)
+Wahl A, Gralinski L, et int., and Garcia JV. [“Acute SARS-CoV-2 Infection is Highly Cytopathic, Elicits a Robust Innate Immune Response and is Efficiently Prevented by EIDD-2801.”](/search/?article=Wahl20) _Research square_, [2020. doi.org/10.21203/rs.3.rs-80404/v1](https://doi.org/10.21203/rs.3.rs-80404/v1). \[[PubMed32995766](https://www.ncbi.nlm.nih.gov/pubmed/32995766/)\] \[[PMC7523135](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523135/)\]
 ### Data Base Entries(Oct 03)
 Jones BE, Brown-Augsburger PL, et int., and Falconer E. [“LY-CoV555, a rapidly isolated potent neutralizing antibody, provides protection in a non-human primate model of SARS-CoV-2 infection.”](/search/?article=Jones20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.30.318972](https://doi.org/10.1101/2020.09.30.318972).
 ### Data Base Entries(Oct 03)
