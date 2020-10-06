@@ -1056,3 +1056,19 @@
   - RBD
   description: |-
     Pending
+- references:
+  - doi: 10.1101/2020.09.30.318972
+    firstAuthor:
+      surname: Jones
+      givenNames: Bryan E.
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: LY-CoV555
+    ec50: 10
+    pdb: Trimeric spike
+  source:
+  - SARS-2 B cells
+  - RBD & S trimer
+  description: |-
+    LY-CoV555 is an ACE2-competing mAb that binds RBD in the up and down configurations. It reduces upper airway and lower airway virus levels in rhesus macaques.

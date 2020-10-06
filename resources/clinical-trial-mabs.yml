@@ -18,7 +18,7 @@
     year: 2020
     journal: bioRxiv
   antibodies:
-  - name: REGN10933 +REGN10987
+  - name: REGN10933 + REGN10987
   company: Regeneron
   phase: III
   clinicalTrials: |-
@@ -28,7 +28,7 @@
     NCT04519437
 - references: []
   antibodies:
-  - name: LY3819253
+  - name: LY-CoV555 (LY3819253)
   company: Lilly / AbCellera
   phase: III
   clinicalTrials: |-
