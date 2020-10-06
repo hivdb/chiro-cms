@@ -1,67 +1,16 @@
 import os
 import re
 import json
-import ruamel.yaml
 
-yaml = ruamel.yaml.YAML()
-
-VERSION = '20200910120644'
-
-
-def get_citation_id(citation, reverse_citations):
-    doi = citation['doi']
-    section = citation['section']
-    reverse_citation = reverse_citations.setdefault(doi, {
-        'idx': len(reverse_citations) + 1,
-        'sections': {}
-    })
-    citation_id = reverse_citation['idx']
-    section_lookup = reverse_citation['sections']
-    section_id = section_lookup.setdefault(section, 1)
-    return {
-        'citationId': citation_id,
-        'sectionId': section_id
-    }
-
-
-def get_positions(obj):
-    positions = []
-    ranges = obj.get('positions')
-    for rangetext in ranges:
-        if isinstance(rangetext, int):
-            positions.append(rangetext)
-        elif rangetext.isdigit():
-            positions.append(int(rangetext))
-        else:
-            start, end = rangetext.split('-', 1)
-            start = int(start.strip())
-            end = int(end.strip())
-            positions.extend(range(start, end + 1))
-    return sorted(set(positions))
+from .func_mutannots import get_positions, load_config_and_data
 
 
 def build_mutannots_table(resource_dir, buildres_dir, **kw):
-    mutannots_dir = os.path.join(resource_dir, 'mutannots')
-    for resyaml in os.listdir(mutannots_dir):
-        resyaml_path = os.path.join(mutannots_dir, resyaml)
-        match = re.search(r'(.+)-config\.ya?ml$', resyaml)
-        if not os.path.isfile(resyaml_path) or not match:
-            continue
-        with open(resyaml_path, encoding='utf-8-sig') as fp:
-            geneconfig = yaml.load(fp)
+    for resname, geneconfig, annotdata_lookup in \
+            load_config_and_data(resource_dir):
+
         refseq = geneconfig['refSequence']
 
-        resname = match.group(1)
-        genedir = os.path.join(mutannots_dir, resname)
-        annotdata_lookup = {}
-        for annotyaml in os.listdir(genedir):
-            match = re.search(r'.+\.ya?ml$', annotyaml)
-            if not match:
-                continue
-            with open(os.path.join(genedir, annotyaml),
-                      encoding='utf-8-sig') as fp:
-                annotdata = yaml.load(fp)
-                annotdata_lookup[annotdata['name']] = annotdata
         coldefs = [
             {'name': 'position',
              'label': 'Pos',

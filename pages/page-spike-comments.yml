@@ -1,0 +1,14 @@
+---
+pageTitle: SARS-CoV-2 Spike Mutation Comments
+# heroImage: signpost.jpg
+heroImage: mutannot-spike-table-bg.png
+introHeader: |-
+  SARS-CoV-2 Spike Mutation Comments
+content:
+  _resource: spike-comments.md
+tables:
+  spikeComments:
+    _resource: spike-comments.json
+toc: false
+escapeHtml: false
+...
