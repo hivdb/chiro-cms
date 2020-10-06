@@ -23,6 +23,10 @@ Instruction:
 
 -->
 ### Data Base Entries(Oct 05)
+Ansarin K, Tolouian R, et int., and Chapman KR. [“Effect of bromhexine on clinical outcomes and mortality in COVID-19 patients: A randomized clinical trial.”](/search/?article=Ansarin20) _BioImpacts_, 2020. [doi.org/10.34172/bi.2020.27](https://doi.org/10.34172/bi.2020.27). \[[PubMed32983936](https://www.ncbi.nlm.nih.gov/pubmed/32983936/)\] \[[PMC7502909]\](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7502909/)
+### [Clinical Trials (Oct 05)](/page/updates/#clinical.trials)
+[1 clinical trials were added.](/clinical-trials/?fromDate=2020-10-05)
+### Data Base Entries(Oct 05)
 Wahl A, Gralinski L, et int., and Garcia JV. [“Acute SARS-CoV-2 Infection is Highly Cytopathic, Elicits a Robust Innate Immune Response and is Efficiently Prevented by EIDD-2801.”](/search/?article=Wahl20) _Research square_, [2020. doi.org/10.21203/rs.3.rs-80404/v1](https://doi.org/10.21203/rs.3.rs-80404/v1). \[[PubMed32995766](https://www.ncbi.nlm.nih.gov/pubmed/32995766/)\] \[[PMC7523135](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523135/)\]
 ### Data Base Entries(Oct 03)
 Jones BE, Brown-Augsburger PL, et int., and Falconer E. [“LY-CoV555, a rapidly isolated potent neutralizing antibody, provides protection in a non-human primate model of SARS-CoV-2 infection.”](/search/?article=Jones20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.30.318972](https://doi.org/10.1101/2020.09.30.318972).
@@ -118,15 +122,3 @@ Drayman N, Jones KA, et int., and Tay S. [“Drug repurposing screen identifies 
 Zhao H, To KKW, et int., and Yuen K. [“A broad-spectrum virus- and host-targeting peptide against respiratory viruses including influenza virus and SARS-CoV-2.”](/search/?article=Zhao20) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-17986-9](https://doi.org/10.1038/s41467-020-17986-9). \[[PubMed32843628](https://www.ncbi.nlm.nih.gov/pubmed/32843628/)\] \[[PMC7447754](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7447754/)\]
 ### Data Base Entries (Sep 07)
 Zmudzinski M, Rut W, et int., and Drag M. [“Ebselen derivatives are very potent dual inhibitors of SARS-CoV-2 proteases - PLpro and Mpro in in vitro studies.”](/search/?article=Zmudzinski20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.30.273979](https://doi.org/10.1101/2020.08.30.273979).
-### Data Base Entries (Sep 04)
-Avendano-Sola C, Ramos-Martinez A, et int., and Duarte RF. [“Convalescent Plasma for COVID-19: A multicenter, randomized clinical trial.”](/search/?article=Avendano-Sola20) _medRxiv_, 2020. [doi.org/10.1101/2020.08.26.20182444](https://doi.org/10.1101/2020.08.26.20182444).
-### Data Base Entries (Sep 03)
-Du S, Cao Y, et int., and Xiao J. [“Structures of potent and convergent neutralizing antibodies bound to the SARS-CoV-2 spike unveil a unique epitope responsible for exceptional potency.”](/search/?article=Du20) _bioRxiv_, 2020. [doi.org/10.1101/2020.07.09.195263](https://doi.org/10.1101/2020.07.09.195263).
-### Data Base Entries (Sep 03)
-Ghahremanpour MM, Tirado-Rives J, et int., and Jorgensen WL. [“Identification of 14 Known Drugs as Inhibitors of the Main Protease of SARS-CoV-2.”](/search/?article=Ghahremanpour20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.28.271957](https://doi.org/10.1101/2020.08.28.271957). \[[PubMed32869018](https://www.ncbi.nlm.nih.gov/pubmed/32869018/)\] \[[PMC7457600](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457600/)\]
-### Data Base Entries (Sep 03)
-Gorshkov K, Chen CZ, et int., and Zheng W. [“The SARS-CoV-2 cytopathic effect is blocked with autophagy modulators.”](/search/?article=Gorshkov20) _bioRxiv_, 2020. [doi.org/10.1101/2020.05.16.091520](https://doi.org/10.1101/2020.05.16.091520). \[[PubMed32511355](https://www.ncbi.nlm.nih.gov/pubmed/32511355/)\] \[[PMC7259466](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7259466/)\]
-### Data Base Entries (Sep 03)
-Lang J, Yang N, et int., and Jiang C. [“Inhibition of SARS Pseudovirus Cell Entry by Lactoferrin Binding to Heparan Sulfate Proteoglycans.”](/search/?article=Lang11) _PLoS ONE_, 2011. [doi.org/10.1371/journal.pone.0023710](https://doi.org/10.1371/journal.pone.0023710). \[[PubMed21887302](https://www.ncbi.nlm.nih.gov/pubmed/21887302/)\] \[[PMC3161750](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3161750/)\]
-### Data Base Entries (Sep 03)
-Resnick SJ, Iketani S, et int., and Chavez A. [“A simplified cell-based assay to identify coronavirus 3CL protease inhibitors.”](/search/?article=Resnick20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.29.272864](https://doi.org/10.1101/2020.08.29.272864). \[[PubMed32869020](https://www.ncbi.nlm.nih.gov/pubmed/32869020/)\] \[[PMC7457602](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457602/)\]

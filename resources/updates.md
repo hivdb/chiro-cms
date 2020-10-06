@@ -58,6 +58,7 @@ Instruction:
 ### October 2020
 - October 05
     - Wahl A, Gralinski L, et int., and Garcia JV. [“Acute SARS-CoV-2 Infection is Highly Cytopathic, Elicits a Robust Innate Immune Response and is Efficiently Prevented by EIDD-2801.”](/search/?article=Wahl20) _Research square_, [2020. doi.org/10.21203/rs.3.rs-80404/v1](https://doi.org/10.21203/rs.3.rs-80404/v1). \[[PubMed32995766](https://www.ncbi.nlm.nih.gov/pubmed/32995766/)\] \[[PMC7523135](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523135/)\]
+    - Ansarin K, Tolouian R, et int., and Chapman KR. [“Effect of bromhexine on clinical outcomes and mortality in COVID-19 patients: A randomized clinical trial.”](/search/?article=Ansarin20) _BioImpacts_, 2020. [doi.org/10.34172/bi.2020.27](https://doi.org/10.34172/bi.2020.27). \[[PubMed32983936](https://www.ncbi.nlm.nih.gov/pubmed/32983936/)\] \[[PMC7502909]\](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7502909/)
 - October 03
     - Jones BE, Brown-Augsburger PL, et int., and Falconer E. [“LY-CoV555, a rapidly isolated potent neutralizing antibody, provides protection in a non-human primate model of SARS-CoV-2 infection.”](/search/?article=Jones20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.30.318972](https://doi.org/10.1101/2020.09.30.318972).
     - Sagar S, Rathinavel AK, et int., and Radhakrishnan P. [“Bromelain Inhibits SARS-CoV-2 Infection in VeroE6 Cells.”](/search/?article=Sagar20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.16.297366](https://doi.org/10.1101/2020.09.16.297366). \[[PubMed32995771](https://www.ncbi.nlm.nih.gov/pubmed/32995771/)\] \[[PMC7523097](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523097/)\]
@@ -755,6 +756,9 @@ Instruction:
 
 ## Clinical Trials
 ### October 2020
+- October 05
+    - [1 clinical trials were added.](/clinical-trials/?fromDate=2020-10-05)
+    - IRCT202003117046797N4
 - October 01
     - [9 clinical trials were added.](/clinical-trials/?fromDate=2020-10-01)
     - EUCTR2020-002728-35-HU
