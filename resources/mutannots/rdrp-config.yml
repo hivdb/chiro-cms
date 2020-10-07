@@ -21,12 +21,12 @@ annotCategories:
   color: '#999'
   annotNames: [var2000]
 - name: cov-diff
-  display: diff from other CoVs
+  display: diff from other Human-CoV
   dropdown: true
   defaultAnnot: sars
   multiSelect: false
   annotStyle: aminoAcids
-  annotNames: [sars, mers, mhv, oc43, hku1, pedv]
+  annotNames: [sars, mers, oc43, hku1, nl63, 229e]
 - name: _hide
   display: false
   dropdown: false
