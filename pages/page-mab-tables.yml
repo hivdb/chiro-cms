@@ -39,6 +39,15 @@ tables:
     - name: animalModel
       label: Animal model
       render: nl2br
+    - name: antibodies.weightLoss
+      label: Weight Loss
+      multiCells: true
+    - name: antibodies.lungVL
+      label: Lung VL
+      multiCells: true
+    - name: antibodies.lungPath
+      label: Lung Path
+      multiCells: true
     data:
       _resource: animal-model-mabs.json
 

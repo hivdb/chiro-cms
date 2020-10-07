@@ -21,7 +21,7 @@ def norm_space(text):
     )
 
 
-def get_first(row, *keys, required=True, type_coerce=str):
+def get_first(row, *keys, required=True, type_coerce=str, null_value='NA'):
     if not keys:
         raise TypeError(
             'get_first() argument "keys" can not be empty'
@@ -30,7 +30,7 @@ def get_first(row, *keys, required=True, type_coerce=str):
         val = row.get(key)
         if val is not None:
             val = norm_space(val.strip())
-            if val == 'NA':
+            if val == null_value:
                 return None
             return type_coerce(val)
     if required and val is None:
@@ -140,6 +140,40 @@ def contains_word(text, word):
     return bool(match)
 
 
+def parse_ec50(parts):
+    ec50obj = {}
+    for part in parts:
+        match = EC50_PATTERN.search(part)
+        if match:
+            result = []
+            unit = match.group(3) or 'ng/ml'
+            unit = unit_variants[unit.lower()]
+            ec50cmp = match.group(1) or '='
+            number = float(match.group(2).replace(',', ''))
+            if ec50cmp != '=':
+                result.append(ec50cmp)
+            result.append('{:2f}'.format(number)
+                          .rstrip('0').rstrip('.'))
+            if unit != 'ng/ml':
+                result.append(unit)
+            if len(result) == 1:
+                result = result[0]
+                if '.' in result:
+                    result = float(result)
+                else:
+                    result = int(result)
+            else:
+                result = ''.join(result)
+            ec50obj['ec50'] = result
+        if 'PV' in part:
+            ec50obj['ec50Note'] = 'PV'
+        elif 'IC100' in part:
+            ec50obj['ec50Note'] = 'IC100'
+        elif 'IC90' in part:
+            ec50obj['ec50Note'] = 'IC90'
+    return ec50obj
+
+
 def extract_ec50(row, ab_names):
     ec50s = get_first(row, 'ec50', required=False)
     if not ec50s:
@@ -150,38 +184,10 @@ def extract_ec50(row, ab_names):
         for ab_name in ab_names:
             if not contains_word(ec50desc, ab_name):
                 continue
-            ec50obj = {}
-            for part in ec50desc.split(ab_name):
-                match = EC50_PATTERN.search(part)
-                if match:
-                    result = []
-                    unit = match.group(3) or 'ng/ml'
-                    unit = unit_variants[unit.lower()]
-                    ec50cmp = match.group(1) or '='
-                    number = float(match.group(2).replace(',', ''))
-                    if ec50cmp != '=':
-                        result.append(ec50cmp)
-                    result.append('{:2f}'.format(number)
-                                  .rstrip('0').rstrip('.'))
-                    if unit != 'ng/ml':
-                        result.append(unit)
-                    if len(result) == 1:
-                        result = result[0]
-                        if '.' in result:
-                            result = float(result)
-                        else:
-                            result = int(result)
-                    else:
-                        result = ''.join(result)
-                    ec50obj['ec50'] = result
-                if 'PV' in part:
-                    ec50obj['ec50Note'] = 'PV'
-                elif 'IC100' in part:
-                    ec50obj['ec50Note'] = 'IC100'
-                elif 'IC90' in part:
-                    ec50obj['ec50Note'] = 'IC90'
-            ec50lookup[ab_name] = ec50obj
+            ec50lookup[ab_name] = parse_ec50(ec50desc.split(ab_name))
             break
+    if not ec50lookup and ec50s and len(ab_names) == 1:
+        ec50lookup[ab_name] = parse_ec50(ec50s)
     return ec50lookup
 
 
@@ -201,7 +207,27 @@ def extract_pdb(row, ab_names):
                     pdblookup[ab_name] = part
                     break
             break
+    if not pdblookup and pdbs and len(ab_names) == 1:
+        pdblookup[ab_names[0]] = '\n'.join(pdbs)
     return pdblookup
+
+
+def extract_animal_model_field(row, ab_names, *field_names):
+    value = get_first(row, *field_names, required=False, null_value='?')
+    if not value:
+        return {}
+    value = smart_split2(value)
+    value_lookup = {}
+    for ab_value in value:
+        for ab_name in ab_names:
+            if not contains_word(ab_value, ab_name):
+                continue
+            for part in ab_value.split(ab_name, 1):
+                part = part.strip(': \t')
+                value_lookup[ab_name] = part
+    if not value_lookup and value and len(ab_names) == 1:
+        value_lookup[ab_names[0]] = value[0]
+    return value_lookup
 
 
 def extract_antibodies(row, alnlookup):
@@ -209,6 +235,11 @@ def extract_antibodies(row, alnlookup):
         row, 'mab names', 'ab names', 'antibody names', 'mab name(s)'))
     ec50lookup = extract_ec50(row, ab_names)
     pdblookup = extract_pdb(row, ab_names)
+
+    weight_loss_lu = extract_animal_model_field(row, ab_names, 'weight loss')
+    lung_vl_lu = extract_animal_model_field(row, ab_names, 'lung vl')
+    lung_path_lu = extract_animal_model_field(row, ab_names, 'lung path')
+
     ab_objs = []
     for ab_name in ab_names:
         ab_obj = {
@@ -224,6 +255,15 @@ def extract_antibodies(row, alnlookup):
         if alndata:
             ab_obj.update(alndata)
         ab_objs.append(ab_obj)
+        weight_loss = weight_loss_lu.get(ab_name)
+        if weight_loss:
+            ab_obj['weightLoss'] = weight_loss
+        lung_vl = lung_vl_lu.get(ab_name)
+        if lung_vl:
+            ab_obj['lungVL'] = lung_vl
+        lung_path = lung_path_lu.get(ab_name)
+        if lung_path:
+            ab_obj['lungPath'] = lung_path
     return sorted(ab_objs, key=lambda obj: obj['name'])
 
 

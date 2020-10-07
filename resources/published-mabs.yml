@@ -556,6 +556,7 @@
   antibodies:
   - name: H014
     ec50: 570
+    pdb: 'H014: S trimer (7CAH*)'
   source:
   - Phage display
   - Spleen Ab library from mice immunized with SARS-CoV RBD
