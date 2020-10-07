@@ -51,8 +51,13 @@ Instruction:
 
 ## Press Release
 
+- October 7
+    - [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly202010071.pdf)
+    - [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly202010072.pdf)
 - October 2
-    - [3 new press releases were added](/page/press-release/).
+    - [Synairgen plc, Interim results for the six months ended 30 June 2020](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Synairgen20200930.pdf)
+    - [Lilly announces proof of concept data for neutralizing antibody LY-CoV555 in the COVID-19outpatient setting](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly20200930.pdf)
+    - [Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Regeneron20200930.pdf)
 
 ## Database Entries
 ### October 2020

@@ -22,6 +22,11 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+
+### [Press Release (Oct 07)](/page/press-release)
+- [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly202010071.pdf)
+- [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly202010072.pdf)
+
 ### Data Base Entries(Oct 05)
 Ansarin K, Tolouian R, et int., and Chapman KR. [“Effect of bromhexine on clinical outcomes and mortality in COVID-19 patients: A randomized clinical trial.”](/search/?article=Ansarin20) _BioImpacts_, 2020. [doi.org/10.34172/bi.2020.27](https://doi.org/10.34172/bi.2020.27). \[[PubMed32983936](https://www.ncbi.nlm.nih.gov/pubmed/32983936/)\] \[[PMC7502909]\](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7502909/)
 ### Data Base Entries(Oct 05)
