@@ -17,19 +17,19 @@ Instruction:
 
 -->
 
-## Papers
+## Publications
 
 - Editorial (September 21)
     - Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
 - Paper (September 4)
     - Tzou PL, Tao KM, et int., and Shafer R. “Coronavirus Antiviral Research Database (CoV-RDB): An Online Database Designed to Facilitate Comparisons between Candidate Anti-Coronavirus Compounds” _Viruses_, 2020. [doi.org/10.3390/v12091006](https://doi.org/10.3390/v12091006). \[[PubMed32916958](https://www.ncbi.nlm.nih.gov/pubmed/32916958/)\].
 
-## Talks
+## Webinars
 
 - August 10
     - SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
-## Features
+## Educational Materials
 
 - [Spike structures. Figures of SARS-CoV-2](/page/spike-structures/)
     - Figure 1. SARS-CoV-2 Trimeric Spike.
@@ -54,7 +54,7 @@ Instruction:
 - October 2
     - [3 new press releases were added](/page/press-release/).
 
-## Data Base Entries
+## Database Entries
 ### October 2020
 - October 05
     - Wahl A, Gralinski L, et int., and Garcia JV. [“Acute SARS-CoV-2 Infection is Highly Cytopathic, Elicits a Robust Innate Immune Response and is Efficiently Prevented by EIDD-2801.”](/search/?article=Wahl20) _Research square_, [2020. doi.org/10.21203/rs.3.rs-80404/v1](https://doi.org/10.21203/rs.3.rs-80404/v1). \[[PubMed32995766](https://www.ncbi.nlm.nih.gov/pubmed/32995766/)\] \[[PMC7523135](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523135/)\]

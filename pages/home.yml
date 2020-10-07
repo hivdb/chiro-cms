@@ -9,31 +9,66 @@ updates:
   _resource: updates-homepage.md
 missionStatement:
   _resource: mission-statement.md
-projects:
+publications:
   - title: Editorial
     description: A SARS-CoV-2 antiviral therapy score card
     link: https://www.jstage.jst.go.jp/article/ghm/advpub/0/advpub_2020.01082/_article
     extLink: true
-    image: home/project-editorial.png
+    image: home/pub-editorial.png
   - title: Paper
     description: Coronavirus Antiviral Research Database
     link: https://www.mdpi.com/1999-4915/12/9/1006
     extLink: true
-    image: home/project-paper.png
+    image: home/pub-dbpaper.png
+webinars:
+  - title: Monoclonal antibodies
+    description: For the prevention and treatment of COVID-19
+    link: https://www.youtube.com/watch?v=YUj9jBlTCrY
+    extLink: true
+    image: home/webinar-cme.png
+  - title: Polymerase inhibitors
+    description: Remdesivir, EIDD-2801, and Favipiravir
+    link: https://www.youtube.com/watch?v=bp2gMbB5T2w
+    extLink: true
+    image: home/webinar-cme.png
+eduMaterials:
   - title: Spike structures
     description: Figures of SARS-COV-2 Spike structures
     link: /page/spike-structures/
-    image: home/project-spike-structures.png
+    image: home/edumat-spike-structures.png
   - title: Spike viewer
     description: A mutation annotation viewer of Spike gene
     link: /mut-annot-viewer/SARS2S/
-    image: home/project-spike-viewer.png
-  - title: Polymerase talk
-    description: Watch our video on remdesivir and other polymerase inhibitors
-    link: https://www.youtube.com/watch?v=bp2gMbB5T2w
-    extLink: true
-    image: home/project-polymerase-talk.png
+    image: home/edumat-spike-viewer.png
   - title: Monoclonal antibodies
     description: Clinical trials, animal model studies, inhibitory potency, sequence data, and structural data
     link: /page/mab-tables/
-    image: home/project-spike-antibodies.png
+    image: home/edumat-mab-tables.png
+  - title: Drugs
+    description: List of drugs involved in experiments
+    link: /compound-list/
+    image: home/edumat-compounds.png
+  - title: Drug targets
+    description: Drug target list and categorized drugs
+    link: /compound-target-list/
+    image: home/edumat-compound-targets.png
+  - title: Viruses
+    description: List of coronaviruses involved in experiments
+    link: /virus-list/
+    image: home/edumat-viruses.png
+  - title: Cell lines
+    description: List of cell lines involved in experiments
+    link: /cells-list/
+    image: home/edumat-cells.jpg
+  - title: Animal models
+    description: List of animal models involved in experiments
+    link: /animal-model-list/
+    image: home/edumat-animal-models.jpg
+  - title: Measurements
+    description: Cell culture measurement methods
+    link: /cell-culture-measurement-list/
+    image: home/edumat-measurements.jpg
+  - title: References
+    description: Coronavirus publications included in this database
+    link: /article-list/
+    image: home/edumat-references.png
