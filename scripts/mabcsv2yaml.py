@@ -135,7 +135,8 @@ unit_variants = {
 
 
 def contains_word(text, word):
-    match = re.search(r'\b{}\b'.format(re.escape(word)), text)
+    match = re.search(r'(?<![\w\'"`+-]){}(?![\w\'"`+-])'
+                      .format(re.escape(word)), text)
     return bool(match)
 
 

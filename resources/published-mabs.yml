@@ -194,8 +194,8 @@
     CDRL3Len: 11
     IGLJ: KJ5
   - name: BD-602
-    ec50Note: PV
     ec50: 11
+    ec50Note: PV
   - name: BD-604
     ec50: 5
     pdb: RBD (7CH4, Pending)
@@ -297,10 +297,16 @@
     journal: Nature Communications
     journalShort: Nat Commun
   antibodies:
-  - name: mAb362 (IgA)
-  - name: mAb362 (IgG)
-  - name: mAb362 (dimeric IgA)
-  - name: mAb362 (secretory IgA)
+  - name: mAb-362-IgA
+    ec50: 1260
+    ec50Note: PV
+  - name: mAb-362-IgA-dimeric
+    ec50: 30
+    ec50Note: PV
+  - name: mAb-362-IgA-secretory
+    ec50: 9500
+  - name: mAb-362-IgG
+    ec50: '>50000'
   source:
   - Spleen cells from transgenic HuMAb mice immunized with SARS-1 S
   - Screened for binding to SARS-2 RBD.
@@ -724,6 +730,12 @@
     PcntMutL: 0%
     CDRL3Len: 9
     IGLJ: KJ2
+  - name: CC6.29
+    ec50: 2
+    ec50Note: PV
+  - name: CC6.30
+    ec50: 1
+    ec50Note: PV
   source:
   - SARS-2 B cells
   - RBD & S trimer
@@ -744,7 +756,8 @@
     journal: bioRxiv
   antibodies:
   - name: CV30
-    ec50: 1650
+    ec50: 30
+    ec50Note: PV
     pdb: RBD (6XE1)
     species: Human
     IGHV: HV3-53
@@ -1060,7 +1073,7 @@
   - doi: 10.1101/2020.09.30.318972
     firstAuthor:
       surname: Jones
-      givenNames: Bryan E.
+      givenNames: Bryan E
     year: 2020
     journal: bioRxiv
   antibodies:

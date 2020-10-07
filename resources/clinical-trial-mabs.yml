@@ -26,14 +26,28 @@
     NCT04426695 (Hospitalized; Phase I, II, III; n=2970)
     NCT04452318 (Prevention; Phase III)
     NCT04519437
-- references: []
+- references:
+  - doi: 10.1101/2020.09.30.318972
+    firstAuthor:
+      surname: Jones
+      givenNames: Bryan E
+    year: 2020
+    journal: bioRxiv
+  - doi: 10.1038/s41586-020-2381-y
+    firstAuthor:
+      surname: Shi
+      givenNames: Rui
+    year: 2020
+    journal: Nature
   antibodies:
   - name: LY-CoV555 (LY3819253)
+  - name: LY-CoV555 + LY-CoV016
   company: Lilly / AbCellera
   phase: III
   clinicalTrials: |-
     NCT04411628 (Phase I; n=40)
-    NCT04497987 (Prevention; Phase III; n=2400)
+    NCT04427501 (BLAZE-1; Phase II; n=800)
+    NCT04497987 (BLAZE-2; Prevention; Phase III; n=2400)
     NCT04518410 (Outpatients; Phase III; n=2000)
     NCT04501978
 - references: []
