@@ -24,8 +24,6 @@ Instruction:
 -->
 ### Data Base Entries(Oct 05)
 Ansarin K, Tolouian R, et int., and Chapman KR. [“Effect of bromhexine on clinical outcomes and mortality in COVID-19 patients: A randomized clinical trial.”](/search/?article=Ansarin20) _BioImpacts_, 2020. [doi.org/10.34172/bi.2020.27](https://doi.org/10.34172/bi.2020.27). \[[PubMed32983936](https://www.ncbi.nlm.nih.gov/pubmed/32983936/)\] \[[PMC7502909]\](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7502909/)
-### [Clinical Trials (Oct 05)](/page/updates/#clinical.trials)
-[1 clinical trials were added.](/clinical-trials/?fromDate=2020-10-05)
 ### Data Base Entries(Oct 05)
 Wahl A, Gralinski L, et int., and Garcia JV. [“Acute SARS-CoV-2 Infection is Highly Cytopathic, Elicits a Robust Innate Immune Response and is Efficiently Prevented by EIDD-2801.”](/search/?article=Wahl20) _Research square_, [2020. doi.org/10.21203/rs.3.rs-80404/v1](https://doi.org/10.21203/rs.3.rs-80404/v1). \[[PubMed32995766](https://www.ncbi.nlm.nih.gov/pubmed/32995766/)\] \[[PMC7523135](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523135/)\]
 ### Data Base Entries(Oct 03)
@@ -48,7 +46,7 @@ Watson A, Ferreira L, et int., and Stroud R. [“Peptide Antidotes to SARS-CoV-2
 [Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Regeneron20200930.pdf)
 
 ### [Clinical Trials (Oct 01)](/page/updates/#clinical.trials)
-[9 clinical trials were added.](/clinical-trials/?fromDate=2020-10-01)
+[9 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-01)
 
 ### Data Base Entries (Oct 01)
 Proud PC, Tsitoura D, et int., and Carroll MW. [“Prophylactic intranasal administration of a TLR2 agonist reduces upper respiratory tract viral shedding in a SARS-CoV-2 challenge ferret model.”](/search/?article=Proud20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.25.309914](https://doi.org/10.1101/2020.09.25.309914).
@@ -72,7 +70,7 @@ Ellen ter B, Dinesh Kumar N, et int., and Smit J. [“Resveratrol And Pterostilb
 Pereda R, González D, et int., and Domínguez RE. [“Therapeutic Effectiveness of Interferon-α2b Against COVID-19: The Cuban Experience.”](/search/?article=Pereda20) _Journal of Interferon & Cytokine Research_, 2020. [doi.org/10.1089/jir.2020.0124](https://doi.org/10.1089/jir.2020.0124). \[[PubMed32960147](https://www.ncbi.nlm.nih.gov/pubmed/32960147/)\]
 
 ### [Clinical Trials (Sep 24)](/page/updates/#clinical.trials)
-[10 clinical trials were added.](/clinical-trials/?fromDate=2020-09-04)
+[10 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-09-04)
 
 ### [New spike structure (Sep 24)](/page/updates/#features)
 We added a figure [Naturally occurring spike RBD variants and mAb escape mutations](/page/spike-structures/#fig10).
