@@ -20,13 +20,26 @@ annotCategories:
   annotStyle: aminoAcids
   color: '#999'
   annotNames: [var2000]
+- name: rdv-drm
+  dropdown: false
+  defaultAnnot: remdesivir
+  multiSelect: false
+  annotStyle: circleInBox
+  annotNames: [remdesivir]
+- name: _drm
+  display: false
+  dropdown: true
+  defaultAnnot: favipiravir
+  multiSelect: false
+  annotStyle: aminoAcids
+  annotNames: [favipiravir, 5-fluorouracil]
 - name: cov-diff
-  display: diff from other Human-CoV
+  display: diff from other CoV
   dropdown: true
   defaultAnnot: sars
   multiSelect: false
   annotStyle: aminoAcids
-  annotNames: [sars, mers, oc43, hku1, nl63, 229e]
+  annotNames: [sars, mers, oc43, hku1, nl63, 229e, mhv]
 - name: _hide
   display: false
   dropdown: false

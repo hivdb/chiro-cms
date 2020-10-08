@@ -1,0 +1,22 @@
+name: 5-fluorouracil
+level: 5-fluorouracil
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1128/JVI.00080-16
+  author: Sexton
+  year: 2016
+  section: "Abstract (V553L and M611F of MHV)"
+  positions:
+  - 557
+  - 615
+- doi: 10.3390/pathogens9050320
+  author: Neogi
+  year: 2020
+  section: "Section 2.3.2"
+  positions:
+  - 557
+  - 615
+aminoAcids:
+- 557I
+- 615F

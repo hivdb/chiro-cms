@@ -1,29 +1,14 @@
-name: Favipiravir
-level: position
+name: favipiravir
+label: Favipiravir
+level: aminoAcid
 hideCitations: true
 colorRules: []
 citations:
-- doi: 10.2210/pdb7CTT/pdb
-  author: Peng
+- doi: 10.3390/pathogens9050320
+  author: Neogi
   year: 2020
-  section: "PDB: 7CTT"
-  positions: [
-    # positions within 5Å
-    545, 553, 557, 618, 619, 620, 621, 622, 623, 680, 682, 683, 687, 691, 759,
-    760, 798
-  ]
-- doi: 10.2210/pdb7AAP/pdb
-  author: Naydenova
-  year: 2020
-  section: "PDB: 7AAP"
-  positions: [
-    # positions within 5Å
-    545, 557, 623, 680, 682, 683, 687, 691, 759, 760, 761, 814
-  ]
-positions:
-- subgroup: FAV
-  positions: [
-    # positions within 5Å
-    545, 553, 557, 618, 619, 620, 621, 622, 623, 680, 682, 683, 687, 691, 759,
-    760, 761, 798, 814
-  ]
+  section: "Section 2.3.4"
+  positions:
+    - 545
+aminoAcids:
+- 545R
