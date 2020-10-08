@@ -73,14 +73,15 @@ annotCategories:
   annotStyle: hide
   annotNames:
   - secondary structure
-  - Glycan
-  - Cysteine residue
+  - glycan
+  - cysteine
+  - cleavage
 conditionalComments:
 - commentName: subdomain
   rank: 1  # highest: 1
   condition:
-    func: hasAnnot
-    args: [subdomain]
+    func: hasAnnotExceptSubgroups
+    args: [subdomain, S1/S2, "S2'"]
   prefix:
     func: position
   template: >-
@@ -89,8 +90,21 @@ conditionalComments:
     SUBDOMAIN:
       func: getSubgroup
       args: [subdomain]
+- commentName: cleavage
+  rank: 2  # highest: 1
+  condition:
+    func: hasAnnot
+    args: [cleavage]
+  prefix:
+    func: position
+  template: >-
+    located in cleavage site $CLEAVAGE
+  values:
+    CLEAVAGE:
+      func: getSubgroup
+      args: [cleavage]
 - commentName: ace2
-  rank: 2
+  rank: 3
   condition:
     func: hasAnnot
     args: [ACE2]
@@ -98,8 +112,17 @@ conditionalComments:
     func: position
   template: >-
     involved in ACE2 binding
+- commentName: glycan
+  rank: 4
+  condition:
+    func: hasAnnot
+    args: [glycan]
+  prefix:
+    func: position
+  template: >-
+    the position of a N-linked glycosylation sequon
 - commentName: antibody
-  rank: 3
+  rank: 5
   condition:
     func: hasAnnotCategory
     args: [antibody]
@@ -111,8 +134,17 @@ conditionalComments:
     ANTIBODIES:
       func: joinAnnotCatSubgroup
       args: [antibody]
+- commentName: cysteine
+  rank: 6
+  condition:
+    func: hasAnnot
+    args: [cysteine]
+  prefix:
+    func: position
+  template: >-
+    one of the nine cysteine residues found in RBD
 - commentName: escapeMutants
-  rank: 4
+  rank: 7
   condition:
     func: hasAnnot
     args: [escape mutants]
@@ -124,7 +156,7 @@ conditionalComments:
   templatePlural: >-
     mutations that escape antibody neutralization
 - commentName: polymorphism
-  rank: 5
+  rank: 8
   condition:
     func: hasAnnot
     args: [var2000]

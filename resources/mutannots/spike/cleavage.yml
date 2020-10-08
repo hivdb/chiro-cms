@@ -1,0 +1,29 @@
+name: cleavage
+tableColLabel: Cleavage site
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1016/j.isci.2020.101212
+  author: Jaimes
+  year: 2020
+  section: '"Results and Discussion" section'
+  positions:
+  - 681-686
+  - 812-816
+- doi: 10.1016/j.antiviral.2020.104792
+  author: Tang
+  year: 2020
+  section: Figure 1
+  positions:
+  - 681-686
+  - 812-816
+positions:
+- subgroup: S1/S2
+  description: Furin cleavage site
+  positions:
+  - 681-686
+- subgroup: "S2'"
+  description: Cathepsin L cleavage site
+  positions:
+  - 812-816

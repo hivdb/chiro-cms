@@ -25,6 +25,15 @@ def cond_has_annot(annot_name, *, posdata, payload):
     return False
 
 
+def cond_has_annot_except_subgroup(
+    annot_name, *subgroups, posdata, payload
+):
+    for annot in posdata['annotations']:
+        if annot['name'] == annot_name and annot['value'] not in subgroups:
+            return True
+    return False
+
+
 def cond_has_annot_category(cat_name, *, posdata, payload):
     for annot in payload['annotations']:
         if annot['category'] != cat_name:
@@ -117,6 +126,8 @@ def value_join_annot_cat_subgroup(cat_name, *, posdata, payload):
 
 CONDITION_FUNCS = {
     'hasAnnot': cond_has_annot,
+    'hasAnnotExceptSubgroup': cond_has_annot_except_subgroup,
+    'hasAnnotExceptSubgroups': cond_has_annot_except_subgroup,
     'hasAnnotCategory': cond_has_annot_category
 }
 
