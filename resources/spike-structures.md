@@ -183,3 +183,41 @@ Loop representation of RBD positions 333 to 526 showing SARS-CoV-2 variants repo
 </div>
 
 </section>
+
+
+<section id="fig11" class="figure-section">
+
+<div class="figure-image">
+
+![Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) spike receptor binding domain (RBD)](spike-structures/fig11.png#!maxHeight=60rem)
+
+</div>
+
+<div class="figure-caption">
+
+## [Figure 11](#fig11). Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) spike receptor binding domain (RBD).
+
+The phylogenetic tree was created using the TN93 distance model. The average distance to the closest leaf algorithm was then used to remove sequences within a genetic distance of 1.0% from another sequence. Clustal Omega and JalView were used to create and view the multiple sequence alignment of the remaining sequence. The SARSr RBD consensus of the filtered sequence is shown at the top of each alignment and the SARS-CoV-2 sequence is highlighted. The sequence entropy at each position is displayed on a structural representation of the RBD (PDB: 6M0J) using a PyMol script.
+
+</div>
+
+</section>
+
+
+<section id="fig12" class="figure-section">
+
+<div class="figure-image">
+
+![Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) trimeric spike.](spike-structures/fig12.png#!maxHeight=100rem)
+
+</div>
+
+<div class="figure-caption">
+
+## [Figure 12](#fig12). Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) trimeric spike.
+
+The phylogenetic tree was created using the TN93 distance model. The average distance to the closest leaf algorithm was then used to remove sequences within a genetic distance of 1.0% from another sequence. Clustal Omega and JalView were used to create and view the multiple sequence alignment of the remaining sequence. The SARSr consensus of the filtered sequence is shown at the top of each alignment and the SARS-CoV-2 sequence is highlighted. The sequence entropy at each position is displayed on a structural representation of the trimeric spike (PDB: 6XR8) using a PyMol script.
+
+</div>
+
+</section>
