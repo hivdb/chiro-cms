@@ -86,7 +86,7 @@ conditionalComments:
     func: position
   template: >-
     located in subdomain $SUBDOMAIN
-  values:
+  variables:
     SUBDOMAIN:
       func: getSubgroup
       args: [subdomain]
@@ -99,7 +99,7 @@ conditionalComments:
     func: position
   template: >-
     located in cleavage site $CLEAVAGE
-  values:
+  variables:
     CLEAVAGE:
       func: getSubgroup
       args: [cleavage]
@@ -112,6 +112,11 @@ conditionalComments:
     func: position
   template: >-
     involved in ACE2 binding
+  footnote: ${FN}
+  variables:
+    FN:
+      func: getCitations
+      args: [ACE2]
 - commentName: glycan
   rank: 4
   condition:
@@ -130,10 +135,12 @@ conditionalComments:
     func: position
   template: >-
     an epitope binding to $ANTIBODIES
-  values:
+  variables:
     ANTIBODIES:
       func: joinAnnotCatSubgroup
       args: [antibody]
+      keywords:
+        footnote: true
 - commentName: cysteine
   rank: 6
   condition:

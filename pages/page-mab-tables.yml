@@ -88,7 +88,7 @@ tables:
       render: nowrap
       multiCells: true
     - name: antibodies.PcntMutH
-      label: SHMᴴ
+      label: SHM<sup>H</sup>
       render: nowrap
       sort: numeric
       multiCells: true
@@ -105,7 +105,7 @@ tables:
       render: nowrap
       multiCells: true
     - name: antibodies.PcntMutL
-      label: SHMᴸ
+      label: SHM<sup>L</sup>
       render: nowrap
       sort: numeric
       multiCells: true

@@ -14,8 +14,9 @@ PartialComment = namedtuple('PartialComment', ['prefix', 'text'])
 def get_func_args(func_def, func_mapping):
     func = func_def['func']
     args = func_def.get('args', [])
+    keywords = func_def.get('keywords', {})
     func = func_mapping[func]
-    return func, args
+    return func, args, keywords
 
 
 def cond_has_annot(annot_name, *, posdata, payload):
@@ -80,7 +81,21 @@ def prefix_mutation(annot_name, *, posdata, payload):
     )
 
 
-def value_get_subgroup(annot_name, *, posdata, payload):
+def variable_get_citations(annot_name, *, posdata, payload):
+    citations = []
+    all_citations = payload['citations']
+    for annot in posdata['annotations']:
+        if annot['name'] != annot_name:
+            continue
+        citation_ids = annot['citationIds']
+        for cid in citation_ids:
+            cite = all_citations[cid]
+            citations.append('[^{doi}]'.format(**cite))
+        break
+    return ''.join(citations)
+
+
+def variable_get_subgroup(annot_name, *, posdata, payload):
     pos = posdata['position']
     for annot in posdata['annotations']:
         if annot['name'] != annot_name:
@@ -91,32 +106,64 @@ def value_get_subgroup(annot_name, *, posdata, payload):
     )
 
 
-def natlang_join(items, *, oxford_comma=False):
-    if len(items) > 1:
-        return (
-            ', '.join(items[:-1]) +
-            (',' if oxford_comma else '') +
-            ' and ' +
-            items[-1]
-        )
-    elif len(items) == 1:
-        return items[0]
-    else:
+LAST_PUNC_WILDCARD = '\x13\x13LAST_PUNC_WILDCARD\x13\x13'
+
+
+def natlang_join(items, footnotes=None, *,
+                 last_punc=LAST_PUNC_WILDCARD, oxford_comma=False):
+    size = len(items)
+    if size == 0:
         return ''
+    if not footnotes:
+        footnotes = [''] * size
+    buffers = []
+    if LAST_PUNC_WILDCARD in items[0]:
+        buffers.append(items[0])
+    else:
+        buffers.append('{}{}'.format(items[0], LAST_PUNC_WILDCARD))
+    if size > 1:
+        for item, fn in zip(items[1:-1], footnotes[:-2]):
+            buffers[-1] = buffers[-1].replace(LAST_PUNC_WILDCARD, ',')
+            if LAST_PUNC_WILDCARD in item:
+                buffers.append('{} {}'.format(fn, item))
+            else:
+                buffers.append('{} {}{}'.format(fn, item, LAST_PUNC_WILDCARD))
+        if oxford_comma:
+            buffers[-1] = buffers[-1].replace(LAST_PUNC_WILDCARD, ',')
+        else:
+            buffers[-1] = buffers[-1].replace(LAST_PUNC_WILDCARD, '')
+        if LAST_PUNC_WILDCARD in items[-1]:
+            buffers.append('{} and {}'.format(footnotes[-2], items[-1]))
+        else:
+            buffers.append('{} and {}{}'.format(
+                footnotes[-2], items[-1], LAST_PUNC_WILDCARD
+            ))
+    buffers[-1] = buffers[-1].replace(LAST_PUNC_WILDCARD, last_punc)
+    buffers.append(footnotes[-1])
+    return ''.join(buffers)
 
 
-def value_join_annot_cat_subgroup(cat_name, *, posdata, payload):
+def variable_join_annot_cat_subgroup(
+    cat_name, *, footnote=False, posdata, payload
+):
     pos = posdata['position']
     subgroups = []
+    footnotes = []
     for annot in payload['annotations']:
         if annot['category'] != cat_name:
             continue
         for posannot in posdata['annotations']:
             if posannot['name'] == annot['name']:
                 subgroups.append(posannot['value'])
+                if footnote:
+                    footnotes.append(variable_get_citations(
+                        annot['name'], posdata=posdata, payload=payload
+                    ))
+                else:
+                    footnotes.append('')
                 break
     if len(subgroups) > 0:
-        return natlang_join(subgroups)
+        return natlang_join(subgroups, footnotes)
     else:
         raise ValueError(
             'Position {} does not have any annotation belong to {}'
@@ -138,28 +185,36 @@ PREFIX_FUNCS = {
 }
 
 
-VALUE_FUNCS = {
-    'getSubgroup': value_get_subgroup,
-    'joinAnnotCatSubgroup': value_join_annot_cat_subgroup
+VARIABLE_FUNCS = {
+    'getCitations': variable_get_citations,
+    'getSubgroup': variable_get_subgroup,
+    'joinAnnotCatSubgroup': variable_join_annot_cat_subgroup
 }
 
 
 def check_condition(cond_def, posdata, payload):
-    func, args = get_func_args(cond_def, CONDITION_FUNCS)
-    return func(*args, posdata=posdata, payload=payload)
+    func, args, kw = get_func_args(cond_def, CONDITION_FUNCS)
+    return func(*args, **kw, posdata=posdata, payload=payload)
 
 
 def format_prefix(prefix_def, posdata, payload):
-    func, args = get_func_args(prefix_def, PREFIX_FUNCS)
-    return func(*args, posdata=posdata, payload=payload)
+    func, args, kw = get_func_args(prefix_def, PREFIX_FUNCS)
+    return func(*args, **kw, posdata=posdata, payload=payload)
 
 
-def extract_values(value_defs, posdata, payload):
-    values = {}
-    for key, value_def in value_defs.items():
-        func, args = get_func_args(value_def, VALUE_FUNCS)
-        values[key] = func(*args, posdata=posdata, payload=payload)
-    return values
+def extract_variables(variable_defs, posdata, payload):
+    variables = {}
+    for key, variable_def in variable_defs.items():
+        func, args, kw = get_func_args(variable_def, VARIABLE_FUNCS)
+        variables[key] = func(*args, **kw, posdata=posdata, payload=payload)
+    return variables
+
+
+def build_references_markdown(payload):
+    buffers = []
+    for citation in payload['citations'].values():
+        buffers.append('[^{doi}]: {author} {year}'.format(**citation))
+    return '\n'.join(buffers)
 
 
 def build_mutannots_comments(resource_dir, buildres_dir, **kw):
@@ -172,6 +227,7 @@ def build_mutannots_comments(resource_dir, buildres_dir, **kw):
         for posdata in payload['positions']:
             position = posdata['position']
             par_comments = defaultdict(list)
+            par_footnotes = defaultdict(list)
 
             for cmt_def in cond_comments:
                 cond_def = cmt_def['condition']
@@ -192,21 +248,31 @@ def build_mutannots_comments(resource_dir, buildres_dir, **kw):
                     raise ValueError(
                         'Template of {commentName} is empty'.format(**cmt_def)
                     )
-                values = cmt_def.get('values', {})
-                values = extract_values(values, posdata, payload)
+                variables = cmt_def.get('variables', {})
+                variables = extract_variables(variables, posdata, payload)
                 tpl = Template(tpl)
-                text = tpl.substitute(values)
+                text = tpl.substitute(variables)
                 par_comments[prefix.text].append(text)
+
+                fn_tpl = cmt_def.get('footnote')
+                if fn_tpl:
+                    fn_tpl = Template(fn_tpl)
+                    fn_text = fn_tpl.substitute(variables)
+                    par_footnotes[prefix.text].append(fn_text)
+                else:
+                    par_footnotes[prefix.text].append('')
 
             pos_comments = []
             for prefix, all_text in par_comments.items():
-                comment_text = natlang_join(all_text, oxford_comma=True)
+                all_fn = par_footnotes[prefix]
+                comment_text = natlang_join(
+                    all_text, all_fn, last_punc='.', oxford_comma=True)
                 pos_comments.append('{} {}'.format(prefix, comment_text))
 
             if pos_comments:
                 all_comments.append({
                     'position': position,
-                    'comment': '. '.join(pos_comments) + '.'
+                    'comment': ' '.join(pos_comments)
                 })
         all_comments = sorted(all_comments, key=lambda c: c['position'])
         dest_json = os.path.join(
@@ -223,6 +289,7 @@ def build_mutannots_comments(resource_dir, buildres_dir, **kw):
                     'textAlign': 'left',
                     'sortable': False
                 }],
-                'data': all_comments
+                'data': all_comments,
+                'references': build_references_markdown(payload)
             }, fp, indent=2)
             print('create: {}'.format(dest_json))
