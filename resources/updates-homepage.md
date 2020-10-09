@@ -23,6 +23,15 @@ Instruction:
 
 -->
 
+### [New spike structures (Oct 08)](/page/spike-structures/#fig11)
+Figure 11. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) spike receptor binding domain (RBD).
+
+### [New spike structures (Oct 08)](/page/spike-structures/#fig12)
+Figure 12. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) trimeric spike.
+
+### Webinar (Oct 07)
+Monoclonal Antibodies for the Prevention and Treatment of COVID 19. [video](https://www.youtube.com/watch?v=YUj9jBlTCrY)
+
 ### [Press Release (Oct 07)](/page/press-release)
 - [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly202010071.pdf)
 - [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly202010072.pdf)
@@ -119,9 +128,3 @@ Bansal S, Jonsson CB, et int., and César Vega J. [“Iota-carrageenan and Xylit
 Chan KK, Dorosky D, et int., and Procko E. [“Engineering human ACE2 to optimize binding to the spike protein of SARS coronavirus 2.”](/search/?article=Chan20) _Science_, 2020. [doi.org/10.1126/science.abc0870](https://doi.org/10.1126/science.abc0870). \[[PubMed32753553](https://www.ncbi.nlm.nih.gov/pubmed/32753553/)\]
 ### Data Base Entries (Sep 08)
 Zhu H, Chen CZ, et int., and Huang R. [“Mining of high throughput screening database reveals AP-1 and autophagy pathways as potential targets for COVID-19 therapeutics.”](/search/?article=Zhu20e) __, 2020.
-### Data Base Entries (Sep 07)
-Drayman N, Jones KA, et int., and Tay S. [“Drug repurposing screen identifies masitinib as a 3CLpro inhibitor that blocks replication of SARS-CoV-2 in vitro.”](/search/?article=Drayman20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.31.274639](https://doi.org/10.1101/2020.08.31.274639). \[[PubMed32908976](https://www.ncbi.nlm.nih.gov/pubmed/32908976/)\] \[[PMC7480023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7480023/)\]
-### Data Base Entries (Sep 07)
-Zhao H, To KKW, et int., and Yuen K. [“A broad-spectrum virus- and host-targeting peptide against respiratory viruses including influenza virus and SARS-CoV-2.”](/search/?article=Zhao20) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-17986-9](https://doi.org/10.1038/s41467-020-17986-9). \[[PubMed32843628](https://www.ncbi.nlm.nih.gov/pubmed/32843628/)\] \[[PMC7447754](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7447754/)\]
-### Data Base Entries (Sep 07)
-Zmudzinski M, Rut W, et int., and Drag M. [“Ebselen derivatives are very potent dual inhibitors of SARS-CoV-2 proteases - PLpro and Mpro in in vitro studies.”](/search/?article=Zmudzinski20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.30.273979](https://doi.org/10.1101/2020.08.30.273979).

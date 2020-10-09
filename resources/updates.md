@@ -26,6 +26,8 @@ Instruction:
 
 ## Webinars
 
+- October 2
+    - Monoclonal Antibodies for the Prevention and Treatment of COVID 19. October 2, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://www.youtube.com/watch?v=YUj9jBlTCrY))
 - August 10
     - SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
 
@@ -42,6 +44,8 @@ Instruction:
     - Figure 8. RBD RBM antibody sites.
     - Figure 9. Regeneron ACE2-competing mAbs.
     - Figure 10. Naturally occurring spike RBD variants and mAb escape mutations.
+    - Figure 11. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) spike receptor binding domain (RBD).
+    - Figure 12. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) trimeric spike.
 - [Spike mutation annotation viewer](/mut-annot-viewer/SARS2S/)
     - [table of mutation annotations for SARS-CoV-2 Spike gene](/page/mutannot-spike-table/)
 - [Monoclonal antibodies](/page/mab-tables/)
