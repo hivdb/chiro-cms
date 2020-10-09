@@ -213,7 +213,11 @@ def extract_variables(variable_defs, posdata, payload):
 def build_references_markdown(payload):
     buffers = []
     for citation in payload['citations'].values():
-        buffers.append('[^{doi}]: {author} {year}'.format(**citation))
+        buffers.append(
+            '[^{doi}]: {author} {year}, '
+            '[doi.org/{doi}](https://doi.org/{doi}).'
+            .format(**citation)
+        )
     return '\n'.join(buffers)
 
 
