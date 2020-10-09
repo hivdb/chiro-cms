@@ -23,10 +23,10 @@ Instruction:
 
 -->
 
-### [New spike structures (Oct 08)](/page/spike-structures/#fig11)
+### [New spike structures (Oct 08)](/page/spike-structures/#figure.11.phylogenetic.tree.multiple.sequence.alignment.and.sequence.variability.of.the.sars-related.coronavirus.sarsr-cov.spike.receptor.binding.domain.rbd.)
 Figure 11. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) spike receptor binding domain (RBD).
 
-### [New spike structures (Oct 08)](/page/spike-structures/#fig12)
+### [New spike structures (Oct 08)](/page/spike-structures/#figure.12.phylogenetic.tree.multiple.sequence.alignment.and.sequence.variability.of.the.sars-related.coronavirus.sarsr-cov.trimeric.spike.)
 Figure 12. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) trimeric spike.
 
 ### Webinar (Oct 07)
