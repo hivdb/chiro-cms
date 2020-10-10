@@ -765,6 +765,31 @@ Instruction:
 
 ## Clinical Trials
 ### October 2020
+- October 08
+    - [23 clinical trials were added.](/clinical-trials/?fromDate=2020-10-08)
+    - ACTRN12620000982910
+    - EUCTR2020-002542-16-GB
+    - IRCT20160118026097N5
+    - IRCT20190810044500N7
+    - IRCT20200317046797N7
+    - IRCT20200818048444N1
+    - IRCT20200831048568N1
+    - IRCT20200913048708N1
+    - JPRN-jRCT2031200120
+    - JPRN-jRCTs031200124
+    - JPRN-jRCTs051200060
+    - NCT04575038
+    - NCT04575064
+    - NCT04575584
+    - NCT04575597
+    - NCT04576312
+    - NCT04576728
+    - NCT04577378
+    - NCT04581915
+    - PACTR202008855701534
+    - PACTR202009786901147
+    - PER-060-20
+    - PER-064-20
 - October 01
     - [9 clinical trials were added.](/clinical-trials/?fromDate=2020-10-01)
     - EUCTR2020-002728-35-HU

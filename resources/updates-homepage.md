@@ -23,6 +23,10 @@ Instruction:
 
 -->
 
+### [Clinical Trials (Oct 09)](/page/updates/#clinical.trials)
+[23 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-08)
+
+
 ### [New spike structures (Oct 08)](/page/spike-structures/#figure.11.phylogenetic.tree.multiple.sequence.alignment.and.sequence.variability.of.the.sars-related.coronavirus.sarsr-cov.spike.receptor.binding.domain.rbd.)
 Figure 11. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) spike receptor binding domain (RBD).
 
@@ -120,11 +124,3 @@ Olaleye OA, Kaur M, et int., and Adebusuyi T. [“Discovery of Clioquinol and An
 de Vries M, Mohamed AS, et int., and Dittmann M. [“Comparative study of a 3CLpro inhibitor and remdesivir against both major SARS-CoV-2 clades in human airway models.”](/search/?article=Vries20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.28.272880](https://doi.org/10.1101/2020.08.28.272880). \[[PubMed32869028](https://www.ncbi.nlm.nih.gov/pubmed/32869028/)\] \[[PMC7457613](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457613/)\]
 ### Data Base Entries (Sep 14)
 Zhang Q, Chen CZ, et int., and Ye Y. [“Heparan sulfate assists SARS-CoV-2 in cell entry and can be targeted by approved drugs in vitro.”](/search/?article=Zhang20e) _bioRxiv_, 2020. [doi.org/10.1101/2020.07.14.202549](https://doi.org/10.1101/2020.07.14.202549). \[[PubMed32699847](https://www.ncbi.nlm.nih.gov/pubmed/32699847/)\] \[[PMC7373127](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7373127/)\]
-### Data Base Entries (Sep 08)
-Agarwal A, Mukherjee A, et int., and Abraham P. [“Convalescent plasma in the management of moderate COVID-19 in India: An open-label parallel-arm phase II multicentre randomized controlled trial (PLACID Trial).”](/search/?article=Agarwal20) _medRxiv_, 2020. [doi.org/10.1101/2020.09.03.20187252](https://doi.org/10.1101/2020.09.03.20187252).
-### Data Base Entries (Sep 08)
-Bansal S, Jonsson CB, et int., and César Vega J. [“Iota-carrageenan and Xylitol inhibit SARS-CoV-2 in cell culture.”](/search/?article=Bansal20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.19.225854](https://doi.org/10.1101/2020.08.19.225854).
-### Data Base Entries (Sep 08)
-Chan KK, Dorosky D, et int., and Procko E. [“Engineering human ACE2 to optimize binding to the spike protein of SARS coronavirus 2.”](/search/?article=Chan20) _Science_, 2020. [doi.org/10.1126/science.abc0870](https://doi.org/10.1126/science.abc0870). \[[PubMed32753553](https://www.ncbi.nlm.nih.gov/pubmed/32753553/)\]
-### Data Base Entries (Sep 08)
-Zhu H, Chen CZ, et int., and Huang R. [“Mining of high throughput screening database reveals AP-1 and autophagy pathways as potential targets for COVID-19 therapeutics.”](/search/?article=Zhu20e) __, 2020.
