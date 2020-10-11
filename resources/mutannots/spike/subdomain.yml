@@ -13,9 +13,9 @@ citations:
   - 306-534
   - 535-590
   - 591-680
-  - 681-686
-  - 788-806
-  - 812-816
+  - 681-690
+  - 811-820
+  - 821-833
   - 912-984
   - 1163-1213
   - 1214-1237
@@ -40,15 +40,15 @@ positions:
 - subgroup: S1/S2
   description: Furin cleavage site
   positions:
-  - 681-686
-- subgroup: FP
-  description: Fusion peptide
-  positions:
-  - 788-806
+  - 681-690
 - subgroup: S2'
   description: Cathepsin L cleavage site
   positions:
-  - 812-816
+  - 811-820
+- subgroup: FP
+  description: Fusion peptide
+  positions:
+  - 821-833
 - subgroup: HR1
   description: Heptad repeat 1
   positions:
