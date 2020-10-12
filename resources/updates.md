@@ -65,6 +65,11 @@ Instruction:
 
 ## Database Entries
 ### October 2020
+- October 12
+    - Arabi YM, Asiri AY, et int., and Alothman A. [“Interferon Beta-1b and Lopinavir–Ritonavir for Middle East Respiratory Syndrome.”](search/?article=Arabi20) _NEJM_, 2020. [doi.org/10.1056/nejmoa2015294](https://doi.org/10.1056/nejmoa2015294). \[[PubMed33026741](https://www.ncbi.nlm.nih.gov/pubmed/33026741/)\]
+    - Beigel JH, Tomashek KM, et int., and Lane HC. [“Remdesivir for the Treatment of Covid-19 — Final Report.”](/search/?article=Beigel20b) _NEJM_, 2020. [doi.org/10.1056/nejmoa2007764](https://doi.org/10.1056/nejmoa2007764). \[[PubMed32445440](https://www.ncbi.nlm.nih.gov/pubmed/32445440/)\] \[[PMC7262788](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7262788/)\]
+    - Cho J, Lee YJ, et int., and Choi J. [“Antiviral activity of digoxin and ouabain against SARS-CoV-2 infection and its implication for COVID-19.”](/search/?article=Cho20) _SREP_, 2020. [doi.org/10.1038/s41598-020-72879-7](https://doi.org/10.1038/s41598-020-72879-7). \[[PubMed33004837](https://www.ncbi.nlm.nih.gov/pubmed/33004837/)\] \[[PMC7530981](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530981/)\]
+    - Gilmore K, Zhou Y, et int., and Seeberger PH. [“In vitro efficacy of Artemisinin-based treatments against SARS-CoV-2.”](/search/?article=Gilmore20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.05.326637](https://doi.org/10.1101/2020.10.05.326637).
 - October 05
     - Wahl A, Gralinski L, et int., and Garcia JV. [“Acute SARS-CoV-2 Infection is Highly Cytopathic, Elicits a Robust Innate Immune Response and is Efficiently Prevented by EIDD-2801.”](/search/?article=Wahl20) _Research square_, [2020. doi.org/10.21203/rs.3.rs-80404/v1](https://doi.org/10.21203/rs.3.rs-80404/v1). \[[PubMed32995766](https://www.ncbi.nlm.nih.gov/pubmed/32995766/)\] \[[PMC7523135](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523135/)\]
     - Ansarin K, Tolouian R, et int., and Chapman KR. [“Effect of bromhexine on clinical outcomes and mortality in COVID-19 patients: A randomized clinical trial.”](/search/?article=Ansarin20) _BioImpacts_, 2020. [doi.org/10.34172/bi.2020.27](https://doi.org/10.34172/bi.2020.27). \[[PubMed32983936](https://www.ncbi.nlm.nih.gov/pubmed/32983936/)\] \[[PMC7502909]\](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7502909/)
@@ -685,6 +690,11 @@ Instruction:
     - de Wilde AH, Falzarano D, et int., and Snijder EJ. [“Alisporivir inhibits MERS- and SARS-coronavirus replication in cell culture, but not SARS-coronavirus infection in a mouse model.”](/search/?article=deWilde17) _Virus Research_, 2016. [doi.org/10.1016/j.virusres.2016.11.011](https://doi.org/10.1016/j.virusres.2016.11.011). \[[PubMed27840112](https://www.ncbi.nlm.nih.gov/pubmed/27840112/)\] \[[PMC7114565](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7114565/)\]
     - de Wit E, Feldmann F, et int., and Feldmann H. [“Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection.”](/search/?article=deWit20) _Proceedings of the National Academy of Sciences_, 2020. [doi.org/10.1073/pnas.1922083117](https://doi.org/10.1073/pnas.1922083117). \[[PubMed32054787](https://www.ncbi.nlm.nih.gov/pubmed/32054787/)\] \[[PMC7104368](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7104368/)\]
 ## Preprints => Peer-Reviewed Publications
+### October 2020
+- October 12
+    - Horby P, Mafham M, et int., and Landray MJ. [“Effect of Hydroxychloroquine in Hospitalized Patients with Covid-19.”](/search/?article=Horby20) _New England Journal of Medicine_, 2020. [doi.org/10.1056/nejmoa2022926](https://doi.org/10.1056/nejmoa2022926). \[[PubMed33031652](https://www.ncbi.nlm.nih.gov/pubmed/33031652/)\]
+    - Shrimp JH, Kales SC, et int., and Hall MD. [“An Enzymatic TMPRSS2 Assay for Assessment of Clinical Candidates and Discovery of Inhibitors as Potential Treatment of COVID-19.”](/search/?article=Shrimp20) _ACS Pharmacology & Translational Science_, 2020. [doi.org/10.1021/acsptsci.0c00106](https://doi.org/10.1021/acsptsci.0c00106).
+    - Wu NC, Yuan M, et int., and Wilson IA. [“An Alternative Binding Mode of IGHV3-53 Antibodies to the SARS-CoV-2 Receptor Binding Domain.”](/search/?article=Wu20c) _Cell Reports_, [2020. doi.org/10.1016/j.celrep.2020.108274](https://doi.org/10.1016/j.celrep.2020.108274). \[[PubMed33027617](https://www.ncbi.nlm.nih.gov/pubmed/33027617/)\] \[[PMC7522650](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7522650/)\]
 ### September 2020
 - September 28
     - Zhu W, Xu M, et int., and Zheng W. [“Identification of SARS-CoV-2 3CL Protease Inhibitors by a Quantitative High-Throughput Screening.”](/search/?article=Zhu20d) _ACS Pharmacology & Translational Science_, 2020. [doi.org/10.1021/acsptsci.0c00108](https://doi.org/10.1021/acsptsci.0c00108).
