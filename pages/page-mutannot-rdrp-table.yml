@@ -1,0 +1,14 @@
+---
+pageTitle: SARS-CoV-2 RdRP Gene Mutations
+# heroImage: signpost.jpg
+heroImage: mutannot-spike-table-bg.png
+introHeader: |-
+  SARS-CoV-2 RdRP Gene Mutations
+content:
+  _resource: mutannot-rdrp-table.md
+tables:
+  mutannotRdRPTable:
+    _resource: mutannot-rdrp-table.json
+toc: false
+escapeHtml: false
+...
