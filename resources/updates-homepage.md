@@ -22,11 +22,16 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries(Oct 13)
+Olaleye OA, Kaur M, and Onyenaka CC. [“Ambroxol Hydrochloride Inhibits the Interaction between Severe Acute Respiratory Syndrome Coronavirus 2 Spike Protein’s Receptor Binding Domain and Recombinant Human ACE2.”](/search/?article=Olaleye20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.13.295691](https://doi.org/10.1101/2020.09.13.295691). \[[PubMed32995775](https://www.ncbi.nlm.nih.gov/pubmed/32995775/)\] \[[PMC7523101](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523101/)\]
+
+### Database Entries(Oct 13)
+Kaptein SJF, Jacobs S, et int., and Delang L. [“Favipiravir at high doses has potent antiviral activity in SARS-CoV-2−infected hamsters, whereas hydroxychloroquine lacks activity.”](/search/?article=Kaptein20) _Proceedings of the National Academy of Sciences_, 2020. [doi.org/10.1073/pnas.2014441117](https://doi.org/10.1073/pnas.2014441117). \[[PubMed33037151](https://www.ncbi.nlm.nih.gov/pubmed/33037151/)\]
 
 ### Database Entries(Oct 12)
-Arabi YM, Asiri AY, et int., and Alothman A. [“Interferon Beta-1b and Lopinavir–Ritonavir for Middle East Respiratory Syndrome.”](search/?article=Arabi20) _NEJM_, 2020. [doi.org/10.1056/nejmoa2015294](https://doi.org/10.1056/nejmoa2015294). \[[PubMed33026741](https://www.ncbi.nlm.nih.gov/pubmed/33026741/)\]
+Arabi YM, Asiri AY, et int., and Alothman A. [“Interferon Beta-1b and Lopinavir–Ritonavir for Middle East Respiratory Syndrome.”](/search/?article=Arabi20) _NEJM_, 2020. [doi.org/10.1056/nejmoa2015294](https://doi.org/10.1056/nejmoa2015294). \[[PubMed33026741](https://www.ncbi.nlm.nih.gov/pubmed/33026741/)\]
 ### Database Entries(Oct 12)
-Beigel JH, Tomashek KM, et int., and Lane HC. [“Remdesivir for the Treatment of Covid-19 — Final Report.”](/search/?article=Beigel20b) _NEJM_, 2020. [doi.org/10.1056/nejmoa2007764](https://doi.org/10.1056/nejmoa2007764). \[[PubMed32445440](https://www.ncbi.nlm.nih.gov/pubmed/32445440/)\] \[[PMC7262788](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7262788/)\]
+Beigel JH, Tomashek KM, et int., and Lane HC. [“Remdesivir for the Treatment of Covid-19 — Final Report.”](/search/?article=Beigel20) _NEJM_, 2020. [doi.org/10.1056/nejmoa2007764](https://doi.org/10.1056/nejmoa2007764). \[[PubMed32445440](https://www.ncbi.nlm.nih.gov/pubmed/32445440/)\] \[[PMC7262788](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7262788/)\]
 ### Database Entries(Oct 12)
 Cho J, Lee YJ, et int., and Choi J. [“Antiviral activity of digoxin and ouabain against SARS-CoV-2 infection and its implication for COVID-19.”](/search/?article=Cho20) _SREP_, 2020. [doi.org/10.1038/s41598-020-72879-7](https://doi.org/10.1038/s41598-020-72879-7). \[[PubMed33004837](https://www.ncbi.nlm.nih.gov/pubmed/33004837/)\] \[[PMC7530981](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530981/)\]
 ### Database Entries(Oct 12)
