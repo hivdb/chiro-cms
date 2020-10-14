@@ -103,6 +103,7 @@ conditionalComments:
     CLEAVAGE:
       func: getSubgroup
       args: [cleavage]
+  triggeredAAs: "*"
 - commentName: ace2
   rank: 3
   condition:
@@ -117,6 +118,7 @@ conditionalComments:
     FN:
       func: getCitations
       args: [ACE2]
+  triggeredAAs: "*"
 - commentName: glycan
   rank: 4
   condition:
@@ -126,6 +128,7 @@ conditionalComments:
     func: position
   template: >-
     the position of a N-linked glycosylation sequon
+  triggeredAAs: "*"
 - commentName: antibody
   rank: 5
   condition:
@@ -141,6 +144,7 @@ conditionalComments:
       args: [antibody]
       keywords:
         footnote: true
+  triggeredAAs: "*"
 - commentName: cysteine
   rank: 6
   condition:
@@ -150,6 +154,7 @@ conditionalComments:
     func: position
   template: >-
     one of the nine cysteine residues found in RBD
+  triggeredAAs: "*"
 - commentName: escapeMutants
   rank: 7
   condition:
@@ -162,6 +167,9 @@ conditionalComments:
     a mutation that escape antibody neutralization
   templatePlural: >-
     mutations that escape antibody neutralization
+  triggeredAAs:
+    func: mutation
+    args: [escape mutants]
 - commentName: polymorphism
   rank: 8
   condition:
@@ -174,3 +182,6 @@ conditionalComments:
     a polymorphic mutation
   templatePlural: >-
     polymorphic mutations
+  triggeredAAs:
+    func: mutation
+    args: [var2000]

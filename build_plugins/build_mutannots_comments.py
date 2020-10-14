@@ -81,6 +81,23 @@ def prefix_mutation(annot_name, *, posdata, payload):
     )
 
 
+def triggered_aas_mutation(annot_name, *, posdata, payload):
+    pos = posdata['position']
+    for annot in posdata['annotations']:
+        if annot['name'] != annot_name:
+            continue
+        aas = annot['aminoAcids']
+        if not aas:
+            raise ValueError(
+                'Field aminoAcids of position {}, annotation {} is empty',
+                pos, annot_name
+            )
+        return ''.join(aas)
+    raise ValueError(
+        'Position {} does not have annotation {}'.format(pos, annot_name)
+    )
+
+
 def variable_get_citations(annot_name, *, posdata, payload):
     citations = []
     all_citations = payload['citations']
@@ -191,6 +208,10 @@ VARIABLE_FUNCS = {
     'joinAnnotCatSubgroup': variable_join_annot_cat_subgroup
 }
 
+TRIGGERED_AAS_FUNCS = {
+    'mutation': triggered_aas_mutation
+}
+
 
 def check_condition(cond_def, posdata, payload):
     func, args, kw = get_func_args(cond_def, CONDITION_FUNCS)
@@ -208,6 +229,17 @@ def extract_variables(variable_defs, posdata, payload):
         func, args, kw = get_func_args(variable_def, VARIABLE_FUNCS)
         variables[key] = func(*args, **kw, posdata=posdata, payload=payload)
     return variables
+
+
+def extract_triggered_aas(triggered_aas_def, posdata, payload):
+    if not triggered_aas_def:
+        return set()
+    if triggered_aas_def == '*':
+        return set('ACDEFGHIKLMNPQRSTVWY*id')
+    func, args, kw = get_func_args(triggered_aas_def, TRIGGERED_AAS_FUNCS)
+    return set(
+        func(*args, **kw, posdata=posdata, payload=payload)
+    )
 
 
 def build_references_markdown(payload):
@@ -232,6 +264,7 @@ def build_mutannots_comments(resource_dir, buildres_dir, **kw):
             position = posdata['position']
             par_comments = defaultdict(list)
             par_footnotes = defaultdict(list)
+            triggered_aas = set()
 
             for cmt_def in cond_comments:
                 cond_def = cmt_def['condition']
@@ -265,6 +298,8 @@ def build_mutannots_comments(resource_dir, buildres_dir, **kw):
                     par_footnotes[prefix.text].append(fn_text)
                 else:
                     par_footnotes[prefix.text].append('')
+                triggered_aas |= extract_triggered_aas(
+                    cmt_def.get('triggeredAAs'), posdata, payload)
 
             pos_comments = []
             for prefix, all_text in par_comments.items():
@@ -276,6 +311,7 @@ def build_mutannots_comments(resource_dir, buildres_dir, **kw):
             if pos_comments:
                 all_comments.append({
                     'position': position,
+                    'triggeredAAs': ''.join(sorted(triggered_aas)),
                     'comment': ' '.join(pos_comments)
                 })
         all_comments = sorted(all_comments, key=lambda c: c['position'])
@@ -287,7 +323,10 @@ def build_mutannots_comments(resource_dir, buildres_dir, **kw):
                     'name': 'position',
                     'label': 'Pos',
                     'sort': 'numeric'
-                }, {
+                },  {
+                    # 'name': 'triggeredAAs',
+                    # 'label': 'AAs'
+                    # }, {
                     'name': 'comment',
                     'label': 'Comment',
                     'textAlign': 'left',
