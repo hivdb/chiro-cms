@@ -235,7 +235,7 @@ def extract_triggered_aas(triggered_aas_def, posdata, payload):
     if not triggered_aas_def:
         return set()
     if triggered_aas_def == '*':
-        return set('ACDEFGHIKLMNPQRSTVWY*id')
+        return set('ACDEFGHIKLMNPQRSTVWYid')
     func, args, kw = get_func_args(triggered_aas_def, TRIGGERED_AAS_FUNCS)
     return set(
         func(*args, **kw, posdata=posdata, payload=payload)
@@ -259,9 +259,11 @@ def build_mutannots_comments(resource_dir, buildres_dir, **kw):
                                key=lambda cc: cc['rank'])
 
         all_comments = []
+        refseq = payload['refSequence']
 
         for posdata in payload['positions']:
             position = posdata['position']
+            refaa = refseq[position - 1]
             par_comments = defaultdict(list)
             par_footnotes = defaultdict(list)
             triggered_aas = set()
@@ -309,6 +311,8 @@ def build_mutannots_comments(resource_dir, buildres_dir, **kw):
                 pos_comments.append('{} {}'.format(prefix, comment_text))
 
             if pos_comments:
+                if refaa in triggered_aas:
+                    triggered_aas.remove(refaa)
                 all_comments.append({
                     'position': position,
                     'triggeredAAs': ''.join(sorted(triggered_aas)),

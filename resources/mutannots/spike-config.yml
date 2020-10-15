@@ -90,6 +90,7 @@ conditionalComments:
     SUBDOMAIN:
       func: getSubgroup
       args: [subdomain]
+  triggeredAAs: "*"
 - commentName: cleavage
   rank: 2  # highest: 1
   condition:
