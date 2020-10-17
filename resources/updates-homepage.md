@@ -26,7 +26,7 @@ Instruction:
 - [IFN Lambda EigerBioPharmaceuticals](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Eiger20201017.pdf)
 
 ### [Clinical Trials (Oct 15)](/page/updates/#clinical.trials)
-[4 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-15)
+[5 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-15)
 
 ### Database Entries(Oct 13)
 Olaleye OA, Kaur M, and Onyenaka CC. [“Ambroxol Hydrochloride Inhibits the Interaction between Severe Acute Respiratory Syndrome Coronavirus 2 Spike Protein’s Receptor Binding Domain and Recombinant Human ACE2.”](/search/?article=Olaleye20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.13.295691](https://doi.org/10.1101/2020.09.13.295691). \[[PubMed32995775](https://www.ncbi.nlm.nih.gov/pubmed/32995775/)\] \[[PMC7523101](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523101/)\]

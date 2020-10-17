@@ -781,7 +781,8 @@ Instruction:
 ## Clinical Trials
 ### October 2020
 - October 15
-    - [4 clinical trials were added.](/clinical-trials/?fromDate=2020-10-15)
+    - [5 clinical trials were added.](/clinical-trials/?fromDate=2020-10-15)
+    - NCT04584684
     - NCT04583592
     - NCT04583956
     - NCT04584697
