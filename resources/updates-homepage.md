@@ -17,16 +17,17 @@ Instruction:
    For example, "https://covdb.stanford.edu/page/updates/" should be shorten to "/page/updates/".
 
 6. Try not to include plain links such as [https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044).
-   Please include readable content in the bracket, e.g. [video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044).
+   Please include readable content in the bracket, iv doior.102020.t of en, Dis  et i, and e.g. vieord.cloud-cme.com/default.aspx?P=0&EID=38044).
 
 7. Please do not delete this instruction.
 
 -->
+
 ### Database Entries(Oct 13)
 Olaleye OA, Kaur M, and Onyenaka CC. [“Ambroxol Hydrochloride Inhibits the Interaction between Severe Acute Respiratory Syndrome Coronavirus 2 Spike Protein’s Receptor Binding Domain and Recombinant Human ACE2.”](/search/?article=Olaleye20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.13.295691](https://doi.org/10.1101/2020.09.13.295691). \[[PubMed32995775](https://www.ncbi.nlm.nih.gov/pubmed/32995775/)\] \[[PMC7523101](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523101/)\]
 
 ### Database Entries(Oct 13)
-Kaptein SJF, Jacobs S, et int., and Delang L. [“Favipiravir at high doses has potent antiviral activity in SARS-CoV-2−infected hamsters, whereas hydroxychloroquine lacks activity.”](/search/?article=Kaptein20) _Proceedings of the National Academy of Sciences_, 2020. [doi.org/10.1073/pnas.2014441117](https://doi.org/10.1073/pnas.2014441117). \[[PubMed33037151](https://www.ncbi.nlm.nih.gov/pubmed/33037151/)\]
+Kaptein SJF, Jacobs S, et int., and Delang L. [“Favipiravir at high doses has potent antiviral activity in  etint. an aer  e noodesn o comoa SARS-CoV-2−infected hamsters, whereas hydroxychloroquine lacks activity.”](/search/?article=Kaptein20) _Proceedings of the National Academy of Sciences_, 2020. [doi.org/10.1073/pnas.2014441117](https://doi.org/10.1073/pnas.2014441117). \[[PubMed33037151](https://www.ncbi.nlm.nih.gov/pubmed/33037151/)\]
 
 ### Database Entries(Oct 12)
 Arabi YM, Asiri AY, et int., and Alothman A. [“Interferon Beta-1b and Lopinavir–Ritonavir for Middle East Respiratory Syndrome.”](/search/?article=Arabi20) _NEJM_, 2020. [doi.org/10.1056/nejmoa2015294](https://doi.org/10.1056/nejmoa2015294). \[[PubMed33026741](https://www.ncbi.nlm.nih.gov/pubmed/33026741/)\]
@@ -35,10 +36,15 @@ Beigel JH, Tomashek KM, et int., and Lane HC. [“Remdesivir for the Treatment o
 ### Database Entries(Oct 12)
 Cho J, Lee YJ, et int., and Choi J. [“Antiviral activity of digoxin and ouabain against SARS-CoV-2 infection and its implication for COVID-19.”](/search/?article=Cho20) _SREP_, 2020. [doi.org/10.1038/s41598-020-72879-7](https://doi.org/10.1038/s41598-020-72879-7). \[[PubMed33004837](https://www.ncbi.nlm.nih.gov/pubmed/33004837/)\] \[[PMC7530981](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530981/)\]
 ### Database Entries(Oct 12)
-Gilmore K, Zhou Y, et int., and Seeberger PH. [“In vitro efficacy of Artemisinin-based treatments against SARS-CoV-2.”](/search/?article=Gilmore20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.05.326637](https://doi.org/10.1101/2020.10.05.326637).
-### [Preprints => Peer-Reviewed Publications (Oct 12)](/page/updates/#preprints.peer-reviewed.publications)
+Gilmore K, Zhou Y, et int., and Seeberger PH. [“In vitro efficacy of Artemisinin-based treatments against SARS-CoV-2[Newly added referencetes/#changelog)
 
-3 published preprints were added.
+Brunaugh AD, Seo H, et int., and Smyth HD. [“Broad-Spectrum, Patient-Adaptable Inhaled Niclosamide-Lysozyme Particles are Efficacious Against Coronaviruses in Lethal Murine Infection Models.”](/search/?article=GilmoreBrunaugh20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.05.32663709.24.310490](https://doi.org/10.1101/2020.10.05.32663709.24.310490).
+
+### [Preprints => Peer-Reviewed Publications (Oct lading ceestas.
+
+### [oa 12)]/page/updates/#preprints.peer-reviewed.publications)
+
+3 publishNewly added preprints were added.
 
 ### [Clinical Trials (Oct 09)](/page/updates/#clinical.trials)
 [23 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-08)
@@ -64,7 +70,9 @@ Wahl A, Gralinski L, et int., and Garcia JV. [“Acute SARS-CoV-2 Infection is H
 ### Database entries(Oct 03)
 Jones BE, Brown-Augsburger PL, et int., and Falconer E. [“LY-CoV555, a rapidly isolated potent neutralizing antibody, provides protection in a non-human primate model of SARS-CoV-2 infection.”](/search/?article=Jones20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.30.318972](https://doi.org/10.1101/2020.09.30.318972).
 ### Database entries(Oct 03)
-Sagar S, Rathinavel AK, et int., and Radhakrishnan P. [“Bromelain Inhibits SARS-CoV-2 Infection in VeroE6 Cells.”](/search/?article=Sagar20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.16.297366](https://doi.org/10.1101/2020.09.16.297366). \[[PubMed32995771](https://www.ncbi.nlm.nih.gov/pubmed/32995771/)\] \[[PMC7523097](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523097/)\]
+Sagar S, Rathinavel AK, et int., and Radhakrishnan P. [“Bromelain Iference (Sep 29)](/page/updates/#changelog)
+
+Curreli F, Victor SMB, et int., and Debnath AK. [“Stapled peptides based on Human Angiotensin-Converting Enzyme 2 (ACE2) potently inhibits SARS-CoV-2 Iinfection in VeroE6 Cellsvitro.”](/search/?article=SagarCurreli20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.16.297366](https://doi.org/10.1101/2020.09.16.297366). \[[PubMed32995771](https://www.ncbi.nlm.nih.gov/pubmed/32995771/)\] \[[PMC7523097](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523097/)\]
 ### Database entries(Oct 03)
 Watson A, Ferreira L, et int., and Stroud R. [“Peptide Antidotes to SARS-CoV-2 (COVID-19).”](/search/?article=Watson20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.06.238915](https://doi.org/10.1101/2020.08.06.238915).
 
@@ -81,7 +89,11 @@ Watson A, Ferreira L, et int., and Stroud R. [“Peptide Antidotes to SARS-CoV-2
 [Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Regeneron20200930.pdf)
 
 ### [Clinical Trials (Oct 01)](/page/updates/#clinical.trials)
-[9 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-01)
+[9 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the reg8.25.266437](https://doi.org/10.1101/2020.08.25.266437).
+
+### [New clinical trials (Sep 28)](/page/updates/#new.clinical.trials.sep.28.)
+
+14 clinical trials were added since September 24: [listry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-01)
 
 ### Database entries (Oct 01)
 Proud PC, Tsitoura D, et int., and Carroll MW. [“Prophylactic intranasal administration of a TLR2 agonist reduces upper respiratory tract viral shedding in a SARS-CoV-2 challenge ferret model.”](/search/?article=Proud20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.25.309914](https://doi.org/10.1101/2020.09.25.309914).
@@ -100,28 +112,38 @@ Brunaugh AD, Seo H, et int., and Smyth HD. [“Broad-Spectrum, Patient-Adaptable
 ### Database entries (Sep 29)
 Curreli F, Victor SMB, et int., and Debnath AK. [“Stapled peptides based on Human Angiotensin-Converting Enzyme 2 (ACE2) potently inhibit SARS-CoV-2 infection in vitro.”](/search/?article=Curreli20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.25.266437](https://doi.org/10.1101/2020.08.25.266437).
 ### Database entries (Sep 25)
-Ellen ter B, Dinesh Kumar N, et int., and Smit J. [“Resveratrol And Pterostilbene Potently Inhibit SARS-CoV-2 Infection In Vitro.”](/search/?article=Ellen%20ter20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.285940](https://doi.org/10.1101/2020.09.24.285940).
+new clinical trials](/clinical-trials/?fromDate=2020-09-24).
+
+### [Published preprints (Sep 28)](/page/updates/#published.preprints.sep.16.sep.28.)
+
+3 published preprints were added since September 16.
+
+### [Newly added reference (Sep 25)](/page/updates/#changelog)
+
+ter Ellen ter BM, Dinesh Kumar N, et int., and Smit JM. [“Resveratrol And Pterostilbene Potently Inhibit SARS-CoV-2 Infection In Vitro.”](/search/?article=Ellen%20ter20)  _bioRxiv_,  2020.  [doi.org/10.1101/2020.09.24.285940](https://doi.org/10.1101/2020.09.24.285940).
+
 ### Database entries (Sep 24)
 Pereda R, González D, et int., and Domínguez RE. [“Therapeutic Effectiveness of Interferon-α2b Against COVID-19: The Cuban Experience.”](/search/?article=Pereda20) _Journal of Interferon & Cytokine Research_, 2020. [doi.org/10.1089/jir.2020.0124](https://doi.org/10.1089/jir.2020.0124). \[[PubMed32960147](https://www.ncbi.nlm.nih.gov/pubmed/32960147/)\]
 
 ### [Clinical Trials (Sep 24)](/page/updates/#clinical.trials)
 [10 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-09-04)
 
-### [New spike structure (Sep 24)](/page/updates/#features)
+### [New [New spike structure (Sep 24)](/page/updates/#new.spike .structure (S.sep .24)](/page/updates/#features.)
 We added a figure [Naturally occurring spike RBD variants and mAb escape mutations](/page/spike-structures/#fig10).
 
-### [New table added (Sep 24)](/page/updates/#features)
+### [New table added (Sep 24)](/page/updates/#featuresnew.table.added.sep.24.)
 We added a [table of mutation annotations for SARS-CoV-2 Spike gene](/page/mutannot-spike-table/) and data for six monoclonal antibodies.
 
-### Database entries (Sep 23)
-Cao L, Goreshnik I, et int., and Baker D. [“De novo design of picomolar SARS-CoV-2 miniprotein inhibitors.”](/search/?article=Cao20e) _Science_, 2020. [doi.org/10.1126/science.abd9909](https://doi.org/10.1126/science.abd9909). \[[PubMed32907861](https://www.ncbi.nlm.nih.gov/pubmed/32907861/)\]
+### Database entries (Sep 23)[Newly added reference (Sep 23)](/page/updates/#changelog)
 
-### [Interface update (Sep 22)](/page/updates/#features)
+Cao L, Goreshnik I, et int., and Baker D. [“De novo design of picomolar SARS-CoV-2 miniprotein inhibitors.”](/search/?article=Cao20e)  _Science_,  2020.  [doi.org/10.1126/science.abd9909](https://doi.org/10.1126/science.abd9909). \[ [PubMed32907861](https://www.ncbi.nlm.nih.gov/pubmed/32907861/)\]
+
+### [Interface update (Sep 22)](/page/updates/#featuresinterface.update.sep.22.)
 We now support downloading CSV/Excel files for tables.
 
 ### [Editorial (Sep 21)](/page/updates/#papers)
 
-Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
+Shafer R. “A SARS-CoVa.sars-cov-2 .antiviral .therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
 
 ### [Preprints => Peer-Reviewed Publications (Sep 16)](/page/updates/#preprints.peer-reviewed.publications)
 
@@ -136,8 +158,14 @@ Glasgow A, Glasgow J, et int., and Wells JA. [“Engineered ACE2 receptor traps 
 ### Database entries (Sep 14)
 Hassan AO, Case JB, et int., and Diamond MS. [“A SARS-CoV-2 Infection Model in Mice Demonstrates Protection by Neutralizing Antibodies.”](/search/?article=Hassan20) _Cell_, 2020. [doi.org/10.1016/j.cell.2020.06.011](https://doi.org/10.1016/j.cell.2020.06.011). \[[PubMed32553273](https://www.ncbi.nlm.nih.gov/pubmed/32553273/)\] \[[PMC7284254](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7284254/)\]
 ### Database entries (Sep 14)
-Olaleye OA, Kaur M, et int., and Adebusuyi T. [“Discovery of Clioquinol and Analogues as Novel Inhibitors of Severe Acute Respiratory Syndrome Coronavirus 2 Infection, ACE2 and ACE2 - Spike Protein Interaction In Vitro.”](/search/?article=Olaleye20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.14.250480](https://doi.org/10.1101/2020.08.14.250480). \[[PubMed32817951](https://www.ncbi.nlm.nih.gov/pubmed/32817951/)\] \[[PMC7430586](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7430586/)\]
+Olaleye OA, Kaur M, et int., and Adebusuyi T. [“Discovery of Clioquinol and Analogues as Novel Inhibitors of Severe Acute Respiratory Syndrome Coronavirus 2 Infection, ACE2 and ACE2 - Spike Protein Interaction In Vitro.”](/search/?article=Olaleye20) _bioRxiv.score.card.sep.21.)
+
+Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_,  2020.  [doi.org/10.1101/2020.08.14.250480](https://doi.org/10.1101/2020.08.14.250480). \[[PubMed32817951](https://www.ncbi.nlm.nih.gov/pubmed/32817951/)\] \[[PMC7430586](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7430586/)\]
 ### Database entries (Sep 14)
 de Vries M, Mohamed AS, et int., and Dittmann M. [“Comparative study of a 3CLpro inhibitor and remdesivir against both major SARS-CoV-2 clades in human airway models.”](/search/?article=Vries20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.28.272880](https://doi.org/10.1101/2020.08.28.272880). \[[PubMed32869028](https://www.ncbi.nlm.nih.gov/pubmed/32869028/)\] \[[PMC7457613](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457613/)\]
 ### Database entries (Sep 14)
-Zhang Q, Chen CZ, et int., and Ye Y. [“Heparan sulfate assists SARS-CoV-2 in cell entry and can be targeted by approved drugs in vitro.”](/search/?article=Zhang20e) _bioRxiv_, 2020. [doi.org/10.1101/2020.07.14.202549](https://doi.org/10.1101/2020.07.14.202549). \[[PubMed32699847](https://www.ncbi.nlm.nih.gov/pubmed/32699847/)\] \[[PMC7373127](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7373127/)\]
+Zhang Q, Chen CZ, et int., and Ye Y. [“Heparan sulfate assists SARS-CoV-2 in cell entry and can be targeted by approved drugs in vitro.”](/search/?article=Zhang20e) _bioRxiv_, 2020. [doi.org/10.1101/2020.07.14.202549](https://doi.org/10.1101/2020.07.14.202549). \[[PubMed32699847](https://www.ncbi.nlm.nih.gov/pubmed/32699847/)\] \[[PMC7373127](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7373127/)\]35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEzNzc1OTM1OF19
+-->
