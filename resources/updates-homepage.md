@@ -22,6 +22,11 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### [Press Release (Oct 16)](/page/updates/#press.release)
+- [IFN Lambda EigerBioPharmaceuticals](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Eiger20201017.pdf)
+
+### [Clinical Trials (Oct 15)](/page/updates/#clinical.trials)
+[4 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-15)
 
 ### Database Entries(Oct 13)
 Olaleye OA, Kaur M, and Onyenaka CC. [“Ambroxol Hydrochloride Inhibits the Interaction between Severe Acute Respiratory Syndrome Coronavirus 2 Spike Protein’s Receptor Binding Domain and Recombinant Human ACE2.”](/search/?article=Olaleye20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.13.295691](https://doi.org/10.1101/2020.09.13.295691). \[[PubMed32995775](https://www.ncbi.nlm.nih.gov/pubmed/32995775/)\] \[[PMC7523101](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523101/)\]
@@ -60,8 +65,8 @@ Figure 12. Phylogenetic tree, multiple sequence alignment, and sequence variabil
 Monoclonal Antibodies for the Prevention and Treatment of COVID 19. [video](https://www.youtube.com/watch?v=YUj9jBlTCrY)
 
 ### [Press Release (Oct 07)](/page/press-release)
-- [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly202010071.pdf)
-- [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly202010072.pdf)
+- [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly202010071.pdf)
+- [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly202010072.pdf)
 
 ### Database entries(Oct 05)
 Ansarin K, Tolouian R, et int., and Chapman KR. [“Effect of bromhexine on clinical outcomes and mortality in COVID-19 patients: A randomized clinical trial.”](/search/?article=Ansarin20) _BioImpacts_, 2020. [doi.org/10.34172/bi.2020.27](https://doi.org/10.34172/bi.2020.27). \[[PubMed32983936](https://www.ncbi.nlm.nih.gov/pubmed/32983936/)\] \[[PMC7502909]\](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7502909/)
@@ -78,15 +83,15 @@ Watson A, Ferreira L, et int., and Stroud R. [“Peptide Antidotes to SARS-CoV-2
 
 ### [Press Release (Oct 02)](/page/press-release)
 
-[Synairgen plc, Interim results for the six months ended 30 June 2020](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Synairgen20200930.pdf)
+[Synairgen plc, Interim results for the six months ended 30 June 2020](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Synairgen20200930.pdf)
 
 ### [Press Release (Oct 02)](/page/press-release)
 
-[Lilly announces proof of concept data for neutralizing antibody LY-CoV555 in the COVID-19outpatient setting](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly20200930.pdf)
+[Lilly announces proof of concept data for neutralizing antibody LY-CoV555 in the COVID-19outpatient setting](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly20200930.pdf)
 
 ### [Press Release (Oct 02)](/page/press-release)
 
-[Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Regeneron20200930.pdf)
+[Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Regeneron20200930.pdf)
 
 ### [Clinical Trials (Oct 01)](/page/updates/#clinical.trials)
 [9 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the reg8.25.266437](https://doi.org/10.1101/2020.08.25.266437).
@@ -149,23 +154,3 @@ Shafer R. “A SARS-CoVa.sars-cov-2 .antiviral .therapy score card” _Global He
 
 3 published preprints were added.
 
-### Database entries (Sep 15)
-Li T, Han X, et int., and Jin A. [“A key linear epitope for a potent neutralizing antibody to SARS-CoV-2 S-RBD.”](/search/?article=Li20e) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.11.292631](https://doi.org/10.1101/2020.09.11.292631).
-### Database entries (Sep 14)
-Cohen-Dvashi H, Weinstein J, et int., and Diskin R. [“Coronacept – a potent immunoadhesin against SARS-CoV-2.”](/search/?article=Cohen-Dvashi20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.12.247940](https://doi.org/10.1101/2020.08.12.247940).
-### Database entries (Sep 14)
-Glasgow A, Glasgow J, et int., and Wells JA. [“Engineered ACE2 receptor traps potently neutralize SARS-CoV-2.”](/search/?article=Glasgow20) _bioRxiv_, 2020. [doi.org/10.1101/2020.07.31.231746](https://doi.org/10.1101/2020.07.31.231746). \[[PubMed32766586](https://www.ncbi.nlm.nih.gov/pubmed/32766586/)\] \[[PMC7402043](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7402043/)\]
-### Database entries (Sep 14)
-Hassan AO, Case JB, et int., and Diamond MS. [“A SARS-CoV-2 Infection Model in Mice Demonstrates Protection by Neutralizing Antibodies.”](/search/?article=Hassan20) _Cell_, 2020. [doi.org/10.1016/j.cell.2020.06.011](https://doi.org/10.1016/j.cell.2020.06.011). \[[PubMed32553273](https://www.ncbi.nlm.nih.gov/pubmed/32553273/)\] \[[PMC7284254](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7284254/)\]
-### Database entries (Sep 14)
-Olaleye OA, Kaur M, et int., and Adebusuyi T. [“Discovery of Clioquinol and Analogues as Novel Inhibitors of Severe Acute Respiratory Syndrome Coronavirus 2 Infection, ACE2 and ACE2 - Spike Protein Interaction In Vitro.”](/search/?article=Olaleye20) _bioRxiv.score.card.sep.21.)
-
-Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_,  2020.  [doi.org/10.1101/2020.08.14.250480](https://doi.org/10.1101/2020.08.14.250480). \[[PubMed32817951](https://www.ncbi.nlm.nih.gov/pubmed/32817951/)\] \[[PMC7430586](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7430586/)\]
-### Database entries (Sep 14)
-de Vries M, Mohamed AS, et int., and Dittmann M. [“Comparative study of a 3CLpro inhibitor and remdesivir against both major SARS-CoV-2 clades in human airway models.”](/search/?article=Vries20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.28.272880](https://doi.org/10.1101/2020.08.28.272880). \[[PubMed32869028](https://www.ncbi.nlm.nih.gov/pubmed/32869028/)\] \[[PMC7457613](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457613/)\]
-### Database entries (Sep 14)
-Zhang Q, Chen CZ, et int., and Ye Y. [“Heparan sulfate assists SARS-CoV-2 in cell entry and can be targeted by approved drugs in vitro.”](/search/?article=Zhang20e) _bioRxiv_, 2020. [doi.org/10.1101/2020.07.14.202549](https://doi.org/10.1101/2020.07.14.202549). \[[PubMed32699847](https://www.ncbi.nlm.nih.gov/pubmed/32699847/)\] \[[PMC7373127](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7373127/)\]35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzc1OTM1OF19
--->

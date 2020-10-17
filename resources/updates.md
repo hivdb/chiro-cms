@@ -55,13 +55,15 @@ Instruction:
 
 ## Press Release
 
+- October 16
+    - [IFN Lambda EigerBioPharmaceuticals]($$CMS_PREFIX$$downloads/press-release/Eiger20201017.pdf)
 - October 7
-    - [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly202010071.pdf)
-    - [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly202010072.pdf)
+    - [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7]($$CMS_PREFIX$$downloads/press-release/Lilly202010071.pdf)
+    - [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7]($$CMS_PREFIX$$downloads/press-release/Lilly202010072.pdf)
 - October 2
-    - [Synairgen plc, Interim results for the six months ended 30 June 2020](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Synairgen20200930.pdf)
-    - [Lilly announces proof of concept data for neutralizing antibody LY-CoV555 in the COVID-19outpatient setting](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly20200930.pdf)
-    - [Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Regeneron20200930.pdf)
+    - [Synairgen plc, Interim results for the six months ended 30 June 2020]($$CMS_PREFIX$$downloads/press-release/Synairgen20200930.pdf)
+    - [Lilly announces proof of concept data for neutralizing antibody LY-CoV555 in the COVID-19outpatient setting]($$CMS_PREFIX$$downloads/press-release/Lilly20200930.pdf)
+    - [Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients]($$CMS_PREFIX$$downloads/press-release/Regeneron20200930.pdf)
 
 ## Database Entries
 ### October 2020
@@ -778,6 +780,12 @@ Instruction:
 
 ## Clinical Trials
 ### October 2020
+- October 15
+    - [4 clinical trials were added.](/clinical-trials/?fromDate=2020-10-15)
+    - NCT04583592
+    - NCT04583956
+    - NCT04584697
+    - NCT04586153
 - October 08
     - [23 clinical trials were added.](/clinical-trials/?fromDate=2020-10-08)
     - ACTRN12620000982910
