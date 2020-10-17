@@ -39,7 +39,7 @@ EIDD-2801 has broad-spectrum antiviral activity against multiple coronaviruses i
 
 As of August, a phase I study in uninfected individuals and two phase II studies patients with mild-to-moderate disease have begun ([EIDD-2801 clinical trials](/clinical-trials/?compound=EIDD-2801&target=Polymerase))
 
-___Conclusion: The preclinical in vitro and animal model data associated with EIDD-2801 are comparable to those of remdesivir. However, EIDD-2801’s safety  and clinical efficacy have not yet been established. Should EIDD-2018 trials be successful, this drug may be a useful oral option in high-risk outpatients.___
+___Conclusion: The preclinical in vitro and animal model data associated with EIDD-2801 are comparable to those of remdesivir. However, EIDD-2801’s safety  and clinical efficacy have not yet been established. Should EIDD-2801 trials be successful, this drug may be a useful oral option in high-risk outpatients.___
 
 ### Other Nucleoside Analogs
 Ribavirin is a nucleoside analog with modest activity against several viruses. Although multiple mechanisms for its activity have been proposed, the most likely is an increase in viral mutagenesis. In cell culture studies, it has demonstrated little, if any, activity against coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2[^10.1016/s0140-6736(03)13615-x][^10.1177/095632020401500102][^10.1016/j.jinf.2013.09.029][^10.1099/vir.0.061911-0][^10.1038/srep01686][^10.1016/j.antiviral.2020.104786][^10.1016/S0140-6736(20)31022-9]. Structural and biochemical studies have shown that although ribavirin 5’-monophosphate can be incorporated during RNA synthesis, it is readily excised by nsp14, the coronavirus exonuclease. Multiple observational clinical studies of patients with SARS-CoV, and to a lesser extent in patients with MERS-CoV have shown no evidence for clinical benefit while demonstrating a high risk of toxicity[^10.1371/journal.pmed.0030343].
@@ -229,5 +229,5 @@ __Nitazoxanide__: Nitazoxanide is licensed for the treatment of cryptosporidium 
 __Emetine__: Emetine is an FDA-approved drug for treating amebiasis. It is produced from the ipecac root and has been used to induce vomiting. Emetine has been shown in four studies to inhibit multiple coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2 _in vitro_, with EC<sub>50</sub>s consistently below 1.0 μM[^10.1128/AAC.03036-14][^10.1128/JVI.00023-19][^10.1101/2020.02.25.965582][^10.1016/j.antiviral.2020.104786]. Its mechanism of action is not known for certain, although it did inhibit MERS-CoV in an entry inhibitor assay using a pseudotype virus expressing S protein[^10.1128/JVI.00023-19]. After oral administration, its levels in the lungs are much higher than in the plasma and well above its reported EC<sub>50</sub> levels[^10.3390/ph13030051]. Emetine is currently not being studied for the treatment of SARS-CoV-2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjg1Mjk0OTBdfQ==
+eyJoaXN0b3J5IjpbMTI5NzgyODQ5MiwtMTAyODUyOTQ5MF19
 -->
