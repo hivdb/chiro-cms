@@ -22,6 +22,11 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Oct 22)
+Rosenke K, Leventhal S, et int., and Stein DA. [“Inhibition of SARS-CoV-2 in Vero cell cultures by peptide-conjugated morpholino-oligomers.”](/search/?article=Rosenke20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.29.319731](https://doi.org/10.1101/2020.09.29.319731). \[[PubMed33024974](https://www.ncbi.nlm.nih.gov/pubmed/33024974/)\] \[[PMC7536879](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7536879/)\]
+### Database Entries (Oct 22)
+Yin W, Luan X, et int., and Xu HE. [“Structural basis for repurposing a 100-years-old drug suramin for treating COVID-19.”](/search/?article=yin20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.06.328336](https://doi.org/10.1101/2020.10.06.328336).
+
 ### [Press Release (Oct 16)](/page/updates/#press.release)
 - [IFN Lambda EigerBioPharmaceuticals](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Eiger20201017.pdf)
 

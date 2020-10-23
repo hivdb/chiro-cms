@@ -67,6 +67,9 @@ Instruction:
 
 ## Database Entries
 ### October 2020
+- October 22
+    - Rosenke K, Leventhal S, et int., and Stein DA. [“Inhibition of SARS-CoV-2 in Vero cell cultures by peptide-conjugated morpholino-oligomers.”](/search/?article=Rosenke20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.29.319731](https://doi.org/10.1101/2020.09.29.319731). \[[PubMed33024974](https://www.ncbi.nlm.nih.gov/pubmed/33024974/)\] \[[PMC7536879](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7536879/)\]
+    - Yin W, Luan X, et int., and Xu HE. [“Structural basis for repurposing a 100-years-old drug suramin for treating COVID-19.”](/search/?article=yin20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.06.328336](https://doi.org/10.1101/2020.10.06.328336).
 - October 13
     - Olaleye OA, Kaur M, and Onyenaka CC. [“Ambroxol Hydrochloride Inhibits the Interaction between Severe Acute Respiratory Syndrome Coronavirus 2 Spike Protein’s Receptor Binding Domain and Recombinant Human ACE2.”](/search/?article=Olaleye20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.13.295691](https://doi.org/10.1101/2020.09.13.295691). \[[PubMed32995775](https://www.ncbi.nlm.nih.gov/pubmed/32995775/)\] \[[PMC7523101](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523101/)\]
     - Kaptein SJF, Jacobs S, et int., and Delang L. [“Favipiravir at high doses has potent antiviral activity in SARS-CoV-2−infected hamsters, whereas hydroxychloroquine lacks activity.”](/search/?article=Kaptein20) _Proceedings of the National Academy of Sciences_, 2020. [doi.org/10.1073/pnas.2014441117](https://doi.org/10.1073/pnas.2014441117). \[[PubMed33037151](https://www.ncbi.nlm.nih.gov/pubmed/33037151/)\]
