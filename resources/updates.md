@@ -783,6 +783,24 @@ Instruction:
 
 ## Clinical Trials
 ### October 2020
+- October 22
+    - [16 clinical trials were added.](/clinical-trials/?fromDate=2020-10-22)
+    - ACTRN12620001048976
+    - EUCTR2020-001610-38-DK
+    - EUCTR2020-004928-42-HU
+    - NCT04589949
+    - NCT04590274
+    - NCT04590430
+    - NCT04591600
+    - NCT04592549
+    - NCT04592835
+    - NCT04593641
+    - NCT04595136
+    - NCT04596839
+    - NCT04597775
+    - NCT04600440
+    - NCT04600895
+    - NCT04600999
 - October 15
     - [5 clinical trials were added.](/clinical-trials/?fromDate=2020-10-15)
     - NCT04584684

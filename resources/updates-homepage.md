@@ -22,6 +22,9 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+
+### [Clinical Trials (Oct 22)](/page/updates/#clinical.trials)
+[16 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-22)
 ### Database Entries (Oct 22)
 Rosenke K, Leventhal S, et int., and Stein DA. [“Inhibition of SARS-CoV-2 in Vero cell cultures by peptide-conjugated morpholino-oligomers.”](/search/?article=Rosenke20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.29.319731](https://doi.org/10.1101/2020.09.29.319731). \[[PubMed33024974](https://www.ncbi.nlm.nih.gov/pubmed/33024974/)\] \[[PMC7536879](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7536879/)\]
 ### Database Entries (Oct 22)
@@ -130,11 +133,3 @@ Cao L, Goreshnik I, et int., and Baker D. [“De novo design of picomolar SARS-C
 
 ### [Interface update (Sep 22)](/page/updates/#features)
 We now support downloading CSV/Excel files for tables.
-
-### [Editorial (Sep 21)](/page/updates/#papers)
-
-Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
-
-### [Preprints => Peer-Reviewed Publications (Sep 16)](/page/updates/#preprints.peer-reviewed.publications)
-
-3 published preprints were added.
