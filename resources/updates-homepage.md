@@ -22,6 +22,10 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Oct 26)
+Pan H, Peto R, et int., and Swaminathan S. [“Repurposed antiviral drugs for COVID-19 –interim WHO SOLIDARITY trial results.”](/search/?article=Pan20b) _medRxiv_, 2020. [doi.org/10.1101/2020.10.15.20209817](https://doi.org/10.1101/2020.10.15.20209817).
+### Database Entries (Oct 26)
+Rocco PRM, Silva PL, et int., and Lapa e Silva JR. [“Early use of nitazoxanide in mild Covid-19 disease: randomized, placebo-controlled trial.”](/search/?article=Rocco20) _medRxiv_, 2020. [doi.org/10.1101/2020.10.21.20217208](https://doi.org/10.1101/2020.10.21.20217208).
 
 ### [Clinical Trials (Oct 22)](/page/updates/#clinical.trials)
 [16 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-22)
