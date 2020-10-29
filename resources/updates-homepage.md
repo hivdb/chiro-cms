@@ -22,6 +22,14 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Oct 29)
+Chen P, Nirula A, et int., and Skovronsky DM. [“SARS-CoV-2 Neutralizing Antibody LY-CoV555 in Outpatients with Covid-19.”](/search/?article=Chen20l) _New England Journal of Medicine_, 2020. [doi.org/10.1056/nejmoa2029849](https://doi.org/10.1056/nejmoa2029849). \[[PubMed33113295](https://www.ncbi.nlm.nih.gov/pubmed/33113295/)\]
+
+
+### [Press Release (Oct 07)](/page/updates/#press.release)
+
+[Lilly Statement Regarding NIH’s ACTIV-3 Clinical Trial](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly20201027.pdf)
+
 ### Database Entries (Oct 26)
 Pan H, Peto R, et int., and Swaminathan S. [“Repurposed antiviral drugs for COVID-19 –interim WHO SOLIDARITY trial results.”](/search/?article=Pan20b) _medRxiv_, 2020. [doi.org/10.1101/2020.10.15.20209817](https://doi.org/10.1101/2020.10.15.20209817).
 ### Database Entries (Oct 26)
@@ -72,9 +80,9 @@ Figure 12. Phylogenetic tree, multiple sequence alignment, and sequence variabil
 ### Webinar (Oct 07)
 Monoclonal Antibodies for the Prevention and Treatment of COVID 19. [video](https://www.youtube.com/watch?v=YUj9jBlTCrY)
 
-### [Press Release (Oct 07)](/page/press-release)
-- [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly202010071.pdf)
-- [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly202010072.pdf)
+### [Press Release (Oct 07)](/page/updates/#press.release)
+- [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly202010071.pdf)
+- [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly202010072.pdf)
 
 ### Database Entries (Oct 05)
 Ansarin K, Tolouian R, et int., and Chapman KR. [“Effect of bromhexine on clinical outcomes and mortality in COVID-19 patients: A randomized clinical trial.”](/search/?article=Ansarin20) _BioImpacts_, 2020. [doi.org/10.34172/bi.2020.27](https://doi.org/10.34172/bi.2020.27). \[[PubMed32983936](https://www.ncbi.nlm.nih.gov/pubmed/32983936/)\] \[[PMC7502909]\](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7502909/)
@@ -87,17 +95,17 @@ Sagar S, Rathinavel AK, et int., and Radhakrishnan P. [“Bromelain Inhibits SAR
 ### Database Entries (Oct 03)
 Watson A, Ferreira L, et int., and Stroud R. [“Peptide Antidotes to SARS-CoV-2 (COVID-19).”](/search/?article=Watson20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.06.238915](https://doi.org/10.1101/2020.08.06.238915).
 
-### [Press Release (Oct 02)](/page/press-release)
+### [Press Release (Oct 02)](/page/updates/#press.release)
 
-[Synairgen plc, Interim results for the six months ended 30 June 2020](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Synairgen20200930.pdf)
+[Synairgen plc, Interim results for the six months ended 30 June 2020](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Synairgen20200930.pdf)
 
-### [Press Release (Oct 02)](/page/press-release)
+### [Press Release (Oct 02)](/page/updates/#press.release)
 
-[Lilly announces proof of concept data for neutralizing antibody LY-CoV555 in the COVID-19outpatient setting](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Lilly20200930.pdf)
+[Lilly announces proof of concept data for neutralizing antibody LY-CoV555 in the COVID-19outpatient setting](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly20200930.pdf)
 
-### [Press Release (Oct 02)](/page/press-release)
+### [Press Release (Oct 02)](/page/updates/#press.release)
 
-[Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-dev/downloads/press-release/Regeneron20200930.pdf)
+[Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Regeneron20200930.pdf)
 
 ### [Clinical Trials (Oct 01)](/page/updates/#clinical.trials)
 [9 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-01)
@@ -118,22 +126,3 @@ Zhang L, Cao L, et int., and Zhu F. [“A proof of concept for neutralizing anti
 Brunaugh AD, Seo H, et int., and Smyth HD. [“Broad-Spectrum, Patient-Adaptable Inhaled Niclosamide-Lysozyme Particles are Efficacious Against Coronaviruses in Lethal Murine Infection Models.”](/search/?article=Brunaugh20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.310490](https://doi.org/10.1101/2020.09.24.310490).
 ### Database entries (Sep 29)
 Curreli F, Victor SMB, et int., and Debnath AK. [“Stapled peptides based on Human Angiotensin-Converting Enzyme 2 (ACE2) potently inhibit SARS-CoV-2 infection in vitro.”](/search/?article=Curreli20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.25.266437](https://doi.org/10.1101/2020.08.25.266437).
-### Database entries (Sep 25)
-Ellen ter B, Dinesh Kumar N, et int., and Smit J. [“Resveratrol And Pterostilbene Potently Inhibit SARS-CoV-2 Infection In Vitro.”](/search/?article=Ellen%20ter20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.285940](https://doi.org/10.1101/2020.09.24.285940).
-### Database entries (Sep 24)
-Pereda R, González D, et int., and Domínguez RE. [“Therapeutic Effectiveness of Interferon-α2b Against COVID-19: The Cuban Experience.”](/search/?article=Pereda20) _Journal of Interferon & Cytokine Research_, 2020. [doi.org/10.1089/jir.2020.0124](https://doi.org/10.1089/jir.2020.0124). \[[PubMed32960147](https://www.ncbi.nlm.nih.gov/pubmed/32960147/)\]
-
-### [Clinical Trials (Sep 24)](/page/updates/#clinical.trials)
-[10 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-09-04)
-
-### [New spike structure (Sep 24)](/page/updates/#features)
-We added a figure [Naturally occurring spike RBD variants and mAb escape mutations](/page/spike-structures/#fig10).
-
-### [New table added (Sep 24)](/page/updates/#features)
-We added a [table of mutation annotations for SARS-CoV-2 Spike gene](/page/mutannot-spike-table/) and data for six monoclonal antibodies.
-
-### Database entries (Sep 23)
-Cao L, Goreshnik I, et int., and Baker D. [“De novo design of picomolar SARS-CoV-2 miniprotein inhibitors.”](/search/?article=Cao20e) _Science_, 2020. [doi.org/10.1126/science.abd9909](https://doi.org/10.1126/science.abd9909). \[[PubMed32907861](https://www.ncbi.nlm.nih.gov/pubmed/32907861/)\]
-
-### [Interface update (Sep 22)](/page/updates/#features)
-We now support downloading CSV/Excel files for tables.

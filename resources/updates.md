@@ -55,6 +55,8 @@ Instruction:
 
 ## Press Release
 
+- October 27
+    - [Lilly Statement Regarding NIH’s ACTIV-3 Clinical Trial]($$CMS_PREFIX$$downloads/press-release/Lilly20201027.pdf)
 - October 16
     - [IFN Lambda EigerBioPharmaceuticals]($$CMS_PREFIX$$downloads/press-release/Eiger20201017.pdf)
 - October 7
@@ -67,6 +69,8 @@ Instruction:
 
 ## Database Entries
 ### October 2020
+- October 29
+    - Chen P, Nirula A, et int., and Skovronsky DM. [“SARS-CoV-2 Neutralizing Antibody LY-CoV555 in Outpatients with Covid-19.”](/search/?article=Chen20l) _New England Journal of Medicine_, 2020. [doi.org/10.1056/nejmoa2029849](https://doi.org/10.1056/nejmoa2029849). \[[PubMed33113295](https://www.ncbi.nlm.nih.gov/pubmed/33113295/)\]
 - October 26
     - Pan H, Peto R, et int., and Swaminathan S. [“Repurposed antiviral drugs for COVID-19 –interim WHO SOLIDARITY trial results.”](/search/?article=Pan20b) _medRxiv_, 2020. [doi.org/10.1101/2020.10.15.20209817](https://doi.org/10.1101/2020.10.15.20209817).
     - Rocco PRM, Silva PL, et int., and Lapa e Silva JR. [“Early use of nitazoxanide in mild Covid-19 disease: randomized, placebo-controlled trial.”](/search/?article=Rocco20) _medRxiv_, 2020. [doi.org/10.1101/2020.10.21.20217208](https://doi.org/10.1101/2020.10.21.20217208).
