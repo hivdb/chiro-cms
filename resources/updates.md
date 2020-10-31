@@ -55,7 +55,7 @@ Instruction:
 
 ## Press Release
 
-- October 27
+- October 26
     - [Lilly Statement Regarding NIH’s ACTIV-3 Clinical Trial]($$CMS_PREFIX$$downloads/press-release/Lilly20201027.pdf)
 - October 16
     - [IFN Lambda EigerBioPharmaceuticals]($$CMS_PREFIX$$downloads/press-release/Eiger20201017.pdf)

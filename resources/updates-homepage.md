@@ -26,7 +26,7 @@ Instruction:
 Chen P, Nirula A, et int., and Skovronsky DM. [“SARS-CoV-2 Neutralizing Antibody LY-CoV555 in Outpatients with Covid-19.”](/search/?article=Chen20l) _New England Journal of Medicine_, 2020. [doi.org/10.1056/nejmoa2029849](https://doi.org/10.1056/nejmoa2029849). \[[PubMed33113295](https://www.ncbi.nlm.nih.gov/pubmed/33113295/)\]
 
 
-### [Press Release (Oct 07)](/page/updates/#press.release)
+### [Press Release (Oct 26)](/page/updates/#press.release)
 
 [Lilly Statement Regarding NIH’s ACTIV-3 Clinical Trial](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly20201027.pdf)
 
