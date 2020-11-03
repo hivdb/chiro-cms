@@ -8,17 +8,17 @@
 <br />
 <br />
 
-## Neutralizing monoclonal antibodies in clinical trials
+## Clinical trials
 [table]
 clinicalTrialMAbs
 [/table]
 
-## Monoclonal antibodies used in animal model studies
+## Animal model studies
 [table]
 animalModelMAbs
 [/table]
 
-## Neutralizing monoclonal antibodies described in published papers
+## Identification, in vitro potency, sequence data, and structural data
 [table]
 publishedMAbs
 [/table]
