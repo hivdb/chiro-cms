@@ -27,6 +27,7 @@ deploy-dev: build
 		aws s3 sync /app/build s3://cms.hivdb.org/chiro-dev --delete
 
 deploy-prod: build
+	@scripts/only-stable.sh make deploy-prod
 	@docker run \
 		--mount type=bind,source=$(HOME)/.aws,target=/root/.aws,readonly \
 		--mount type=bind,source=$(PWD),target=/app,readonly \
