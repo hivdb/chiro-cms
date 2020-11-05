@@ -189,7 +189,7 @@
   - doi: 10.1101/2020.09.30.318972
     firstAuthor:
       surname: Jones
-      givenNames: Bryan E
+      givenNames: Bryan E.
     year: 2020
     journal: bioRxiv
   antibodies:
@@ -199,3 +199,87 @@
     lungPath: NA
   animalModel: |-
     Rhesus macaques
+- references:
+  - doi: 10.1101/2020.09.27.316174
+    firstAuthor:
+      surname: Cao
+      givenNames: Xia
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: STI-1499 (intravenous)
+    weightLoss: ↓
+    lungVL: ↓↓
+    lungPath: NA
+  animalModel: |-
+    Syrian hamsters
+- references:
+  - doi: 10.1101/2020.09.27.316174
+    firstAuthor:
+      surname: Cao
+      givenNames: Xia
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: STI-2020 (intravenous)
+    weightLoss: ↓↓
+    lungVL: ↓↓↓
+    lungPath: NA
+  animalModel: |-
+    Syrian hamsters
+- references:
+  - doi: 10.1101/2020.10.28.359836
+    firstAuthor:
+      surname: Fu
+      givenNames: Yanwen
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: STI-2020 (intranasal)
+    weightLoss: ↓↓
+    lungVL: NA
+    lungPath: NA
+  animalModel: |-
+    Syrian hamsters
+- references:
+  - doi: 10.1101/2020.10.26.355107
+    firstAuthor:
+      surname: Chan
+      givenNames: Conrad E.Z.
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: SC31
+    weightLoss: ↓↓↓
+    lungVL: ↓↓
+    lungPath: NA
+  animalModel: |-
+    Transgenic mice
+- references:
+  - doi: 10.1101/2020.10.26.355107
+    firstAuthor:
+      surname: Chan
+      givenNames: Conrad E.Z.
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: SC31-LALA
+    weightLoss: ↓↓
+    lungVL: ↓↓
+    lungPath: NA
+  animalModel: |-
+    Transgenic mice
+- references:
+  - doi: 10.1101/2020.10.26.355107
+    firstAuthor:
+      surname: Chan
+      givenNames: Conrad E.Z.
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: SC31
+    weightLoss: ↓↓↓
+    lungVL: ↓↓
+    lungPath: ↓↓↓
+  animalModel: |-
+    Syrian hamsters

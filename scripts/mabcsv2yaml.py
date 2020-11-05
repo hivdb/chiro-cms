@@ -2,7 +2,7 @@
 
 import re
 import csv
-import sys
+import click
 import requests
 import ruamel.yaml
 from ruamel.yaml.scalarstring import PreservedScalarString
@@ -267,40 +267,62 @@ def extract_antibodies(row, alnlookup):
     return sorted(ab_objs, key=lambda obj: obj['name'])
 
 
-def load_data(filepath):
-    with open(filepath, encoding='utf-8-sig') as fp:
-        rows = []
-        for row in csv.DictReader(fp):
-            lowerkey_row = {}
-            for key in row:
-                lowerkey_row[key.lower()] = row[key]
-            rows.append(lowerkey_row)
-        return rows
+def load_data(fp):
+    rows = []
+    for row in csv.DictReader(fp):
+        lowerkey_row = {}
+        for key in row:
+            row[key] = row[key].replace('_x000D_\n', '\n')
+            lowerkey_row[key.lower()] = row[key]
+        rows.append(lowerkey_row)
+    return rows
 
 
-def load_aln_data(filepath):
-    if filepath == '__none__':
+def extract_igxx(text, title, pcnt_title=None):
+    text = text.strip()
+    result = {title: None}
+    if pcnt_title:
+        result[pcnt_title] = None
+    if not text:
+        return result
+    match = re.match(r'^([^*]+)(?:\*[^(]+(?:\((\d+(?:\.\d+)?%)\))?)?$',
+                     text.strip())
+    if not match:
+        raise click.ClickException('Invalid IGXX string: {!r}'.format(text))
+    groups = match.groups()
+    result[title] = re.sub(r'^IG', '', groups[0])
+    if pcnt_title and len(groups) == 2:
+        result[pcnt_title] = groups[1]
+    return result
+
+
+def extract_cdrlen(text):
+    text = text.strip()
+    match = re.search(r'\((\d+)\)$', text)
+    if match:
+        return int(match.group(1))
+
+
+def load_aln_data(fp):
+    if fp is None:
         return {}
-    with open(filepath, encoding='utf-8-sig') as fp:
-        lookup = {}
-        for row in csv.DictReader(fp):
-            ab_name = row['Mab']
-            cdrh3len = row['CDRH3 Length']
-            cdrl3len = row['CDRL3 Length']
-            cdrh3len = int(cdrh3len) if cdrh3len else None
-            cdrl3len = int(cdrl3len) if cdrl3len else None
-            lookup[ab_name] = {
-                'species': row['Species'],
-                'IGHV': re.sub(r'^IG', '', row['IGHV']),
-                'PcntMutH': row['%Mut(H)'],
-                'CDRH3Len': cdrh3len,
-                'IGHJ': re.sub(r'^IG', '', row['IGHJ']),
-                'IGLV': re.sub(r'^IG', '', row['IGLV']),
-                'PcntMutL': row['%Mut(L)'],
-                'CDRL3Len': cdrl3len,
-                'IGLJ': re.sub(r'^IG', '', row['IGLJ'])
-            }
-        return lookup
+    lookup = {}
+    for row in csv.DictReader(fp):
+        for key in row:
+            row[key] = row[key].replace('_x000D_\n', '\n')
+        ab_name = row['Mab']
+        lookup[ab_name] = {
+            'species': row['Species'],
+            **extract_igxx(row['IGHV (% Somatic hypermutation)'],
+                           'IGHV', 'PcntMutH'),
+            'CDRH3Len': extract_cdrlen(row['CDRH3']),
+            **extract_igxx(row['IGHJ'], 'IGHJ'),
+            **extract_igxx(row['IGLV (% Somatic hypermutation)'],
+                           'IGLV', 'PcntMutL'),
+            'CDRL3Len': extract_cdrlen(row['CDRL3']),
+            **extract_igxx(row['IGLJ'], 'IGLJ')
+        }
+    return lookup
 
 
 def yaml_filename(groupobj):
@@ -310,15 +332,20 @@ def yaml_filename(groupobj):
     return '_'.join(mabnames) + '.yml'
 
 
-def main():
-    if len(sys.argv) != 4:
-        print('Usage: {} <MAbCSV> <MAbAlignmentCSV> <OUT_YAML>'
-              .format(sys.argv[0]), file=sys.stderr)
-        exit(1)
-    mabcsv_path, alncsv_path, out_path = sys.argv[1:]
+@click.command()
+@click.argument('input_mabcsv',
+                type=click.File('r', encoding='utf-8-sig'))
+@click.option(
+    '--alignment', type=click.File('r', encoding='utf-8-sig'),
+    help='MAb Alignment CSV file')
+@click.option(
+    '--refid-lookup', type=click.File('r', encoding='utf-8-sig'),
+    help='RefID2DOI lookup JSON file')
+@click.argument('output_yaml', type=click.File('w'))
+def mabcsv2yaml(input_mabcsv, alignment, refid_lookup, output_yaml):
 
-    mabdata = load_data(mabcsv_path)
-    alnlookup = load_aln_data(alncsv_path)
+    mabdata = load_data(input_mabcsv)
+    alnlookup = load_aln_data(alignment)
     groups = []
     for row in mabdata:
         groupobj = {
@@ -352,9 +379,8 @@ def main():
         if clinical_trials:
             groupobj['clinicalTrials'] = PreservedScalarString(clinical_trials)
         groups.append(groupobj)
-    with open(out_path, 'w') as fp:
-        yaml.dump(groups, fp)
+    yaml.dump(groups, output_yaml)
 
 
 if __name__ == '__main__':
-    main()
+    mabcsv2yaml()

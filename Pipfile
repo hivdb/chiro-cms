@@ -9,6 +9,9 @@ verify_ssl = true
 awscli = "*"
 requests = "*"
 "ruamel.yaml" = "*"
+xlsx2csv = "*"
+more-itertools = "*"
+click = "*"
 
 [requires]
 python_version = "3.8"

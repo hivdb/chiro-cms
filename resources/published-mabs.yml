@@ -73,6 +73,7 @@
   antibodies:
   - name: COVA1-16
     ec50: 745
+    pdb: RBD (7JMW)
     species: Human
     IGHV: HV1-46
     PcntMutH: 1%
@@ -95,7 +96,7 @@
     IGLJ: LJ3
   - name: COVA2-04
     ec50: 2500
-    pdb: RBD
+    pdb: RBD (7JMO)
     species: Human
     IGHV: HV3-53
     PcntMutH: 2%
@@ -118,6 +119,7 @@
     IGLJ: KJ2
   - name: COVA2-39
     ec50: 54
+    pdb: RBD (7JMP)
     species: Human
     IGHV: HV3-53
     PcntMutH: 3%
@@ -148,66 +150,66 @@
   antibodies:
   - name: BD-23
     pdb: S Trimer (7BYR)
+  - name: BD-236
+    pdb: RBD (7CHB)
     species: Human
-    IGHV: HV7-4-1
-    PcntMutH: 0%
-    CDRH3Len: 19
+    IGHV: HV3-53
+    PcntMutH: 3%
+    CDRH3Len: 12
     IGHJ: HJ6
-    IGLV: KV1-5
-    PcntMutL: 0%
-    CDRL3Len: 9
-    IGLJ: KJ2
+    IGLV:
+    PcntMutL:
+    CDRL3Len:
+    IGLJ:
   - name: BD-368-2
     ec50: 15
-    pdb: S Trimer (7CHH, Pending)
+    pdb: S Trimer (7CHH)
+    species: ''
+    IGHV: HV3-23
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ4
+    IGLV: KV2-28
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: KJ5
   - name: BD-503
     ec50: 140
-    species: Human
+    species: ''
     IGHV: HV3-53
-    PcntMutH: ''
-    CDRH3Len: 13
-    IGHJ: HJ6
-    IGLV: KV1D-39
-    PcntMutL: ''
-    CDRL3Len: 12
-    IGLJ: KJ3
-  - name: BD-503
-    ec50: 140
-    species: Human
-    IGHV: HV3-53
-    PcntMutH: ''
-    CDRH3Len: 13
-    IGHJ: HJ6
-    IGLV: KV1D-39
-    PcntMutL: ''
-    CDRL3Len: 12
-    IGLJ: KJ3
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ6 (Human)
+    IGLV: KV1-39 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: KJ3 (Human)
   - name: BD-515
     ec50: 200
-    species: Human
-    IGHV: HV3-66
-    PcntMutH: ''
-    CDRH3Len: 12
-    IGHJ: HJ4
-    IGLV: KV1D-33
-    PcntMutL: ''
-    CDRL3Len: 11
-    IGLJ: KJ5
+    species: ''
+    IGHV: HV3-66 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ4 (Human)
+    IGLV: KV1-39 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: KJ5 (Human)
   - name: BD-602
     ec50: 11
     ec50Note: PV
   - name: BD-604
     ec50: 5
-    pdb: RBD (7CH4, Pending)
+    pdb: RBD (7CH4)
     species: Human
     IGHV: HV3-53
     PcntMutH: 5%
     CDRH3Len: 11
     IGHJ: HJ6
-    IGLV: ''
-    PcntMutL: ''
+    IGLV:
+    PcntMutL:
     CDRL3Len:
-    IGLJ: ''
+    IGLJ:
   - name: BD-606
     ec50: 6
   - name: BD-612
@@ -216,16 +218,16 @@
     ec50: 9
   - name: BD-629
     ec50: 4
-    pdb: RBD (7CH5, Pending)
-    species: Human
-    IGHV: HV3-53
-    PcntMutH: 4%
-    CDRH3Len: 11
-    IGHJ: HJ4
-    IGLV: ''
-    PcntMutL: ''
+    pdb: RBD (7CH5)
+    species: ''
+    IGHV: HV3-53 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ4 (Human)
+    IGLV: KV3-20 (Human)
+    PcntMutL:
     CDRL3Len:
-    IGLJ: ''
+    IGLJ: KJ1 (Human)
   - name: BD-632
     ec50: 17
   source:
@@ -274,6 +276,7 @@
     IGLJ: KJ1
   - name: 4A8
     ec50: 610
+    pdb: S trimer (7C2L)
     species: Human
     IGHV: HV1-24
     PcntMutH: 3%
@@ -406,15 +409,6 @@
     ec50: 280
   - name: P2C-1F11
     ec50: 30
-    species: Human
-    IGHV: HV3-66
-    PcntMutH: 1.75%
-    CDRH3Len: 11
-    IGHJ: ''
-    IGLV: KV3-20
-    PcntMutL: 0%
-    CDRL3Len: 8
-    IGLJ: ''
   source:
   - SARS-2 B cells
   - RBD
@@ -431,16 +425,34 @@
   - name: FnC1t2p1_D4
     ec50: 100
     ec50Note: IC100
+    species: ''
+    IGHV: HV7-4-1 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ5 (Human)
+    IGLV: KV1-33 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: KJ4 (Human)
   - name: HbnC3t1p1_C6
     ec50: 100
     ec50Note: IC100
+    species: ''
+    IGHV: HV1-58 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ3 (Human)
+    IGLV: KV3-20 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: KJ1 (Human)
   - name: MnC2t1p1_A3
     species: Human
     IGHV: HV3-66
     PcntMutH: 3%
     CDRH3Len: 13
     IGHJ: HJ4
-    IGLV: KV1D-12
+    IGLV: KV1-12
     PcntMutL: 0%
     CDRL3Len: 9
     IGLJ: KJ1
@@ -474,26 +486,36 @@
   description: |-
     None
 - references:
-  - doi: 10.1101/2020.08.15.252320
+  - doi: 10.1016/j.cell.2020.09.049
     firstAuthor:
       surname: Kreye
       givenNames: Jakob
     year: 2020
-    journal: bioRxiv
+    journal: Cell
   antibodies:
   - name: CV07-209
     ec50: 3.1
-    pdb: RBD (6XKQ, pending)
+    species: ''
+    IGHV: HV3-11 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ4 (Human)
+    IGLV:
+    PcntMutL:
+    CDRL3Len:
+    IGLJ:
+  - name: CV07-270
+    ec50: 82
+    pdb: RBD (6XKP)
     species: Human
     IGHV: HV3-11
-    PcntMutH: 2%
-    CDRH3Len: 12
-    IGHJ: HJ4
-    IGLV: 'KV1-33 '
-    PcntMutL: 1%
-    CDRL3Len: 9
-    IGLJ: KJ4
-  - name: CV08-270
+    PcntMutH: 1%
+    CDRH3Len:
+    IGHJ: HJ5
+    IGLV: KV2-14
+    PcntMutL: 0%
+    CDRL3Len:
+    IGLJ: LJ2
   source:
   - SARS-2 B cells
   - ELISA for RBD binding
@@ -513,7 +535,7 @@
   - 'Phage display: Naïve B cell Fab & scFv libraries'
   - RBD panning
   description: |-
-    ab1 is an ACE2-competing mAb that has been shown to reduce lung virus levels when administered prophylatically in a mouse model.
+    ab1 is an ACE2-competing mAb that has been shown to reduce lung virus levels and lung damate when administered prophylatically in a mouse or hamster model. It has also been shown to stimulate ADCC in vitro.
 - references:
   - doi: 10.1038/s41586-020-2571-7
     firstAuthor:
@@ -524,23 +546,104 @@
   antibodies:
   - name: 1-20
     ec50: 7.5
+    species: ''
+    IGHV: HV3-53 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ6 (Human)
+    IGLV: KV1-9 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: KJ3 (Human)
   - name: 1-57
     ec50: 7.5
+    species: ''
+    IGHV: HV3-72 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ4 (Human)
+    IGLV: KV3-20 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: KJ2 (Human)
   - name: 2-15
     ec50: 0.8
+    species: ''
+    IGHV: HV1-2 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ3 (Human)
+    IGLV: LV2-14 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: LJ1 (Human)
   - name: 2-17
     ec50: 6
+    species: ''
+    IGHV: HV1-69 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ5 (Human)
+    IGLV: KV3-15 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: KJ4 (Human)
   - name: 2-4
     pdb: S trimer (6XEY)
+    species: ''
+    IGHV: HV1-2 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ6 (Human)
+    IGLV: LV2-8 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: LJ3 (Human)
   - name: 2-43
     pdb: S trimer
+    species: ''
+    IGHV: HV1-2 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ6 (Human)
+    IGLV: LV2-14 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: LJ3 (Human)
   - name: 2-7
     ec50: 3
+    species: ''
+    IGHV: HV2-5 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ4 (Human)
+    IGLV: LV2-14 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: LJ3 (Human)
   - name: 4-8
     ec50: 9
     pdb: S trimer
+    species: ''
+    IGHV: HV1-69 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ6 (Human)
+    IGLV: LV3-1 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: LJ3 (Human)
   - name: 5-24
     ec50: 7.5
+    species: ''
+    IGHV: HV3-33 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ6 (Human)
+    IGLV: KV3-20 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: KJ4 (Human)
   source:
   - SARS-2 B cells
   - S trimer
@@ -556,7 +659,16 @@
   antibodies:
   - name: H014
     ec50: 570
-    pdb: 'H014: S trimer (7CAH*)'
+    pdb: S trimer (7CAH)
+    species: ''
+    IGHV: HV1-69-2 (Mouse)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ6 (Mouse)
+    IGLV: KV6-21 (Mouse)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: KJ2 (Mouse)
   source:
   - Phage display
   - Spleen Ab library from mice immunized with SARS-CoV RBD
@@ -577,18 +689,18 @@
     ec50: 220
     species: Human
     IGHV: HV3-66
-    PcntMutH: 4%
-    CDRH3Len:
-    IGHJ: ''
+    PcntMutH: 6%
+    CDRH3Len: 12
+    IGHJ: HJ3
     IGLV: KV3-20
-    PcntMutL: 4%
-    CDRL3Len:
-    IGLJ: ''
+    PcntMutL: 11%
+    CDRL3Len: 9
+    IGLJ: KJ4
   source:
   - Human B cell phage display scFv libraries from acute and convalescent sera selected
     for RBD and S1 binding.
   description: |-
-    MD65 is an ACE2-competing mAb
+    MD65 is an ACE2-competing mAb. MD65-YTE (M252Y, S254T, T256E) has increased affinity for FcRn at acidic pH and a prolonged half-life.
 - references:
   - doi: 10.1038/s41586-020-2349-y
     firstAuthor:
@@ -734,9 +846,27 @@
   - name: CC6.29
     ec50: 2
     ec50Note: PV
+    species: ''
+    IGHV: HV7-4-1 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ5 (Human)
+    IGLV: KV1-39 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: KJ3 (Human)
   - name: CC6.30
     ec50: 1
     ec50Note: PV
+    species: ''
+    IGHV: HV1-69 (Human)
+    PcntMutH:
+    CDRH3Len:
+    IGHJ: HJ5 (Human)
+    IGLV: KV1-39 (Human)
+    PcntMutL:
+    CDRL3Len:
+    IGLJ: KJ3 (Human)
   source:
   - SARS-2 B cells
   - RBD & S trimer
@@ -847,6 +977,15 @@
   antibodies:
   - name: 414-1
     ec50: 263
+    species: ''
+    IGHV:
+    PcntMutH:
+    CDRH3Len:
+    IGHJ:
+    IGLV:
+    PcntMutL:
+    CDRL3Len:
+    IGLJ:
   source:
   - SARS-2 B cells
   - RBD & S trimer
@@ -866,13 +1005,29 @@
       givenNames: Bart L.
     year: 2020
     journal: bioRxiv
+  - doi: 10.1101/2020.09.30.318261
+    firstAuthor:
+      surname: Fedry
+      givenNames: Juliette
+    year: 2020
+    journal: bioRxiv
   antibodies:
   - name: 47D11
     ec50: 570
+    pdb: S trimer
+    species: ''
+    IGHV:
+    PcntMutH:
+    CDRH3Len:
+    IGHJ:
+    IGLV:
+    PcntMutL:
+    CDRL3Len:
+    IGLJ:
   source:
   - H2L2 mice immunized with S trimer of OC43, SARS, and MERS
   description: |-
-    47D11 is a non-ACE2-competing mAb that cross-neutralizes SARS-1. It has also been shown to reduce weight loss, lung pathology, and virus levels in a hamster SARS-CoV-2 prevention model.
+    47D11 is a non-ACE2-competing mAb that cross-neutralizes SARS-1. It binds to the closed conformation of the RBD. It reduces weight loss, lung pathology, and virus levels in a hamster SARS-CoV-2 prevention model.
 - references:
   - doi: 10.1101/2020.07.14.203414
     firstAuthor:
@@ -972,7 +1127,7 @@
     pdb: "Nanobody (H11-H4) / RBD (6ZCZ)\nRBD (6ZER)\nTrimeric spike (6ZDH)\nDisordered\
       \ spike (6ZDG, 6ZFO)"
     species: Human
-    IGHV: HV3-30-3
+    IGHV: HV3-30
     PcntMutH: 3%
     CDRH3Len: 14
     IGHJ: HJ4
@@ -988,10 +1143,10 @@
     PcntMutH: 8%
     CDRH3Len: 20
     IGHJ: HJ4
-    IGLV: ''
-    PcntMutL: ''
+    IGLV:
+    PcntMutL:
     CDRL3Len:
-    IGLJ: ''
+    IGLJ:
   source:
   - SARS-CoV-2 plasmablasts
   - ELISA S1 & Spike
@@ -1068,13 +1223,11 @@
   source:
   - SARS-2 B cells
   - RBD
-  description: |-
-    Pending
 - references:
   - doi: 10.1101/2020.09.30.318972
     firstAuthor:
       surname: Jones
-      givenNames: Bryan E
+      givenNames: Bryan E.
     year: 2020
     journal: bioRxiv
   antibodies:
@@ -1086,3 +1239,31 @@
   - RBD & S trimer
   description: |-
     LY-CoV555 is an ACE2-competing mAb that binds RBD in the up and down configurations. It reduces upper airway and lower airway virus levels in rhesus macaques.
+- references:
+  - doi: 10.1101/2020.09.27.316174
+    firstAuthor:
+      surname: Cao
+      givenNames: Xia
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: STI-1499
+    ec50: 3000
+  - name: STI-2020
+    ec50: 55
+  source:
+  - scFv naïve phage display library
+  - screened for binding to S trimer
+  - engineered into IgG1 with LALA variant
+- references:
+  - doi: 10.1101/2020.10.26.355107
+    firstAuthor:
+      surname: Chan
+      givenNames: Conrad E.Z.
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: SC31
+    ec50: 2670
+  source:
+  - SARS-2 B cells

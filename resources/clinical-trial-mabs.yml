@@ -19,6 +19,8 @@
     journal: bioRxiv
   antibodies:
   - name: REGN10933 + REGN10987
+  description: |-
+    REGN10933 + REGN10987 is a combination of two monoclonal antibodies targeting the SARS-CoV-2 spike protein, which have begun clinical trials in June 2020.
   company: Regeneron
   phase: III
   clinicalTrials: |-
@@ -30,7 +32,7 @@
   - doi: 10.1101/2020.09.30.318972
     firstAuthor:
       surname: Jones
-      givenNames: Bryan E
+      givenNames: Bryan E.
     year: 2020
     journal: bioRxiv
   - doi: 10.1038/s41586-020-2381-y
@@ -41,7 +43,9 @@
     journal: Nature
   antibodies:
   - name: LY-CoV555 (LY3819253)
-  - name: LY-CoV555 + LY-CoV016
+  - name: LY-CoV555 + LY-CoV016(LY3832479)
+  description: |-
+    LY3819253 (LY-CoV555) is a monoclonal antibody targeting the SARS-CoV-2 spike protein, which have begun clinical trials in June 2020.
   company: Lilly / AbCellera
   phase: III
   clinicalTrials: |-
@@ -53,6 +57,8 @@
 - references: []
   antibodies:
   - name: TY027
+  description: |-
+    TY027 is a monoclonal antibody targeting the SARS-CoV-2 spike protein, which began clinical trials in June 2020.
   company: Tychan Pte
   phase: I
   clinicalTrials: |-
@@ -66,6 +72,8 @@
     journal: Nature
   antibodies:
   - name: JS016
+  description: |-
+    JS016 is a monoclonal antibody targeting the SARS-CoV-2 spike protein, which began clinical trials in June 2020.
   company: Shanghai Junshi Bioscience
   phase: I
   clinicalTrials: |-
@@ -73,6 +81,8 @@
 - references: []
   antibodies:
   - name: BRII-196
+  description: |-
+    BRII-196 is a SARS-CoV-2 monoclonal antibody that blocks viral entry to neutralize SARS-CoV-2 infection. It is being studied in clinical trials as a treatment for COVID-19.
   company: Brii Biosciences
   phase: I
   clinicalTrials: |-
@@ -81,6 +91,8 @@
 - references: []
   antibodies:
   - name: AZD7442 (AZD8895 and AZD1061)
+  description: |-
+    AZD7442 is a potential combination monoclonal antibody therapy (AZD8895 + AZD1061) being developed by AstraZeneca for the prevention and treatment of COVID-19.
   company: AstraZeneca / Paraxel
   phase: I
   clinicalTrials: |-
@@ -88,6 +100,8 @@
 - references: []
   antibodies:
   - name: CT-P59
+  description: |-
+    CT-P59 is a monclonal antibody targeting the SARS-CoV-2 spike protein, which began clinical trials in August 2020.
   company: Celltrion
   phase: I
   clinicalTrials: |-
@@ -109,6 +123,8 @@
 - references: []
   antibodies:
   - name: STI-1499
+  description: |-
+    STI-1499 is a monoclonal antibody targeting the SARS-CoV-2 spike protein, which has begun clinical trials.
   company: Sorrento Therapeutics
   phase: I
   clinicalTrials: |-
@@ -116,6 +132,8 @@
 - references: []
   antibodies:
   - name: SCTA01
+  description: |-
+    SCTA01 is an anti-SARS-CoV-2 monoclonal antibody being studied in clinical trials to neutralizes the SARS-CoV-2 virus and prevent viral entry.
   company: Sinocelltech
   phase: I
   clinicalTrials: |-
@@ -133,3 +151,31 @@
   phase: III
   clinicalTrials: |-
     NCT04545060
+- references: []
+  antibodies:
+  - name: COVI-AMG (STI-2020)
+  company: Sorrento Therapeutics
+  phase: I
+  clinicalTrials: |-
+    NCT04584697
+- references: []
+  antibodies:
+  - name: HLX70
+  company: Hengenix Biotech Inc
+  phase: I
+  clinicalTrials: |-
+    NCT04561076
+- references: []
+  antibodies:
+  - name: ADM03820
+  company: Ology Bioservices
+  phase: I
+  clinicalTrials: |-
+    NCT04592549
+- references: []
+  antibodies:
+  - name: HFB30132A
+  company: HiFiBiO Therapeutics
+  phase: I
+  clinicalTrials: |-
+    NCT04590430
