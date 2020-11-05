@@ -179,22 +179,22 @@
     IGHV: HV3-53
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ6 (Human)
-    IGLV: KV1-39 (Human)
+    IGHJ: "HJ6\n(Human)"
+    IGLV: "KV1-39\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: KJ3 (Human)
+    IGLJ: "KJ3\n(Human)"
   - name: BD-515
     ec50: 200
     species: ''
-    IGHV: HV3-66 (Human)
+    IGHV: "HV3-66\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ4 (Human)
-    IGLV: KV1-39 (Human)
+    IGHJ: "HJ4\n(Human)"
+    IGLV: "KV1-39\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: KJ5 (Human)
+    IGLJ: "KJ5\n(Human)"
   - name: BD-602
     ec50: 11
     ec50Note: PV
@@ -220,14 +220,14 @@
     ec50: 4
     pdb: RBD (7CH5)
     species: ''
-    IGHV: HV3-53 (Human)
+    IGHV: "HV3-53\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ4 (Human)
-    IGLV: KV3-20 (Human)
+    IGHJ: "HJ4\n(Human)"
+    IGLV: "KV3-20\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: KJ1 (Human)
+    IGLJ: "KJ1\n(Human)"
   - name: BD-632
     ec50: 17
   source:
@@ -426,26 +426,26 @@
     ec50: 100
     ec50Note: IC100
     species: ''
-    IGHV: HV7-4-1 (Human)
+    IGHV: "HV7-4-1\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ5 (Human)
-    IGLV: KV1-33 (Human)
+    IGHJ: "HJ5\n(Human)"
+    IGLV: "KV1-33\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: KJ4 (Human)
+    IGLJ: "KJ4\n(Human)"
   - name: HbnC3t1p1_C6
     ec50: 100
     ec50Note: IC100
     species: ''
-    IGHV: HV1-58 (Human)
+    IGHV: "HV1-58\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ3 (Human)
-    IGLV: KV3-20 (Human)
+    IGHJ: "HJ3\n(Human)"
+    IGLV: "KV3-20\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: KJ1 (Human)
+    IGLJ: "KJ1\n(Human)"
   - name: MnC2t1p1_A3
     species: Human
     IGHV: HV3-66
@@ -496,10 +496,10 @@
   - name: CV07-209
     ec50: 3.1
     species: ''
-    IGHV: HV3-11 (Human)
+    IGHV: "HV3-11\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ4 (Human)
+    IGHJ: "HJ4\n(Human)"
     IGLV:
     PcntMutL:
     CDRL3Len:
@@ -547,103 +547,103 @@
   - name: 1-20
     ec50: 7.5
     species: ''
-    IGHV: HV3-53 (Human)
+    IGHV: "HV3-53\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ6 (Human)
-    IGLV: KV1-9 (Human)
+    IGHJ: "HJ6\n(Human)"
+    IGLV: "KV1-9\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: KJ3 (Human)
+    IGLJ: "KJ3\n(Human)"
   - name: 1-57
     ec50: 7.5
     species: ''
-    IGHV: HV3-72 (Human)
+    IGHV: "HV3-72\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ4 (Human)
-    IGLV: KV3-20 (Human)
+    IGHJ: "HJ4\n(Human)"
+    IGLV: "KV3-20\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: KJ2 (Human)
+    IGLJ: "KJ2\n(Human)"
   - name: 2-15
     ec50: 0.8
     species: ''
-    IGHV: HV1-2 (Human)
+    IGHV: "HV1-2\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ3 (Human)
-    IGLV: LV2-14 (Human)
+    IGHJ: "HJ3\n(Human)"
+    IGLV: "LV2-14\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: LJ1 (Human)
+    IGLJ: "LJ1\n(Human)"
   - name: 2-17
     ec50: 6
     species: ''
-    IGHV: HV1-69 (Human)
+    IGHV: "HV1-69\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ5 (Human)
-    IGLV: KV3-15 (Human)
+    IGHJ: "HJ5\n(Human)"
+    IGLV: "KV3-15\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: KJ4 (Human)
+    IGLJ: "KJ4\n(Human)"
   - name: 2-4
     pdb: S trimer (6XEY)
     species: ''
-    IGHV: HV1-2 (Human)
+    IGHV: "HV1-2\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ6 (Human)
-    IGLV: LV2-8 (Human)
+    IGHJ: "HJ6\n(Human)"
+    IGLV: "LV2-8\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: LJ3 (Human)
+    IGLJ: "LJ3\n(Human)"
   - name: 2-43
     pdb: S trimer
     species: ''
-    IGHV: HV1-2 (Human)
+    IGHV: "HV1-2\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ6 (Human)
-    IGLV: LV2-14 (Human)
+    IGHJ: "HJ6\n(Human)"
+    IGLV: "LV2-14\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: LJ3 (Human)
+    IGLJ: "LJ3\n(Human)"
   - name: 2-7
     ec50: 3
     species: ''
-    IGHV: HV2-5 (Human)
+    IGHV: "HV2-5\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ4 (Human)
-    IGLV: LV2-14 (Human)
+    IGHJ: "HJ4\n(Human)"
+    IGLV: "LV2-14\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: LJ3 (Human)
+    IGLJ: "LJ3\n(Human)"
   - name: 4-8
     ec50: 9
     pdb: S trimer
     species: ''
-    IGHV: HV1-69 (Human)
+    IGHV: "HV1-69\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ6 (Human)
-    IGLV: LV3-1 (Human)
+    IGHJ: "HJ6\n(Human)"
+    IGLV: "LV3-1\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: LJ3 (Human)
+    IGLJ: "LJ3\n(Human)"
   - name: 5-24
     ec50: 7.5
     species: ''
-    IGHV: HV3-33 (Human)
+    IGHV: "HV3-33\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ6 (Human)
-    IGLV: KV3-20 (Human)
+    IGHJ: "HJ6\n(Human)"
+    IGLV: "KV3-20\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: KJ4 (Human)
+    IGLJ: "KJ4\n(Human)"
   source:
   - SARS-2 B cells
   - S trimer
@@ -661,14 +661,14 @@
     ec50: 570
     pdb: S trimer (7CAH)
     species: ''
-    IGHV: HV1-69-2 (Mouse)
+    IGHV: "HV1-69-2\n(Mouse)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ6 (Mouse)
-    IGLV: KV6-21 (Mouse)
+    IGHJ: "HJ6\n(Mouse)"
+    IGLV: "KV6-21\n(Mouse)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: KJ2 (Mouse)
+    IGLJ: "KJ2\n(Mouse)"
   source:
   - Phage display
   - Spleen Ab library from mice immunized with SARS-CoV RBD
@@ -847,26 +847,26 @@
     ec50: 2
     ec50Note: PV
     species: ''
-    IGHV: HV7-4-1 (Human)
+    IGHV: "HV7-4-1\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ5 (Human)
-    IGLV: KV1-39 (Human)
+    IGHJ: "HJ5\n(Human)"
+    IGLV: "KV1-39\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: KJ3 (Human)
+    IGLJ: "KJ3\n(Human)"
   - name: CC6.30
     ec50: 1
     ec50Note: PV
     species: ''
-    IGHV: HV1-69 (Human)
+    IGHV: "HV1-69\n(Human)"
     PcntMutH:
     CDRH3Len:
-    IGHJ: HJ5 (Human)
-    IGLV: KV1-39 (Human)
+    IGHJ: "HJ5\n(Human)"
+    IGLV: "KV1-39\n(Human)"
     PcntMutL:
     CDRL3Len:
-    IGLJ: KJ3 (Human)
+    IGLJ: "KJ3\n(Human)"
   source:
   - SARS-2 B cells
   - RBD & S trimer
@@ -1137,7 +1137,7 @@
     IGLJ: KJ4
   - name: H11-H4
     ec50: 90
-    pdb: CR3022 / RBD (6ZH9) (Huo)
+    pdb: CR3022 / RBD (6ZH9)
     species: Alpaca
     IGHV: HV3-3
     PcntMutH: 8%

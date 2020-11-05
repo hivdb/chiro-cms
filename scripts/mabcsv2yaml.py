@@ -295,6 +295,7 @@ def extract_igxx(text, title, pcnt_title=None):
         raise click.ClickException('Invalid IGXX string: {!r}'.format(text))
     groups = match.groups()
     result[title] = re.sub(r'^IG', '', groups[0])
+    result[title] = result[title].replace(' (', '\n(')
     if pcnt_title and len(groups) == 2:
         result[pcnt_title] = groups[1]
     return result

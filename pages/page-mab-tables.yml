@@ -52,71 +52,97 @@ tables:
       _resource: animal-model-mabs.json
 
   publishedMAbs:
+    tableStyle:
+      tableLayout: fixed
     columnDefs:
     - name: references
       label: References
       render: articleList
       sort: articleList
+      headCellStyle:
+        width: 13rem
     - name: source
       label: Source
       render: join
       renderConfig:
         joinBy: ";\n"
       headCellStyle:
-        minWidth: 12rem
+        width: 13rem
     - name: antibodies.name
       label: MAb
       multiCells: true
+      headCellStyle:
+        width: 7.5rem
     - name: antibodies.ec50
       label: EC50
       render: nowrap
       sort: numeric
       multiCells: true
+      headCellStyle:
+        width: 5.5rem
     - name: antibodies.pdb
       label: PDB
       render: nl2br
       multiCells: true
+      headCellStyle:
+        width: 8rem
     - name: description
       label: Description
       textAlign: left
       render: nl2br
       sortable: false
       headCellStyle:
-        minWidth: 25rem
+        width: 28rem
     - name: antibodies.IGHV
       label: IGHV
-      render: nowrap
+      render: nl2br
       multiCells: true
+      headCellStyle:
+        width: 5.5rem
     - name: antibodies.PcntMutH
       label: SHM<sup>H</sup>
       render: nowrap
       sort: numeric
       multiCells: true
+      headCellStyle:
+        width: 4rem
     - name: antibodies.CDRH3Len
       label: H3
       render: nowrap
       multiCells: true
+      headCellStyle:
+        width: 2.5rem
     - name: antibodies.IGHJ
       label: IGHJ
-      render: nowrap
+      render: nl2br
       multiCells: true
+      headCellStyle:
+        width: 5.5rem
     - name: antibodies.IGLV
       label: IGLV
-      render: nowrap
+      render: nl2br
       multiCells: true
+      headCellStyle:
+        width: 5.5rem
     - name: antibodies.PcntMutL
       label: SHM<sup>L</sup>
       render: nowrap
       sort: numeric
       multiCells: true
+      headCellStyle:
+        width: 4rem
     - name: antibodies.CDRL3Len
       label: L3
       render: nowrap
       multiCells: true
+      headCellStyle:
+        width: 2.5rem
     - name: antibodies.IGLJ
       label: IGLJ
-      render: nowrap
+      render: nl2br
       multiCells: true
+      headCellStyle:
+        width: 5.5rem
     data:
       _resource: published-mabs.json
 
