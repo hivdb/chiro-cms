@@ -2,6 +2,7 @@
 
 import re
 import csv
+import json
 import click
 import requests
 import ruamel.yaml
@@ -48,7 +49,7 @@ def smart_split2(text, seps=';\r\n'):
     return [r for r in parts if r]
 
 
-DOI_PATTERN = re.compile(r'(10\.\d{4,}(?:\.\d+)*/[^)\s]+)')
+REFID_PATTERN = re.compile(r'\b[\w-]+\d{2}[a-z]?\b')
 
 
 @lru_cache
@@ -93,12 +94,15 @@ def extract_short_journal_title(result):
         return jtitle
 
 
-def extract_references(row):
-    refs = get_first(row, 'references')
-    if not refs:
+def extract_references(row, refid_lookup):
+    refids = get_first(row, 'refids')
+    if not refids:
         return []
     refobjs = []
-    for doi in DOI_PATTERN.findall(refs):
+    for refid in REFID_PATTERN.findall(refids):
+        doi = refid_lookup.get(refid)
+        if not doi:
+            raise click.ClickException('Unable to find RefID {}'.format(refid))
         message = read_doi(doi)
         journal = extract_journal_title(message)
         journal_short = extract_short_journal_title(message)
@@ -325,6 +329,14 @@ def load_aln_data(fp):
     return lookup
 
 
+def load_refid_lookup(fp):
+    pair = json.load(fp)
+    lookup = {}
+    for row in pair:
+        lookup[row['refId']] = row['doi']
+    return lookup
+
+
 def yaml_filename(groupobj):
     mabnames = []
     for mab in groupobj['antibodies']:
@@ -346,10 +358,11 @@ def mabcsv2yaml(input_mabcsv, alignment, refid_lookup, output_yaml):
 
     mabdata = load_data(input_mabcsv)
     alnlookup = load_aln_data(alignment)
+    refid_lookup = load_refid_lookup(refid_lookup)
     groups = []
     for row in mabdata:
         groupobj = {
-            'references': extract_references(row),
+            'references': extract_references(row, refid_lookup),
             'antibodies': extract_antibodies(row, alnlookup),
         }
         source = get_first(row, 'source', 'sources', required=False)

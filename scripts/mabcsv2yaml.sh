@@ -22,14 +22,17 @@ rm resources/mab-table-data.yml 2>/dev/null || true
 pipenv run python3 scripts/mabcsv2yaml.py \
     ${CSVDIR}/publishedMAbs.csv \
     --alignment ${CSVDIR}/sequences.csv \
+    --refid-lookup ${CSVDIR}/articles.json \
     resources/published-mabs.yml
 
 pipenv run python3 scripts/mabcsv2yaml.py \
     ${CSVDIR}/animalModelMAbs.csv \
+    --refid-lookup ${CSVDIR}/articles.json \
     resources/animal-model-mabs.yml
 
 pipenv run python3 scripts/mabcsv2yaml.py \
     ${CSVDIR}/clinicalTrialMAbs.csv \
+    --refid-lookup ${CSVDIR}/articles.json \
     resources/clinical-trial-mabs.yml
 
 touch resources/

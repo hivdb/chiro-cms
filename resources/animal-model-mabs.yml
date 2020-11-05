@@ -143,6 +143,12 @@
     year: 2020
     journal: The Journal of Immunology
     journalShort: J.I.
+  - doi: 10.1016/j.cell.2020.06.011
+    firstAuthor:
+      surname: Hassan
+      givenNames: Ahmed O.
+    year: 2020
+    journal: Cell
   antibodies:
   - name: 1B07
     weightLoss: ↓↓↓
@@ -158,12 +164,12 @@
   animalModel: |-
     BALB/C mice + AdV-hACE2 + Anti-IFNAR1 Ab
 - references:
-  - doi: 10.1101/2020.08.15.252320
+  - doi: 10.1016/j.cell.2020.09.049
     firstAuthor:
       surname: Kreye
       givenNames: Jakob
     year: 2020
-    journal: bioRxiv
+    journal: Cell
   antibodies:
   - name: CV07-209
     weightLoss: ↓↓↓

@@ -5,8 +5,8 @@ import json
 import requests
 from more_itertools import chunked
 
-IDCONV_API = 'https://www.ncbi.nlm.nih.gov/pmc/utils/idconv/v1.0/'
-IDCONV_EMAIL = 'hivdbteam@stanford.edu'
+ENTREZ_API = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi'
+NCBI_APIKEY = 'c589b6589a876ae42089c059c49249722807'
 
 
 def rows2lookup(rows):
@@ -16,15 +16,23 @@ def rows2lookup(rows):
     pmid2doi = {}
     for partial in chunked(pmids, 150):
         resp = requests.post(
-            IDCONV_API,
-            {'tool': 'hivdb-pmid2doi',
-             'email': IDCONV_EMAIL,
-             'ids': ','.join(partial),
-             'format': 'json'})
+            ENTREZ_API,
+            {'db': 'pubmed',
+             'id': ','.join(partial),
+             'format': 'json',
+             'api_key': NCBI_APIKEY})
         data = resp.json()
-        for one in data['records']:
-            if 'doi' in one:
-                pmid2doi[one['pmid']] = one['doi']
+        pmids = data['result']['uids']
+        for pmid in pmids:
+            one = data['result'][pmid]
+            if 'error' in one:
+                print('Error: {} ({})'.format(one['error'], pmid),
+                      file=sys.stderr)
+                exit(1)
+            for extid in one['articleids']:
+                if extid['idtype'] == 'doi':
+                    pmid2doi[pmid] = extid['value']
+                    break
     results = []
     for row in rows:
         refid = row['RefID'].strip()
