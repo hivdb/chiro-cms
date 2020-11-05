@@ -4,7 +4,7 @@ __RNA-dependent RNA polymerases (RdRp)__ catalyze phosphodiester bond formation 
 
 ![EC50 Distribution of RdRP Compounds](covid-review-figs/rdrp-compounds-ec50.png#!width=35rem)
 
-Coronavirus RNA polymerization is more complex than that of other viruses. First, coronaviruses contain a 3’-to-5’ __exoribonuclease (ExoN; nsp14)__ which is required for replication fidelity[^Minskaia06]. ExoN is responsible for the intrinsic resistance of coronavirus species to ribavirin and several other nucleoside analogs [^10.1371/journal.ppat.1003565][^10.1073/pnas.1718806115]. Second, coronavirus genomes are three times larger than most other RNA genomes and thus require increased processivity which may explains the RdRp (nsp12) requirement for two accessory proteins (nsp7 and nsp8).  Third, the coronavirus RdRp is required for transcribing multiple subgenomic mRNAs in addition to copying the full virus genome. 3D structures of the nsp12-nsp7-nsp8 complex of SARS-CoV [^10.1038/s41467-019-10280-3] and SARS-CoV-2 [^10.1016/j.cell.2020.05.034][^10.1126/science.abb7498][^10.1126/science.abc1560][^10.1038/s41586-020-2368-8] have been solved by cryo-EM.
+Coronavirus RNA polymerization is more complex than that of other viruses. First, coronaviruses contain a 3’-to-5’ __exoribonuclease (ExoN; nsp14)__ which is required for replication fidelity[^Minskaia06]. ExoN is responsible for the intrinsic resistance of coronavirus species to ribavirin and several other nucleoside analogs [^Smith13][^Ferron18]. Second, coronavirus genomes are three times larger than most other RNA genomes and thus require increased processivity which may explain the RdRp (nsp12) requirement for two accessory proteins (nsp7 and nsp8).  Third, the coronavirus RdRp is required for transcribing multiple subgenomic mRNAs in addition to copying the full virus genome. 3D structures of the nsp12-nsp7-nsp8 complex of SARS-CoV [^10.1038/s41467-019-10280-3] and SARS-CoV-2 [^10.1016/j.cell.2020.05.034][^10.1126/science.abb7498][^10.1126/science.abc1560][^10.1038/s41586-020-2368-8] have been solved by cryo-EM.
 
 
 ### Remdesivir
@@ -229,5 +229,6 @@ __Nitazoxanide__: Nitazoxanide is licensed for the treatment of cryptosporidium 
 __Emetine__: Emetine is an FDA-approved drug for treating amebiasis. It is produced from the ipecac root and has been used to induce vomiting. Emetine has been shown in four studies to inhibit multiple coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2 _in vitro_, with EC<sub>50</sub>s consistently below 1.0 μM[^10.1128/AAC.03036-14][^10.1128/JVI.00023-19][^10.1101/2020.02.25.965582][^10.1016/j.antiviral.2020.104786]. Its mechanism of action is not known for certain, although it did inhibit MERS-CoV in an entry inhibitor assay using a pseudotype virus expressing S protein[^10.1128/JVI.00023-19]. After oral administration, its levels in the lungs are much higher than in the plasma and well above its reported EC<sub>50</sub> levels[^10.3390/ph13030051]. Emetine is currently not being studied for the treatment of SARS-CoV-2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzgyODQ5MiwtMTAyODUyOTQ5MF19
+eyJoaXN0b3J5IjpbMTg0MDA5NzEzMCwxMjk3ODI4NDkyLC0xMD
+I4NTI5NDkwXX0=
 -->
