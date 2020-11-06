@@ -1,3 +1,6 @@
+- [Regn-cov2 independent data monitoring committee recommends holding enrollment in hospitalized patients with high oxygen requirements and continuing enrollment in patients with low or no oxygen requirements]($$CMS_PREFIX$$downloads/press-release/Regeneron20201030.pdf)
+- [Regeneron's COVID-19 Outpatient Trial Prospectively Demonstrates that REGN- COV2 Antibody Cocktail Significantly Reduced Virus Levels and Need for Further Medical Attention]($$CMS_PREFIX$$downloads/press-release/Regeneron20201028.pdf)
+- [Lilly Statement Regarding NIH’s ACTIV-3 Clinical Trial]($$CMS_PREFIX$$downloads/press-release/Lilly20201027.pdf)
 - [IFN Lambda EigerBioPharmaceuticals]($$CMS_PREFIX$$downloads/press-release/Eiger20201017.pdf)
 - [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7]($$CMS_PREFIX$$downloads/press-release/Lilly202010071.pdf)
 - [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7]($$CMS_PREFIX$$downloads/press-release/Lilly202010072.pdf)

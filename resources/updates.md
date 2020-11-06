@@ -72,6 +72,9 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- November 05
+    - Bojkova D, Bechtel M, et int., and Cinatl J. [“Aprotinin Inhibits SARS-CoV-2 Replication.”](/search/?article=Bojkova20c) _Cells_, 2020. [doi.org/10.3390/cells9112377](https://doi.org/10.3390/cells9112377). \[[PubMed33143316](https://www.ncbi.nlm.nih.gov/pubmed/33143316/)\]
+    - Li Y, Cao L, et int., and Zhang X. [“Remdesivir Metabolite GS-441524 Effectively Inhibits SARS-CoV-2 Infection in Mice Models.”](/search/?article=Li20g) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.26.353300](https://doi.org/10.1101/2020.10.26.353300).
 - November 04
     - Cai Y, Xu W, et int., and Jiang S. [“Griffithsin with A Broad-Spectrum Antiviral Activity by Binding Glycans in Viral Glycoprotein Exhibits Strong Synergistic Effect in Combination with A Pan-Coronavirus Fusion Inhibitor Targeting SARS-CoV-2 Spike S2 Subunit.”](/search/?article=Cai20b) _Virologica Sinica_, 2020. [doi.org/10.1007/s12250-020-00305-3](https://doi.org/10.1007/s12250-020-00305-3). \[[PubMed33052520](https://www.ncbi.nlm.nih.gov/pubmed/33052520/)\] \[[PMC7554295](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7554295/)\]
     - Weisblum Y, Schmidt F, et int., and Bieniasz PD. [“Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants.”](/search/?article=Weisblum20) _bioRxiv_, 2020. [doi.org/10.1101/2020.07.21.214759](https://doi.org/10.1101/2020.07.21.214759). \[[PubMed32743579](https://www.ncbi.nlm.nih.gov/pubmed/32743579/)\] \[[PMC7386497](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386497/)\]
