@@ -13,6 +13,9 @@ Remdesivir has broad spectrum activity against multiple RNA viruses and inhibits
 
 Remdesivir resistance in a related coronavirus has been selected in the murine hepatitis virus (MHV) during prolonged _in vitro_ passage in the presence of remdesivir[^Agostini18]. The remdesivir-resistant mutations are in the RdRp fingers domain. Introducing the homologous substitutions into SARS-CoV (F480L + V557L) resulted in a virus with reduced replication and about 6-fold reduced remdesivir susceptibility[^Agostini18].
 
+As of November 2020, there have been give ran
+
+
 Remdesivir is administered intravenously with a loading dose of 200 mg followed by 100 mg daily for 5 to 10 days in adult patients[^10.1002/phar.2398][^10.1016/j.onehlt.2020.100128]. Following intravenous administration, the achievable maximum remdesivir plasma concentration (Cmax) is predicted to be at least twice as high as its most commonly reported EC<sub>50</sub>s[^10.1002/cpt.1909]. There have been 3 published randomized clinical trials of remdesivir. The __NIH Adaptive Covid-19 Treatment Trial (ACTT)__[^10.1056/NEJMoa2007764] and a Chinese trial[^10.1016/S0140-6736(20)31022-9] were double-blinded placebo-controlled trials. The Gilead SIMPLE-Severe trial randomized patients to receive 5 vs. 10 days of treatment[^10.1056/NEJMoa2015301].
 
 The NIH Adaptive Trial was the pivotal trial leading to the remdesivir __FDA Emergency Use Authorization (EUA)__. It was a multicenter trial that randomized 1063 persons with severe disease to remdesivir x 10 days vs. placebo. The primary endpoint was the time to clinical improvement defined as being discharged from the hospital or no longer requiring supplemental oxygen. An interim DSMB review was performed after a total of 482 recoveries and 81 deaths. The review showed a statistically significant reduction in the time to recovery from 15 days to 11 days (p<0.001) and a non-statistically significant reduction in mortality by day 14 of 11.9% vs. 7.1% (p=0.06). A subgroup analysis showed that response to therapy was greater in those with less severe disease (not requiring supplemental oxygen or receiving oxygen via nasal cannula) than in those with severe disease (requiring high flow oxygen or mechanical ventilation)[^10.1056/NEJMoa2007764]. Serious adverse events occurred at similar rates in both groups (21.1% for remdesivir vs 27.0% for placebo).
@@ -228,8 +231,8 @@ __Nitazoxanide__: Nitazoxanide is licensed for the treatment of cryptosporidium 
 __Emetine__: Emetine is an FDA-approved drug for treating amebiasis. It is produced from the ipecac root and has been used to induce vomiting. Emetine has been shown in four studies to inhibit multiple coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2 _in vitro_, with EC<sub>50</sub>s consistently below 1.0 μM[^10.1128/AAC.03036-14][^10.1128/JVI.00023-19][^10.1101/2020.02.25.965582][^10.1016/j.antiviral.2020.104786]. Its mechanism of action is not known for certain, although it did inhibit MERS-CoV in an entry inhibitor assay using a pseudotype virus expressing S protein[^10.1128/JVI.00023-19]. After oral administration, its levels in the lungs are much higher than in the plasma and well above its reported EC<sub>50</sub> levels[^10.3390/ph13030051]. Emetine is currently not being studied for the treatment of SARS-CoV-2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODIwMjMzNCwxMTMyMDIxOTE5LDE3OD
-gxNzc1NDAsMTI2NTI1MTYyNywtMjExOTMxNjUwNSwyMTA3OTM0
-ODcyLC00MjI4NDUyNzgsMTI5NzgyODQ5MiwtMTAyODUyOTQ5MF
-19
+eyJoaXN0b3J5IjpbLTE0OTUzMDc3ODEsLTQyODIwMjMzNCwxMT
+MyMDIxOTE5LDE3ODgxNzc1NDAsMTI2NTI1MTYyNywtMjExOTMx
+NjUwNSwyMTA3OTM0ODcyLC00MjI4NDUyNzgsMTI5NzgyODQ5Mi
+wtMTAyODUyOTQ5MF19
 -->
