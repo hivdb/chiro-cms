@@ -9,9 +9,11 @@ Coronavirus RNA polymerization is more complex than that of other viruses. First
 ### Remdesivir
 Remdesivir (GS-5734, Veklury) is the monophosphate prodrug of the parent 1’-cyano-substituted adenine C-nucleoside analogue __GS-441524__[^Siegel17]. The presence of the phosphate group allows for more efficient metabolism of the prodrug to the active nucleoside triphosphate form bypassing the rate-limiting first phosphorylation step[^Warren16]. Remdesivir is a non-obligate chain terminator in that it contains a 3’-OH group. It causes __delayed chain termination__ due to a steric clash after the addition of three trailing nucleosides[^Gordon20][^Gordon20b][^Shannon20b]. The fact that chain termination does not occur until additional nucleoside triphosphates have been added explains the mechanism by remdesivir eludes the coronavirus exonuclease.
 
-Remdesivir has broad spectrum activity against multiple RNA viruses and inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2 with most reported half-maximal effective concentrations (EC<sub>50</sub>s) below 1 μM[^Sheahan17][^Agostini18][^Sheahan20][^Wang20][^Pruijssers20][^Choy20][^Jeon20]. It inhibits coronaviruses in multiple cell types including primary human airway epithelial cells[^Sheahan17][^Pruijssers20]. Animal model experiments have demonstrated that remdesivir can reduce lung virus levels and lung damage in mice infected with MERS-CoV and SARS-CoV[^Sheahan17], rhesus macaques infected with MERS-CoV[^Sheahan17][^deWit20], [^10.1126/scitranslmed.aal3653][^10.1073/pnas.1922083117], and mice and rhesus macaques infected with SARS-CoV-2[^Pruijssers20][^Williamson2
+Remdesivir has broad spectrum activity against multiple RNA viruses and inhibits SARS-CoV, MERS-CoV, and SARS-CoV-2 with most reported half-maximal effective concentrations (EC<sub>50</sub>s) below 1 μM[^Sheahan17][^Agostini18][^Sheahan20][^Wang20][^Pruijssers20][^Choy20][^Jeon20]. It inhibits coronaviruses in multiple cell types including primary human airway epithelial cells[^Sheahan17][^Pruijssers20]. Animal model experiments have demonstrated that remdesivir can reduce lung virus levels and lung damage in mice infected with MERS-CoV and SARS-CoV[^Sheahan17], rhesus macaques infected with MERS-CoV[^Sheahan17][^deWit20], [^10.1126/scitranslmed.aal3653][^10.1073/pnas.1922083117], and mice and rhesus macaques infected with SARS-CoV-2[^Pruijssers20][^Williamson20].
 
-Remdesivir resistance in a related coronavirus has been selected in the murine hepatitis virus (MHV) during prolonged _in vitro_ passage in the presence of remdesivir[^10.1128/mBio.00221-18]. The remdesivir-resistant mutations are in the RdRp fingers domain. Introducing the homologous substitutions into SARS-CoV (F480L + V557L) resulted in a virus with reduced replication and about 6-fold reduced remdesivir susceptibility[^10.1128/mBio.00221-18].
+Remdesivir resistance in a related coronavirus has been selected in the murine hepatitis virus (MHV) during prolonged _in vitro_ passage in the presence of remdesivir[^Agostini
+
+[^10.1128/mBio.00221-18]. The remdesivir-resistant mutations are in the RdRp fingers domain. Introducing the homologous substitutions into SARS-CoV (F480L + V557L) resulted in a virus with reduced replication and about 6-fold reduced remdesivir susceptibility[^10.1128/mBio.00221-18].
 
 Remdesivir is administered intravenously with a loading dose of 200 mg followed by 100 mg daily for 5 to 10 days in adult patients[^10.1002/phar.2398][^10.1016/j.onehlt.2020.100128]. Following intravenous administration, the achievable maximum remdesivir plasma concentration (Cmax) is predicted to be at least twice as high as its most commonly reported EC<sub>50</sub>s[^10.1002/cpt.1909]. There have been 3 published randomized clinical trials of remdesivir. The __NIH Adaptive Covid-19 Treatment Trial (ACTT)__[^10.1056/NEJMoa2007764] and a Chinese trial[^10.1016/S0140-6736(20)31022-9] were double-blinded placebo-controlled trials. The Gilead SIMPLE-Severe trial randomized patients to receive 5 vs. 10 days of treatment[^10.1056/NEJMoa2015301].
 
@@ -228,8 +230,8 @@ __Nitazoxanide__: Nitazoxanide is licensed for the treatment of cryptosporidium 
 __Emetine__: Emetine is an FDA-approved drug for treating amebiasis. It is produced from the ipecac root and has been used to induce vomiting. Emetine has been shown in four studies to inhibit multiple coronaviruses including SARS-CoV, MERS-CoV, and SARS-CoV-2 _in vitro_, with EC<sub>50</sub>s consistently below 1.0 μM[^10.1128/AAC.03036-14][^10.1128/JVI.00023-19][^10.1101/2020.02.25.965582][^10.1016/j.antiviral.2020.104786]. Its mechanism of action is not known for certain, although it did inhibit MERS-CoV in an entry inhibitor assay using a pseudotype virus expressing S protein[^10.1128/JVI.00023-19]. After oral administration, its levels in the lungs are much higher than in the plasma and well above its reported EC<sub>50</sub> levels[^10.3390/ph13030051]. Emetine is currently not being studied for the treatment of SARS-CoV-2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg1NTE4MzQ1LDExMzIwMjE5MTksMTc4OD
-E3NzU0MCwxMjY1MjUxNjI3LC0yMTE5MzE2NTA1LDIxMDc5MzQ4
-NzIsLTQyMjg0NTI3OCwxMjk3ODI4NDkyLC0xMDI4NTI5NDkwXX
-0=
+eyJoaXN0b3J5IjpbMTI5MDY4NzE5NywxMTMyMDIxOTE5LDE3OD
+gxNzc1NDAsMTI2NTI1MTYyNywtMjExOTMxNjUwNSwyMTA3OTM0
+ODcyLC00MjI4NDUyNzgsMTI5NzgyODQ5MiwtMTAyODUyOTQ5MF
+19
 -->
