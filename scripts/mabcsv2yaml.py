@@ -3,12 +3,14 @@
 import re
 import csv
 import json
+from functools import lru_cache
+from collections import defaultdict
+
 import click
 import requests
 import ruamel.yaml
 from ruamel.yaml.scalarstring import PreservedScalarString
 
-from functools import lru_cache
 
 yaml = ruamel.yaml.YAML()
 
@@ -200,7 +202,7 @@ def extract_pdb(row, ab_names):
     if not pdbs:
         return {}
     pdbs = smart_split2(pdbs, ';')
-    pdblookup = {}
+    pdblookup = defaultdict(list)
     for pdbdesc in pdbs:
         for ab_name in ab_names:
             if not contains_word(pdbdesc, ab_name):
@@ -208,12 +210,12 @@ def extract_pdb(row, ab_names):
             for part in pdbdesc.split(ab_name, 1):
                 part = part.strip(': \t')
                 if part and '*' not in part:
-                    pdblookup[ab_name] = part
+                    pdblookup[ab_name].append(part)
                     break
             break
     if not pdblookup and pdbs and len(ab_names) == 1:
-        pdblookup[ab_names[0]] = '\n'.join(pdbs)
-    return pdblookup
+        pdblookup[ab_names[0]] = pdbs
+    return {name: '\n'.join(pdbs) for name, pdbs in pdblookup.items()}
 
 
 def extract_animal_model_field(row, ab_names, *field_names):

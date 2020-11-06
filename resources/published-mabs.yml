@@ -163,8 +163,9 @@
     IGLJ:
   - name: BD-368-2
     ec50: 15
-    pdb: S Trimer (7CHH)
-    species: ''
+    pdb: "S Trimer (7CHH)\nBD-604 / RBD (7CHF)\nBD-236 / RBD (7CHE)\nBD-629 /RBD (7CHC)\n\
+      BD-604\nBD-629\nBD-236"
+    species: Human
     IGHV: HV3-23
     PcntMutH:
     CDRH3Len:
@@ -175,26 +176,26 @@
     IGLJ: KJ5
   - name: BD-503
     ec50: 140
-    species: ''
+    species: Human
     IGHV: HV3-53
     PcntMutH:
-    CDRH3Len:
-    IGHJ: "HJ6\n(Human)"
-    IGLV: "KV1-39\n(Human)"
+    CDRH3Len: 11
+    IGHJ: HJ6
+    IGLV: KV1-39
     PcntMutL:
-    CDRL3Len:
-    IGLJ: "KJ3\n(Human)"
+    CDRL3Len: 10
+    IGLJ: KJ3
   - name: BD-515
     ec50: 200
-    species: ''
-    IGHV: "HV3-66\n(Human)"
+    species: Human
+    IGHV: HV3-66
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ4\n(Human)"
-    IGLV: "KV1-39\n(Human)"
+    IGHJ: HJ4
+    IGLV: KV1-39
     PcntMutL:
     CDRL3Len:
-    IGLJ: "KJ5\n(Human)"
+    IGLJ: KJ5
   - name: BD-602
     ec50: 11
     ec50Note: PV
@@ -219,22 +220,22 @@
   - name: BD-629
     ec50: 4
     pdb: RBD (7CH5)
-    species: ''
-    IGHV: "HV3-53\n(Human)"
+    species: Human
+    IGHV: HV3-53
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ4\n(Human)"
-    IGLV: "KV3-20\n(Human)"
+    IGHJ: HJ4
+    IGLV: KV3-20
     PcntMutL:
     CDRL3Len:
-    IGLJ: "KJ1\n(Human)"
+    IGLJ: KJ1
   - name: BD-632
     ec50: 17
   source:
   - SARS-2 B cells
   - RBD & S trimer
   description: |-
-    BD-368-2 is an ACE2-competing mAb that can occupy all three RBDs simultaneously regardless of its configuration. It also does not compete with the ACE2-competing mAbs encoded by VH3-53/66. BD-604. BD-629, and BD-236 are ACE2-competing mAbs that bind RBD in its up configuration. BD-23 is an ACE2-competing mAb that binds RBD in its down configuration. BD-368-2 reduced weight loss and virus levels in a mouse treatment and prevention model.
+    BD-368-2 is an ACE2-competing mAb that can occupy all three RBDs simultaneously regardless of its configuration. It also does not compete with the ACE2-competing mAbs encoded by VH3-53/66. BD-604, BD-629, and BD-236 are ACE2-competing mAbs that bind RBD in its up configuration. BD-23 is an ACE2-competing mAb that binds RBD in its down configuration. BD-368-2 reduced weight loss and virus levels in a mouse treatment and prevention model.
 - references:
   - doi: 10.1038/s41423-020-0426-7
     firstAuthor:
@@ -384,7 +385,7 @@
   source:
   - Humanized mice immunized with S boosted with RBD
   description: |-
-    REGN10933 and REGN10987 are ACE2=competing mAbs that bind to non-overlapping RBD epitopes. This combination of mAbs also reduce weight loss, lung pathology, and virus levels in mouse treatment and prevention models.
+    REGN10933 and REGN10987 are ACE2-competing mAbs that bind to non-overlapping RBD epitopes. This combination of mAbs also reduce weight loss, lung pathology, and virus levels in mouse treatment and prevention models.
 - references:
   - doi: 10.1038/s41586-020-2380-z
     firstAuthor:
@@ -425,27 +426,27 @@
   - name: FnC1t2p1_D4
     ec50: 100
     ec50Note: IC100
-    species: ''
-    IGHV: "HV7-4-1\n(Human)"
+    species: Human
+    IGHV: HV7-4-1
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ5\n(Human)"
-    IGLV: "KV1-33\n(Human)"
+    IGHJ: HJ5
+    IGLV: KV1-33
     PcntMutL:
     CDRL3Len:
-    IGLJ: "KJ4\n(Human)"
+    IGLJ: KJ4
   - name: HbnC3t1p1_C6
     ec50: 100
     ec50Note: IC100
-    species: ''
-    IGHV: "HV1-58\n(Human)"
+    species: Human
+    IGHV: HV1-58
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ3\n(Human)"
-    IGLV: "KV3-20\n(Human)"
+    IGHJ: HJ3
+    IGLV: KV3-20
     PcntMutL:
     CDRL3Len:
-    IGLJ: "KJ1\n(Human)"
+    IGLJ: KJ1
   - name: MnC2t1p1_A3
     species: Human
     IGHV: HV3-66
@@ -495,11 +496,11 @@
   antibodies:
   - name: CV07-209
     ec50: 3.1
-    species: ''
-    IGHV: "HV3-11\n(Human)"
+    species: Human
+    IGHV: HV3-11
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ4\n(Human)"
+    IGHJ: HJ4
     IGLV:
     PcntMutL:
     CDRL3Len:
@@ -522,12 +523,13 @@
   description: |-
     CV07-209 is an ACE2 competing mAb. CV07-270's epitope mimimally overlaps with ACE2 binding residues. CV07-209 reduces weight loss, lung pathology, and virus levels in a hamster prevention and treatment model.
 - references:
-  - doi: 10.1101/2020.05.13.093088
+  - doi: 10.1073/pnas.2010197117
     firstAuthor:
       surname: Li
       givenNames: Wei
     year: 2020
-    journal: bioRxiv
+    journal: Proceedings of the National Academy of Sciences
+    journalShort: Proc Natl Acad Sci USA
   antibodies:
   - name: ab1
     ec50: 195
@@ -546,104 +548,104 @@
   antibodies:
   - name: 1-20
     ec50: 7.5
-    species: ''
-    IGHV: "HV3-53\n(Human)"
+    species: Human
+    IGHV: HV3-53
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ6\n(Human)"
-    IGLV: "KV1-9\n(Human)"
+    IGHJ: HJ6
+    IGLV: KV1-9
     PcntMutL:
     CDRL3Len:
-    IGLJ: "KJ3\n(Human)"
+    IGLJ: KJ3
   - name: 1-57
     ec50: 7.5
-    species: ''
-    IGHV: "HV3-72\n(Human)"
+    species: Human
+    IGHV: HV3-72
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ4\n(Human)"
-    IGLV: "KV3-20\n(Human)"
+    IGHJ: HJ4
+    IGLV: KV3-20
     PcntMutL:
     CDRL3Len:
-    IGLJ: "KJ2\n(Human)"
+    IGLJ: KJ2
   - name: 2-15
     ec50: 0.8
-    species: ''
-    IGHV: "HV1-2\n(Human)"
+    species: Human
+    IGHV: HV1-2
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ3\n(Human)"
-    IGLV: "LV2-14\n(Human)"
+    IGHJ: HJ3
+    IGLV: LV2-14
     PcntMutL:
     CDRL3Len:
-    IGLJ: "LJ1\n(Human)"
+    IGLJ: LJ1
   - name: 2-17
     ec50: 6
-    species: ''
-    IGHV: "HV1-69\n(Human)"
+    species: Human
+    IGHV: HV1-69
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ5\n(Human)"
-    IGLV: "KV3-15\n(Human)"
+    IGHJ: HJ5
+    IGLV: KV3-15
     PcntMutL:
     CDRL3Len:
-    IGLJ: "KJ4\n(Human)"
+    IGLJ: KJ4
   - name: 2-4
     pdb: S trimer (6XEY)
-    species: ''
-    IGHV: "HV1-2\n(Human)"
+    species: Human
+    IGHV: HV1-2
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ6\n(Human)"
-    IGLV: "LV2-8\n(Human)"
+    IGHJ: HJ6
+    IGLV: LV2-8
     PcntMutL:
     CDRL3Len:
-    IGLJ: "LJ3\n(Human)"
+    IGLJ: LJ3
   - name: 2-43
     pdb: S trimer
-    species: ''
-    IGHV: "HV1-2\n(Human)"
+    species: Human
+    IGHV: HV1-2
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ6\n(Human)"
-    IGLV: "LV2-14\n(Human)"
+    IGHJ: HJ6
+    IGLV: LV2-14
     PcntMutL:
     CDRL3Len:
-    IGLJ: "LJ3\n(Human)"
+    IGLJ: LJ3
   - name: 2-7
     ec50: 3
-    species: ''
-    IGHV: "HV2-5\n(Human)"
+    species: Human
+    IGHV: HV2-5
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ4\n(Human)"
-    IGLV: "LV2-14\n(Human)"
+    IGHJ: HJ4
+    IGLV: LV2-14
     PcntMutL:
     CDRL3Len:
-    IGLJ: "LJ3\n(Human)"
+    IGLJ: LJ3
   - name: 4-8
     ec50: 9
     pdb: S trimer
-    species: ''
-    IGHV: "HV1-69\n(Human)"
+    species: Human
+    IGHV: HV1-69
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ6\n(Human)"
-    IGLV: "LV3-1\n(Human)"
+    IGHJ: HJ6
+    IGLV: LV3-1
     PcntMutL:
     CDRL3Len:
-    IGLJ: "LJ3\n(Human)"
+    IGLJ: LJ3
   - name: 5-24
     ec50: 7.5
-    species: ''
-    IGHV: "HV3-33\n(Human)"
+    species: Human
+    IGHV: HV3-33
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ6\n(Human)"
-    IGLV: "KV3-20\n(Human)"
+    IGHJ: HJ6
+    IGLV: KV3-20
     PcntMutL:
     CDRL3Len:
-    IGLJ: "KJ4\n(Human)"
+    IGLJ: KJ4
   source:
   - SARS-2 B cells
   - S trimer
@@ -660,15 +662,15 @@
   - name: H014
     ec50: 570
     pdb: S trimer (7CAH)
-    species: ''
-    IGHV: "HV1-69-2\n(Mouse)"
+    species: Mouse
+    IGHV: HV1-69-2
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ6\n(Mouse)"
-    IGLV: "KV6-21\n(Mouse)"
+    IGHJ: HJ6
+    IGLV: KV6-21
     PcntMutL:
     CDRL3Len:
-    IGLJ: "KJ2\n(Mouse)"
+    IGLJ: KJ2
   source:
   - Phage display
   - Spleen Ab library from mice immunized with SARS-CoV RBD
@@ -746,18 +748,12 @@
     year: 2020
     journal: bioRxiv
   antibodies:
-  - name: C102
-    species: Human
-    IGHV: HV3-53
-    PcntMutH: 3%
-    CDRH3Len: 11
-    IGHJ: HJ4
-    IGLV: KV3-20
-    PcntMutL: 0%
-    CDRL3Len: 9
-    IGLJ: KJ1
+  - name: C002
+    ec50: 8.9
+    ec50Note: PV
   - name: C105
-    ec50: 26
+    ec50: 26.1
+    ec50Note: PV
     pdb: S trimer (6XCM, 6XCN)
     species: Human
     IGHV: HV3-53
@@ -770,6 +766,7 @@
     IGLJ: LJ3
   - name: C121
     ec50: 1.6
+    ec50Note: PV
     species: Human
     IGHV: HV1-2
     PcntMutH: 2%
@@ -781,6 +778,7 @@
     IGLJ: LJ3
   - name: C135
     ec50: 3
+    ec50Note: PV
     species: Human
     IGHV: HV3-30
     PcntMutH: 4%
@@ -791,7 +789,8 @@
     CDRL3Len: 9
     IGLJ: KJ1
   - name: C144
-    ec50: 2.5
+    ec50: 2.6
+    ec50Note: PV
     species: Human
     IGHV: HV3-53
     PcntMutH: 3%
@@ -822,7 +821,7 @@
   antibodies:
   - name: CC12.1
     ec50: 46
-    pdb: RBD + CR3022 (6XC3)
+    pdb: "RBD (6XC2)\nRBD + CR3022 (6XC3)"
     species: Human
     IGHV: HV3-53
     PcntMutH: 2%
@@ -833,7 +832,7 @@
     CDRL3Len: 11
     IGLJ: KJ3
   - name: CC12.3
-    pdb: RBD + CR3022 (6XC7)
+    pdb: "RBD (6XC4)\nRBD + CR3022 (6XC7)"
     species: Human
     IGHV: HV3-53
     PcntMutH: 4%
@@ -846,27 +845,27 @@
   - name: CC6.29
     ec50: 2
     ec50Note: PV
-    species: ''
-    IGHV: "HV7-4-1\n(Human)"
+    species: Human
+    IGHV: HV7-4-1
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ5\n(Human)"
-    IGLV: "KV1-39\n(Human)"
+    IGHJ: HJ5
+    IGLV: KV1-39
     PcntMutL:
     CDRL3Len:
-    IGLJ: "KJ3\n(Human)"
+    IGLJ: KJ3
   - name: CC6.30
     ec50: 1
     ec50Note: PV
-    species: ''
-    IGHV: "HV1-69\n(Human)"
+    species: Human
+    IGHV: HV1-69
     PcntMutH:
     CDRH3Len:
-    IGHJ: "HJ5\n(Human)"
-    IGLV: "KV1-39\n(Human)"
+    IGHJ: HJ5
+    IGLV: KV1-39
     PcntMutL:
     CDRL3Len:
-    IGLJ: "KJ3\n(Human)"
+    IGLJ: KJ3
   source:
   - SARS-2 B cells
   - RBD & S trimer
@@ -980,11 +979,11 @@
     species: ''
     IGHV:
     PcntMutH:
-    CDRH3Len:
+    CDRH3Len: 19
     IGHJ:
     IGLV:
     PcntMutL:
-    CDRL3Len:
+    CDRL3Len: 11
     IGLJ:
   source:
   - SARS-2 B cells
@@ -1151,7 +1150,7 @@
   - SARS-CoV-2 plasmablasts
   - ELISA S1 & Spike
   description: |-
-    EY6A is a non-ACE2 competing mAb that cross-neutralizes SARS-CoV-1 and cross-neutralizes SARS-CoV-1.
+    EY6A is a non-ACE2 competing mAb that cross-neutralizes SARS-CoV-1.
 - references:
   - doi: 10.1038/s41591-020-0998-x
     firstAuthor:
@@ -1203,7 +1202,7 @@
   - SARS-2 B cells
   - RBD & S trimer
   description: |-
-    COV2-2196 and COV2-2130 are ACE2-competing mAbs that bind to nonoverlapping RBD epitopes. COV2-2196 binds RBD in the configuration; COV2-2130 binds RBD in the up and down configuration. Each mAb reduces weight loss and lung virus levels in a mouse prevention model. COV2-2196 redices lung virus levels in rhesus macaques.
+    COV2-2196 and COV2-2130 are ACE2-competing mAbs that bind to nonoverlapping RBD epitopes. COV2-2196 binds RBD in the ??? configuration; COV2-2130 binds RBD in the up and down configuration. Each mAb reduces weight loss and lung virus levels in a mouse prevention model. COV2-2196 reduces lung virus levels in rhesus macaques.
 - references:
   - doi: 10.1101/2020.09.11.292631
     firstAuthor:

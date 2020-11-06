@@ -124,12 +124,13 @@
     Mice (COV2-2196 and/or 2 COV2-2130);
     Rhesus macaques (COV2-2196 or COV2-2381)
 - references:
-  - doi: 10.1101/2020.05.13.093088
+  - doi: 10.1073/pnas.2010197117
     firstAuthor:
       surname: Li
       givenNames: Wei
     year: 2020
-    journal: bioRxiv
+    journal: Proceedings of the National Academy of Sciences
+    journalShort: Proc Natl Acad Sci USA
   antibodies:
   - name: ab1
     lungVL: ↓↓↓
