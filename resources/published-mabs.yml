@@ -167,12 +167,12 @@
       BD-604\nBD-629\nBD-236"
     species: Human
     IGHV: HV3-23
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 9%
+    CDRH3Len: 18
     IGHJ: HJ4
     IGLV: KV2-28
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 0%
+    CDRL3Len: 9
     IGLJ: KJ5
   - name: BD-503
     ec50: 140
@@ -222,12 +222,12 @@
     pdb: RBD (7CH5)
     species: Human
     IGHV: HV3-53
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 4%
+    CDRH3Len: 11
     IGHJ: HJ4
     IGLV: KV3-20
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 4%
+    CDRL3Len: 9
     IGLJ: KJ1
   - name: BD-632
     ec50: 17
@@ -428,24 +428,24 @@
     ec50Note: IC100
     species: Human
     IGHV: HV7-4-1
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 6%
+    CDRH3Len: 11
     IGHJ: HJ5
     IGLV: KV1-33
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 3%
+    CDRL3Len: 9
     IGLJ: KJ4
   - name: HbnC3t1p1_C6
     ec50: 100
     ec50Note: IC100
     species: Human
     IGHV: HV1-58
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 0%
+    CDRH3Len: 16
     IGHJ: HJ3
     IGLV: KV3-20
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 1%
+    CDRL3Len: 9
     IGLJ: KJ1
   - name: MnC2t1p1_A3
     species: Human
@@ -498,13 +498,13 @@
     ec50: 3.1
     species: Human
     IGHV: HV3-11
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 1%
+    CDRH3Len: 12
     IGHJ: HJ4
-    IGLV:
-    PcntMutL:
-    CDRL3Len:
-    IGLJ:
+    IGLV: KV1-33
+    PcntMutL: 0%
+    CDRL3Len: 9
+    IGLJ: KJ4
   - name: CV07-270
     ec50: 82
     pdb: RBD (6XKP)
@@ -550,101 +550,101 @@
     ec50: 7.5
     species: Human
     IGHV: HV3-53
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 2%
+    CDRH3Len: 11
     IGHJ: HJ6
     IGLV: KV1-9
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 0%
+    CDRL3Len: 8
     IGLJ: KJ3
   - name: 1-57
     ec50: 7.5
     species: Human
     IGHV: HV3-72
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 2%
+    CDRH3Len: 21
     IGHJ: HJ4
     IGLV: KV3-20
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 0%
+    CDRL3Len: 9
     IGLJ: KJ2
   - name: 2-15
     ec50: 0.8
     species: Human
     IGHV: HV1-2
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 5%
+    CDRH3Len: 22
     IGHJ: HJ3
     IGLV: LV2-14
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 4%
+    CDRL3Len: 10
     IGLJ: LJ1
   - name: 2-17
     ec50: 6
     species: Human
     IGHV: HV1-69
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 1%
+    CDRH3Len: 17
     IGHJ: HJ5
     IGLV: KV3-15
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 3%
+    CDRL3Len: 10
     IGLJ: KJ4
   - name: 2-4
     pdb: S trimer (6XEY)
     species: Human
     IGHV: HV1-2
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 3%
+    CDRH3Len: 15
     IGHJ: HJ6
     IGLV: LV2-8
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 0%
+    CDRL3Len: 10
     IGLJ: LJ3
   - name: 2-43
     pdb: S trimer
     species: Human
     IGHV: HV1-2
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 2%
+    CDRH3Len: 22
     IGHJ: HJ6
     IGLV: LV2-14
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 3%
+    CDRL3Len: 10
     IGLJ: LJ3
   - name: 2-7
     ec50: 3
     species: Human
     IGHV: HV2-5
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 0%
+    CDRH3Len: 11
     IGHJ: HJ4
     IGLV: LV2-14
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 4%
+    CDRL3Len: 9
     IGLJ: LJ3
   - name: 4-8
     ec50: 9
     pdb: S trimer
     species: Human
     IGHV: HV1-69
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 3%
+    CDRH3Len: 18
     IGHJ: HJ6
     IGLV: LV3-1
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 1%
+    CDRL3Len: 9
     IGLJ: LJ3
   - name: 5-24
     ec50: 7.5
     species: Human
     IGHV: HV3-33
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 5%
+    CDRH3Len: 22
     IGHJ: HJ6
     IGLV: KV3-20
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 1%
+    CDRL3Len: 10
     IGLJ: KJ4
   source:
   - SARS-2 B cells
@@ -664,12 +664,12 @@
     pdb: S trimer (7CAH)
     species: Mouse
     IGHV: HV1-69-2
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 20%
+    CDRH3Len: 13
     IGHJ: HJ6
     IGLV: KV6-21
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 8%
+    CDRL3Len: 9
     IGLJ: KJ2
   source:
   - Phage display
@@ -751,6 +751,15 @@
   - name: C002
     ec50: 8.9
     ec50Note: PV
+    species: Human
+    IGHV: HV3-30
+    PcntMutH: 2%
+    CDRH3Len: 17
+    IGHJ: HJ4
+    IGLV: KV1-39
+    PcntMutL: 1%
+    CDRL3Len: 9
+    IGLJ: KJ1
   - name: C105
     ec50: 26.1
     ec50Note: PV
@@ -847,24 +856,24 @@
     ec50Note: PV
     species: Human
     IGHV: HV7-4-1
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 8%
+    CDRH3Len: 15
     IGHJ: HJ5
     IGLV: KV1-39
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 5%
+    CDRL3Len: 9
     IGLJ: KJ3
   - name: CC6.30
     ec50: 1
     ec50Note: PV
     species: Human
     IGHV: HV1-69
-    PcntMutH:
-    CDRH3Len:
+    PcntMutH: 3%
+    CDRH3Len: 18
     IGHJ: HJ5
     IGLV: KV1-39
-    PcntMutL:
-    CDRL3Len:
+    PcntMutL: 3%
+    CDRL3Len: 9
     IGLJ: KJ3
   source:
   - SARS-2 B cells
