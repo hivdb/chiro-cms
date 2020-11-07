@@ -1144,7 +1144,7 @@
     CDRL3Len: 10
     IGLJ: KJ4
   - name: H11-H4
-    ec50: 90
+    ec50: 600
     pdb: CR3022 / RBD (6ZH9)
     species: Alpaca
     IGHV: HV3-3
@@ -1211,7 +1211,7 @@
   - SARS-2 B cells
   - RBD & S trimer
   description: |-
-    COV2-2196 and COV2-2130 are ACE2-competing mAbs that bind to nonoverlapping RBD epitopes. COV2-2196 binds RBD in the ??? configuration; COV2-2130 binds RBD in the up and down configuration. Each mAb reduces weight loss and lung virus levels in a mouse prevention model. COV2-2196 reduces lung virus levels in rhesus macaques.
+    COV2-2196 and COV2-2130 are ACE2-competing mAbs that bind to nonoverlapping RBD epitopes. COV2-2196 binds RBD in the up configuration; COV2-2130 binds RBD in the up and down configuration. Each mAb reduces weight loss and lung virus levels in a mouse prevention model. COV2-2196 reduces lung virus levels in rhesus macaques.
 - references:
   - doi: 10.1101/2020.09.11.292631
     firstAuthor:
