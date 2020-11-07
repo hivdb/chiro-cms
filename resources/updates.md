@@ -72,6 +72,9 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- November 07
+    - Chi X, Liu X, et int., and Yang W. [“Humanized single domain antibodies neutralize SARS-CoV-2 by targeting the spike receptor binding domain.”](/search/?article=Chi20b) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-18387-8](https://doi.org/10.1038/s41467-020-18387-8). \[[PubMed32913273](https://www.ncbi.nlm.nih.gov/pubmed/32913273/)\] \[[PMC7483421](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7483421/)\]
+    - de Vries RD, Schmitz KS, et int., and Porotto M. [“Intranasal fusion inhibitory lipopeptide prevents direct contact SARS-CoV-2 transmission in ferrets.”](/search/?article=deVries20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.04.361154](https://doi.org/10.1101/2020.11.04.361154).
 - November 05
     - Bojkova D, Bechtel M, et int., and Cinatl J. [“Aprotinin Inhibits SARS-CoV-2 Replication.”](/search/?article=Bojkova20c) _Cells_, 2020. [doi.org/10.3390/cells9112377](https://doi.org/10.3390/cells9112377). \[[PubMed33143316](https://www.ncbi.nlm.nih.gov/pubmed/33143316/)\]
     - Li Y, Cao L, et int., and Zhang X. [“Remdesivir Metabolite GS-441524 Effectively Inhibits SARS-CoV-2 Infection in Mice Models.”](/search/?article=Li20g) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.26.353300](https://doi.org/10.1101/2020.10.26.353300).
@@ -736,6 +739,9 @@ Instruction:
     - de Wit E, Feldmann F, et int., and Feldmann H. [“Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection.”](/search/?article=deWit20) _Proceedings of the National Academy of Sciences_, 2020. [doi.org/10.1073/pnas.1922083117](https://doi.org/10.1073/pnas.1922083117). \[[PubMed32054787](https://www.ncbi.nlm.nih.gov/pubmed/32054787/)\] \[[PMC7104368](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7104368/)\]
 ## Preprints => Peer-Reviewed Publications
 ### November 2020
+- November 07
+    - Custódio TF, Das H, et int., and Löw C. [“Selection, biophysical and structural analysis of synthetic nanobodies that effectively neutralize SARS-CoV-2.”](/search/?article=Custodio20) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-19204-y](https://doi.org/10.1038/s41467-020-19204-y). \[[PubMed33149112](https://www.ncbi.nlm.nih.gov/pubmed/33149112/)\]
+    - Schoof M, Faust B, et int., and Manglik A. [“An ultrapotent synthetic nanobody neutralizes SARS-CoV-2 by stabilizing inactive Spike.”](/search/?article=Schoof20) _Science_, 2020. [doi.org/10.1126/science.abe3255](https://doi.org/10.1126/science.abe3255). \[[PubMed33154106](https://www.ncbi.nlm.nih.gov/pubmed/33154106/)\]
 - November 4
     - Li W, Chen C, et int., and Dimitrov DS. [“Rapid identification of a human antibody with high prophylactic and therapeutic efficacy in three animal models of SARS-CoV-2 infection.”](/search/?article=Li20b) _Proceedings of the National Academy of Sciences_, 2020. [doi.org/10.1073/pnas.2010197117](https://doi.org/10.1073/pnas.2010197117). \[[PubMed33139569](https://www.ncbi.nlm.nih.gov/pubmed/33139569/)\]
 - November 3
@@ -825,6 +831,13 @@ Instruction:
 <!-- start of clinical trials -->
 
 ## Clinical Trials
+### November 2020
+- November 05
+    - [4 clinical trials were added.](/clinical-trials/?fromDate=2020-11-05)
+    - NCT04610138
+    - NCT04613271
+    - NCT04614012
+    - NCT04616001
 ### October 2020
 - October 29
     - [11 clinical trials were added.](/clinical-trials/?fromDate=2020-10-29)

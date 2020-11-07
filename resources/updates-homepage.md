@@ -22,6 +22,15 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Nov 07)
+Chi X, Liu X, et int., and Yang W. [“Humanized single domain antibodies neutralize SARS-CoV-2 by targeting the spike receptor binding domain.”](/search/?article=Chi20b) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-18387-8](https://doi.org/10.1038/s41467-020-18387-8). \[[PubMed32913273](https://www.ncbi.nlm.nih.gov/pubmed/32913273/)\] \[[PMC7483421](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7483421/)\]
+### Database Entries (Nov 07)
+de Vries RD, Schmitz KS, et int., and Porotto M. [“Intranasal fusion inhibitory lipopeptide prevents direct contact SARS-CoV-2 transmission in ferrets.”](/search/?article=deVries20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.04.361154](https://doi.org/10.1101/2020.11.04.361154).
+### [Preprints => Peer-Reviewed Publications (Nov 7)](/page/updates/#preprints.peer-reviewed.publications)
+2 published preprints were added.
+### [Clinical Trials (Nov 05)](/page/updates/#clinical.trials)
+[4 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-05)
+
 ### Database Entries (Nov 05)
 Bojkova D, Bechtel M, et int., and Cinatl J. [“Aprotinin Inhibits SARS-CoV-2 Replication.”](/search/?article=Bojkova20c) _Cells_, 2020. [doi.org/10.3390/cells9112377](https://doi.org/10.3390/cells9112377). \[[PubMed33143316](https://www.ncbi.nlm.nih.gov/pubmed/33143316/)\]
 ### Database Entries (Nov 05)
@@ -128,46 +137,3 @@ Monoclonal Antibodies for the Prevention and Treatment of COVID 19. [video](http
 ### [Press Release (Oct 07)](/page/updates/#press.release)
 - [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly202010071.pdf)
 - [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly202010072.pdf)
-
-### Database Entries (Oct 05)
-Ansarin K, Tolouian R, et int., and Chapman KR. [“Effect of bromhexine on clinical outcomes and mortality in COVID-19 patients: A randomized clinical trial.”](/search/?article=Ansarin20) _BioImpacts_, 2020. [doi.org/10.34172/bi.2020.27](https://doi.org/10.34172/bi.2020.27). \[[PubMed32983936](https://www.ncbi.nlm.nih.gov/pubmed/32983936/)\] \[[PMC7502909]\](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7502909/)
-### Database Entries (Oct 05)
-Wahl A, Gralinski L, et int., and Garcia JV. [“Acute SARS-CoV-2 Infection is Highly Cytopathic, Elicits a Robust Innate Immune Response and is Efficiently Prevented by EIDD-2801.”](/search/?article=Wahl20) _Research square_, [2020. doi.org/10.21203/rs.3.rs-80404/v1](https://doi.org/10.21203/rs.3.rs-80404/v1). \[[PubMed32995766](https://www.ncbi.nlm.nih.gov/pubmed/32995766/)\] \[[PMC7523135](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523135/)\]
-### Database Entries (Oct 03)
-Jones BE, Brown-Augsburger PL, et int., and Falconer E. [“LY-CoV555, a rapidly isolated potent neutralizing antibody, provides protection in a non-human primate model of SARS-CoV-2 infection.”](/search/?article=Jones20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.30.318972](https://doi.org/10.1101/2020.09.30.318972).
-### Database Entries (Oct 03)
-Sagar S, Rathinavel AK, et int., and Radhakrishnan P. [“Bromelain Inhibits SARS-CoV-2 Infection in VeroE6 Cells.”](/search/?article=Sagar20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.16.297366](https://doi.org/10.1101/2020.09.16.297366). \[[PubMed32995771](https://www.ncbi.nlm.nih.gov/pubmed/32995771/)\] \[[PMC7523097](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523097/)\]
-### Database Entries (Oct 03)
-Watson A, Ferreira L, et int., and Stroud R. [“Peptide Antidotes to SARS-CoV-2 (COVID-19).”](/search/?article=Watson20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.06.238915](https://doi.org/10.1101/2020.08.06.238915).
-
-### [Press Release (Oct 02)](/page/updates/#press.release)
-
-[Synairgen plc, Interim results for the six months ended 30 June 2020](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Synairgen20200930.pdf)
-
-### [Press Release (Oct 02)](/page/updates/#press.release)
-
-[Lilly announces proof of concept data for neutralizing antibody LY-CoV555 in the COVID-19outpatient setting](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly20200930.pdf)
-
-### [Press Release (Oct 02)](/page/updates/#press.release)
-
-[Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Regeneron20200930.pdf)
-
-### [Clinical Trials (Oct 01)](/page/updates/#clinical.trials)
-[9 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-01)
-
-### Database entries (Oct 01)
-Proud PC, Tsitoura D, et int., and Carroll MW. [“Prophylactic intranasal administration of a TLR2 agonist reduces upper respiratory tract viral shedding in a SARS-CoV-2 challenge ferret model.”](/search/?article=Proud20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.25.309914](https://doi.org/10.1101/2020.09.25.309914).
-### Database entries (Oct 01)
-Son J, Huang S, et int., and Ding S. [“Nitazoxanide and JIB-04 have broad-spectrum antiviral activity and inhibit SARS-CoV-2 replication in cell culture and coronavirus pathogenesis in a pig model.”](/search/?article=Son20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.312165](https://doi.org/10.1101/2020.09.24.312165).
-### Database entries (Oct 01)
-Fagre AC, Manhard J, et int., and Schountz T. [“A potent SARS-CoV-2 neutralizing human monoclonal antibody that reduces viral burden and disease severity in Syrian hamsters.”](/search/?article=Fagre20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.25.313601](https://doi.org/10.1101/2020.09.25.313601).
-### Database entries (Oct 01)
-Lin C, Li Y, et int., and Chen J. [“Ceftazidime Is a Potential Drug to Inhibit SARS-CoV-2 Infection In Vitro by Blocking Spike Protein-ACE2 Interaction.”](/search/?article=Lin20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.14.295956](https://doi.org/10.1101/2020.09.14.295956).
-### Database entries (Oct 01)
-Xiao T, Lu J, et int., and Chen B. [“A trimeric human angiotensin-converting enzyme 2 as an anti-SARS-CoV-2 agent in vitro.”](/search/?article=Xiao20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.18.301952](https://doi.org/10.1101/2020.09.18.301952). \[[PubMed32995768](https://www.ncbi.nlm.nih.gov/pubmed/32995768/)\] \[[PMC7523094](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523094/)\]
-### Database entries (Oct 01)
-Zhang L, Cao L, et int., and Zhu F. [“A proof of concept for neutralizing antibody-guided vaccine design against SARS-CoV-2.”](/search/?article=Zhang20f) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.23.309294](https://doi.org/10.1101/2020.09.23.309294).
-### Database entries (Sep 29)
-Brunaugh AD, Seo H, et int., and Smyth HD. [“Broad-Spectrum, Patient-Adaptable Inhaled Niclosamide-Lysozyme Particles are Efficacious Against Coronaviruses in Lethal Murine Infection Models.”](/search/?article=Brunaugh20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.310490](https://doi.org/10.1101/2020.09.24.310490).
-### Database entries (Sep 29)
-Curreli F, Victor SMB, et int., and Debnath AK. [“Stapled peptides based on Human Angiotensin-Converting Enzyme 2 (ACE2) potently inhibit SARS-CoV-2 infection in vitro.”](/search/?article=Curreli20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.25.266437](https://doi.org/10.1101/2020.08.25.266437).
