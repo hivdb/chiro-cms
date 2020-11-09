@@ -22,6 +22,8 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Nov 09)
+Westberg M, Su Y, et int., and Lin MZ. [“Rational design of a new class of protease inhibitors for the potential treatment of coronavirus diseases.”](/search/?article=Westberg20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.15.275891](https://doi.org/10.1101/2020.09.15.275891).
 ### Database Entries (Nov 07)
 Chi X, Liu X, et int., and Yang W. [“Humanized single domain antibodies neutralize SARS-CoV-2 by targeting the spike receptor binding domain.”](/search/?article=Chi20b) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-18387-8](https://doi.org/10.1038/s41467-020-18387-8). \[[PubMed32913273](https://www.ncbi.nlm.nih.gov/pubmed/32913273/)\] \[[PMC7483421](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7483421/)\]
 ### Database Entries (Nov 07)
