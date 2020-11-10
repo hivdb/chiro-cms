@@ -35,13 +35,14 @@ Instruction:
 
 - [Spike structures. Figures of SARS-CoV-2](/page/spike-structures/)
     - Figure 1. SARS-CoV-2 Trimeric Spike.
-    - Figure 2. Trimeric spike structures illustrating receptor binding domain (RBD) up (open; ACE2 accessible) and down (closed) configurations.
+    - Figure 2. Trimeric spike structures illustrating RBD (receptor binding domains) up (open; ACE2 accessible) and down (closed) configurations.
     - Figure 3. Spike RBD bound to ACE-2.
     - Figure 4. Spike S1 and S2 subunits.
     - Figure 5. S1 domains.
-    - Figure 6. RBD core mAb epitopes.
-    - Figure 7. RBD RBM antibody sites.
-    - Figure 8. RBD RBM antibody sites.
+    - Table 1. Antibody metadata.
+    - Figure 6. RBD ACE2-competing antibody residues, large ACE2 footprint(>50%).
+    - Figure 7. RBD ACE2-competing antibody residues, smaller ACE2 footprint (<50%).
+    - Figure 8. RBD core (non-ACE2-competing residues) mAb epitopes.
     - Figure 9. Regeneron ACE2-competing mAbs.
     - Figure 10. Naturally occurring spike RBD variants and mAb escape mutations.
     - Figure 11. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) spike receptor binding domain (RBD).
