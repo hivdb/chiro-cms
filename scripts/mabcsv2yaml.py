@@ -372,6 +372,10 @@ def mabcsv2yaml(input_mabcsv, alignment, refid_lookup, output_yaml):
         if source:
             groupobj['source'] = smart_split2(source)
 
+        type_ = get_first(row, 'type', required=False)
+        if type_:
+            groupobj['type'] = type_
+
         desc = get_first(row, 'description', required=False)
         if desc:
             groupobj['description'] = PreservedScalarString(desc)

@@ -11,7 +11,12 @@ NCBI_APIKEY = 'c589b6589a876ae42089c059c49249722807'
 
 def rows2lookup(rows):
     rows = list(rows)
-    pmids = [row['PMID'].strip() for row in rows]
+    pmids = [
+        row['DOI'].strip()
+        if row['DOI'].strip()
+        else row['PMID'].strip()
+        for row in rows
+    ]
     pmids = [pmid for pmid in pmids if pmid and pmid.isdigit()]
     pmid2doi = {}
     for partial in chunked(pmids, 150):
@@ -36,7 +41,9 @@ def rows2lookup(rows):
     results = []
     for row in rows:
         refid = row['RefID'].strip()
-        extid = row['PMID'].strip()
+        extid = row['DOI'].strip()
+        if not extid:
+            extid = row['PMID'].strip()
         if extid in pmid2doi:
             extid = pmid2doi[extid]
         if extid.startswith('10.'):

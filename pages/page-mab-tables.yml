@@ -20,10 +20,17 @@ tables:
     - name: clinicalTrials
       label: Trial Number(s)
       render: nl2br
+      headCellStyle:
+        minWidth: 22rem
     - name: references
       label: References
       render: articleList
       sort: articleList
+    - name: description
+      label: Description
+      textAlign: left
+      render: nl2br
+      sortable: false
     data:
       _resource: clinical-trial-mabs.json
 
@@ -68,6 +75,11 @@ tables:
         joinBy: ";\n"
       headCellStyle:
         width: 13rem
+    - name: type
+      label: Type
+      render: nowrap
+      headCellStyle:
+        width: 4rem
     - name: antibodies.name
       label: MAb
       multiCells: true

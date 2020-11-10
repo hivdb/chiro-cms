@@ -1,4 +1,20 @@
 - references:
+  - doi: 10.1101/2020.09.27.316174
+    firstAuthor:
+      surname: Cao
+      givenNames: Xia
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: STI-1499
+  - name: STI-2020
+  description: |-
+    STI-1499 and STI-2020 (COVI-AMG) are mAbs being studied in phase I trials. ST-2020 is an affinity-engineered variant of STI-1499 that has greater activity in vitro and in Syrian hamsters.
+  company: Sorrento Therapeutics
+  phase: I
+  clinicalTrials: |-
+    NCT04454398; NCT04584697
+- references:
   - doi: 10.1126/science.abd0827
     firstAuthor:
       surname: Hansen
@@ -20,7 +36,7 @@
   antibodies:
   - name: REGN10933 + REGN10987
   description: |-
-    REGN10933 + REGN10987 is a combination of two monoclonal antibodies targeting the SARS-CoV-2 spike protein, which have begun clinical trials in June 2020.
+    REGN10933 + REGN10987 is a combination of two nonoverlapping mAbs targeting the SARS-CoV-2 spike protein in phase III trials. The combination has demonstrated preliminary virological efficacy in a phase II trial of outpatients. A phase III trial in hospitalized patients was discontinued because of lack of efficacy.
   company: Regeneron
   phase: III
   clinicalTrials: |-
@@ -41,11 +57,18 @@
       givenNames: Rui
     year: 2020
     journal: Nature
+  - doi: 10.1056/NEJMoa2029849
+    firstAuthor:
+      surname: Chen
+      givenNames: Peter
+    year: 2020
+    journal: New England Journal of Medicine
+    journalShort: N Engl J Med
   antibodies:
   - name: LY-CoV555 (LY3819253)
-  - name: LY-CoV555 + LY-CoV016(LY3832479)
+  - name: LY-CoV555 + LY-CoV016 (LY3832479)
   description: |-
-    LY3819253 (LY-CoV555) is a monoclonal antibody targeting the SARS-CoV-2 spike protein, which have begun clinical trials in June 2020.
+    LY3819253 (LY-CoV555) is a mAb targeting the SARS-CoV-2 spike protein, which has been shown to reduce virus levels and possibly hospitalizations in a phase II trial. A phase III trial in hospitalized patients was discontinued because of lack of efficacy. It is also being studied in combination with LY-CoV016 which appears to be the same mAb as CB6 and JS016.
   company: Lilly / AbCellera
   phase: III
   clinicalTrials: |-
@@ -54,15 +77,21 @@
     NCT04497987 (BLAZE-2; Prevention; Phase III; n=2400)
     NCT04518410 (Outpatients; Phase III; n=2000)
     NCT04501978
-- references: []
+- references:
+  - doi: 10.1038/s41586-020-2349-y
+    firstAuthor:
+      surname: Pinto
+      givenNames: Dora
+    year: 2020
+    journal: Nature
   antibodies:
-  - name: TY027
+  - name: VIR-7831
   description: |-
-    TY027 is a monoclonal antibody targeting the SARS-CoV-2 spike protein, which began clinical trials in June 2020.
-  company: Tychan Pte
-  phase: I
+    VIR-7831 being studied in a phase II trial. It appears to be the same mAb as S309 which is a SARS-CoV-1 cross-neutralizing Ab shown to cause ADCC and ADCP and that has been modified to have a prolonged half-life.
+  company: Vir Biotechnology, GSK
+  phase: III
   clinicalTrials: |-
-    NCT04429529
+    NCT04545060
 - references:
   - doi: 10.1038/s41586-020-2381-y
     firstAuthor:
@@ -73,16 +102,25 @@
   antibodies:
   - name: JS016
   description: |-
-    JS016 is a monoclonal antibody targeting the SARS-CoV-2 spike protein, which began clinical trials in June 2020.
+    JS016 is a mAb targeting the SARS-CoV-2 spike protein, which began clinical trials in June 2020. It is being studied alone and in a phase II trial in combination with LY-CoV555. It is also called CB6 and LY-CoV016.
   company: Shanghai Junshi Bioscience
   phase: I
   clinicalTrials: |-
     NCT04441918
 - references: []
   antibodies:
+  - name: TY027
+  description: |-
+    TY027 is a mAb targeting the SARS-CoV-2 spike protein being studied in a phase I trial.
+  company: Tychan Pte
+  phase: I
+  clinicalTrials: |-
+    NCT04429529
+- references: []
+  antibodies:
   - name: BRII-196
   description: |-
-    BRII-196 is a SARS-CoV-2 monoclonal antibody that blocks viral entry to neutralize SARS-CoV-2 infection. It is being studied in clinical trials as a treatment for COVID-19.
+    BRII-196 is a mAb targeting the SARS-CoV-2spike protein being studied in a phase I trial.
   company: Brii Biosciences
   phase: I
   clinicalTrials: |-
@@ -92,7 +130,7 @@
   antibodies:
   - name: AZD7442 (AZD8895 and AZD1061)
   description: |-
-    AZD7442 is a potential combination monoclonal antibody therapy (AZD8895 + AZD1061) being developed by AstraZeneca for the prevention and treatment of COVID-19.
+    AZD7442 is a combination mAb therapy (AZD8895 + AZD1061) being developed for the prevention and treatment of COVID-19.
   company: AstraZeneca / Paraxel
   phase: I
   clinicalTrials: |-
@@ -101,7 +139,7 @@
   antibodies:
   - name: CT-P59
   description: |-
-    CT-P59 is a monclonal antibody targeting the SARS-CoV-2 spike protein, which began clinical trials in August 2020.
+    CT-P59 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phse I clinical trial.
   company: Celltrion
   phase: I
   clinicalTrials: |-
@@ -109,64 +147,35 @@
 - references: []
   antibodies:
   - name: MW33
+  description: |-
+    MW33 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phse I trial.
   company: Mabwell Bioscience
   phase: I
   clinicalTrials: |-
     NCT04533048
 - references: []
   antibodies:
-  - name: BGB DXP593
+  - name: BGB-DXP593
+  description: |-
+    BGB DXP593 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phse I trial.
   company: BeiGene
   phase: I
   clinicalTrials: |-
     NCT04532294
 - references: []
   antibodies:
-  - name: STI-1499
-  description: |-
-    STI-1499 is a monoclonal antibody targeting the SARS-CoV-2 spike protein, which has begun clinical trials.
-  company: Sorrento Therapeutics
-  phase: I
-  clinicalTrials: |-
-    NCT04454398
-- references: []
-  antibodies:
   - name: SCTA01
   description: |-
-    SCTA01 is an anti-SARS-CoV-2 monoclonal antibody being studied in clinical trials to neutralizes the SARS-CoV-2 virus and prevent viral entry.
+    SCTA01 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phse I trial.
   company: Sinocelltech
   phase: I
   clinicalTrials: |-
     NCT04483375
-- references:
-  - doi: 10.1038/s41586-020-2349-y
-    firstAuthor:
-      surname: Pinto
-      givenNames: Dora
-    year: 2020
-    journal: Nature
-  antibodies:
-  - name: VIR-7831
-  company: Vir Biotechnology, GSK
-  phase: III
-  clinicalTrials: |-
-    NCT04545060
-- references:
-  - doi: 10.1101/2020.09.27.316174
-    firstAuthor:
-      surname: Cao
-      givenNames: Xia
-    year: 2020
-    journal: bioRxiv
-  antibodies:
-  - name: COVI-AMG (STI-2020)
-  company: Sorrento Therapeutics
-  phase: I
-  clinicalTrials: |-
-    NCT04584697
 - references: []
   antibodies:
   - name: HLX70
+  description: |-
+    HLX70 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phase I trial.
   company: Hengenix Biotech Inc
   phase: I
   clinicalTrials: |-
@@ -174,6 +183,8 @@
 - references: []
   antibodies:
   - name: ADM03820
+  description: |-
+    ADM03820 is a mixture of two non-overlapping mAbs, being studied in a phase I trial.
   company: Ology Bioservices
   phase: I
   clinicalTrials: |-
@@ -181,6 +192,8 @@
 - references: []
   antibodies:
   - name: HFB30132A
+  description: |-
+    HFB30132A is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phse Itrial.
   company: HiFiBiO Therapeutics
   phase: I
   clinicalTrials: |-
