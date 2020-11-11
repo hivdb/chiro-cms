@@ -51,7 +51,7 @@
   - humanized
   type: MAb
   description: |-
-    2B04 and 1B07 (but not 2H04) are ACE2-competing mAbs. 2B04 and 1B07 (but to a much lesser extent 2H04) also reduced weight loss, lung pathology, and virus levels in a mouse prevention model.
+    2B04, 1B07, and 2H04 are humaized neutralizing mAbs deirived from mice immunized with RBD followed by trimeric S. 2B04 and 1B07 are ACE2-competing mAbs. 2B04 and 1B07 (and to a much lesser extent 2H04) reduced weight loss, lung pathology, and virus levels in a mouse prevention model.
 - references:
   - doi: 10.1126/science.abc5902
     firstAuthor:
@@ -135,7 +135,7 @@
   - S trimer
   type: MAb
   description: |-
-    COVA1-16, COVA1-18, COVA2-04, COVA2-15, and COVA2-39 are ACE2-competing mAbs. COVA1-16 cross neutralizes SARS-CoV-1. It competes with ACE2 indirectly via steric hindrance. It binds to RBD in the up configuration, likely bivalently. COVA2-4 and COVA2-39 approach RBD from different angles. COVA2-4 contacts more ACE2-binding residues than COVA2-39 (11 vs. 16 of 17). COVA2-15 appears to bind ACE2 in its up and down configuration.
+    COVA1-16, COVA1-18, COVA2-04, COVA2-15, and COVA2-39 are ACE2-competing neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells that recognize trimeric spike. COVA1-16 cross neutralizes SARS-CoV-1. It competes with ACE2 indirectly via steric hindrance. It binds to RBD in the up configuration, likely bivalently. COVA2-4 and COVA2-39 approach RBD from different angles. COVA2-4 contacts more ACE2-binding residues than COVA2-39 (16 vs. 11 residues). COVA2-15 appears to bind ACE2 in its up and down configuration.
 - references:
   - doi: 10.1016/j.cell.2020.05.025
     firstAuthor:
@@ -238,7 +238,7 @@
   - RBD & S trimer
   type: MAb
   description: |-
-    BD-368-2 is an ACE2-competing mAb that can occupy all three RBDs simultaneously regardless of its configuration. It also does not compete with the ACE2-competing mAbs encoded by VH3-53/66. BD-604, BD-629, and BD-236 are ACE2-competing mAbs that bind RBD in its up configuration. BD-23 is an ACE2-competing mAb that binds RBD in its down configuration. BD-368-2 reduced weight loss and virus levels in a mouse treatment and prevention model.
+    This panel of neutralizing mAbs was derived from SARS-CoV-2 convalescent memory B cells that recognize trimeric spike or its RBD. BD-368-2 is an ACE2-competing mAb that can occupy all three RBDs simultaneously regardless of its configuration. It also does not compete with the ACE2-competing mAbs encoded by VH3-53/66. BD-604, BD-629, and BD-236 are ACE2-competing mAbs that bind RBD in its up configuration. BD-23 is an ACE2-competing mAb that binds RBD in its down configuration. BD-368-2 reduced weight loss and virus levels in a mouse treatment and prevention model.
 - references:
   - doi: 10.1038/s41423-020-0426-7
     firstAuthor:
@@ -259,7 +259,7 @@
   - RBD
   type: MAb
   description: |-
-    311mab-31B5 and 311mab-32D4 are ACE2-competing mAbs.
+    311mab-31B5 and 311mab-32D4 are ACE2-competing neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells.
 - references:
   - doi: 10.1126/science.abc6952
     firstAuthor:
@@ -296,7 +296,7 @@
   - S trimer
   type: MAb
   description: |-
-    4A8 binds the NTD. The mechanism of 0304-3H3 binding is uncertain.
+    4A8 and 0304-3H3 are mAbs derived SARS-CoV-2 memory B cells that recognize trimer spike. 4A8 binds the spike N terminal domain (NTD). The mechanism of 0304-3H3 binding is uncertain.
 - references:
   - doi: 10.1038/s41467-020-18058-8
     firstAuthor:
@@ -314,14 +314,16 @@
     ec50Note: PV
   - name: mAb-362-IgA-secretory
     ec50: 9500
+    ec50Note: PV
   - name: mAb-362-IgG
     ec50: '>50000'
+    ec50Note: PV
   source:
   - Spleen cells from transgenic HuMAb mice immunized with SARS-1 S
   - Screened for binding to SARS-2 RBD.
   type: MAb
   description: |-
-    ACE2 competing; Can only bind in the open configuration. Cross-neutralizes S1; Mutational scanning to identify binding residues
+    mAb-362-IgA is a neutralizing IgA mAb derived from spleen cells of transgenic HuMAb mice immunized with SARS-CoV-1 spike that were screened for binding to SARS-CoV-2 RBD. It cross neutralizes SARS-CoV-1 and binds spike RBD only in its up configuration. Its epitope, defined in part by mutational scanning and modeling studies, overlaps the ACE2 binding site.
 - references:
   - doi: 10.1126/science.abd0827
     firstAuthor:
@@ -392,7 +394,7 @@
   - Humanized mice immunized with S boosted with RBD
   type: MAb
   description: |-
-    REGN10933 and REGN10987 are ACE2-competing mAbs that bind to non-overlapping RBD epitopes. This combination of mAbs also reduce weight loss, lung pathology, and virus levels in mouse treatment and prevention models.
+    The REGN panel of neutralizing mAbs was derived primarily from VelocImmune mice immunized with trimeric spike boosted with RBD. REGN10933 and REGN10987 are ACE2-competing mAbs that bind to non-overlapping RBD epitopes. They have been been shown to elicit ADCC and ADCP in vitro. This pair of mAbs reduces virus levels and lung pathology in rhesus macaque treatment and prevention models. The combination has demonstrated preliminary virological efficacy in a phase II trial of outpatients. A phase III trial in hospitalized patients was discontinued because of lack of efficacy.
 - references:
   - doi: 10.1038/s41586-020-2380-z
     firstAuthor:
@@ -422,7 +424,7 @@
   - RBD
   type: MAb
   description: |-
-    P2B-2F6, P2C-1F11, and P2C-1A13 are ACE2-competing mAbs. P2B-2F6 is predicted to bind with RBD in both its up and down configurations.
+    P2B-2F6, P2C-1F11, and P2C-1A13 are ACE2-competing neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells that recognize RBD. P2B-2F6 is predicted to bind with RBD in both its up and down configurations.
 - references:
   - doi: 10.1016/j.cell.2020.06.044
     firstAuthor:
@@ -494,7 +496,7 @@
   - S trimer
   type: MAb
   description: |-
-    None
+    MnC4t2p1_B3, MnC2t2p1_C11, MnC2t1p1_A3, FnC1t2p1_D4, and HbnC3t1p1_C6 are neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells.
 - references:
   - doi: 10.1016/j.cell.2020.09.049
     firstAuthor:
@@ -531,7 +533,7 @@
   - ELISA for RBD binding
   type: MAb
   description: |-
-    CV07-209 is an ACE2 competing mAb. CV07-270's epitope mimimally overlaps with ACE2 binding residues. CV07-209 reduces weight loss, lung pathology, and virus levels in a hamster prevention and treatment model.
+    CV07-209, CV07-270, and CV07-250 are neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells that recognize RBD. CV07-209 is an ACE2 competing mAb. CV07-270's epitope mimimally overlaps with ACE2 binding residues. CV07-209 reduces weight loss, lung pathology, and virus levels in a hamster prevention and treatment model.
 - references:
   - doi: 10.1073/pnas.2010197117
     firstAuthor:
@@ -548,7 +550,7 @@
   - RBD panning
   type: MAb
   description: |-
-    ab1 is an ACE2-competing mAb that has been shown to reduce lung virus levels and lung damate when administered prophylatically in a mouse or hamster model. It has also been shown to stimulate ADCC in vitro.
+    ab1 is an ACE2-competing neutralizing mAb derived from a naïve B cell Fab and scFv phage display library that was selected for RBD binding. It has been shown to reduce lung virus levels and lung damage when administered prophylatically in a mouse or hamster model. It has been shown to stimulate ADCC in vitro.
 - references:
   - doi: 10.1038/s41586-020-2571-7
     firstAuthor:
@@ -662,7 +664,7 @@
   - S trimer
   type: MAb
   description: |-
-    2-4 ia an ACE2-competing mAb that binds RBD in its down position. In a low-resolution image 2-43 appears to bind to a quartenrary epitope at the top of spike with binding to adjacent S1 protomers. 4-8 binds to NTD. 2-15 is an ACE2-competing mAb that reduced lung virus levels in a hamster prevention model.
+    2-4 ia an ACE2-competing neutralizing mAb derived from SARS-CoV-2 convalescent B cells. It binds RBD in its down position. In a low-resolution image, 2-43 appears to bind to a quartenrary epitope at the top of spike with binding to adjacent S1 protomers. 4-8 binds to NTD. 2-15 is an ACE2-competing mAb that reduced lung virus levels in a hamster prevention model.
 - references:
   - doi: 10.1126/science.abc5881
     firstAuthor:
@@ -690,7 +692,7 @@
   - humanized
   type: MAb
   description: |-
-    H014 is an ACE2-competing mAb that binds to RBD in its up configuration.
+    H014 is an ACE2-competing neutralizing mAb that binds to RBD in its up configuration. It is a humanized mAb derived from a phage display library constructed from the spleen cells of mice immunized with SARS-CoV RBD and panned for SARS-CoV-2 RBD binding.
 - references:
   - doi: 10.1038/s41467-020-18159-4
     firstAuthor:
@@ -716,7 +718,7 @@
     for RBD and S1 binding.
   type: MAb
   description: |-
-    MD65 is an ACE2-competing mAb. MD65-YTE (M252Y, S254T, T256E) has increased affinity for FcRn at acidic pH and a prolonged half-life.
+    MD65 is an ACE2-competing neutralizing mAb derived from a human B cell phage display library derived from acute and convalescent SARS-CoV-2 sera panned for RBD and S1 binding. MD65-YTE (M252Y, S254T, T256E) has increased affinity for FcRn at acidic pH and a prolonged half-life.
 - references:
   - doi: 10.1038/s41586-020-2349-y
     firstAuthor:
@@ -742,7 +744,7 @@
   - RBD & S trimer
   type: MAb
   description: |-
-    S309 is a non-ACE2-competing mAb that binds to the RBD core region and cross-neutralizes SARS-1. It binds to RBD in its open and closed configuration and it binds to a unique proteoglycan epitope at N343.
+    VIR-7831 appears to be the same neutralizing mAb as S309. It is being studied in a phase II trial. It was derived from SARS-CoV-1 convalescent memory B cells that recognize SARS-CoV-2 trimeric spike. It is a non-ACE2-competing mAb that binds to the RBD core region and cross-neutralizes SARS-CoV-1. It binds to RBD in its up and down configurations and it binds to a unique proteoglycan epitope at N343. It has been shown to elicit ADCC and ADCP in vitro and it has undergone Fc modifications to prolong its half-life.
 - references:
   - doi: 10.1038/s41586-020-2456-9
     firstAuthor:
@@ -829,7 +831,7 @@
   - RBD
   type: MAb
   description: |-
-    C105, C121, C135, and C144 are ACE2-competing mAbs. C105 binds 2 or 3 RBDs in the up configuration. C135 and C144 bind to RBD's up and down configurations. C121 / C135 and C144 / C135 bind to non-overlapping epitopes.
+    C105, C121, C135, and C144 are ACE2-competing neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells that recognize RBD. C105 binds 2 or 3 RBDs in the up configuration. C135 and C144 bind to RBD's up and down configurations. C121 / C135 and C144 / C135 bind to non-overlapping epitopes.
 - references:
   - doi: 10.1126/science.abc7520
     firstAuthor:
@@ -896,7 +898,7 @@
   - RBD & S trimer
   type: MAb
   description: |-
-    CC12.1 and CC12.3 bind the ACE2-binding site with the same angle of approach. CC12.1 and CC12.3 bind 15 and 11 ACE2-binding residues, respectively. Both bind only in the open configuration. CC12.1 reduced weight loss in a hamster prevention model.
+    This series of neutralizing mAbs was derived from SARS-CoV-2 convalescent B cells that recognize trimeric spike and/or RBD. CC12.1 and CC12.3 bind the ACE2-binding site with the same angle of approach. CC12.1 and CC12.3 bind 15 and 11 ACE2-binding residues, respectively. Both bind only in the open configuration. CC12.1 reduced weight loss in a hamster prevention model.
 - references:
   - doi: 10.1016/j.immuni.2020.06.001
     firstAuthor:
@@ -930,7 +932,7 @@
   - Trimeric spike & RBD
   type: MAb
   description: |-
-    CV30 is an ACE2 competing mAb, which binds to a high proportion of the ACE2-binding residues.
+    CV30 is a neutralizing mAb derived from SARS-CoV-2 memory B cells that recognize trimeric spike and/or RBD. It is an ACE2 competing mAb, which binds to a high proportion of the ACE2-binding residues.
 - references:
   - doi: 10.1038/s41586-020-2381-y
     firstAuthor:
@@ -956,7 +958,7 @@
   - RBD
   type: MAb
   description: |-
-    CB6 is an ACE2-competing mAb. It has been shown to reduice virus levels and lung pathology when administered 1 day before and 1 day after infection of rhesus macaques. Its Fc receptor has been mutated (LALA) to prolong its half-life. The same mAb or a similar one called JS016 is being evaluated in a phase I clinical trial.
+    CB6 (aka JS016, LY-CoV016) is an ACE2-competing neutralizing mAb derived from SARS-CoV-2 convalescent memory B cells. It has been shown to reduice virus levels and lung pathology when administered 1 day before or after infection of rhesus macaques. Its Fc receptor has been mutated (LALA) to prolong its half-life. It is being evaluated as monotherapy in a phase I trial and in combination with LY-CoV555 in a phase II trial.
 - references:
   - doi: 10.1371/journal.pmed.0030237
     firstAuthor:
@@ -994,7 +996,7 @@
   - SARS-1 scFv phage display / Irradiated SARS-1
   type: MAb
   description: |-
-    CR3022 is a SARS-1 cross-reacting mAb that binds to a non-competing RBD epitope accessible only when the RBD is in the up configuration.
+    CR3022 is a SARS-1 cross-reacting neutralizing mAb that binds to a non-competing RBD epitope accessible only when the RBD is in the up configuration.
 - references:
   - doi: 10.1016/j.celrep.2020.107918
     firstAuthor:
@@ -1019,7 +1021,7 @@
   - RBD & S trimer
   type: MAb
   description: |-
-    414-1 is an ACE2-competing mAb
+    414-1 is an ACE2-competing neutralizing mAb.
 - references:
   - doi: 10.1038/s41467-020-16256-y
     firstAuthor:
@@ -1057,7 +1059,7 @@
   - H2L2 mice immunized with S trimer of OC43, SARS, and MERS
   type: MAb
   description: |-
-    47D11 is a non-ACE2-competing mAb that cross-neutralizes SARS-1. It binds to the closed conformation of the RBD. It reduces weight loss, lung pathology, and virus levels in a hamster SARS-CoV-2 prevention model.
+    47D11 is a non-ACE2-competing mAb that cross-neutralizes SARS-1. It binds to the down conformation of the RBD. It reduces weight loss, lung pathology, and virus levels in a hamster SARS-CoV-2 prevention model.
 - references:
   - doi: 10.1101/2020.07.14.203414
     firstAuthor:
@@ -1070,6 +1072,15 @@
   - name: 2H4
   - name: 3D11
   - name: 3F11
+    species: Human
+    IGHV: HV3-23
+    PcntMutH: 20%
+    CDRH3Len: 18
+    IGHJ: HJ4
+    IGLV:
+    PcntMutL:
+    CDRL3Len:
+    IGLJ:
   - name: 5A6
     ec50: 141
     pdb: Trimeric Spike
@@ -1079,7 +1090,7 @@
     binding.
   type: MAb
   description: |-
-    5A6 is an ACE2-competing mAb that binds bivalently to one RBD in the up configion and another in the down configuration.
+    5A6 is an ACE2-competing mAb that binds bivalently to one RBD in the up configuration and another in the down configuration.
 - references:
   - doi: 10.1126/science.abc7424
     firstAuthor:
@@ -1101,7 +1112,7 @@
   - S tetramer
   type: MAb
   description: |-
-    ADI-55689 cross-neutralizes SARS-1 and competes with ACE2 but not CR3022. It binds at the edge of the ACE2 binding site. ADI-56046 also cross neutralizes SARS-1 and competes with ACE2 but binds further away from the tip of the RBD and causes it to compete with CR3022.
+    ADI-55689 cross-neutralizes SARS-1 and competes with ACE2 but not CR3022 by binding at the edge of the ACE2 binding site. ADI-56046 also cross neutralizes SARS-1 and competes with ACE2 but binds further away from the RBD tip causing it to compete with CR3022.
 - references:
   - doi: 10.1126/science.abc2241
     firstAuthor:
@@ -1138,7 +1149,7 @@
   - RBD
   type: MAb
   description: |-
-    H4 and B38 are ACE2-competing mAbs that bind to non-overlapping epitopes. Both mAbs have been shown to reduce lung pathology and virus levels in a mouse treatment model.
+    H4 and B38 are ACE2-competing neutralizing mAbs that bind to non-overlapping epitopes. Both mAbs have been shown to reduce lung pathology and virus levels in a mouse treatment model.
 - references:
   - doi: 10.1038/s41594-020-0480-y
     firstAuthor:
@@ -1166,7 +1177,7 @@
   - ELISA S1 & Spike
   type: MAb
   description: |-
-    EY6A is a non-ACE2 competing mAb that cross-neutralizes SARS-CoV-1.
+    EY6A is a non-ACE2 competing neutralizing mAb that cross-neutralizes SARS-CoV-1.
 - references:
   - doi: 10.1038/s41591-020-0998-x
     firstAuthor:
@@ -1273,6 +1284,8 @@
   - SARS-2 B cells
   - RBD
   type: MAb
+  description: |-
+    58G6 is an ACE2-competing neutralizing mAb.
 - references:
   - doi: 10.1101/2020.09.30.318972
     firstAuthor:
@@ -1289,7 +1302,7 @@
   - RBD & S trimer
   type: MAb
   description: |-
-    LY-CoV555 is an ACE2-competing mAb that binds RBD in the up and down configurations. It reduces upper airway and lower airway virus levels in rhesus macaques.
+    LY-CoV555 (aka LY3819253; bamlanivimab) is an ACE2-competing mAb that binds RBD in the up and down configurations. It reduces upper airway and lower airway virus levels in rhesus macaques. It has been shown to reduce virus levels and possibly hospitalizations in a phase II trial. A phase III trial in hospitalized patients was discontinued because of lack of efficacy. It is also being studied in combination with LY-CoV016 which appears to be the same mAb as CB6 and JS016. LY-CoV555 received FDA emergence use authorization on November 9, 2020.
 - references:
   - doi: 10.1101/2020.09.27.316174
     firstAuthor:
@@ -1307,6 +1320,8 @@
   - screened for binding to S trimer
   - engineered into IgG1 with LALA variant
   type: MAb
+  description: |-
+    STI-1499 and STI-2020 (AKA COVI-AMG) are neutralizing mAbs being studied in phase I trials. ST-2020 is an affinity-engineered variant of STI-1499 that has greater activity in vitro and in Syrian hamsters. The Fc receptors of both mAbs were mutated (LALA) to prolong its half-life.
 - references:
   - doi: 10.1101/2020.10.26.355107
     firstAuthor:
@@ -1320,6 +1335,8 @@
   source:
   - SARS-2 B cells
   type: MAb
+  description: |-
+    SC31 is an ACE2-competing neutralizing mAb shown to have protective effects in transgenic mice and Syrian hamsters. Its activity in these models appears to depend on Fc-mediated effector functions as it is more protective than the Fc-null (LALA) SC31 variant.
 - references:
   - doi: 10.1101/2020.08.09.242867
     firstAuthor:
@@ -1332,10 +1349,10 @@
     ec50: 550
   source:
   - PBMCs from camels immunized with RBD were used to construct a phage-display library
-    which underwent RBD panning. humanized
+    which underwent RBD panning.
   type: sdAb
   description: |-
-    Nb11-59 is an an ACE2-competing single-domain Ab.
+    Nb11-59 is an an ACE2-competing single-domain humanized neutralizing mAb.
 - references:
   - doi: 10.1016/j.chom.2020.04.023
     firstAuthor:
@@ -1351,7 +1368,7 @@
   - Human sdAb library from healthy adults selected for binding to RBD and/or S1
   type: sdAb
   description: |-
-    Non-ACE2 competing; Competes with CR3022
+    n3088 and n3130 are single-domain neutralizing non-ACE2 competing mAbs that compete with CR3022.
 - references:
   - doi: 10.1126/science.abe3255
     firstAuthor:
@@ -1374,7 +1391,7 @@
   - guided multimerization
   type: sdAb
   description: |-
-    Nb6 and Nb11 are ACE2-competing single-domain Abs. Nb6 straddles 2 RBD down states; Nb11 binds a single RBD either in the up or down state. A mutated (Nb6-matured) trimer form of Nb6 has the greatest neutralizing activity of these Abs. It also retains activity after aerosolization, lyophilization, and heat treatment.
+    Nb6 and Nb11 are ACE2-competing single-domain neutralizing mAbs. Nb6 straddles 2 RBD down states; Nb11 binds a single RBD either in the up or down state. A mutated (Nb6-matured) trimer form of Nb6 has the greatest neutralizing activity of these adAbs. It retains activity after aerosolization, lyophilization, and heat treatment.
 - references:
   - doi: 10.1080/19420862.2020.1778435
     firstAuthor:
@@ -1384,13 +1401,14 @@
     journal: mAbs
   antibodies:
   - name: VH-Ab6-Fc
+    ec50: 350
   - name: VH-M397-Fc
     ec50: 1500
   source:
   - Human VH library (CDR2 and CDR3) selected for RBD binding then fused with Fc
   type: sdAb-Fc
   description: |-
-    Ab6 and m397 are single-domain variable heavy chain (VH) ACE2-competing Abs. They were fused with Fc domains to increase their half lives.
+    VH-Ab6-Fc and VH-m397-Fc are single-domain variable heavy chain (VH) ACE2-competing mAbs fused with Fc domains to increase their half lives.
 - references:
   - doi: 10.1016/j.cell.2020.04.031
     firstAuthor:
@@ -1438,7 +1456,7 @@
     fused with an Fc domain.
   type: sdAb +/- Fc
   description: |-
-    H11-D4-Fc and H11-F4-Fc are single-domain Fc-fusion ACE2-competing mAbs.
+    H11-D4-Fc and H11-F4-Fc are single-domain Fc-fusion ACE2-competing neutralizing mAbs derived from a naïve llama nanobody (VHH) phage display library that underwent RBD panning.
 - references:
   - doi: 10.1038/s41467-020-19204-y
     firstAuthor:
@@ -1464,7 +1482,7 @@
   - Synthetic single-domain (sybody) was panned with RBD.
   type: sdAb
   description: |-
-    Sb23 is a an ACE2-competing single-domain mAb that binds RBD in both its up and down configurations.
+    Sb23 is a an ACE2-competing single-domain mAb that binds RBD in both its up and down configurations. It was derived from a synthetic single domain phage display library that underwent RBD panning.
 - references:
   - doi: 10.1101/2020.07.27.224089
     firstAuthor:
@@ -1483,10 +1501,10 @@
   - The proprietary Retained Display antibody display platform was used to express
     and fold human germline Ab genes to generate single-chain Abs (scFvs) in multiple
     formats including diabodies mAbs were selected by panning with RBD and trimeric
-    spike and engineered to produce diabodies abd
+    spike and engineered to produce diabodies and Fc fusions.
   type: diabody
   description: |-
-    RU169-178 is a single-chain variable fragment (scFv) single-domain ACE2 competing antibody. RU169-178-diabody and RU169-178-IgG1 are engineered forms of this sdAb.
+    RU169-178 is a single-chain variable fragment (scFv) single-domain ACE2- competing neutralizing mAb. RU169-178-diabody and RU169-178-IgG1 are engineered forms of this sdAb.
 - references:
   - doi: 10.1038/s41467-020-18174-5
     firstAuthor:
@@ -1513,7 +1531,7 @@
   - Alpaca immunized with S1-Fc and RBD to generate a phage display library.
   type: sdAb
   description: |-
-    Ty1 is an ACE2-competing single-domain mAb that binds the RBD in it up and down configurations.
+    Ty1 is an ACE2-competing single-domain neutralizing mAb that binds the RBD in it up and down configurations. It was derived from a phage display library derived from Alpaca immunized with S1-Fc and RBD.
 - references:
   - doi: 10.1101/2020.06.09.143438
     firstAuthor:
@@ -1525,7 +1543,6 @@
   - name: MR17
     ec50: 12000
     ec50Note: PV
-    pdb: RBD
     species: Alpaca
     IGHV: HV3S53
     PcntMutH: 21%
@@ -1538,6 +1555,15 @@
   - name: MR17-K99Y
     ec50: 500
     ec50Note: PV
+    species: Alpaca
+    IGHV: HV3S53
+    PcntMutH: 21%
+    CDRH3Len: 14
+    IGHJ: HJ4
+    IGLV:
+    PcntMutL:
+    CDRL3Len:
+    IGLJ:
   - name: MR3
     ec50: 400
     ec50Note: PV
@@ -1565,7 +1591,7 @@
   - name: SR4
     ec50: 5900
     ec50Note: PV
-    pdb: RDB
+    pdb: "RBD (7C8V)\nMR17: RBD (7CAN)"
     species: Alpaca
     IGHV: HV3-3
     PcntMutH: 14%
@@ -1580,7 +1606,7 @@
     RBD panning.
   type: sdAb
   description: |-
-    SR4, MR3, MR4, and MR17 belong to a panel of single-comain ACE2-competing mAbs that bind RBD in its up and down configurations. MR17-K99Y increased neutralization 24 fold.
+    SR4, MR3, MR4, and MR17 belong to a panel of single-comain neutralizing ACE2-competing mAbs derived from a synthetic nanobody phage display library selected for RBD binding. These mAbs bind RBD in its up and down configurations. MR17-K99Y increased neutralization 24 fold compared to MR17.
 - references:
   - doi: 10.1038/s41467-020-18387-8
     firstAuthor:
@@ -1592,26 +1618,71 @@
   antibodies:
   - name: '1E2'
     ec50: 240
+    species: Human
+    IGHV: HV3-30
+    PcntMutH: 18%
+    CDRH3Len: 18
+    IGHJ: HJ4
+    IGLV:
+    PcntMutL:
+    CDRL3Len:
+    IGLJ:
   - name: 1E2-FC
     ec50: 43
   - name: 2F2
     ec50: 294
+    species: Human
+    IGHV: HV3-23
+    PcntMutH: 17%
+    CDRH3Len: 18
+    IGHJ: HJ4
+    IGLV:
+    PcntMutL:
+    CDRL3Len:
+    IGLJ:
   - name: 2F2-Fc
     ec50: 32
   - name: 3F11
     ec50: 372
+    species: Human
+    IGHV: HV3-23
+    PcntMutH: 20%
+    CDRH3Len: 18
+    IGHJ: HJ4
+    IGLV:
+    PcntMutL:
+    CDRL3Len:
+    IGLJ:
   - name: 3F11-Fc
     ec50: 1
   - name: 4D8
     ec50: 125
+    species: Human
+    IGHV: HV3-23
+    PcntMutH: 18%
+    CDRH3Len: 18
+    IGHJ: HJ4
+    IGLV:
+    PcntMutL:
+    CDRL3Len:
+    IGLJ:
   - name: 4D8-Fc
     ec50: 37
   - name: 5F8
     ec50: 511
+    species: Human
+    IGHV: HV3-30
+    PcntMutH: 16%
+    CDRH3Len: 18
+    IGHJ: HJ4
+    IGLV:
+    PcntMutL:
+    CDRL3Len:
+    IGLJ:
   - name: 5F8-Fc
     ec50: 4
   source:
   - Synthetic humanized phage display library with RBD biopanning.
   type: sdAb
   description: |-
-    1E2, 2F2, 3F11, 4D8, and 5F8 belong to a panel of single-domain mAbs that neutralize SARS-CoV-2 in pseudovirus and infectious virus assays. Each sdAb either completely or partially competes with ACE2 binding. Fc fusion versions of these Abs increase neutralization.
+    1E2, 2F2, 3F11, 4D8, and 5F8 belong to a panel of single-domain neutralizig mAbs derived from a synthetic humanized phage display library that underent RBD panning. Each sdAb either completely or partially competes with ACE2 binding. Fc fusion versions of these Abs increase neutralization.
