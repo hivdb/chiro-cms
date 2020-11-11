@@ -22,6 +22,8 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### [Preprints => Peer-Reviewed Publications (Nov 10)](/page/updates/#preprints.peer-reviewed.publications)
+4 published preprints were added.
 ### Database Entries (Nov 09)
 Westberg M, Su Y, et int., and Lin MZ. [“Rational design of a new class of protease inhibitors for the potential treatment of coronavirus diseases.”](/search/?article=Westberg20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.15.275891](https://doi.org/10.1101/2020.09.15.275891).
 ### Database Entries (Nov 07)
@@ -122,20 +124,3 @@ Gilmore K, Zhou Y, et int., and Seeberger PH. [“In vitro efficacy of Artemisin
 ### [Preprints => Peer-Reviewed Publications (Oct 12)](/page/updates/#preprints.peer-reviewed.publications)
 
 3 published preprints were added.
-
-### [Clinical Trials (Oct 09)](/page/updates/#clinical.trials)
-[23 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-08)
-
-
-### [New spike structures (Oct 08)](/page/spike-structures/#fig11)
-Figure 11. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) spike receptor binding domain (RBD).
-
-### [New spike structures (Oct 08)](/page/spike-structures/#fig12)
-Figure 12. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) trimeric spike.
-
-### Webinar (Oct 07)
-Monoclonal Antibodies for the Prevention and Treatment of COVID 19. [video](https://www.youtube.com/watch?v=YUj9jBlTCrY)
-
-### [Press Release (Oct 07)](/page/updates/#press.release)
-- [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly202010071.pdf)
-- [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly202010072.pdf)
