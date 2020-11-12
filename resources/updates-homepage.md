@@ -22,16 +22,21 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
-### [Preprints => Peer-Reviewed Publications (Nov 10)](/page/updates/#preprints.peer-reviewed.publications)
-4 published preprints were added.
+### [Published preprints - week of November 9](/page/updates/#preprints.peer-reviewed.publications)
+(Studies in CoV-RDB originally published as preprints)
+
+[Beddingfield BJ](/search/?article=Beddingfield20) (_JACC Basic Transl Sci_);[Chen CZ](/search/?article=Chen20f) (_ACS Pharmacol. Transl. Sci._);[Ghahremanpour MM](/search/?article=Ghahremanpour20) (_ACS Med. Chem. Lett._);[Lou Y](/search/?article=Lou20) (_EJPS_);
 ### Database Entries (Nov 09)
 Westberg M, Su Y, et int., and Lin MZ. [“Rational design of a new class of protease inhibitors for the potential treatment of coronavirus diseases.”](/search/?article=Westberg20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.15.275891](https://doi.org/10.1101/2020.09.15.275891).
 ### Database Entries (Nov 07)
 Chi X, Liu X, et int., and Yang W. [“Humanized single domain antibodies neutralize SARS-CoV-2 by targeting the spike receptor binding domain.”](/search/?article=Chi20b) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-18387-8](https://doi.org/10.1038/s41467-020-18387-8). \[[PubMed32913273](https://www.ncbi.nlm.nih.gov/pubmed/32913273/)\] \[[PMC7483421](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7483421/)\]
 ### Database Entries (Nov 07)
 de Vries RD, Schmitz KS, et int., and Porotto M. [“Intranasal fusion inhibitory lipopeptide prevents direct contact SARS-CoV-2 transmission in ferrets.”](/search/?article=deVries20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.04.361154](https://doi.org/10.1101/2020.11.04.361154).
-### [Preprints => Peer-Reviewed Publications (Nov 7)](/page/updates/#preprints.peer-reviewed.publications)
-2 published preprints were added.
+
+### [Published preprints - week of November 2](/page/updates/#preprints.peer-reviewed.publications)
+(Studies in CoV-RDB originally published as preprints)
+
+[Custódio TF](/search/?article=Custodio20) (_Ncomms_); [Schoof M](/search/?article=Schoof20) (_Science_); [Li W](/search/?article=Li20b) (_PNAS_); [Kreye J](/search/?article=Kreye20) (_Cell_); [Matsuyama S](/search/?article=Matsuyama20) (_JVI_);
 ### [Clinical Trials (Nov 05)](/page/updates/#clinical.trials)
 [4 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-05)
 
@@ -45,8 +50,6 @@ Cai Y, Xu W, et int., and Jiang S. [“Griffithsin with A Broad-Spectrum Antivir
 Weisblum Y, Schmidt F, et int., and Bieniasz PD. [“Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants.”](/search/?article=Weisblum20) _bioRxiv_, 2020. [doi.org/10.1101/2020.07.21.214759](https://doi.org/10.1101/2020.07.21.214759). \[[PubMed32743579](https://www.ncbi.nlm.nih.gov/pubmed/32743579/)\] \[[PMC7386497](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386497/)\]
 ### Database Entries (Nov 04)
 Yuan S, Yin X, et int., and Yuen K. [“Clofazimine is a broad-spectrum coronavirus inhibitor that antagonizes SARS-CoV-2 replication in primary human cell culture and hamsters.”](/search/?article=Yuan20e) _Research square_, 2020. [doi.org/10.21203/rs.3.rs-86169/v1](https://doi.org/10.21203/rs.3.rs-86169/v1). \[[PubMed33052331](https://www.ncbi.nlm.nih.gov/pubmed/33052331/)\] \[[PMC7553155](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7553155/)\]
-### [Preprints => Peer-Reviewed Publications (Nov 4)](/page/updates/#preprints.peer-reviewed.publications)
-1 published preprints were added.
 ### Database Entries (Nov 03)
 Bakovic A, Risner K, et int., and Narayanan A. [“Brilacidin, a COVID-19 Drug Candidate, Exhibits Potent In Vitro Antiviral Activity Against SARS-CoV-2.”](/search/?article=Bakovic20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.29.352450](https://doi.org/10.1101/2020.10.29.352450).
 ### Database Entries (Nov 03)
@@ -65,10 +68,6 @@ Mellott D, Tseng C, et int., and McKerrow JH. [“A cysteine protease inhibitor 
 Rosenfeld R, Noy-Porat T, et int., and Mazor O. [“Post-exposure protection of SARS-CoV-2 lethal infected K18-hACE2 transgenic mice by neutralizing human monoclonal antibody.”](/search/?article=Rosenfeld20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.26.354811](https://doi.org/10.1101/2020.10.26.354811).
 ### Database Entries (Nov 03)
 Zandi K, Amblard F, et int., and Schinazi RF. [“Repurposing Nucleoside Analogs for Human Coronaviruses.”](/search/?article=Zandi20) _Antimicrobial Agents and Chemotherapy_, 2020. [doi.org/10.1128/aac.01652-20](https://doi.org/10.1128/aac.01652-20). \[[PubMed33122172](https://www.ncbi.nlm.nih.gov/pubmed/33122172/)\]
-
-### [Preprints => Peer-Reviewed Publications (Nov 3)](/page/updates/#preprints.peer-reviewed.publications)
-
-2 published preprints were added.
 
 ### Database Entries (Nov 02)
 Cao X, Maruyama J, et int., and Allen RD. [“Discovery and Development of Human SARS-CoV-2 Neutralizing Antibodies using an Unbiased Phage Display Library Approach.”](/search/?article=Cao20f) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.27.316174](https://doi.org/10.1101/2020.09.27.316174).
@@ -121,6 +120,3 @@ Beigel JH, Tomashek KM, et int., and Lane HC. [“Remdesivir for the Treatment o
 Cho J, Lee YJ, et int., and Choi J. [“Antiviral activity of digoxin and ouabain against SARS-CoV-2 infection and its implication for COVID-19.”](/search/?article=Cho20) _SREP_, 2020. [doi.org/10.1038/s41598-020-72879-7](https://doi.org/10.1038/s41598-020-72879-7). \[[PubMed33004837](https://www.ncbi.nlm.nih.gov/pubmed/33004837/)\] \[[PMC7530981](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530981/)\]
 ### Database Entries (Oct 12)
 Gilmore K, Zhou Y, et int., and Seeberger PH. [“In vitro efficacy of Artemisinin-based treatments against SARS-CoV-2.”](/search/?article=Gilmore20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.05.326637](https://doi.org/10.1101/2020.10.05.326637).
-### [Preprints => Peer-Reviewed Publications (Oct 12)](/page/updates/#preprints.peer-reviewed.publications)
-
-3 published preprints were added.

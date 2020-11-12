@@ -125,7 +125,7 @@ antibodyMeta
 
 <div class="figure-caption">
 
-## [Figure 6](#fig6). RBD ACE2-competing mAbs with large overlap(>50%).
+## [Figure 6](#fig6). RBD ACE2-competing mAbs with large overlap (>50%).
 
 B38, BD-23, BD-236, BD-604, BD-629, CB6, CC12.1, CC12.3, COVA2-40, COVA2-39, CV07-250, and CV30 are ACE2-competing mAbs that bind to a high proportion of ACE2-binding residues. B38, BD-236, BD-604, BD-629, CC12.1, CC12.3, COVA2-40, COVA2-39, and CV30 are encoded by the same variable heavy chain gene IGHV3-53. The bottom row shows the RBD rotated 180 degrees. The ACE2-binding residues are shown in green.
 
@@ -143,7 +143,7 @@ B38, BD-23, BD-236, BD-604, BD-629, CB6, CC12.1, CC12.3, COVA2-40, COVA2-39, CV0
 
 <div class="figure-caption">
 
-## [Figure 7](#fig7). RBD ACE2-competing mAbs with small overlap. (<50%).
+## [Figure 7](#fig7). RBD ACE2-competing mAbs with small overlap (<50%).
 
 2-4, BD-368-2, C105, CV07-270, H11-D4, H11-H4, P2-2F6, Sb23, and Ty1 are ACE2-competing mAbs that bind to overlapping residues. H11-H4 and H11-D4 are nanobodies that bind to the same region. These mAbs generally bind a lower proportion of ACE2-binding residues (compared with those in Figure 6), only C105 is encoded by IGHV3-53. The bottom row shows the RBD rotated 180 degrees. The ACE2-binding residues are shown in green.
 
@@ -201,7 +201,7 @@ REGN19033 and REGN10987 are ACE2-competing mAbs that bind to non-overlapping epi
 
 ## [Figure 10](#fig10). Naturally occurring spike RBD variants and mAb escape mutations.
 
-Loop representation of RBD positions 333 to 526 showing SARS-CoV-2 variants reported in >0.05% of reported virus isolates(blue) (A) and escape mutations(magenta) reported during in vitro virus passage (Baum et al DOI; Weisblum et al DOI) with mAbs C105 and REGN10987 and REGN10933 (B). ACE2-binding residues are in yellow.
+Loop representation of RBD positions 333 to 526 showing SARS-CoV-2 variants reported in >0.05% of reported virus isolates (blue) (A) and escape mutations (magenta) reported during in vitro virus passage (Baum et al DOI; Weisblum et al DOI) with mAbs C105 and REGN10987 and REGN10933 (B). ACE2-binding residues are in yellow.
 
 </div>
 
