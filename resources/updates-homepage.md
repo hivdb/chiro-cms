@@ -25,7 +25,7 @@ Instruction:
 ### [Published preprints - week of November 9](/page/updates/#preprints.peer-reviewed.publications)
 (Studies in CoV-RDB originally published as preprints)
 
-[Beddingfield BJ](/search/?article=Beddingfield20) (_JACC Basic Transl Sci_);[Chen CZ](/search/?article=Chen20f) (_ACS Pharmacol. Transl. Sci._);[Ghahremanpour MM](/search/?article=Ghahremanpour20) (_ACS Med. Chem. Lett._);[Lou Y](/search/?article=Lou20) (_EJPS_);
+[Beddingfield BJ](/search/?article=Beddingfield20) (_JACC Basic Transl Sci_); [Chen CZ](/search/?article=Chen20f) (_ACS Pharmacol. Transl. Sci._); [Ghahremanpour MM](/search/?article=Ghahremanpour20) (_ACS Med. Chem. Lett._); [Lou Y](/search/?article=Lou20) (_EJPS_);
 ### Database Entries (Nov 09)
 Westberg M, Su Y, et int., and Lin MZ. [“Rational design of a new class of protease inhibitors for the potential treatment of coronavirus diseases.”](/search/?article=Westberg20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.15.275891](https://doi.org/10.1101/2020.09.15.275891).
 ### Database Entries (Nov 07)
