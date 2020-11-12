@@ -9,6 +9,11 @@ updates:
   _resource: updates-homepage.md
 missionStatement:
   _resource: mission-statement.md
+highlights:
+  - title: SARS-CoV-2 mAbs tracker
+    description: Clinical trials, animal model studies, inhibitory potency, sequence data, and structural data
+    link: /page/mab-tables/
+    image: home/edumat-mab-tables.png
 publications:
   - title: Editorial
     description: A SARS-CoV-2 antiviral therapy score card
@@ -40,7 +45,7 @@ eduMaterials:
     description: A mutation annotation viewer of Spike gene
     link: /mut-annot-viewer/SARS2S/
     image: home/edumat-spike-viewer.png
-  - title: Monoclonal antibodies
+  - title: SARS-CoV-2 mAbs tracker
     description: Clinical trials, animal model studies, inhibitory potency, sequence data, and structural data
     link: /page/mab-tables/
     image: home/edumat-mab-tables.png
