@@ -4,7 +4,6 @@ import re
 import csv
 import json
 from functools import lru_cache
-from collections import defaultdict
 
 import click
 import requests
@@ -44,9 +43,9 @@ def get_first(row, *keys, required=True, type_coerce=str, null_value='NA'):
 
 
 def smart_split2(text, seps=';\r\n'):
-    pattern = re.compile(r'[{}]+'.format(re.escape(seps)))
     if not text:
         return []
+    pattern = re.compile(r'[{}]+'.format(re.escape(seps)))
     parts = [r.strip() for r in pattern.split(text)]
     return [r for r in parts if r]
 
@@ -98,7 +97,8 @@ def extract_short_journal_title(result):
 
 def extract_references(row, refid_lookup):
     refids = get_first(row, 'refids')
-    if not refids:
+    free_text_refs = get_first(row, 'freetextrefs', required=False)
+    if not refids and not free_text_refs:
         return []
     refobjs = []
     for refid in REFID_PATTERN.findall(refids):
@@ -118,6 +118,8 @@ def extract_references(row, refid_lookup):
         if journal_short and journal != journal_short:
             refobj['journalShort'] = journal_short
         refobjs.append(refobj)
+    for free_text in smart_split2(free_text_refs):
+        refobjs.append({'freeText': free_text})
     return refobjs
 
 
@@ -146,131 +148,58 @@ def contains_word(text, word):
     return bool(match)
 
 
-def parse_ec50(parts):
+def parse_ec50(ec50desc):
     ec50obj = {}
-    for part in parts:
-        match = EC50_PATTERN.search(part)
-        if match:
-            result = []
-            unit = match.group(3) or 'ng/ml'
-            unit = unit_variants[unit.lower()]
-            ec50cmp = match.group(1) or '='
-            number = float(match.group(2).replace(',', ''))
-            if ec50cmp != '=':
-                result.append(ec50cmp)
-            result.append('{:2f}'.format(number)
-                          .rstrip('0').rstrip('.'))
-            if unit != 'ng/ml':
-                result.append(unit)
-            if len(result) == 1:
-                result = result[0]
-                if '.' in result:
-                    result = float(result)
-                else:
-                    result = int(result)
+    match = EC50_PATTERN.search(ec50desc)
+    if match:
+        result = []
+        unit = match.group(3) or 'ng/ml'
+        unit = unit_variants[unit.lower()]
+        ec50cmp = match.group(1) or '='
+        number = float(match.group(2).replace(',', ''))
+        if ec50cmp != '=':
+            result.append(ec50cmp)
+        result.append('{:2f}'.format(number)
+                      .rstrip('0').rstrip('.'))
+        if unit != 'ng/ml':
+            result.append(unit)
+        if len(result) == 1:
+            result = result[0]
+            if '.' in result:
+                result = float(result)
             else:
-                result = ''.join(result)
-            ec50obj['ec50'] = result
-        if 'PV' in part:
-            ec50obj['ec50Note'] = 'PV'
-        elif 'IC100' in part:
-            ec50obj['ec50Note'] = 'IC100'
-        elif 'IC90' in part:
-            ec50obj['ec50Note'] = 'IC90'
+                result = int(result)
+        else:
+            result = ''.join(result)
+        ec50obj['ec50'] = result
+    if 'PV' in ec50desc:
+        ec50obj['ec50Note'] = 'PV'
+    elif 'IC100' in ec50desc:
+        ec50obj['ec50Note'] = 'IC100'
+    elif 'IC90' in ec50desc:
+        ec50obj['ec50Note'] = 'IC90'
     return ec50obj
 
 
-def extract_ec50(row, ab_names):
-    ec50s = get_first(row, 'ec50', required=False)
-    if not ec50s:
+def extract_antibodies(row):
+    antibodies = get_first(row, 'mab (ec50)', required=False)
+    if not antibodies:
         return {}
-    ec50s = smart_split2(ec50s)
-    ec50lookup = {}
-    for ec50desc in ec50s:
-        for ab_name in ab_names:
-            if not contains_word(ec50desc, ab_name):
-                continue
-            ec50lookup[ab_name] = parse_ec50(ec50desc.split(ab_name))
-            break
-    if not ec50lookup and ec50s and len(ab_names) == 1:
-        ec50lookup[ab_name] = parse_ec50(ec50s)
-    return ec50lookup
-
-
-def extract_pdb(row, ab_names):
-    pdbs = get_first(row, 'pdb structures', 'pdb', required=False)
-    if not pdbs:
-        return {}
-    pdbs = smart_split2(pdbs, ';')
-    pdblookup = defaultdict(list)
-    for pdbdesc in pdbs:
-        for ab_name in ab_names:
-            if not contains_word(pdbdesc, ab_name):
-                continue
-            for part in pdbdesc.split(ab_name, 1):
-                part = part.strip(': \t')
-                if part and '*' not in part:
-                    pdblookup[ab_name].append(part)
-                    break
-            break
-    if not pdblookup and pdbs and len(ab_names) == 1:
-        pdblookup[ab_names[0]] = pdbs
-    return {name: '\n'.join(pdbs) for name, pdbs in pdblookup.items()}
-
-
-def extract_animal_model_field(row, ab_names, *field_names):
-    value = get_first(row, *field_names, required=False, null_value='?')
-    if not value:
-        return {}
-    value = smart_split2(value)
-    value_lookup = {}
-    for ab_value in value:
-        for ab_name in ab_names:
-            if not contains_word(ab_value, ab_name):
-                continue
-            for part in ab_value.split(ab_name, 1):
-                part = part.strip(': \t')
-                value_lookup[ab_name] = part
-    if not value_lookup and value and len(ab_names) == 1:
-        value_lookup[ab_names[0]] = value[0]
-    return value_lookup
-
-
-def extract_antibodies(row, alnlookup):
-    ab_names = smart_split2(get_first(
-        row, 'mab names', 'ab names', 'antibody names', 'mab name(s)'))
-    ec50lookup = extract_ec50(row, ab_names)
-    pdblookup = extract_pdb(row, ab_names)
-
-    weight_loss_lu = extract_animal_model_field(row, ab_names, 'weight loss')
-    lung_vl_lu = extract_animal_model_field(row, ab_names, 'lung vl')
-    lung_path_lu = extract_animal_model_field(row, ab_names, 'lung path')
-
-    ab_objs = []
-    for ab_name in ab_names:
-        ab_obj = {
-            'name': ab_name
-        }
-        ec50obj = ec50lookup.get(ab_name)
-        if ec50obj:
-            ab_obj.update(ec50obj)
-        pdbdesc = pdblookup.get(ab_name)
-        if pdbdesc:
-            ab_obj['pdb'] = pdbdesc
-        alndata = alnlookup.get(ab_name)
-        if alndata:
-            ab_obj.update(alndata)
-        ab_objs.append(ab_obj)
-        weight_loss = weight_loss_lu.get(ab_name)
-        if weight_loss:
-            ab_obj['weightLoss'] = weight_loss
-        lung_vl = lung_vl_lu.get(ab_name)
-        if lung_vl:
-            ab_obj['lungVL'] = lung_vl
-        lung_path = lung_path_lu.get(ab_name)
-        if lung_path:
-            ab_obj['lungPath'] = lung_path
-    return sorted(ab_objs, key=lambda obj: obj['name'])
+    result = []
+    for antibody in smart_split2(antibodies):
+        antibody = antibody.split(' ', 1)
+        if len(antibody) == 1:
+            result.append({
+                'name': antibody[0]
+            })
+        else:
+            antibody, ec50desc = antibody
+            ec50obj = parse_ec50(ec50desc)
+            result.append({
+                'name': antibody,
+                **ec50obj
+            })
+    return result
 
 
 def load_data(fp):
@@ -310,28 +239,6 @@ def extract_cdrlen(text):
         return int(match.group(1))
 
 
-def load_aln_data(fp):
-    if fp is None:
-        return {}
-    lookup = {}
-    for row in csv.DictReader(fp):
-        for key in row:
-            row[key] = row[key].replace('_x000D_\n', '\n')
-        ab_name = row['Mab']
-        lookup[ab_name] = {
-            'species': row['Species'],
-            **extract_igxx(row['IGHV (% Somatic hypermutation)'],
-                           'IGHV', 'PcntMutH'),
-            'CDRH3Len': extract_cdrlen(row['CDRH3']),
-            **extract_igxx(row['IGHJ'], 'IGHJ'),
-            **extract_igxx(row['IGLV (% Somatic hypermutation)'],
-                           'IGLV', 'PcntMutL'),
-            'CDRL3Len': extract_cdrlen(row['CDRL3']),
-            **extract_igxx(row['IGLJ'], 'IGLJ')
-        }
-    return lookup
-
-
 def load_refid_lookup(fp):
     pair = json.load(fp)
     lookup = {}
@@ -351,53 +258,37 @@ def yaml_filename(groupobj):
 @click.argument('input_mabcsv',
                 type=click.File('r', encoding='utf-8-sig'))
 @click.option(
-    '--alignment', type=click.File('r', encoding='utf-8-sig'),
-    help='MAb Alignment CSV file')
-@click.option(
     '--refid-lookup', type=click.File('r', encoding='utf-8-sig'),
     help='RefID2DOI lookup JSON file')
 @click.argument('output_yaml', type=click.File('w'))
-def mabcsv2yaml(input_mabcsv, alignment, refid_lookup, output_yaml):
+def mabcsv2yaml(input_mabcsv, refid_lookup, output_yaml):
 
     mabdata = load_data(input_mabcsv)
-    alnlookup = load_aln_data(alignment)
     refid_lookup = load_refid_lookup(refid_lookup)
     groups = []
     for row in mabdata:
         groupobj = {
             'references': extract_references(row, refid_lookup),
-            'antibodies': extract_antibodies(row, alnlookup),
+            'antibodies': extract_antibodies(row),
         }
-        source = get_first(row, 'source', 'sources', required=False)
+        source = get_first(row, 'source', 'sources')
         if source:
-            groupobj['source'] = smart_split2(source)
+            groupobj['source'] = PreservedScalarString(source)
 
-        type_ = get_first(row, 'type', required=False)
-        if type_:
-            groupobj['type'] = type_
-
-        desc = get_first(row, 'description', required=False)
+        desc = get_first(row, 'description')
         if desc:
             groupobj['description'] = PreservedScalarString(desc)
 
-        animal_model = get_first(
-            row, 'animal model', 'animal models', required=False)
-        if animal_model:
-            groupobj['animalModel'] = PreservedScalarString(animal_model)
+        groupobj['dataAvailability'] = {}
+        if get_first(row, 'seq'):
+            groupobj['dataAvailability']['sequence'] = True
+        if get_first(row, 'pdb'):
+            groupobj['dataAvailability']['structure'] = True
+        if get_first(row, 'animal'):
+            groupobj['dataAvailability']['animal'] = True
+        if get_first(row, 'trial'):
+            groupobj['dataAvailability']['trial'] = True
 
-        company = get_first(row, 'company', required=False)
-        if company:
-            groupobj['company'] = company
-
-        phase = get_first(row, 'phase', required=False)
-        if phase:
-            groupobj['phase'] = phase
-
-        clinical_trials = get_first(
-            row, 'nct number', 'trial number', 'clinical trial',
-            'clinical trial number', required=False)
-        if clinical_trials:
-            groupobj['clinicalTrials'] = PreservedScalarString(clinical_trials)
         groups.append(groupobj)
     yaml.dump(groups, output_yaml)
 

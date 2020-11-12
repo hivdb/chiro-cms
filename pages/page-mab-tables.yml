@@ -1,64 +1,12 @@
 ---
 pageTitle: Monoclonal Antibodies
-# heroImage: signpost.jpg
 heroImage: mab-tables-bg.jpg
 introHeader: |-
   Monoclonal Antibodies
 content:
-  _resource: mab-tables.md
+  _resource: mabs-table.md
 tables:
-
-  clinicalTrialMAbs:
-    columnDefs:
-    - name: antibodies.name
-      label: MAb name
-      multiCells: true
-    - name: company
-      label: Company
-    - name: phase
-      label: Phase
-    - name: clinicalTrials
-      label: Trial Number(s)
-      render: nl2br
-      headCellStyle:
-        minWidth: 22rem
-    - name: references
-      label: References
-      render: articleList
-      sort: articleList
-    - name: description
-      label: Description
-      textAlign: left
-      render: nl2br
-      sortable: false
-    data:
-      _resource: clinical-trial-mabs.json
-
-  animalModelMAbs:
-    columnDefs:
-    - name: references
-      label: References
-      render: articleList
-      sort: articleList
-    - name: antibodies.name
-      label: MAb name
-      multiCells: true
-    - name: animalModel
-      label: Animal model
-      render: nl2br
-    - name: antibodies.weightLoss
-      label: Weight Loss
-      multiCells: true
-    - name: antibodies.lungVL
-      label: Lung VL
-      multiCells: true
-    - name: antibodies.lungPath
-      label: Lung Path
-      multiCells: true
-    data:
-      _resource: animal-model-mabs.json
-
-  publishedMAbs:
+  MAbs:
     tableStyle:
       tableLayout: fixed
     columnDefs:
@@ -70,94 +18,46 @@ tables:
         width: 13rem
     - name: source
       label: Source
-      render: join
-      renderConfig:
-        joinBy: ";\n"
+      textAlign: left
+      render: nl2br
       headCellStyle:
         width: 13rem
-    - name: type
-      label: Type
-      render: nowrap
+    - name: antibodies
+      label: MAb (EC50)
+      render: compoundEC50Obj
+      sortable: false
       headCellStyle:
-        width: 4rem
-    - name: antibodies.name
-      label: MAb
-      multiCells: true
-      headCellStyle:
-        width: 7.5rem
-    - name: antibodies.ec50
-      label: EC50
-      render: nowrap
-      sort: numeric
-      multiCells: true
-      headCellStyle:
-        width: 5.5rem
-    - name: antibodies.pdb
-      label: PDB
-      render: nl2br
-      multiCells: true
-      headCellStyle:
-        width: 8rem
+        width: 14rem
     - name: description
       label: Description
       textAlign: left
       render: nl2br
       sortable: false
       headCellStyle:
-        width: 28rem
-    - name: antibodies.IGHV
-      label: IGHV
-      render: nl2br
-      multiCells: true
+        width: 32rem
+    - name: dataAvailability.sequence
+      label: Seq
+      render: checkMark
       headCellStyle:
-        width: 5.5rem
-    - name: antibodies.PcntMutH
-      label: SHM<sup>H</sup>
-      render: nowrap
-      sort: numeric
-      multiCells: true
+        width: 3.5rem
+    - name: dataAvailability.structure
+      label: PDB
+      render: checkMark
       headCellStyle:
-        width: 4rem
-    - name: antibodies.CDRH3Len
-      label: H3
-      render: nowrap
-      multiCells: true
+        width: 3.5rem
+    - name: dataAvailability.animal
+      label: Animal
+      render: checkMark
       headCellStyle:
-        width: 2.5rem
-    - name: antibodies.IGHJ
-      label: IGHJ
-      render: nl2br
-      multiCells: true
+        width: 5rem
+    - name: dataAvailability.trial
+      label: Trial
+      render: checkMark
       headCellStyle:
-        width: 5.5rem
-    - name: antibodies.IGLV
-      label: IGLV
-      render: nl2br
-      multiCells: true
-      headCellStyle:
-        width: 5.5rem
-    - name: antibodies.PcntMutL
-      label: SHM<sup>L</sup>
-      render: nowrap
-      sort: numeric
-      multiCells: true
-      headCellStyle:
-        width: 4rem
-    - name: antibodies.CDRL3Len
-      label: L3
-      render: nowrap
-      multiCells: true
-      headCellStyle:
-        width: 2.5rem
-    - name: antibodies.IGLJ
-      label: IGLJ
-      render: nl2br
-      multiCells: true
-      headCellStyle:
-        width: 5.5rem
+        width: 3.5rem
     data:
-      _resource: published-mabs.json
+      _resource: mabs-table.json
 
-toc: true
+toc: false
 escapeHtml: false
 ...
