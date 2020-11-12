@@ -7,4 +7,19 @@ content:
   _resource: spike-structures.md
 toc: false
 escapeHtml: false
+tables:
+  antibodyMeta:
+    columnDefs:
+    - name: mAb
+      label: mAb
+    - name: PDB
+      label: PDB
+    - name: target
+      label: Target
+    - name: ace2_competing
+      label: ACE2-competing
+    - name: IGHV
+      label: IGHV
+    data:
+      _resource: antibody-meta.json
 ...

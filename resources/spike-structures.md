@@ -101,13 +101,15 @@ The four S1 domains – N terminal domain (NTD; aka S1A; cyan), receptor binding
 
 <div class="figure-image">
 
-![Antibody metadata](spike-structures/table1.png#!maxHeight=30rem)
+[table]
+antibodyMeta
+[/table]
 
 </div>
 
 <div class="figure-caption">
 
-## [Table 1](#table1). Antibody metadata
+## [Table 1](#table1). SARS-CoV-2 neutralizing monoclonal antibodies (mAbs) with structural information from Protein Data Bank(PDB)
 
 </div>
 
@@ -117,15 +119,15 @@ The four S1 domains – N terminal domain (NTD; aka S1A; cyan), receptor binding
 
 <div class="figure-image">
 
-![RBD ACE2-competing antibody residues large footprint](spike-structures/fig6.png#!maxHeight=70rem)
+![RBD ACE2-competing mAbs with large overlap](spike-structures/fig6.png#!maxHeight=70rem)
 
 </div>
 
 <div class="figure-caption">
 
-## [Figure 6](#fig6). RBD ACE2-competing antibody residues, large ACE2 footprint(>50%).
+## [Figure 6](#fig6). RBD ACE2-competing mAbs with large overlap(>50%).
 
-B38, BD-23, BD-236, BD-604, BD-629, CB6, CC12.1, CC12.3, COVA2-40, COVA2-39, CV07-250, and CV30 are ACE2-competing monoclonal antibodies (mAbs) that bind to a high proportion of ACE2-binding residues. B38, BD-236, BD-604, BD-629, CC12.1, CC12.3, COVA2-40, COVA2-39, and CV30 are encoded by the same variable heavy chain gene IGHV3-53. The bottom row shows the RBD rotated 180 degrees. The ACE2-binding residues are shown in green.
+B38, BD-23, BD-236, BD-604, BD-629, CB6, CC12.1, CC12.3, COVA2-40, COVA2-39, CV07-250, and CV30 are ACE2-competing mAbs that bind to a high proportion of ACE2-binding residues. B38, BD-236, BD-604, BD-629, CC12.1, CC12.3, COVA2-40, COVA2-39, and CV30 are encoded by the same variable heavy chain gene IGHV3-53. The bottom row shows the RBD rotated 180 degrees. The ACE2-binding residues are shown in green.
 
 </div>
 
@@ -135,15 +137,15 @@ B38, BD-23, BD-236, BD-604, BD-629, CB6, CC12.1, CC12.3, COVA2-40, COVA2-39, CV0
 
 <div class="figure-image">
 
-![RBD ACE2-competing (Receptor Binding Motif, RBM) antibody residues, small footprint](spike-structures/fig7.png#!maxHeight=70rem)
+![RBD ACE2-competing mAbs with small overlap](spike-structures/fig7.png#!maxHeight=70rem)
 
 </div>
 
 <div class="figure-caption">
 
-## [Figure 7](#fig7). RBD ACE2-competing antibody residues, smaller ACE2 footprint (<50%).
+## [Figure 7](#fig7). RBD ACE2-competing mAbs with small overlap. (<50%).
 
-2-4, BD-368-2, C105, CV07-270, H11-D4, H11-H4, P2-2F6, Sb23, and Ty1 are ACE2-competing monoclonal antibodies (mAbs) that bind to overlapping residues. H11-H4 and H11-D4 are nanobodies that bind to the same region. These mAbs generally bind a lower proportion of ACE2-binding residues (compared with those in Figure 6), only C105 is encoded by IGHV3-53. The bottom row shows the RBD rotated 180 degrees. The ACE2-binding residues are shown in green.
+2-4, BD-368-2, C105, CV07-270, H11-D4, H11-H4, P2-2F6, Sb23, and Ty1 are ACE2-competing mAbs that bind to overlapping residues. H11-H4 and H11-D4 are nanobodies that bind to the same region. These mAbs generally bind a lower proportion of ACE2-binding residues (compared with those in Figure 6), only C105 is encoded by IGHV3-53. The bottom row shows the RBD rotated 180 degrees. The ACE2-binding residues are shown in green.
 
 </div>
 
@@ -153,15 +155,15 @@ B38, BD-23, BD-236, BD-604, BD-629, CB6, CC12.1, CC12.3, COVA2-40, COVA2-39, CV0
 
 <div class="figure-image">
 
-![RBD core (non-ACE2-competing residues) mAb epitopes](spike-structures/fig8.png#!maxHeight=35rem)
+![RBD non-ACE2-competing mAbs](spike-structures/fig8.png#!maxHeight=35rem)
 
 </div>
 
 <div class="figure-caption">
 
-## [Figure 8](#fig8). RBD core (non-ACE2-competing residues) mAb epitopes.
+## [Figure 8](#fig8). RBD non-ACE2-competing mAbs.
 
-RBD core is defined as the part of the RBD that does not contain the ACE2-competing residues. CR3022 and S309 are non-ACE2-competing monoclonal antibodies (mAb) that bind non-overlapping RBD core epitopes. EY6A, H014, and COVA1-16 are non-ACE2-competing monoclonal antibodies that overlap with CR3022 (PDB: [6M0J]). The bottom row shows the RBD rotated 180 degrees. The ACE2-binding residues are shown in green.
+RBD core is defined as the part of the RBD that does not contain the ACE2-competing residues. CR3022 and S309 are non-ACE2-competing mAbs that bind non-overlapping RBD core epitopes. EY6A, H014, and COVA1-16 are non-ACE2-competing mAbs that overlap with CR3022 (PDB: [6M0J]). The bottom row shows the RBD rotated 180 degrees. The ACE2-binding residues are shown in green.
 
 </div>
 
@@ -181,7 +183,7 @@ RBD core is defined as the part of the RBD that does not contain the ACE2-compet
 
 ## [Figure 9](#fig9). Regeneron ACE2-competing mAbs.
 
-REGN19033 and REGN10987 are ACE2-competing monoclonal antibodies (mAbs) that bind to non-overlapping epitopes.
+REGN19033 and REGN10987 are ACE2-competing mAbs that bind to non-overlapping epitopes.
 
 </div>
 
