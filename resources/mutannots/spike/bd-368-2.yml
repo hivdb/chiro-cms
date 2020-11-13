@@ -1,0 +1,13 @@
+name: BD-368-2
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1016/j.cell.2020.09.035
+  author: Du
+  year: 2020
+  section: 'PDB: 7CHH'
+  positions: [444, 446, 447, 449, 450, 452, 470, 480, 481, 482, 483, 484, 485, 490]
+positions:
+- subgroup: BD-368-2
+  positions: [444, 446, 447, 449, 450, 452, 470, 480, 481, 482, 483, 484, 485, 490]

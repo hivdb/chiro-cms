@@ -34,18 +34,37 @@ annotCategories:
   - EY6A
   - S309
   - P2B-2F6
-  - BD23
+  - BD-23
+  - BD-236
+  - BD-368-2
+  - BD-604
+  - BD-629
+  - C002
+  - C105
+  - C121
+  - C135
+  - C144
   - 2-4
+  - COVA1-16
+  - COVA2-04
+  - COVA2-39
   - H11-D4
   - H11-H4
   - B38
   - CB6
-  - C105
   - CC12.1
   - CC12.3
   - CV30
+  - CV07-250
+  - CV07-270
   - REGN10987
   - REGN10933
+  - 4A8
+  - H014
+  - MR17-K99Y
+  - Sb23
+  - SR4
+  - Ty1
 - name: polymorphism
   dropdown: true
   defaultAnnot: var2000

@@ -1,0 +1,13 @@
+name: 4A8
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1126/science.abc6952
+  author: Chi
+  year: 2020
+  section: 'PDB: 7C2L'
+  positions: [143, 144, 145, 146, 147, 150, 152, 245, 246, 247, 248, 249, 257]
+positions:
+- subgroup: 4A8
+  positions: [143, 144, 145, 146, 147, 150, 152, 245, 246, 247, 248, 249, 257]

@@ -1,0 +1,13 @@
+name: C135
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1038/s41586-020-2852-1
+  author: Barnes
+  year: 2020
+  section: 'PDB: 7K8Z'
+  positions: [345, 346, 437, 438, 439, 440, 441, 450, 499]
+positions:
+- subgroup: C135
+  positions: [345, 346, 437, 438, 439, 440, 441, 450, 499]

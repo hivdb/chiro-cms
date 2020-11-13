@@ -1,0 +1,15 @@
+name: COVA2-39
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1101/2020.08.02.233536
+  author: Liu
+  year: 2020
+  section: 'PDB: 7JMP'
+  positions: [417, 446, 449, 455, 456, 475, 478, 483, 484, 485, 486, 487, 489,
+    490, 492, 493, 494, 495, 496]
+positions:
+- subgroup: COVA2-39
+  positions: [417, 446, 449, 455, 456, 475, 478, 483, 484, 485, 486, 487, 489,
+    490, 492, 493, 494, 495, 496]
