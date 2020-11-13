@@ -194,8 +194,8 @@
       givenNames: Alina
     year: 2020
     journal: bioRxiv
-  - freeText: Press Release [[1]]($$CMS_PREFIX$$downloads/press-release/Regeneron20201028.pdf) /
-      [[2]]($$CMS_PREFIX$$downloads/press-release/Regeneron20201030.pdf)
+  - freeText: Press Release [[1]]($$CMS_PREFIX$$downloads/press-release/Regeneron20201028.pdf)
+      / [[2]]($$CMS_PREFIX$$downloads/press-release/Regeneron20201030.pdf)
   - freeText: (Regeneron)
   antibodies:
   - name: REGN10933

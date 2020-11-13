@@ -18,6 +18,6 @@ rm resources/mab-table-data.yml 2>/dev/null || true
 pipenv run python3 scripts/mabcsv2yaml.py \
     ${CSVDIR}/MAbs.csv \
     --refid-lookup ${CSVDIR}/articles.json \
-    resources/mabs-table-data.yml
+    resources/mabs-table.yml
 
 touch resources/
