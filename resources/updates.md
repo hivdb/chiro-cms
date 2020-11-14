@@ -73,6 +73,10 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- November 13
+    - Cornelissen L, Hoefsmit E, et int., and Blank CU. [“Nafamostat Mesylate in lipid carrier for nasal SARS-CoV2 titer reduction in a hamster model.”](/search/?article=Cornelissen20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.09.372375](https://doi.org/10.1101/2020.11.09.372375).
+    - Feld JJ, Kandel C, et int., and Hansen B. [“Peginterferon-lambda for the treatment of COVID-19 in outpatients.”](/search/?article=Feld20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.09.20228098](https://doi.org/10.1101/2020.11.09.20228098).
+    - Lee S, Kim C, et int., and Choi YK. [“A Novel Neutralizing Antibody Targeting Receptor Binding Domain of SARS-CoV-2.”](/search/?article=Lee20b) _Research square_, 2020. [doi.org/10.21203/rs.3.rs-59639/v1](https://doi.org/10.21203/rs.3.rs-59639/v1).
 - November 09
     - Westberg M, Su Y, et int., and Lin MZ. [“Rational design of a new class of protease inhibitors for the potential treatment of coronavirus diseases.”](/search/?article=Westberg20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.15.275891](https://doi.org/10.1101/2020.09.15.275891).
 - November 07
@@ -740,9 +744,13 @@ Instruction:
     - de Wilde AH, Jochmans D, et int., and Snijder EJ. [“Screening of an FDA-Approved Compound Library Identifies Four Small-Molecule Inhibitors of Middle East Respiratory Syndrome Coronavirus Replication in Cell Culture.”](/search/?article=deWilde14) _Antimicrobial Agents and Chemotherapy_, 2014. [doi.org/10.1128/aac.03011-14](https://doi.org/10.1128/aac.03011-14). \[[PubMed24841269](https://www.ncbi.nlm.nih.gov/pubmed/24841269/)\] \[[PMC4136071](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4136071/)\]
     - de Wilde AH, Falzarano D, et int., and Snijder EJ. [“Alisporivir inhibits MERS- and SARS-coronavirus replication in cell culture, but not SARS-coronavirus infection in a mouse model.”](/search/?article=deWilde17) _Virus Research_, 2016. [doi.org/10.1016/j.virusres.2016.11.011](https://doi.org/10.1016/j.virusres.2016.11.011). \[[PubMed27840112](https://www.ncbi.nlm.nih.gov/pubmed/27840112/)\] \[[PMC7114565](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7114565/)\]
     - de Wit E, Feldmann F, et int., and Feldmann H. [“Prophylactic and therapeutic remdesivir (GS-5734) treatment in the rhesus macaque model of MERS-CoV infection.”](/search/?article=deWit20) _Proceedings of the National Academy of Sciences_, 2020. [doi.org/10.1073/pnas.1922083117](https://doi.org/10.1073/pnas.1922083117). \[[PubMed32054787](https://www.ncbi.nlm.nih.gov/pubmed/32054787/)\] \[[PMC7104368](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7104368/)\]
-## Preprints => Peer-Reviewed Publications
+
+## Published preprints
+(Studies in CoV-RDB originally published as preprints)
+
 ### November 2020
 - November 10
+    - Tandon R, Sharp JS, et int., and Linhardt RJ. [“Effective Inhibition of SARS-CoV-2 Entry by Heparin and Enoxaparin Derivatives.”](/search/?article=Tandon20) _Journal of Virology_, 2020. [doi.org/10.1128/jvi.01987-20](https://doi.org/10.1128/jvi.01987-20). \[[PubMed33173010](https://www.ncbi.nlm.nih.gov/pubmed/33173010/)\]
     - Beddingfield BJ, Iwanaga N, et int., and Bix GJ. [“The Integrin Binding Peptide, ATN-161, as a Novel Therapy for SARS-CoV-2 Infection.”](/search/?article=Beddingfield20) _JACC: Basic to Translational Science_, 2020. [doi.org/10.1016/j.jacbts.2020.10.003](https://doi.org/10.1016/j.jacbts.2020.10.003). \[[PubMed33102950](https://www.ncbi.nlm.nih.gov/pubmed/33102950/)\] \[[PMC7566794](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566794/)\]
     - Chen CZ, Xu M, et int., and Whittaker GR. [“Identifying SARS-CoV-2 Entry Inhibitors through Drug Repurposing Screens of SARS-S and MERS-S Pseudotyped Particles.”](/search/?article=Chen20f) _ACS Pharmacology & Translational Science_, 2020. [doi.org/10.1021/acsptsci.0c00112](https://doi.org/10.1021/acsptsci.0c00112).
     - Ghahremanpour MM, Tirado-Rives J, et int., and Jorgensen WL. [“Identification of 14 Known Drugs as Inhibitors of the Main Protease of SARS-CoV-2.”](/search/?article=Ghahremanpour20) _ACS Medicinal Chemistry Letters_, 2020. [doi.org/10.1021/acsmedchemlett.0c00521](https://doi.org/10.1021/acsmedchemlett.0c00521).

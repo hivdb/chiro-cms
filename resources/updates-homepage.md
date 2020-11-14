@@ -22,10 +22,15 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
-### [Published preprints - week of November 9](/page/updates/#preprints.peer-reviewed.publications)
-(Studies in CoV-RDB originally published as preprints)
+### Database Entries (Nov 13)
+Cornelissen L, Hoefsmit E, et int., and Blank CU. [“Nafamostat Mesylate in lipid carrier for nasal SARS-CoV2 titer reduction in a hamster model.”](/search/?article=Cornelissen20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.09.372375](https://doi.org/10.1101/2020.11.09.372375).
+### Database Entries (Nov 13)
+Feld JJ, Kandel C, et int., and Hansen B. [“Peginterferon-lambda for the treatment of COVID-19 in outpatients.”](/search/?article=Feld20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.09.20228098](https://doi.org/10.1101/2020.11.09.20228098).
+### Database Entries (Nov 13)
+Lee S, Kim C, et int., and Choi YK. [“A Novel Neutralizing Antibody Targeting Receptor Binding Domain of SARS-CoV-2.”](/search/?article=Lee20b) _Research square_, 2020. [doi.org/10.21203/rs.3.rs-59639/v1](https://doi.org/10.21203/rs.3.rs-59639/v1).
 
-[Beddingfield BJ](/search/?article=Beddingfield20) (_JACC Basic Transl Sci_); [Chen CZ](/search/?article=Chen20f) (_ACS Pharmacol. Transl. Sci._); [Ghahremanpour MM](/search/?article=Ghahremanpour20) (_ACS Med. Chem. Lett._); [Lou Y](/search/?article=Lou20) (_EJPS_);
+### [Published preprints - week of November 9](/page/updates/#preprints.peer-reviewed.publications)
+[Beddingfield BJ](/search/?article=Beddingfield20) (_JACC Basic Transl Sci_); [Chen CZ](/search/?article=Chen20f) (_ACS Pharmacol. Transl. Sci._); [Ghahremanpour MM](/search/?article=Ghahremanpour20) (_ACS Med. Chem. Lett._); [Lou Y](/search/?article=Lou20) (_EJPS_); [Tandon R](/search/?article=Tandon20) (_Journal of Virology_);
 ### Database Entries (Nov 09)
 Westberg M, Su Y, et int., and Lin MZ. [“Rational design of a new class of protease inhibitors for the potential treatment of coronavirus diseases.”](/search/?article=Westberg20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.15.275891](https://doi.org/10.1101/2020.09.15.275891).
 ### Database Entries (Nov 07)
@@ -34,8 +39,6 @@ Chi X, Liu X, et int., and Yang W. [“Humanized single domain antibodies neutra
 de Vries RD, Schmitz KS, et int., and Porotto M. [“Intranasal fusion inhibitory lipopeptide prevents direct contact SARS-CoV-2 transmission in ferrets.”](/search/?article=deVries20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.04.361154](https://doi.org/10.1101/2020.11.04.361154).
 
 ### [Published preprints - week of November 2](/page/updates/#preprints.peer-reviewed.publications)
-(Studies in CoV-RDB originally published as preprints)
-
 [Custódio TF](/search/?article=Custodio20) (_Ncomms_); [Schoof M](/search/?article=Schoof20) (_Science_); [Li W](/search/?article=Li20b) (_PNAS_); [Kreye J](/search/?article=Kreye20) (_Cell_); [Matsuyama S](/search/?article=Matsuyama20) (_JVI_);
 ### [Clinical Trials (Nov 05)](/page/updates/#clinical.trials)
 [4 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-05)
