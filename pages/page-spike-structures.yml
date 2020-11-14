@@ -14,12 +14,16 @@ tables:
       label: mAb
     - name: PDB
       label: PDB
+    - name: PDB_s_trimer
+      label: S Trimer
     - name: target
       label: Target
-    - name: ace2_competing
-      label: ACE2-competing
     - name: IGHV
       label: IGHV
+    - name: ace2_competing
+      label: ACE2 competing
+    - name: ace2_overlap
+      label: "%ACE2 overlap"
     data:
       _resource: antibody-meta.json
 ...

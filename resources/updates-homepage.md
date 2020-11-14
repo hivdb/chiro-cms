@@ -22,6 +22,9 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### [Clinical Trials (Nov 12)](/page/updates/#clinical.trials)
+[16 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-12)
+
 ### Database Entries (Nov 13)
 Cornelissen L, Hoefsmit E, et int., and Blank CU. [“Nafamostat Mesylate in lipid carrier for nasal SARS-CoV2 titer reduction in a hamster model.”](/search/?article=Cornelissen20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.09.372375](https://doi.org/10.1101/2020.11.09.372375).
 ### Database Entries (Nov 13)

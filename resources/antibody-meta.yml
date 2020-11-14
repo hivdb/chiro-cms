@@ -1,140 +1,245 @@
-﻿- IGHV: 1-24
+- IGHV: 1-2
+  PDB: 6XEY
+  PDB_s_trimer: √
+  ace2_competing: √
+  ace2_overlap: 46
+  mAb: 2-4
+  target: RBD
+- IGHV: 1-24
   PDB: 7C2L
-  ace2_competing: ✓
+  PDB_s_trimer: √
+  ace2_competing: ''
+  ace2_overlap: 0
   mAb: 4A8
   target: NTD
 - IGHV: 3-53
   PDB: 7BZ5
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 88
   mAb: B38
   target: RBD
 - IGHV: 7-4-1
   PDB: 7BYR
-  ace2_competing: ✓
+  PDB_s_trimer: √
+  ace2_competing: √
+  ace2_overlap: 54
   mAb: BD-23
   target: RBD
 - IGHV: 3-53
   PDB: 7CHB
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 79
   mAb: BD-236
   target: RBD
 - IGHV: 3-23
   PDB: 7CHH
-  ace2_competing: ✓
+  PDB_s_trimer: √
+  ace2_competing: √
+  ace2_overlap: 17
   mAb: BD-368-2
   target: RBD
 - IGHV: 3-53
   PDB: 7CH4
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 71
   mAb: BD-604
   target: RBD
 - IGHV: 3-53
   PDB: 7CH5
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 54
   mAb: BD-629
+  target: RBD
+- IGHV: 3-30
+  PDB: 7K8S
+  PDB_s_trimer: √
+  ace2_competing: √
+  ace2_overlap: 38
+  mAb: C002
   target: RBD
 - IGHV: 3-53
   PDB: 6XCN
-  ace2_competing: ✓
+  PDB_s_trimer: √
+  ace2_competing: √
+  ace2_overlap: 46
   mAb: C105
+  target: RBD
+- IGHV: 1-2
+  PDB: 7K8X
+  PDB_s_trimer: √
+  ace2_competing: √
+  ace2_overlap: 33
+  mAb: C121
+  target: RBD
+- IGHV: 3-30
+  PDB: 7K8Z
+  PDB_s_trimer: √
+  ace2_competing: √
+  ace2_overlap: 4
+  mAb: C135
+  target: RBD
+- IGHV: 3-53
+  PDB: 7K90
+  PDB_s_trimer: √
+  ace2_competing: √
+  ace2_overlap: 50
+  mAb: C144
   target: RBD
 - IGHV: 3-66
   PDB: 7C01
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 79
   mAb: CB6
   target: RBD
 - IGHV: 3-53
   PDB: 6XC2
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 83
   mAb: CC12.1
   target: RBD
 - IGHV: 3-53
   PDB: 6XC4
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 67
   mAb: CC12.3
   target: RBD
 - IGHV: 1-46
   PDB: 7JMW
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: ''
+  ace2_overlap: 0
   mAb: COVA1-16
   target: RBD
 - IGHV: 3-53
   PDB: 7JMO
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 83
   mAb: COVA2-04
   target: RBD
 - IGHV: 3-53
   PDB: 7JMP
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 63
   mAb: COVA2-39
   target: RBD
 - IGHV: 5-51
   PDB: 6YLA
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: ''
+  ace2_overlap: 0
   mAb: CR3022
   target: RBD
 - IGHV: 1-18
   PDB: 6XKQ
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 75
   mAb: CV07-250
   target: RBD
 - IGHV: 3-11
   PDB: 6XKP
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 29
   mAb: CV07-270
   target: RBD
 - IGHV: 3-53
   PDB: 6XE1
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 63
   mAb: CV30
   target: RBD
 - IGHV: 3-30
   PDB: 6ZER
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: ''
+  ace2_overlap: 0
   mAb: EY6A
   target: RBD
 - IGHV: 1-69-2
   PDB: 7CAH
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: ''
+  ace2_overlap: 0
   mAb: H014
   target: RBD
 - IGHV: 3-3
   PDB: 6Z43
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 33
   mAb: H11-D4
   target: RBD
 - IGHV: 3-3
   PDB: 6ZHD
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 33
   mAb: H11-H4
+  target: RBD
+- IGHV: 3S53
+  PDB: 7CAN
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 63
+  mAb: MR17-K99Y
   target: RBD
 - IGHV: 4-38-2
   PDB: 7BWJ
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 25
   mAb: P2B-2F6
   target: RBD
 - IGHV: 3-11
   PDB: 6XDG
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 46
   mAb: REGN10933
   target: RBD
 - IGHV: 3-30
   PDB: 6XDG
-  ace2_competing: ✓
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 21
   mAb: REGN10987
   target: RBD
 - IGHV: 1-18
-  PDB: 6WPS;6WPT
-  ace2_competing: ✓
+  PDB: 6WPS
+  PDB_s_trimer: √
+  ace2_competing: ''
+  ace2_overlap: 0
   mAb: S309
   target: RBD
 - IGHV: 3-3
   PDB: 7A29
-  ace2_competing: ✓
+  PDB_s_trimer: √
+  ace2_competing: √
+  ace2_overlap: 13
   mAb: Sb23
+  target: RBD
+- IGHV: 3-3
+  PDB: 7C8V
+  PDB_s_trimer: ''
+  ace2_competing: √
+  ace2_overlap: 71
+  mAb: SR4
   target: RBD
 - IGHV: 3S1
   PDB: 6ZXN
-  ace2_competing: ✓
+  PDB_s_trimer: √
+  ace2_competing: √
+  ace2_overlap: 38
   mAb: Ty1
   target: RBD
