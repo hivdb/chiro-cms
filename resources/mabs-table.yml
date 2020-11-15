@@ -1033,12 +1033,24 @@
   dataAvailability:
     trial: true
 - references:
+  - doi: 10.21203/rs.3.rs-59639/v1
+    firstAuthor:
+      surname: Lee
+      givenNames: Soo-Young
+    year: 2020
+    journal:
   - freeText: (Celltrion)
   antibodies:
   - name: CT-P59
+    ec50: 8.4
+  source: |-
+    scFv phage display library of uncertain origin selected for RBD binding
   description: |-
-    CT-P59 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phse I clinical trial.
+    CT-P59 is a neutralizing mAb targeting the SARS-CoV-2 RBD, which is being studied in a phase I clinical trial. It has been shown to reduce virus levels in ferrets, Syrian hamsters, and rhesus macaques.
   dataAvailability:
+    sequence: true
+    structure: true
+    animal: true
     trial: true
 - references:
   - freeText: (Mabwell Bioscience)
