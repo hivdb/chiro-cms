@@ -88,6 +88,8 @@ def extract_journal_title(result):
         return jtitle
     if 'institution' in result:
         return result['institution']['name']
+    if 'publisher' in result:
+        return result['publisher']
 
 
 def extract_short_journal_title(result):
