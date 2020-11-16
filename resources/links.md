@@ -127,6 +127,9 @@
 - Vaccine tracker - London School of Tropical Medicine and Hygeine
 https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/
 
+- Regulatory Affairs Professional Society (RAPS) Vaccine Tracker
+https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker
+
 ### Antibodies
 - Coronavirus antibody database
 [http://opig.stats.ox.ac.uk/webapps/covabdab/](http://opig.stats.ox.ac.uk/webapps/covabdab/)
@@ -148,11 +151,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzMwMjM3MiwtMjAyMDg0MTQzNCwtNz
-M1NTc2NzA1LDIxMjc4ODAxNDgsMzUzMDY5ODk1LDEyNjEwMzM3
-NjMsMTU3MTgwNDE2MywxNjkzMjQzNzQyLC0xMzA4Njc1MywtMT
-YyOTcyMzQxNCwtMjAyNjc2MDUxMSw0NzcyNDYxMDYsMTMxNDc4
-Mjg3NiwtODE5MjExMjE4LDk1MTg3NjcxNiwtMTMwMDAyMzc5Ni
-wzMTA1ODA5MjIsLTEwODM3NDA5ODcsODQ2NjQ4MTY2LC0xOTY0
-ODc0NDA1XX0=
+eyJoaXN0b3J5IjpbLTEyOTM3NjE3MzksMjAzNzMwMjM3MiwtMj
+AyMDg0MTQzNCwtNzM1NTc2NzA1LDIxMjc4ODAxNDgsMzUzMDY5
+ODk1LDEyNjEwMzM3NjMsMTU3MTgwNDE2MywxNjkzMjQzNzQyLC
+0xMzA4Njc1MywtMTYyOTcyMzQxNCwtMjAyNjc2MDUxMSw0Nzcy
+NDYxMDYsMTMxNDc4Mjg3NiwtODE5MjExMjE4LDk1MTg3NjcxNi
+wtMTMwMDAyMzc5NiwzMTA1ODA5MjIsLTEwODM3NDA5ODcsODQ2
+NjQ4MTY2XX0=
 -->
