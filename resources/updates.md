@@ -73,6 +73,9 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- November 17
+    - Monk PD, Marsden RJ, et int., and Rodrigues PM. [“Safety and efficacy of inhaled nebulised interferon beta-1a (SNG001) for treatment of SARS-CoV-2 infection: a randomised, double-blind, placebo-controlled, phase 2 trial.”](/search/?article=Monk20) _The Lancet Respiratory Medicine_, 2020. [doi.org/10.1016/s2213-2600(20)30511-7](https://doi.org/10.1016/s2213-2600(20)30511-7). \[[PubMed33189161](https://www.ncbi.nlm.nih.gov/pubmed/33189161/)\]
+    - Shi Y, Shuai L, et int., and Peng G. [“The Preclinical Inhibitor GS441524 in Combination with GC376 Efficaciously Inhibited the Proliferation of SARS-CoV-2 in the Mouse Respiratory Tract.”](/search/?article=Shi20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.12.380931](https://doi.org/10.1101/2020.11.12.380931).
 - November 13
     - Cornelissen L, Hoefsmit E, et int., and Blank CU. [“Nafamostat Mesylate in lipid carrier for nasal SARS-CoV2 titer reduction in a hamster model.”](/search/?article=Cornelissen20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.09.372375](https://doi.org/10.1101/2020.11.09.372375).
     - Feld JJ, Kandel C, et int., and Hansen B. [“Peginterferon-lambda for the treatment of COVID-19 in outpatients.”](/search/?article=Feld20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.09.20228098](https://doi.org/10.1101/2020.11.09.20228098).
@@ -749,6 +752,10 @@ Instruction:
 (Studies in CoV-RDB originally published as preprints)
 
 ### November 2020
+- November 16
+    - Hurlburt NK, Seydoux E, et int., and Pancera M. [“Structural basis for potent neutralization of SARS-CoV-2 and role of antibody affinity maturation.”](/search/?article=Hurlburt20) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-19231-9](https://doi.org/10.1038/s41467-020-19231-9). \[[PubMed33110068](https://www.ncbi.nlm.nih.gov/pubmed/33110068/)\] \[[PMC7591918](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7591918/)\]
+    - Sacco MD, Ma C, et int., and Wang J. [“Structure and inhibition of the SARS-CoV-2 main protease reveals strategy for developing dual inhibitors against Mpro and cathepsin L.”](/search/?article=Sacco20) _Science Advances_, 2020. [doi.org/10.1126/sciadv.abe0751](https://doi.org/10.1126/sciadv.abe0751). \[[PubMed33158912](https://www.ncbi.nlm.nih.gov/pubmed/33158912/)\]
+    - Zhang Q, Chen CZ, et int., and Ye Y. [“Heparan sulfate assists SARS-CoV-2 in cell entry and can be targeted by approved drugs in vitro.”](/search/?article=Zhang20e) _Cell Discovery_, 2020. [doi.org/10.1038/s41421-020-00222-5](https://doi.org/10.1038/s41421-020-00222-5).
 - November 10
     - Tandon R, Sharp JS, et int., and Linhardt RJ. [“Effective Inhibition of SARS-CoV-2 Entry by Heparin and Enoxaparin Derivatives.”](/search/?article=Tandon20) _Journal of Virology_, 2020. [doi.org/10.1128/jvi.01987-20](https://doi.org/10.1128/jvi.01987-20). \[[PubMed33173010](https://www.ncbi.nlm.nih.gov/pubmed/33173010/)\]
     - Beddingfield BJ, Iwanaga N, et int., and Bix GJ. [“The Integrin Binding Peptide, ATN-161, as a Novel Therapy for SARS-CoV-2 Infection.”](/search/?article=Beddingfield20) _JACC: Basic to Translational Science_, 2020. [doi.org/10.1016/j.jacbts.2020.10.003](https://doi.org/10.1016/j.jacbts.2020.10.003). \[[PubMed33102950](https://www.ncbi.nlm.nih.gov/pubmed/33102950/)\] \[[PMC7566794](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566794/)\]
