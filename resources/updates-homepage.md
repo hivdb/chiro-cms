@@ -22,8 +22,13 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
-### [Clinical Trials (Nov 12)](/page/updates/#clinical.trials)
-[16 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-12)
+### [Published preprints - week of November 16](/page/updates/#published.preprints)
+[Hurlburt NK](/search/?article=Hurlburt20) (_Nature Communications_); [Sacco MD](/search/?article=Sacco20) (_Science Advances_); [Zhang Q](/search/?article=Zhang20e) (_Cell Discovery_);
+### Database Entries (Nov 17)
+Monk PD, Marsden RJ, et int., and Rodrigues PM. [“Safety and efficacy of inhaled nebulised interferon beta-1a (SNG001) for treatment of SARS-CoV-2 infection: a randomised, double-blind, placebo-controlled, phase 2 trial.”](/search/?article=Monk20) _The Lancet Respiratory Medicine_, 2020. [doi.org/10.1016/s2213-2600(20)30511-7](https://doi.org/10.1016/s2213-2600(20)30511-7). \[[PubMed33189161](https://www.ncbi.nlm.nih.gov/pubmed/33189161/)\]
+### Database Entries (Nov 17)
+Shi Y, Shuai L, et int., and Peng G. [“The Preclinical Inhibitor GS441524 in Combination with GC376 Efficaciously Inhibited the Proliferation of SARS-CoV-2 in the Mouse Respiratory Tract.”](/search/?article=Shi20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.12.380931](https://doi.org/10.1101/2020.11.12.380931).
+
 
 ### Database Entries (Nov 13)
 Cornelissen L, Hoefsmit E, et int., and Blank CU. [“Nafamostat Mesylate in lipid carrier for nasal SARS-CoV2 titer reduction in a hamster model.”](/search/?article=Cornelissen20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.09.372375](https://doi.org/10.1101/2020.11.09.372375).
@@ -32,7 +37,10 @@ Feld JJ, Kandel C, et int., and Hansen B. [“Peginterferon-lambda for the treat
 ### Database Entries (Nov 13)
 Lee S, Kim C, et int., and Choi YK. [“A Novel Neutralizing Antibody Targeting Receptor Binding Domain of SARS-CoV-2.”](/search/?article=Lee20b) _Research square_, 2020. [doi.org/10.21203/rs.3.rs-59639/v1](https://doi.org/10.21203/rs.3.rs-59639/v1).
 
-### [Published preprints - week of November 9](/page/updates/#preprints.peer-reviewed.publications)
+### [Clinical Trials (Nov 12)](/page/updates/#clinical.trials)
+[16 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-12)
+
+### [Published preprints - week of November 9](/page/updates/#published.preprints)
 [Beddingfield BJ](/search/?article=Beddingfield20) (_JACC Basic Transl Sci_); [Chen CZ](/search/?article=Chen20f) (_ACS Pharmacol. Transl. Sci._); [Ghahremanpour MM](/search/?article=Ghahremanpour20) (_ACS Med. Chem. Lett._); [Lou Y](/search/?article=Lou20) (_EJPS_); [Tandon R](/search/?article=Tandon20) (_Journal of Virology_);
 ### Database Entries (Nov 09)
 Westberg M, Su Y, et int., and Lin MZ. [“Rational design of a new class of protease inhibitors for the potential treatment of coronavirus diseases.”](/search/?article=Westberg20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.15.275891](https://doi.org/10.1101/2020.09.15.275891).
@@ -41,7 +49,7 @@ Chi X, Liu X, et int., and Yang W. [“Humanized single domain antibodies neutra
 ### Database Entries (Nov 07)
 de Vries RD, Schmitz KS, et int., and Porotto M. [“Intranasal fusion inhibitory lipopeptide prevents direct contact SARS-CoV-2 transmission in ferrets.”](/search/?article=deVries20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.04.361154](https://doi.org/10.1101/2020.11.04.361154).
 
-### [Published preprints - week of November 2](/page/updates/#preprints.peer-reviewed.publications)
+### [Published preprints - week of November 2](/page/updates/#published.preprints)
 [Custódio TF](/search/?article=Custodio20) (_Ncomms_); [Schoof M](/search/?article=Schoof20) (_Science_); [Li W](/search/?article=Li20b) (_PNAS_); [Kreye J](/search/?article=Kreye20) (_Cell_); [Matsuyama S](/search/?article=Matsuyama20) (_JVI_);
 ### [Clinical Trials (Nov 05)](/page/updates/#clinical.trials)
 [4 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-05)
@@ -105,24 +113,4 @@ Rosenke K, Leventhal S, et int., and Stein DA. [“Inhibition of SARS-CoV-2 in V
 ### Database Entries (Oct 22)
 Yin W, Luan X, et int., and Xu HE. [“Structural basis for repurposing a 100-years-old drug suramin for treating COVID-19.”](/search/?article=yin20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.06.328336](https://doi.org/10.1101/2020.10.06.328336).
 
-### [Press Release (Oct 16)](/page/updates/#press.release)
-- [IFN Lambda EigerBioPharmaceuticals](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Eiger20201017.pdf)
 
-### [Clinical Trials (Oct 15)](/page/updates/#clinical.trials)
-[5 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-15)
-
-
-### Database Entries (Oct 13)
-Olaleye OA, Kaur M, and Onyenaka CC. [“Ambroxol Hydrochloride Inhibits the Interaction between Severe Acute Respiratory Syndrome Coronavirus 2 Spike Protein’s Receptor Binding Domain and Recombinant Human ACE2.”](/search/?article=Olaleye20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.13.295691](https://doi.org/10.1101/2020.09.13.295691). \[[PubMed32995775](https://www.ncbi.nlm.nih.gov/pubmed/32995775/)\] \[[PMC7523101](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523101/)\]
-
-### Database Entries (Oct 13)
-Kaptein SJF, Jacobs S, et int., and Delang L. [“Favipiravir at high doses has potent antiviral activity in SARS-CoV-2−infected hamsters, whereas hydroxychloroquine lacks activity.”](/search/?article=Kaptein20) _Proceedings of the National Academy of Sciences_, 2020. [doi.org/10.1073/pnas.2014441117](https://doi.org/10.1073/pnas.2014441117). \[[PubMed33037151](https://www.ncbi.nlm.nih.gov/pubmed/33037151/)\]
-
-### Database Entries (Oct 12)
-Arabi YM, Asiri AY, et int., and Alothman A. [“Interferon Beta-1b and Lopinavir–Ritonavir for Middle East Respiratory Syndrome.”](/search/?article=Arabi20) _NEJM_, 2020. [doi.org/10.1056/nejmoa2015294](https://doi.org/10.1056/nejmoa2015294). \[[PubMed33026741](https://www.ncbi.nlm.nih.gov/pubmed/33026741/)\]
-### Database Entries (Oct 12)
-Beigel JH, Tomashek KM, et int., and Lane HC. [“Remdesivir for the Treatment of Covid-19 — Final Report.”](/search/?article=Beigel20) _NEJM_, 2020. [doi.org/10.1056/nejmoa2007764](https://doi.org/10.1056/nejmoa2007764). \[[PubMed32445440](https://www.ncbi.nlm.nih.gov/pubmed/32445440/)\] \[[PMC7262788](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7262788/)\]
-### Database Entries (Oct 12)
-Cho J, Lee YJ, et int., and Choi J. [“Antiviral activity of digoxin and ouabain against SARS-CoV-2 infection and its implication for COVID-19.”](/search/?article=Cho20) _SREP_, 2020. [doi.org/10.1038/s41598-020-72879-7](https://doi.org/10.1038/s41598-020-72879-7). \[[PubMed33004837](https://www.ncbi.nlm.nih.gov/pubmed/33004837/)\] \[[PMC7530981](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7530981/)\]
-### Database Entries (Oct 12)
-Gilmore K, Zhou Y, et int., and Seeberger PH. [“In vitro efficacy of Artemisinin-based treatments against SARS-CoV-2.”](/search/?article=Gilmore20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.05.326637](https://doi.org/10.1101/2020.10.05.326637).
