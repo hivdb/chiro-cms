@@ -28,7 +28,7 @@
 - Global Coronavirus COVID-19 Clinical Trial Tracker
 [https://www.covid-trials.org/](https://www.covid-trials.org/)
 
-- Covid evidence: 
+- Covid evidence:
 [https://covid-evidence.org/](https://covid-evidence.org/)
 - Meta evidence:
 [http://metaevidence.org/COVID19.aspx](http://metaevidence.org/COVID19.aspx)
@@ -36,13 +36,13 @@
 [http://www.redo-project.org/covid19db/](http://www.redo-project.org/covid19db/)
 - Systematic reviews:
 [https://covid-nma.com/](https://covid-nma.com/)
- 
+
 ### Treatment trackers
 - Reagan-Udall Foundation for the FDA COVID-19 Hub
 [https://covid19.reaganudall.org/companies-developing-covid-19-therapies](https://covid19.reaganudall.org/companies-developing-covid-19-therapies)
 - STAT's Drug and Vaccine Tracker:
  [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
- 
+
 ### Sequences
 - Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
 - GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
@@ -66,7 +66,7 @@
 ### Protein Structures
 - PDB:
 [https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true](https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true)
-- PDBsum: 
+- PDBsum:
 [https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPage.pl?pdbcode=n/a&template=covid19.html](https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPage.pl?pdbcode=n/a&template=covid19.html)
 - Coronavirus 3D Structure Database:
 [https://cov3d.ibbr.umd.edu/](https://cov3d.ibbr.umd.edu/)
@@ -101,10 +101,6 @@
 - CDC github code:
 [https://github.com/CDCgov/SARS-CoV-2\_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
 
-### Vaccines
-[https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker](https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker)
-
-
 ### Clinical management
 - NIH:
 [https://covid19treatmentguidelines.nih.gov/whats-new/](https://covid19treatmentguidelines.nih.gov/whats-new/)
@@ -137,7 +133,7 @@ https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tra
 - The Antibody Society
 https://chineseantibody.org/covid-19-track/
 https://www.antibodysociety.org/covid-19-biologics-tracker/
- 
+
 
 ### Talks
 - Cold Spring Harbor Meetings
