@@ -378,10 +378,11 @@
   antibodies:
   - name: S309
     ec50: 80
+  - name: VIR-7831
   source: |-
     SARS-CoV-1 convalescent memory B cells (SARS-CoV-2 trimeric spike and RBD)
   description: |-
-    VIR-7831 appears to be the same neutralizing mAb as S309. It is being studied in a phase II trial. It was derived from SARS-CoV-1 convalescent memory B cells that recognize SARS-CoV-2 trimeric spike. It is a non-ACE2-competing mAb that binds to the RBD core region and cross-neutralizes SARS-CoV-1. It binds to RBD in its up and down configurations and it binds to a unique proteoglycan epitope at N343. It has been shown to elicit ADCC and ADCP in vitro and it has undergone Fc modifications to prolong its half-life.
+    VIR-7831 was developed based on the neutralizing mAb S309. It is being studied in a phase II trial. It was derived from SARS-CoV-1 convalescent memory B cells that recognize SARS-CoV-2 trimeric spike. It is a non-ACE2-competing mAb that binds to the RBD core region and cross-neutralizes SARS-CoV-1. It binds to RBD in its up and down configurations and it binds to a unique proteoglycan epitope at N343. It has been shown to elicit ADCC and ADCP in vitro and it has undergone Fc modifications to prolong its half-life.
   dataAvailability:
     sequence: true
     structure: true
@@ -1013,7 +1014,7 @@
   source: |-
     Synthetic phage display sdAb library selected for RBD binding.
   description: |-
-    1E2, 2F2, 3F11, 4D8, and 5F8 belong to a panel of single-domain neutralizig mAbs derived from a synthetic humanized phage display library that underent RBD panning. Each sdAb either completely or partially competes with ACE2 binding. Fc fusion versions of these Abs increase neutralization.
+    1E2, 2F2, 3F11, 4D8, and 5F8 belong to a panel of single-domain neutralizing mAbs derived from a synthetic humanized phage display library that underent RBD panning. Each sdAb either completely or partially competes with ACE2 binding. Fc fusion versions of these Abs increase neutralization.
   dataAvailability:
     sequence: true
 - references:
