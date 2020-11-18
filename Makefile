@@ -11,13 +11,20 @@ push-docker: build-docker
 pull-docker:
 	@docker pull hivdb/chiro-cms-builder:latest
 
-build: $(shell find . -type f -not -path "./.git*" -a -not -path "*.swp" -a -not -path "*.swo" -a -not -path "*/.DS_Store" -a -not -path "*/.gradle/*" -a -not -path "*/build/*" -a -not -path "*.log" -a -not -path "*/local/*" | sed 's#\([| ]\)#\\\1#g') build.py build_plugins/*.py
+_docker-build:
 	@rm -rf build/
 	@docker run \
 		--mount type=bind,source=$(PWD),target=/app \
 		--workdir /app --rm -it \
 		hivdb/chiro-cms-builder:latest \
 		python build.py
+
+_fast-build:
+	@rm -rf build/
+	@pipenv run python build.py
+
+build: $(shell find . -type f -not -path "./.git*" -a -not -path "*.swp" -a -not -path "*.swo" -a -not -path "*/.DS_Store" -a -not -path "*/.gradle/*" -a -not -path "*/build/*" -a -not -path "*.log" -a -not -path "*/local/*" | sed 's#\([| ]\)#\\\1#g') build.py build_plugins/*.py
+	@test -e $(shell which pipenv) && make _fast-build || make _docker-build
 
 deploy-dev: build
 	@docker run \
@@ -37,4 +44,4 @@ deploy-prod: build
 
 deploy-all: deploy-dev deploy-prod
 
-.PHONY: deploy-*
+.PHONY: deploy-* _*
