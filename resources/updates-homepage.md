@@ -23,7 +23,7 @@ Instruction:
 
 -->
 ### [Published preprints - week of November 16](/page/updates/#published.preprints)
-[Hurlburt NK](/search/?article=Hurlburt20) (_Nature Communications_); [Sacco MD](/search/?article=Sacco20) (_Science Advances_); [Zhang Q](/search/?article=Zhang20e) (_Cell Discovery_);
+[Hurlburt NK](/search/?article=Hurlburt20) (_Nature Communications_); [Sacco MD](/search/?article=Sacco20) (_Science Advances_); [Zhang Q](/search/?article=Zhang20e) (_Cell Discovery_)
 ### Database Entries (Nov 17)
 Monk PD, Marsden RJ, et int., and Rodrigues PM. [“Safety and efficacy of inhaled nebulised interferon beta-1a (SNG001) for treatment of SARS-CoV-2 infection: a randomised, double-blind, placebo-controlled, phase 2 trial.”](/search/?article=Monk20) _The Lancet Respiratory Medicine_, 2020. [doi.org/10.1016/s2213-2600(20)30511-7](https://doi.org/10.1016/s2213-2600(20)30511-7). \[[PubMed33189161](https://www.ncbi.nlm.nih.gov/pubmed/33189161/)\]
 ### Database Entries (Nov 17)
@@ -41,7 +41,7 @@ Lee S, Kim C, et int., and Choi YK. [“A Novel Neutralizing Antibody Targeting 
 [16 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-12)
 
 ### [Published preprints - week of November 9](/page/updates/#published.preprints)
-[Beddingfield BJ](/search/?article=Beddingfield20) (_JACC Basic Transl Sci_); [Chen CZ](/search/?article=Chen20f) (_ACS Pharmacol. Transl. Sci._); [Ghahremanpour MM](/search/?article=Ghahremanpour20) (_ACS Med. Chem. Lett._); [Lou Y](/search/?article=Lou20) (_EJPS_); [Tandon R](/search/?article=Tandon20) (_Journal of Virology_);
+[Beddingfield BJ](/search/?article=Beddingfield20) (_JACC Basic Transl Sci_); [Chen CZ](/search/?article=Chen20f) (_ACS Pharmacol. Transl. Sci._); [Ghahremanpour MM](/search/?article=Ghahremanpour20) (_ACS Med. Chem. Lett._); [Lou Y](/search/?article=Lou20) (_EJPS_); [Tandon R](/search/?article=Tandon20) (_Journal of Virology_)
 ### Database Entries (Nov 09)
 Westberg M, Su Y, et int., and Lin MZ. [“Rational design of a new class of protease inhibitors for the potential treatment of coronavirus diseases.”](/search/?article=Westberg20) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.15.275891](https://doi.org/10.1101/2020.09.15.275891).
 ### Database Entries (Nov 07)
@@ -50,7 +50,7 @@ Chi X, Liu X, et int., and Yang W. [“Humanized single domain antibodies neutra
 de Vries RD, Schmitz KS, et int., and Porotto M. [“Intranasal fusion inhibitory lipopeptide prevents direct contact SARS-CoV-2 transmission in ferrets.”](/search/?article=deVries20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.04.361154](https://doi.org/10.1101/2020.11.04.361154).
 
 ### [Published preprints - week of November 2](/page/updates/#published.preprints)
-[Custódio TF](/search/?article=Custodio20) (_Ncomms_); [Schoof M](/search/?article=Schoof20) (_Science_); [Li W](/search/?article=Li20b) (_PNAS_); [Kreye J](/search/?article=Kreye20) (_Cell_); [Matsuyama S](/search/?article=Matsuyama20) (_JVI_);
+[Custódio TF](/search/?article=Custodio20) (_Ncomms_); [Schoof M](/search/?article=Schoof20) (_Science_); [Li W](/search/?article=Li20b) (_PNAS_); [Kreye J](/search/?article=Kreye20) (_Cell_); [Matsuyama S](/search/?article=Matsuyama20) (_JVI_)
 ### [Clinical Trials (Nov 05)](/page/updates/#clinical.trials)
 [4 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-05)
 
