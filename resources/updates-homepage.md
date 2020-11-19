@@ -40,6 +40,15 @@ Lee S, Kim C, et int., and Choi YK. [“A Novel Neutralizing Antibody Targeting 
 ### [Clinical Trials (Nov 12)](/page/updates/#clinical.trials)
 [16 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-12)
 
+### [Press Release (Nov 10)](/page/updates/#press.release)
+[Bamlanivimab EUA Letter of Authorization](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly202011101.pdf)
+
+### [Press Release (Nov 10)](/page/updates/#press.release)
+[Bamlanivimab EUA Letter of Authorization FAQ](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Lilly202011102.pdf)
+
+### [Press Release (Nov 9)](/page/updates/#press.release)
+[Pfizer and biontech announce vaccine candidate against covid-19 achieved sucess in first interim analysis from phase 3 study](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Pfizer20201109.pdf)
+
 ### [Published preprints - week of November 9](/page/updates/#published.preprints)
 [Beddingfield BJ](/search/?article=Beddingfield20) (_JACC Basic Transl Sci_); [Chen CZ](/search/?article=Chen20f) (_ACS Pharmacol. Transl. Sci._); [Ghahremanpour MM](/search/?article=Ghahremanpour20) (_ACS Med. Chem. Lett._); [Lou Y](/search/?article=Lou20) (_EJPS_); [Tandon R](/search/?article=Tandon20) (_Journal of Virology_)
 ### Database Entries (Nov 09)
