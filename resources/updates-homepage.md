@@ -22,6 +22,15 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Nov 19)
+Barnes CO, Jette CA, et int., and Bjorkman PJ. [“SARS-CoV-2 neutralizing antibody structures inform therapeutic strategies.”](/search/?article=Barnes20b) _Nature_, 2020. [doi.org/10.1038/s41586-020-2852-1](https://doi.org/10.1038/s41586-020-2852-1). \[[PubMed33045718](https://www.ncbi.nlm.nih.gov/pubmed/33045718/)\]
+### Database Entries (Nov 19)
+Van Damme E, De Meyer S, et int., and Van Loock M. [“In Vitro Activity of Itraconazole Against SARS-CoV-2.”](/search/?article=Damme20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.13.381194](https://doi.org/10.1101/2020.11.13.381194).
+### Database Entries (Nov 19)
+Gendrot M, Andreani J, et int., and Pradines B. [“In Vitro Antiviral Activity of Doxycycline against SARS-CoV-2.”](/search/?article=Gendrot20) _Molecules_, 2020. [doi.org/10.3390/molecules25215064](https://doi.org/10.3390/molecules25215064). \[[PubMed33142770](https://www.ncbi.nlm.nih.gov/pubmed/33142770/)\] \[[PMC7663271](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7663271/)\]
+### Database Entries (Nov 19)
+Wang S, Peng Y, et int., and Liu D. [“Characterization of neutralizing antibody with prophylactic and therapeutic efficacy against SARS-CoV-2 in rhesus monkeys.”](/search/?article=Wang20l) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-19568-1](https://doi.org/10.1038/s41467-020-19568-1). \[[PubMed33188207](https://www.ncbi.nlm.nih.gov/pubmed/33188207/)\] \[[PMC7666115](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7666115/)\]
+
 ### [Published preprints - week of November 16](/page/updates/#published.preprints)
 [Hurlburt NK](/search/?article=Hurlburt20) (_Nature Communications_); [Sacco MD](/search/?article=Sacco20) (_Science Advances_); [Zhang Q](/search/?article=Zhang20e) (_Cell Discovery_)
 ### Database Entries (Nov 17)
