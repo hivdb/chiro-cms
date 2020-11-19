@@ -78,6 +78,11 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- November 19
+    - Barnes CO, Jette CA, et int., and Bjorkman PJ. [“SARS-CoV-2 neutralizing antibody structures inform therapeutic strategies.”](/search/?article=Barnes20b) _Nature_, 2020. [doi.org/10.1038/s41586-020-2852-1](https://doi.org/10.1038/s41586-020-2852-1). \[[PubMed33045718](https://www.ncbi.nlm.nih.gov/pubmed/33045718/)\]
+    - Van Damme E, De Meyer S, et int., and Van Loock M. [“In Vitro Activity of Itraconazole Against SARS-CoV-2.”](/search/?article=Damme20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.13.381194](https://doi.org/10.1101/2020.11.13.381194).
+    - Gendrot M, Andreani J, et int., and Pradines B. [“In Vitro Antiviral Activity of Doxycycline against SARS-CoV-2.”](/search/?article=Gendrot20) _Molecules_, 2020. [doi.org/10.3390/molecules25215064](https://doi.org/10.3390/molecules25215064). \[[PubMed33142770](https://www.ncbi.nlm.nih.gov/pubmed/33142770/)\] \[[PMC7663271](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7663271/)\]
+    - Wang S, Peng Y, et int., and Liu D. [“Characterization of neutralizing antibody with prophylactic and therapeutic efficacy against SARS-CoV-2 in rhesus monkeys.”](/search/?article=Wang20l) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-19568-1](https://doi.org/10.1038/s41467-020-19568-1). \[[PubMed33188207](https://www.ncbi.nlm.nih.gov/pubmed/33188207/)\] \[[PMC7666115](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7666115/)\]
 - November 17
     - Monk PD, Marsden RJ, et int., and Rodrigues PM. [“Safety and efficacy of inhaled nebulised interferon beta-1a (SNG001) for treatment of SARS-CoV-2 infection: a randomised, double-blind, placebo-controlled, phase 2 trial.”](/search/?article=Monk20) _The Lancet Respiratory Medicine_, 2020. [doi.org/10.1016/s2213-2600(20)30511-7](https://doi.org/10.1016/s2213-2600(20)30511-7). \[[PubMed33189161](https://www.ncbi.nlm.nih.gov/pubmed/33189161/)\]
     - Shi Y, Shuai L, et int., and Peng G. [“The Preclinical Inhibitor GS441524 in Combination with GC376 Efficaciously Inhibited the Proliferation of SARS-CoV-2 in the Mouse Respiratory Tract.”](/search/?article=Shi20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.12.380931](https://doi.org/10.1101/2020.11.12.380931).
