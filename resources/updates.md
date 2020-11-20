@@ -869,6 +869,18 @@ Instruction:
 
 ## Clinical Trials
 ### November 2020
+- November 19
+    - [10 clinical trials were added.](/clinical-trials/?fromDate=2020-11-19)
+    - EUCTR2020-004144-28-GB
+    - ISRCTN16842454
+    - NCT04627467
+    - NCT04627584
+    - NCT04628143
+    - NCT04631666
+    - NCT04632381
+    - NCT04632706
+    - NCT04634409
+    - NCT04635943
 - November 12
     - [16 clinical trials were added.](/clinical-trials/?fromDate=2020-11-12)
     - CTRI/2020/10/028234
