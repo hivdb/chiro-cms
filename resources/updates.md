@@ -78,6 +78,10 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- November 20
+    - Andreano E, Nicastri E, et int., and Rappuoli R. [“Extremely potent human monoclonal antibodies from convalescent Covid-19 patients.”](/search/?article=Andreano20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.07.328302](https://doi.org/10.1101/2020.10.07.328302).
+    - Bracken CJ, Lim SA, et int., and Wells JA. [“Bi-paratopic and multivalent VH domains block ACE2 binding and neutralize SARS-CoV-2.”](/search/?article=Bracken20) _Nature Chemical Biology_, 2020. [doi.org/10.1038/s41589-020-00679-1](https://doi.org/10.1038/s41589-020-00679-1). \[[PubMed33082574](https://www.ncbi.nlm.nih.gov/pubmed/33082574/)\]
+    - Tortorici MA, Beltramello M, et int., and Veesler D. [“Ultrapotent human antibodies protect against SARS-CoV-2 challenge via multiple mechanisms.”](/search/?article=Tortorici20) _Science_, 2020. [doi.org/10.1126/science.abe3354](https://doi.org/10.1126/science.abe3354). \[[PubMed32972994](https://www.ncbi.nlm.nih.gov/pubmed/32972994/)\]
 - November 19
     - Barnes CO, Jette CA, et int., and Bjorkman PJ. [“SARS-CoV-2 neutralizing antibody structures inform therapeutic strategies.”](/search/?article=Barnes20b) _Nature_, 2020. [doi.org/10.1038/s41586-020-2852-1](https://doi.org/10.1038/s41586-020-2852-1). \[[PubMed33045718](https://www.ncbi.nlm.nih.gov/pubmed/33045718/)\]
     - Van Damme E, De Meyer S, et int., and Van Loock M. [“In Vitro Activity of Itraconazole Against SARS-CoV-2.”](/search/?article=Damme20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.13.381194](https://doi.org/10.1101/2020.11.13.381194).
