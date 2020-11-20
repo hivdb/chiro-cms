@@ -245,19 +245,19 @@
     journal: Cell
   antibodies:
   - name: MnC4t2p1_B3
-    ec50: 100
+    ec50: 660
     ec50Note: IC100
   - name: MnC2t2p1_C11
-    ec50: 100
+    ec50: 255
     ec50Note: IC100
   - name: MnC2t1p1_A3
-    ec50: 100
+    ec50: 780
     ec50Note: IC100
   - name: FnC1t2p1_D4
-    ec50: 100
+    ec50: 280
     ec50Note: IC100
   - name: HbnC3t1p1_C6
-    ec50: 100
+    ec50: 40
     ec50Note: IC100
   source: |-
     Convalescent memory B cells (SARS-CoV-2 trimeric spike)
@@ -406,6 +406,12 @@
       givenNames: Yiska
     year: 2020
     journal: bioRxiv
+  - doi: 10.1038/s41586-020-2852-1
+    firstAuthor:
+      surname: Barnes
+      givenNames: Christopher O.
+    year: 2020
+    journal: Nature
   antibodies:
   - name: C002
     ec50: 8.9
@@ -425,7 +431,7 @@
   source: |-
     Convalescent memory B cells (SARS-CoV-2 RBD)
   description: |-
-    C105, C121, C135, and C144 are ACE2-competing neutralizing mAbs. C105 binds 2 or 3 RBDs in the up configuration. C135 and C144 bind to RBD's up and down configurations. C121 / C135 and C144 / C135 bind to non-overlapping epitopes.
+    C105, C121, C135, and C144 are ACE2-competing neutralizing mAbs. C105 binds 2 or 3 RBDs in the up configuration. C135 and C144 bind to RBD's up and down configurations. C121 / C135 and C144 / C135 bind to non-overlapping epitopes. C144 uses its CDR(H)3 to bridge two neighboring RBDs and to stabilize spike in the closed state.
   dataAvailability:
     sequence: true
     structure: true
@@ -467,18 +473,18 @@
       givenNames: Emilie
     year: 2020
     journal: Immunity
-  - doi: 10.1101/2020.06.12.148692
+  - doi: 10.1038/s41467-020-19231-9
     firstAuthor:
       surname: Hurlburt
       givenNames: Nicholas K.
     year: 2020
-    journal: bioRxiv
+    journal: Nature Communications
+    journalShort: Nat Commun
   antibodies:
   - name: CV30
-    ec50: 30
-    ec50Note: PV
+    ec50: 118
   - name: CV30-GermLine
-    ec50: 1650
+    ec50: 13000
     ec50Note: PV
   source: |-
     Convalescent memory B cells (SARS-CoV-2 trimeric spike and RBD)
@@ -930,6 +936,8 @@
     ec50: 2000
   - name: RU169-178-IgG
     ec50: 1300
+  source: |-
+    Retained Display scFv display platform selected for RBD and Spike binding and engineered to produce diabodies and Fc fusions.
   description: |-
     RU169-178 is a single-chain variable fragment (scFv) single-domain ACE2- competing neutralizing mAb. RU169-178-diabody and RU169-178-IgG1 are engineered forms of this sdAb.
   dataAvailability: {}
@@ -1054,19 +1062,35 @@
     animal: true
     trial: true
 - references:
+  - doi: 10.1038/s41467-020-19568-1
+    firstAuthor:
+      surname: Wang
+      givenNames: Shuang
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
   - freeText: (Mabwell Bioscience)
   antibodies:
+  - name: MW05
+    ec50: 1000
+    ec50Note: IC100
+  - name: MW07
+    ec50: 5000
+    ec50Note: IC100
   - name: MW33
+  source: |-
+    Convalescent memory B cells (SARS-CoV-2 RBD) engineered to have LALA mutations.
   description: |-
-    MW33 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phse I trial.
+    MW05 and MW07 are ACE-2 competing mAbs that have been evaluated in rhesus macaques. MW33 is a mAb that appears to be from the same group, which is being studied in a phase II trial.
   dataAvailability:
+    animal: true
     trial: true
 - references:
   - freeText: (BeiGene)
   antibodies:
   - name: BGB-DXP593
   description: |-
-    BGB DXP593 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phse I trial.
+    BGB DXP593 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phase I trial.
   dataAvailability:
     trial: true
 - references:
@@ -1074,7 +1098,7 @@
   antibodies:
   - name: SCTA01
   description: |-
-    SCTA01 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phse I trial.
+    SCTA01 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phase I trial.
   dataAvailability:
     trial: true
 - references:
@@ -1098,6 +1122,83 @@
   antibodies:
   - name: HFB30132A
   description: |-
-    HFB30132A is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phse Itrial.
+    HFB30132A is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phase Itrial.
   dataAvailability:
     trial: true
+- references:
+  - doi: 10.1126/science.abe3354
+    firstAuthor:
+      surname: Tortorici
+      givenNames: M. Alejandra
+    year: 2020
+    journal: Science
+  antibodies:
+  - name: S2M11
+    ec50: 1.2
+  - name: S2E12
+    ec50: 4.2
+  source: |-
+    Convalescent memory B cells (SARS-CoV-2 trimeric spike)
+  description: |-
+    S2M11 and S2E12 are ACE-2 competing neutralizing mAbs. S2M11 stabilizes the closed conformation of the spike trimer by binding two neighboring RBDs in their down configurations. S2E12 binds RBD only in its up position. S2M11 (but not S2E12) promote ADCC and ADCP activity. Both S2M11 and S2E12 inhibit virus replication when administered propylactically at low doses to hamsters.
+  dataAvailability:
+    sequence: true
+    structure: true
+    animal: true
+- references:
+  - doi: 10.1016/j.cell.2020.09.037
+    firstAuthor:
+      surname: Piccoli
+      givenNames: Luca
+    year: 2020
+    journal: Cell
+  antibodies:
+  - name: S2H13
+    ec50: 500
+    ec50Note: PV
+  - name: S2H14
+    ec50: 900
+    ec50Note: PV
+  source: |-
+    Convalescent memory B cells (SARS-CoV-2 trimeric spike)
+  description: |-
+    S2H13 is an ACE2-competing neutralizing mAb that binds to RBD in both its up and down configurations. S2H14 is an ACE2-competing mAb that has a large ACE2 footprint and binds to RBD only in its up configuration. S2H13 (but not S2H14) promoted ADCC.
+  dataAvailability:
+    sequence: true
+    structure: true
+- references:
+  - doi: 10.1038/s41423-020-0458-z
+    firstAuthor:
+      surname: Yi
+      givenNames: Chunyan
+    year: 2020
+    journal: Cellular & Molecular Immunology
+    journalShort: Cell Mol Immunol
+  antibodies:
+  - name: HA001
+    ec50: 16
+    ec50Note: PV
+  source: |-
+    Phage display library (uncertain source) selected for SARS-CoV-2 RBD binding
+  description: |-
+    HA001 is an ACE2-competing neutralizing mAb.
+  dataAvailability: {}
+- references:
+  - doi: 10.1101/2020.10.07.328302
+    firstAuthor:
+      surname: Andreano
+      givenNames: Emanuele
+    year: 2020
+    journal: bioRxiv
+  antibodies:
+  - name: PT-004
+    ec50: <3
+    ec50Note: IC100
+  - name: PT-100
+    ec50: <3
+    ec50Note: IC100
+  source: |-
+    Convalescent memory B cells (SARS-CoV-2 trimeric spike).
+  description: |-
+    Two highly potent ACE2-competing neutralizing mAbs were identified.
+  dataAvailability: {}

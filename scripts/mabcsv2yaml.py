@@ -127,10 +127,10 @@ def extract_references(row, refid_lookup):
 
 EC50_PATTERN = re.compile(r"""
   \s*
-  (>|<|=|<=|>=|~|<<)?\s*           # cmp
+  (>|<|=|<=|>=|~|<<)?\s*        # cmp
+  (IC|EC)?                      # if start with IC/EC should be ignored
   (-?\d[\d,]*\.?(?:\d+)?)\s*    # num
   ([\xb5\u03bcu]M|IU/ml|U/ml|ng/ml)?   # unit
-  .*
 """, re.X | re.I)
 
 
@@ -152,28 +152,31 @@ def contains_word(text, word):
 
 def parse_ec50(ec50desc):
     ec50obj = {}
-    match = EC50_PATTERN.search(ec50desc)
-    if match:
-        result = []
-        unit = match.group(3) or 'ng/ml'
-        unit = unit_variants[unit.lower()]
-        ec50cmp = match.group(1) or '='
-        number = float(match.group(2).replace(',', ''))
-        if ec50cmp != '=':
-            result.append(ec50cmp)
-        result.append('{:2f}'.format(number)
-                      .rstrip('0').rstrip('.'))
-        if unit != 'ng/ml':
-            result.append(unit)
-        if len(result) == 1:
-            result = result[0]
-            if '.' in result:
-                result = float(result)
+    for match in EC50_PATTERN.finditer(ec50desc):
+        if match:
+            if match.group(2):
+                continue
+            result = []
+            unit = match.group(4) or 'ng/ml'
+            unit = unit_variants[unit.lower()]
+            ec50cmp = match.group(1) or '='
+            number = float(match.group(3).replace(',', ''))
+            if ec50cmp != '=':
+                result.append(ec50cmp)
+            result.append('{:2f}'.format(number)
+                          .rstrip('0').rstrip('.'))
+            if unit != 'ng/ml':
+                result.append(unit)
+            if len(result) == 1:
+                result = result[0]
+                if '.' in result:
+                    result = float(result)
+                else:
+                    result = int(result)
             else:
-                result = int(result)
-        else:
-            result = ''.join(result)
-        ec50obj['ec50'] = result
+                result = ''.join(result)
+            ec50obj['ec50'] = result
+            break
     if 'PV' in ec50desc:
         ec50obj['ec50Note'] = 'PV'
     elif 'IC100' in ec50desc:
