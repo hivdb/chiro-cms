@@ -58,8 +58,6 @@ Instruction:
 - November 10
     - [Bamlanivimab EUA Letter of Authorization]($$CMS_PREFIX$$downloads/press-release/Lilly202011101.pdf)
     - [Bamlanivimab EUA Letter of Authorization FAQ]($$CMS_PREFIX$$downloads/press-release/Lilly202011102.pdf)
-- November 9
-    - [Pfizer and biontech announce vaccine candidate against covid-19 achieved sucess in first interim analysis from phase 3 study]($$CMS_PREFIX$$downloads/press-release/Pfizer20201109.pdf)
 - October 30
     - [Regn-cov2 independent data monitoring committee recommends holding enrollment in hospitalized patients with high oxygen requirements and continuing enrollment in patients with low or no oxygen requirements]($$CMS_PREFIX$$downloads/press-release/Regeneron20201030.pdf)
 - October 28
