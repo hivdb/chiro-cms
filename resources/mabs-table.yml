@@ -1202,3 +1202,56 @@
   description: |-
     Two highly potent ACE2-competing neutralizing mAbs were identified.
   dataAvailability: {}
+- references:
+  - freeText: (U. Cologne / Boehringer Ingelheim)
+  antibodies:
+  - name: DZIF-10c
+  description: |-
+    DZIF-10c is a mAb targeting the SARS-CoV-2 spike protein being studied in a phase I trial.
+  dataAvailability:
+    trial: true
+- references:
+  - doi: 10.1038/s41589-020-00679-1
+    firstAuthor:
+      surname: Bracken
+      givenNames: Colton J.
+    year: 2020
+    journal: Nature Chemical Biology
+    journalShort: Nat Chem Biol
+  antibodies:
+  - name: VH2-A01-B01
+    ec50: 347
+  - name: VH2-A01-B02
+    ec50: 743
+  - name: VH-Fc-B01
+    ec50: 2613
+  - name: VH3-B01
+    ec50: 176
+  source: |-
+    Synthetic VH phage display sdAb library selected for RBD binding engineered to form VH2, VH3, and VH-Fc fusions.
+  description: |-
+    VH-A01, VH-B01, and VH-B02 are ACE2-competing neutralizing sdAbs. Trivalent VH3-BO1 binds three spike RBDs - 2 in the up and 1 in the down configuration.
+  dataAvailability:
+    sequence: true
+    structure: true
+- references:
+  - doi: 10.1126/science.abe4747
+    firstAuthor:
+      surname: Xiang
+      givenNames: Yufei
+    year: 2020
+    journal: Science
+  antibodies:
+  - name: nb20
+    ec50: 0.8
+  - name: nb21
+    ec50: 0.4
+  - name: nb89
+    ec50: 2.4
+  source: |-
+    Phage display sdAb library created from llamas immunized with RBD.
+  description: |-
+    nb20 is an ACE2-competing neutralizing sdAb that binds to RBD in its down configuration. Nb20 and nb21 homotrimers were associated with 30-fold increased inhibition in pseudovirus assays.
+  dataAvailability:
+    sequence: true
+    structure: true
