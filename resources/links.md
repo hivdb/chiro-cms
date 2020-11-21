@@ -88,6 +88,8 @@
 ### Sequence analyses
 - Next strain:
 [https://nextstrain.org/ncov/global](https://nextstrain.org/ncov/global)
+- LANL 
+https://cov.lanl.gov/content/index
 - Virus Pathogen Resource:
 [https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
 - Virological
@@ -147,11 +149,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM3NjE3MzksMjAzNzMwMjM3MiwtMj
-AyMDg0MTQzNCwtNzM1NTc2NzA1LDIxMjc4ODAxNDgsMzUzMDY5
-ODk1LDEyNjEwMzM3NjMsMTU3MTgwNDE2MywxNjkzMjQzNzQyLC
-0xMzA4Njc1MywtMTYyOTcyMzQxNCwtMjAyNjc2MDUxMSw0Nzcy
-NDYxMDYsMTMxNDc4Mjg3NiwtODE5MjExMjE4LDk1MTg3NjcxNi
-wtMTMwMDAyMzc5NiwzMTA1ODA5MjIsLTEwODM3NDA5ODcsODQ2
-NjQ4MTY2XX0=
+eyJoaXN0b3J5IjpbLTEwMDg1MzUzMiwtMTI5Mzc2MTczOSwyMD
+M3MzAyMzcyLC0yMDIwODQxNDM0LC03MzU1NzY3MDUsMjEyNzg4
+MDE0OCwzNTMwNjk4OTUsMTI2MTAzMzc2MywxNTcxODA0MTYzLD
+E2OTMyNDM3NDIsLTEzMDg2NzUzLC0xNjI5NzIzNDE0LC0yMDI2
+NzYwNTExLDQ3NzI0NjEwNiwxMzE0NzgyODc2LC04MTkyMTEyMT
+gsOTUxODc2NzE2LC0xMzAwMDIzNzk2LDMxMDU4MDkyMiwtMTA4
+Mzc0MDk4N119
 -->
