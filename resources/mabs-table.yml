@@ -1230,7 +1230,7 @@
   source: |-
     Synthetic VH phage display sdAb library selected for RBD binding engineered to form VH2, VH3, and VH-Fc fusions.
   description: |-
-    VH-A01, VH-B01, and VH-B02 are ACE2-competing neutralizing sdAbs. Trivalent VH3-BO1 binds three spike RBDs - 2 in the up and 1 in the down configuration.
+    VH-A01, VH-B01, and VH-B02 are ACE2-competing neutralizing sdAbs. Trivalent VH3-B01 binds three spike RBDs - 2 in the up and 1 in the down configuration.
   dataAvailability:
     sequence: true
     structure: true
