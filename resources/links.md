@@ -66,6 +66,8 @@
 ### Protein Structures
 - PDB:
 [https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true](https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true)
+- Validated SARS-CoV-2 related structural models of potential drug targets:
+https://covid-19.bioreproducibility.org/
 - PDBsum:
 [https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPage.pl?pdbcode=n/a&template=covid19.html](https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPage.pl?pdbcode=n/a&template=covid19.html)
 - Coronavirus 3D Structure Database:
@@ -149,11 +151,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg1MzUzMiwtMTI5Mzc2MTczOSwyMD
-M3MzAyMzcyLC0yMDIwODQxNDM0LC03MzU1NzY3MDUsMjEyNzg4
-MDE0OCwzNTMwNjk4OTUsMTI2MTAzMzc2MywxNTcxODA0MTYzLD
-E2OTMyNDM3NDIsLTEzMDg2NzUzLC0xNjI5NzIzNDE0LC0yMDI2
-NzYwNTExLDQ3NzI0NjEwNiwxMzE0NzgyODc2LC04MTkyMTEyMT
-gsOTUxODc2NzE2LC0xMzAwMDIzNzk2LDMxMDU4MDkyMiwtMTA4
-Mzc0MDk4N119
+eyJoaXN0b3J5IjpbMTM5ODEyMzAwMSwtMTAwODUzNTMyLC0xMj
+kzNzYxNzM5LDIwMzczMDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3
+NjcwNSwyMTI3ODgwMTQ4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLD
+E1NzE4MDQxNjMsMTY5MzI0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3
+MjM0MTQsLTIwMjY3NjA1MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4Nz
+YsLTgxOTIxMTIxOCw5NTE4NzY3MTYsLTEzMDAwMjM3OTYsMzEw
+NTgwOTIyXX0=
 -->
