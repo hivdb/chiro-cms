@@ -22,6 +22,18 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Nov 23)
+Clementi N, Criscuolo E, et int., and Mancini N. [“Combined Prophylactic and Therapeutic Use Maximizes Hydroxychloroquine Anti-SARS-CoV-2 Effects in vitro.”](/search/?article=Clementi20) _Frontiers in Microbiology_, 2020. [doi.org/10.3389/fmicb.2020.01704](https://doi.org/10.3389/fmicb.2020.01704). \[[PubMed32754147](https://www.ncbi.nlm.nih.gov/pubmed/32754147/)\] \[[PMC7365881](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7365881/)\]
+### Database Entries (Nov 23)
+Doi Y, Hibino M, et int., and Kondo M. [“A Prospective, Randomized, Open-Label Trial of Early versus Late Favipiravir Therapy in Hospitalized Patients with COVID-19.”](/search/?article=Doi20b) _Antimicrobial Agents and Chemotherapy_, 2020. [doi.org/10.1128/aac.01897-20](https://doi.org/10.1128/aac.01897-20). \[[PubMed32958718](https://www.ncbi.nlm.nih.gov/pubmed/32958718/)\]
+### Database Entries (Nov 23)
+Libster R, Perez Marc G, et int., and Polack FP. [“Prevention of severe COVID-19 in the elderly by early high-titer plasma.”](/search/?article=Libster20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.20.20234013](https://doi.org/10.1101/2020.11.20.20234013).
+### Database Entries (Nov 23)
+Shin YS, Lee JY, et int., and Park CM. [“Discovery of cyclic sulfonamide derivatives as potent inhibitors of SARS-CoV-2.”](/search/?article=Shin20) _Bioorganic & Medicinal Chemistry Letters_, 2020. [doi.org/10.1016/j.bmcl.2020.127667](https://doi.org/10.1016/j.bmcl.2020.127667). \[[PubMed33160024](https://www.ncbi.nlm.nih.gov/pubmed/33160024/)\] \[[PMC7640924](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7640924/)\]
+### Database Entries (Nov 23)
+Pan H, Peto R, et int., and Swaminathan S. [“Repurposed antiviral drugs for COVID-19 –interim WHO SOLIDARITY trial results.”](/search/?article=WHO20) _medRxiv_, 2020. [doi.org/10.1101/2020.10.15.20209817](https://doi.org/10.1101/2020.10.15.20209817).
+### Database Entries (Nov 23)
+Xiang Y, Nambulli S, et int., and Shi Y. [“Versatile and multivalent nanobodies efficiently neutralize SARS-CoV-2.”](/search/?article=Xiang20) _Science_, 2020. [doi.org/10.1126/science.abe4747](https://doi.org/10.1126/science.abe4747). \[[PubMed33154108](https://www.ncbi.nlm.nih.gov/pubmed/33154108/)\]
 
 ### Database Entries (Nov 20)
 Andreano E, Nicastri E, et int., and Rappuoli R. [“Extremely potent human monoclonal antibodies from convalescent Covid-19 patients.”](/search/?article=Andreano20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.07.328302](https://doi.org/10.1101/2020.10.07.328302).
@@ -31,7 +43,7 @@ Bracken CJ, Lim SA, et int., and Wells JA. [“Bi-paratopic and multivalent VH d
 Tortorici MA, Beltramello M, et int., and Veesler D. [“Ultrapotent human antibodies protect against SARS-CoV-2 challenge via multiple mechanisms.”](/search/?article=Tortorici20) _Science_, 2020. [doi.org/10.1126/science.abe3354](https://doi.org/10.1126/science.abe3354). \[[PubMed32972994](https://www.ncbi.nlm.nih.gov/pubmed/32972994/)\]
 
 ### [Clinical Trials (Nov 19)](/page/updates/#clinical.trials)
-[10 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-19)
+[9 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-19)
 
 ### Database Entries (Nov 19)
 Barnes CO, Jette CA, et int., and Bjorkman PJ. [“SARS-CoV-2 neutralizing antibody structures inform therapeutic strategies.”](/search/?article=Barnes20b) _Nature_, 2020. [doi.org/10.1038/s41586-020-2852-1](https://doi.org/10.1038/s41586-020-2852-1). \[[PubMed33045718](https://www.ncbi.nlm.nih.gov/pubmed/33045718/)\]

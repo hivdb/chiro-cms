@@ -76,6 +76,13 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- November 23
+    - Clementi N, Criscuolo E, et int., and Mancini N. [“Combined Prophylactic and Therapeutic Use Maximizes Hydroxychloroquine Anti-SARS-CoV-2 Effects in vitro.”](/search/?article=Clementi20) _Frontiers in Microbiology_, 2020. [doi.org/10.3389/fmicb.2020.01704](https://doi.org/10.3389/fmicb.2020.01704). \[[PubMed32754147](https://www.ncbi.nlm.nih.gov/pubmed/32754147/)\] \[[PMC7365881](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7365881/)\]
+    - Doi Y, Hibino M, et int., and Kondo M. [“A Prospective, Randomized, Open-Label Trial of Early versus Late Favipiravir Therapy in Hospitalized Patients with COVID-19.”](/search/?article=Doi20b) _Antimicrobial Agents and Chemotherapy_, 2020. [doi.org/10.1128/aac.01897-20](https://doi.org/10.1128/aac.01897-20). \[[PubMed32958718](https://www.ncbi.nlm.nih.gov/pubmed/32958718/)\]
+    - Libster R, Perez Marc G, et int., and Polack FP. [“Prevention of severe COVID-19 in the elderly by early high-titer plasma.”](/search/?article=Libster20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.20.20234013](https://doi.org/10.1101/2020.11.20.20234013).
+    - Shin YS, Lee JY, et int., and Park CM. [“Discovery of cyclic sulfonamide derivatives as potent inhibitors of SARS-CoV-2.”](/search/?article=Shin20) _Bioorganic & Medicinal Chemistry Letters_, 2020. [doi.org/10.1016/j.bmcl.2020.127667](https://doi.org/10.1016/j.bmcl.2020.127667). \[[PubMed33160024](https://www.ncbi.nlm.nih.gov/pubmed/33160024/)\] \[[PMC7640924](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7640924/)\]
+    - Pan H, Peto R, et int., and Swaminathan S. [“Repurposed antiviral drugs for COVID-19 –interim WHO SOLIDARITY trial results.”](/search/?article=WHO20) _medRxiv_, 2020. [doi.org/10.1101/2020.10.15.20209817](https://doi.org/10.1101/2020.10.15.20209817).
+    - Xiang Y, Nambulli S, et int., and Shi Y. [“Versatile and multivalent nanobodies efficiently neutralize SARS-CoV-2.”](/search/?article=Xiang20) _Science_, 2020. [doi.org/10.1126/science.abe4747](https://doi.org/10.1126/science.abe4747). \[[PubMed33154108](https://www.ncbi.nlm.nih.gov/pubmed/33154108/)\]
 - November 20
     - Andreano E, Nicastri E, et int., and Rappuoli R. [“Extremely potent human monoclonal antibodies from convalescent Covid-19 patients.”](/search/?article=Andreano20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.07.328302](https://doi.org/10.1101/2020.10.07.328302).
     - Bracken CJ, Lim SA, et int., and Wells JA. [“Bi-paratopic and multivalent VH domains block ACE2 binding and neutralize SARS-CoV-2.”](/search/?article=Bracken20) _Nature Chemical Biology_, 2020. [doi.org/10.1038/s41589-020-00679-1](https://doi.org/10.1038/s41589-020-00679-1). \[[PubMed33082574](https://www.ncbi.nlm.nih.gov/pubmed/33082574/)\]
@@ -868,14 +875,13 @@ Instruction:
 ## Clinical Trials
 ### November 2020
 - November 19
-    - [10 clinical trials were added.](/clinical-trials/?fromDate=2020-11-19)
+    - [9 clinical trials were added.](/clinical-trials/?fromDate=2020-11-19)
     - EUCTR2020-004144-28-GB
     - ISRCTN16842454
     - NCT04627467
     - NCT04627584
     - NCT04628143
     - NCT04631666
-    - NCT04632381
     - NCT04632706
     - NCT04634409
     - NCT04635943
