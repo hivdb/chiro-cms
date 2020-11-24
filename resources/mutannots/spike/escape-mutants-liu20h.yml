@@ -1,0 +1,65 @@
+name: escape mutants Liu20h
+label: Liu, 2020
+tableColLabel: "Escape\n(Liu20h)"
+level: aminoAcid
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 345
+  - 346
+  - 352
+  - 378
+  - 408
+  - 441
+  - 444
+  - 445
+  - 446
+  - 450
+  - 452
+  - 458
+  - 474
+  - 476
+  - 477
+  - 478
+  - 479
+  - 483
+  - 484
+  - 486
+  - 490
+  - 494
+  - 499
+  - 504
+  - 514
+  - 517
+aminoAcids:
+- 345ANS
+- 346G
+- 352D
+- 378EQ
+- 408K
+- 441R
+- 444ENR
+- 445G
+- 446DV
+- 450DKY
+- 452R
+- 458Q
+- 474P
+- 476DS
+- 477GINR
+- 478IP
+- 479LS
+- 483FG
+- 484ADGK
+- 486LSVY
+- 490LS
+- 494P
+- 499L
+- 504D
+- 514F
+- 517R

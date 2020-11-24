@@ -95,6 +95,8 @@ annotCategories:
   - glycan
   - cysteine
   - cleavage
+  - subdomain RBM
+  - neutralizing sera resistance
 conditionalComments:
 - commentName: subdomain
   rank: 1  # highest: 1
@@ -175,23 +177,140 @@ conditionalComments:
   template: >-
     one of the nine cysteine residues found in RBD
   triggeredAAs: "*"
-- commentName: escapeMutants
+- commentName: escapeMutantsACE2
   rank: 7
   condition:
-    func: hasAnnot
-    args: [escape mutants]
+    func: all
+    args:
+    - func: hasAnnot
+      args: [escape mutants]
+    - func: hasAnnot
+      args: [ACE2]
   prefix:
     func: mutation
     args: [escape mutants]
   templateSingular: >-
-    a mutation that escape antibody neutralization
+    a mutation that escape ACE2-competing neutralizing mAbs that bind to RBD
   templatePlural: >-
-    mutations that escape antibody neutralization
+    mutations that escape ACE2-competing neutralizing mAbs that bind to RBD
+  footnote: ${FN}
+  variables:
+    FN:
+      func: getCitations
+      args: [escape mutants]
   triggeredAAs:
     func: mutation
     args: [escape mutants]
-- commentName: polymorphism
+- commentName: escapeMutantsRBM
   rank: 8
+  condition:
+    func: all
+    args:
+    - func: hasAnnot
+      args: [escape mutants]
+    - func: hasAnnot
+      args: [subdomain RBM]
+    - func: not
+      args:
+      - func: hasAnnot
+        args: [ACE2]
+  prefix:
+    func: mutation
+    args: [escape mutants]
+  templateSingular: >-
+    a mutation that escape neutralizing mAbs that bind to RBM
+  templatePlural: >-
+    mutations that escape neutralizing mAbs that bind to RBM
+  footnote: ${FN}
+  variables:
+    FN:
+      func: getCitations
+      args: [escape mutants]
+  triggeredAAs:
+    func: mutation
+    args: [escape mutants]
+- commentName: escapeMutantsRBD
+  rank: 9
+  condition:
+    func: all
+    args:
+    - func: hasAnnot
+      args: [escape mutants]
+    - func: hasAnnot
+      args: [subdomain]
+      keywords:
+        subgroup: RBD
+    - func: not
+      args:
+      - func: hasAnnot
+        args: [ACE2]
+    - func: not
+      args:
+      - func: hasAnnot
+        args: [subdomain RBM]
+  prefix:
+    func: mutation
+    args: [escape mutants]
+  templateSingular: >-
+    a mutation that escape neutralizing mAbs that bind to RBD
+  templatePlural: >-
+    mutations that escape neutralizing mAbs that bind to RBD
+  footnote: ${FN}
+  variables:
+    FN:
+      func: getCitations
+      args: [escape mutants]
+  triggeredAAs:
+    func: mutation
+    args: [escape mutants]
+- commentName: escapeMutantsNTD
+  rank: 10
+  condition:
+    func: all
+    args:
+    - func: hasAnnot
+      args: [escape mutants]
+    - func: hasAnnot
+      args: [subdomain]
+      keywords:
+        subgroup: NTD
+  prefix:
+    func: mutation
+    args: [escape mutants]
+  templateSingular: >-
+    a mutation that escape neutralizing mAbs that bind to NTD
+  templatePlural: >-
+    mutations that escape neutralizing mAbs that bind to NTD
+  footnote: ${FN}
+  variables:
+    FN:
+      func: getCitations
+      args: [escape mutants]
+  triggeredAAs:
+    func: mutation
+    args: [escape mutants]
+- commentName: neutralizing-sera-resistance
+  rank: 11
+  condition:
+    func: hasAnnot
+    args: [neutralizing sera resistance]
+  prefix:
+    func: mutation
+    args: [neutralizing sera resistance]
+  templateSingular: >-
+    a mutation that result in resistance to aliquotes of neutralizing sera
+  templatePlural: >-
+    mutations that result in resistance to aliquotes of neutralizing sera
+  footnote: ${FN}
+  variables:
+    FN:
+      func: getCitations
+      args: [neutralizing sera resistance]
+  triggeredAAs:
+    func: mutation
+    args: [neutralizing sera resistance]
+- commentName: polymorphism
+  rank: 12
   condition:
     func: hasAnnot
     args: [var2000]

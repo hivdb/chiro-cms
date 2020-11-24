@@ -19,11 +19,43 @@ def get_func_args(func_def, func_mapping):
     return func, args, keywords
 
 
-def cond_has_annot(annot_name, *, posdata, payload):
-    for annot in posdata['annotations']:
-        if annot['name'] == annot_name:
+def cond_not(subcond_def, posdata, payload):
+    func, args, kw = get_func_args(subcond_def, CONDITION_FUNCS)
+    return not func(*args, **kw, posdata=posdata, payload=payload)
+
+
+def cond_all(*subcond_defs, posdata, payload):
+    for subcond_def in subcond_defs:
+        func, args, kw = get_func_args(subcond_def, CONDITION_FUNCS)
+        flag = func(*args, **kw, posdata=posdata, payload=payload)
+        if not flag:
+            return False
+    return True
+
+
+def cond_any(*subcond_defs, posdata, payload):
+    for subcond_def in subcond_defs:
+        func, args, kw = get_func_args(subcond_def, CONDITION_FUNCS)
+        flag = func(*args, **kw, posdata=posdata, payload=payload)
+        if flag:
             return True
     return False
+
+
+def cond_has_annot(annot_name, *, posdata, payload, subgroup=None):
+    for annot in posdata['annotations']:
+        if annot['name'] == annot_name:
+            if subgroup is None or annot['value'] == subgroup:
+                return True
+    return False
+
+
+def cond_has_no_annot(annot_name, *, posdata, payload, subgroup=None):
+    for annot in posdata['annotations']:
+        if annot['name'] == annot_name:
+            if subgroup is None or annot['value'] == subgroup:
+                return False
+    return True
 
 
 def cond_has_annot_except_subgroup(
@@ -189,6 +221,9 @@ def variable_join_annot_cat_subgroup(
 
 
 CONDITION_FUNCS = {
+    'all': cond_all,
+    'any': cond_any,
+    'not': cond_not,
     'hasAnnot': cond_has_annot,
     'hasAnnotExceptSubgroup': cond_has_annot_except_subgroup,
     'hasAnnotExceptSubgroups': cond_has_annot_except_subgroup,

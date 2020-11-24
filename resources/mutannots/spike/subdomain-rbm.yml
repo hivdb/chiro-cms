@@ -1,0 +1,17 @@
+name: subdomain RBM
+tableColLabel: Subdomain RBM
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1126/science.abb2507
+  author: Wrapp
+  year: 2020
+  section: Figure S5
+  positions:
+  - 438-506
+positions:
+- subgroup: RBM
+  description: Receptor-binding motif
+  positions:
+  - 438-506

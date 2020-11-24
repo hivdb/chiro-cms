@@ -1,0 +1,27 @@
+name: escape mutants Greaney20
+label: Greaney, 2020
+tableColLabel: "Escape\n(Greaney20)"
+level: aminoAcid
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1101/2020.09.10.292078
+  author: Greaney
+  year: 2020
+  section: Figure 3
+  positions:
+  - 378
+  - 417
+  - 420
+  - 484
+  - 486
+  - 487
+  - 490
+aminoAcids:
+- 378N
+- 417E
+- 420R
+- 484V
+- 486A
+- 487R
+- 490K

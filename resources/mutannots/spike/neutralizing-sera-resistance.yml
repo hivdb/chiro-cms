@@ -1,0 +1,31 @@
+name: neutralizing sera resistance
+label: Resistance to neutralizing sera
+tableColLabel: "Neutralizing sera resistance\n(Liu20h)"
+level: aminoAcid
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Page 10, first paragraph
+  positions:
+  - 441
+  - 444
+  - 446
+  - 450
+  - 452
+  - 477
+  - 478
+  - 484
+  - 490
+aminoAcids:
+- 441R
+- 444E
+- 446V
+- 450DY
+- 452R
+- 477G
+- 478I
+- 484ADGK
+- 490S
