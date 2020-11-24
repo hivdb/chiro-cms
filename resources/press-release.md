@@ -1,3 +1,4 @@
+- [Casirivimab and imdevimab EUA fact sheet for healthcare providers]($$CMS_PREFIX$$downloads/press-release/Regeneron20201122.pdf)
 - [Bamlanivimab EUA Letter of Authorization]($$CMS_PREFIX$$downloads/press-release/Lilly202011101.pdf)
 - [Bamlanivimab EUA Letter of Authorization FAQ]($$CMS_PREFIX$$downloads/press-release/Lilly202011102.pdf)
 - [Regn-cov2 independent data monitoring committee recommends holding enrollment in hospitalized patients with high oxygen requirements and continuing enrollment in patients with low or no oxygen requirements]($$CMS_PREFIX$$downloads/press-release/Regeneron20201030.pdf)
