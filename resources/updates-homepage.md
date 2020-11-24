@@ -22,6 +22,17 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Nov 24)
+AlQahtani M, Abdulrahman A, et int., and Abduljalil M. [“Randomized controlled trial of convalescent plasma therapy against standard therapy in patients with severe COVID-19 disease.”](/search/?article=AlQahtani20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.02.20224303](https://doi.org/10.1101/2020.11.02.20224303).
+### Database Entries (Nov 24)
+Bajpai M, Kumar S, et int., and Sarin SK. [“Efficacy of Convalescent Plasma Therapy compared to Fresh Frozen Plasma in Severely ill COVID-19 Patients: A Pilot Randomized Controlled Trial.”](/search/?article=Bajpai20) _medRxiv_, 2020. [doi.org/10.1101/2020.10.25.20219337](https://doi.org/10.1101/2020.10.25.20219337).
+### Database Entries (Nov 24)
+Fu L, Ye F, et int., and Gao GF. [“Both Boceprevir and GC376 efficaciously inhibit SARS-CoV-2 by targeting its main protease.”](/search/?article=Fu20d) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-18233-x](https://doi.org/10.1038/s41467-020-18233-x). \[[PubMed32887884](https://www.ncbi.nlm.nih.gov/pubmed/32887884/)\] \[[PMC7474075](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7474075/)\]
+### Database Entries (Nov 24)
+Hoffman RL, Kania RS, et int., and Taggart B. [“Discovery of Ketone-Based Covalent Inhibitors of Coronavirus 3CL Proteases for the Potential Therapeutic Treatment of COVID-19.”](/search/?article=Hoffman20) _Journal of Medicinal Chemistry_, 2020. [doi.org/10.1021/acs.jmedchem.0c01063](https://doi.org/10.1021/acs.jmedchem.0c01063). \[[PubMed33054210](https://www.ncbi.nlm.nih.gov/pubmed/33054210/)\] \[[PMC7571312](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7571312/)\]
+### Database Entries (Nov 24)
+Joyner MJ, Bruno KA, et int., and Wright RS. [“Safety Update: COVID-19 Convalescent Plasma in 20,000 Hospitalized Patients”](/search/?article=Joyner20c) _Mayo Clinic Proceedings_, 2020. [doi.org/10.1016/j.mayocp.2020.06.028](https://doi.org/10.1016/j.mayocp.2020.06.028). \[[PubMed32861333](https://www.ncbi.nlm.nih.gov/pubmed/32861333/)\] \[[PMC7368917](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7368917/)\]
+
 ### Database Entries (Nov 23)
 Clementi N, Scagnolari C, et int., and Filippini A. [“Naringenin is a powerful inhibitor of SARS-CoV-2 infection in vitro.”](/search/?article=Clementi20b) _Pharmacological Research_, 2020. [doi.org/10.1016/j.phrs.2020.105255](https://doi.org/10.1016/j.phrs.2020.105255). \[[PubMed33096221](https://www.ncbi.nlm.nih.gov/pubmed/33096221/)\] \[[PMC7574776](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7574776/)\]
 
