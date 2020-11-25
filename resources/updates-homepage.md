@@ -22,6 +22,12 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+
+### Database Entries (Nov 25)
+Busnadiego I, Fernbach S, et int., and Hale BG. [“Antiviral Activity of Type I, II, and III Interferons Counterbalances ACE2 Inducibility and Restricts SARS-CoV-2.”](/search/?article=Busnadiego20) _mBio_, 2020. [doi.org/10.1128/mbio.01928-20](https://doi.org/10.1128/mbio.01928-20). \[[PubMed32913009](https://www.ncbi.nlm.nih.gov/pubmed/32913009/)\] \[[PMC7484541](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7484541/)\]
+### Database Entries (Nov 25)
+Jagannathan P, Andrews J, et int., and Singh U. [“Peginterferon Lambda-1a for treatment of outpatients with uncomplicated COVID-19: a randomized placebo-controlled trial.”](/search/?article=Jagannathan20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.18.20234161](https://doi.org/10.1101/2020.11.18.20234161).
+
 ### Database Entries (Nov 24)
 AlQahtani M, Abdulrahman A, et int., and Abduljalil M. [“Randomized controlled trial of convalescent plasma therapy against standard therapy in patients with severe COVID-19 disease.”](/search/?article=AlQahtani20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.02.20224303](https://doi.org/10.1101/2020.11.02.20224303).
 ### Database Entries (Nov 24)
@@ -154,12 +160,3 @@ Chen P, Nirula A, et int., and Skovronsky DM. [“SARS-CoV-2 Neutralizing Antibo
 Pan H, Peto R, et int., and Swaminathan S. [“Repurposed antiviral drugs for COVID-19 –interim WHO SOLIDARITY trial results.”](/search/?article=Pan20b) _medRxiv_, 2020. [doi.org/10.1101/2020.10.15.20209817](https://doi.org/10.1101/2020.10.15.20209817).
 ### Database Entries (Oct 26)
 Rocco PRM, Silva PL, et int., and Lapa e Silva JR. [“Early use of nitazoxanide in mild Covid-19 disease: randomized, placebo-controlled trial.”](/search/?article=Rocco20) _medRxiv_, 2020. [doi.org/10.1101/2020.10.21.20217208](https://doi.org/10.1101/2020.10.21.20217208).
-
-### [Clinical Trials (Oct 22)](/page/updates/#clinical.trials)
-[16 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-10-22)
-### Database Entries (Oct 22)
-Rosenke K, Leventhal S, et int., and Stein DA. [“Inhibition of SARS-CoV-2 in Vero cell cultures by peptide-conjugated morpholino-oligomers.”](/search/?article=Rosenke20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.29.319731](https://doi.org/10.1101/2020.09.29.319731). \[[PubMed33024974](https://www.ncbi.nlm.nih.gov/pubmed/33024974/)\] \[[PMC7536879](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7536879/)\]
-### Database Entries (Oct 22)
-Yin W, Luan X, et int., and Xu HE. [“Structural basis for repurposing a 100-years-old drug suramin for treating COVID-19.”](/search/?article=yin20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.06.328336](https://doi.org/10.1101/2020.10.06.328336).
-
-

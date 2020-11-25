@@ -78,6 +78,9 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- November 25
+    - Busnadiego I, Fernbach S, et int., and Hale BG. [“Antiviral Activity of Type I, II, and III Interferons Counterbalances ACE2 Inducibility and Restricts SARS-CoV-2.”](/search/?article=Busnadiego20) _mBio_, 2020. [doi.org/10.1128/mbio.01928-20](https://doi.org/10.1128/mbio.01928-20). \[[PubMed32913009](https://www.ncbi.nlm.nih.gov/pubmed/32913009/)\] \[[PMC7484541](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7484541/)\]
+    - Jagannathan P, Andrews J, et int., and Singh U. [“Peginterferon Lambda-1a for treatment of outpatients with uncomplicated COVID-19: a randomized placebo-controlled trial.”](/search/?article=Jagannathan20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.18.20234161](https://doi.org/10.1101/2020.11.18.20234161).
 - November 24
     - AlQahtani M, Abdulrahman A, et int., and Abduljalil M. [“Randomized controlled trial of convalescent plasma therapy against standard therapy in patients with severe COVID-19 disease.”](/search/?article=AlQahtani20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.02.20224303](https://doi.org/10.1101/2020.11.02.20224303).
     - Bajpai M, Kumar S, et int., and Sarin SK. [“Efficacy of Convalescent Plasma Therapy compared to Fresh Frozen Plasma in Severely ill COVID-19 Patients: A Pilot Randomized Controlled Trial.”](/search/?article=Bajpai20) _medRxiv_, 2020. [doi.org/10.1101/2020.10.25.20219337](https://doi.org/10.1101/2020.10.25.20219337).
