@@ -22,7 +22,20 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
-
+### Database Entries (Nov 29)
+de Melo GD, Lazarini F, et int., and Bourhy H. [“Anti-COVID-19 efficacy of ivermectin in the golden hamster.”](/search/?article=Melo20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.21.392639](https://doi.org/10.1101/2020.11.21.392639).
+### Database Entries (Nov 29)
+Schloer S, Brunotte L, et int., and Rescher U. [“Drug synergy of combinatory treatment with remdesivir and the repurposed drugs fluoxetine and itraconazole effectively impairs SARS-CoV-2 infection in vitro.”](/search/?article=Schloer20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.16.342410](https://doi.org/10.1101/2020.10.16.342410).
+### Database Entries (Nov 29)
+Son J, Huang S, et int., and Ding S. [“Nitazoxanide and JIB-04 have broad-spectrum antiviral activity and inhibit SARS-CoV-2 replication in cell culture and coronavirus pathogenesis in a pig model.”](/search/?article=Son20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.312165](https://doi.org/10.1101/2020.09.24.312165). \[[PubMed32995798](https://www.ncbi.nlm.nih.gov/pubmed/32995798/)\] \[[PMC7523209](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523209/)\]
+### Database Entries (Nov 29)
+Touret F, Driouich J, et int., and Nougairède A. [“Preclinical evaluation of Imatinib does not support its use as an antiviral drug against SARS-CoV-2.”](/search/?article=Touret20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.17.386904](https://doi.org/10.1101/2020.11.17.386904).
+### Database Entries (Nov 29)
+Wang M, Zhao Y, et int., and Hu K. [“Treatment of Coronavirus Disease 2019 Patients With Prolonged Postsymptomatic Viral Shedding With Leflunomide: A Single-center Randomized Controlled Clinical Trial.”](/search/?article=Wang20n) _Clinical Infectious Diseases_, 2020. [doi.org/10.1093/cid/ciaa1417](https://doi.org/10.1093/cid/ciaa1417). \[[PubMed32955081](https://www.ncbi.nlm.nih.gov/pubmed/32955081/)\] \[[PMC7543328](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7543328/)\]
+### [Clinical Trials (Nov 26)](/page/updates/#clinical.trials)
+[7 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-26)
+### Database Entries (Nov 26)
+Simonovich VA, Burgos Pratx LD, et int., and Belloso WH. [“A Randomized Trial of Convalescent Plasma in Covid-19 Severe Pneumonia.”](/search/?article=Simonovich20) _New England Journal of Medicine_, 2020. [doi.org/10.1056/nejmoa2031304](https://doi.org/10.1056/nejmoa2031304). [PubMed33232588](https://www.ncbi.nlm.nih.gov/pubmed/33232588/)
 ### Database Entries (Nov 25)
 Busnadiego I, Fernbach S, et int., and Hale BG. [“Antiviral Activity of Type I, II, and III Interferons Counterbalances ACE2 Inducibility and Restricts SARS-CoV-2.”](/search/?article=Busnadiego20) _mBio_, 2020. [doi.org/10.1128/mbio.01928-20](https://doi.org/10.1128/mbio.01928-20). \[[PubMed32913009](https://www.ncbi.nlm.nih.gov/pubmed/32913009/)\] \[[PMC7484541](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7484541/)\]
 ### Database Entries (Nov 25)
@@ -41,7 +54,8 @@ Joyner MJ, Bruno KA, et int., and Wright RS. [“Safety Update: COVID-19 Convale
 
 ### Database Entries (Nov 23)
 Clementi N, Scagnolari C, et int., and Filippini A. [“Naringenin is a powerful inhibitor of SARS-CoV-2 infection in vitro.”](/search/?article=Clementi20b) _Pharmacological Research_, 2020. [doi.org/10.1016/j.phrs.2020.105255](https://doi.org/10.1016/j.phrs.2020.105255). \[[PubMed33096221](https://www.ncbi.nlm.nih.gov/pubmed/33096221/)\] \[[PMC7574776](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7574776/)\]
-
+### [Published preprints - week of November 23](/page/updates/#published.preprints)
+[Rajter JC](/search/?article=Rajter20)
 ### Database Entries (Nov 23)
 Doi Y, Hibino M, et int., and Kondo M. [“A Prospective, Randomized, Open-Label Trial of Early versus Late Favipiravir Therapy in Hospitalized Patients with COVID-19.”](/search/?article=Doi20b) _Antimicrobial Agents and Chemotherapy_, 2020. [doi.org/10.1128/aac.01897-20](https://doi.org/10.1128/aac.01897-20). \[[PubMed32958718](https://www.ncbi.nlm.nih.gov/pubmed/32958718/)\]
 ### Database Entries (Nov 23)

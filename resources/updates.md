@@ -78,6 +78,13 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- November 29
+    - de Melo GD, Lazarini F, et int., and Bourhy H. [“Anti-COVID-19 efficacy of ivermectin in the golden hamster.”](/search/?article=Melo20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.21.392639](https://doi.org/10.1101/2020.11.21.392639).
+    - Schloer S, Brunotte L, et int., and Rescher U. [“Drug synergy of combinatory treatment with remdesivir and the repurposed drugs fluoxetine and itraconazole effectively impairs SARS-CoV-2 infection in vitro.”](/search/?article=Schloer20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.16.342410](https://doi.org/10.1101/2020.10.16.342410).
+    - Son J, Huang S, et int., and Ding S. [“Nitazoxanide and JIB-04 have broad-spectrum antiviral activity and inhibit SARS-CoV-2 replication in cell culture and coronavirus pathogenesis in a pig model.”](/search/?article=Son20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.312165](https://doi.org/10.1101/2020.09.24.312165). \[[PubMed32995798](https://www.ncbi.nlm.nih.gov/pubmed/32995798/)\] \[[PMC7523209](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523209/)\]
+    - Touret F, Driouich J, et int., and Nougairède A. [“Preclinical evaluation of Imatinib does not support its use as an antiviral drug against SARS-CoV-2.”](/search/?article=Touret20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.17.386904](https://doi.org/10.1101/2020.11.17.386904).
+    - Wang M, Zhao Y, et int., and Hu K. [“Treatment of Coronavirus Disease 2019 Patients With Prolonged Postsymptomatic Viral Shedding With Leflunomide: A Single-center Randomized Controlled Clinical Trial.”](/search/?article=Wang20n) _Clinical Infectious Diseases_, 2020. [doi.org/10.1093/cid/ciaa1417](https://doi.org/10.1093/cid/ciaa1417). \[[PubMed32955081](https://www.ncbi.nlm.nih.gov/pubmed/32955081/)\] \[[PMC7543328](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7543328/)\]
+    - Simonovich VA, Burgos Pratx LD, et int., and Belloso WH. [“A Randomized Trial of Convalescent Plasma in Covid-19 Severe Pneumonia.”](/search/?article=Simonovich20) _New England Journal of Medicine_, 2020. [doi.org/10.1056/nejmoa2031304](https://doi.org/10.1056/nejmoa2031304). [PubMed33232588](https://www.ncbi.nlm.nih.gov/pubmed/33232588/)
 - November 25
     - Busnadiego I, Fernbach S, et int., and Hale BG. [“Antiviral Activity of Type I, II, and III Interferons Counterbalances ACE2 Inducibility and Restricts SARS-CoV-2.”](/search/?article=Busnadiego20) _mBio_, 2020. [doi.org/10.1128/mbio.01928-20](https://doi.org/10.1128/mbio.01928-20). \[[PubMed32913009](https://www.ncbi.nlm.nih.gov/pubmed/32913009/)\] \[[PMC7484541](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7484541/)\]
     - Jagannathan P, Andrews J, et int., and Singh U. [“Peginterferon Lambda-1a for treatment of outpatients with uncomplicated COVID-19: a randomized placebo-controlled trial.”](/search/?article=Jagannathan20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.18.20234161](https://doi.org/10.1101/2020.11.18.20234161).
@@ -781,6 +788,8 @@ Instruction:
 (Studies in CoV-RDB originally published as preprints)
 
 ### November 2020
+- November 23
+    - Rajter JC, Sherman MS, et int., and Rajter J. [“Use of Ivermectin Is Associated With Lower Mortality in Hospitalized Patients With Coronavirus Disease 2019.”](/search/?article=Rajter20) _Chest_, 2020. [doi.org/10.1016/j.chest.2020.10.009](https://doi.org/10.1016/j.chest.2020.10.009). \[[PubMed33065103](https://www.ncbi.nlm.nih.gov/pubmed/33065103/)\] \[[PMC7550891](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7550891/)\]
 - November 16
     - Hurlburt NK, Seydoux E, et int., and Pancera M. [“Structural basis for potent neutralization of SARS-CoV-2 and role of antibody affinity maturation.”](/search/?article=Hurlburt20) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-19231-9](https://doi.org/10.1038/s41467-020-19231-9). \[[PubMed33110068](https://www.ncbi.nlm.nih.gov/pubmed/33110068/)\] \[[PMC7591918](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7591918/)\]
     - Sacco MD, Ma C, et int., and Wang J. [“Structure and inhibition of the SARS-CoV-2 main protease reveals strategy for developing dual inhibitors against Mpro and cathepsin L.”](/search/?article=Sacco20) _Science Advances_, 2020. [doi.org/10.1126/sciadv.abe0751](https://doi.org/10.1126/sciadv.abe0751). \[[PubMed33158912](https://www.ncbi.nlm.nih.gov/pubmed/33158912/)\]
@@ -884,6 +893,15 @@ Instruction:
 
 ## Clinical Trials
 ### November 2020
+- November 26
+    - [7 clinical trials were added.](/clinical-trials/?fromDate=2020-11-26)
+    - NCT04637828
+    - NCT04640181
+    - NCT04642950
+    - NCT04644120
+    - NCT04644185
+    - NCT04644705
+    - NCT04646109
 - November 19
     - [9 clinical trials were added.](/clinical-trials/?fromDate=2020-11-19)
     - EUCTR2020-004144-28-GB
