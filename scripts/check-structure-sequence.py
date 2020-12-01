@@ -35,11 +35,66 @@ def load_csv(file_path):
     return records
 
 
+def dump_csv(file_path, records, headers=[]):
+    if not records:
+        return
+    if not headers and records:
+        headers = records[0].keys()
+
+    with open(file_path, 'w', encoding='utf-8-sig') as fd:
+        writer = csv.DictWriter(fd, fieldnames=headers)
+        writer.writeheader()
+        writer.writerows(records)
+
+
 def strip_then_remove(a_list):
     """caller must make sure all items are string"""
     a_list = [i.strip() for i in a_list]
     a_list = [i for i in a_list if i]
     return a_list
+
+
+def get_dup_key(records, key):
+    tester = defaultdict(int)
+    for i in records:
+        value = i[key]
+        if not value:
+            continue
+        tester[value] += 1
+
+    dup_key = [i for i, j in tester.items() if j > 1]
+    return dup_key
+
+
+def get_invalid_null_records(records, keys):
+    result = []
+    for item in records:
+        values = [item.get(key) for key in keys]
+        value_exists = [i for i in values if i not in [None, '']]
+        if not value_exists:
+            continue
+        if len(value_exists) != len(keys):
+            result.append(item)
+
+    return result
+
+
+def get_depend_invalid_null_records(records, keys):
+    result = []
+    for item in records:
+        values = [item.get(key) for key in keys]
+        values_exists = [i not in [None, ''] for i in values]
+        exist = values_exists[0]
+        if not exist:
+            continue
+        for e in values_exists[1:]:
+            if exist and not e:
+                result.append(item)
+                break
+
+    return result
+
+
 
 
 def load_abdab(folder):
@@ -270,8 +325,18 @@ def validate_structures(structures):
         if '20' not in refIDs:
             print('RefID dont have publish year', refIDs)
 
-    # TODO: check dup mAbs
-    # TODO: check use same PDB
+    dup_mab_names = get_dup_key(structures, 'mAb Names')
+    print('Duplicated Mab', dup_mab_names)
+
+    dup_pdb = get_dup_key(structures, 'PDB')
+    print('Duplicated PDB', dup_pdb)
+
+    invalid_records = get_invalid_null_records(structures, [
+        'mAb Target', 'Epitope(<=4.5Å)',
+        'ACE2-Competing', '%ACE2 Overlap', 'PDB Spike'])
+
+    for item in invalid_records:
+        print('Invalid structure record', item)
 
 
 def get_mab_has_epitope(structures):
@@ -374,7 +439,67 @@ def validate_sequences(sequences):
         if '20' not in refIDs:
             print('RefID dont have publish year', refIDs)
 
-    # TODO: duplicated
+    dup_mab = get_dup_key(sequences, 'Mab')
+    if dup_mab:
+        print('Duplicated mab sequences', dup_mab)
+
+    invalid_hl = get_depend_invalid_null_records(sequences, [
+            'VH or VHH', 'IGHV (% Somatic hypermutation)', 'Species',
+            'V region(H)', 'CDRH3', 'IGHJ', 'J region(H)'
+        ]
+    )
+    for record in invalid_hl:
+        print('Invalid H region', record['Mab'])
+
+
+def export_sequences_for_alignment(folder, sequences):
+    results = []
+    for record in sequences:
+        new_record = {}
+        new_record['Author'] = record['Author']
+        new_record['Name'] = record['Mab']
+        new_record['Species'] = record['Species']
+        new_record['VH or VHH'] = record['VH or VHH']
+        new_record['VL'] = record['VL']
+
+        if not new_record['VH or VHH'] and not new_record['VL']:
+            continue
+
+        ighv = record.get('IGHV (% Somatic hypermutation)', '')
+        ighv = ighv.split('(', 1)[0].strip()
+        new_record['IGHV(gene allele)'] = ighv
+        ighv = ighv.split('*', 1)[0].strip()
+        new_record['Heavy V Gene'] = ighv
+
+        ighj = record.get('IGHJ', '')
+        ighj = ighj.split('*', 1)[0].strip()
+        new_record['Heavy J Gene'] = ighj
+
+        new_record['IGHJ(gene allele)'] = ''
+
+        iglv = record.get('IGLV (% Somatic hypermutation)', '')
+        iglv = iglv.split('(', 1)[0].strip()
+        new_record['IGLV(gene allele)'] = iglv
+        iglv = iglv.split('*', 1)[0].strip()
+        new_record['Light V Gene'] = iglv
+
+        iglj = record.get('IGLJ', '')
+        iglj = iglj.split('*', 1)[0].strip()
+        new_record['Light J Gene'] = iglj
+
+        new_record['IGLJ(gene allele)'] = ''
+
+        cdrh3 = record.get('CDRH3', '')
+        cdrh3 = cdrh3.split('(', 1)[0].strip()
+        new_record['CDRH3'] = cdrh3
+
+        cdrl3 = record.get('CDRL3', '')
+        cdrl3 = cdrl3.split('(', 1)[0].strip()
+        new_record['CDRL3'] = cdrl3
+
+        results.append(new_record)
+
+    dump_csv(folder / 'Mab-all.csv', results)
 
 
 def show_mab_diff(list1, list1_name, list2, list2_name):
@@ -423,6 +548,7 @@ def show_missing_structure(structures, mab2PDB):
     for name, pdbs in mab2PDB.items():
         if all_expected_pdb(pdbs):
             continue
+        name = RENAME_MAB_ABDAB2MAb.get(name, name)
         if name not in mab_with_epitope:
             miss_epitope.add(name)
     print('PDB without epitope process:', miss_epitope)
@@ -465,6 +591,7 @@ def work(folder_path):
     validate_structures(structures)
     print('Verify sequences')
     validate_sequences(sequences)
+    export_sequences_for_alignment(folder, sequences)
 
     mab_names1 = get_mab_from_mabs(mabs)
     mab_names2 = get_mab_from_structures(structures)
@@ -498,3 +625,6 @@ def work(folder_path):
 
 if __name__ == '__main__':
     work()
+
+# TODO
+# check S trimer PDB file, want to replace RBD PDB file
