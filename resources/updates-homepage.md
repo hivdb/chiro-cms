@@ -22,12 +22,13 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### [Published preprints - week of November 30](/page/updates/#published.preprints)
+[Luban20](/search/?article=Luban20);[Liu20g](/search/?article=Liu20g)
+
 ### Database Entries (Nov 29)
 de Melo GD, Lazarini F, et int., and Bourhy H. [“Anti-COVID-19 efficacy of ivermectin in the golden hamster.”](/search/?article=Melo20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.21.392639](https://doi.org/10.1101/2020.11.21.392639).
 ### Database Entries (Nov 29)
 Schloer S, Brunotte L, et int., and Rescher U. [“Drug synergy of combinatory treatment with remdesivir and the repurposed drugs fluoxetine and itraconazole effectively impairs SARS-CoV-2 infection in vitro.”](/search/?article=Schloer20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.16.342410](https://doi.org/10.1101/2020.10.16.342410).
-### Database Entries (Nov 29)
-Son J, Huang S, et int., and Ding S. [“Nitazoxanide and JIB-04 have broad-spectrum antiviral activity and inhibit SARS-CoV-2 replication in cell culture and coronavirus pathogenesis in a pig model.”](/search/?article=Son20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.09.24.312165](https://doi.org/10.1101/2020.09.24.312165). \[[PubMed32995798](https://www.ncbi.nlm.nih.gov/pubmed/32995798/)\] \[[PMC7523209](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7523209/)\]
 ### Database Entries (Nov 29)
 Touret F, Driouich J, et int., and Nougairède A. [“Preclinical evaluation of Imatinib does not support its use as an antiviral drug against SARS-CoV-2.”](/search/?article=Touret20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.17.386904](https://doi.org/10.1101/2020.11.17.386904).
 ### Database Entries (Nov 29)
