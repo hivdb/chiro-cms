@@ -786,6 +786,12 @@ Instruction:
 ## Published preprints
 (Studies in CoV-RDB originally published as preprints)
 
+### December 2020
+- December 3
+    - Glasgow A, Glasgow J, et int., and Wells JA. [“Engineered ACE2 receptor traps potently neutralize SARS-CoV-2.”](/search/?article=Glasgow20) _Proceedings of the National Academy of Sciences_, 2020. [doi.org/10.1073/pnas.2016093117](https://doi.org/10.1073/pnas.2016093117). \[[PubMed33093202](https://www.ncbi.nlm.nih.gov/pubmed/33093202/)\] \[[PMC7668070](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7668070/)\]
+    - Xiao X, Wang C, et int., and Wang J. [“Identification of Potent and Safe Antiviral Therapeutic Candidates Against SARS-CoV-2.”](/search/?article=Xiao20) _Frontiers in Immunology_, 2020. [doi.org/10.3389/fimmu.2020.586572](https://doi.org/10.3389/fimmu.2020.586572).
+
+
 ### November 2020
 - November 30
     - Luban J, Sattler R, et int., and Peltz S. [“The DHODH Inhibitor PTC299 Arrests SARS-CoV-2 Replication and Suppresses Induction of Inflammatory Cytokines.”](/search/?article=Luban20) _Virus Research_, 2020. [doi.org/10.1016/j.virusres.2020.198246](https://doi.org/10.1016/j.virusres.2020.198246). \[[PubMed33249060](https://www.ncbi.nlm.nih.gov/pubmed/33249060/)\] \[[PMC7690341](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7690341/)\]
