@@ -78,6 +78,10 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- December 04
+    - Arévalo A, Pagotto R, et int., and Crispo M. [“Ivermectin reduces coronavirus infection in vivo: a mouse experimental model.”](/search/?article=Arevalo20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.02.363242](https://doi.org/10.1101/2020.11.02.363242).
+    - Clausen TM, Sandoval DR, et int., and Esko JD. [“SARS-CoV-2 Infection Depends on Cellular Heparan Sulfate and ACE2.”](/search/?article=Clausen20) _Cell_, 2020. [doi.org/10.1016/j.cell.2020.09.033](https://doi.org/10.1016/j.cell.2020.09.033). \[[PubMed32970989](https://www.ncbi.nlm.nih.gov/pubmed/32970989/)\] \[[PMC7489987](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489987/)\]
+    - Kumar R, Khandelwal N, et int., and Kumar N. [“Emetine as an antiviral agent suppresses SARS-CoV-2 replication by inhibitinginteraction of viral mRNAwith eIF4E: An in vitro study.”](/search/?article=Kumar20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.29.401984](https://doi.org/10.1101/2020.11.29.401984).
 - November 29
     - de Melo GD, Lazarini F, et int., and Bourhy H. [“Anti-COVID-19 efficacy of ivermectin in the golden hamster.”](/search/?article=Melo20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.21.392639](https://doi.org/10.1101/2020.11.21.392639).
     - Schloer S, Brunotte L, et int., and Rescher U. [“Drug synergy of combinatory treatment with remdesivir and the repurposed drugs fluoxetine and itraconazole effectively impairs SARS-CoV-2 infection in vitro.”](/search/?article=Schloer20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.16.342410](https://doi.org/10.1101/2020.10.16.342410).
@@ -787,10 +791,13 @@ Instruction:
 (Studies in CoV-RDB originally published as preprints)
 
 ### December 2020
+
+- December 04
+    - Rosenke K, Leventhal S, et int., and Stein DA. [“Inhibition of SARS-CoV-2 in Vero cell cultures by peptide-conjugated morpholino oligomers.”](/search/?article=Rosenke20b) _Journal of Antimicrobial Chemotherapy_, 2020. [doi.org/10.1093/jac/dkaa460](https://doi.org/10.1093/jac/dkaa460). \[[PubMed33164048](https://www.ncbi.nlm.nih.gov/pubmed/33164048/)\]
+    - Weisblum Y, Schmidt F, et int., and Bieniasz PD. [“Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants.”](/search/?article=Weisblum20) _eLife_, 2020. [doi.org/10.7554/elife.61312](https://doi.org/10.7554/elife.61312). \[[PubMed33112236](https://www.ncbi.nlm.nih.gov/pubmed/33112236/)\]
 - December 3
     - Glasgow A, Glasgow J, et int., and Wells JA. [“Engineered ACE2 receptor traps potently neutralize SARS-CoV-2.”](/search/?article=Glasgow20) _Proceedings of the National Academy of Sciences_, 2020. [doi.org/10.1073/pnas.2016093117](https://doi.org/10.1073/pnas.2016093117). \[[PubMed33093202](https://www.ncbi.nlm.nih.gov/pubmed/33093202/)\] \[[PMC7668070](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7668070/)\]
     - Xiao X, Wang C, et int., and Wang J. [“Identification of Potent and Safe Antiviral Therapeutic Candidates Against SARS-CoV-2.”](/search/?article=Xiao20) _Frontiers in Immunology_, 2020. [doi.org/10.3389/fimmu.2020.586572](https://doi.org/10.3389/fimmu.2020.586572).
-
 
 ### November 2020
 - November 30
@@ -901,6 +908,29 @@ Instruction:
 
 ## Clinical Trials
 ### November 2020
+- December 03
+    - [21 clinical trials were added.](/clinical-trials/?fromDate=2020-12-03)
+    - ACTRN12620001249943
+    - CTRI/2020/04/024773
+    - CTRI/2020/11/028779
+    - EUCTR2020-001467-82-NL
+    - EUCTR2020-002009-25-CZ
+    - EUCTR2020-004695-18-DE
+    - EUCTR2020-004743-83-GB
+    - IRCT20151227025726N24
+    - IRCT20200506047323N6
+    - ISRCTN11970082
+    - ISRCTN90437126
+    - JPRN-jRCTs031200196
+    - NCT04646603
+    - NCT04647669
+    - NCT04647695
+    - NCT04649515
+    - NCT04649879
+    - NCT04651959
+    - NCT04652648
+    - NCT04652765
+    - PER-067-20
 - November 26
     - [7 clinical trials were added.](/clinical-trials/?fromDate=2020-11-26)
     - NCT04637828

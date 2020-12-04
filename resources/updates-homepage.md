@@ -22,13 +22,21 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Dec 04)
+Arévalo A, Pagotto R, et int., and Crispo M. [“Ivermectin reduces coronavirus infection in vivo: a mouse experimental model.”](/search/?article=Arevalo20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.02.363242](https://doi.org/10.1101/2020.11.02.363242).
+### Database Entries (Dec 04)
+Clausen TM, Sandoval DR, et int., and Esko JD. [“SARS-CoV-2 Infection Depends on Cellular Heparan Sulfate and ACE2.”](/search/?article=Clausen20) _Cell_, 2020. [doi.org/10.1016/j.cell.2020.09.033](https://doi.org/10.1016/j.cell.2020.09.033). \[[PubMed32970989](https://www.ncbi.nlm.nih.gov/pubmed/32970989/)\] \[[PMC7489987](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489987/)\]
+### Database Entries (Dec 04)
+Kumar R, Khandelwal N, et int., and Kumar N. [“Emetine as an antiviral agent suppresses SARS-CoV-2 replication by inhibitinginteraction of viral mRNAwith eIF4E: An in vitro study.”](/search/?article=Kumar20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.29.401984](https://doi.org/10.1101/2020.11.29.401984).
+### [Clinical Trials (Dec 03)](/page/updates/#clinical.trials)
+[21 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-12-03)
 ### Database Entries (Dec 03)
 Outlaw VK, Bovier FT, et int., and Porotto M. [“Inhibition of Coronavirus Entry In Vitro and Ex Vivo by a Lipid-Conjugated Peptide Derived from the SARS-CoV-2 Spike Glycoprotein HRC Domain.”](/search/?article=Outlaw20) _mBio_, 2020. [doi.org/10.1128/mbio.01935-20](https://doi.org/10.1128/mbio.01935-20). \[[PubMed33082259](https://www.ncbi.nlm.nih.gov/pubmed/33082259/)\] \[[PMC7587434](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7587434/)\]
 ### Database Entries (Dec 03)
 Udwadia ZF, Singh P, et int., and Tandon M. [“Efficacy and Safety of Favipiravir, an Oral RNA-Dependent RNA Polymerase Inhibitor, in Mild-to-Moderate COVID-19: A Randomized, Comparative, Open-Label, Multicenter, Phase 3 Clinical Trial.”](/search/?article=Udwadia20) _International Journal of Infectious Diseases_, 2020. [doi.org/10.1016/j.ijid.2020.11.142](https://doi.org/10.1016/j.ijid.2020.11.142). \[[PubMed33212256](https://www.ncbi.nlm.nih.gov/pubmed/33212256/)\] \[[PMC7668212](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7668212/)\]
 
 ### [Published preprints - week of November 30](/page/updates/#published.preprints)
-[Glasgow20](/search/?article=Glasgow20);[Xiao20](/search/?article=Xiao20);[Luban20](/search/?article=Luban20);[Liu20g](/search/?article=Liu20g)
+[Rosenke K](/search/?article=Rosenke20b);[Weisblum Y](/search/?article=Weisblum20);[Glasgow20](/search/?article=Glasgow20);[Xiao20](/search/?article=Xiao20);[Luban20](/search/?article=Luban20);[Liu20g](/search/?article=Liu20g)
 
 ### Database Entries (Nov 29)
 de Melo GD, Lazarini F, et int., and Bourhy H. [“Anti-COVID-19 efficacy of ivermectin in the golden hamster.”](/search/?article=Melo20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.21.392639](https://doi.org/10.1101/2020.11.21.392639).
