@@ -909,20 +909,16 @@ Instruction:
 ## Clinical Trials
 ### November 2020
 - December 03
-    - [21 clinical trials were added.](/clinical-trials/?fromDate=2020-12-03)
+    - [17 clinical trials were added.](/clinical-trials/?fromDate=2020-12-03)
     - ACTRN12620001249943
     - CTRI/2020/04/024773
     - CTRI/2020/11/028779
-    - EUCTR2020-001467-82-NL
-    - EUCTR2020-002009-25-CZ
     - EUCTR2020-004695-18-DE
     - EUCTR2020-004743-83-GB
     - IRCT20151227025726N24
     - IRCT20200506047323N6
-    - ISRCTN11970082
     - ISRCTN90437126
     - JPRN-jRCTs031200196
-    - NCT04646603
     - NCT04647669
     - NCT04647695
     - NCT04649515

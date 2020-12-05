@@ -29,7 +29,7 @@ Clausen TM, Sandoval DR, et int., and Esko JD. [“SARS-CoV-2 Infection Depends 
 ### Database Entries (Dec 04)
 Kumar R, Khandelwal N, et int., and Kumar N. [“Emetine as an antiviral agent suppresses SARS-CoV-2 replication by inhibitinginteraction of viral mRNAwith eIF4E: An in vitro study.”](/search/?article=Kumar20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.29.401984](https://doi.org/10.1101/2020.11.29.401984).
 ### [Clinical Trials (Dec 03)](/page/updates/#clinical.trials)
-[21 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-12-03)
+[17 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-12-03)
 ### Database Entries (Dec 03)
 Outlaw VK, Bovier FT, et int., and Porotto M. [“Inhibition of Coronavirus Entry In Vitro and Ex Vivo by a Lipid-Conjugated Peptide Derived from the SARS-CoV-2 Spike Glycoprotein HRC Domain.”](/search/?article=Outlaw20) _mBio_, 2020. [doi.org/10.1128/mbio.01935-20](https://doi.org/10.1128/mbio.01935-20). \[[PubMed33082259](https://www.ncbi.nlm.nih.gov/pubmed/33082259/)\] \[[PMC7587434](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7587434/)\]
 ### Database Entries (Dec 03)
