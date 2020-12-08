@@ -791,7 +791,8 @@ Instruction:
 (Studies in CoV-RDB originally published as preprints)
 
 ### December 2020
-
+- December 07
+    - Pan H, Peto R, et int., and Swaminathan S. [“Repurposed Antiviral Drugs for Covid-19 — Interim WHO Solidarity Trial Results.”](/search/?article=WHO20) _New England Journal of Medicine_, 2020. [doi.org/10.1056/nejmoa2023184](https://doi.org/10.1056/nejmoa2023184). \[[PubMed33264556](https://www.ncbi.nlm.nih.gov/pubmed/33264556/)\]
 - December 04
     - Rosenke K, Leventhal S, et int., and Stein DA. [“Inhibition of SARS-CoV-2 in Vero cell cultures by peptide-conjugated morpholino oligomers.”](/search/?article=Rosenke20b) _Journal of Antimicrobial Chemotherapy_, 2020. [doi.org/10.1093/jac/dkaa460](https://doi.org/10.1093/jac/dkaa460). \[[PubMed33164048](https://www.ncbi.nlm.nih.gov/pubmed/33164048/)\]
     - Weisblum Y, Schmidt F, et int., and Bieniasz PD. [“Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants.”](/search/?article=Weisblum20) _eLife_, 2020. [doi.org/10.7554/elife.61312](https://doi.org/10.7554/elife.61312). \[[PubMed33112236](https://www.ncbi.nlm.nih.gov/pubmed/33112236/)\]
