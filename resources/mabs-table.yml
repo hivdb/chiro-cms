@@ -20,7 +20,7 @@
   - name: 1B07
     ec50: 37
   source: |-
-    Immunized mice (SARS-CoV-2 trimeric spike and RBD)(humanized)
+    Plasmablasts from mice immunized with RBD and trimeric spike.
   description: |-
     2B04, 1B07, and 2H04 are humaized neutralizing mAbs deirived from mice immunized with RBD followed by trimeric S. 2B04 and 1B07 are ACE2-competing mAbs. 2B04 and 1B07 (and to a much lesser extent 2H04) reduced weight loss, lung pathology, and virus levels in a mouse prevention model.
   dataAvailability:
@@ -39,12 +39,12 @@
       givenNames: Nicholas C.
     year: 2020
     journal: Cell Reports
-  - doi: 10.1101/2020.08.02.233536
+  - doi: 10.1016/j.immuni.2020.10.023
     firstAuthor:
       surname: Liu
       givenNames: Hejun
     year: 2020
-    journal: bioRxiv
+    journal: Immunity
   antibodies:
   - name: COVA1-18
     ec50: 7
@@ -57,7 +57,7 @@
   - name: COVA2-04
     ec50: 2500
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 trimeric spike)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   description: |-
     COVA1-16, COVA1-18, COVA2-04, COVA2-15, and COVA2-39 are ACE2-competing neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells that recognize trimeric spike. COVA1-16 cross neutralizes SARS-CoV-1. It competes with ACE2 indirectly via steric hindrance. It binds to RBD in the up configuration, likely bivalently. COVA2-04 and COVA2-39 approach RBD from different angles. COVA2-04 contacts more ACE2-binding residues than COVA2-39 (16 vs. 11 residues). COVA2-15 appears to bind ACE2 in its up and down configuration.
   dataAvailability:
@@ -103,7 +103,7 @@
   - name: BD-632
     ec50: 17
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 trimeric spike and RBD)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   description: |-
     This panel of neutralizing mAbs was derived from SARS-CoV-2 convalescent memory B cells that recognize trimeric spike or its RBD. BD-368-2 is an ACE2-competing mAb that can occupy all three RBDs simultaneously regardless of its configuration. It also does not compete with the ACE2-competing mAbs encoded by VH3-53/66. BD-604, BD-629, and BD-236 are ACE2-competing mAbs that bind RBD in its up configuration. BD-23 is an ACE2-competing mAb that binds RBD in its down configuration. BD-368-2 reduced weight loss and virus levels in a mouse treatment and prevention model.
   dataAvailability:
@@ -126,7 +126,7 @@
     ec50: 70
     ec50Note: PV
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 RBD)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   description: |-
     311mab-31B5 and 311mab-32D4 are ACE2-competing neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells.
   dataAvailability: {}
@@ -143,7 +143,7 @@
   - name: 0304-3H3
     ec50: 40
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 trimeric spike)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   description: |-
     4A8 and 0304-3H3 are mAbs derived SARS-CoV-2 memory B cells that recognize trimer spike. 4A8 binds the spike N terminal domain (NTD). The mechanism of 0304-3H3 binding is uncertain.
   dataAvailability:
@@ -230,7 +230,7 @@
   - name: P2C-1A13
     ec50: 280
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 RBD)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   description: |-
     P2B-2F6, P2C-1F11, and P2C-1A13 are ACE2-competing neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells that recognize RBD. P2B-2F6 is predicted to bind with RBD in both its up and down configurations.
   dataAvailability:
@@ -260,7 +260,7 @@
     ec50: 40
     ec50Note: IC100
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 trimeric spike)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   description: |-
     MnC4t2p1_B3, MnC2t2p1_C11, MnC2t1p1_A3, FnC1t2p1_D4, and HbnC3t1p1_C6 are neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells.
   dataAvailability:
@@ -278,7 +278,7 @@
   - name: CV07-270
     ec50: 82
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 RBD)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   description: |-
     CV07-209, CV07-270, and CV07-250 are neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells that recognize RBD. CV07-209 is an ACE2 competing mAb. CV07-270's epitope mimimally overlaps with ACE2 binding residues. CV07-209 reduces weight loss, lung pathology, and virus levels in a hamster prevention and treatment model.
   dataAvailability:
@@ -327,7 +327,7 @@
   - name: 2-4
   - name: 2-43
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 trimeric spike)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   description: |-
     2-4 ia an ACE2-competing neutralizing mAb derived from SARS-CoV-2 convalescent B cells. It binds RBD in its down position. In a low-resolution image, 2-43 appears to bind to a quartenrary epitope at the top of spike with binding to adjacent S1 protomers. 4-8 binds to NTD. 2-15 is an ACE2-competing mAb that reduced lung virus levels in a hamster prevention model.
   dataAvailability:
@@ -362,11 +362,12 @@
   - name: MD65
     ec50: 220
   source: |-
-    Convalescent B cell scFv library (SARS-CoV-2 trimeric spike and RBD)
+    Convalescent B cell scFv library filtered from binding to SARS-CoV-2 trimeric spike and RBD
   description: |-
     MD65 is an ACE2-competing neutralizing mAb derived from a human B cell phage display library derived from acute and convalescent SARS-CoV-2 sera panned for RBD and S1 binding. MD65-YTE (M252Y, S254T, T256E) has increased affinity for FcRn at acidic pH and a prolonged half-life.
   dataAvailability:
     sequence: true
+    structure: true
 - references:
   - doi: 10.1038/s41586-020-2349-y
     firstAuthor:
@@ -380,7 +381,7 @@
     ec50: 80
   - name: VIR-7831
   source: |-
-    SARS-CoV-1 convalescent memory B cells (SARS-CoV-2 trimeric spike and RBD)
+    SARS-CoV-1 convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   description: |-
     VIR-7831 was developed based on the neutralizing mAb S309. It is being studied in a phase II trial. It was derived from SARS-CoV-1 convalescent memory B cells that recognize SARS-CoV-2 trimeric spike. It is a non-ACE2-competing mAb that binds to the RBD core region and cross-neutralizes SARS-CoV-1. It binds to RBD in its up and down configurations and it binds to a unique proteoglycan epitope at N343. It has been shown to elicit ADCC and ADCP in vitro and it has undergone Fc modifications to prolong its half-life.
   dataAvailability:
@@ -400,12 +401,12 @@
       givenNames: Christopher O.
     year: 2020
     journal: Cell
-  - doi: 10.1101/2020.07.21.214759
+  - doi: 10.7554/eLife.61312
     firstAuthor:
       surname: Weisblum
       givenNames: Yiska
     year: 2020
-    journal: bioRxiv
+    journal: eLife
   - doi: 10.1038/s41586-020-2852-1
     firstAuthor:
       surname: Barnes
@@ -429,7 +430,7 @@
     ec50: 26.1
     ec50Note: PV
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 RBD)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   description: |-
     C105, C121, C135, and C144 are ACE2-competing neutralizing mAbs. C105 binds 2 or 3 RBDs in the up configuration. C135 and C144 bind to RBD's up and down configurations. C121 / C135 and C144 / C135 bind to non-overlapping epitopes. C144 uses its CDR(H)3 to bridge two neighboring RBDs and to stabilize spike in the closed state.
   dataAvailability:
@@ -459,7 +460,7 @@
     ec50: 1
     ec50Note: PV
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 trimeric spike and RBD)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   description: |-
     CC12.1 and CC12.3 bind the ACE2-binding site with the same angle of approach. CC12.1 and CC12.3 bind 15 and 11 ACE2-binding residues, respectively. Both bind only in the open configuration. CC12.1 reduced weight loss in a hamster prevention model.
   dataAvailability:
@@ -487,7 +488,7 @@
     ec50: 13000
     ec50Note: PV
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 trimeric spike and RBD)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   description: |-
     CV30 is a neutralizing mAb. It is an ACE2 competing mAb, which binds to a high proportion of the ACE2-binding residues.
   dataAvailability:
@@ -506,7 +507,7 @@
   - name: CB6
     ec50: 835
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 RBD)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   description: |-
     CB6 (aka JS016, LY-CoV016) is an ACE2-competing neutralizing mAb derived from SARS-CoV-2 convalescent memory B cells. It has been shown to reduice virus levels and lung pathology when administered 1 day before or after infection of rhesus macaques. Its Fc receptor has been mutated (LALA) to prolong its half-life. It is being evaluated as monotherapy in a phase I trial and in combination with LY-CoV555 in a phase II trial.
   dataAvailability:
@@ -555,7 +556,7 @@
   - name: 414-1
     ec50: 263
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 trimeric spike and RBD)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   description: |-
     414-1 is an ACE2-competing neutralizing mAb.
   dataAvailability:
@@ -605,7 +606,7 @@
     ec50: 141
   - name: 6F8
   source: |-
-    Human B cell phage display library (SARS-CoV-2 RBD)
+    Human B cell phage display library filtered for binding to SARS-CoV-2 RBD
   description: |-
     5A6 is an ACE2-competing mAb that binds bivalently to one RBD in the up configuration and another in the down configuration.
   dataAvailability: {}
@@ -626,7 +627,7 @@
   - name: ADI-56046
     ec50: 100
   source: |-
-    SARS-CoV-1 convalescent memory B cells (SARS-CoV-2 tetrameric spike)
+    SARS-CoV-1 convalescent memory B cells filtered for binding to SARS-CoV-2 tetrameric spike
   description: |-
     ADI-55689 cross-neutralizes SARS-1 and competes with ACE2 but not CR3022 by binding at the edge of the ACE2 binding site. ADI-56046 also cross neutralizes SARS-1 and competes with ACE2 but binds further away from the RBD tip causing it to compete with CR3022.
   dataAvailability: {}
@@ -643,7 +644,7 @@
   - name: H4
     ec50: 900
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 RBD)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   description: |-
     H4 and B38 are ACE2-competing neutralizing mAbs that bind to non-overlapping epitopes. Both mAbs have been shown to reduce lung pathology and virus levels in a mouse treatment model.
   dataAvailability:
@@ -662,7 +663,7 @@
   - name: EY6A
     ec50: 70
   source: |-
-    Plasmablasts from SARS-CoV-2 infected persons (SARS-CoV-2 trimeric spike and S1)
+    Plasmablasts from SARS-CoV-2 infected persons filtered for binding to SARS-CoV-2 trimeric spike and S1
   description: |-
     EY6A is a non-ACE2 competing neutralizing mAb that cross-neutralizes SARS-CoV-1.
   dataAvailability:
@@ -690,11 +691,12 @@
     ec50: 105
   - name: COV2-2381
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 trimeric spike and RBD)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
   description: |-
     COV2-2196 and COV2-2130 are ACE2-competing mAbs that bind to nonoverlapping RBD epitopes. COV2-2196 binds RBD in the up configuration; COV2-2130 binds RBD in the up and down configuration. Each mAb reduces weight loss and lung virus levels in a mouse prevention model. COV2-2196 reduces lung virus levels in rhesus macaques. A modified versions of COV2-2196 and COV2-2130 (AZD8895 and AZD1061; aka AZD7442) has begun a phase I trial.
   dataAvailability:
     sequence: true
+    structure: true
     animal: true
     trial: true
 - references:
@@ -720,7 +722,7 @@
   - name: 51D7
     ec50: 39
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 RBD)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   description: |-
     58G6 is an ACE2-competing neutralizing mAb.
   dataAvailability:
@@ -751,7 +753,7 @@
   - name: LY-CoV555
     ec50: 10
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 trimeric spike and RBD)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
   description: |-
     LY-CoV555 (aka LY3819253; bamlanivimab) is an ACE2-competing mAb that binds RBD in the up and down configurations. It reduces upper airway and lower airway virus levels in rhesus macaques. It has been shown to reduce virus levels and possibly hospitalizations in a phase II trial. A phase III trial in hospitalized patients was discontinued because of lack of efficacy. It is also being studied in combination with LY-CoV016 which appears to be the same mAb as CB6 and JS016. LY-CoV555 received FDA emergence use authorization on November 9, 2020.
   dataAvailability:
@@ -788,7 +790,7 @@
   - name: SC31
     ec50: 2670
   source: |-
-    Convalescent memory B cells (SARS-CoV-2 trimeric spike)
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   description: |-
     SC31 is an ACE2-competing neutralizing mAb shown to have protective effects in transgenic mice and Syrian hamsters. Its activity in these models appears to depend on Fc-mediated effector functions as it is more protective than the Fc-null (LALA) SC31 variant.
   dataAvailability:
@@ -804,7 +806,7 @@
   - name: Nb11-59
     ec50: 550
   source: |-
-    Phage display library created from camels immunized with RBD (selected for RBD binding)
+    Phage display library created from camels immunized with RBD and then filtered for RBD binding
   description: |-
     Nb11-59 is an an ACE2-competing single-domain humanized neutralizing mAb.
   dataAvailability: {}
@@ -846,7 +848,9 @@
     Synthetic phage display sdAb library selected for trimeric spike binding.
   description: |-
     Nb6 and Nb11 are ACE2-competing single-domain neutralizing mAbs. Nb6 straddles 2 RBD down states; Nb11 binds a single RBD either in the up or down state. A mutated (Nb6-matured) trimer form of Nb6 has the greatest neutralizing activity of these adAbs. It retains activity after aerosolization, lyophilization, and heat treatment.
-  dataAvailability: {}
+  dataAvailability:
+    sequence: true
+    structure: true
 - references:
   - doi: 10.1080/19420862.2020.1778435
     firstAuthor:
@@ -1025,6 +1029,7 @@
     1E2, 2F2, 3F11, 4D8, and 5F8 belong to a panel of single-domain neutralizing mAbs derived from a synthetic humanized phage display library that underent RBD panning. Each sdAb either completely or partially competes with ACE2 binding. Fc fusion versions of these Abs increase neutralization.
   dataAvailability:
     sequence: true
+    structure: true
 - references:
   - freeText: (Tychan Pte)
   antibodies:
