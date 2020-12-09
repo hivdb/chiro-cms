@@ -24,7 +24,7 @@ annotCategories:
   annotStyle: circleInBox
   annotNames: [ACE2]
 - name: antibody
-  display: antibodies
+  display: epitopes
   dropdown: true
   defaultAnnots: []
   multiSelect: true
@@ -83,6 +83,8 @@ annotCategories:
   annotNames:
   - escape mutants
   - escape mutants Baum20
+  - escape mutants Greaney20
+  - escape mutants Liu20h
   - escape mutants Weisblum20
 - name: _hide
   display: false

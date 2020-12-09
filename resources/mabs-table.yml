@@ -1,5 +1,6 @@
 - references:
   - doi: 10.4049/jimmunol.2000583
+    refId: Alsoussi20
     firstAuthor:
       surname: Alsoussi
       givenNames: Wafaa B.
@@ -7,6 +8,7 @@
     journal: The Journal of Immunology
     journalShort: J.I.
   - doi: 10.1016/j.cell.2020.06.011
+    refId: Hassan20
     firstAuthor:
       surname: Hassan
       givenNames: Ahmed O.
@@ -28,18 +30,21 @@
     animal: true
 - references:
   - doi: 10.1126/science.abc5902
+    refId: Brouwer20
     firstAuthor:
       surname: Brouwer
       givenNames: Philip J. M.
     year: 2020
     journal: Science
   - doi: 10.1016/j.celrep.2020.108274
+    refId: Wu20c
     firstAuthor:
       surname: Wu
       givenNames: Nicholas C.
     year: 2020
     journal: Cell Reports
   - doi: 10.1016/j.immuni.2020.10.023
+    refId: Liu20g
     firstAuthor:
       surname: Liu
       givenNames: Hejun
@@ -65,12 +70,14 @@
     structure: true
 - references:
   - doi: 10.1016/j.cell.2020.05.025
+    refId: Cao20c
     firstAuthor:
       surname: Cao
       givenNames: Yunlong
     year: 2020
     journal: Cell
   - doi: 10.1101/2020.07.09.195263
+    refId: Du20
     firstAuthor:
       surname: Du
       givenNames: Shuo
@@ -112,6 +119,7 @@
     animal: true
 - references:
   - doi: 10.1038/s41423-020-0426-7
+    refId: Chen20e
     firstAuthor:
       surname: Chen
       givenNames: Xiangyu
@@ -132,6 +140,7 @@
   dataAvailability: {}
 - references:
   - doi: 10.1126/science.abc6952
+    refId: Chi20
     firstAuthor:
       surname: Chi
       givenNames: Xiangyang
@@ -151,6 +160,7 @@
     structure: true
 - references:
   - doi: 10.1038/s41467-020-18058-8
+    refId: Ejemel20
     firstAuthor:
       surname: Ejemel
       givenNames: Monir
@@ -177,18 +187,21 @@
   dataAvailability: {}
 - references:
   - doi: 10.1126/science.abd0827
+    refId: Hansen20
     firstAuthor:
       surname: Hansen
       givenNames: Johanna
     year: 2020
     journal: Science
   - doi: 10.1126/science.abd0831
+    refId: Baum20
     firstAuthor:
       surname: Baum
       givenNames: Alina
     year: 2020
     journal: Science
   - doi: 10.1101/2020.08.02.233320
+    refId: Baum20b
     firstAuthor:
       surname: Baum
       givenNames: Alina
@@ -217,6 +230,7 @@
     trial: true
 - references:
   - doi: 10.1038/s41586-020-2380-z
+    refId: Ju20
     firstAuthor:
       surname: Ju
       givenNames: Bin
@@ -238,6 +252,7 @@
     structure: true
 - references:
   - doi: 10.1016/j.cell.2020.06.044
+    refId: Kreer20
     firstAuthor:
       surname: Kreer
       givenNames: Christoph
@@ -267,6 +282,7 @@
     sequence: true
 - references:
   - doi: 10.1016/j.cell.2020.09.049
+    refId: Kreye20
     firstAuthor:
       surname: Kreye
       givenNames: Jakob
@@ -287,6 +303,7 @@
     animal: true
 - references:
   - doi: 10.1073/pnas.2010197117
+    refId: Li20b
     firstAuthor:
       surname: Li
       givenNames: Wei
@@ -304,6 +321,7 @@
     animal: true
 - references:
   - doi: 10.1038/s41586-020-2571-7
+    refId: Liu20e
     firstAuthor:
       surname: Liu
       givenNames: Lihong
@@ -335,6 +353,7 @@
     structure: true
 - references:
   - doi: 10.1126/science.abc5881
+    refId: Lv20
     firstAuthor:
       surname: Lv
       givenNames: Zhe
@@ -352,6 +371,7 @@
     structure: true
 - references:
   - doi: 10.1038/s41467-020-18159-4
+    refId: Noy-Porat20
     firstAuthor:
       surname: Noy-Porat
       givenNames: Tal
@@ -370,6 +390,7 @@
     structure: true
 - references:
   - doi: 10.1038/s41586-020-2349-y
+    refId: Pinto20
     firstAuthor:
       surname: Pinto
       givenNames: Dora
@@ -390,24 +411,28 @@
     trial: true
 - references:
   - doi: 10.1038/s41586-020-2456-9
+    refId: Robbiani20
     firstAuthor:
       surname: Robbiani
       givenNames: Davide F.
     year: 2020
     journal: Nature
   - doi: 10.1016/j.cell.2020.06.025
+    refId: Barnes20
     firstAuthor:
       surname: Barnes
       givenNames: Christopher O.
     year: 2020
     journal: Cell
   - doi: 10.7554/eLife.61312
+    refId: Weisblum20
     firstAuthor:
       surname: Weisblum
       givenNames: Yiska
     year: 2020
     journal: eLife
   - doi: 10.1038/s41586-020-2852-1
+    refId: Barnes20b
     firstAuthor:
       surname: Barnes
       givenNames: Christopher O.
@@ -438,12 +463,14 @@
     structure: true
 - references:
   - doi: 10.1126/science.abc7520
+    refId: Rogers20
     firstAuthor:
       surname: Rogers
       givenNames: Thomas F.
     year: 2020
     journal: Science
   - doi: 10.1126/science.abd2321
+    refId: Yuan20c
     firstAuthor:
       surname: Yuan
       givenNames: Meng
@@ -469,12 +496,14 @@
     animal: true
 - references:
   - doi: 10.1016/j.immuni.2020.06.001
+    refId: Seydoux20
     firstAuthor:
       surname: Seydoux
       givenNames: Emilie
     year: 2020
     journal: Immunity
   - doi: 10.1038/s41467-020-19231-9
+    refId: Hurlburt20
     firstAuthor:
       surname: Hurlburt
       givenNames: Nicholas K.
@@ -496,6 +525,7 @@
     structure: true
 - references:
   - doi: 10.1038/s41586-020-2381-y
+    refId: Shi20
     firstAuthor:
       surname: Shi
       givenNames: Rui
@@ -517,6 +547,7 @@
     trial: true
 - references:
   - doi: 10.1371/journal.pmed.0030237
+    refId: terMeulen06
     firstAuthor:
       surname: ter Meulen
       givenNames: Jan
@@ -524,12 +555,14 @@
     journal: PLoS Medicine
     journalShort: PLoS Med
   - doi: 10.1126/science.abb7269
+    refId: Yuan20b
     firstAuthor:
       surname: Yuan
       givenNames: Meng
     year: 2020
     journal: Science
   - doi: 10.1016/j.chom.2020.06.010
+    refId: Huo20
     firstAuthor:
       surname: Huo
       givenNames: Jiandong
@@ -547,6 +580,7 @@
     structure: true
 - references:
   - doi: 10.1016/j.celrep.2020.107918
+    refId: Wan20
     firstAuthor:
       surname: Wan
       givenNames: Jinkai
@@ -563,6 +597,7 @@
     sequence: true
 - references:
   - doi: 10.1038/s41467-020-16256-y
+    refId: Wang20b
     firstAuthor:
       surname: Wang
       givenNames: Chunyan
@@ -570,12 +605,14 @@
     journal: Nature Communications
     journalShort: Nat Commun
   - doi: 10.1101/2020.08.24.264630
+    refId: Haagmans20
     firstAuthor:
       surname: Haagmans
       givenNames: Bart L.
     year: 2020
     journal: bioRxiv
   - doi: 10.1101/2020.09.30.318261
+    refId: Fedry20
     firstAuthor:
       surname: Fedry
       givenNames: Juliette
@@ -592,6 +629,7 @@
     animal: true
 - references:
   - doi: 10.1101/2020.07.14.203414
+    refId: Wang20h
     firstAuthor:
       surname: Wang
       givenNames: Bei
@@ -612,6 +650,7 @@
   dataAvailability: {}
 - references:
   - doi: 10.1126/science.abc7424
+    refId: Wec20
     firstAuthor:
       surname: Wec
       givenNames: Anna Z.
@@ -633,6 +672,7 @@
   dataAvailability: {}
 - references:
   - doi: 10.1126/science.abc2241
+    refId: Wu20
     firstAuthor:
       surname: Wu
       givenNames: Yan
@@ -653,6 +693,7 @@
     animal: true
 - references:
   - doi: 10.1038/s41594-020-0480-y
+    refId: Zhou20b
     firstAuthor:
       surname: Zhou
       givenNames: Daming
@@ -671,6 +712,7 @@
     structure: true
 - references:
   - doi: 10.1038/s41591-020-0998-x
+    refId: Zost20
     firstAuthor:
       surname: Zost
       givenNames: Seth J.
@@ -678,6 +720,7 @@
     journal: Nature Medicine
     journalShort: Nat Med
   - doi: 10.1038/s41586-020-2548-6
+    refId: Zost20b
     firstAuthor:
       surname: Zost
       givenNames: Seth J.
@@ -701,12 +744,14 @@
     trial: true
 - references:
   - doi: 10.1101/2020.09.11.292631
+    refId: Li20e
     firstAuthor:
       surname: Li
       givenNames: Tingting
     year: 2020
     journal: bioRxiv
   - doi: 10.1101/2020.08.19.253369
+    refId: Han20b
     firstAuthor:
       surname: Han
       givenNames: Xiaojian
@@ -729,18 +774,21 @@
     sequence: true
 - references:
   - doi: 10.1101/2020.09.30.318972
+    refId: Jones20
     firstAuthor:
       surname: Jones
       givenNames: Bryan E.
     year: 2020
     journal: bioRxiv
   - doi: 10.1038/s41586-020-2381-y
+    refId: Shi20
     firstAuthor:
       surname: Shi
       givenNames: Rui
     year: 2020
     journal: Nature
   - doi: 10.1056/NEJMoa2029849
+    refId: Chen20l
     firstAuthor:
       surname: Chen
       givenNames: Peter
@@ -761,6 +809,7 @@
     trial: true
 - references:
   - doi: 10.1101/2020.09.27.316174
+    refId: Cao20f
     firstAuthor:
       surname: Cao
       givenNames: Xia
@@ -781,6 +830,7 @@
     trial: true
 - references:
   - doi: 10.1101/2020.10.26.355107
+    refId: Chan20b
     firstAuthor:
       surname: Chan
       givenNames: Conrad E.Z.
@@ -797,6 +847,7 @@
     animal: true
 - references:
   - doi: 10.1101/2020.08.09.242867
+    refId: Gai20
     firstAuthor:
       surname: Gai
       givenNames: Junwei
@@ -812,6 +863,7 @@
   dataAvailability: {}
 - references:
   - doi: 10.1016/j.chom.2020.04.023
+    refId: Wu20b
     firstAuthor:
       surname: Wu
       givenNames: Yanling
@@ -829,6 +881,7 @@
   dataAvailability: {}
 - references:
   - doi: 10.1126/science.abe3255
+    refId: Schoof20
     firstAuthor:
       surname: Schoof
       givenNames: Michael
@@ -853,6 +906,7 @@
     structure: true
 - references:
   - doi: 10.1080/19420862.2020.1778435
+    refId: Sun20
     firstAuthor:
       surname: Sun
       givenNames: Zehua
@@ -870,6 +924,7 @@
   dataAvailability: {}
 - references:
   - doi: 10.1016/j.cell.2020.04.031
+    refId: Wrapp20
     firstAuthor:
       surname: Wrapp
       givenNames: Daniel
@@ -888,6 +943,7 @@
     structure: true
 - references:
   - doi: 10.1038/s41594-020-0469-6
+    refId: Huo20b
     firstAuthor:
       surname: Huo
       givenNames: Jiangdong
@@ -910,6 +966,7 @@
     structure: true
 - references:
   - doi: 10.1038/s41467-020-19204-y
+    refId: Custodio20
     firstAuthor:
       surname: Custódio
       givenNames: Tânia F.
@@ -928,6 +985,7 @@
     structure: true
 - references:
   - doi: 10.1101/2020.07.27.224089
+    refId: Beasley20
     firstAuthor:
       surname: Beasley
       givenNames: Matthew D.
@@ -947,6 +1005,7 @@
   dataAvailability: {}
 - references:
   - doi: 10.1038/s41467-020-18174-5
+    refId: Hanke20
     firstAuthor:
       surname: Hanke
       givenNames: Leo
@@ -966,6 +1025,7 @@
     structure: true
 - references:
   - doi: 10.1101/2020.06.09.143438
+    refId: Li20d
     firstAuthor:
       surname: Li
       givenNames: Tingting
@@ -996,6 +1056,7 @@
     structure: true
 - references:
   - doi: 10.1038/s41467-020-18387-8
+    refId: Chi20b
     firstAuthor:
       surname: Chi
       givenNames: Xiaojing
@@ -1048,6 +1109,7 @@
     trial: true
 - references:
   - doi: 10.21203/rs.3.rs-59639/v1
+    refId: Lee20b
     firstAuthor:
       surname: Lee
       givenNames: Soo-Young
@@ -1068,6 +1130,7 @@
     trial: true
 - references:
   - doi: 10.1038/s41467-020-19568-1
+    refId: Wang20l
     firstAuthor:
       surname: Wang
       givenNames: Shuang
@@ -1132,6 +1195,7 @@
     trial: true
 - references:
   - doi: 10.1126/science.abe3354
+    refId: Tortorici20
     firstAuthor:
       surname: Tortorici
       givenNames: M. Alejandra
@@ -1152,6 +1216,7 @@
     animal: true
 - references:
   - doi: 10.1016/j.cell.2020.09.037
+    refId: Piccoli20
     firstAuthor:
       surname: Piccoli
       givenNames: Luca
@@ -1173,6 +1238,7 @@
     structure: true
 - references:
   - doi: 10.1038/s41423-020-0458-z
+    refId: Yi20
     firstAuthor:
       surname: Yi
       givenNames: Chunyan
@@ -1190,6 +1256,7 @@
   dataAvailability: {}
 - references:
   - doi: 10.1101/2020.10.07.328302
+    refId: Andreano20
     firstAuthor:
       surname: Andreano
       givenNames: Emanuele
@@ -1217,6 +1284,7 @@
     trial: true
 - references:
   - doi: 10.1038/s41589-020-00679-1
+    refId: Bracken20
     firstAuthor:
       surname: Bracken
       givenNames: Colton J.
@@ -1241,6 +1309,7 @@
     structure: true
 - references:
   - doi: 10.1126/science.abe4747
+    refId: Xiang20
     firstAuthor:
       surname: Xiang
       givenNames: Yufei

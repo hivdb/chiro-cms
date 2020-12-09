@@ -113,6 +113,7 @@ def extract_references(row, refid_lookup):
 
         refobj = {
             'doi': doi,
+            'refId': refid,
             'firstAuthor': extract_first_author(message),
             'year': extract_year(message),
             'journal': journal
