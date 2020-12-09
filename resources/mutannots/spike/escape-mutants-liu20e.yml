@@ -1,0 +1,25 @@
+name: escape mutants Liu20e
+label: Liu, 2020
+tableColLabel: "Escape\n(Liu20e)"
+level: aminoAcid
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1038/s41586-020-2571-7
+  author: Liu
+  year: 2020
+  section: Figure 3B
+  positions:
+  - 455
+  - 475
+  - 502
+aminoAcids:
+- 455R
+- 475R
+- 502R
+aminoAcidAttrs:
+  - attr: resistance
+    pairs:
+      455R: [1-20, 2-4, 2-15, 4-20]
+      475R: [1-20, 2-4, 2-15, 4-20]
+      502R: [1-20, 2-4, 2-15, 4-20]

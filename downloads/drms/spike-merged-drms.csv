@@ -1,10 +1,11 @@
 ﻿Ref,Mutations,MAbs,,Refs,Pos,AAs,,Refs,MAbs
-Baum20,74K; 79I; 259K; 417E; 444Q; 445A; 450D; 453F; 455F; 484K; 485D; 486V; 490P; 493K; 655Y; 682Q; 685S; 687G; 769E; 779K; 1128A,"REGN10933
+Baum20,417E; 444Q; 445A; 450D; 453F; 455F; 484K; 485D; 486V; 490LS; 493K,"REGN10933
 REGN10934
 REGN10987
-REGN10989",,Baum20,74,K,,"Greaney20
+REGN10989",,Li20h,234,Q,,"Greaney20
+Li20h
 Liu20h",
-Greaney20,378N; 417E; 420R; 484V; 486A; 487R; 490K,NA,,Baum20,79,I,,Liu20e,"1-20
+Greaney20,378N; 417E; 420R; 484V; 486A; 487R; 490K,NA,,Liu20h,345,ANS,,Liu20e,"1-20
 1-57
 2-15
 2-17
@@ -13,16 +14,20 @@ Greaney20,378N; 417E; 420R; 484V; 486A; 487R; 490K,NA,,Baum20,79,I,,Liu20e,"1-20
 5-24
 2-4
 2-43"
-Liu20h,345ANS; 346G; 352D; 378EQ; 408K; 441R; 444ENR; 445G; 446DV; 450DKY; 452R; 458Q; 474P; 476DS; 477GINR; 478IP; 479LS; 483FG; 484ADGK; 486LSVY; 490LS; 494P; 499L; 504D; 514F; 517R,NA,,Weisblum20,148,S,,"Li20e
+Li20h,234Q; 435S; 439K; 452R; 472V; 475V; 483A; 490L; 508H; 614G; 831V,NA,,Liu20h,346,G,,"Li20e
 Han20b","13G9
 58G6
 510A5
 51D7"
-Weisblum20,148S; 150ER; 151P; 346KS; 439K; 440K; 444NQT; 445EGIKL; 446SV; 455FIR; 456V; 483A; 484ADKQ; 490LS; 493KLR; 494P,"C002
-C121
-C135
-C144
-C105",,Weisblum20,150,ER,,Chi20b,"1E2
+Liu20e,455R; 475R; 502R,"1-20
+1-57
+2-15
+2-17
+2-7
+4-8
+5-24
+2-4
+2-43",,Weisblum20,346,KS,,Chi20b,"1E2
 1E2-FC
 2F2
 2F2-Fc
@@ -32,31 +37,35 @@ C105",,Weisblum20,150,ER,,Chi20b,"1E2
 4D8-Fc
 5F8
 5F8-Fc"
-,,,,Weisblum20,151,P,,Wang20h,"1F6
+Liu20h,345ANS; 346G; 352D; 378EQ; 408K; 441R; 444ENR; 445G; 446DV; 450DKY; 452R; 458Q; 474P; 476DS; 477GINR; 478IP; 479LS; 483FG; 484ADGK; 486LSVY; 490LS; 494P; 499L; 504D; 514F; 517R,NA,,Liu20h,352,D,,Wang20h,"1F6
 2H4
 3D11
 3F11
 5A6
 6F8"
-,,,,Baum20,259,K,,"Alsoussi20
+Weisblum20,346KS; 439K; 440K; 444NQ; 445L; 446V; 455FR; 456V; 483A; 484ADKQ; 490LS; 493KLR; 494P,"C002
+C121
+C135
+C144
+C105",,Liu20h,378,EQ,,"Alsoussi20
 Hassan20","2B04
 2H04
 1B07"
-,,,,Liu20h,345,ANS,,Chen20e,"311mab-31B5
+,,,,Greaney20,378,N,,Chen20e,"311mab-31B5
 311mab-32D4"
-,,,,Liu20h,346,G,,Wan20,414-1
-,,,,Weisblum20,346,KS,,"Wang20b
+,,,,Liu20h,408,K,,Wan20,414-1
+,,,,Baum20; Greaney20,417,E,,"Wang20b
 Haagmans20
 Fedry20",47D11
-,,,,Liu20h,352,D,,Chi20,"4A8
+,,,,Greaney20,420,R,,Chi20,"4A8
 0304-3H3"
-,,,,Liu20h,378,EQ,,Wec20,"ADI-55688
+,,,,Li20h,435,S,,Wec20,"ADI-55688
 ADI-55689
 ADI-56000
 ADI-56046"
-,,,,Greaney20,378,N,,Wu20,"B38
+,,,,Li20h; Weisblum20,439,K,,Wu20,"B38
 H4"
-,,,,Liu20h,408,K,,"Cao20c
+,,,,Weisblum20,440,K,,"Cao20c
 Du20","BD-368-2
 BD-236
 BD-503
@@ -70,7 +79,7 @@ BD-612
 BD-617
 BD-629
 BD-632"
-,,,,Baum20; Greaney20,417,E,,"Robbiani20
+,,,,Liu20h,441,R,,"Robbiani20
 Barnes20
 Weisblum20
 Barnes20b","C002
@@ -78,62 +87,62 @@ C121
 C135
 C144
 C105"
-,,,,Greaney20,420,R,,Shi20,"CB6
+,,,,Liu20h,444,ENR,,Shi20,"CB6
 LY-CoV555"
-,,,,Weisblum20,439,K,,"Rogers20
+,,,,Weisblum20,444,NQ,,"Rogers20
 Yuan20c","CC12.1
 CC12.3
 CC6.29
 CC6.30"
-,,,,Weisblum20,440,K,,"Zost20
+,,,,Baum20,444,Q,,"Zost20
 Zost20b","COV2-2196
 COV2-2130
 COV2-2381"
-,,,,Liu20h,441,R,,"Brouwer20
+,,,,Baum20,445,A,,"Brouwer20
 Wu20c
 Liu20g","COVA1-18
 COVA2-15
 COVA1-16
 COVA2-39
 COVA2-04"
-,,,,Liu20h,444,ENR,,"terMeulen06
+,,,,Liu20h,445,G,,"terMeulen06
 Yuan20b
 Huo20",CR3022
-,,,,Weisblum20,444,NQT,,Lee20b,CT-P59
-,,,,Baum20,444,Q,,Kreye20,"CV07-209
+,,,,Weisblum20,445,L,,Lee20b,CT-P59
+,,,,Liu20h,446,DV,,Kreye20,"CV07-209
 CV07-270"
-,,,,Baum20,445,A,,"Seydoux20
+,,,,Weisblum20,446,V,,"Seydoux20
 Hurlburt20","CV30
 CV30-GermLine"
-,,,,Weisblum20,445,EGIKL,,Zhou20b,EY6A
-,,,,Liu20h,445,G,,Lv20,H014
-,,,,Liu20h,446,DV,,Huo20b,"H11-H4
+,,,,Baum20,450,D,,Zhou20b,EY6A
+,,,,Liu20h,450,DKY,,Lv20,H014
+,,,,Li20h; Liu20h,452,R,,Huo20b,"H11-H4
 H11-H4-Fc
 H11-D4-Fc"
-,,,,Weisblum20,446,SV,,Yi20,HA001
-,,,,Baum20,450,D,,"Jones20
+,,,,Baum20,453,F,,Yi20,HA001
+,,,,Baum20,455,F,,"Jones20
 Chen20l",LY-CoV555
-,,,,Liu20h,450,DKY,,Noy-Porat20,MD65
-,,,,Liu20h,452,R,,Wang20l,"MW05
+,,,,Weisblum20,455,FR,,Noy-Porat20,MD65
+,,,,Liu20e,455,R,,Wang20l,"MW05
 MW07
 MW33"
-,,,,Baum20,453,F,,Kreer20,"MnC4t2p1_B3
+,,,,Weisblum20,456,V,,Kreer20,"MnC4t2p1_B3
 MnC2t2p1_C11
 MnC2t1p1_A3
 FnC1t2p1_D4
 HbnC3t1p1_C6"
-,,,,Baum20,455,F,,Gai20,Nb11-59
-,,,,Weisblum20,455,FIR,,Schoof20,"Nb6
+,,,,Liu20h,458,Q,,Gai20,Nb11-59
+,,,,Li20h,472,V,,Schoof20,"Nb6
 Nb6-matured
 Nb6-trimeric
 Nb6-matured-trimeric
 Nb11"
-,,,,Weisblum20,456,V,,Ju20,"P2B-2F6
+,,,,Liu20h,474,P,,Ju20,"P2B-2F6
 P2C-1F11
 P2C-1A13"
-,,,,Liu20h,458,Q,,Andreano20,"PT-004
+,,,,Liu20e,475,R,,Andreano20,"PT-004
 PT-100"
-,,,,Liu20h,474,P,,"Hansen20
+,,,,Li20h,475,V,,"Hansen20
 Baum20
 Baum20b","REGN10933
 REGN10934
@@ -148,7 +157,7 @@ S2H14"
 S2E12"
 ,,,,Liu20h,479,LS,,Pinto20,"S309
 VIR-7831"
-,,,,Weisblum20,483,A,,Chan20b,SC31
+,,,,Li20h; Weisblum20,483,A,,Chan20b,SC31
 ,,,,Liu20h,483,FG,,Li20d,"SR4
 MR3
 MR4
@@ -176,19 +185,16 @@ n3130"
 ,,,,Greaney20,490,K,,Xiang20,"nb20
 nb21
 nb89"
-,,,,Liu20h; Weisblum20,490,LS,,,
-,,,,Baum20,490,P,,,
+,,,,Li20h,490,L,,,
+,,,,Baum20; Liu20h; Weisblum20,490,LS,,,
 ,,,,Baum20,493,K,,,
 ,,,,Weisblum20,493,KLR,,,
 ,,,,Liu20h; Weisblum20,494,P,,,
 ,,,,Liu20h,499,L,,,
+,,,,Liu20e,502,R,,,
 ,,,,Liu20h,504,D,,,
+,,,,Li20h,508,H,,,
 ,,,,Liu20h,514,F,,,
 ,,,,Liu20h,517,R,,,
-,,,,Baum20,655,Y,,,
-,,,,Baum20,682,Q,,,
-,,,,Baum20,685,S,,,
-,,,,Baum20,687,G,,,
-,,,,Baum20,769,E,,,
-,,,,Baum20,779,K,,,
-,,,,Baum20,1128,A,,,
+,,,,Li20h,614,G,,,
+,,,,Li20h,831,V,,,
