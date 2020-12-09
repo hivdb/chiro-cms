@@ -22,6 +22,10 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Dec 09)
+Schäfer A, Muecksch F, et int., and Sheahan TP. [“Antibody potency, effector function, and combinations in protection and therapy for SARS-CoV-2 infection in vivo.”](/search/?article=Schafer20) _Journal of Experimental Medicine_, 2020. [doi.org/10.1084/jem.20201993](https://doi.org/10.1084/jem.20201993). \[[PubMed33211088](https://www.ncbi.nlm.nih.gov/pubmed/33211088/)\] \[[PMC7673958](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7673958/)\]
+### Database Entries (Dec 09)
+Hörnich BF, Großkopf AK, et int., and Hahn AS. [“SARS-CoV-2 and SARS-CoV spike-mediated cell-cell fusion differ in the requirements for receptor expression and proteolytic activation and are not inhibited by Bromhexine.”](/search/?article=Hornich20) _bioRxiv_, 2020. [doi.org/10.1101/2020.07.25.221135](https://doi.org/10.1101/2020.07.25.221135).
 ### Database Entries (Dec 04)
 Arévalo A, Pagotto R, et int., and Crispo M. [“Ivermectin reduces coronavirus infection in vivo: a mouse experimental model.”](/search/?article=Arevalo20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.02.363242](https://doi.org/10.1101/2020.11.02.363242).
 ### Database Entries (Dec 04)
