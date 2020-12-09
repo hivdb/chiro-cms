@@ -1,0 +1,27 @@
+name: escape mutants Li20h
+label: Li, 2020
+tableColLabel: "Escape\n(Li20h)"
+level: aminoAcid
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1016/j.cell.2020.07.012
+  author: Li
+  year: 2020
+  section: Figure 4, S2
+  positions: [234, 435, 439, 452, 472, 475, 483, 490, 508, 614, 831]
+aminoAcids: [234Q, 435S, 439K, 452R, 472V, 475V, 483A, 490L, 508H, 614G, 831V]
+aminoAcidAttrs:
+  - attr: resistance
+    pairs:
+      234Q: ["157", "247", B38, CB6, P2C-1F11, AB35, H014, H00S022]
+      435S: [H014]
+      439K: [H00S022]
+      452R: [X593, P2B-2F6]
+      472V: [X593]
+      475V: ["157", "247", B38, CB6, P2C-1F11, CA1]
+      483A: [X593, P2B-2F6]
+      490L: [H4, 261-262, X593, P2B-2F6]
+      508H: [H014]
+      614G: [H014, X593]
+      831V: [B38]

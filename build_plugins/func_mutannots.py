@@ -1,6 +1,8 @@
 import os
 import re
+import warnings
 import ruamel.yaml
+from collections import defaultdict
 
 yaml = ruamel.yaml.YAML()
 
@@ -59,9 +61,46 @@ def load_config_and_data(resource_dir):
             with open(os.path.join(genedir, annotyaml),
                       encoding='utf-8-sig') as fp:
                 annotdata = yaml.load(fp)
-                annotdata_lookup[annotdata['name']] = annotdata
+                if isinstance(annotdata, dict):
+                    annotdata = [annotdata]
+                for ad in annotdata:
+                    annotdata_lookup[ad['name']] = ad
 
         yield resname, geneconfig, annotdata_lookup
+
+
+def parse_mut(mut):
+    match = re.match(
+        r'^[A-Z]?(\d+)([A-Zid*]+|[A-Z*]_[A-Z*]+)$', mut)
+    if not match:
+        raise ValueError('Invalid mutation string: {!r}'.format(mut))
+    pos, aas = match.groups()
+    pos = int(pos)
+    if '_' in aas:
+        aas = [aas]
+    else:
+        aas = list(aas)
+    return pos, aas
+
+
+def build_aa_attrs_lookup(annotdata):
+    attrs = annotdata.get('aminoAcidAttrs', [])
+    lookup = defaultdict(dict)
+    for attrdef in attrs:
+        attr = attrdef['attr']
+        pairs = attrdef['pairs']
+        if isinstance(pairs, dict):
+            pairs = list(pairs.items())
+        for mut, attrval in pairs:
+            pos, aas = parse_mut(mut)
+            for aa in aas:
+                if attr in lookup[(pos, aa)]:
+                    warnings.warn(
+                        'Duplicated attribute {!r} for {}{}'
+                        .format(attr, pos, aa)
+                    )
+                lookup[(pos, aa)][attr] = attrval
+    return lookup
 
 
 def yield_mutannots_json(resource_dir):
@@ -119,23 +158,26 @@ def yield_mutannots_json(resource_dir):
                                 'citationIds': pos_cites[pos]
                             }
                 else:
+                    attr_lookup = build_aa_attrs_lookup(annotdata)
                     for aas in annotdata['aminoAcids']:
-                        match = re.match(
-                            r'^(\d+)([A-Zid*]+|[A-Z*]_[A-Z*]+)$', aas)
-                        pos, aas = match.groups()
-                        pos = int(pos)
+                        pos, aas = parse_mut(aas)
                         posdata = positions.setdefault(pos, {
                             'position': pos,
                             'annotations': {}
                         })
-                        if '_' in aas:
-                            aas = [aas]
-                        posdata['annotations'].setdefault(annot_name, {
+                        annot = posdata['annotations'].setdefault(annot_name, {
                             'name': annot_name,
                             'description': '',
                             'aminoAcids': [],
+                            'aminoAcidAttrs': {},
                             'citationIds': pos_cites[pos]
-                        })['aminoAcids'].extend(aas)
+                        })
+                        annot['aminoAcids'].extend(aas)
+                        annot['aminoAcidAttrs'].update({
+                            aa: attr_lookup[(pos, aa)]
+                            for aa in aas
+                            if (pos, aa) in attr_lookup
+                        })
         positions = list(positions.values())
         for posdata in positions:
             posdata['annotations'] = list(posdata['annotations'].values())
