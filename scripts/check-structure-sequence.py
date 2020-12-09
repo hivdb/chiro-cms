@@ -179,14 +179,48 @@ def get_mab2Seq_from_abdab(abdab):
         cdrl3 = item['CDRL3'].strip()
         if cdrl3 in ['N/A', 'ND', 'Expected']:
             cdrl3 = ''
+        heave_v_gene = item['Heavy V Gene']
+        if heave_v_gene in ['N/A', 'ND', 'Expected']:
+            heave_v_gene = ''
+        elif heave_v_gene:
+            heave_v_gene = heave_v_gene[:heave_v_gene.index('(')]
+        heave_j_gene = item['Heavy J Gene']
+        if heave_j_gene in ['N/A', 'ND', 'Expected']:
+            heave_j_gene = ''
+        elif heave_j_gene:
+            heave_j_gene = heave_j_gene[:heave_j_gene.index('(')]
+        light_v_gene = item['Light V Gene']
+        if light_v_gene in ['N/A', 'ND', 'Expected']:
+            light_v_gene = ''
+        elif light_v_gene:
+            light_v_gene = light_v_gene[:light_v_gene.index('(')]
+        light_j_gene = item['Light J Gene']
+        if light_j_gene in ['N/A', 'ND', 'Expected']:
+            light_j_gene = ''
+        elif light_j_gene:
+            light_j_gene = light_j_gene[:light_j_gene.index('(')]
+
+        sources = item['Sources']
+        if sources:
+            sources = sources[:sources.find('(')]
 
         if name in mab2Seq:
             print('Duplicated name:', name)
         mab2Seq[name] = {
+            'Author': sources,
+            'Mab': name,
+            'Heavy V Gene': heave_v_gene,
             'VH': vh,
             'VL': vl,
+            'V region(H)': '',
             'CDRH3': cdrh3,
+            'Heavy J Gene': heave_j_gene,
+            'J region(H)': '',
+            'Light V Gene': light_v_gene,
+            'V region(L)': '',
             'CDRL3': cdrl3,
+            'Light J Gene': light_j_gene,
+            'J region(L)': '',
         }
 
     return mab2Seq
