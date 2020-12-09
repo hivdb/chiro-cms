@@ -95,8 +95,6 @@ def get_depend_invalid_null_records(records, keys):
     return result
 
 
-
-
 def load_abdab(folder):
     file_path = folder / ABDAB_FILE
     return load_csv(file_path)
@@ -554,6 +552,21 @@ def show_missing_structure(structures, mab2PDB):
     print('PDB without epitope process:', miss_epitope)
 
 
+def get_missing_sequence(sequences, mab2Seq):
+    seq_mabs = [i['Mab'] for i in sequences]
+    seq_mabs = [i if i not in RENAME_MAB_ABDAB2MAb
+                else RENAME_MAB_ABDAB2MAb[i] for i in seq_mabs]
+
+    missing_seq = []
+    for mab, value in mab2Seq.items():
+        if mab not in seq_mabs:
+            value['Mab'] = mab
+            missing_seq.append(value)
+            print('Sequence not in table:', mab)
+
+    return missing_seq
+
+
 def show_error_sequences(sequences, mab2Seq):
 
     for item in sequences:
@@ -621,6 +634,9 @@ def work(folder_path):
 
     mab2Seq = get_mab2Seq_from_abdab(abdab)
     show_error_sequences(sequences, mab2Seq)
+    missing_seqs = get_missing_sequence(sequences, mab2Seq)
+    save_file = folder / 'Missing-sequence.csv'
+    dump_csv(save_file, missing_seqs)
 
 
 if __name__ == '__main__':
