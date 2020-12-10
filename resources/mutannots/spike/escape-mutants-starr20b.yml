@@ -1,0 +1,43 @@
+name: escape mutants Starr20b
+label: Starr, 2020
+tableColLabel: "Escape\n(Starr20b)"
+level: aminoAcid
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.30.405472
+  author: Starr
+  year: 2020
+  section: Figure S3; BioRxiv PDF Page 3, Line 4-6
+  positions:
+  - 406
+  - 417
+  - 439
+  - 440
+  - 444
+  - 460
+  - 475
+  - 486
+  - 493
+aminoAcids:
+- 406W
+- 417N
+- 439K
+- 440D
+- 444Q
+- 460T
+- 475V
+- 486IK
+- 493K
+aminoAcidAttrs:
+  - attr: resistance
+    pairs:
+      406W: [REGN10933, REGN10987, REGN10933+REGN10987]
+      417N: [LY-CoV2016]
+      439K: [REGN10987]
+      440D: [REGN10987]
+      444Q: [REGN10987]
+      460T: [LY-CoV2016]
+      475V: [LY-CoV2016]
+      486IK: [REGN10933]
+      493K: [REGN10933]

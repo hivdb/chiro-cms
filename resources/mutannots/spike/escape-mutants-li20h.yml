@@ -9,8 +9,8 @@ citations:
   author: Li
   year: 2020
   section: Figure 4, S2
-  positions: [234, 435, 439, 452, 472, 475, 483, 490, 508, 614, 831]
-aminoAcids: [234Q, 435S, 439K, 452R, 472V, 475V, 483A, 490L, 508H, 614G, 831V]
+  positions: [234, 435, 439, 452, 472, 475, 483, 490, 508, 831]
+aminoAcids: [234Q, 435S, 439K, 452R, 472V, 475V, 483A, 490L, 508H, 831V]
 aminoAcidAttrs:
   - attr: resistance
     pairs:
@@ -23,5 +23,4 @@ aminoAcidAttrs:
       483A: [X593, P2B-2F6]
       490L: [H4, 261-262, X593, P2B-2F6]
       508H: [H014]
-      614G: [H014, X593]
       831V: [B38]
