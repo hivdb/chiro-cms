@@ -1,65 +1,45 @@
-﻿Refs,Pos,AAs
-Li20h,234,Q
-Liu20h,345,ANS
-Liu20h,346,G
-Weisblum20,346,KS
-Liu20h,352,D
-Liu20h,378,EQ
-Greaney20,378,N
-Liu20h,408,K
-Baum20; Greaney20,417,E
-Greaney20,420,R
-Li20h,435,S
-Li20h; Weisblum20,439,K
-Weisblum20,440,K
-Liu20h,441,R
-Liu20h,444,ENR
-Weisblum20,444,NQ
-Baum20,444,Q
-Baum20,445,A
-Liu20h,445,G
-Weisblum20,445,L
-Liu20h,446,DV
-Weisblum20,446,V
-Baum20,450,D
-Liu20h,450,DKY
-Li20h; Liu20h,452,R
-Baum20,453,F
-Baum20,455,F
-Weisblum20,455,FR
-Liu20e,455,R
-Weisblum20,456,V
-Liu20h,458,Q
-Li20h,472,V
-Liu20h,474,P
-Liu20e,475,R
-Li20h,475,V
-Liu20h,476,DS
-Liu20h,477,GINR
-Liu20h,478,IP
-Liu20h,479,LS
-Li20h; Weisblum20,483,A
-Liu20h,483,FG
-Liu20h,484,ADGK
-Weisblum20,484,ADKQ
-Baum20,484,K
-Greaney20,484,V
-Baum20,485,D
-Greaney20,486,A
-Liu20h,486,LSVY
-Baum20,486,V
-Greaney20,487,R
-Greaney20,490,K
-Li20h,490,L
-Baum20; Liu20h; Weisblum20,490,LS
-Baum20,493,K
-Weisblum20,493,KLR
-Liu20h; Weisblum20,494,P
-Liu20h,499,L
-Liu20e,502,R
-Liu20h,504,D
-Li20h,508,H
-Liu20h,514,F
-Liu20h,517,R
-Li20h,614,G
-Li20h,831,V
+﻿Pos,AAs,Refs
+234,Q,Li20h
+345,ANS,Liu20h
+346,GKS,Liu20h; Weisblum20
+352,D,Liu20h
+378,ENQ,Greaney20; Liu20h
+408,K,Liu20h
+417,E,Baum20; Greaney20
+420,R,Greaney20
+435,S,Li20h
+439,K,Li20h; Weisblum20
+440,K,Weisblum20
+441,R,Liu20h
+444,ENQR,Baum20; Liu20h; Weisblum20
+445,AGL,Baum20; Liu20h; Weisblum20
+446,DV,Liu20h; Weisblum20
+450,DKY,Baum20; Liu20h
+452,R,Li20h; Liu20h
+453,F,Baum20
+455,FR,Baum20; Liu20e; Weisblum20
+456,V,Weisblum20
+458,Q,Liu20h
+472,V,Li20h
+474,P,Liu20h
+475,RV,Li20h; Liu20e
+476,DS,Liu20h
+477,GINR,Liu20h
+478,IP,Liu20h
+479,LS,Liu20h
+483,AFG,Li20h; Liu20h; Weisblum20
+484,ADGKQV,Baum20; Greaney20; Liu20h; Weisblum20
+485,D,Baum20
+486,ALSVY,Baum20; Greaney20; Liu20h
+487,R,Greaney20
+490,KLS,Baum20; Greaney20; Li20h; Liu20h; Weisblum20
+493,KLR,Baum20; Weisblum20
+494,P,Liu20h; Weisblum20
+499,L,Liu20h
+502,R,Liu20e
+504,D,Liu20h
+508,H,Li20h
+514,F,Liu20h
+517,R,Liu20h
+614,G,Li20h
+831,V,Li20h

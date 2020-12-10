@@ -1,8 +1,6 @@
 import os
 import csv
 import json
-import ruamel.yaml
-from collections import defaultdict
 from itertools import groupby, zip_longest, chain
 
 from .func_mutannots import yield_mutannots_json
@@ -10,26 +8,15 @@ from .func_mutannots import yield_mutannots_json
 DRM_ANNOT_CATEGORY = 'escapeMutants'
 
 
-def load_spike_mab_lookup(resource_dir):
-    resource_name = os.path.join(resource_dir, 'mabs-table.yml')
-    with open(resource_name, encoding='utf-8-sig') as fp:
-        resdata = ruamel.yaml.load(fp, Loader=ruamel.yaml.Loader)
-    lookup = defaultdict(list)
-    for row in resdata:
-        for ref in row['references']:
-            refid = ref.get('refId')
-            if refid:
-                lookup[ref['refId']].extend(
-                    ab['name'] for ab in row['antibodies']
-                )
-    return lookup
-
-
-def build_citeid2refid_lookup(resource_dir, doi2citeid):
+def build_citeid2refid_lookup(resource_dir, all_citations):
     """RefID is used by Bob
 
     This function create a lookup map convert CiteID to RefID
     """
+    doi2citeid = {
+        cite['doi']: cite['citationId']
+        for cite in all_citations.values()
+    }
     resource_name = os.path.join(resource_dir, 'refid_lookup.json')
     with open(resource_name, encoding='utf-8-sig') as fp:
         resdata = json.load(fp)
@@ -41,10 +28,18 @@ def build_citeid2refid_lookup(resource_dir, doi2citeid):
     return lookup
 
 
-def build_drm_citation_pairs(positions, drm_annot_names,
-                             citeid2refid, citeid2doi,
-                             all_citations):
+def build_triplets(
+    positions, drm_annot_names,
+    all_citations, resource_dir
+):
     results = []
+    citeid2refid = build_citeid2refid_lookup(
+        resource_dir, all_citations
+    )
+    citeid2doi = {
+        cite['citationId']: cite['doi']
+        for cite in all_citations.values()
+    }
     for posdata in positions:
         pos = posdata['position']
         for annot in posdata['annotations']:
@@ -52,72 +47,106 @@ def build_drm_citation_pairs(positions, drm_annot_names,
                 continue
 
             aas = annot['aminoAcids']
+            aa_attrs = annot.get('aminoAcidAttrs', {})
             for citeid in annot['citationIds']:
                 citeid = int(citeid.split('.', 1)[0])
                 if citeid not in citeid2refid:
                     raise KeyError(
                         'Unable to find RefID for citation {}. '
-                        'Is it a preprint got published?'
+                        'Perhaps a preprint just got published?'
                         .format(citeid2doi[citeid])
                     )
-                results.append({
-                    'position': pos,
-                    'aminoAcids': ''.join(aas),
-                    'refId': citeid2refid[citeid]
-                })
+                for aa in aas:
+                    for mab in aa_attrs.get(aa, {}).get('resistance', []):
+                        results.append({
+                            'position': pos,
+                            'aminoAcid': aa,
+                            'refId': citeid2refid[citeid],
+                            'mAb': mab
+                        })
     return results
 
 
-def save_drm2citations(destpath, pairs):
+def sort_groupby(items, key):
+    items = sorted(items, key=key)
+    return groupby(items, key)
+
+
+def uniq_join_attrs(items, attrname, by=''):
+    return by.join(sorted({item[attrname] for item in items}))
+
+
+def save_drm2citations(destpath, triplets):
     with open(destpath, 'w', encoding='utf-8-sig') as fp:
-        writer = csv.DictWriter(fp, ['Refs', 'Pos', 'AAs'])
+        writer = csv.DictWriter(fp, ['Pos', 'AAs', 'Refs'])
         writer.writeheader()
-        pairs = sorted(pairs, key=lambda r: (r['position'], r['aminoAcids']))
-        for (pos, aas), refids in groupby(
-            pairs, lambda r: (r['position'], r['aminoAcids'])
-        ):
+        for pos, partials in sort_groupby(triplets, lambda r: r['position']):
+            partials = list(partials)
+
+            aas = uniq_join_attrs(partials, 'aminoAcid')
+            refids = uniq_join_attrs(partials, 'refId', '; ')
+
             writer.writerow({
                 'Pos': pos,
                 'AAs': aas,
-                'Refs': '; '.join(r['refId'] for r in refids)
+                'Refs': refids
             })
     print('create: {}'.format(destpath))
 
 
-def save_citation2drms2mabs(destpath, pairs, refid2mabs):
+def save_ref2drms2mabs(destpath, triplets):
     with open(destpath, 'w', encoding='utf-8-sig') as fp:
         writer = csv.DictWriter(fp, ['Ref', 'Mutations', 'MAbs'])
         writer.writeheader()
-        pairs = sorted(pairs, key=lambda r: (r['refId']))
-        for refid, muts in groupby(
-            pairs, lambda r: (r['refId'])
-        ):
+        for refid, partials in sort_groupby(triplets, lambda r: r['refId']):
+            partials = list(partials)
+
+            muts = '; '.join(
+                '{}{}'.format(pos, uniq_join_attrs(aas, 'aminoAcid'))
+                for pos, aas in sort_groupby(partials, lambda t: t['position'])
+            )
+            mabs = uniq_join_attrs(partials, 'mAb', '; ')
+
             writer.writerow({
                 'Ref': refid,
-                'Mutations': '; '.join(
-                    '{position}{aminoAcids}'.format(**mut)
-                    for mut in muts
-                ),
-                'MAbs': ('\n'.join(refid2mabs[refid])
-                         if refid2mabs[refid]
-                         else 'NA')
+                'Mutations': muts,
+                'MAbs': mabs if mabs else 'NA'
             })
     print('create: {}'.format(destpath))
 
 
-def save_mab2refs(destpath, refid2mabs):
+def save_mabs2refs(destpath, triplets):
     with open(destpath, 'w', encoding='utf-8-sig') as fp:
         writer = csv.DictWriter(fp, ['Refs', 'MAbs'])
         writer.writeheader()
         rows = [
-            (refid, '\n'.join(mabs))
-            for refid, mabs in refid2mabs.items()
+            (refid, uniq_join_attrs(mabs, 'mAb', '; '))
+            for refid, mabs in
+            sort_groupby(triplets, lambda r: r['refId'])
         ]
-        rows = sorted(rows, key=lambda r: r[1])
+        rows = sort_groupby(rows, lambda r: r[1])
         writer.writerows({
             'MAbs': mabs,
-            'Refs': '\n'.join(r[0] for r in refids)
-        } for mabs, refids in groupby(rows, lambda r: r[1]))
+            'Refs': '; '.join(r[0] for r in refids)
+        } for mabs, refids in rows)
+    print('create: {}'.format(destpath))
+
+
+def save_drm2mabs(destpath, triplets):
+    with open(destpath, 'w', encoding='utf-8-sig') as fp:
+        writer = csv.DictWriter(fp, ['Pos', 'AAs', 'MAbs'])
+        writer.writeheader()
+        for pos, partials in sort_groupby(triplets, lambda r: r['position']):
+            partials = list(partials)
+
+            aas = uniq_join_attrs(partials, 'aminoAcid')
+            mabs = uniq_join_attrs(partials, 'mAb', '; ')
+
+            writer.writerow({
+                'Pos': pos,
+                'AAs': aas,
+                'MAbs': mabs
+            })
     print('create: {}'.format(destpath))
 
 
@@ -145,20 +174,6 @@ def bobstyle_csvs(destpath, *srcpaths):
 def build_drm_tables(resource_dir, build_dir, download_dir, **kw):
     for resname, payload, _ in yield_mutannots_json(resource_dir):
         all_citations = payload['citations']
-        doi2citeid = {
-            cite['doi']: cite['citationId']
-            for cite in all_citations.values()
-        }
-        citeid2doi = {
-            cite['citationId']: cite['doi']
-            for cite in all_citations.values()
-        }
-        citeid2refid = build_citeid2refid_lookup(resource_dir, doi2citeid)
-
-        if resname.lower() == 'spike':
-            refid2mabs = load_spike_mab_lookup(resource_dir)
-        else:
-            refid2mabs = {}
 
         drm_annots = [
             annot for annot in payload['annotations']
@@ -173,30 +188,36 @@ def build_drm_tables(resource_dir, build_dir, download_dir, **kw):
                 for annot in pos['annotations']
             )
         ]
-        drm_citation_pairs = build_drm_citation_pairs(
+        triplets = build_triplets(
             positions, drm_annot_names,
-            citeid2refid, citeid2doi,
-            all_citations
+            all_citations, resource_dir
         )
-        save_drm2citations(
-            os.path.join(download_dir, 'drms/{}-drm2refs.csv'.format(resname)),
-            drm_citation_pairs
+
+        dest_drm2refs = os.path.join(
+            download_dir, 'drms/{}-drm2refs.csv'.format(resname)
         )
-        save_citation2drms2mabs(
-            os.path.join(download_dir,
-                         'drms/{}-ref2drms2mabs.csv'.format(resname)),
-            drm_citation_pairs,
-            refid2mabs
+        save_drm2citations(dest_drm2refs, triplets)
+
+        dest_ref2drms2mabs = os.path.join(
+            download_dir, 'drms/{}-ref2drms2mabs.csv'.format(resname)
         )
-        save_mab2refs(
-            os.path.join(download_dir, 'drms/{}-mab2refs.csv'.format(resname)),
-            refid2mabs
+        save_ref2drms2mabs(dest_ref2drms2mabs, triplets)
+
+        dest_mabs2refs = os.path.join(
+            download_dir, 'drms/{}-mabs2refs.csv'.format(resname)
         )
+        save_mabs2refs(dest_mabs2refs, triplets)
+
+        dest_drm2mabs = os.path.join(
+            download_dir, 'drms/{}-drm2mabs.csv'.format(resname)
+        )
+        save_drm2mabs(dest_drm2mabs, triplets)
+
         bobstyle_csvs(
             os.path.join(download_dir,
                          'drms/{}-merged-drms.csv'.format(resname)),
-            os.path.join(download_dir,
-                         'drms/{}-ref2drms2mabs.csv'.format(resname)),
-            os.path.join(download_dir, 'drms/{}-drm2refs.csv'.format(resname)),
-            os.path.join(download_dir, 'drms/{}-mab2refs.csv'.format(resname))
+            dest_ref2drms2mabs,
+            dest_drm2refs,
+            dest_drm2mabs,
+            dest_mabs2refs
         )
