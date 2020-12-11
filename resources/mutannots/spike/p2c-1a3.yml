@@ -1,0 +1,15 @@
+name: P2C-1A3
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.2210/pdb7CDJ/pdb
+  author: Wang
+  year: 2020
+  section: 'PDB: 7CDJ'
+  positions: [445, 446, 449, 452, 455, 456, 476, 478, 480, 481, 483, 484, 485, 486,
+    487, 489, 490, 492, 493, 494, 498, 500]
+positions:
+- subgroup: P2C-1A3
+  positions: [445, 446, 449, 452, 455, 456, 476, 478, 480, 481, 483, 484, 485, 486,
+    487, 489, 490, 492, 493, 494, 498, 500]

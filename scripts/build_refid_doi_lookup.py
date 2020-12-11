@@ -51,6 +51,7 @@ def rows2lookup(rows):
                 'refId': refid,
                 'doi': extid
             })
+    results.sort(key=lambda row: row['refId'])
     return results
 
 

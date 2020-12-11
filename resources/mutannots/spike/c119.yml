@@ -1,0 +1,15 @@
+name: C119
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1038/s41586-020-2852-1
+  author: Barnes
+  year: 2020
+  section: 'PDB: 7K8W'
+  positions: [403, 444, 445, 446, 447, 448, 449, 450, 452, 482, 484, 493, 494, 495,
+    498, 499, 501, 505]
+positions:
+- subgroup: C119
+  positions: [403, 444, 445, 446, 447, 448, 449, 450, 452, 482, 484, 493, 494, 495,
+    498, 499, 501, 505]

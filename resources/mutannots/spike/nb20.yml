@@ -1,0 +1,15 @@
+name: nb20
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1126/science.abe4747
+  author: Xiang
+  year: 2020
+  section: 'PDB: 7JVB'
+  positions: [449, 450, 452, 453, 455, 472, 483, 484, 485, 489, 490, 492, 493, 494,
+    495, 496]
+positions:
+- subgroup: nb20
+  positions: [449, 450, 452, 453, 455, 472, 483, 484, 485, 489, 490, 492, 493, 494,
+    495, 496]

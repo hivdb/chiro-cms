@@ -454,6 +454,7 @@
   - name: C105
     ec50: 26.1
     ec50Note: PV
+  - name: C104
   source: |-
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   description: |-

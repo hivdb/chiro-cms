@@ -267,7 +267,7 @@ def yaml_filename(groupobj):
     '--refid-lookup', type=click.File('r', encoding='utf-8-sig'),
     help='RefID2DOI lookup JSON file')
 @click.argument('output_yaml', type=click.File('w'))
-def mabcsv2yaml(input_mabcsv, refid_lookup, output_yaml):
+def import_mab_summary(input_mabcsv, refid_lookup, output_yaml):
 
     mabdata = load_data(input_mabcsv)
     refid_lookup = load_refid_lookup(refid_lookup)
@@ -300,4 +300,4 @@ def mabcsv2yaml(input_mabcsv, refid_lookup, output_yaml):
 
 
 if __name__ == '__main__':
-    mabcsv2yaml()
+    import_mab_summary()

@@ -1,0 +1,15 @@
+name: S2H14
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1016/j.cell.2020.09.037
+  author: Piccoli
+  year: 2020
+  section: 'PDB: 7JX3'
+  positions: [403, 445, 446, 449, 453, 455, 456, 487, 489, 493, 494, 495, 496, 498,
+    499, 500, 501, 502, 505]
+positions:
+- subgroup: S2H14
+  positions: [403, 445, 446, 449, 453, 455, 456, 487, 489, 493, 494, 495, 496, 498,
+    499, 500, 501, 502, 505]

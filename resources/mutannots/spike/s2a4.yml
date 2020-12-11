@@ -1,0 +1,15 @@
+name: S2A4
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1016/j.cell.2020.09.037
+  author: Piccoli
+  year: 2020
+  section: 'PDB: 7JVA'
+  positions: [369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 383, 384, 385,
+    408, 414]
+positions:
+- subgroup: S2A4
+  positions: [369, 370, 371, 372, 373, 374, 375, 376, 377, 378, 379, 383, 384, 385,
+    408, 414]

@@ -1,0 +1,15 @@
+name: C110
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1038/s41586-020-2852-1
+  author: Barnes
+  year: 2020
+  section: 'PDB: 7K8V'
+  positions: [345, 346, 351, 441, 442, 448, 449, 450, 452, 490, 494, 498, 499, 500,
+    509]
+positions:
+- subgroup: C110
+  positions: [345, 346, 351, 441, 442, 448, 449, 450, 452, 490, 494, 498, 499, 500,
+    509]

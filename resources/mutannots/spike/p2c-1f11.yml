@@ -1,0 +1,15 @@
+name: P2C-1F11
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.2210/pdb7CDI/pdb
+  author: Wang
+  year: 2020
+  section: 'PDB: 7CDI'
+  positions: [403, 415, 416, 417, 420, 421, 453, 455, 456, 457, 458, 459, 460, 473,
+    474, 475, 476, 477, 486, 487, 489, 493, 502, 505]
+positions:
+- subgroup: P2C-1F11
+  positions: [403, 415, 416, 417, 420, 421, 453, 455, 456, 457, 458, 459, 460, 473,
+    474, 475, 476, 477, 486, 487, 489, 493, 502, 505]

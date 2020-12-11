@@ -76,6 +76,16 @@ def uniq_join_attrs(items, attrname, by=''):
     return by.join(sorted({item[attrname] for item in items}))
 
 
+def save_triplets(destpath, triplets):
+    with open(destpath, 'w', encoding='utf-8-sig') as fp:
+        writer = csv.DictWriter(fp, ['position', 'aminoAcid', 'refId', 'mAb'])
+        writer.writeheader()
+        for triplet in triplets:
+            triplet['mAb'] = '="{mAb}"'.format(**triplet)
+        writer.writerows(triplets)
+    print('create: {}'.format(destpath))
+
+
 def save_drm2citations(destpath, triplets):
     with open(destpath, 'w', encoding='utf-8-sig') as fp:
         writer = csv.DictWriter(fp, ['Pos', 'AAs', 'Refs'])
@@ -192,6 +202,11 @@ def build_drm_tables(resource_dir, build_dir, download_dir, **kw):
             positions, drm_annot_names,
             all_citations, resource_dir
         )
+
+        dest_triplets = os.path.join(
+            download_dir, 'drms/{}-triplets.csv'.format(resname)
+        )
+        save_triplets(dest_triplets, triplets)
 
         dest_drm2refs = os.path.join(
             download_dir, 'drms/{}-drm2refs.csv'.format(resname)

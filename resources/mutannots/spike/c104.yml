@@ -1,0 +1,13 @@
+name: C104
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1038/s41586-020-2852-1
+  author: Barnes
+  year: 2020
+  section: 'PDB: 7K8U'
+  positions: [444, 449, 470, 483, 484, 486, 490]
+positions:
+- subgroup: C104
+  positions: [444, 449, 470, 483, 484, 486, 490]
