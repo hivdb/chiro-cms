@@ -78,6 +78,9 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- December 14
+    - Calistri A, Luganini A, et int., and Parolin C. [“The new generation hDHODH inhibitor MEDS433 hinders the in vitro replication of SARS-CoV-2.”](/search/?article=Calistri20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.06.412759](https://doi.org/10.1101/2020.12.06.412759).
+    - Tree JA, Turnbull JE, et int., and Carroll MW. [“Unfractionated heparin inhibits live wild‐type SARS‐CoV‐2 cell infectivity at therapeutically relevant concentrations.”](/search/?article=Tree20) _British Journal of Pharmacology_, 2020. [doi.org/10.1111/bph.15304](https://doi.org/10.1111/bph.15304). \[[PubMed33125711](https://www.ncbi.nlm.nih.gov/pubmed/33125711/)\]
 - December 11
     - Abdelnabi R, Foo CS, et int., and Neyts J. [“Molnupiravir (EIDD-2801) inhibits SARS-CoV2 replication in Syrian hamsters model.”](/search/?article=Abdelnabi20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.10.419242](https://doi.org/10.1101/2020.12.10.419242).
     - Arabi YM, Shalhoub S, et int., and Fowler R. [“Ribavirin and Interferon Therapy for Critically Ill Patients With Middle East Respiratory Syndrome: A Multicenter Observational Study.”](/search/?article=Arabi19) _Clinical Infectious Diseases_, 2019. [doi.org/10.1093/cid/ciz544](https://doi.org/10.1093/cid/ciz544). \[[PubMed31925415](https://www.ncbi.nlm.nih.gov/pubmed/31925415/)\] \[[PMC7108209](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7108209/)\]
@@ -921,6 +924,12 @@ Instruction:
 
 ## Clinical Trials
 ### November 2020
+- December 10
+    - [4 clinical trials were added.](/clinical-trials/?fromDate=2020-12-10)
+    - NCT04656691
+    - NCT04657497
+    - NCT04661839
+    - NCT04662073
 - December 03
     - [17 clinical trials were added.](/clinical-trials/?fromDate=2020-12-03)
     - ACTRN12620001249943

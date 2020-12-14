@@ -22,6 +22,11 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Dec 14)
+Calistri A, Luganini A, et int., and Parolin C. [“The new generation hDHODH inhibitor MEDS433 hinders the in vitro replication of SARS-CoV-2.”](/search/?article=Calistri20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.06.412759](https://doi.org/10.1101/2020.12.06.412759).
+### Database Entries (Dec 14)
+Tree JA, Turnbull JE, et int., and Carroll MW. [“Unfractionated heparin inhibits live wild‐type SARS‐CoV‐2 cell infectivity at therapeutically relevant concentrations.”](/search/?article=Tree20) _British Journal of Pharmacology_, 2020. [doi.org/10.1111/bph.15304](https://doi.org/10.1111/bph.15304). \[[PubMed33125711](https://www.ncbi.nlm.nih.gov/pubmed/33125711/)\]
+
 ### Database Entries (Dec 11)
 Abdelnabi R, Foo CS, et int., and Neyts J. [“Molnupiravir (EIDD-2801) inhibits SARS-CoV2 replication in Syrian hamsters model.”](/search/?article=Abdelnabi20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.10.419242](https://doi.org/10.1101/2020.12.10.419242).
 ### Database Entries (Dec 11)
@@ -38,6 +43,9 @@ Lu L, Liu Q, et int., and Jiang S. [“Structure-based discovery of Middle East 
 O'Keefe BR, Giomarelli B, et int., and McCray PB. [“Broad-Spectrum In Vitro Activity and In Vivo Efficacy of the Antiviral Protein Griffithsin against Emerging Viruses of the Family Coronaviridae.”](/search/?article=OKeefe10) _Journal of Virology_, 2009. [doi.org/10.1128/jvi.02322-09](https://doi.org/10.1128/jvi.02322-09). \[[PubMed20032190](https://www.ncbi.nlm.nih.gov/pubmed/20032190/)\] \[[PMC2820936](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2820936/)\]
 ### Database Entries (Dec 11)
 Vatansever EC, Yang K, et int., and Liu WR. [“Bepridil is potent against SARS-CoV-2 In Vitro.”](/search/?article=Vatansever20) _bioRxiv_, 2020. [doi.org/10.1101/2020.05.23.112235](https://doi.org/10.1101/2020.05.23.112235). \[[PubMed32511370](https://www.ncbi.nlm.nih.gov/pubmed/32511370/)\] \[[PMC7263498](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7263498/)\]
+### [Clinical Trials (Dec 10)](/page/updates/#clinical.trials)
+[4 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-12-10)
+
 ### Database Entries (Dec 09)
 Schäfer A, Muecksch F, et int., and Sheahan TP. [“Antibody potency, effector function, and combinations in protection and therapy for SARS-CoV-2 infection in vivo.”](/search/?article=Schafer20) _Journal of Experimental Medicine_, 2020. [doi.org/10.1084/jem.20201993](https://doi.org/10.1084/jem.20201993). \[[PubMed33211088](https://www.ncbi.nlm.nih.gov/pubmed/33211088/)\] \[[PMC7673958](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7673958/)\]
 ### Database Entries (Dec 09)
