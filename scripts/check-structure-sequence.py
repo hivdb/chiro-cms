@@ -4,7 +4,7 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
-ABDAB_FILE = 'CoV-AbDab_261120.csv'
+ABDAB_FILE = 'CoV-AbDab_141220.csv'
 RENAME_MAB_ABDAB2MAb = {
     'MR17_K99Y': 'MR17-K99Y',
     'S2-M11': 'S2M11',
@@ -13,6 +13,11 @@ RENAME_MAB_ABDAB2MAb = {
     'BD23': 'BD-23',
     'Nb20': 'nb20',
     'Nb#6': 'Nb6',
+}
+
+SWITCH_MAB = {
+    'C1A-B12': 'C1A-B3',
+    "C1A-B3": 'C1A-B12',
 }
 
 
@@ -97,7 +102,13 @@ def get_depend_invalid_null_records(records, keys):
 
 def load_abdab(folder):
     file_path = folder / ABDAB_FILE
-    return load_csv(file_path)
+    result = []
+    for item in load_csv(file_path):
+        if item['Name'] in SWITCH_MAB:
+            item['Name'] = SWITCH_MAB[item['Name']]
+        result.append(item)
+
+    return result
 
 
 def get_mab2PDB_from_abdab(abdab):
@@ -392,6 +403,25 @@ def get_mab_has_epitope(structures):
     return mab_names
 
 
+def get_mab_has_problem(structures):
+    mab_names = set()
+    for item in structures:
+        name = item['mAb Names']
+        name = name.strip()
+        if ';' in name:
+            continue
+
+        comment = item['Comment']
+        unreleased = item['Unreleased']
+        if comment or unreleased:
+            mab_names.add(name)
+
+    mab_names = list(mab_names)
+    mab_names.sort()
+
+    return mab_names
+
+
 def get_mab_has_pdbs(structures):
     mab_names = set()
     for item in structures:
@@ -557,6 +587,7 @@ def show_error_refID(base, mapper):
 def show_missing_structure(structures, mab2PDB):
     mab2existPDBs = get_mab2existPDBs(structures)
     mab_with_epitope = get_mab_has_epitope(structures)
+    mab_with_problem = get_mab_has_problem(structures)
 
     miss_pdb = set()
     for item, check_pdbs in mab2PDB.items():
@@ -581,7 +612,7 @@ def show_missing_structure(structures, mab2PDB):
         if all_expected_pdb(pdbs):
             continue
         name = RENAME_MAB_ABDAB2MAb.get(name, name)
-        if name not in mab_with_epitope:
+        if name not in mab_with_epitope and name not in mab_with_problem:
             miss_epitope.add(name)
     print('PDB without epitope process:', miss_epitope)
 
@@ -616,9 +647,15 @@ def show_error_sequences(sequences, mab2Seq):
         cdrl3 = item['CDRL3']
 
         if vh != base_line['VH']:
-            print('Seq Error VH:', name, base_line['VH'])
+            print('Seq Error VH:', name)
+            print(base_line['VH'])
+            # print(vh)
+            print(base_line['VH'] in vh)
         if vl != base_line['VL']:
-            print('Seq Error VL:', name, base_line['VL'])
+            print('Seq Error VL:', name)
+            print(base_line['VL'])
+            # print(vl)
+            # print(base_line['VL'] in vl)
         if base_line['CDRH3'] not in cdrh3:
             print('Seq Error CDRH3:', name, base_line['CDRH3'])
         if base_line['CDRL3'] not in cdrl3:
@@ -636,8 +673,10 @@ def work(folder_path):
 
     print('Verify structures')
     validate_structures(structures)
+    print('#' * 80)
     print('Verify sequences')
     validate_sequences(sequences)
+    print('#' * 80)
     export_sequences_for_alignment(folder, sequences)
 
     mab_names1 = get_mab_from_mabs(mabs)
@@ -645,8 +684,10 @@ def work(folder_path):
     mab_names3 = get_mab_from_sequences(sequences)
     show_mab_diff(mab_names1, 'Mabs.csv', mab_names2, 'Structures.csv')
     print('Should be 0.')
+    print('#' * 80)
     show_mab_diff(mab_names1, 'Mabs.csv', mab_names3, 'Sequences.csv')
     print('Should be 0.')
+    print('#' * 80)
 
     mab2RefID_base = get_mab2refIDs_from_mabs(mabs)
     mab2RefID_struct = get_mab2refIDs_from_structures(structures)
@@ -655,22 +696,27 @@ def work(folder_path):
     print('Structure RefIDs')
     show_error_refID(mab2RefID_base, mab2RefID_struct)
     print('Should be 0.')
+    print('#' * 80)
+
     print('Sequence RefIDs')
     show_error_refID(mab2RefID_base, mab2RefID_seq)
     print('Should be 0.')
+    print('#' * 80)
 
     mab_names2 = get_mab_has_epitope(structures)
     show_mab_diff(mab_names2, 'Structures.csv', mab_names3, 'Sequences.csv')
+    print('#' * 80)
 
     abdab = load_abdab(folder)
     mab2PDB = get_mab2PDB_from_abdab(abdab)
     show_missing_structure(structures, mab2PDB)
+    print('#' * 80)
 
     mab2Seq = get_mab2Seq_from_abdab(abdab)
     show_error_sequences(sequences, mab2Seq)
-    missing_seqs = get_missing_sequence(sequences, mab2Seq)
-    save_file = folder / 'Missing-sequence.csv'
-    dump_csv(save_file, missing_seqs)
+    # missing_seqs = get_missing_sequence(sequences, mab2Seq)
+    # save_file = folder / 'Missing-sequence.csv'
+    # dump_csv(save_file, missing_seqs)
 
 
 if __name__ == '__main__':
