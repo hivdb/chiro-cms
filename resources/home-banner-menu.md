@@ -6,7 +6,7 @@
   - [HIV-1 Protease Inhibitors](/page/covid-review/#hiv-1.protease.inhibitors)
   - [3CLpro Investigational Inhibitors](/page/covid-review/#3clpro.investigational.inhibitors)
   - [PLpro Investigational Inhibitors](/page/covid-review/#plpro.investigational.inhibitors)
-- [Entry Inhibitors (update pending)](/page/covid-review/#entry.inhibitors.update.pending.)
+- [Entry Inhibitors](/page/covid-review/#entry.inhibitors)
 - [Convalescent Plasma](/page/covid-review/#convalescent.plasma)
 - [Interferons](/page/covid-review/#interferons)
 - [Host-Targeting Compounds](/page/covid-review/#host-targeting.compounds)
