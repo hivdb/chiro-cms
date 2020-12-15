@@ -1,0 +1,26 @@
+name: resistance SARS2-01
+label: SARS2-01
+tableColLabel: SARS2-01 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 346
+  - 352
+  - 452
+  - 494
+  aminoAcids:
+  - 346G
+  - 352D
+  - 452R
+  - 494P
+aminoAcids:
+- 346G
+- 352D
+- 452R
+- 494P

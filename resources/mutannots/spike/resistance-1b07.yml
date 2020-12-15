@@ -1,0 +1,20 @@
+name: resistance 1B07
+label: 1B07
+tableColLabel: 1B07 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 484
+  - 486
+  aminoAcids:
+  - 484ADGK
+  - 486Y
+aminoAcids:
+- 484ADGK
+- 486Y

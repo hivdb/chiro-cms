@@ -1,0 +1,20 @@
+name: resistance 2B04
+label: 2B04
+tableColLabel: 2B04 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 484
+  - 486
+  aminoAcids:
+  - 484AK
+  - 486S
+aminoAcids:
+- 484AK
+- 486S

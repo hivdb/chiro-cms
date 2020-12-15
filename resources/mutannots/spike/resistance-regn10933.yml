@@ -1,0 +1,45 @@
+name: resistance REGN10933
+label: REGN10933
+tableColLabel: REGN10933 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.30.405472
+  author: Starr
+  year: 2020
+  section: Figure S3; BioRxiv PDF Page 3, Line 4-6
+  positions:
+  - 406
+  - 486
+  - 493
+  aminoAcids:
+  - 406W
+  - 486IK
+  - 493K
+- doi: 10.1126/science.abd0831
+  author: Baum
+  year: 2020
+  section: Table 2
+  positions:
+  - 417
+  - 453
+  - 455
+  - 484
+  - 486
+  - 493
+  aminoAcids:
+  - 417E
+  - 453F
+  - 455F
+  - 484K
+  - 486V
+  - 493K
+aminoAcids:
+- 406W
+- 417E
+- 453F
+- 455F
+- 484K
+- 486IKV
+- 493K

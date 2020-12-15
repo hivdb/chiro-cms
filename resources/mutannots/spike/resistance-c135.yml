@@ -1,0 +1,32 @@
+name: resistance C135
+label: C135
+tableColLabel: C135 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.7554/eLife.61312
+  author: Weisblum
+  year: 2020
+  section: Figure 4B, 7A, 7B, 7C
+  positions:
+  - 346
+  - 439
+  - 440
+  - 444
+  - 445
+  - 446
+  aminoAcids:
+  - 346KS
+  - 439K
+  - 440K
+  - 444NQ
+  - 445L
+  - 446V
+aminoAcids:
+- 346KS
+- 439K
+- 440K
+- 444NQ
+- 445L
+- 446V

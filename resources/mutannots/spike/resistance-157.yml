@@ -1,0 +1,20 @@
+name: resistance 157
+label: '157'
+tableColLabel: 157 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1016/j.cell.2020.07.012
+  author: Li
+  year: 2020
+  section: Figure 4, S2
+  positions:
+  - 234
+  - 475
+  aminoAcids:
+  - 234Q
+  - 475V
+aminoAcids:
+- 234Q
+- 475V

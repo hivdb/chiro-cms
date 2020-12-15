@@ -1,0 +1,23 @@
+name: resistance SARS2-31
+label: SARS2-31
+tableColLabel: SARS2-31 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 378
+  - 408
+  - 504
+  aminoAcids:
+  - 378EQ
+  - 408K
+  - 504D
+aminoAcids:
+- 378EQ
+- 408K
+- 504D

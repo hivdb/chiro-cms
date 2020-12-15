@@ -5,7 +5,7 @@ from itertools import groupby, zip_longest, chain
 
 from .func_mutannots import yield_mutannots_json
 
-DRM_ANNOT_CATEGORY = 'escapeMutants'
+DRM_ANNOT_CATEGORY = 'resistance'
 
 
 def build_citeid2refid_lookup(resource_dir, all_citations):
@@ -40,14 +40,14 @@ def build_triplets(
         cite['citationId']: cite['doi']
         for cite in all_citations.values()
     }
+    annot_prefix_len = len('resistance ')
     for posdata in positions:
         pos = posdata['position']
         for annot in posdata['annotations']:
             if annot['name'] not in drm_annot_names:
                 continue
-
+            mab = annot['name'][annot_prefix_len:]
             aas = annot['aminoAcids']
-            aa_attrs = annot.get('aminoAcidAttrs', {})
             for citeid in annot['citationIds']:
                 citeid = int(citeid.split('.', 1)[0])
                 if citeid not in citeid2refid:
@@ -57,14 +57,21 @@ def build_triplets(
                         .format(citeid2doi[citeid])
                     )
                 for aa in aas:
-                    for mab in aa_attrs.get(aa, {}).get('resistance', []):
-                        results.append({
-                            'position': pos,
-                            'aminoAcid': aa,
-                            'refId': citeid2refid[citeid],
-                            'mAb': mab
-                        })
-    return results
+                    results.append({
+                        'position': pos,
+                        'aminoAcid': aa,
+                        'refId': citeid2refid[citeid],
+                        'mAb': mab
+                    })
+    return sorted(
+        results,
+        key=lambda t: (
+            t['position'],
+            t['aminoAcid'],
+            t['refId'],
+            t['mAb']
+        )
+    )
 
 
 def sort_groupby(items, key):
@@ -81,8 +88,10 @@ def save_triplets(destpath, triplets):
         writer = csv.DictWriter(fp, ['position', 'aminoAcid', 'refId', 'mAb'])
         writer.writeheader()
         for triplet in triplets:
-            triplet['mAb'] = '="{mAb}"'.format(**triplet)
-        writer.writerows(triplets)
+            writer.writerow({
+                **triplet,
+                'mAb': '={}'.format(json.dumps(triplet['mAb']))
+            })
     print('create: {}'.format(destpath))
 
 

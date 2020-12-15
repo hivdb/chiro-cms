@@ -1,0 +1,29 @@
+name: resistance SARS2-21
+label: SARS2-21
+tableColLabel: SARS2-21 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 444
+  - 476
+  - 478
+  - 479
+  - 486
+  aminoAcids:
+  - 444EN
+  - 476DS
+  - 478I
+  - 479S
+  - 486LS
+aminoAcids:
+- 444EN
+- 476DS
+- 478I
+- 479S
+- 486LS

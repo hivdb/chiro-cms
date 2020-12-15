@@ -1,0 +1,17 @@
+name: resistance SARS2-55
+label: SARS2-55
+tableColLabel: SARS2-55 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 484
+  aminoAcids:
+  - 484K
+aminoAcids:
+- 484K

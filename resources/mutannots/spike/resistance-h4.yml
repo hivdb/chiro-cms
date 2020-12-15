@@ -1,0 +1,17 @@
+name: resistance H4
+label: H4
+tableColLabel: H4 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1016/j.cell.2020.07.012
+  author: Li
+  year: 2020
+  section: Figure 4, S2
+  positions:
+  - 490
+  aminoAcids:
+  - 490L
+aminoAcids:
+- 490L

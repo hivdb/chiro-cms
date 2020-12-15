@@ -1,0 +1,20 @@
+name: resistance SARS2-58
+label: SARS2-58
+tableColLabel: SARS2-58 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 477
+  - 486
+  aminoAcids:
+  - 477GIN
+  - 486V
+aminoAcids:
+- 477GIN
+- 486V

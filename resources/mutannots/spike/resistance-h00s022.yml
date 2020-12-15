@@ -1,0 +1,20 @@
+name: resistance H00S022
+label: H00S022
+tableColLabel: H00S022 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1016/j.cell.2020.07.012
+  author: Li
+  year: 2020
+  section: Figure 4, S2
+  positions:
+  - 234
+  - 439
+  aminoAcids:
+  - 234Q
+  - 439K
+aminoAcids:
+- 234Q
+- 439K

@@ -1,0 +1,26 @@
+name: resistance X593
+label: X593
+tableColLabel: X593 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1016/j.cell.2020.07.012
+  author: Li
+  year: 2020
+  section: Figure 4, S2
+  positions:
+  - 452
+  - 472
+  - 483
+  - 490
+  aminoAcids:
+  - 452R
+  - 472V
+  - 483A
+  - 490L
+aminoAcids:
+- 452R
+- 472V
+- 483A
+- 490L

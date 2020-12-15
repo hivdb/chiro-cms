@@ -1,0 +1,26 @@
+name: resistance REGN10989
+label: REGN10989
+tableColLabel: REGN10989 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1126/science.abd0831
+  author: Baum
+  year: 2020
+  section: Table 2
+  positions:
+  - 484
+  - 485
+  - 490
+  - 493
+  aminoAcids:
+  - 484K
+  - 485D
+  - 490LS
+  - 493K
+aminoAcids:
+- 484K
+- 485D
+- 490LS
+- 493K

@@ -1,0 +1,23 @@
+name: resistance LY-CoV2016
+label: LY-CoV2016
+tableColLabel: LY-CoV2016 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.30.405472
+  author: Starr
+  year: 2020
+  section: Figure S3; BioRxiv PDF Page 3, Line 4-6
+  positions:
+  - 417
+  - 460
+  - 475
+  aminoAcids:
+  - 417N
+  - 460T
+  - 475V
+aminoAcids:
+- 417N
+- 460T
+- 475V

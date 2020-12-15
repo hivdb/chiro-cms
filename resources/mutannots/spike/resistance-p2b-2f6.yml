@@ -1,0 +1,23 @@
+name: resistance P2B-2F6
+label: P2B-2F6
+tableColLabel: P2B-2F6 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1016/j.cell.2020.07.012
+  author: Li
+  year: 2020
+  section: Figure 4, S2
+  positions:
+  - 452
+  - 483
+  - 490
+  aminoAcids:
+  - 452R
+  - 483A
+  - 490L
+aminoAcids:
+- 452R
+- 483A
+- 490L

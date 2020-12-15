@@ -1,0 +1,20 @@
+name: resistance COV2-2165
+label: COV2-2165
+tableColLabel: COV2-2165 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1016/j.chom.2020.11.007
+  author: Greaney
+  year: 2020
+  section: Figure 3
+  positions:
+  - 420
+  - 487
+  aminoAcids:
+  - 420R
+  - 487R
+aminoAcids:
+- 420R
+- 487R

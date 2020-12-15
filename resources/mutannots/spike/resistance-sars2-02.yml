@@ -1,0 +1,20 @@
+name: resistance SARS2-02
+label: SARS2-02
+tableColLabel: SARS2-02 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 446
+  - 484
+  aminoAcids:
+  - 446DV
+  - 484K
+aminoAcids:
+- 446DV
+- 484K

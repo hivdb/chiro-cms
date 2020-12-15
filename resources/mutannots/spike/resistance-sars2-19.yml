@@ -1,0 +1,23 @@
+name: resistance SARS2-19
+label: SARS2-19
+tableColLabel: SARS2-19 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 477
+  - 478
+  - 514
+  aminoAcids:
+  - 477GN
+  - 478I
+  - 514F
+aminoAcids:
+- 477GN
+- 478I
+- 514F

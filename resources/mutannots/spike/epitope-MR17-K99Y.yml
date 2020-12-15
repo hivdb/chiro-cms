@@ -1,0 +1,16 @@
+name: MR17-K99Y epitope
+label: MR17-K99Y
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1101/2020.06.09.143438
+  author: Li
+  year: 2020
+  section: 'PDB: 7CAN'
+  positions: [403, 417, 449, 453, 455, 456, 472, 483, 484, 485, 486, 488, 489,
+    490, 493, 494, 495, 496, 498, 505]
+positions:
+- subgroup: MR17-K99Y
+  positions: [403, 417, 449, 453, 455, 456, 472, 483, 484, 485, 486, 488, 489,
+    490, 493, 494, 495, 496, 498, 505]
