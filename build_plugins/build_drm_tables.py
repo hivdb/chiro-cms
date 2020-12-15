@@ -4,6 +4,7 @@ import json
 from itertools import groupby, zip_longest, chain
 
 from .func_mutannots import yield_mutannots_json
+from .generefs import get_refaa
 
 DRM_ANNOT_CATEGORY = 'resistance'
 
@@ -83,13 +84,16 @@ def uniq_join_attrs(items, attrname, by=''):
     return by.join(sorted({item[attrname] for item in items}))
 
 
-def save_triplets(destpath, triplets):
+def save_triplets(destpath, triplets, gene):
     with open(destpath, 'w', encoding='utf-8-sig') as fp:
-        writer = csv.DictWriter(fp, ['position', 'aminoAcid', 'refId', 'mAb'])
+        writer = csv.DictWriter(fp, ['position', 'refAA', 'aminoAcid',
+                                     'refId', 'mAb'])
         writer.writeheader()
         for triplet in triplets:
+            pos = triplet['position']
             writer.writerow({
                 **triplet,
+                'refAA': get_refaa(gene, pos),
                 'mAb': '={}'.format(json.dumps(triplet['mAb']))
             })
     print('create: {}'.format(destpath))
@@ -192,6 +196,9 @@ def bobstyle_csvs(destpath, *srcpaths):
 
 def build_drm_tables(resource_dir, build_dir, download_dir, **kw):
     for resname, payload, _ in yield_mutannots_json(resource_dir):
+        gene = 'S'
+        if resname == 'rdrp':
+            gene = 'RdRP'
         all_citations = payload['citations']
 
         drm_annots = [
@@ -215,7 +222,7 @@ def build_drm_tables(resource_dir, build_dir, download_dir, **kw):
         dest_triplets = os.path.join(
             download_dir, 'drms/{}-triplets.csv'.format(resname)
         )
-        save_triplets(dest_triplets, triplets)
+        save_triplets(dest_triplets, triplets, gene)
 
         dest_drm2refs = os.path.join(
             download_dir, 'drms/{}-drm2refs.csv'.format(resname)
