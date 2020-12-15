@@ -1,0 +1,14 @@
+name: S2H13 epitope
+label: S2H13
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1016/j.cell.2020.09.037
+  author: Piccoli
+  year: 2020
+  section: 'PDB: 7JV6'
+  positions: [447, 449, 481, 482, 484, 485, 486, 490, 494, 498]
+positions:
+- subgroup: S2H13
+  positions: [447, 449, 481, 482, 484, 485, 486, 490, 494, 498]

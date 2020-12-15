@@ -1,0 +1,17 @@
+name: resistance REGN-COV2
+label: REGN-COV2
+tableColLabel: REGN-COV2 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.30.405472
+  author: Starr
+  year: 2020
+  section: Figure S3; BioRxiv PDF Page 3, Line 4-6
+  positions:
+  - 406
+  aminoAcids:
+  - 406W
+aminoAcids:
+- 406W

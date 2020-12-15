@@ -23,69 +23,69 @@ annotCategories:
   multiSelect: false
   annotStyle: circleInBox
   annotNames: [ACE2]
-- name: antibody
-  display: epitopes
+- name: epitopes
+  display: mAb epitope
   dropdown: true
   defaultAnnots: []
   multiSelect: true
   annotStyle: underscore
   annotNames:
-  - 2-4
-  - 4A8
-  - B38
-  - BD-23
-  - BD-236
-  - BD-368-2
-  - BD-604
-  - BD-629
-  - C002
-  - C104
-  - C105
-  - C110
-  - C119
-  - C121
-  - C135
-  - C144
-  - C1A-B12
-  - C1A-B3
-  - C1A-C2
-  - C1A-F10
-  - CB6
-  - CC12.1
-  - CC12.3
-  - COVA1-16
-  - COVA2-04
-  - COVA2-39
-  - CR3022
-  - CV30
-  - CV07-250
-  - CV07-270
-  - EY6A
-  - Fab-298
-  - Fab-52
-  - H014
-  - H11-D4
-  - H11-H4
-  - MR17
-  - MR17-K99Y
-  - nb20
-  - Nb6
-  - P2B-2F6
-  - P2C-1A3
-  - P2C-1F11
-  - P4A1
-  - S2A4
-  - S2E12
-  - S2H13
-  - S2H14
-  - S2M11
-  - S304
-  - REGN10933
-  - REGN10987
-  - S309
-  - Sb23
-  - SR4
-  - Ty1
+  - 2-4 epitope
+  - 4A8 epitope
+  - B38 epitope
+  - BD-23 epitope
+  - BD-236 epitope
+  - BD-368-2 epitope
+  - BD-604 epitope
+  - BD-629 epitope
+  - C002 epitope
+  - C104 epitope
+  - C105 epitope
+  - C110 epitope
+  - C119 epitope
+  - C121 epitope
+  - C135 epitope
+  - C144 epitope
+  - C1A-B12 epitope
+  - C1A-B3 epitope
+  - C1A-C2 epitope
+  - C1A-F10 epitope
+  - CB6 epitope
+  - CC12.1 epitope
+  - CC12.3 epitope
+  - COVA1-16 epitope
+  - COVA2-04 epitope
+  - COVA2-39 epitope
+  - CR3022 epitope
+  - CV30 epitope
+  - CV07-250 epitope
+  - CV07-270 epitope
+  - EY6A epitope
+  - Fab-298 epitope
+  - Fab-52 epitope
+  - H014 epitope
+  - H11-D4 epitope
+  - H11-H4 epitope
+  - MR17 epitope
+  - MR17-K99Y epitope
+  - nb20 epitope
+  - Nb6 epitope
+  - P2B-2F6 epitope
+  - P2C-1A3 epitope
+  - P2C-1F11 epitope
+  - P4A1 epitope
+  - S2A4 epitope
+  - S2E12 epitope
+  - S2H13 epitope
+  - S2H14 epitope
+  - S2M11 epitope
+  - S304 epitope
+  - REGN10933 epitope
+  - REGN10987 epitope
+  - S309 epitope
+  - Sb23 epitope
+  - SR4 epitope
+  - Ty1 epitope
 - name: polymorphism
   dropdown: true
   defaultAnnot: var2000
@@ -95,22 +95,63 @@ annotCategories:
   annotNames:
   - var2000
   - var1000
-- name: escapeMutants
-  display: escape mutants
+- name: resistance
+  display: mAb DRMs
   dropdown: true
-  defaultAnnot: escape mutants
-  multiSelect: false
+  defaultAnnots: []
+  multiSelect: true
   annotStyle: aminoAcids
   annotNames:
-  - escape mutants
-  - escape mutants Baum20
-  - escape mutants Greaney20
-  - escape mutants Li20h
-  - escape mutants Liu20e
-  - escape mutants Liu20h
-  - escape mutants Starr20b
-  - escape mutants Tortorici20
-  - escape mutants Weisblum20
+  - resistance 1-20
+  - resistance 157
+  - resistance 1B07
+  - resistance 2-15
+  - resistance 2-4
+  - resistance 247
+  - resistance 261-262
+  - resistance 2B04
+  - resistance 2H04
+  - resistance 4-20
+  - resistance AB35
+  - resistance B38
+  - resistance C121
+  - resistance C135
+  - resistance C144
+  - resistance CA1
+  - resistance CB6
+  - resistance COV2-2082
+  - resistance COV2-2165
+  - resistance COV2-2479
+  - resistance COV2-2832
+  - resistance H00S022
+  - resistance H014
+  - resistance H4
+  - resistance LY-CoV2016
+  - resistance P2B-2F6
+  - resistance P2C-1F11
+  - resistance REGN-COV2
+  - resistance REGN10933
+  - resistance REGN10934
+  - resistance REGN10987
+  - resistance REGN10989
+  - resistance REGN10989/10934
+  - resistance S2M11
+  - resistance SARS2-01
+  - resistance SARS2-02
+  - resistance SARS2-07
+  - resistance SARS2-16
+  - resistance SARS2-19
+  - resistance SARS2-21
+  - resistance SARS2-22
+  - resistance SARS2-23
+  - resistance SARS2-31
+  - resistance SARS2-32
+  - resistance SARS2-34
+  - resistance SARS2-55
+  - resistance SARS2-58
+  - resistance SARS2-66
+  - resistance SARS2-71
+  - resistance X593
 - name: _hide
   display: false
   dropdown: false

@@ -1,0 +1,40 @@
+name: resistance REGN10987
+label: REGN10987
+tableColLabel: REGN10987 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.30.405472
+  author: Starr
+  year: 2020
+  section: Figure S3; BioRxiv PDF Page 3, Line 4-6
+  positions:
+  - 406
+  - 439
+  - 440
+  - 444
+  aminoAcids:
+  - 406W
+  - 439K
+  - 440D
+  - 444Q
+- doi: 10.1126/science.abd0831
+  author: Baum
+  year: 2020
+  section: Table 2
+  positions:
+  - 444
+  - 445
+  - 450
+  aminoAcids:
+  - 444Q
+  - 445A
+  - 450D
+aminoAcids:
+- 406W
+- 439K
+- 440D
+- 444Q
+- 445A
+- 450D

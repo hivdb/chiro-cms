@@ -1,0 +1,16 @@
+name: C105 epitope
+label: C105
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1016/j.cell.2020.06.025
+  author: Barnes
+  year: 2020
+  section: 'PDB: 6XCM; PDB: 6XCN'
+  positions: [403, 405, 415, 416, 417, 420, 421, 453, 455, 456, 457, 458, 459, 460,
+    473, 475, 476, 486, 487, 502, 505]
+positions:
+- subgroup: C105
+  positions: [403, 405, 415, 416, 417, 420, 421, 453, 455, 456, 457, 458, 459, 460,
+    473, 475, 476, 486, 487, 502, 505]

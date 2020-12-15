@@ -1,0 +1,29 @@
+name: resistance S2M11
+label: S2M11
+tableColLabel: S2M11 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1126/science.abe3354
+  author: Tortorici
+  year: 2020
+  section: Figure S7A, C, E
+  positions:
+  - 449
+  - 455
+  - 484
+  - 490
+  - 494
+  aminoAcids:
+  - 449N
+  - 455F
+  - 484KQ
+  - 490LS
+  - 494P
+aminoAcids:
+- 449N
+- 455F
+- 484KQ
+- 490LS
+- 494P

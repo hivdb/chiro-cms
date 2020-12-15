@@ -1,0 +1,14 @@
+name: 2-4 epitope
+label: 2-4
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1038/s41586-020-2571-7
+  author: Liu
+  year: 2020
+  section: 'PDB: 6XEY'
+  positions: [449, 453, 455, 456, 484, 485, 486, 489, 490, 492, 493, 494, 496]
+positions:
+- subgroup: 2-4
+  positions: [449, 453, 455, 456, 484, 485, 486, 489, 490, 492, 493, 494, 496]

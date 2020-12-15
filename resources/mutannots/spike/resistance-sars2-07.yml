@@ -1,0 +1,23 @@
+name: resistance SARS2-07
+label: SARS2-07
+tableColLabel: SARS2-07 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 450
+  - 477
+  - 499
+  aminoAcids:
+  - 450D
+  - 477GNR
+  - 499L
+aminoAcids:
+- 450D
+- 477GNR
+- 499L

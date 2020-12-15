@@ -1,0 +1,38 @@
+name: resistance C121
+label: C121
+tableColLabel: C121 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.7554/eLife.61312
+  author: Weisblum
+  year: 2020
+  section: Figure 4B, 7A, 7B, 7C
+  positions:
+  - 446
+  - 455
+  - 456
+  - 483
+  - 484
+  - 490
+  - 493
+  - 494
+  aminoAcids:
+  - 446V
+  - 455FR
+  - 456V
+  - 483A
+  - 484ADKQ
+  - 490LS
+  - 493KLR
+  - 494P
+aminoAcids:
+- 446V
+- 455FR
+- 456V
+- 483A
+- 484ADKQ
+- 490LS
+- 493KLR
+- 494P

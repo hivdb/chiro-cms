@@ -1,0 +1,16 @@
+name: C144 epitope
+label: C144
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1038/s41586-020-2852-1
+  author: Barnes
+  year: 2020
+  section: 'PDB: 7K90'
+  positions: [342, 343, 367, 370, 371, 372, 373, 374, 436, 449, 455, 456, 483, 484,
+    485, 486, 487, 489, 490, 491, 492, 493, 494, 495, 498, 509]
+positions:
+- subgroup: C144
+  positions: [342, 343, 367, 370, 371, 372, 373, 374, 436, 449, 455, 456, 483, 484,
+    485, 486, 487, 489, 490, 491, 492, 493, 494, 495, 498, 509]

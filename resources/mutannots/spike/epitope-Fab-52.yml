@@ -1,0 +1,16 @@
+name: Fab-52 epitope
+label: Fab-52
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1101/2020.10.15.341636
+  author: Rujas
+  year: 2020
+  section: 'PDB: 7K9Z'
+  positions: [346, 351, 355, 356, 357, 449, 450, 452, 465, 466, 468, 469, 470, 471,
+    481, 482, 484, 490, 492, 493, 494]
+positions:
+- subgroup: Fab-52
+  positions: [346, 351, 355, 356, 357, 449, 450, 452, 465, 466, 468, 469, 470, 471,
+    481, 482, 484, 490, 492, 493, 494]

@@ -1,0 +1,29 @@
+name: resistance 2H04
+label: 2H04
+tableColLabel: 2H04 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 345
+  - 346
+  - 441
+  - 444
+  - 517
+  aminoAcids:
+  - 345ANS
+  - 346G
+  - 441R
+  - 444E
+  - 517R
+aminoAcids:
+- 345ANS
+- 346G
+- 441R
+- 444E
+- 517R

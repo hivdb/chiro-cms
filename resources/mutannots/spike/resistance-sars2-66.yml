@@ -1,0 +1,23 @@
+name: resistance SARS2-66
+label: SARS2-66
+tableColLabel: SARS2-66 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 458
+  - 484
+  - 490
+  aminoAcids:
+  - 458Q
+  - 484D
+  - 490L
+aminoAcids:
+- 458Q
+- 484D
+- 490L

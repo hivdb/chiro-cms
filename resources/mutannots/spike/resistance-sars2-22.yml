@@ -1,0 +1,23 @@
+name: resistance SARS2-22
+label: SARS2-22
+tableColLabel: SARS2-22 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1101/2020.11.06.372037
+  author: Liu
+  year: 2020
+  section: Table 2
+  positions:
+  - 444
+  - 445
+  - 446
+  aminoAcids:
+  - 444ENR
+  - 445G
+  - 446D
+aminoAcids:
+- 444ENR
+- 445G
+- 446D

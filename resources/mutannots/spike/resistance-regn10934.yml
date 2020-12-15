@@ -1,0 +1,26 @@
+name: resistance REGN10934
+label: REGN10934
+tableColLabel: REGN10934 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1126/science.abd0831
+  author: Baum
+  year: 2020
+  section: Table 2
+  positions:
+  - 444
+  - 450
+  - 484
+  - 490
+  aminoAcids:
+  - 444Q
+  - 450D
+  - 484K
+  - 490LS
+aminoAcids:
+- 444Q
+- 450D
+- 484K
+- 490LS

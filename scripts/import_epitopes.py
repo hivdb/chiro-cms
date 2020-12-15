@@ -20,7 +20,8 @@ def build_epitope_yaml_lookup(annot_dir):
     annot_dir.mkdir(parents=True, exist_ok=True)
     lookup = {}
     for yamlfile in annot_dir.iterdir():
-        if yamlfile.suffix.lower() in ('.yml', 'yaml'):
+        if yamlfile.stem.startswith('epitope-') and \
+                yamlfile.suffix.lower() in ('.yml', 'yaml'):
             with yamlfile.open() as fp:
                 data = yaml.load(fp)
                 if isinstance(data, dict):
@@ -110,9 +111,9 @@ def import_epitopes(input_csv, annot_directory):
     for pair in epitope_pairs:
         mab = pair['mab']
         if mab in yaml_lookup:
-            dest_yaml = yaml_lookup[mab]
+            dest_yaml = yaml_lookup['{} epitope'.format(mab)]
         else:
-            dest_yaml = annot_directory / '{}.yml'.format(mab.lower())
+            dest_yaml = annot_directory / 'epitope-{}.yml'.format(mab.lower())
         save_epitopes(dest_yaml=dest_yaml, **pair)
 
 

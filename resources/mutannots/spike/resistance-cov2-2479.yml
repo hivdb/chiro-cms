@@ -1,0 +1,20 @@
+name: resistance COV2-2479
+label: COV2-2479
+tableColLabel: COV2-2479 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1016/j.chom.2020.11.007
+  author: Greaney
+  year: 2020
+  section: Figure 3
+  positions:
+  - 484
+  - 490
+  aminoAcids:
+  - 484V
+  - 490K
+aminoAcids:
+- 484V
+- 490K

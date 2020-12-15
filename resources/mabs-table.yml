@@ -739,6 +739,7 @@
   description: |-
     COV2-2196 and COV2-2130 are ACE2-competing mAbs that bind to nonoverlapping RBD epitopes. COV2-2196 binds RBD in the up configuration; COV2-2130 binds RBD in the up and down configuration. Each mAb reduces weight loss and lung virus levels in a mouse prevention model. COV2-2196 reduces lung virus levels in rhesus macaques. A modified versions of COV2-2196 and COV2-2130 (AZD8895 and AZD1061; aka AZD7442) have begun phase III clinical trials.
   dataAvailability:
+    sequence: true
     animal: true
     trial: true
 - references:

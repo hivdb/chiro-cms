@@ -1,0 +1,20 @@
+name: resistance COV2-2082
+label: COV2-2082
+tableColLabel: COV2-2082 DRM
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- doi: 10.1016/j.chom.2020.11.007
+  author: Greaney
+  year: 2020
+  section: Figure 3
+  positions:
+  - 378
+  - 417
+  aminoAcids:
+  - 378N
+  - 417E
+aminoAcids:
+- 378N
+- 417E

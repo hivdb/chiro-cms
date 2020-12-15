@@ -1,0 +1,16 @@
+name: C002 epitope
+label: C002
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1038/s41586-020-2852-1
+  author: Barnes
+  year: 2020
+  section: 'PDB: 7K8S'
+  positions: [449, 450, 455, 456, 470, 471, 481, 482, 483, 484, 485, 486, 489, 490,
+    493, 494]
+positions:
+- subgroup: C002
+  positions: [449, 450, 455, 456, 470, 471, 481, 482, 483, 484, 485, 486, 489, 490,
+    493, 494]
