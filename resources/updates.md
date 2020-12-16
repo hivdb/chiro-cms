@@ -78,6 +78,11 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- December 16
+    - Hahn F, Wangen C, et int., and Marschall M. [“IMU-838, a Developmental DHODH Inhibitor in Phase II for Autoimmune Disease, Shows Anti-SARS-CoV-2 and Broad-Spectrum Antiviral Efficacy In Vitro.”](/search/?article=Hahn20) _Viruses_, 2020. [doi.org/10.3390/v12121394](https://doi.org/10.3390/v12121394). \[[PubMed33291455](https://www.ncbi.nlm.nih.gov/pubmed/33291455/)\]
+    - Painter WP, Holman W, et int., and Painter GR. [“Human Safety, Tolerability, and Pharmacokinetics of a Novel Broad-Spectrum Oral Antiviral Compound, Molnupiravir, with Activity Against SARS-CoV-2.”](/search/?article=Painter20) , 2020. [doi.org/10.1101/2020.12.10.20235747](https://doi.org/10.1101/2020.12.10.20235747).
+    - Puhl AC, Fritch EJ, et int., and Ekins S. [“Repurposing the Ebola and Marburg Virus Inhibitors Tilorone, Quinacrine and Pyronaridine: In vitro Activity Against SARS-CoV-2 and Potential Mechanisms.”](/search/?article=Puhl20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.01.407361](https://doi.org/10.1101/2020.12.01.407361). \[[PubMed33299990](https://www.ncbi.nlm.nih.gov/pubmed/33299990/)\] \[[PMC7724658](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7724658/)\]
+    - Cox RM, Wolf JD, and Plemper RK. [“Therapeutically administered ribonucleoside analogue MK-4482/EIDD-2801 blocks SARS-CoV-2 transmission in ferrets.”](/search/?article=Cox20) _Nature Microbiology_, 2020. [doi.org/10.1038/s41564-020-00835-2](https://doi.org/10.1038/s41564-020-00835-2). \[[PubMed33273742](https://www.ncbi.nlm.nih.gov/pubmed/33273742/)\]
 - December 14
     - Calistri A, Luganini A, et int., and Parolin C. [“The new generation hDHODH inhibitor MEDS433 hinders the in vitro replication of SARS-CoV-2.”](/search/?article=Calistri20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.06.412759](https://doi.org/10.1101/2020.12.06.412759).
     - Tree JA, Turnbull JE, et int., and Carroll MW. [“Unfractionated heparin inhibits live wild‐type SARS‐CoV‐2 cell infectivity at therapeutically relevant concentrations.”](/search/?article=Tree20) _British Journal of Pharmacology_, 2020. [doi.org/10.1111/bph.15304](https://doi.org/10.1111/bph.15304). \[[PubMed33125711](https://www.ncbi.nlm.nih.gov/pubmed/33125711/)\]
