@@ -78,6 +78,8 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- December 17
+    - Eslami G, Mousaviasl S, et int., and Mobarak S. [“The impact of sofosbuvir/daclatasvir or ribavirin in patients with severe COVID-19.”](/search/?article=Eslami20) _Journal of Antimicrobial Chemotherapy_, 2020. [doi.org/10.1093/jac/dkaa331](https://doi.org/10.1093/jac/dkaa331). \[[PubMed32812051](https://www.ncbi.nlm.nih.gov/pubmed/32812051/)\] \[[PMC7529105](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7529105/)\]
 - December 16
     - Hahn F, Wangen C, et int., and Marschall M. [“IMU-838, a Developmental DHODH Inhibitor in Phase II for Autoimmune Disease, Shows Anti-SARS-CoV-2 and Broad-Spectrum Antiviral Efficacy In Vitro.”](/search/?article=Hahn20) _Viruses_, 2020. [doi.org/10.3390/v12121394](https://doi.org/10.3390/v12121394). \[[PubMed33291455](https://www.ncbi.nlm.nih.gov/pubmed/33291455/)\]
     - Painter WP, Holman W, et int., and Painter GR. [“Human Safety, Tolerability, and Pharmacokinetics of a Novel Broad-Spectrum Oral Antiviral Compound, Molnupiravir, with Activity Against SARS-CoV-2.”](/search/?article=Painter20) , 2020. [doi.org/10.1101/2020.12.10.20235747](https://doi.org/10.1101/2020.12.10.20235747).
