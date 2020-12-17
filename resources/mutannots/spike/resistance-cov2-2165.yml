@@ -8,13 +8,14 @@ citations:
 - doi: 10.1016/j.chom.2020.11.007
   author: Greaney
   year: 2020
-  section: Figure 3
-  positions:
-  - 420
-  - 487
+  section: Figure 3; bit.ly/2IVqlzS Out [10]
   aminoAcids:
   - 420R
   - 487R
-aminoAcids:
-- 420R
-- 487R
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro
+    - attr: log10Fold
+      pairs:
+        420R: 2.32
+        487R: 1.12

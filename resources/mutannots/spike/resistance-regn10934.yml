@@ -9,18 +9,20 @@ citations:
   author: Baum
   year: 2020
   section: Table 2
-  positions:
-  - 444
-  - 450
-  - 484
-  - 490
   aminoAcids:
   - 444Q
   - 450D
   - 484K
   - 490LS
-aminoAcids:
-- 444Q
-- 450D
-- 484K
-- 490LS
+  - 493K
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro
+    - attr: log10Fold
+      pairs:
+        444Q: 1.95
+        450D: .inf
+        484K: .inf
+        490L: 1.51
+        490S: 2.17
+        493K: 0.76

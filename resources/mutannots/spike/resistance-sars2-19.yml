@@ -9,15 +9,10 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 477
-  - 478
-  - 514
   aminoAcids:
   - 477GN
   - 478I
   - 514F
-aminoAcids:
-- 477GN
-- 478I
-- 514F
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

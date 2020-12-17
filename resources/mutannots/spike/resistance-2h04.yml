@@ -9,21 +9,12 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 345
-  - 346
-  - 441
-  - 444
-  - 517
   aminoAcids:
   - 345ANS
   - 346G
   - 441R
   - 444E
   - 517R
-aminoAcids:
-- 345ANS
-- 346G
-- 441R
-- 444E
-- 517R
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

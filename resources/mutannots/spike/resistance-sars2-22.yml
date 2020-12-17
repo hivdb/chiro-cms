@@ -9,15 +9,10 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 444
-  - 445
-  - 446
   aminoAcids:
   - 444ENR
   - 445G
   - 446D
-aminoAcids:
-- 444ENR
-- 445G
-- 446D
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

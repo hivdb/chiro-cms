@@ -9,12 +9,9 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 484
-  - 486
   aminoAcids:
   - 484ADGK
   - 486Y
-aminoAcids:
-- 484ADGK
-- 486Y
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

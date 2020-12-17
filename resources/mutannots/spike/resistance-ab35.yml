@@ -9,9 +9,11 @@ citations:
   author: Li
   year: 2020
   section: Figure 4, S2
-  positions:
-  - 234
   aminoAcids:
   - 234Q
-aminoAcids:
-- 234Q
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro
+    - attr: log10Fold
+      pairs:
+        234Q: 1.27

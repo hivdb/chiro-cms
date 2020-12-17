@@ -8,13 +8,14 @@ citations:
 - doi: 10.1016/j.chom.2020.11.007
   author: Greaney
   year: 2020
-  section: Figure 3
-  positions:
-  - 484
-  - 490
+  section: Figure 3; bit.ly/2IVqlzS Out [10]
   aminoAcids:
   - 484V
   - 490K
-aminoAcids:
-- 484V
-- 490K
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro
+    - attr: log10Fold
+      pairs:
+        484V: 1.61
+        490K: 2.23

@@ -9,21 +9,12 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 476
-  - 477
-  - 478
-  - 479
-  - 486
   aminoAcids:
   - 476D
   - 477G
   - 478IP
   - 479L
   - 486V
-aminoAcids:
-- 476D
-- 477G
-- 478IP
-- 479L
-- 486V
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

@@ -9,15 +9,10 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 450
-  - 477
-  - 499
   aminoAcids:
   - 450D
   - 477GNR
   - 499L
-aminoAcids:
-- 450D
-- 477GNR
-- 499L
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

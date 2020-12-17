@@ -7,16 +7,13 @@ citations:
   author: Sexton
   year: 2016
   section: "Abstract (V553L and M611F of MHV)"
-  positions:
-  - 557
-  - 615
+  aminoAcids:
+  - 557I
+  - 615F
 - doi: 10.3390/pathogens9050320
   author: Neogi
   year: 2020
   section: "Section 2.3.2"
-  positions:
-  - 557
-  - 615
-aminoAcids:
-- 557I
-- 615F
+  aminoAcids:
+  - 557I
+  - 615F

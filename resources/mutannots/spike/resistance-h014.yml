@@ -9,15 +9,15 @@ citations:
   author: Li
   year: 2020
   section: Figure 4, S2
-  positions:
-  - 234
-  - 435
-  - 508
   aminoAcids:
   - 234Q
   - 435S
   - 508H
-aminoAcids:
-- 234Q
-- 435S
-- 508H
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro
+    - attr: log10Fold
+      pairs:
+        234Q: 1.27
+        435S: 0.78
+        508H: 0.81

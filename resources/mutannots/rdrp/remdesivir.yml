@@ -9,16 +9,13 @@ citations:
   author: Agostini
   year: 2018
   section: 'Result - "Mutations identified" section'
-  positions:
-  - 480
-  - 557
+  aminoAcids:
+  - 480L
+  - 557L
 - doi: 10.1016/j.antiviral.2020.104793
   author: Shannon
   year: 2020
   section: "Section 2.4"
-  positions:
-  - 480
-  - 557
-aminoAcids:
-- 480L
-- 557L
+  aminoAcids:
+  - 480L
+  - 557L

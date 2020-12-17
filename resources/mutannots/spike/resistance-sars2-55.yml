@@ -9,9 +9,8 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 484
   aminoAcids:
   - 484K
-aminoAcids:
-- 484K
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

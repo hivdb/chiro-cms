@@ -9,12 +9,9 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 477
-  - 486
   aminoAcids:
   - 477GIN
   - 486V
-aminoAcids:
-- 477GIN
-- 486V
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

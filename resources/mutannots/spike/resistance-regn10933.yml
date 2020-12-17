@@ -8,26 +8,26 @@ citations:
 - doi: 10.1101/2020.11.30.405472
   author: Starr
   year: 2020
-  section: Figure S3; BioRxiv PDF Page 3, Line 4-6
-  positions:
-  - 406
-  - 486
-  - 493
+  section: Figure S3; BioRxiv PDF Page 3, Line 4-6; bit.ly/2KxSP2Q Out[7]
   aminoAcids:
   - 406W
   - 486IK
   - 493K
+  aminoAcidAttrs:
+    - attr: studyType
+      pairs:
+        406W: inVitro
+        486I: inVivo
+        486K: inVitro
+        493K: inVivo
+    - attr: log10Fold
+      pairs:
+        406W: 1.93
+        486K: 2.97
 - doi: 10.1126/science.abd0831
   author: Baum
   year: 2020
   section: Table 2
-  positions:
-  - 417
-  - 453
-  - 455
-  - 484
-  - 486
-  - 493
   aminoAcids:
   - 417E
   - 453F
@@ -35,11 +35,14 @@ citations:
   - 484K
   - 486V
   - 493K
-aminoAcids:
-- 406W
-- 417E
-- 453F
-- 455F
-- 484K
-- 486IKV
-- 493K
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro
+    - attr: log10Fold
+      pairs:
+        417E: 2.17
+        453F: .inf
+        455F: .inf
+        484K: 1.31
+        486V: .inf
+        493K: .inf

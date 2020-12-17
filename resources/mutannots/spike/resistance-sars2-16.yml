@@ -9,9 +9,8 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 477
   aminoAcids:
   - 477GNR
-aminoAcids:
-- 477GNR
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

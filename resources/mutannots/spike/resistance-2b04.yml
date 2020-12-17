@@ -9,12 +9,9 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 484
-  - 486
   aminoAcids:
   - 484AK
   - 486S
-aminoAcids:
-- 484AK
-- 486S
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

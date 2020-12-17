@@ -9,21 +9,12 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 444
-  - 476
-  - 478
-  - 479
-  - 486
   aminoAcids:
   - 444EN
   - 476DS
   - 478I
   - 479S
   - 486LS
-aminoAcids:
-- 444EN
-- 476DS
-- 478I
-- 479S
-- 486LS
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

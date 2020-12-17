@@ -9,24 +9,28 @@ citations:
   author: Weisblum
   year: 2020
   section: Figure 4B, 7A, 7B, 7C
-  positions:
-  - 455
-  - 456
-  - 484
-  - 490
-  - 493
-  - 494
   aminoAcids:
   - 455FR
   - 456V
   - 484ADKQ
-  - 490L
+  - 490LS
   - 493KLR
   - 494P
-aminoAcids:
-- 455FR
-- 456V
-- 484ADKQ
-- 490L
-- 493KLR
-- 494P
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro
+    - attr: log10Fold
+      pairs:
+        455F: 1.87
+        455R: 3.52
+        456V: 2.26
+        484A: 3.52
+        484D: 2.52
+        484K: 2.98 # Fig 4
+        484Q: 3.52
+        490L: 2.50
+        490S: 0.70
+        493K: 3.52
+        493L: 1.54
+        493R: 2.98 # Fig 4, 3.52 from fig 7
+        494P: 1.78

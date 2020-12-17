@@ -9,9 +9,11 @@ citations:
   author: Li
   year: 2020
   section: Figure 4, S2
-  positions:
-  - 490
   aminoAcids:
   - 490L
-aminoAcids:
-- 490L
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro
+    - attr: log10Fold
+      pairs:
+        490L: 1.20

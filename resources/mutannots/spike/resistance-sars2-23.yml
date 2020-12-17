@@ -9,15 +9,10 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 477
-  - 483
-  - 484
   aminoAcids:
   - 477R
   - 483FG
   - 484D
-aminoAcids:
-- 477R
-- 483FG
-- 484D
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

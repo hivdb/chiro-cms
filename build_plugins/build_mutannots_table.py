@@ -1,8 +1,10 @@
 import os
-import re
 import json
+from itertools import groupby
 
-from .func_mutannots import get_positions, load_config_and_data
+from .func_mutannots import (get_positions,
+                             get_amino_acids,
+                             load_config_and_data)
 
 
 def build_mutannots_table(resource_dir, buildres_dir, **kw):
@@ -70,18 +72,16 @@ def build_mutannots_table(resource_dir, buildres_dir, **kw):
                                 row = rows[pos]
                                 row[col_name] = subgroup['subgroup']
                     else:
-                        for aas in annotdata['aminoAcids']:
-                            match = re.match(
-                                r'^(\d+)([A-Zid*]+|[A-Z*]_[A-Z*]+)$', aas)
-                            pos, aas = match.groups()
-                            pos = int(pos)
-                            if pos not in posset:
-                                continue
-                            row = rows[pos]
-                            if '_' in aas:
-                                row[col_name] = aas
-                            else:
-                                row[col_name] = ''.join(sorted(aas))
+                        for citedata in annotdata['citations']:
+                            for pos, posaas in groupby(
+                                get_amino_acids(citedata),
+                                lambda posaa: posaa[0]
+                            ):
+                                if pos not in posset:
+                                    continue
+                                row = rows[pos]
+                                aas = [aa for _, aa in posaas]
+                                row[col_name] = '/'.join(sorted(aas))
 
         rows = list(rows.values())
         dest_json = os.path.join(

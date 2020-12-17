@@ -1,6 +1,6 @@
-name: resistance REGN10989
-label: REGN10989
-tableColLabel: REGN10989 DRM
+name: resistance REGN10989/10987
+label: REGN10989/10987
+tableColLabel: REGN10989/10987 DRM
 level: aminoAcid
 hideCitations: false
 colorRules: []
@@ -10,9 +10,9 @@ citations:
   year: 2020
   section: Table 2
   aminoAcids:
+  - 445A
   - 450D
   - 484K
-  - 485D
   - 486V
   - 490LS
   - 493K
@@ -21,11 +21,10 @@ citations:
       value: inVitro
     - attr: log10Fold
       pairs:
-        450D: 0.75
-        484K: .inf
-        485D: .inf
-        486V: .inf
-        490L: 2.63
-        490S: 1.49
-        493K: .inf
-
+        445A: 0.67
+        450D: 0.64
+        484K: 1.19
+        486V: 0.76
+        490L: 0.84
+        490S: 0.73
+        493K: 0.69

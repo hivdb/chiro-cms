@@ -9,23 +9,13 @@ citations:
   author: Liu
   year: 2020
   section: Page 10, first paragraph
-  positions:
-  - 441
-  - 444
-  - 446
-  - 450
-  - 452
-  - 477
-  - 478
-  - 484
-  - 490
-aminoAcids:
-- 441R
-- 444E
-- 446V
-- 450DY
-- 452R
-- 477G
-- 478I
-- 484ADGK
-- 490S
+  aminoAcids:
+  - 441R
+  - 444E
+  - 446V
+  - 450DY
+  - 452R
+  - 477G
+  - 478I
+  - 484ADGK
+  - 490S

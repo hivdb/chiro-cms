@@ -9,21 +9,21 @@ citations:
   author: Tortorici
   year: 2020
   section: Figure S7A, C, E
-  positions:
-  - 449
-  - 455
-  - 484
-  - 490
-  - 494
   aminoAcids:
   - 449N
   - 455F
   - 484KQ
   - 490LS
   - 494P
-aminoAcids:
-- 449N
-- 455F
-- 484KQ
-- 490LS
-- 494P
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro
+    - attr: log10Fold
+      pairs:
+        449N: 2.17
+        455F: 0.66
+        484K: 2.69
+        484Q: 2.69
+        490L: 2.69
+        490S: 2.69
+        494P: 2.46

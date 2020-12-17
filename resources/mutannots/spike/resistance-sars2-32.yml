@@ -9,21 +9,12 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 446
-  - 450
-  - 452
-  - 484
-  - 490
   aminoAcids:
   - 446D
   - 450KY
   - 452R
   - 484K
   - 490S
-aminoAcids:
-- 446D
-- 450KY
-- 452R
-- 484K
-- 490S
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

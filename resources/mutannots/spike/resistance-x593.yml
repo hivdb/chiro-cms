@@ -9,18 +9,17 @@ citations:
   author: Li
   year: 2020
   section: Figure 4, S2
-  positions:
-  - 452
-  - 472
-  - 483
-  - 490
   aminoAcids:
   - 452R
   - 472V
   - 483A
   - 490L
-aminoAcids:
-- 452R
-- 472V
-- 483A
-- 490L
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro
+    - attr: log10Fold
+      pairs:
+        452R: 1.80
+        472V: 0.72
+        483A: 1.95
+        490L: 1.80

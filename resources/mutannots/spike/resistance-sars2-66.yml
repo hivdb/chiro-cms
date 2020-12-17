@@ -9,15 +9,10 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 458
-  - 484
-  - 490
   aminoAcids:
   - 458Q
   - 484D
   - 490L
-aminoAcids:
-- 458Q
-- 484D
-- 490L
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

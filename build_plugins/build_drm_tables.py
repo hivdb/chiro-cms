@@ -6,6 +6,7 @@ from itertools import groupby, zip_longest, chain
 from .func_mutannots import yield_mutannots_json
 from .generefs import get_refaa
 
+EPITOPE_ANNOT_CATEGORY = 'epitopes'
 DRM_ANNOT_CATEGORY = 'resistance'
 
 
@@ -29,9 +30,25 @@ def build_citeid2refid_lookup(resource_dir, all_citations):
     return lookup
 
 
-def build_triplets(
+def build_epitope_lookup(positions, epitope_annot_names):
+    lookup = {}
+    suffix_len = len(' epitope')
+    for posdata in positions:
+        pos = posdata['position']
+        pos_lookup = lookup[pos] = set()
+        for annot in posdata['annotations']:
+            annot_name = annot['name']
+            if annot_name not in epitope_annot_names:
+                continue
+            mab = annot_name[:-suffix_len]
+            pos_lookup.add(mab)
+    return lookup
+
+
+def get_triplets(
     positions, drm_annot_names,
-    all_citations, resource_dir
+    all_citations, resource_dir,
+    epitope_lookup, mabs_with_epitope
 ):
     results = []
     citeid2refid = build_citeid2refid_lookup(
@@ -48,22 +65,25 @@ def build_triplets(
             if annot['name'] not in drm_annot_names:
                 continue
             mab = annot['name'][annot_prefix_len:]
-            aas = annot['aminoAcids']
-            for citeid in annot['citationIds']:
-                citeid = int(citeid.split('.', 1)[0])
+            all_attrs = annot['aminoAcidAttrs']
+            for attrs in all_attrs:
+                citeid = attrs['citationId']
                 if citeid not in citeid2refid:
                     raise KeyError(
                         'Unable to find RefID for citation {}. '
                         'Perhaps a preprint just got published?'
                         .format(citeid2doi[citeid])
                     )
-                for aa in aas:
-                    results.append({
-                        'position': pos,
-                        'aminoAcid': aa,
-                        'refId': citeid2refid[citeid],
-                        'mAb': mab
-                    })
+                results.append({
+                    **attrs,
+                    'position': pos,
+                    'refId': citeid2refid[attrs['citationId']],
+                    'mAb': mab,
+                    'hasEpitopeData': mab in mabs_with_epitope,
+                    'isEpitopeAny': bool(epitope_lookup[pos]),
+                    'isEpitopeSelf': mab in epitope_lookup[pos]
+                })
+
     return sorted(
         results,
         key=lambda t: (
@@ -86,15 +106,22 @@ def uniq_join_attrs(items, attrname, by=''):
 
 def save_triplets(destpath, triplets, gene):
     with open(destpath, 'w', encoding='utf-8-sig') as fp:
-        writer = csv.DictWriter(fp, ['position', 'refAA', 'aminoAcid',
-                                     'refId', 'mAb'])
+        writer = csv.DictWriter(
+            fp, ['position', 'refAA', 'aminoAcid', 'refId',
+                 'mAb', 'studyType', 'log10Fold', 'hasEpitopeData',
+                 'isEpitopeSelf', 'isEpitopeAny'],
+            extrasaction='ignore'
+        )
         writer.writeheader()
         for triplet in triplets:
             pos = triplet['position']
             writer.writerow({
                 **triplet,
                 'refAA': get_refaa(gene, pos),
-                'mAb': '={}'.format(json.dumps(triplet['mAb']))
+                'mAb': '={}'.format(json.dumps(triplet['mAb'])),
+                'hasEpitopeData': 'Yes' if triplet['hasEpitopeData'] else '',
+                'isEpitopeSelf': 'Yes' if triplet['isEpitopeSelf'] else '',
+                'isEpitopeAny': 'Yes' if triplet['isEpitopeAny'] else ''
             })
     print('create: {}'.format(destpath))
 
@@ -194,6 +221,13 @@ def bobstyle_csvs(destpath, *srcpaths):
     print('create: {}'.format(destpath))
 
 
+def get_category_annots(payload, category):
+    return [
+        annot for annot in payload['annotations']
+        if annot['category'] == category
+    ]
+
+
 def build_drm_tables(resource_dir, build_dir, download_dir, **kw):
     for resname, payload, _ in yield_mutannots_json(resource_dir):
         gene = 'S'
@@ -201,12 +235,11 @@ def build_drm_tables(resource_dir, build_dir, download_dir, **kw):
             gene = 'RdRP'
         all_citations = payload['citations']
 
-        drm_annots = [
-            annot for annot in payload['annotations']
-            if annot['category'] == DRM_ANNOT_CATEGORY and
-            annot['label'].lower() != 'all'
-        ]
+        drm_annots = get_category_annots(payload, DRM_ANNOT_CATEGORY)
+        epitope_annots = get_category_annots(payload, EPITOPE_ANNOT_CATEGORY)
         drm_annot_names = {annot['name'] for annot in drm_annots}
+        epitope_annot_names = {annot['name'] for annot in epitope_annots}
+
         positions = [
             pos for pos in payload['positions']
             if any(
@@ -214,9 +247,13 @@ def build_drm_tables(resource_dir, build_dir, download_dir, **kw):
                 for annot in pos['annotations']
             )
         ]
-        triplets = build_triplets(
+        epitope_lookup = build_epitope_lookup(
+            positions, epitope_annot_names)
+        mabs_with_epitope = set(chain(*epitope_lookup.values()))
+        triplets = get_triplets(
             positions, drm_annot_names,
-            all_citations, resource_dir
+            all_citations, resource_dir,
+            epitope_lookup, mabs_with_epitope
         )
 
         dest_triplets = os.path.join(

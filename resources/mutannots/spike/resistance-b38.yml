@@ -9,15 +9,15 @@ citations:
   author: Li
   year: 2020
   section: Figure 4, S2
-  positions:
-  - 234
-  - 475
-  - 831
   aminoAcids:
   - 234Q
   - 475V
   - 831V
-aminoAcids:
-- 234Q
-- 475V
-- 831V
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro
+    - attr: log10Fold
+      pairs:
+        234Q: 0.77
+        475V: 1.25
+        831V: 0.62

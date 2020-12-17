@@ -8,16 +8,16 @@ citations:
 - doi: 10.1101/2020.11.30.405472
   author: Starr
   year: 2020
-  section: Figure S3; BioRxiv PDF Page 3, Line 4-6
-  positions:
-  - 417
-  - 460
-  - 475
+  section: Figure S3; BioRxiv PDF Page 3, Line 4-6; bit.ly/2KxSP2Q Out[7]
   aminoAcids:
   - 417N
   - 460T
   - 475V
-aminoAcids:
-- 417N
-- 460T
-- 475V
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro
+    - attr: log10Fold
+      pairs:
+        417N: 3.68
+        460T: 3.14
+        475V: 1.20

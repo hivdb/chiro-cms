@@ -9,24 +9,27 @@ citations:
   author: Weisblum
   year: 2020
   section: Figure 4B, 7A, 7B, 7C
-  positions:
-  - 346
-  - 439
-  - 440
-  - 444
-  - 445
-  - 446
   aminoAcids:
   - 346KS
   - 439K
   - 440K
-  - 444NQ
-  - 445L
+  - 444NQT
+  - 445EGIL
   - 446V
-aminoAcids:
-- 346KS
-- 439K
-- 440K
-- 444NQ
-- 445L
-- 446V
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro
+    - attr: log10Fold
+      pairs:
+        346K: 3.37
+        346S: 3.19 # Fig 4, 3.67 from fig 7
+        439K: 2.39
+        440K: 3.19 # Fig 4, 3.67 from fig 7
+        444N: 1.18 # Fig 4, 1.80 from fig 7
+        444Q: 1.65
+        444T: 2.03 # Fig 4
+        445E: 1.42 # Fig 4
+        445G: 1.86 # Fig 4
+        445I: 0.75
+        445L: 1.11
+        446V: 2.93

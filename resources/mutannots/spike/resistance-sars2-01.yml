@@ -9,18 +9,11 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 346
-  - 352
-  - 452
-  - 494
   aminoAcids:
   - 346G
   - 352D
   - 452R
   - 494P
-aminoAcids:
-- 346G
-- 352D
-- 452R
-- 494P
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

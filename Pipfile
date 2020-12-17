@@ -12,6 +12,7 @@ requests = "*"
 xlsx2csv = "*"
 more-itertools = "*"
 click = "*"
+simplejson = "*"
 
 [requires]
 python_version = "3.8"

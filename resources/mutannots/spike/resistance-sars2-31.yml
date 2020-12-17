@@ -9,15 +9,10 @@ citations:
   author: Liu
   year: 2020
   section: Table 2
-  positions:
-  - 378
-  - 408
-  - 504
   aminoAcids:
   - 378EQ
   - 408K
   - 504D
-aminoAcids:
-- 378EQ
-- 408K
-- 504D
+  aminoAcidAttrs:
+    - attr: studyType
+      value: inVitro

@@ -2,7 +2,6 @@ import os
 import re
 import warnings
 import ruamel.yaml
-from collections import defaultdict
 
 yaml = ruamel.yaml.YAML()
 
@@ -27,7 +26,7 @@ def get_citation_id(citation, reverse_citations):
 
 def get_positions(obj):
     positions = []
-    ranges = obj.get('positions')
+    ranges = obj.get('positions', [])
     for rangetext in ranges:
         if isinstance(rangetext, int):
             positions.append(rangetext)
@@ -38,7 +37,19 @@ def get_positions(obj):
             start = int(start.strip())
             end = int(end.strip())
             positions.extend(range(start, end + 1))
+    if not positions:
+        positions = (pos for pos, _ in get_amino_acids(obj))
     return sorted(set(positions))
+
+
+def get_amino_acids(obj):
+    results = set()
+    all_posaas = obj.get('aminoAcids', [])
+    for posaas in all_posaas:
+        pos, aas = parse_mut(posaas)
+        for aa in aas:
+            results.add((pos, aa))
+    return sorted(results)
 
 
 def load_config_and_data(resource_dir):
@@ -83,24 +94,49 @@ def parse_mut(mut):
     return pos, aas
 
 
-def build_aa_attrs_lookup(annotdata):
+def build_aa_attrs(annotdata, citationId, sectionId):
+    all_posaas = get_amino_acids(annotdata)
     attrs = annotdata.get('aminoAcidAttrs', [])
-    lookup = defaultdict(dict)
+    lookup = {}
     for attrdef in attrs:
         attr = attrdef['attr']
-        pairs = attrdef['pairs']
+        value = attrdef.get('value')
+        pairs = attrdef.get('pairs', [])
         if isinstance(pairs, dict):
             pairs = list(pairs.items())
         for mut, attrval in pairs:
             pos, aas = parse_mut(mut)
             for aa in aas:
+                if (pos, aa) not in lookup:
+                    lookup[(pos, aa)] = {}
                 if attr in lookup[(pos, aa)]:
                     warnings.warn(
-                        'Duplicated attribute {!r} for {}{}'
+                        'Unexpected behavior may be observed when duplicated '
+                        'attribute {!r} was defined for {}{}'
                         .format(attr, pos, aa)
                     )
                 lookup[(pos, aa)][attr] = attrval
-    return lookup
+        if value:
+            for pos, aa in all_posaas:
+                if (pos, aa) not in lookup:
+                    lookup[(pos, aa)] = {}
+                if attr not in lookup[(pos, aa)]:
+                    lookup[(pos, aa)][attr] = value
+                else:
+                    warnings.warn(
+                        'Unexpected behavior may be observed when "value" and '
+                        '"pairs" are both defined for attribute {!r}'
+                        .format(attr)
+                    )
+    grouped_by_pos = {}
+    for (pos, aa), attrs in lookup.items():
+        grouped_by_pos.setdefault(pos, []).append({
+            'aminoAcid': aa,
+            'citationId': citationId,
+            'sectionId': sectionId,
+            **attrs
+        })
+    return grouped_by_pos
 
 
 def yield_mutannots_json(resource_dir):
@@ -129,6 +165,8 @@ def yield_mutannots_json(resource_dir):
                 if not annotdef['label']:
                     annotdef.pop('label')
                 annotdefs.append(annotdef)
+                all_posaas = []
+                all_posaa_attrs = {}
 
                 for cite in annotdata['citations']:
                     cite_pos = get_positions(cite)
@@ -143,6 +181,12 @@ def yield_mutannots_json(resource_dir):
                     }
                     for pos in cite_pos:
                         pos_cites.setdefault(pos, []).append(cite_id_str)
+                    if level == 'aminoAcid':
+                        all_posaas.extend(get_amino_acids(cite))
+                        for pos, attrs in build_aa_attrs(cite,
+                                                         **cite_id).items():
+                            all_posaa_attrs.setdefault(pos, []).extend(attrs)
+                all_posaas = sorted(set(all_posaas))
 
                 if level == 'position':
                     for subgroup in annotdata['positions']:
@@ -158,9 +202,7 @@ def yield_mutannots_json(resource_dir):
                                 'citationIds': pos_cites[pos]
                             }
                 else:
-                    attr_lookup = build_aa_attrs_lookup(annotdata)
-                    for aas in annotdata['aminoAcids']:
-                        pos, aas = parse_mut(aas)
+                    for pos, aa in all_posaas:
                         posdata = positions.setdefault(pos, {
                             'position': pos,
                             'annotations': {}
@@ -169,15 +211,15 @@ def yield_mutannots_json(resource_dir):
                             'name': annot_name,
                             'description': '',
                             'aminoAcids': [],
-                            'aminoAcidAttrs': {},
+                            'aminoAcidAttrs': [],
                             'citationIds': pos_cites[pos]
                         })
-                        annot['aminoAcids'].extend(aas)
-                        annot['aminoAcidAttrs'].update({
-                            aa: attr_lookup[(pos, aa)]
-                            for aa in aas
-                            if (pos, aa) in attr_lookup
-                        })
+                        annot['aminoAcids'].append(aa)
+                    for pos in set(pos for pos, _ in all_posaas):
+                        annot = positions[pos]['annotations'][annot_name]
+                        annot['aminoAcidAttrs'].extend(
+                            all_posaa_attrs.get(pos, [])
+                        )
         positions = list(positions.values())
         for posdata in positions:
             posdata['annotations'] = list(posdata['annotations'].values())
