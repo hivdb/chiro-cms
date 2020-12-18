@@ -59,7 +59,8 @@ def save_epitopes(mab, epitopes, pdb, dest_yaml):
             payload = yaml.load(fp)
     else:
         payload = {
-            'name': mab,
+            'name': '{} epitope'.format(mab),
+            'label': mab,
             'level': 'position',
             'hideCitations': True,
             'colorRules': [],
