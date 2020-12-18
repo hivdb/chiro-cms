@@ -31,6 +31,8 @@ annotCategories:
   annotStyle: underscore
   annotNames:
   - 2-4 epitope
+  - 2H2 epitope
+  - 3C1 epitope
   - 4A8 epitope
   - B38 epitope
   - BD-23 epitope
@@ -39,6 +41,7 @@ annotCategories:
   - BD-604 epitope
   - BD-629 epitope
   - C002 epitope
+  - C102 epitope
   - C104 epitope
   - C105 epitope
   - C110 epitope
