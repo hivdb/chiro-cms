@@ -24,6 +24,10 @@ Instruction:
 -->
 ### Database Entries (Dec 18)
 Weinreich DM, Sivapalasingam S, et int., and Yancopoulos GD. [“REGN-COV2, a Neutralizing Antibody Cocktail, in Outpatients with Covid-19.”](/search/?article=Weinreich20) _The New England journal of medicine_, 2020. [doi.org/10.1056/nejmoa2035002](https://doi.org/10.1056/nejmoa2035002). \[[PubMed33332778](https://www.ncbi.nlm.nih.gov/pubmed/33332778/)\]
+<!--
+### [Clinical Trials (Dec 17)](/page/updates/#clinical.trials)
+[11 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-12-17)
+-->
 ### Database Entries (Dec 17)
 Eslami G, Mousaviasl S, et int., and Mobarak S. [“The impact of sofosbuvir/daclatasvir or ribavirin in patients with severe COVID-19.”](/search/?article=Eslami20) _Journal of Antimicrobial Chemotherapy_, 2020. [doi.org/10.1093/jac/dkaa331](https://doi.org/10.1093/jac/dkaa331). \[[PubMed32812051](https://www.ncbi.nlm.nih.gov/pubmed/32812051/)\] \[[PMC7529105](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7529105/)\]
 ### Database Entries (Dec 16)
