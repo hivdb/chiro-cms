@@ -5,7 +5,7 @@ XLSXDIR="$HOME/OneDrive - Stanford/COVDB-DatabaseFiles"
 CSVDIR="$HOME/MAbSummary-CSVFILES"
 cd $(dirname $0)/..
 
-if [[ "$1" == "--update-refid-lookup" ]]; then
+if [[ "$1" != "--no-update-refid-lookup" ]]; then
     echo "Updating RefID lookup table (resources/refid_lookup.json)..."
     pipenv run xlsx2csv "${XLSXDIR}/References.xlsx" "${CSVDIR}/articles.csv" -n tblReferences -f %Y-%m-%d
     pipenv run python3 scripts/build_refid_doi_lookup.py "${CSVDIR}/articles.csv" "resources/refid_lookup.json"
