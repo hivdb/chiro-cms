@@ -934,14 +934,12 @@ Instruction:
 ## Clinical Trials
 ### November 2020
 - December 17
-    - [11 clinical trials were added.](/clinical-trials/?fromDate=2020-12-17)
+    - [9 clinical trials were added.](/clinical-trials/?fromDate=2020-12-17)
     - EUCTR2020-001570-30-FR
     - EUCTR2020-003872-42-IT
     - ISRCTN27106947
     - NCT04663737
     - NCT04666441
-    - NCT04668209
-    - NCT04668235
     - NCT04668469
     - NCT04669015
     - NCT04672291
