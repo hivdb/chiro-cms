@@ -8,14 +8,14 @@ citations:
   author: Singer
   year: 2020
   section: "http://cov-glue.cvr.gla.ac.uk (retrieved date: Dec 22, 2020)"
-  # 69d and 144d are reported in literature but not explicitly included in
+  # 69d, 70d and 144d are reported in literature but not explicitly included in
   # GLUE exported deletion CSV. However, in fact, there are nucleotide
   # deletions whose length cannot be divided by three around those two
   # positions.
-  aminoAcids: [5F, 12F, 18F, 21I, 23H, 25S, 26LS, 27S, 29I, 49Y, 54F, 69d, 80Y,
-  95I, 98F, 138Y, 143F, 144d, 146Y, 153IT, 164T, 176F, 189F, 215H, 222V, 253G,
-  254F, 255F, 256L, 261V, 262S, 272L, 439K, 446V, 453F, 477N, 501Y, 520S, 570D,
-  574Y, 583D, 613H, 614G, 622F, 626S, 632N, 655Y, 675HR, 677H, 681H, 688V,
+  aminoAcids: [5F, 12F, 18F, 21I, 23H, 25S, 26LS, 27S, 29I, 49Y, 54F, 69d, 70d,
+  80Y, 95I, 98F, 138Y, 143F, 144d, 146Y, 153IT, 164T, 176F, 189F, 215H, 222V,
+  253G, 254F, 255F, 256L, 261V, 262S, 272L, 439K, 446V, 453F, 477N, 501Y, 520S,
+  570D, 574Y, 583D, 613H, 614G, 622F, 626S, 632N, 655Y, 675HR, 677H, 681H, 688V,
   698L, 701V, 716I, 723I, 769V, 772I, 780Q, 822F, 839Y, 879S, 929T, 936Y, 939F,
   982A, 1020S, 1068F, 1073N, 1078S, 1084Y, 1118H, 1122L, 1124V, 1163Y, 1167V,
   1176F, 1214G, 1219CV, 1228L, 1229I, 1253F, 1263L]
