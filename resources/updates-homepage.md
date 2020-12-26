@@ -22,6 +22,9 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Dec 25)
+Xie X, Muruato AE, et int., and Shi P. [“A nanoluciferase SARS-CoV-2 for rapid neutralization testing and screening of anti-infective drugs for COVID-19.”](/search/?article=Xie20) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-19055-7](https://doi.org/10.1038/s41467-020-19055-7). \[[PubMed33060595](https://www.ncbi.nlm.nih.gov/pubmed/33060595/)\] \[[PMC7567097](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7567097/)\]
+
 ### Database Entries (Dec 18)
 Weinreich DM, Sivapalasingam S, et int., and Yancopoulos GD. [“REGN-COV2, a Neutralizing Antibody Cocktail, in Outpatients with Covid-19.”](/search/?article=Weinreich20) _The New England journal of medicine_, 2020. [doi.org/10.1056/nejmoa2035002](https://doi.org/10.1056/nejmoa2035002). \[[PubMed33332778](https://www.ncbi.nlm.nih.gov/pubmed/33332778/)\]
 

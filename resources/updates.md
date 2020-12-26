@@ -78,6 +78,8 @@ Instruction:
 
 ## Database Entries
 ### November 2020
+- December 25
+    - Xie X, Muruato AE, et int., and Shi P. [“A nanoluciferase SARS-CoV-2 for rapid neutralization testing and screening of anti-infective drugs for COVID-19.”](/search/?article=Xie20) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-19055-7](https://doi.org/10.1038/s41467-020-19055-7). \[[PubMed33060595](https://www.ncbi.nlm.nih.gov/pubmed/33060595/)\] \[[PMC7567097](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7567097/)\]
 - December 18
     - Weinreich DM, Sivapalasingam S, et int., and Yancopoulos GD. [“REGN-COV2, a Neutralizing Antibody Cocktail, in Outpatients with Covid-19.”](/search/?article=Weinreich20) _The New England journal of medicine_, 2020. [doi.org/10.1056/nejmoa2035002](https://doi.org/10.1056/nejmoa2035002). \[[PubMed33332778](https://www.ncbi.nlm.nih.gov/pubmed/33332778/)\]
 - December 17
@@ -815,6 +817,10 @@ Instruction:
 (Studies in CoV-RDB originally published as preprints)
 
 ### December 2020
+- December 22
+    - Mitjà O, Corbacho-Monné M, et int., and Clotet B. [“A Cluster-Randomized Trial of Hydroxychloroquine for Prevention of Covid-19.”](/search/?article=Mitja20) _New England Journal of Medicine_, 2020. [doi.org/10.1056/nejmoa2021801](https://doi.org/10.1056/nejmoa2021801). \[[PubMed33289973](https://www.ncbi.nlm.nih.gov/pubmed/33289973/)\] \[[PMC7722693](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7722693/)\]
+- December 21
+    - Yang KS, Ma XR, et int., and Liu WR. [“A Quick Route to Multiple Highly Potent SARS‐CoV‐2 Main Protease Inhibitors**.”](/search/?article=Liu20f) _ChemMedChem_, 2020. [doi.org/10.1002/cmdc.202000924](https://doi.org/10.1002/cmdc.202000924). \[[PubMed33283984](https://www.ncbi.nlm.nih.gov/pubmed/33283984/)\]
 - December 07
     - Pan H, Peto R, et int., and Swaminathan S. [“Repurposed Antiviral Drugs for Covid-19 — Interim WHO Solidarity Trial Results.”](/search/?article=WHO20) _New England Journal of Medicine_, 2020. [doi.org/10.1056/nejmoa2023184](https://doi.org/10.1056/nejmoa2023184). \[[PubMed33264556](https://www.ncbi.nlm.nih.gov/pubmed/33264556/)\]
 - December 04
