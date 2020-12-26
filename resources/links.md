@@ -27,7 +27,6 @@
 [https://inato.com/](https://inato.com/)
 - Global Coronavirus COVID-19 Clinical Trial Tracker
 [https://www.covid-trials.org/](https://www.covid-trials.org/)
-
 - Covid evidence:
 [https://covid-evidence.org/](https://covid-evidence.org/)
 - Meta evidence:
@@ -151,11 +150,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODEyMzAwMSwtMTAwODUzNTMyLC0xMj
-kzNzYxNzM5LDIwMzczMDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3
-NjcwNSwyMTI3ODgwMTQ4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLD
-E1NzE4MDQxNjMsMTY5MzI0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3
-MjM0MTQsLTIwMjY3NjA1MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4Nz
-YsLTgxOTIxMTIxOCw5NTE4NzY3MTYsLTEzMDAwMjM3OTYsMzEw
-NTgwOTIyXX0=
+eyJoaXN0b3J5IjpbMjM0OTE1Mjc1LDEzOTgxMjMwMDEsLTEwMD
+g1MzUzMiwtMTI5Mzc2MTczOSwyMDM3MzAyMzcyLC0yMDIwODQx
+NDM0LC03MzU1NzY3MDUsMjEyNzg4MDE0OCwzNTMwNjk4OTUsMT
+I2MTAzMzc2MywxNTcxODA0MTYzLDE2OTMyNDM3NDIsLTEzMDg2
+NzUzLC0xNjI5NzIzNDE0LC0yMDI2NzYwNTExLDQ3NzI0NjEwNi
+wxMzE0NzgyODc2LC04MTkyMTEyMTgsOTUxODc2NzE2LC0xMzAw
+MDIzNzk2XX0=
 -->
