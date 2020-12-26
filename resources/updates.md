@@ -77,7 +77,8 @@ Instruction:
     - [Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients]($$CMS_PREFIX$$downloads/press-release/Regeneron20200930.pdf)
 
 ## Database Entries
-### November 2020
+
+### December 2020
 - December 25
     - Xie X, Muruato AE, et int., and Shi P. [“A nanoluciferase SARS-CoV-2 for rapid neutralization testing and screening of anti-infective drugs for COVID-19.”](/search/?article=Xie20) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-19055-7](https://doi.org/10.1038/s41467-020-19055-7). \[[PubMed33060595](https://www.ncbi.nlm.nih.gov/pubmed/33060595/)\] \[[PMC7567097](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7567097/)\]
 - December 18
@@ -108,6 +109,8 @@ Instruction:
     - Arévalo A, Pagotto R, et int., and Crispo M. [“Ivermectin reduces coronavirus infection in vivo: a mouse experimental model.”](/search/?article=Arevalo20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.02.363242](https://doi.org/10.1101/2020.11.02.363242).
     - Clausen TM, Sandoval DR, et int., and Esko JD. [“SARS-CoV-2 Infection Depends on Cellular Heparan Sulfate and ACE2.”](/search/?article=Clausen20) _Cell_, 2020. [doi.org/10.1016/j.cell.2020.09.033](https://doi.org/10.1016/j.cell.2020.09.033). \[[PubMed32970989](https://www.ncbi.nlm.nih.gov/pubmed/32970989/)\] \[[PMC7489987](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489987/)\]
     - Kumar R, Khandelwal N, et int., and Kumar N. [“Emetine as an antiviral agent suppresses SARS-CoV-2 replication by inhibitinginteraction of viral mRNAwith eIF4E: An in vitro study.”](/search/?article=Kumar20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.29.401984](https://doi.org/10.1101/2020.11.29.401984).
+
+### November 2020
 - November 29
     - de Melo GD, Lazarini F, et int., and Bourhy H. [“Anti-COVID-19 efficacy of ivermectin in the golden hamster.”](/search/?article=Melo20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.21.392639](https://doi.org/10.1101/2020.11.21.392639).
     - Schloer S, Brunotte L, et int., and Rescher U. [“Drug synergy of combinatory treatment with remdesivir and the repurposed drugs fluoxetine and itraconazole effectively impairs SARS-CoV-2 infection in vitro.”](/search/?article=Schloer20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.16.342410](https://doi.org/10.1101/2020.10.16.342410).
