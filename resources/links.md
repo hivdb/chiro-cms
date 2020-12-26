@@ -6,6 +6,9 @@
 - National Library of Medicine LitCovid Database: [https://www.ncbi.nlm.nih.gov/research/coronavirus/](https://www.ncbi.nlm.nih.gov/research/coronavirus/)
 - COVID-19 Research Articles:
 [https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html](https://www.cdc.gov/library/researchguides/2019novelcoronavirus/researcharticles.html)
+- Coronacentral Article Classification
+https://coronacentral.ai/
+
 
 
 ### Treatment guidelines
@@ -150,11 +153,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0OTE1Mjc1LDEzOTgxMjMwMDEsLTEwMD
-g1MzUzMiwtMTI5Mzc2MTczOSwyMDM3MzAyMzcyLC0yMDIwODQx
-NDM0LC03MzU1NzY3MDUsMjEyNzg4MDE0OCwzNTMwNjk4OTUsMT
-I2MTAzMzc2MywxNTcxODA0MTYzLDE2OTMyNDM3NDIsLTEzMDg2
-NzUzLC0xNjI5NzIzNDE0LC0yMDI2NzYwNTExLDQ3NzI0NjEwNi
-wxMzE0NzgyODc2LC04MTkyMTEyMTgsOTUxODc2NzE2LC0xMzAw
-MDIzNzk2XX0=
+eyJoaXN0b3J5IjpbLTIxMjkxOTQ0MjYsMTM5ODEyMzAwMSwtMT
+AwODUzNTMyLC0xMjkzNzYxNzM5LDIwMzczMDIzNzIsLTIwMjA4
+NDE0MzQsLTczNTU3NjcwNSwyMTI3ODgwMTQ4LDM1MzA2OTg5NS
+wxMjYxMDMzNzYzLDE1NzE4MDQxNjMsMTY5MzI0Mzc0MiwtMTMw
+ODY3NTMsLTE2Mjk3MjM0MTQsLTIwMjY3NjA1MTEsNDc3MjQ2MT
+A2LDEzMTQ3ODI4NzYsLTgxOTIxMTIxOCw5NTE4NzY3MTYsLTEz
+MDAwMjM3OTZdfQ==
 -->
