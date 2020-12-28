@@ -22,9 +22,12 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Dec 28)
+[“A Neutralizing Monoclonal Antibody for Hospitalized Patients with Covid-19.”](/search/?article=ACTIV-3_LY-CoV55520) New England Journal of Medicine, 2020. [doi.org/10.1056/NEJMoa2033130](https://doi.org/10.1056/NEJMoa2033130).
 ### Database Entries (Dec 25)
 Xie X, Muruato AE, et int., and Shi P. [“A nanoluciferase SARS-CoV-2 for rapid neutralization testing and screening of anti-infective drugs for COVID-19.”](/search/?article=Xie20) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-19055-7](https://doi.org/10.1038/s41467-020-19055-7). \[[PubMed33060595](https://www.ncbi.nlm.nih.gov/pubmed/33060595/)\] \[[PMC7567097](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7567097/)\]
-
+### [Clinical Trials (Dec 24)](/page/updates/#clinical.trials)
+[8 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-12-24)
 ### Database Entries (Dec 18)
 Weinreich DM, Sivapalasingam S, et int., and Yancopoulos GD. [“REGN-COV2, a Neutralizing Antibody Cocktail, in Outpatients with Covid-19.”](/search/?article=Weinreich20) _The New England journal of medicine_, 2020. [doi.org/10.1056/nejmoa2035002](https://doi.org/10.1056/nejmoa2035002). \[[PubMed33332778](https://www.ncbi.nlm.nih.gov/pubmed/33332778/)\]
 
@@ -101,54 +104,3 @@ Simonovich VA, Burgos Pratx LD, et int., and Belloso WH. [“A Randomized Trial 
 Busnadiego I, Fernbach S, et int., and Hale BG. [“Antiviral Activity of Type I, II, and III Interferons Counterbalances ACE2 Inducibility and Restricts SARS-CoV-2.”](/search/?article=Busnadiego20) _mBio_, 2020. [doi.org/10.1128/mbio.01928-20](https://doi.org/10.1128/mbio.01928-20). \[[PubMed32913009](https://www.ncbi.nlm.nih.gov/pubmed/32913009/)\] \[[PMC7484541](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7484541/)\]
 ### Database Entries (Nov 25)
 Jagannathan P, Andrews J, et int., and Singh U. [“Peginterferon Lambda-1a for treatment of outpatients with uncomplicated COVID-19: a randomized placebo-controlled trial.”](/search/?article=Jagannathan20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.18.20234161](https://doi.org/10.1101/2020.11.18.20234161).
-
-### Database Entries (Nov 24)
-AlQahtani M, Abdulrahman A, et int., and Abduljalil M. [“Randomized controlled trial of convalescent plasma therapy against standard therapy in patients with severe COVID-19 disease.”](/search/?article=AlQahtani20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.02.20224303](https://doi.org/10.1101/2020.11.02.20224303).
-### Database Entries (Nov 24)
-Bajpai M, Kumar S, et int., and Sarin SK. [“Efficacy of Convalescent Plasma Therapy compared to Fresh Frozen Plasma in Severely ill COVID-19 Patients: A Pilot Randomized Controlled Trial.”](/search/?article=Bajpai20) _medRxiv_, 2020. [doi.org/10.1101/2020.10.25.20219337](https://doi.org/10.1101/2020.10.25.20219337).
-### Database Entries (Nov 24)
-Fu L, Ye F, et int., and Gao GF. [“Both Boceprevir and GC376 efficaciously inhibit SARS-CoV-2 by targeting its main protease.”](/search/?article=Fu20d) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-18233-x](https://doi.org/10.1038/s41467-020-18233-x). \[[PubMed32887884](https://www.ncbi.nlm.nih.gov/pubmed/32887884/)\] \[[PMC7474075](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7474075/)\]
-### Database Entries (Nov 24)
-Hoffman RL, Kania RS, et int., and Taggart B. [“Discovery of Ketone-Based Covalent Inhibitors of Coronavirus 3CL Proteases for the Potential Therapeutic Treatment of COVID-19.”](/search/?article=Hoffman20) _Journal of Medicinal Chemistry_, 2020. [doi.org/10.1021/acs.jmedchem.0c01063](https://doi.org/10.1021/acs.jmedchem.0c01063). \[[PubMed33054210](https://www.ncbi.nlm.nih.gov/pubmed/33054210/)\] \[[PMC7571312](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7571312/)\]
-### Database Entries (Nov 24)
-Joyner MJ, Bruno KA, et int., and Wright RS. [“Safety Update: COVID-19 Convalescent Plasma in 20,000 Hospitalized Patients”](/search/?article=Joyner20c) _Mayo Clinic Proceedings_, 2020. [doi.org/10.1016/j.mayocp.2020.06.028](https://doi.org/10.1016/j.mayocp.2020.06.028). \[[PubMed32861333](https://www.ncbi.nlm.nih.gov/pubmed/32861333/)\] \[[PMC7368917](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7368917/)\]
-
-### Database Entries (Nov 23)
-Clementi N, Scagnolari C, et int., and Filippini A. [“Naringenin is a powerful inhibitor of SARS-CoV-2 infection in vitro.”](/search/?article=Clementi20b) _Pharmacological Research_, 2020. [doi.org/10.1016/j.phrs.2020.105255](https://doi.org/10.1016/j.phrs.2020.105255). \[[PubMed33096221](https://www.ncbi.nlm.nih.gov/pubmed/33096221/)\] \[[PMC7574776](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7574776/)\]
-### [Published preprints - week of November 23](/page/updates/#published.preprints)
-[Rajter JC](/search/?article=Rajter20)
-### Database Entries (Nov 23)
-Doi Y, Hibino M, et int., and Kondo M. [“A Prospective, Randomized, Open-Label Trial of Early versus Late Favipiravir Therapy in Hospitalized Patients with COVID-19.”](/search/?article=Doi20b) _Antimicrobial Agents and Chemotherapy_, 2020. [doi.org/10.1128/aac.01897-20](https://doi.org/10.1128/aac.01897-20). \[[PubMed32958718](https://www.ncbi.nlm.nih.gov/pubmed/32958718/)\]
-### Database Entries (Nov 23)
-Libster R, Perez Marc G, et int., and Polack FP. [“Prevention of severe COVID-19 in the elderly by early high-titer plasma.”](/search/?article=Libster20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.20.20234013](https://doi.org/10.1101/2020.11.20.20234013).
-### Database Entries (Nov 23)
-Shin YS, Lee JY, et int., and Park CM. [“Discovery of cyclic sulfonamide derivatives as potent inhibitors of SARS-CoV-2.”](/search/?article=Shin20) _Bioorganic & Medicinal Chemistry Letters_, 2020. [doi.org/10.1016/j.bmcl.2020.127667](https://doi.org/10.1016/j.bmcl.2020.127667). \[[PubMed33160024](https://www.ncbi.nlm.nih.gov/pubmed/33160024/)\] \[[PMC7640924](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7640924/)\]
-### Database Entries (Nov 23)
-Xiang Y, Nambulli S, et int., and Shi Y. [“Versatile and multivalent nanobodies efficiently neutralize SARS-CoV-2.”](/search/?article=Xiang20) _Science_, 2020. [doi.org/10.1126/science.abe4747](https://doi.org/10.1126/science.abe4747). \[[PubMed33154108](https://www.ncbi.nlm.nih.gov/pubmed/33154108/)\]
-### [Press Release (Nov 22)](/page/updates/#press.release)
-[Casirivimab and imdevimab EUA fact sheet for healthcare providers](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/press-release/Regeneron20201122.pdf)
-### Database Entries (Nov 20)
-Andreano E, Nicastri E, et int., and Rappuoli R. [“Extremely potent human monoclonal antibodies from convalescent Covid-19 patients.”](/search/?article=Andreano20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.07.328302](https://doi.org/10.1101/2020.10.07.328302).
-### Database Entries (Nov 20)
-Bracken CJ, Lim SA, et int., and Wells JA. [“Bi-paratopic and multivalent VH domains block ACE2 binding and neutralize SARS-CoV-2.”](/search/?article=Bracken20) _Nature Chemical Biology_, 2020. [doi.org/10.1038/s41589-020-00679-1](https://doi.org/10.1038/s41589-020-00679-1). \[[PubMed33082574](https://www.ncbi.nlm.nih.gov/pubmed/33082574/)\]
-### Database Entries (Nov 20)
-Tortorici MA, Beltramello M, et int., and Veesler D. [“Ultrapotent human antibodies protect against SARS-CoV-2 challenge via multiple mechanisms.”](/search/?article=Tortorici20) _Science_, 2020. [doi.org/10.1126/science.abe3354](https://doi.org/10.1126/science.abe3354). \[[PubMed32972994](https://www.ncbi.nlm.nih.gov/pubmed/32972994/)\]
-
-### [Clinical Trials (Nov 19)](/page/updates/#clinical.trials)
-[9 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-19)
-
-### Database Entries (Nov 19)
-Barnes CO, Jette CA, et int., and Bjorkman PJ. [“SARS-CoV-2 neutralizing antibody structures inform therapeutic strategies.”](/search/?article=Barnes20b) _Nature_, 2020. [doi.org/10.1038/s41586-020-2852-1](https://doi.org/10.1038/s41586-020-2852-1). \[[PubMed33045718](https://www.ncbi.nlm.nih.gov/pubmed/33045718/)\]
-### Database Entries (Nov 19)
-Van Damme E, De Meyer S, et int., and Van Loock M. [“In Vitro Activity of Itraconazole Against SARS-CoV-2.”](/search/?article=Damme20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.13.381194](https://doi.org/10.1101/2020.11.13.381194).
-### Database Entries (Nov 19)
-Gendrot M, Andreani J, et int., and Pradines B. [“In Vitro Antiviral Activity of Doxycycline against SARS-CoV-2.”](/search/?article=Gendrot20) _Molecules_, 2020. [doi.org/10.3390/molecules25215064](https://doi.org/10.3390/molecules25215064). \[[PubMed33142770](https://www.ncbi.nlm.nih.gov/pubmed/33142770/)\] \[[PMC7663271](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7663271/)\]
-### Database Entries (Nov 19)
-Wang S, Peng Y, et int., and Liu D. [“Characterization of neutralizing antibody with prophylactic and therapeutic efficacy against SARS-CoV-2 in rhesus monkeys.”](/search/?article=Wang20l) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-19568-1](https://doi.org/10.1038/s41467-020-19568-1). \[[PubMed33188207](https://www.ncbi.nlm.nih.gov/pubmed/33188207/)\] \[[PMC7666115](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7666115/)\]
-
-### [Published preprints - week of November 16](/page/updates/#published.preprints)
-[Hurlburt NK](/search/?article=Hurlburt20) (_Nature Communications_); [Sacco MD](/search/?article=Sacco20) (_Science Advances_); [Zhang Q](/search/?article=Zhang20e) (_Cell Discovery_)
-### Database Entries (Nov 17)
-Monk PD, Marsden RJ, et int., and Rodrigues PM. [“Safety and efficacy of inhaled nebulised interferon beta-1a (SNG001) for treatment of SARS-CoV-2 infection: a randomised, double-blind, placebo-controlled, phase 2 trial.”](/search/?article=Monk20) _The Lancet Respiratory Medicine_, 2020. [doi.org/10.1016/s2213-2600(20)30511-7](https://doi.org/10.1016/s2213-2600(20)30511-7). \[[PubMed33189161](https://www.ncbi.nlm.nih.gov/pubmed/33189161/)\]
-### Database Entries (Nov 17)
-Shi Y, Shuai L, et int., and Peng G. [“The Preclinical Inhibitor GS441524 in Combination with GC376 Efficaciously Inhibited the Proliferation of SARS-CoV-2 in the Mouse Respiratory Tract.”](/search/?article=Shi20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.12.380931](https://doi.org/10.1101/2020.11.12.380931).

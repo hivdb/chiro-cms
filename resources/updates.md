@@ -79,6 +79,8 @@ Instruction:
 ## Database Entries
 
 ### December 2020
+- December 28
+    - [“A Neutralizing Monoclonal Antibody for Hospitalized Patients with Covid-19.”](/search/?article=ACTIV-3_LY-CoV55520) New England Journal of Medicine, 2020. [doi.org/10.1056/NEJMoa2033130](https://doi.org/10.1056/NEJMoa2033130).
 - December 25
     - Xie X, Muruato AE, et int., and Shi P. [“A nanoluciferase SARS-CoV-2 for rapid neutralization testing and screening of anti-infective drugs for COVID-19.”](/search/?article=Xie20) _Nature Communications_, 2020. [doi.org/10.1038/s41467-020-19055-7](https://doi.org/10.1038/s41467-020-19055-7). \[[PubMed33060595](https://www.ncbi.nlm.nih.gov/pubmed/33060595/)\] \[[PMC7567097](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7567097/)\]
 - December 18
@@ -942,12 +944,21 @@ Instruction:
 
 ## Clinical Trials
 ### November 2020
+- December 24
+    - [8 clinical trials were added.](/clinical-trials/?fromDate=2020-12-24)
+    - NCT04674566
+    - NCT04676971
+    - NCT04678739
+    - NCT04679350
+    - NCT04679415
+    - NCT04681053
+    - NCT04681430
+    - NCT04683328
 - December 17
-    - [9 clinical trials were added.](/clinical-trials/?fromDate=2020-12-17)
+    - [8 clinical trials were added.](/clinical-trials/?fromDate=2020-12-17)
     - EUCTR2020-001570-30-FR
     - EUCTR2020-003872-42-IT
     - ISRCTN27106947
-    - NCT04663737
     - NCT04666441
     - NCT04668469
     - NCT04669015
