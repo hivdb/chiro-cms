@@ -66,6 +66,7 @@ annotCategories:
   - EY6A epitope
   - Fab-298 epitope
   - Fab-52 epitope
+  - FC05 epitope
   - H014 epitope
   - H11-D4 epitope
   - H11-H4 epitope
@@ -73,6 +74,7 @@ annotCategories:
   - MR17-K99Y epitope
   - nb20 epitope
   - Nb6 epitope
+  - P17 epitope
   - P2B-2F6 epitope
   - P2C-1A3 epitope
   - P2C-1F11 epitope
@@ -88,6 +90,7 @@ annotCategories:
   - S309 epitope
   - Sb23 epitope
   - SR4 epitope
+  - STE90-C11 epitope
   - Ty1 epitope
 - name: polymorphism
   dropdown: true
