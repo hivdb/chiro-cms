@@ -79,6 +79,8 @@ Instruction:
 ## Database Entries
 
 ### December 2020
+- December 30
+    - Ashhurst AS, Tang AH, et int., and Payne RJ. [“Potent in vitro anti-SARS-CoV-2 activity by gallinamide A and analogues via inhibition of cathepsin L.”](/search/?article=Ashhurst20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.23.424111](https://doi.org/10.1101/2020.12.23.424111).
 - December 28
     - [“A Neutralizing Monoclonal Antibody for Hospitalized Patients with Covid-19.”](/search/?article=ACTIV-3_LY-CoV55520) New England Journal of Medicine, 2020. [doi.org/10.1056/NEJMoa2033130](https://doi.org/10.1056/NEJMoa2033130).
 - December 25
@@ -822,6 +824,8 @@ Instruction:
 (Studies in CoV-RDB originally published as preprints)
 
 ### December 2020
+- December 30
+    - Curreli F, Victor SMB, et int., and Debnath AK. [“Stapled Peptides Based on Human Angiotensin-Converting Enzyme 2 (ACE2) Potently Inhibit SARS-CoV-2 Infection In Vitro.”](/search/?article=Curreli20) _mBio_, 2020. [doi.org/10.1128/mbio.02451-20](https://doi.org/10.1128/mbio.02451-20). \[[PubMed33310780](https://www.ncbi.nlm.nih.gov/pubmed/33310780/)\]
 - December 22
     - Mitjà O, Corbacho-Monné M, et int., and Clotet B. [“A Cluster-Randomized Trial of Hydroxychloroquine for Prevention of Covid-19.”](/search/?article=Mitja20) _New England Journal of Medicine_, 2020. [doi.org/10.1056/nejmoa2021801](https://doi.org/10.1056/nejmoa2021801). \[[PubMed33289973](https://www.ncbi.nlm.nih.gov/pubmed/33289973/)\] \[[PMC7722693](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7722693/)\]
 - December 21

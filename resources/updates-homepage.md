@@ -22,6 +22,8 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Dec 30)
+Ashhurst AS, Tang AH, et int., and Payne RJ. [“Potent in vitro anti-SARS-CoV-2 activity by gallinamide A and analogues via inhibition of cathepsin L.”](/search/?article=Ashhurst20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.23.424111](https://doi.org/10.1101/2020.12.23.424111).
 ### Database Entries (Dec 28)
 [“A Neutralizing Monoclonal Antibody for Hospitalized Patients with Covid-19.”](/search/?article=ACTIV-3_LY-CoV55520) New England Journal of Medicine, 2020. [doi.org/10.1056/NEJMoa2033130](https://doi.org/10.1056/NEJMoa2033130).
 ### Database Entries (Dec 25)
@@ -84,23 +86,3 @@ Kumar R, Khandelwal N, et int., and Kumar N. [“Emetine as an antiviral agent s
 Outlaw VK, Bovier FT, et int., and Porotto M. [“Inhibition of Coronavirus Entry In Vitro and Ex Vivo by a Lipid-Conjugated Peptide Derived from the SARS-CoV-2 Spike Glycoprotein HRC Domain.”](/search/?article=Outlaw20) _mBio_, 2020. [doi.org/10.1128/mbio.01935-20](https://doi.org/10.1128/mbio.01935-20). \[[PubMed33082259](https://www.ncbi.nlm.nih.gov/pubmed/33082259/)\] \[[PMC7587434](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7587434/)\]
 ### Database Entries (Dec 03)
 Udwadia ZF, Singh P, et int., and Tandon M. [“Efficacy and Safety of Favipiravir, an Oral RNA-Dependent RNA Polymerase Inhibitor, in Mild-to-Moderate COVID-19: A Randomized, Comparative, Open-Label, Multicenter, Phase 3 Clinical Trial.”](/search/?article=Udwadia20) _International Journal of Infectious Diseases_, 2020. [doi.org/10.1016/j.ijid.2020.11.142](https://doi.org/10.1016/j.ijid.2020.11.142). \[[PubMed33212256](https://www.ncbi.nlm.nih.gov/pubmed/33212256/)\] \[[PMC7668212](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7668212/)\]
-
-### [Published preprints - week of November 30](/page/updates/#published.preprints)
-[Rosenke K](/search/?article=Rosenke20b);[Weisblum Y](/search/?article=Weisblum20);[Glasgow20](/search/?article=Glasgow20);[Xiao20](/search/?article=Xiao20);[Luban20](/search/?article=Luban20);[Liu20g](/search/?article=Liu20g)
-
-### Database Entries (Nov 29)
-de Melo GD, Lazarini F, et int., and Bourhy H. [“Anti-COVID-19 efficacy of ivermectin in the golden hamster.”](/search/?article=Melo20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.21.392639](https://doi.org/10.1101/2020.11.21.392639).
-### Database Entries (Nov 29)
-Schloer S, Brunotte L, et int., and Rescher U. [“Drug synergy of combinatory treatment with remdesivir and the repurposed drugs fluoxetine and itraconazole effectively impairs SARS-CoV-2 infection in vitro.”](/search/?article=Schloer20) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.16.342410](https://doi.org/10.1101/2020.10.16.342410).
-### Database Entries (Nov 29)
-Touret F, Driouich J, et int., and Nougairède A. [“Preclinical evaluation of Imatinib does not support its use as an antiviral drug against SARS-CoV-2.”](/search/?article=Touret20b) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.17.386904](https://doi.org/10.1101/2020.11.17.386904).
-### Database Entries (Nov 29)
-Wang M, Zhao Y, et int., and Hu K. [“Treatment of Coronavirus Disease 2019 Patients With Prolonged Postsymptomatic Viral Shedding With Leflunomide: A Single-center Randomized Controlled Clinical Trial.”](/search/?article=Wang20n) _Clinical Infectious Diseases_, 2020. [doi.org/10.1093/cid/ciaa1417](https://doi.org/10.1093/cid/ciaa1417). \[[PubMed32955081](https://www.ncbi.nlm.nih.gov/pubmed/32955081/)\] \[[PMC7543328](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7543328/)\]
-### [Clinical Trials (Nov 26)](/page/updates/#clinical.trials)
-[7 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-11-26)
-### Database Entries (Nov 26)
-Simonovich VA, Burgos Pratx LD, et int., and Belloso WH. [“A Randomized Trial of Convalescent Plasma in Covid-19 Severe Pneumonia.”](/search/?article=Simonovich20) _New England Journal of Medicine_, 2020. [doi.org/10.1056/nejmoa2031304](https://doi.org/10.1056/nejmoa2031304). [PubMed33232588](https://www.ncbi.nlm.nih.gov/pubmed/33232588/)
-### Database Entries (Nov 25)
-Busnadiego I, Fernbach S, et int., and Hale BG. [“Antiviral Activity of Type I, II, and III Interferons Counterbalances ACE2 Inducibility and Restricts SARS-CoV-2.”](/search/?article=Busnadiego20) _mBio_, 2020. [doi.org/10.1128/mbio.01928-20](https://doi.org/10.1128/mbio.01928-20). \[[PubMed32913009](https://www.ncbi.nlm.nih.gov/pubmed/32913009/)\] \[[PMC7484541](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7484541/)\]
-### Database Entries (Nov 25)
-Jagannathan P, Andrews J, et int., and Singh U. [“Peginterferon Lambda-1a for treatment of outpatients with uncomplicated COVID-19: a randomized placebo-controlled trial.”](/search/?article=Jagannathan20) _medRxiv_, 2020. [doi.org/10.1101/2020.11.18.20234161](https://doi.org/10.1101/2020.11.18.20234161).
