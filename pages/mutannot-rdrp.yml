@@ -3,4 +3,6 @@ content:
   _resource: mutannot-rdrp-viewer.md
 data:
   _resource: mutannot-rdrp.json
+comments:
+  _resource: rdrp-comments.json
 ...

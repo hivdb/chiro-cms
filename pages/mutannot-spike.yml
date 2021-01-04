@@ -3,4 +3,6 @@ content:
   _resource: mutannot-spike-viewer.md
 data:
   _resource: mutannot-spike.json
+comments:
+  _resource: spike-comments.json
 ...
