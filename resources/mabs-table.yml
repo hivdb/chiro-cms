@@ -1341,8 +1341,8 @@
       givenNames: Maximilian
     year: 2020
     journal: bioRxiv
-  - freeText: B6
-  antibodies: {}
+  antibodies:
+  - name: B6
   source: |-
     Mice immunized with MERS-CoV trimeric S followed by SARS-CoV trimeric S
   description: |-
