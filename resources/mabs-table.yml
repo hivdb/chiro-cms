@@ -76,13 +76,13 @@
       givenNames: Yunlong
     year: 2020
     journal: Cell
-  - doi: 10.1101/2020.07.09.195263
+  - doi: 10.1016/j.cell.2020.09.035
     refId: Du20
     firstAuthor:
       surname: Du
       givenNames: Shuo
     year: 2020
-    journal: bioRxiv
+    journal: Cell
   antibodies:
   - name: BD-368-2
     ec50: 15
@@ -1338,7 +1338,7 @@
     refId: Veesler20
     firstAuthor:
       surname: Sauer
-      givenNames: Maximilian M.
+      givenNames: Maximilian
     year: 2020
     journal: bioRxiv
   - freeText: B6
