@@ -22,6 +22,12 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Jan 05)
+Sauer M, Park Y, et int., and Veesler D. [“Structural basis for broad coronavirus neutralization.”](/search/?article=Veesler20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.29.424482](https://doi.org/10.1101/2020.12.29.424482).
+### Database Entries (Jan 05)
+Winkler ES, Gilchuk P, et int., and Diamond MS. [“Human neutralizing antibodies against SARS-CoV-2 require intact Fc effector functions and monocytes for optimal therapeutic protection.”](/search/?article=Winkler20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.28.424554](https://doi.org/10.1101/2020.12.28.424554).
+### [Clinical Trials (Dec 31)](/page/updates/#clinical.trials)
+[2 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-12-31)
 ### Database Entries (Dec 30)
 Ashhurst AS, Tang AH, et int., and Payne RJ. [“Potent in vitro anti-SARS-CoV-2 activity by gallinamide A and analogues via inhibition of cathepsin L.”](/search/?article=Ashhurst20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.23.424111](https://doi.org/10.1101/2020.12.23.424111).
 ### Database Entries (Dec 28)

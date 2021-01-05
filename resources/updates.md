@@ -78,6 +78,11 @@ Instruction:
 
 ## Database Entries
 
+### January 2021
+- January 05
+    - Sauer M, Park Y, et int., and Veesler D. [“Structural basis for broad coronavirus neutralization.”](/search/?article=Veesler20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.29.424482](https://doi.org/10.1101/2020.12.29.424482).
+    - Winkler ES, Gilchuk P, et int., and Diamond MS. [“Human neutralizing antibodies against SARS-CoV-2 require intact Fc effector functions and monocytes for optimal therapeutic protection.”](/search/?article=Winkler20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.28.424554](https://doi.org/10.1101/2020.12.28.424554).
+
 ### December 2020
 - December 30
     - Ashhurst AS, Tang AH, et int., and Payne RJ. [“Potent in vitro anti-SARS-CoV-2 activity by gallinamide A and analogues via inhibition of cathepsin L.”](/search/?article=Ashhurst20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.23.424111](https://doi.org/10.1101/2020.12.23.424111).
@@ -824,6 +829,8 @@ Instruction:
 (Studies in CoV-RDB originally published as preprints)
 
 ### January 2021
+- January 05
+    - Du S, Cao Y, et int., and Qin C. [“Structurally Resolved SARS-CoV-2 Antibody Shows High Efficacy in Severely Infected Hamsters and Provides a Potent Cocktail Pairing Strategy.”](/search/?article=Du20) _Cell_, 2020. [doi.org/10.1016/j.cell.2020.09.035](https://doi.org/10.1016/j.cell.2020.09.035). \[[PubMed32970990](https://www.ncbi.nlm.nih.gov/pubmed/32970990/)\] \[[PMC7489885](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489885/)\]
 - January 04
     - Baum A, Ajithdoss D, et int., and Kyratsous CA. [“REGN-COV2 antibodies prevent and treat SARS-CoV-2 infection in rhesus macaques and hamsters.”](/search/?article=Baum20b) _Science_, 2020. [doi.org/10.1126/science.abe2402](https://doi.org/10.1126/science.abe2402). \[[PubMed33037066](https://www.ncbi.nlm.nih.gov/pubmed/33037066/)\]
     - Chen CZ, Xu M, et int., and Whittaker GR. [“Identifying SARS-CoV-2 Entry Inhibitors through Drug Repurposing Screens of SARS-S and MERS-S Pseudotyped Particles.”](/search/?article=Chen20f) _ACS Pharmacology & Translational Science_, 2020. [doi.org/10.1021/acsptsci.0c00112](https://doi.org/10.1021/acsptsci.0c00112). \[[PubMed33330839](https://www.ncbi.nlm.nih.gov/pubmed/33330839/)\] \[[PMC7586456](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7586456/)\]
@@ -961,7 +968,13 @@ Instruction:
 <!-- start of clinical trials -->
 
 ## Clinical Trials
-### November 2020
+
+### December 2020
+
+- December 31
+    - [2 clinical trials were added.](/clinical-trials/?fromDate=2020-12-31)
+    - NCT04685512
+    - NCT04691180
 - December 24
     - [8 clinical trials were added.](/clinical-trials/?fromDate=2020-12-24)
     - NCT04674566
@@ -1007,6 +1020,9 @@ Instruction:
     - NCT04652648
     - NCT04652765
     - PER-067-20
+
+### November 2020
+
 - November 26
     - [7 clinical trials were added.](/clinical-trials/?fromDate=2020-11-26)
     - NCT04637828
