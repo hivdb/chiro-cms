@@ -1,0 +1,16 @@
+name: "lineage Cluster 5"
+label: "Cluster 5"
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- refID: Lassauniere20
+  author: Lassaunière
+  year: 2020
+  section: 'Figure 1'
+  aminoAcids:
+  - 69d
+  - 70d
+  - 453F
+  - 692V
+  - 1229I

@@ -111,6 +111,7 @@ annotCategories:
   annotNames:
   - "lineage B.1.1.7"
   - "lineage 501.V2"
+  - "lineage Cluster 5"
 - name: resistance
   display: mAb DRMs
   dropdown: true
