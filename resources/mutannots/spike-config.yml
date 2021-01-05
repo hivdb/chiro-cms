@@ -101,12 +101,23 @@ annotCategories:
   annotNames:
   - var2000
   - var1000
+- name: lineages
+  display: lineages
+  dropdown: true
+  defaultAnnots: []
+  multiSelect: true
+  annotStyle: aminoAcids
+  color: '#483d8b'
+  annotNames:
+  - "lineage B.1.1.7"
+  - "lineage 501.V2"
 - name: resistance
   display: mAb DRMs
   dropdown: true
   defaultAnnots: []
   multiSelect: true
   annotStyle: aminoAcids
+  color: '#d23b6f'
   annotNames:
   - resistance 1-20
   - resistance 157
@@ -175,6 +186,7 @@ annotCategories:
 conditionalComments:
 - commentName: subdomain
   rank: 1  # highest: 1
+  requireOtherComment: true  # only include when there's another comment
   condition:
     func: hasAnnotExceptSubgroups
     args: [subdomain, S1/S2, "S2'"]
@@ -226,20 +238,22 @@ conditionalComments:
   template: >-
     the position of a N-linked glycosylation sequon
   triggeredAAs: "*"
-- commentName: antibody
+- commentName: epitopes
   rank: 5
   condition:
     func: hasAnnotCategory
-    args: [antibody]
+    args: [epitopes]
   prefix:
     func: position
   template: >-
     an epitope binding to $ANTIBODIES
   variables:
     ANTIBODIES:
-      func: joinAnnotCatSubgroup
-      args: [antibody]
+      func: joinSubgroupOfAnnotCat
+      args: [epitopes]
       keywords:
+        singular_prefix: mAb
+        plural_prefix: mAbs
         footnote: true
   triggeredAAs: "*"
 - commentName: cysteine
@@ -252,140 +266,31 @@ conditionalComments:
   template: >-
     one of the nine cysteine residues found in RBD
   triggeredAAs: "*"
-- commentName: escapeMutantsACE2
+- commentName: resistance
   rank: 7
   condition:
-    func: all
-    args:
-    - func: hasAnnot
-      args: [escape mutants]
-    - func: hasAnnot
-      args: [ACE2]
+    func: hasAnnotCategory
+    args: [resistance]
   prefix:
-    func: mutation
-    args: [escape mutants]
+    func: mutationOfAnnotCat
+    args: [resistance]
   templateSingular: >-
-    a mutation that escape ACE2-competing neutralizing mAbs that bind to RBD
+    a mutation that escape neutralization from $ANTIBODIES
   templatePlural: >-
-    mutations that escape ACE2-competing neutralizing mAbs that bind to RBD
-  footnote: ${FN}
+    mutations that escape neutralization from $ANTIBODIES
   variables:
-    FN:
-      func: getCitations
-      args: [escape mutants]
-  triggeredAAs:
-    func: mutation
-    args: [escape mutants]
-- commentName: escapeMutantsRBM
-  rank: 8
-  condition:
-    func: all
-    args:
-    - func: hasAnnot
-      args: [escape mutants]
-    - func: hasAnnot
-      args: [subdomain RBM]
-    - func: not
-      args:
-      - func: hasAnnot
-        args: [ACE2]
-  prefix:
-    func: mutation
-    args: [escape mutants]
-  templateSingular: >-
-    a mutation that escape neutralizing mAbs that bind to RBM
-  templatePlural: >-
-    mutations that escape neutralizing mAbs that bind to RBM
-  footnote: ${FN}
-  variables:
-    FN:
-      func: getCitations
-      args: [escape mutants]
-  triggeredAAs:
-    func: mutation
-    args: [escape mutants]
-- commentName: escapeMutantsRBD
-  rank: 9
-  condition:
-    func: all
-    args:
-    - func: hasAnnot
-      args: [escape mutants]
-    - func: hasAnnot
-      args: [subdomain]
+    ANTIBODIES:
+      func: joinAnnotLabelOfAnnotCat
+      args: [resistance]
       keywords:
-        subgroup: RBD
-    - func: not
-      args:
-      - func: hasAnnot
-        args: [ACE2]
-    - func: not
-      args:
-      - func: hasAnnot
-        args: [subdomain RBM]
-  prefix:
-    func: mutation
-    args: [escape mutants]
-  templateSingular: >-
-    a mutation that escape neutralizing mAbs that bind to RBD
-  templatePlural: >-
-    mutations that escape neutralizing mAbs that bind to RBD
-  footnote: ${FN}
-  variables:
-    FN:
-      func: getCitations
-      args: [escape mutants]
+        singular_prefix: mAb
+        plural_prefix: mAbs
+        footnote: true
   triggeredAAs:
-    func: mutation
-    args: [escape mutants]
-- commentName: escapeMutantsNTD
-  rank: 10
-  condition:
-    func: all
-    args:
-    - func: hasAnnot
-      args: [escape mutants]
-    - func: hasAnnot
-      args: [subdomain]
-      keywords:
-        subgroup: NTD
-  prefix:
-    func: mutation
-    args: [escape mutants]
-  templateSingular: >-
-    a mutation that escape neutralizing mAbs that bind to NTD
-  templatePlural: >-
-    mutations that escape neutralizing mAbs that bind to NTD
-  footnote: ${FN}
-  variables:
-    FN:
-      func: getCitations
-      args: [escape mutants]
-  triggeredAAs:
-    func: mutation
-    args: [escape mutants]
-- commentName: neutralizing-sera-resistance
-  rank: 11
-  condition:
-    func: hasAnnot
-    args: [neutralizing sera resistance]
-  prefix:
-    func: mutation
-    args: [neutralizing sera resistance]
-  templateSingular: >-
-    a mutation that result in resistance to aliquotes of neutralizing sera
-  templatePlural: >-
-    mutations that result in resistance to aliquotes of neutralizing sera
-  footnote: ${FN}
-  variables:
-    FN:
-      func: getCitations
-      args: [neutralizing sera resistance]
-  triggeredAAs:
-    func: mutation
-    args: [neutralizing sera resistance]
+    func: mutationOfAnnotCat
+    args: [resistance]
 - commentName: polymorphism
-  rank: 12
+  rank: 8
   condition:
     func: hasAnnot
     args: [var2000]
@@ -399,3 +304,31 @@ conditionalComments:
   triggeredAAs:
     func: mutation
     args: [var2000]
+  footnote: ${FN}
+  variables:
+    FN:
+      func: getCitations
+      args: [var2000]
+- commentName: lineage
+  rank: 9
+  condition:
+    func: hasAnnotCategory
+    args: [lineages]
+  prefix:
+    func: mutationOfAnnotCat
+    args: [lineages]
+  templateSingular: >-
+    a mutation that observed in $LINEAGES
+  templatePlural: >-
+    mutations that observed in $LINEAGES
+  variables:
+    LINEAGES:
+      func: joinAnnotLabelOfAnnotCat
+      args: [lineages]
+      keywords:
+        singular_prefix: lineage
+        plural_prefix: lineages
+        footnote: true
+  triggeredAAs:
+    func: mutationOfAnnotCat
+    args: [lineages]

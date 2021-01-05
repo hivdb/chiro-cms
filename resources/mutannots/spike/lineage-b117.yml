@@ -1,0 +1,34 @@
+name: "lineage B.1.1.7"
+label: "B.1.1.7"
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- refID: Rambaut20
+  author: Rambaut
+  year: 2020
+  section: 'Table 1'
+  aminoAcids:
+  - 69d
+  - 70d
+  - 144d
+  - 501Y
+  - 570D
+  - 681H
+  - 716I
+  - 982A
+  - 1118H
+- refID: Chand20
+  author: Chand
+  year: 2020
+  section: 'Table 1'
+  aminoAcids:
+  - 69d
+  - 70d
+  - 144d
+  - 501Y
+  - 570D
+  - 681H
+  - 716I
+  - 982A
+  - 1118H

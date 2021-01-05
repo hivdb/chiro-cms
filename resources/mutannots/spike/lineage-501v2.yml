@@ -1,0 +1,14 @@
+name: "lineage 501.V2"
+label: "501.V2"
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- refID: AbdoolKarim20
+  author: Abdool Karim
+  year: 2020
+  section: 'Page 9'
+  aminoAcids:
+  - 417N
+  - 484K
+  - 501Y

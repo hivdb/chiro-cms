@@ -9,9 +9,10 @@ VERSION = '20200924115632'
 
 
 def get_citation_id(citation, reverse_citations):
-    doi = citation['doi']
+    doi = citation.get('doi')
+    refid = citation.get('refID')
     section = citation['section']
-    reverse_citation = reverse_citations.setdefault(doi, {
+    reverse_citation = reverse_citations.setdefault(doi or refid, {
         'idx': len(reverse_citations) + 1,
         'sections': {}
     })
@@ -84,7 +85,10 @@ def parse_mut(mut):
     match = re.match(
         r'^[A-Z]?(\d+)([A-Zid*]+|[A-Z*]_[A-Z*]+)$', mut)
     if not match:
-        raise ValueError('Invalid mutation string: {!r}'.format(mut))
+        raise ValueError(
+            'Invalid mutation string: {!r}; use "i" or "d" for indels'
+            .format(mut)
+        )
     pos, aas = match.groups()
     pos = int(pos)
     if '_' in aas:
@@ -176,7 +180,8 @@ def yield_mutannots_json(resource_dir):
                         **cite_id,
                         'author': cite['author'],
                         'year': cite['year'],
-                        'doi': cite['doi'],
+                        'doi': cite.get('doi'),
+                        'refID': cite.get('refID'),
                         'section': cite['section']
                     }
                     for pos in cite_pos:

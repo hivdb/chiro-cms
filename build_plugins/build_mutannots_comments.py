@@ -33,6 +33,11 @@ def cond_all(*subcond_defs, posdata, payload):
     return True
 
 
+def readable_aas(aas):
+    return [aa.replace('d', 'del').replace('i', 'ins')
+            for aa in aas]
+
+
 def cond_any(*subcond_defs, posdata, payload):
     for subcond_def in subcond_defs:
         func, args, kw = get_func_args(subcond_def, CONDITION_FUNCS)
@@ -103,13 +108,44 @@ def prefix_mutation(annot_name, *, posdata, payload):
             text='{refaa}{pos}{aas} {be}'.format(
                 refaa=refseq[pos - 1],
                 pos=pos,
-                aas='/'.join(sorted(aas)),
+                aas='/'.join(readable_aas(sorted(aas))),
                 be='are' if is_plural else 'is'
             ),
             is_plural=is_plural
         )
     raise ValueError(
         'Position {} does not have annotation {}'.format(pos, annot_name)
+    )
+
+
+def prefix_mutation_of_annotcat(cat_name, *, posdata, payload):
+    annot_names = set()
+    for annot in payload['annotations']:
+        if annot['category'] != cat_name:
+            continue
+        annot_names.add(annot['name'])
+
+    refseq = payload['refSequence']
+    pos = posdata['position']
+    aas = set()
+    for annot in posdata['annotations']:
+        if annot['name'] not in annot_names:
+            continue
+        aas |= set(annot['aminoAcids'])
+    if not aas:
+        raise ValueError(
+            'Field aminoAcids of position {}, category {} is empty',
+            pos, cat_name
+        )
+    is_plural = len(aas) > 1
+    return Prefix(
+        text='{refaa}{pos}{aas} {be}'.format(
+            refaa=refseq[pos - 1],
+            pos=pos,
+            aas='/'.join(readable_aas(sorted(aas))),
+            be='are' if is_plural else 'is'
+        ),
+        is_plural=is_plural
     )
 
 
@@ -130,6 +166,26 @@ def triggered_aas_mutation(annot_name, *, posdata, payload):
     )
 
 
+def triggered_aas_mutation_of_annot_cat(cat_name, *, posdata, payload):
+    pos = posdata['position']
+    annot_names = set()
+    for annot in payload['annotations']:
+        if annot['category'] != cat_name:
+            continue
+        annot_names.add(annot['name'])
+    aas = set()
+    for annot in posdata['annotations']:
+        if annot['name'] not in annot_names:
+            continue
+        aas |= set(annot['aminoAcids'])
+    if not aas:
+        raise ValueError(
+            'Field aminoAcids of position {}, category {} is empty',
+            pos, cat_name
+        )
+    return ''.join(aas)
+
+
 def variable_get_citations(annot_name, *, posdata, payload):
     citations = []
     all_citations = payload['citations']
@@ -139,7 +195,10 @@ def variable_get_citations(annot_name, *, posdata, payload):
         citation_ids = annot['citationIds']
         for cid in citation_ids:
             cite = all_citations[cid]
-            citations.append('[^{doi}]'.format(**cite))
+            if cite.get('doi'):
+                citations.append('[^{doi}]'.format(**cite))
+            else:
+                citations.append('[^{refID}]'.format(**cite))
         break
     return ''.join(citations)
 
@@ -159,6 +218,7 @@ LAST_PUNC_WILDCARD = '\x13\x13LAST_PUNC_WILDCARD\x13\x13'
 
 
 def natlang_join(items, footnotes=None, *,
+                 conj='and',
                  last_punc=LAST_PUNC_WILDCARD, oxford_comma=False):
     size = len(items)
     if size == 0:
@@ -182,18 +242,33 @@ def natlang_join(items, footnotes=None, *,
         else:
             buffers[-1] = buffers[-1].replace(LAST_PUNC_WILDCARD, '')
         if LAST_PUNC_WILDCARD in items[-1]:
-            buffers.append('{} and {}'.format(footnotes[-2], items[-1]))
+            buffers.append('{} {} {}'.format(footnotes[-2], conj, items[-1]))
         else:
-            buffers.append('{} and {}{}'.format(
-                footnotes[-2], items[-1], LAST_PUNC_WILDCARD
+            buffers.append('{} {} {}{}'.format(
+                footnotes[-2], conj, items[-1], LAST_PUNC_WILDCARD
             ))
     buffers[-1] = buffers[-1].replace(LAST_PUNC_WILDCARD, last_punc)
     buffers.append(footnotes[-1])
     return ''.join(buffers)
 
 
+def get_prefix_by_gram_num(length, singular, plural):
+    if length <= 1:
+        prefix = singular
+    else:
+        prefix = plural
+    if prefix:
+        prefix = prefix + ' '
+    else:
+        prefix = ''
+    return prefix
+
+
 def variable_join_annot_cat_subgroup(
-    cat_name, *, footnote=False, posdata, payload
+    cat_name, *, conj='or', footnote=False,
+    singular_prefix=None,
+    plural_prefix=None,
+    posdata, payload
 ):
     pos = posdata['position']
     subgroups = []
@@ -212,7 +287,43 @@ def variable_join_annot_cat_subgroup(
                     footnotes.append('')
                 break
     if len(subgroups) > 0:
-        return natlang_join(subgroups, footnotes)
+        prefix = get_prefix_by_gram_num(
+            len(subgroups), singular_prefix, plural_prefix)
+
+        return prefix + natlang_join(subgroups, footnotes, conj=conj)
+    else:
+        raise ValueError(
+            'Position {} does not have any annotation belong to {}'
+            .format(pos, cat_name)
+        )
+
+
+def variable_join_annot_label_of_annot_cat(
+    cat_name, *, conj='or', footnote=False,
+    singular_prefix=None,
+    plural_prefix=None,
+    posdata, payload
+):
+    pos = posdata['position']
+    labels = []
+    footnotes = []
+    for annot in payload['annotations']:
+        if annot['category'] != cat_name:
+            continue
+        for posannot in posdata['annotations']:
+            if posannot['name'] == annot['name']:
+                labels.append(annot['label'])
+                if footnote:
+                    footnotes.append(variable_get_citations(
+                        annot['name'], posdata=posdata, payload=payload
+                    ))
+                else:
+                    footnotes.append('')
+                break
+    if len(labels) > 0:
+        prefix = get_prefix_by_gram_num(
+            len(labels), singular_prefix, plural_prefix)
+        return prefix + natlang_join(labels, footnotes, conj=conj)
     else:
         raise ValueError(
             'Position {} does not have any annotation belong to {}'
@@ -233,18 +344,21 @@ CONDITION_FUNCS = {
 
 PREFIX_FUNCS = {
     'position': prefix_position,
-    'mutation': prefix_mutation
+    'mutation': prefix_mutation,
+    'mutationOfAnnotCat': prefix_mutation_of_annotcat
 }
 
 
 VARIABLE_FUNCS = {
     'getCitations': variable_get_citations,
     'getSubgroup': variable_get_subgroup,
-    'joinAnnotCatSubgroup': variable_join_annot_cat_subgroup
+    'joinSubgroupOfAnnotCat': variable_join_annot_cat_subgroup,
+    'joinAnnotLabelOfAnnotCat': variable_join_annot_label_of_annot_cat
 }
 
 TRIGGERED_AAS_FUNCS = {
-    'mutation': triggered_aas_mutation
+    'mutation': triggered_aas_mutation,
+    'mutationOfAnnotCat': triggered_aas_mutation_of_annot_cat
 }
 
 
@@ -280,11 +394,18 @@ def extract_triggered_aas(triggered_aas_def, posdata, payload):
 def build_references_markdown(payload):
     buffers = []
     for citation in payload['citations'].values():
-        buffers.append(
-            '[^{doi}]: {author} {year}, '
-            '[doi.org/{doi}](https://doi.org/{doi}).'
-            .format(**citation)
-        )
+        if citation.get('doi'):
+            buffers.append(
+                '[^{doi}]: {author} {year}, '
+                '[doi.org/{doi}](https://doi.org/{doi}).'
+                .format(**citation)
+            )
+        else:
+            buffers.append(
+                '[^{refID}]: {author} {year}.'
+                .format(**citation)
+            )
+
     return '\n'.join(buffers)
 
 
@@ -297,6 +418,7 @@ def build_mutannots_comments(resource_dir, buildres_dir, **kw):
         refseq = payload['refSequence']
 
         for posdata in payload['positions']:
+            should_include = False
             position = posdata['position']
             refaa = refseq[position - 1]
             par_comments = defaultdict(list)
@@ -304,9 +426,12 @@ def build_mutannots_comments(resource_dir, buildres_dir, **kw):
             triggered_aas = set()
 
             for cmt_def in cond_comments:
+                needother = cmt_def.get('requireOtherComment', False)
                 cond_def = cmt_def['condition']
                 if not check_condition(cond_def, posdata, payload):
                     continue
+                if not needother:
+                    should_include = True
                 prefix = cmt_def['prefix']
                 prefix = format_prefix(prefix, posdata, payload)
 
@@ -342,10 +467,11 @@ def build_mutannots_comments(resource_dir, buildres_dir, **kw):
             for prefix, all_text in par_comments.items():
                 all_fn = par_footnotes[prefix]
                 comment_text = natlang_join(
-                    all_text, all_fn, last_punc='.', oxford_comma=True)
+                    all_text, all_fn, conj='and',
+                    last_punc='.', oxford_comma=True)
                 pos_comments.append('{} {}'.format(prefix, comment_text))
 
-            if pos_comments:
+            if should_include and pos_comments:
                 if refaa in triggered_aas:
                     triggered_aas.remove(refaa)
                 all_comments.append({
