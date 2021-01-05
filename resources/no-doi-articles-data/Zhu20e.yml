@@ -1,0 +1,26 @@
+nickname: Zhu20e
+url: https://arxiv.org/abs/2007.12242
+title: Mining of high throughput screening database reveals AP-1 and autophagy pathways as potential targets for COVID-19 therapeutics
+journal: q-bio
+publisher: ArXiv.org
+authors:
+  - given: Hu
+    family: Zhu
+  - given: Catherine Z
+    family: Chen
+  - given: Srilatha
+    family: Sakamuru
+  - given: Anton
+    family: Simeonov
+  - given: Mathew D
+    family: Hall
+  - given: Menghang
+    family: Xia
+  - given: Wei
+    family: Zheng
+  - given: Ruili
+    family: Huang
+year: 2020
+publish_date: "2020-07-23"
+abstract: |-
+  The recent global pandemic of Coronavirus Disease 2019 (COVID-19) caused by the new coronavirus SARS-CoV-2 presents an urgent need for new therapeutic candidates. Many efforts have been devoted to screening existing drug libraries with the hope to repurpose approved drugs as potential treatments for COVID-19. However, the antiviral mechanisms of action for the drugs found active in these phenotypic screens are largely unknown. To deconvolute the viral targets for more effective anti-COVID-19 drug development, we mined our in-house database of approved drug screens against 994 assays and compared their activity profiles with the drug activity profile in a cytopathic effect (CPE) assay of SARS-CoV-2. We found that the autophagy and AP-1 signaling pathway activity profiles are significantly correlated with the anti-SARS-CoV-2 activity profile. In addition, a class of neurology/psychiatry drugs was found significantly enriched with anti-SARS-CoV-2 activity. Taken together, these results have provided new insights into SARS-CoV-2 infection and potential targets for COVID-19 therapeutics.
