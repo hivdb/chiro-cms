@@ -734,10 +734,14 @@
   - name: COV2-2130
     ec50: 105
   - name: COV2-2381
+  - name: COV2-2050
+    ec50: 125
+  - name: COV2-2050-LALA-PG
+    ec50: 157
   source: |-
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
   description: |-
-    COV2-2196 and COV2-2130 are ACE2-competing mAbs that bind to nonoverlapping RBD epitopes. COV2-2196 binds RBD in the up configuration; COV2-2130 binds RBD in the up and down configuration. Each mAb reduces weight loss and lung virus levels in a mouse prevention model. COV2-2196 reduces lung virus levels in rhesus macaques. A modified versions of COV2-2196 and COV2-2130 (AZD8895 and AZD1061; aka AZD7442) have begun phase III clinical trials.
+    COV2-2196 and COV2-2130 are ACE2-competing mAbs that bind to nonoverlapping RBD epitopes. COV2-2196 binds RBD in the up configuration; COV2-2130 binds RBD in the up and down configuration. Each mAb reduces weight loss and lung virus levels in a mouse prevention model. COV2-2196 reduces lung virus levels in rhesus macaques. A modified versions of COV2-2196 and COV2-2130 (AZD8895 and AZD1061; aka AZD7442) have begun phase III clinical trials. COV2-2050-LALA-PG contained 3 loss of function Fc mutations: L234A, L235A, and P329G.
   dataAvailability:
     sequence: true
     animal: true
@@ -1326,6 +1330,23 @@
     Phage display sdAb library created from llamas immunized with RBD.
   description: |-
     nb20 is an ACE2-competing neutralizing sdAb that binds to RBD in its down configuration. Nb20 and nb21 homotrimers were associated with 30-fold increased inhibition in pseudovirus assays.
+  dataAvailability:
+    sequence: true
+    structure: true
+- references:
+  - doi: 10.1101/2020.12.29.424482
+    refId: Veesler20
+    firstAuthor:
+      surname: Sauer
+      givenNames: Maximilian M.
+    year: 2020
+    journal: bioRxiv
+  - freeText: B6
+  antibodies: {}
+  source: |-
+    Mice immunized with MERS-CoV trimeric S followed by SARS-CoV trimeric S
+  description: |-
+    B6 is an mAb targeting a conserved linear S2 stem helix epitope. It modestly neutralizes MERS-CoV, HCoV-OC43, and HCoV-HKU4. It binds to but does not neutralize SARS-CoV and SARS-CoV-2
   dataAvailability:
     sequence: true
     structure: true
