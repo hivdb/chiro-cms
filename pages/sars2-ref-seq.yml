@@ -1,0 +1,9 @@
+---
+pageTitle: SARS-CoV-2 Reference Sequence
+introHeader: |-
+  SARS-CoV-2 Reference Sequence
+content:
+    _resource: sars2-ref-seq.md
+reference:
+    _resource: NC_045512.2.json
+...
