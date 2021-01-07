@@ -4,7 +4,7 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
-ABDAB_FILE = 'CoV-AbDab_231220.csv'
+ABDAB_FILE = 'CoV-AbDab_050121.csv'
 RENAME_MAB_ABDAB2MAb = {
     'MR17_K99Y': 'MR17-K99Y',
     'S2-M11': 'S2M11',
