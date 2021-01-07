@@ -738,6 +738,8 @@
     ec50: 125
   - name: COV2-2050-LALA-PG
     ec50: 157
+  - name: COV2-3025
+  - name: COV2-3025-LALA-PG
   source: |-
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
   description: |-
