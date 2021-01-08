@@ -53,7 +53,7 @@ GENEREF_S = (
     'NLAATKMSECVLGQSKRVDFCGKGYHLMSFPQSAPHGVVFLHVTYVPAQEKNFTTAPAICHDGKAHFPREGVF'
     'VSNGTHWFVTQRNFYEPQIITTDNTFVSGNCDVVIGIVNNTVYDPLQPELDSFKEELDKYFKNHTSPDVDLGD'
     'ISGINASVVNIQKEIDRLNEVAKNLNESLIDLQELGKYEQYIKWPWYIWLGFIAGLIAIVMVTIMLCCMTSCC'
-    'SCLKGCCSCGSCCKFDEDDSEPVLKGVKLHYT'
+    'SCLKGCCSCGSCCKFDEDDSEPVLKGVKLHYT*'
 )
 
 GENEREFS = {
@@ -197,7 +197,9 @@ def to_aapcnt(gene, replacements, insertions, deletions, total):
             'gene': gene,
             'position': pos,
             'aa': row['replacementAminoAcid'],
-            'count': count
+            'percent': count / total,
+            'count': count,
+            'total': total
         })
 
     rows = csv.DictReader(deletions.splitlines())
@@ -219,6 +221,7 @@ def to_aapcnt(gene, replacements, insertions, deletions, total):
 
         for pos in range(aapos_start, int(aapos_start + del_nalen / 3)):
             # del_nalen always >= 3
+            mutcounts[pos] += count
             delcounts[pos] += count
 
     rows = csv.DictReader(insertions.splitlines())
