@@ -299,7 +299,7 @@ def variable_join_annot_cat_subgroup(
 
 
 def variable_join_annot_label_of_annot_cat(
-    cat_name, *, conj='or', footnote=False,
+    cat_name, *, conj='and', footnote=False,
     singular_prefix=None,
     plural_prefix=None,
     posdata, payload
@@ -331,6 +331,24 @@ def variable_join_annot_label_of_annot_cat(
         )
 
 
+def variable_join_aa_attr(
+    *, annot_name, attr, format='{}', conj='and', posdata, payload
+):
+    pos = posdata['position']
+    result = []
+    for annot in posdata['annotations']:
+        if annot['name'] != annot_name:
+            continue
+        for one in annot['aminoAcidAttrs']:
+            value = one.get(attr)
+            result.append(format.format(value))
+    if not result:
+        raise ValueError(
+            'Position {} does not have annotation {}'.format(pos, annot_name)
+        )
+    return natlang_join(result, conj=conj)
+
+
 CONDITION_FUNCS = {
     'all': cond_all,
     'any': cond_any,
@@ -353,7 +371,8 @@ VARIABLE_FUNCS = {
     'getCitations': variable_get_citations,
     'getSubgroup': variable_get_subgroup,
     'joinSubgroupOfAnnotCat': variable_join_annot_cat_subgroup,
-    'joinAnnotLabelOfAnnotCat': variable_join_annot_label_of_annot_cat
+    'joinAnnotLabelOfAnnotCat': variable_join_annot_label_of_annot_cat,
+    'joinAminoAcidAttr': variable_join_aa_attr
 }
 
 TRIGGERED_AAS_FUNCS = {

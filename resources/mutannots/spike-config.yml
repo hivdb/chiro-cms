@@ -299,14 +299,22 @@ conditionalComments:
     func: mutation
     args: [var2000]
   templateSingular: >-
-    a polymorphic mutation
+    a mutation that is present in published sequences with
+    a frequency of $PCNTS
   templatePlural: >-
-    polymorphic mutations
+    mutations that are present in published sequences with
+    a frequency of $PCNTS, respectively
   triggeredAAs:
     func: mutation
     args: [var2000]
   footnote: ${FN}
   variables:
+    PCNTS:
+      func: joinAminoAcidAttr
+      keywords:
+        annot_name: var2000
+        attr: prevalence
+        format: '{:.2%}'
     FN:
       func: getCitations
       args: [var2000]
