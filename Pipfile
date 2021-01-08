@@ -13,6 +13,7 @@ xlsx2csv = "*"
 more-itertools = "*"
 click = "*"
 simplejson = "*"
+diskcache = "*"
 
 [requires]
 python_version = "3.8"

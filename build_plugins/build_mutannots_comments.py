@@ -265,7 +265,7 @@ def get_prefix_by_gram_num(length, singular, plural):
 
 
 def variable_join_annot_cat_subgroup(
-    cat_name, *, conj='or', footnote=False,
+    cat_name, *, conj='and', footnote=False,
     singular_prefix=None,
     plural_prefix=None,
     posdata, payload
