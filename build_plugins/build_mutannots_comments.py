@@ -332,7 +332,8 @@ def variable_join_annot_label_of_annot_cat(
 
 
 def variable_join_aa_attr(
-    *, annot_name, attr, format='{}', conj='and', posdata, payload
+    *, annot_name, attr, format='{}', conj='and',
+    last_punc=LAST_PUNC_WILDCARD, posdata, payload
 ):
     pos = posdata['position']
     result = []
@@ -346,7 +347,11 @@ def variable_join_aa_attr(
         raise ValueError(
             'Position {} does not have annotation {}'.format(pos, annot_name)
         )
-    return natlang_join(result, conj=conj)
+    return natlang_join(result, conj=conj, last_punc=last_punc)
+
+
+def variable_get_dot(*, posdata, payload):
+    return LAST_PUNC_WILDCARD
 
 
 CONDITION_FUNCS = {
@@ -372,7 +377,8 @@ VARIABLE_FUNCS = {
     'getSubgroup': variable_get_subgroup,
     'joinSubgroupOfAnnotCat': variable_join_annot_cat_subgroup,
     'joinAnnotLabelOfAnnotCat': variable_join_annot_label_of_annot_cat,
-    'joinAminoAcidAttr': variable_join_aa_attr
+    'joinAminoAcidAttr': variable_join_aa_attr,
+    'getDot': variable_get_dot
 }
 
 TRIGGERED_AAS_FUNCS = {

@@ -300,10 +300,10 @@ conditionalComments:
     args: [var2000]
   templateSingular: >-
     a mutation that is present in published sequences with
-    a frequency of $PCNTS
+    a frequency of $PCNTS$DOT
   templatePlural: >-
     mutations that are present in published sequences with
-    a frequency of $PCNTS, respectively
+    a frequency of $PCNTS, respectively$DOT
   triggeredAAs:
     func: mutation
     args: [var2000]
@@ -315,9 +315,12 @@ conditionalComments:
         annot_name: var2000
         attr: prevalence
         format: '{:.2%}'
+        last_punc: ''
     FN:
       func: getCitations
       args: [var2000]
+    DOT:
+      func: getDot
 - commentName: lineage
   rank: 9
   condition:
