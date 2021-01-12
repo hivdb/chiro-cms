@@ -79,6 +79,8 @@ Instruction:
 ## Database Entries
 
 ### January 2021
+- January 12
+    - Kirti R, Roy R, et int., and Sarfaraz A. [“Ivermectin as a potential treatment for mild to moderate COVID-19: A double blind randomized placebo-controlled trial.”](/search/?article=Kirti21) _medRxiv_, 2021. [doi.org/10.1101/2021.01.05.21249310](https://doi.org/10.1101/2021.01.05.21249310).
 - January 05
     - Sauer M, Park Y, et int., and Veesler D. [“Structural basis for broad coronavirus neutralization.”](/search/?article=Veesler20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.29.424482](https://doi.org/10.1101/2020.12.29.424482).
     - Winkler ES, Gilchuk P, et int., and Diamond MS. [“Human neutralizing antibodies against SARS-CoV-2 require intact Fc effector functions and monocytes for optimal therapeutic protection.”](/search/?article=Winkler20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.28.424554](https://doi.org/10.1101/2020.12.28.424554).
@@ -968,6 +970,21 @@ Instruction:
 <!-- start of clinical trials -->
 
 ## Clinical Trials
+
+### January 2021
+- January 07
+    - [11 clinical trials were added.](/clinical-trials/?fromDate=2021-01-07)
+    - IRCT20120703010178N22
+    - IRCT20171219037964N3
+    - IRCT20200408046987N3
+    - IRCT20200818048444N2
+    - IRCT20201001048894N1
+    - IRCT20201028049175N1
+    - NCT04694612
+    - NCT04700163
+    - NCT04701528
+    - NCT04701658
+    - NCT04701710
 
 ### December 2020
 

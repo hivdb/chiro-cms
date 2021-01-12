@@ -22,6 +22,12 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Jan 12)
+Kirti R, Roy R, et int., and Sarfaraz A. [“Ivermectin as a potential treatment for mild to moderate COVID-19: A double blind randomized placebo-controlled trial.”](/search/?article=Kirti21) _medRxiv_, 2021. [doi.org/10.1101/2021.01.05.21249310](https://doi.org/10.1101/2021.01.05.21249310).
+
+### [Clinical Trials (Jan 07)](/page/updates/#clinical.trials)
+[11 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-01-07)
+
 ### Database Entries (Jan 05)
 Sauer M, Park Y, et int., and Veesler D. [“Structural basis for broad coronavirus neutralization.”](/search/?article=Veesler20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.29.424482](https://doi.org/10.1101/2020.12.29.424482).
 ### Database Entries (Jan 05)
@@ -80,15 +86,3 @@ Vatansever EC, Yang K, et int., and Liu WR. [“Bepridil is potent against SARS-
 Schäfer A, Muecksch F, et int., and Sheahan TP. [“Antibody potency, effector function, and combinations in protection and therapy for SARS-CoV-2 infection in vivo.”](/search/?article=Schafer20) _Journal of Experimental Medicine_, 2020. [doi.org/10.1084/jem.20201993](https://doi.org/10.1084/jem.20201993). \[[PubMed33211088](https://www.ncbi.nlm.nih.gov/pubmed/33211088/)\] \[[PMC7673958](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7673958/)\]
 ### Database Entries (Dec 09)
 Hörnich BF, Großkopf AK, et int., and Hahn AS. [“SARS-CoV-2 and SARS-CoV spike-mediated cell-cell fusion differ in the requirements for receptor expression and proteolytic activation and are not inhibited by Bromhexine.”](/search/?article=Hornich20) _bioRxiv_, 2020. [doi.org/10.1101/2020.07.25.221135](https://doi.org/10.1101/2020.07.25.221135).
-### Database Entries (Dec 04)
-Arévalo A, Pagotto R, et int., and Crispo M. [“Ivermectin reduces coronavirus infection in vivo: a mouse experimental model.”](/search/?article=Arevalo20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.02.363242](https://doi.org/10.1101/2020.11.02.363242).
-### Database Entries (Dec 04)
-Clausen TM, Sandoval DR, et int., and Esko JD. [“SARS-CoV-2 Infection Depends on Cellular Heparan Sulfate and ACE2.”](/search/?article=Clausen20) _Cell_, 2020. [doi.org/10.1016/j.cell.2020.09.033](https://doi.org/10.1016/j.cell.2020.09.033). \[[PubMed32970989](https://www.ncbi.nlm.nih.gov/pubmed/32970989/)\] \[[PMC7489987](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7489987/)\]
-### Database Entries (Dec 04)
-Kumar R, Khandelwal N, et int., and Kumar N. [“Emetine as an antiviral agent suppresses SARS-CoV-2 replication by inhibitinginteraction of viral mRNAwith eIF4E: An in vitro study.”](/search/?article=Kumar20) _bioRxiv_, 2020. [doi.org/10.1101/2020.11.29.401984](https://doi.org/10.1101/2020.11.29.401984).
-### [Clinical Trials (Dec 03)](/page/updates/#clinical.trials)
-[17 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2020-12-03)
-### Database Entries (Dec 03)
-Outlaw VK, Bovier FT, et int., and Porotto M. [“Inhibition of Coronavirus Entry In Vitro and Ex Vivo by a Lipid-Conjugated Peptide Derived from the SARS-CoV-2 Spike Glycoprotein HRC Domain.”](/search/?article=Outlaw20) _mBio_, 2020. [doi.org/10.1128/mbio.01935-20](https://doi.org/10.1128/mbio.01935-20). \[[PubMed33082259](https://www.ncbi.nlm.nih.gov/pubmed/33082259/)\] \[[PMC7587434](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7587434/)\]
-### Database Entries (Dec 03)
-Udwadia ZF, Singh P, et int., and Tandon M. [“Efficacy and Safety of Favipiravir, an Oral RNA-Dependent RNA Polymerase Inhibitor, in Mild-to-Moderate COVID-19: A Randomized, Comparative, Open-Label, Multicenter, Phase 3 Clinical Trial.”](/search/?article=Udwadia20) _International Journal of Infectious Diseases_, 2020. [doi.org/10.1016/j.ijid.2020.11.142](https://doi.org/10.1016/j.ijid.2020.11.142). \[[PubMed33212256](https://www.ncbi.nlm.nih.gov/pubmed/33212256/)\] \[[PMC7668212](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7668212/)\]
