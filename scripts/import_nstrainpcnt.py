@@ -3,6 +3,8 @@ import re
 import json
 import click
 
+from datetime import date
+
 BASE_DIR = os.path.dirname(
     os.path.dirname(__file__)
 )
@@ -116,34 +118,56 @@ def get_freqs(branch_names, branch_freqs, num_pivots):
     for branch_name in branch_names:
         for idx, freq in enumerate(branch_freqs[branch_name]['frequencies']):
             freqs[idx] += freq
-    return [round(freq, 4) for freq in freqs]
+    return freqs
 
 
 def iter_percents(gene, branch_freqs, branch_lookup, pivots):
     num_pivots = len(pivots)
     all_branches = set(branch_freqs.keys())
+    min_var = 1e-10
     for pos0, refaa in enumerate(GENEREFS[gene]):
         pos = pos0 + 1
         lookup = branch_lookup.get((gene, pos), {})
         ref_branches = set(all_branches)
+        total_freqs = [0] * len(pivots)
+        posaas = []
         for aa, var_branches in lookup.items():
             if aa == refaa:
                 continue
             ref_branches -= var_branches
             freqs = get_freqs(var_branches, branch_freqs, num_pivots)
-            yield {
+            total_freqs = [a + b for a, b in zip(total_freqs, freqs)]
+            posaas.append({
                 'gene': gene,
                 'position': pos,
                 'aa': aa,
-                'percents': list(zip(pivots, freqs))
-            }
+                'percents': freqs
+            })
         freqs = get_freqs(ref_branches, branch_freqs, num_pivots)
-        yield {
+        total_freqs = [a + b for a, b in zip(total_freqs, freqs)]
+        posaas.append({
           'gene': gene,
           'position': pos,
           'aa': refaa,
-          'percents': list(zip(pivots, freqs))
-        }
+          'percents': freqs
+        })
+        len_posaas = len(posaas)
+        for one in posaas:
+            one['percents'] = list(zip(pivots, [
+                round((a + min_var) / (min_var * len_posaas + b), 4)
+                for a, b in zip(one['percents'], total_freqs)
+            ]))
+            yield one
+
+
+def numeric2date(pivots):
+    results = []
+    for one in pivots:
+        year = int(one)
+        offset = one - year
+        days = date(year + 1, 1, 1) - date(year, 1, 1)
+        results.append((date(year - 1, 12, 31) + days * offset).isoformat())
+    return results
 
 
 @click.command()
@@ -152,7 +176,7 @@ def main(genes):
     os.makedirs(RESULTS_DIR, exist_ok=True)
     with open(os.path.join(CACHE_DIR, 'global-frequencies.json')) as fp:
         branch_freqs = json.load(fp)
-        pivots = branch_freqs.pop('pivots')
+        pivots = numeric2date(branch_freqs.pop('pivots'))
         branch_freqs.pop('generated_by')
     branches = set(branch_freqs.keys())
     with open(os.path.join(CACHE_DIR, 'global.json')) as fp:
