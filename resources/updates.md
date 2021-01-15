@@ -79,6 +79,8 @@ Instruction:
 ## Database Entries
 
 ### January 2021
+- January 15
+    - Biering SB, Van Dis E, et int., and Stanley SA. [“Screening a library of FDA-approved and bioactive compounds for antiviral activity against SARS-CoV-2.”](/search/?article=Biering20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.30.424862](https://doi.org/10.1101/2020.12.30.424862).
 - January 12
     - Kirti R, Roy R, et int., and Sarfaraz A. [“Ivermectin as a potential treatment for mild to moderate COVID-19: A double blind randomized placebo-controlled trial.”](/search/?article=Kirti21) _medRxiv_, 2021. [doi.org/10.1101/2021.01.05.21249310](https://doi.org/10.1101/2021.01.05.21249310).
 - January 05
