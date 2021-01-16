@@ -4,15 +4,20 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
-ABDAB_FILE = 'CoV-AbDab_050121.csv'
+ABDAB_FILE = 'CoV-AbDab_120121.csv'
 RENAME_MAB_ABDAB2MAb = {
     'MR17_K99Y': 'MR17-K99Y',
     'S2-M11': 'S2M11',
     'S2-E12': 'S2E12',
     'Fab2-4': '2-4',
+    'Fab2-51': '2-51',
+    'Fab5-24': '5-24',
+    'Fab1-87': '1-87',
+    'Fab4-18': '4-18',
     'BD23': 'BD-23',
     'Nb20': 'nb20',
     'Nb#6': 'Nb6',
+    'Regdanvimab': 'CT-P59',
 }
 
 SWITCH_MAB = {
@@ -193,22 +198,22 @@ def get_mab2Seq_from_abdab(abdab):
         heave_v_gene = item['Heavy V Gene']
         if heave_v_gene in ['N/A', 'ND', 'Expected']:
             heave_v_gene = ''
-        elif heave_v_gene:
+        elif heave_v_gene and '(' in heave_v_gene:
             heave_v_gene = heave_v_gene[:heave_v_gene.index('(')]
         heave_j_gene = item['Heavy J Gene']
         if heave_j_gene in ['N/A', 'ND', 'Expected']:
             heave_j_gene = ''
-        elif heave_j_gene:
+        elif heave_j_gene and '(' in heave_j_gene:
             heave_j_gene = heave_j_gene[:heave_j_gene.index('(')]
         light_v_gene = item['Light V Gene']
         if light_v_gene in ['N/A', 'ND', 'Expected']:
             light_v_gene = ''
-        elif light_v_gene:
+        elif light_v_gene and '(' in light_v_gene:
             light_v_gene = light_v_gene[:light_v_gene.index('(')]
         light_j_gene = item['Light J Gene']
         if light_j_gene in ['N/A', 'ND', 'Expected']:
             light_j_gene = ''
-        elif light_j_gene:
+        elif light_j_gene and '(' in light_j_gene:
             light_j_gene = light_j_gene[:light_j_gene.index('(')]
 
         sources = item['Sources']
@@ -373,6 +378,8 @@ def validate_structures(structures):
 
     dup_pdb = get_dup_key(structures, 'PDB')
     print('Duplicated PDB', dup_pdb)
+
+    structures = [s for s in structures if s['mAb Target'] == 'RBD']
 
     invalid_records = get_invalid_null_records(structures, [
         'mAb Target', 'Epitope(<=4.5Å)',
@@ -650,7 +657,7 @@ def show_error_sequences(sequences, mab2Seq):
             print('Seq Error VH:', name)
             print(base_line['VH'])
             # print(vh)
-            print(base_line['VH'] in vh)
+            # print(base_line['VH'] in vh)
         if vl != base_line['VL']:
             print('Seq Error VL:', name)
             print(base_line['VL'])
