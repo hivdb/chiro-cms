@@ -1,0 +1,13 @@
+name: sars2-variant-clusters
+label: SARS-CoV-2 Variant Clusters
+width: 1840
+height: 1240
+paddingLeft: 380
+paddingRight: 60
+paddingTop: 20
+.:
+  _resource: mutation-viewer/sars2-regions.yml
+positionGroups:
+  _resource: mutation-viewer/position-groups/sars2-variant-clusters.yml
+presets:
+  _resource: mutation-viewer/index.yml

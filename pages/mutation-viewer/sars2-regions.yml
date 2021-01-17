@@ -1,0 +1,17 @@
+name: sars2-regions
+label: SARS-CoV-2 Regions
+width: 440
+height: 170
+paddingLeft: 20
+paddingRight: 20
+paddingTop: 20
+.:
+  _resource: mutation-viewer/sars2-regions.yml
+presets:
+  _resource: mutation-viewer/index.yml
+positionGroups:
+- name: NA
+  label: ""
+  positions: []
+
+

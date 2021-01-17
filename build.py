@@ -61,7 +61,7 @@ def load_resources(data):
         else:
             for key, val in list(data.items()):
                 val, nested_mtime = load_resources(val)
-                if key == '.':
+                if key == '.' or key.startswith('.<<'):
                     data.pop(key)
                     data.update(val)
                 else:

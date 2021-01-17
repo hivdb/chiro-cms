@@ -1,0 +1,13 @@
+name: sars2-prolonged-infections
+label: SARS-CoV-2 Prolonged Infections
+width: 1720
+height: 1650
+paddingLeft: 260
+paddingRight: 60
+paddingTop: 20
+.:
+  _resource: mutation-viewer/sars2-regions.yml
+positionGroups:
+  _resource: mutation-viewer/position-groups/sars2-prolonged-infections.yml
+presets:
+  _resource: mutation-viewer/index.yml

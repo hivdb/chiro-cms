@@ -10,6 +10,14 @@ updates:
 missionStatement:
   _resource: mission-statement.md
 highlights:
+  - title: Mutation viewer
+    description: SARS-CoV-2 variant clusters & prolonged infections
+    link: /mutation-viewer/
+    image: home/edumat-mutation-viewer.png
+  - title: Spike viewer
+    description: A mutation annotation viewer of Spike gene
+    link: /mut-annot-viewer/SARS2S/
+    image: home/edumat-spike-viewer.png
   - title: SARS-CoV-2 mAbs tracker
     description: Clinical trials, animal model studies, inhibitory potency, sequence data, and structural data
     link: /page/mab-tables/
@@ -37,6 +45,10 @@ webinars:
     extLink: true
     image: home/webinar-cme.png
 eduMaterials:
+  - title: Mutation viewer
+    description: SARS-CoV-2 variant clusters & prolonged infections
+    link: /mutation-viewer/
+    image: home/edumat-mutation-viewer.png
   - title: Spike structures
     description: Figures of SARS-COV-2 Spike structures
     link: /page/spike-structures/
