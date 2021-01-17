@@ -21,6 +21,8 @@ PLUGINDIR = os.path.join(BASEDIR, 'build_plugins')
 
 YAML_PATTERN = re.compile(r'^(.*)\.ya?ml$')
 
+yaml = ruamel.yaml.YAML()
+
 
 def getmtime(resource_path):
     print(resource_path)
@@ -52,6 +54,8 @@ def load_resources(data):
             with open(resource_path) as fp:
                 if resource_path.endswith('.json'):
                     data = json.load(fp)
+                elif YAML_PATTERN.match(resource_path):
+                    data = yaml.load(fp)
                 else:
                     data = fp.read()
         else:
@@ -103,7 +107,7 @@ def main():
                 BUILDDIR, YAML_PATTERN.sub(r'\1.json', rel_yamlpath))
             os.makedirs(os.path.dirname(jsonpath), exist_ok=True)
             with open(yamlpath) as yamlfp, open(jsonpath, 'w') as jsonfp:
-                data = ruamel.yaml.load(yamlfp, Loader=ruamel.yaml.Loader)
+                data = yaml.load(yamlfp)
                 data, new_mtime = load_resources(data)
                 mtime = max(new_mtime, mtime)
                 data['lastModified'] = (

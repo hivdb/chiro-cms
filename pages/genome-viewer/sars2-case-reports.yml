@@ -1,0 +1,289 @@
+name: sars2-case-reports
+label: SARS-CoV-2 Prolonged Case Reports
+width: 1720
+height: 1650
+paddingLeft: 260
+paddingRight: 60
+paddingTop: 20
+_resource: genome-viewer/sars2-regions_highlight-spike.yml
+positionGroups:
+- name: Kemp
+  label: Kemp
+  positions:
+  - name: RdRP:P323L  # ORF1ab:P4715L
+    pos: 14407
+    <<: &non-spike
+      stroke: '#e0e0e0'
+      color: '#a0a0a0'
+  - name: HV69-70del
+    label: HV69-70Δ
+    pos: 21767
+  - name: N439K
+    pos: 22877
+  - name: Y453F
+    pos: 22919
+  - name: N501Y
+    pos: 23063
+  - name: A570D
+    pos: 23270
+  - name: D614G
+    pos: 23402
+  - name: P681H
+    pos: 23603
+  - name: T716I
+    pos: 23708
+  - name: S982A
+    pos: 24506
+  - name: D1118H
+    pos: 24914
+- name: McCarthy
+  label: McCarthy
+  positions:
+  - name: RdRP:P323L  # ORF1ab:P4715L
+    pos: 14407
+    <<: *non-spike
+  - name: HV69-70del
+    label: HV69-70Δ
+    pos: 21767
+  - name: LGVY141-144del,H146del
+    label: LGVY141-144Δ,H146Δ
+    pos: 21983
+  - name: I210del
+    label: I210Δ
+    pos: 22190
+  - name: AL243-244del
+    label: AL243-244Δ
+    pos: 22289
+  - name: D614G
+    pos: 23402
+- name: Choi
+  label: Choi
+  positions:
+  - name: RdRP:P323L  # ORF1ab:P4715L
+    pos: 14407
+    <<: *non-spike
+  - name: GVY142-144del
+    label: GVY142-144Δ
+    pos: 21986
+  - name: Q183H
+    pos: 22109
+  - name: T478K
+    pos: 22994
+  - name: E484A
+    pos: 23012
+  - name: F486I
+    pos: 23018
+  - name: Q493K
+    pos: 23039
+  - name: S494P
+    pos: 23042
+  - name: N501Y
+    pos: 23063
+  - name: D614G
+    pos: 23402
+  - name: I870V
+    pos: 24170
+- name: Avanzato
+  label: Avanzato
+  positions:
+  - name: RdRP:P323L  # ORF1ab:P4715L
+    pos: 14407
+    <<: *non-spike
+  - name: PFLGVYY139-145del
+    label: PFLGVYY139-145Δ
+    pos: 21977
+  - name: V483A
+    pos: 23009
+  - name: D614G
+    pos: 23402
+  - name: R685Q
+    pos: 23615
+- name: Bazykin
+  label: Bazykin
+  positions:
+  - name: nsp3:T504A
+    pos: 4229
+    <<: *non-spike
+  - name: nsp3:D821N
+    pos: 5180
+    <<: *non-spike
+  - name: nsp4:T295I
+    pos: 9437
+    <<: *non-spike
+  - name: nsp4:V315I
+    pos: 9497
+    <<: *non-spike
+  - name: nsp7:V58G
+    pos: 12014
+    <<: *non-spike
+  - name: RdRP:P323L  # ORF1ab:P4715L
+    pos: 14407
+    <<: *non-spike
+  - name: S50L
+    pos: 21710
+  - name: HV69-70del
+    label: HV69-70Δ
+    pos: 21767
+  - name: LGVY141-144del
+    label: LGVY141-144Δ
+    pos: 21983
+  - name: Y453F
+    pos: 22919
+  - name: T470N
+    pos: 22970
+  - name: D614G
+    pos: 23402
+  - name: D737G
+    pos: 23771
+  - name: ORF7b:I2del
+    label: ORF7b:I2Δ
+    pos: 27759
+    <<: *non-spike
+  - name: ORF8:Q18stop
+    label: ORF8:Q18*
+    pos: 27945
+    <<: *non-spike
+  - name: N:R195G
+    pos: 28856
+    <<: *non-spike
+- name: Tu-677H
+  label: Tu (COH.20G/677H)
+  positions:
+  - name: PL:M1788I  # ORF1a:M2606I
+    pos: 8081
+    <<: *non-spike
+  - name: 3CL:L89F   # ORF1a:L3352F
+    pos: 10319
+    <<: *non-spike
+  - name: RdRP:P323L # ORF1ab:P4715L
+    pos: 14407
+    <<: *non-spike
+  - name: nsp14:N129D  # ORF1ab:N6054D
+    pos: 18424
+    <<: *non-spike
+  - name: nsp16:R216C  # ORF1ab:R7014C
+    pos: 21304
+    <<: *non-spike
+  - name: D614G
+    pos: 23402
+  - name: Q677H
+    pos: 23591
+  - name: ORF3a:G172V
+    pos: 25906
+    <<: *non-spike
+  - name: M:A85S
+    pos: 26775
+    <<: *non-spike
+  - name: ORF8:S24L
+    pos: 27963
+    <<: *non-spike
+  - name: N:P67S
+    pos: 28472
+    <<: *non-spike
+  - name: N:P199L
+    pos: 28868
+    <<: *non-spike
+  - name: N:D377Y
+    pos: 29402
+    <<: *non-spike
+- name: Tu-501Y
+  label: Tu (COH.20G/501Y)
+  positions:
+  - name: 3CL:L89F    # ORF1a:L3352F
+    pos: 10319
+    <<: *non-spike
+  - name: RdRP:P323L  # ORF1ab:P4715L
+    pos: 14407
+    <<: *non-spike
+  - name: nsp14:N129D # ORF1ab:N6054D
+    pos: 18424
+    <<: *non-spike
+  - name: nsp16:R216C # ORF1ab:R7014C
+    pos: 21304
+    <<: *non-spike
+  - name: N501Y
+    pos: 23063
+  - name: D614G
+    pos: 23402
+  - name: ORF3a:G172V
+    pos: 25906
+    <<: *non-spike
+  - name: ORF8:S24L
+    pos: 27963
+    <<: *non-spike
+  - name: ORF8:R52I
+    pos: 28047
+    <<: *non-spike
+  - name: N:P67S
+    pos: 28472
+    <<: *non-spike
+  - name: N:P199L
+    pos: 28868
+    <<: *non-spike
+- name: Khatamzas
+  label: Khatamzas
+  positions:
+  - name: 5-UTR:C241T
+    label: 5'-UTR:C241T
+    pos: 241
+    <<: *non-spike
+  - name: nsp1:G98V  # ORF1a:G98V
+    pos: 557
+    <<: *non-spike
+  - name: nsp2:K489E # ORF1a:K669E
+    pos: 2270
+    <<: *non-spike
+  - name: PL:G282V   # ORF1a:G1100V
+    pos: 3563
+    <<: *non-spike
+  - name: PL:T504I   # ORF1a:T1322I
+    pos: 4229
+    <<: *non-spike
+  - name: PL:I508V   # ORF1a:I1326V
+    pos: 4241
+    <<: *non-spike
+  - name: PL:T820I   # ORF1a:T1638I
+    pos: 5177
+    <<: *non-spike
+  - name: nsp4:N396S # ORF1a:N3159S
+    pos: 9740
+    <<: *non-spike
+  - name: 3CL:T21I   # ORF1a:T3284I
+    pos: 10115
+    <<: *non-spike
+  - name: nsp6:Q160R # ORF1a:Q3729R
+    pos: 11450
+    <<: *non-spike
+  - name: nsp8:V159F # ORF1a:V4101F
+    pos: 12566
+    <<: *non-spike
+  - name: RdRP:P323L # ORF1ab:P4715L
+    pos: 14407
+    <<: *non-spike
+  - name: nsp15:V69L # ORF1ab:V6521L
+    pos: 19825
+    <<: *non-spike
+  - name: Y144del
+    label: Y144Δ
+    pos: 21992
+  - name: S477N
+    pos: 22991
+  - name: E484K
+    pos: 23012
+  - name: D614G
+    pos: 23402
+  - name: ORF6:V5I
+    pos: 27214
+    <<: *non-spike
+  - name: N:R203K
+    pos: 28880
+    <<: *non-spike
+  - name: N:G204R
+    pos: 28883
+    <<: *non-spike
+  - name: N:T325K
+    pos: 29246
+    <<: *non-spike
+  - name: N:T332I
+    pos: 29267
+    <<: *non-spike
