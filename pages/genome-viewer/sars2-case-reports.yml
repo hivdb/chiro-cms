@@ -1,3 +1,5 @@
+.:
+  _resource: genome-viewer/sars2-regions_highlight-spike.yml
 name: sars2-case-reports
 label: SARS-CoV-2 Prolonged Case Reports
 width: 1720
@@ -5,7 +7,6 @@ height: 1650
 paddingLeft: 260
 paddingRight: 60
 paddingTop: 20
-_resource: genome-viewer/sars2-regions_highlight-spike.yml
 positionGroups:
 - name: Kemp
   label: Kemp

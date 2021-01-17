@@ -1,3 +1,5 @@
+.:
+  _resource: genome-viewer/sars2-regions_highlight-spike.yml
 name: sars2-lineages
 label: SARS-CoV-2 Lineages
 width: 1840
@@ -5,7 +7,6 @@ height: 1240
 paddingLeft: 380
 paddingRight: 60
 paddingTop: 20
-_resource: genome-viewer/sars2-regions_highlight-spike.yml
 positionGroups:
 - name: B.1.1.7
   label: B.1.1.7

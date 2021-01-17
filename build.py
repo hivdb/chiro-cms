@@ -59,9 +59,13 @@ def load_resources(data):
                 else:
                     data = fp.read()
         else:
-            for key, val in data.items():
+            for key, val in list(data.items()):
                 val, nested_mtime = load_resources(val)
-                data[key] = val
+                if key == '.':
+                    data.pop(key)
+                    data.update(val)
+                else:
+                    data[key] = val
                 mtime = max(nested_mtime, mtime)
     elif isinstance(data, list):
         new_data = []
