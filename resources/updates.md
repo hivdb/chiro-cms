@@ -974,6 +974,21 @@ Instruction:
 ## Clinical Trials
 
 ### January 2021
+- January 14
+    - [13 clinical trials were added.](/clinical-trials/?fromDate=2021-01-14)
+    - CTRI/2020/12/029855
+    - CTRI/2020/12/030013
+    - CTRI/2020/12/030072
+    - EUCTR2020-005410-18-PL
+    - NCT04703205
+    - NCT04703608
+    - NCT04707664
+    - NCT04708158
+    - NCT04709328
+    - NCT04709835
+    - NCT04711187
+    - NCT04712279
+    - NCT04712344
 - January 07
     - [11 clinical trials were added.](/clinical-trials/?fromDate=2021-01-07)
     - IRCT20120703010178N22

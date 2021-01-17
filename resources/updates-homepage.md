@@ -22,6 +22,9 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### [Clinical Trials (Jan 14)](/page/updates/#clinical.trials)
+[13 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-01-14)
+
 ### Database Entries (Jan 15)
 Biering SB, Van Dis E, et int., and Stanley SA. [“Screening a library of FDA-approved and bioactive compounds for antiviral activity against SARS-CoV-2.”](/search/?article=Biering20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.30.424862](https://doi.org/10.1101/2020.12.30.424862).
 ### Database Entries (Jan 12)
