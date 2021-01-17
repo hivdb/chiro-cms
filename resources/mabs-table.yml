@@ -1128,7 +1128,7 @@
   source: |-
     scFv phage display library of uncertain origin selected for RBD binding
   description: |-
-    CT-P59 is a neutralizing mAb targeting the SARS-CoV-2 RBD, which is being studied in a phase II/III clinical trial. It has been shown to reduce virus levels in ferrets, Syrian hamsters, and rhesus macaques.
+    CT-P59(aka Regdanvimab) is a neutralizing mAb targeting the SARS-CoV-2 RBD, which is being studied in a phase II/III clinical trial. It has been shown to reduce virus levels in ferrets, Syrian hamsters, and rhesus macaques.
   dataAvailability:
     sequence: true
     structure: true
