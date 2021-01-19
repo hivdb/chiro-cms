@@ -79,6 +79,11 @@ Instruction:
 ## Database Entries
 
 ### January 2021
+- January 19
+    - Davies SP, Mycroft-West CJ, et int., and Richardson A. [“The hyperlipidaemic drug fenofibrate significantly reduces infection by SARS-CoV-2 in cell culture models.”](/search/?article=Davies21) _bioRxiv_, 2021. [doi.org/10.1101/2021.01.10.426114](https://doi.org/10.1101/2021.01.10.426114).
+    - Kim C, Ryu D, et int., and Lee S. [“A therapeutic neutralizing antibody targeting receptor binding domain of SARS-CoV-2 spike protein.”](/search/?article=Kim21) _Nature Communications_, 2021. [doi.org/10.1038/s41467-020-20602-5](https://doi.org/10.1038/s41467-020-20602-5). \[[PubMed33436577](https://www.ncbi.nlm.nih.gov/pubmed/33436577/)\]
+    - McCallum M, Marco AD, et int., and Veesler D. [“N-terminal domain antigenic mapping reveals a site of vulnerability for SARS-CoV-2.”](/search/?article=McCallum21) _bioRxiv_, 2021. [doi.org/10.1101/2021.01.14.426475](https://doi.org/10.1101/2021.01.14.426475).
+    - Tada T, Fan C, et int., and Landau NR. [“An ACE2 Microbody Containing a Single Immunoglobulin Fc Domain Is a Potent Inhibitor of SARS-CoV-2.”](/search/?article=Tada20) _Cell Reports_, 2020. [doi.org/10.1016/j.celrep.2020.108528](https://doi.org/10.1016/j.celrep.2020.108528). \[[PubMed33326798](https://www.ncbi.nlm.nih.gov/pubmed/33326798/)\] \[[PMC7705358](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7705358/)\]
 - January 15
     - Biering SB, Van Dis E, et int., and Stanley SA. [“Screening a library of FDA-approved and bioactive compounds for antiviral activity against SARS-CoV-2.”](/search/?article=Biering20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.30.424862](https://doi.org/10.1101/2020.12.30.424862).
 - January 12
