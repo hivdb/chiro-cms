@@ -12,7 +12,7 @@ missionStatement:
 highlights:
   - title: Mutation viewer
     description: SARS-CoV-2 variant clusters & prolonged infections
-    link: /mutation-viewer/
+    link: /mutation-viewer/sars2-variant-clusters/
     image: home/edumat-mutation-viewer.png
   - title: Spike viewer
     description: A mutation annotation viewer of Spike gene

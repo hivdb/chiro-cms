@@ -225,3 +225,77 @@
     pos: 25001
   - name: M1229I
     pos: 25247
+- name: Tu-677H
+  label: Tu (COH.20G/677H)
+  positions:
+  - name: PL:M1788I  # ORF1a:M2606I
+    pos: 8081
+    <<: *non-spike
+  - name: 3CL:L89F   # ORF1a:L3352F
+    pos: 10319
+    <<: *non-spike
+  - name: RdRP:P323L # ORF1ab:P4715L
+    pos: 14407
+    <<: *non-spike
+  - name: nsp14:N129D  # ORF1ab:N6054D
+    pos: 18424
+    <<: *non-spike
+  - name: nsp16:R216C  # ORF1ab:R7014C
+    pos: 21304
+    <<: *non-spike
+  - name: D614G
+    pos: 23402
+  - name: Q677H
+    pos: 23591
+  - name: ORF3a:G172V
+    pos: 25906
+    <<: *non-spike
+  - name: M:A85S
+    pos: 26775
+    <<: *non-spike
+  - name: ORF8:S24L
+    pos: 27963
+    <<: *non-spike
+  - name: N:P67S
+    pos: 28472
+    <<: *non-spike
+  - name: N:P199L
+    pos: 28868
+    <<: *non-spike
+  - name: N:D377Y
+    pos: 29402
+    <<: *non-spike
+- name: Tu-501Y
+  label: Tu (COH.20G/501Y)
+  positions:
+  - name: 3CL:L89F    # ORF1a:L3352F
+    pos: 10319
+    <<: *non-spike
+  - name: RdRP:P323L  # ORF1ab:P4715L
+    pos: 14407
+    <<: *non-spike
+  - name: nsp14:N129D # ORF1ab:N6054D
+    pos: 18424
+    <<: *non-spike
+  - name: nsp16:R216C # ORF1ab:R7014C
+    pos: 21304
+    <<: *non-spike
+  - name: N501Y
+    pos: 23063
+  - name: D614G
+    pos: 23402
+  - name: ORF3a:G172V
+    pos: 25906
+    <<: *non-spike
+  - name: ORF8:S24L
+    pos: 27963
+    <<: *non-spike
+  - name: ORF8:R52I
+    pos: 28047
+    <<: *non-spike
+  - name: N:P67S
+    pos: 28472
+    <<: *non-spike
+  - name: N:P199L
+    pos: 28868
+    <<: *non-spike
