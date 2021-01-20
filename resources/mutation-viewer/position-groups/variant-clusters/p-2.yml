@@ -1,0 +1,22 @@
+name: p-2
+positions:
+- name: 3CL:L205V  # ORF1ab:L3468V
+  pos: 10667
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: nsp7:L71F  # ORF1ab:L3930F
+  pos: 12053
+  <<: *non-spike
+- name: RdRP:P323L # ORF1ab:P4715L
+  pos: 14407
+  <<: *non-spike
+- name: E484K
+  pos: 23012
+- name: D614G
+  pos: 23402
+- name: V1176F
+  pos: 25088
+- name: N:A119S
+  pos: 28628
+  <<: *non-spike

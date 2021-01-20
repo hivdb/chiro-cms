@@ -1,0 +1,35 @@
+name: tu-501y
+positions:
+- name: 3CL:L89F    # ORF1a:L3352F
+  pos: 10319
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: RdRP:P323L  # ORF1ab:P4715L
+  pos: 14407
+  <<: *non-spike
+- name: nsp14:N129D # ORF1ab:N6054D
+  pos: 18424
+  <<: *non-spike
+- name: nsp16:R216C # ORF1ab:R7014C
+  pos: 21304
+  <<: *non-spike
+- name: N501Y
+  pos: 23063
+- name: D614G
+  pos: 23402
+- name: ORF3a:G172V
+  pos: 25906
+  <<: *non-spike
+- name: ORF8:S24L
+  pos: 27963
+  <<: *non-spike
+- name: ORF8:R52I
+  pos: 28047
+  <<: *non-spike
+- name: N:P67S
+  pos: 28472
+  <<: *non-spike
+- name: N:P199L
+  pos: 28868
+  <<: *non-spike

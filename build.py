@@ -3,6 +3,7 @@
 import os
 import re
 import json
+import copy
 import subprocess
 from importlib import import_module
 from datetime import datetime
@@ -44,6 +45,7 @@ def getmtime(resource_path):
 
 def load_resources(data):
     mtime = 0
+    data = copy.copy(data)
     if isinstance(data, dict):
         if '_resource' in data:
             rpath = data.pop('_resource')

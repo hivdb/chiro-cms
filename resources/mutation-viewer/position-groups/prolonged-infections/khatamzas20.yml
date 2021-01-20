@@ -1,0 +1,68 @@
+name: khatamzas20
+positions:
+- name: 5-UTR:C241T
+  label: 5'-UTR:C241T
+  pos: 241
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: nsp1:G98V  # ORF1a:G98V
+  pos: 557
+  <<: *non-spike
+- name: nsp2:K489E # ORF1a:K669E
+  pos: 2270
+  <<: *non-spike
+- name: PL:G282V   # ORF1a:G1100V
+  pos: 3563
+  <<: *non-spike
+- name: PL:T504I   # ORF1a:T1322I
+  pos: 4229
+  <<: *non-spike
+- name: PL:I508V   # ORF1a:I1326V
+  pos: 4241
+  <<: *non-spike
+- name: PL:T820I   # ORF1a:T1638I
+  pos: 5177
+  <<: *non-spike
+- name: nsp4:N396S # ORF1a:N3159S
+  pos: 9740
+  <<: *non-spike
+- name: 3CL:T21I   # ORF1a:T3284I
+  pos: 10115
+  <<: *non-spike
+- name: nsp6:Q160R # ORF1a:Q3729R
+  pos: 11450
+  <<: *non-spike
+- name: nsp8:V159F # ORF1a:V4101F
+  pos: 12566
+  <<: *non-spike
+- name: RdRP:P323L # ORF1ab:P4715L
+  pos: 14407
+  <<: *non-spike
+- name: nsp15:V69L # ORF1ab:V6521L
+  pos: 19825
+  <<: *non-spike
+- name: Y144del
+  label: Y144Δ
+  pos: 21992
+- name: S477N
+  pos: 22991
+- name: E484K
+  pos: 23012
+- name: D614G
+  pos: 23402
+- name: ORF6:V5I
+  pos: 27214
+  <<: *non-spike
+- name: N:R203K
+  pos: 28880
+  <<: *non-spike
+- name: N:G204R
+  pos: 28883
+  <<: *non-spike
+- name: N:T325K
+  pos: 29246
+  <<: *non-spike
+- name: N:T332I
+  pos: 29267
+  <<: *non-spike

@@ -1,0 +1,28 @@
+name: choi20
+positions:
+- name: RdRP:P323L  # ORF1ab:P4715L
+  pos: 14407
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: GVY142-144del
+  label: GVY142-144Δ
+  pos: 21986
+- name: Q183H
+  pos: 22109
+- name: T478K
+  pos: 22994
+- name: E484A
+  pos: 23012
+- name: F486I
+  pos: 23018
+- name: Q493K
+  pos: 23039
+- name: S494P
+  pos: 23042
+- name: N501Y
+  pos: 23063
+- name: D614G
+  pos: 23402
+- name: I870V
+  pos: 24170

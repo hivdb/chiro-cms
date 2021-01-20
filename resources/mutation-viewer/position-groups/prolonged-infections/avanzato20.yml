@@ -1,0 +1,16 @@
+name: avanzato20
+positions:
+- name: RdRP:P323L  # ORF1ab:P4715L
+  pos: 14407
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: PFLGVYY139-145del
+  label: PFLGVYY139-145Δ
+  pos: 21977
+- name: V483A
+  pos: 23009
+- name: D614G
+  pos: 23402
+- name: R685Q
+  pos: 23615

@@ -1,0 +1,21 @@
+name: mccarthy20
+positions:
+- name: RdRP:P323L  # ORF1ab:P4715L
+  pos: 14407
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: HV69-70del
+  label: HV69-70Δ
+  pos: 21767
+- name: LGVY141-144del,H146del
+  label: LGVY141-144Δ,H146Δ
+  pos: 21983
+- name: I210del
+  label: I210Δ
+  pos: 22190
+- name: AL243-244del
+  label: AL243-244Δ
+  pos: 22289
+- name: D614G
+  pos: 23402

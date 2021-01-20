@@ -8,6 +8,17 @@ paddingTop: 20
 .:
   _resource: mutation-viewer/sars2-regions.yml
 positionGroups:
-  _resource: mutation-viewer/position-groups/sars2-prolonged-infections.yml
+  - label: Kemp
+    .: {_resource: mutation-viewer/position-groups/prolonged-infections/kemp20.yml}
+  - label: McCarthy
+    .: {_resource: mutation-viewer/position-groups/prolonged-infections/mccarthy20.yml}
+  - label: Choi
+    .: {_resource: mutation-viewer/position-groups/prolonged-infections/choi20.yml}
+  - label: Avanzato
+    .: {_resource: mutation-viewer/position-groups/prolonged-infections/avanzato20.yml}
+  - label: Bazykin
+    .: {_resource: mutation-viewer/position-groups/prolonged-infections/bazykin20.yml}
+  - label: Khatamzas
+    .: {_resource: mutation-viewer/position-groups/prolonged-infections/khatamzas20.yml}
 presets:
   _resource: mutation-viewer/index.yml

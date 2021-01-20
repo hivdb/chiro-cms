@@ -1,0 +1,96 @@
+---
+title: Mutation Viewer
+introHeader: |-
+  Mutation Viewer
+heroImage: spike-structures-bg.jpg
+toc: true
+escapeHtml: false
+content:
+  _resource: mutation-viewer.md
+genomeMaps:
+  b-1-1-7:
+    name: b-1-1-7
+    height: 260
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-7.yml
+    <<: &common-props
+      label: ""
+      width: 1520
+      paddingLeft: 60
+      paddingRight: 60
+      paddingTop: 0
+      hidePositionAxis: true
+      .:
+        _resource: mutation-viewer/sars2-regions.yml
+  b-1-351:
+    name: b-1-351
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351.yml
+    <<: *common-props
+  n439k:
+    name: n439k
+    height: 195
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/n439k.yml
+    <<: *common-props
+  p-1:
+    name: p-1
+    height: 230
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/p-1.yml
+    <<: *common-props
+  p-2:
+    name: p-2
+    height: 200
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/p-2.yml
+    <<: *common-props
+  cluster5:
+    name: cluster5
+    height: 195
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/cluster5.yml
+    <<: *common-props
+  tu-501y:
+    name: tu-501y
+    height: 225
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/tu-501y.yml
+    <<: *common-props
+  kemp20:
+    name: kemp20
+    height: 200
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/prolonged-infections/kemp20.yml
+    <<: *common-props
+  mccarthy20:
+    name: mccarthy20
+    height: 240
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/prolonged-infections/mccarthy20.yml
+    <<: *common-props
+  choi20:
+    name: choi20
+    height: 240
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/prolonged-infections/choi20.yml
+    <<: *common-props
+  avanzato20:
+    name: avanzato20
+    height: 225
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/prolonged-infections/avanzato20.yml
+    <<: *common-props
+  bazykin20:
+    name: bazykin20
+    height: 215
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/prolonged-infections/bazykin20.yml
+    <<: *common-props
+  khatamzas20:
+    name: khatamzas20
+    height: 290
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/prolonged-infections/khatamzas20.yml
+    <<: *common-props
