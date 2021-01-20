@@ -332,19 +332,15 @@ def process_gene(gene, generef, data, pivots, tree):
             tree,
             all_muts
         )
-        if pos == 323:
-            pprint(matrix)
 
         for key, value in matrix.items():
             if key == 'unassigned':
-                if (value[-1] > 0.0001):
-                    print(gene, pos)
                 continue
             posaas.append({
                 'gene': gene,
                 'position': pos,
                 'aa': key,
-                'percents': value[-1]
+                'percents': list(zip(pivots, value))
                 })
 
     return posaas
