@@ -1,0 +1,16 @@
+name: cal-20c
+positions:
+- name: nsp9:I64V  # ORF1a:I4205V
+  pos: 12878
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: helicase:D260Y  # ORF1b:D1183Y
+  pos: 17014
+  <<: *non-spike
+- name: S13I
+  pos: 21599
+- name: W152C
+  pos: 22016
+- name: L452R
+  pos: 22916
