@@ -61,7 +61,7 @@ https://coronacentral.ai/
 
 
 
-### Treatment guidelines
+### Treatment
 - NIH:
 [https://covid19treatmentguidelines.nih.gov/therapeutic-options-under-investigation/antiviral-therapy/](https://covid19treatmentguidelines.nih.gov/therapeutic-options-under-investigation/antiviral-therapy/)
 
@@ -83,8 +83,6 @@ https://coronacentral.ai/
 [https://covid-evidence.org/](https://covid-evidence.org/)
 - Meta evidence:
 [http://metaevidence.org/COVID19.aspx](http://metaevidence.org/COVID19.aspx)
-- Repurposed drugs:
-[http://www.redo-project.org/covid19db/](http://www.redo-project.org/covid19db/)
 - Systematic reviews:
 [https://covid-nma.com/](https://covid-nma.com/)
 
@@ -102,6 +100,8 @@ https://coronacentral.ai/
 [https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
 - China National Center for Bioinformation
 [https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
+- CDC github code:
+[https://github.com/CDCgov/SARS-CoV-2\_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
 
 
 ### Chemical structures
@@ -160,11 +160,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDE1NDY0NDMsLTIxMjkxOTQ0MjYsMT
-M5ODEyMzAwMSwtMTAwODUzNTMyLC0xMjkzNzYxNzM5LDIwMzcz
-MDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3NjcwNSwyMTI3ODgwMT
-Q4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4MDQxNjMsMTY5
-MzI0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3MjM0MTQsLTIwMjY3Nj
-A1MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgxOTIxMTIxOCw5
-NTE4NzY3MTZdfQ==
+eyJoaXN0b3J5IjpbODM3MTY4OTUyLC0yMTI5MTk0NDI2LDEzOT
+gxMjMwMDEsLTEwMDg1MzUzMiwtMTI5Mzc2MTczOSwyMDM3MzAy
+MzcyLC0yMDIwODQxNDM0LC03MzU1NzY3MDUsMjEyNzg4MDE0OC
+wzNTMwNjk4OTUsMTI2MTAzMzc2MywxNTcxODA0MTYzLDE2OTMy
+NDM3NDIsLTEzMDg2NzUzLC0xNjI5NzIzNDE0LC0yMDI2NzYwNT
+ExLDQ3NzI0NjEwNiwxMzE0NzgyODc2LC04MTkyMTEyMTgsOTUx
+ODc2NzE2XX0=
 -->
