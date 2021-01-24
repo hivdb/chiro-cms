@@ -61,8 +61,6 @@ https://covid-19.bioreproducibility.org/
 - Coronacentral Article Classification
 https://coronacentral.ai/
 
-
-
 ### Management Guidelines
 - NIH:
 [https://covid19treatmentguidelines.nih.gov/therapeutic-options-under-investigation/antiviral-therapy/](https://covid19treatmentguidelines.nih.gov/therapeutic-options-under-investigation/antiviral-therapy/)
@@ -74,7 +72,7 @@ https://coronacentral.ai/
 [https://www.nih.gov/health-information/coronavirus](https://www.nih.gov/health-information/coronavirus)
 - Guidelines:
 [https://covid19treatmentguidelines.nih.gov/therapeutic-options-under-investigation/antiviral-therapy/](https://covid19treatmentguidelines.nih.gov/therapeutic-options-under-investigation/antiviral-therapy/)
--Open Data Portal
+-Open Data Portal:
 [https://opendata.ncats.nih.gov/covid19/index.html](https://opendata.ncats.nih.gov/covid19/index.html)
 
 ### Clinical trials
@@ -91,10 +89,18 @@ https://coronacentral.ai/
 - Systematic reviews:
 [https://covid-nma.com/](https://covid-nma.com/)
 
-### Treatment trackers
+### Vaccines
+- Vaccine tracker - London School of Tropical Medicine and Hygeine
+https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/
+- Regulatory Affairs Professional Society (RAPS) Vaccine Tracker
+https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker
 
-
-
+### Antibodies
+- Coronavirus antibody database
+[http://opig.stats.ox.ac.uk/webapps/covabdab/](http://opig.stats.ox.ac.uk/webapps/covabdab/)
+- The Antibody Society
+https://chineseantibody.org/covid-19-track/
+https://www.antibodysociety.org/covid-19-biologics-tracker/
 ### Miscellaneous
 - China National Center for Bioinformation
 [https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
@@ -109,7 +115,6 @@ https://coronacentral.ai/
 - CDC github code:
 [https://github.com/CDCgov/SARS-CoV-2\_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
 
-
 ### Chemical structures
 - American Chemical Society resources:
   https://cas.org/covid-19-antiviral-compounds-dataset
@@ -117,30 +122,6 @@ https://coronacentral.ai/
  [https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus(https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus)
  - PubChem (compounds in clinical trials):
  [https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials](https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials)
-
-
-
-
-
-### Miscellaneous drug development
-
-
-
-
-
-
-### Vaccines
-- Vaccine tracker - London School of Tropical Medicine and Hygeine
-https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/
-- Regulatory Affairs Professional Society (RAPS) Vaccine Tracker
-https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker
-
-### Antibodies
-- Coronavirus antibody database
-[http://opig.stats.ox.ac.uk/webapps/covabdab/](http://opig.stats.ox.ac.uk/webapps/covabdab/)
-- The Antibody Society
-https://chineseantibody.org/covid-19-track/
-https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 ### News
 - Drug target review:
@@ -152,11 +133,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4MTU5NDA5LDgzNzE2ODk1MiwtMjEyOT
-E5NDQyNiwxMzk4MTIzMDAxLC0xMDA4NTM1MzIsLTEyOTM3NjE3
-MzksMjAzNzMwMjM3MiwtMjAyMDg0MTQzNCwtNzM1NTc2NzA1LD
-IxMjc4ODAxNDgsMzUzMDY5ODk1LDEyNjEwMzM3NjMsMTU3MTgw
-NDE2MywxNjkzMjQzNzQyLC0xMzA4Njc1MywtMTYyOTcyMzQxNC
-wtMjAyNjc2MDUxMSw0NzcyNDYxMDYsMTMxNDc4Mjg3NiwtODE5
-MjExMjE4XX0=
+eyJoaXN0b3J5IjpbLTUwOTU3NDYyNyw4MzcxNjg5NTIsLTIxMj
+kxOTQ0MjYsMTM5ODEyMzAwMSwtMTAwODUzNTMyLC0xMjkzNzYx
+NzM5LDIwMzczMDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3NjcwNS
+wyMTI3ODgwMTQ4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4
+MDQxNjMsMTY5MzI0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3MjM0MT
+QsLTIwMjY3NjA1MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgx
+OTIxMTIxOF19
 -->
