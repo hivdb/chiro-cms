@@ -89,8 +89,6 @@ https://coronacentral.ai/
 ### Treatment trackers
 - Reagan-Udall Foundation for the FDA COVID-19 Hub
 [https://covid19.reaganudall.org/companies-developing-covid-19-therapies](https://covid19.reaganudall.org/companies-developing-covid-19-therapies)
-- STAT's Drug and Vaccine Tracker:
- [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
 
 
 ### Miscellaneous
@@ -98,6 +96,8 @@ https://coronacentral.ai/
   [https://reaganudall.org/covid-19](https://reaganudall.org/covid-19)
 - COVID-19 Data Protal:
 [https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
+- STAT's Drug and Vaccine Tracker:
+ [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
 - China National Center for Bioinformation
 [https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
 - CDC github code:
@@ -108,9 +108,9 @@ https://coronacentral.ai/
 - American Chemical Society resources:
   https://cas.org/covid-19-antiviral-compounds-dataset
 - PubChem:
-  [https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus](https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus)
+ [https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus(https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus)
  - PubChem (compounds in clinical trials):
-  [https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials](https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials)
+ [https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials](https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials)
 
 
 
@@ -160,11 +160,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MTY4OTUyLC0yMTI5MTk0NDI2LDEzOT
-gxMjMwMDEsLTEwMDg1MzUzMiwtMTI5Mzc2MTczOSwyMDM3MzAy
-MzcyLC0yMDIwODQxNDM0LC03MzU1NzY3MDUsMjEyNzg4MDE0OC
-wzNTMwNjk4OTUsMTI2MTAzMzc2MywxNTcxODA0MTYzLDE2OTMy
-NDM3NDIsLTEzMDg2NzUzLC0xNjI5NzIzNDE0LC0yMDI2NzYwNT
-ExLDQ3NzI0NjEwNiwxMzE0NzgyODc2LC04MTkyMTEyMTgsOTUx
-ODc2NzE2XX0=
+eyJoaXN0b3J5IjpbNjU4MjM5NzU3LDgzNzE2ODk1MiwtMjEyOT
+E5NDQyNiwxMzk4MTIzMDAxLC0xMDA4NTM1MzIsLTEyOTM3NjE3
+MzksMjAzNzMwMjM3MiwtMjAyMDg0MTQzNCwtNzM1NTc2NzA1LD
+IxMjc4ODAxNDgsMzUzMDY5ODk1LDEyNjEwMzM3NjMsMTU3MTgw
+NDE2MywxNjkzMjQzNzQyLC0xMzA4Njc1MywtMTYyOTcyMzQxNC
+wtMjAyNjc2MDUxMSw0NzcyNDYxMDYsMTMxNDc4Mjg3NiwtODE5
+MjExMjE4XX0=
 -->
