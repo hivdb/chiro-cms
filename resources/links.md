@@ -19,6 +19,22 @@
 - Sequence datasets:
   [http://covseq.baidu.com/browse](http://covseq.baidu.com/browse)
 
+### Protein Structures
+- PDB:
+[https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true](https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true)
+- Validated SARS-CoV-2 related structural models of potential drug targets:
+https://covid-19.bioreproducibility.org/
+- PDBsum:
+[https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPage.pl?pdbcode=n/a&template=covid19.html](https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPage.pl?pdbcode=n/a&template=covid19.html)
+- Coronavirus 3D Structure Database:
+[https://cov3d.ibbr.umd.edu/](https://cov3d.ibbr.umd.edu/)
+- COVID-3D:
+[http://biosig.unimelb.edu.au/covid3d/](http://biosig.unimelb.edu.au/covid3d/)
+- COVID-19 Data Portal:
+[https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
+- Spike protein and main protease video tutorial (U Wisconsin)
+[https://bcrf.biochem.wisc.edu/2020/05/13/covid-19-protein-structures-movie/](https://bcrf.biochem.wisc.edu/2020/05/13/covid-19-protein-structures-movie/)
+
 ### Literature
 - COVID-19 Open Research Dataset
 [https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
@@ -39,8 +55,7 @@ https://coronacentral.ai/
 ### Organizations
 - NIH:
 [https://www.nih.gov/health-information/coronavirus](https://www.nih.gov/health-information/coronavirus)
-- FDA:
-  [https://reaganudall.org/covid-19](https://reaganudall.org/covid-19)
+
 
 
 ### Clinical trials
@@ -67,23 +82,11 @@ https://coronacentral.ai/
 
 
 ### Miscellaneous
+- FDA:
+  [https://reaganudall.org/covid-19](https://reaganudall.org/covid-19)
 
 
-### Protein Structures
-- PDB:
-[https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true](https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true)
-- Validated SARS-CoV-2 related structural models of potential drug targets:
-https://covid-19.bioreproducibility.org/
-- PDBsum:
-[https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPage.pl?pdbcode=n/a&template=covid19.html](https://www.ebi.ac.uk/thornton-srv/databases/cgi-bin/pdbsum/GetPage.pl?pdbcode=n/a&template=covid19.html)
-- Coronavirus 3D Structure Database:
-[https://cov3d.ibbr.umd.edu/](https://cov3d.ibbr.umd.edu/)
-- COVID-3D:
-[http://biosig.unimelb.edu.au/covid3d/](http://biosig.unimelb.edu.au/covid3d/)
-- COVID-19 Data Portal:
-[https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
-- Spike protein and main protease video tutorial (U Wisconsin)
-[https://bcrf.biochem.wisc.edu/2020/05/13/covid-19-protein-structures-movie/](https://bcrf.biochem.wisc.edu/2020/05/13/covid-19-protein-structures-movie/)
+
 
 ### Chemical structures
 - American Chemical Society resources:
@@ -157,11 +160,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzI0ODEzLC0yMTI5MTk0NDI2LDEzOT
-gxMjMwMDEsLTEwMDg1MzUzMiwtMTI5Mzc2MTczOSwyMDM3MzAy
-MzcyLC0yMDIwODQxNDM0LC03MzU1NzY3MDUsMjEyNzg4MDE0OC
-wzNTMwNjk4OTUsMTI2MTAzMzc2MywxNTcxODA0MTYzLDE2OTMy
-NDM3NDIsLTEzMDg2NzUzLC0xNjI5NzIzNDE0LC0yMDI2NzYwNT
-ExLDQ3NzI0NjEwNiwxMzE0NzgyODc2LC04MTkyMTEyMTgsOTUx
-ODc2NzE2XX0=
+eyJoaXN0b3J5IjpbLTIwMDM4NTYxMDcsLTIxMjkxOTQ0MjYsMT
+M5ODEyMzAwMSwtMTAwODUzNTMyLC0xMjkzNzYxNzM5LDIwMzcz
+MDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3NjcwNSwyMTI3ODgwMT
+Q4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4MDQxNjMsMTY5
+MzI0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3MjM0MTQsLTIwMjY3Nj
+A1MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgxOTIxMTIxOCw5
+NTE4NzY3MTZdfQ==
 -->
