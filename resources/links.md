@@ -143,25 +143,19 @@ https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tra
 ### Antibodies
 - Coronavirus antibody database
 [http://opig.stats.ox.ac.uk/webapps/covabdab/](http://opig.stats.ox.ac.uk/webapps/covabdab/)
-
 - The Antibody Society
 https://chineseantibody.org/covid-19-track/
 https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
-### Talks
-- Cold Spring Harbor Meetings
-[https://theleadingstrand.cshl.edu/Login/2020/COVID-R3-3](https://theleadingstrand.cshl.edu/Login/2020/COVID-R3-3)
 
 ### Analyses
-- Spike receptor binding domain - deep mutational scanning
-[https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/](https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/)
-[https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/structures/](https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/structures/)
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODEyMzAyNiw4MzcxNjg5NTIsLTIxMj
+eyJoaXN0b3J5IjpbLTY3ODg3ODQzOSw4MzcxNjg5NTIsLTIxMj
 kxOTQ0MjYsMTM5ODEyMzAwMSwtMTAwODUzNTMyLC0xMjkzNzYx
 NzM5LDIwMzczMDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3NjcwNS
 wyMTI3ODgwMTQ4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4
