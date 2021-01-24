@@ -46,8 +46,6 @@ https://covid-19.bioreproducibility.org/
 [https://cov3d.ibbr.umd.edu/](https://cov3d.ibbr.umd.edu/)
 - COVID-3D:
 [http://biosig.unimelb.edu.au/covid3d/](http://biosig.unimelb.edu.au/covid3d/)
-- COVID-19 Data Portal:
-[https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
 - Spike protein and main protease video tutorial (U Wisconsin)
 [https://bcrf.biochem.wisc.edu/2020/05/13/covid-19-protein-structures-movie/](https://bcrf.biochem.wisc.edu/2020/05/13/covid-19-protein-structures-movie/)
 
@@ -133,11 +131,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTU3NDYyNyw4MzcxNjg5NTIsLTIxMj
-kxOTQ0MjYsMTM5ODEyMzAwMSwtMTAwODUzNTMyLC0xMjkzNzYx
-NzM5LDIwMzczMDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3NjcwNS
-wyMTI3ODgwMTQ4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4
-MDQxNjMsMTY5MzI0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3MjM0MT
-QsLTIwMjY3NjA1MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgx
-OTIxMTIxOF19
+eyJoaXN0b3J5IjpbLTIwMDQ0MTg0ODEsODM3MTY4OTUyLC0yMT
+I5MTk0NDI2LDEzOTgxMjMwMDEsLTEwMDg1MzUzMiwtMTI5Mzc2
+MTczOSwyMDM3MzAyMzcyLC0yMDIwODQxNDM0LC03MzU1NzY3MD
+UsMjEyNzg4MDE0OCwzNTMwNjk4OTUsMTI2MTAzMzc2MywxNTcx
+ODA0MTYzLDE2OTMyNDM3NDIsLTEzMDg2NzUzLC0xNjI5NzIzND
+E0LC0yMDI2NzYwNTExLDQ3NzI0NjEwNiwxMzE0NzgyODc2LC04
+MTkyMTEyMThdfQ==
 -->
