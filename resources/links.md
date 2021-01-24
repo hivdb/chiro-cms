@@ -24,8 +24,11 @@ https://cov.lanl.gov/content/index
 [https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
 - Virological
 [http://virological.org/c/novel-2019-coronavirus](http://virological.org/c/novel-2019-coronavirus)
-- Amino acid variation:
+- CoV-GLUE
 [http://cov-glue.cvr.gla.ac.uk/#/home](http://cov-glue.cvr.gla.ac.uk/#/home)
+- Spike receptor binding domain - deep mutational scanning
+[https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/](https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/)
+[https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/structures/](https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/structures/)
 - Hyphy:
 [http://hyphy.org/covid/](http://hyphy.org/covid/)
 - COVID-19 genome annotator:
@@ -155,11 +158,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3ODg3ODQzOSw4MzcxNjg5NTIsLTIxMj
-kxOTQ0MjYsMTM5ODEyMzAwMSwtMTAwODUzNTMyLC0xMjkzNzYx
-NzM5LDIwMzczMDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3NjcwNS
-wyMTI3ODgwMTQ4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4
-MDQxNjMsMTY5MzI0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3MjM0MT
-QsLTIwMjY3NjA1MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgx
-OTIxMTIxOF19
+eyJoaXN0b3J5IjpbLTEyNzI1ODY3NTMsODM3MTY4OTUyLC0yMT
+I5MTk0NDI2LDEzOTgxMjMwMDEsLTEwMDg1MzUzMiwtMTI5Mzc2
+MTczOSwyMDM3MzAyMzcyLC0yMDIwODQxNDM0LC03MzU1NzY3MD
+UsMjEyNzg4MDE0OCwzNTMwNjk4OTUsMTI2MTAzMzc2MywxNTcx
+ODA0MTYzLDE2OTMyNDM3NDIsLTEzMDg2NzUzLC0xNjI5NzIzND
+E0LC0yMDI2NzYwNTExLDQ3NzI0NjEwNiwxMzE0NzgyODc2LC04
+MTkyMTEyMThdfQ==
 -->
