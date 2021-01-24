@@ -31,8 +31,10 @@ https://covidcg.org/
 [https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/structures/](https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/structures/)
 - Hyphy:
 [http://hyphy.org/covid/](http://hyphy.org/covid/)
-- Lineages (Pangolin)
+- Lineages (Pangolin):
 https://cov-lineages.org/llama.html
+- Variants (CDC):
+https://www.cdc.gov/coronavirus/2019-ncov/more/science-and-research/scientific-brief-emerging-variants.html
 
 ### Protein Structures
 - PDB:
@@ -131,11 +133,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0NzIxMDgwLC00MzAzNjA2NTYsODM3MT
-Y4OTUyLC0yMTI5MTk0NDI2LDEzOTgxMjMwMDEsLTEwMDg1MzUz
-MiwtMTI5Mzc2MTczOSwyMDM3MzAyMzcyLC0yMDIwODQxNDM0LC
-03MzU1NzY3MDUsMjEyNzg4MDE0OCwzNTMwNjk4OTUsMTI2MTAz
-Mzc2MywxNTcxODA0MTYzLDE2OTMyNDM3NDIsLTEzMDg2NzUzLC
-0xNjI5NzIzNDE0LC0yMDI2NzYwNTExLDQ3NzI0NjEwNiwxMzE0
-NzgyODc2XX0=
+eyJoaXN0b3J5IjpbLTkwOTYzMzAyMSw0MTQ3MjEwODAsLTQzMD
+M2MDY1Niw4MzcxNjg5NTIsLTIxMjkxOTQ0MjYsMTM5ODEyMzAw
+MSwtMTAwODUzNTMyLC0xMjkzNzYxNzM5LDIwMzczMDIzNzIsLT
+IwMjA4NDE0MzQsLTczNTU3NjcwNSwyMTI3ODgwMTQ4LDM1MzA2
+OTg5NSwxMjYxMDMzNzYzLDE1NzE4MDQxNjMsMTY5MzI0Mzc0Mi
+wtMTMwODY3NTMsLTE2Mjk3MjM0MTQsLTIwMjY3NjA1MTEsNDc3
+MjQ2MTA2XX0=
 -->
