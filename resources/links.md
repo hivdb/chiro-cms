@@ -61,12 +61,13 @@ https://coronacentral.ai/
 
 
 
-### Treatment
+### Management Guidelines
 - NIH:
 [https://covid19treatmentguidelines.nih.gov/therapeutic-options-under-investigation/antiviral-therapy/](https://covid19treatmentguidelines.nih.gov/therapeutic-options-under-investigation/antiviral-therapy/)
+- CDC:
+[https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html)
 
-
-### Organizations
+### NIH Resource
 - NIH:
 [https://www.nih.gov/health-information/coronavirus](https://www.nih.gov/health-information/coronavirus)
 
@@ -117,8 +118,7 @@ https://coronacentral.ai/
 ### Clinical management
 - NIH:
 [https://covid19treatmentguidelines.nih.gov/whats-new/](https://covid19treatmentguidelines.nih.gov/whats-new/)
-- CDC:
-[https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html)
+
 
 #### Miscellaneous drug development
 [https://opendata.ncats.nih.gov/covid19/index.html](https://opendata.ncats.nih.gov/covid19/index.html)
@@ -160,11 +160,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MjM5NzU3LDgzNzE2ODk1MiwtMjEyOT
-E5NDQyNiwxMzk4MTIzMDAxLC0xMDA4NTM1MzIsLTEyOTM3NjE3
-MzksMjAzNzMwMjM3MiwtMjAyMDg0MTQzNCwtNzM1NTc2NzA1LD
-IxMjc4ODAxNDgsMzUzMDY5ODk1LDEyNjEwMzM3NjMsMTU3MTgw
-NDE2MywxNjkzMjQzNzQyLC0xMzA4Njc1MywtMTYyOTcyMzQxNC
-wtMjAyNjc2MDUxMSw0NzcyNDYxMDYsMTMxNDc4Mjg3NiwtODE5
-MjExMjE4XX0=
+eyJoaXN0b3J5IjpbMTYxNTU1MzkxMiw4MzcxNjg5NTIsLTIxMj
+kxOTQ0MjYsMTM5ODEyMzAwMSwtMTAwODUzNTMyLC0xMjkzNzYx
+NzM5LDIwMzczMDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3NjcwNS
+wyMTI3ODgwMTQ4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4
+MDQxNjMsMTY5MzI0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3MjM0MT
+QsLTIwMjY3NjA1MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgx
+OTIxMTIxOF19
 -->
