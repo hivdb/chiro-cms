@@ -1,4 +1,24 @@
 
+### Sequences
+- Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
+- GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
+- GenBank CoV Reference Sequences: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid11118%5BOrganism%3Aexp%5D+AND+srcdb_refseq%5BPROP%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid11118%5BOrganism%3Aexp%5D+AND+srcdb_refseq%5BPROP%5D)
+- GenBank protein: [https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D)
+- Betacoronavirus BLAST:
+[https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus)
+- COVID-19 Data Protal:
+[https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
+- China National Center for Bioinformation
+[https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
+- UCSC Genome Browser:
+  [http://genome.ucsc.edu/covid19.html](http://genome.ucsc.edu/covid19.html)
+- CoV-Seq:
+[http://covseq.baidu.com/](http://covseq.baidu.com/)
+- Sequence Read Archive:
+  [https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=search_obj&m=&s=&term=txid2697049%5Borgn%5D&go=Search](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=search_obj&m=&s=&term=txid2697049%5Borgn%5D&go=Search)
+- Sequence datasets:
+  [http://covseq.baidu.com/browse](http://covseq.baidu.com/browse)
+
 ### Literature
 - COVID-19 Open Research Dataset
 [https://www.semanticscholar.org/cord19](https://www.semanticscholar.org/cord19)
@@ -45,25 +65,9 @@ https://coronacentral.ai/
 - STAT's Drug and Vaccine Tracker:
  [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
 
-### Sequences
-- Gisaid: [https://www.gisaid.org/](https://www.gisaid.org/)
-- GenBank nucleotide: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid2697049%5Borgn%5D)
-- GenBank CoV Reference Sequences: [https://www.ncbi.nlm.nih.gov/nuccore/?term=txid11118%5BOrganism%3Aexp%5D+AND+srcdb_refseq%5BPROP%5D](https://www.ncbi.nlm.nih.gov/nuccore/?term=txid11118%5BOrganism%3Aexp%5D+AND+srcdb_refseq%5BPROP%5D)
-- GenBank protein: [https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D)
-- Betacoronavirus BLAST:
-[https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus)
-- COVID-19 Data Protal:
-[https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
-- China National Center for Bioinformation
-[https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
-- UCSC Genome Browser:
-  [http://genome.ucsc.edu/covid19.html](http://genome.ucsc.edu/covid19.html)
-- CoV-Seq:
-[http://covseq.baidu.com/](http://covseq.baidu.com/)
-- Sequence Read Archive:
-  [https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=search_obj&m=&s=&term=txid2697049%5Borgn%5D&go=Search](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=search_obj&m=&s=&term=txid2697049%5Borgn%5D&go=Search)
-- Sequence datasets:
-  [http://covseq.baidu.com/browse](http://covseq.baidu.com/browse)
+
+### Miscellaneous
+
 
 ### Protein Structures
 - PDB:
@@ -153,11 +157,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkxOTQ0MjYsMTM5ODEyMzAwMSwtMT
-AwODUzNTMyLC0xMjkzNzYxNzM5LDIwMzczMDIzNzIsLTIwMjA4
-NDE0MzQsLTczNTU3NjcwNSwyMTI3ODgwMTQ4LDM1MzA2OTg5NS
-wxMjYxMDMzNzYzLDE1NzE4MDQxNjMsMTY5MzI0Mzc0MiwtMTMw
-ODY3NTMsLTE2Mjk3MjM0MTQsLTIwMjY3NjA1MTEsNDc3MjQ2MT
-A2LDEzMTQ3ODI4NzYsLTgxOTIxMTIxOCw5NTE4NzY3MTYsLTEz
-MDAwMjM3OTZdfQ==
+eyJoaXN0b3J5IjpbMTc3NzI0ODEzLC0yMTI5MTk0NDI2LDEzOT
+gxMjMwMDEsLTEwMDg1MzUzMiwtMTI5Mzc2MTczOSwyMDM3MzAy
+MzcyLC0yMDIwODQxNDM0LC03MzU1NzY3MDUsMjEyNzg4MDE0OC
+wzNTMwNjk4OTUsMTI2MTAzMzc2MywxNTcxODA0MTYzLDE2OTMy
+NDM3NDIsLTEzMDg2NzUzLC0xNjI5NzIzNDE0LC0yMDI2NzYwNT
+ExLDQ3NzI0NjEwNiwxMzE0NzgyODc2LC04MTkyMTEyMTgsOTUx
+ODc2NzE2XX0=
 -->
