@@ -67,11 +67,11 @@ https://coronacentral.ai/
 - CDC:
 [https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html](https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-guidance-management-patients.html)
 
-### NIH Resource
+### NIH Resources
 - NIH:
 [https://www.nih.gov/health-information/coronavirus](https://www.nih.gov/health-information/coronavirus)
-
-
+- Guidelines:
+[https://covid19treatmentguidelines.nih.gov/therapeutic-options-under-investigation/antiviral-therapy/](https://covid19treatmentguidelines.nih.gov/therapeutic-options-under-investigation/antiviral-therapy/)
 
 ### Clinical trials
 - National Library of Medicine ClinicalTrials.gov:
@@ -88,13 +88,14 @@ https://coronacentral.ai/
 [https://covid-nma.com/](https://covid-nma.com/)
 
 ### Treatment trackers
-- Reagan-Udall Foundation for the FDA COVID-19 Hub
-[https://covid19.reaganudall.org/companies-developing-covid-19-therapies](https://covid19.reaganudall.org/companies-developing-covid-19-therapies)
+
 
 
 ### Miscellaneous
 - FDA:
   [https://reaganudall.org/covid-19](https://reaganudall.org/covid-19)
+  - Reagan-Udall Foundation for the FDA COVID-19 Hub
+[https://covid19.reaganudall.org/companies-developing-covid-19-therapies](https://covid19.reaganudall.org/companies-developing-covid-19-therapies)
 - COVID-19 Data Protal:
 [https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
 - STAT's Drug and Vaccine Tracker:
@@ -160,7 +161,7 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTU1MzkxMiw4MzcxNjg5NTIsLTIxMj
+eyJoaXN0b3J5IjpbMTE4ODEyMzAyNiw4MzcxNjg5NTIsLTIxMj
 kxOTQ0MjYsMTM5ODEyMzAwMSwtMTAwODUzNTMyLC0xMjkzNzYx
 NzM5LDIwMzczMDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3NjcwNS
 wyMTI3ODgwMTQ4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4
