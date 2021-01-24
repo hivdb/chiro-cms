@@ -6,10 +6,6 @@
 - GenBank protein: [https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D](https://www.ncbi.nlm.nih.gov/protein/?term=txid2697049%5Borgn%5D)
 - Betacoronavirus BLAST:
 [https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE_TYPE=BlastSearch&BLAST_SPEC=Betacoronavirus)
-- COVID-19 Data Protal:
-[https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
-- China National Center for Bioinformation
-[https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
 - UCSC Genome Browser:
   [http://genome.ucsc.edu/covid19.html](http://genome.ucsc.edu/covid19.html)
 - CoV-Seq:
@@ -18,6 +14,24 @@
   [https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=search_obj&m=&s=&term=txid2697049%5Borgn%5D&go=Search](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?cmd=search_obj&m=&s=&term=txid2697049%5Borgn%5D&go=Search)
 - Sequence datasets:
   [http://covseq.baidu.com/browse](http://covseq.baidu.com/browse)
+
+### Sequence analyses
+- Next strain:
+[https://nextstrain.org/ncov/global](https://nextstrain.org/ncov/global)
+- LANL 
+https://cov.lanl.gov/content/index
+- Virus Pathogen Resource:
+[https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
+- Virological
+[http://virological.org/c/novel-2019-coronavirus](http://virological.org/c/novel-2019-coronavirus)
+- Amino acid variation:
+[http://cov-glue.cvr.gla.ac.uk/#/home](http://cov-glue.cvr.gla.ac.uk/#/home)
+- Hyphy:
+[http://hyphy.org/covid/](http://hyphy.org/covid/)
+- COVID-19 genome annotator:
+[http://giorgilab.dyndns.org/coronapp/](http://giorgilab.dyndns.org/coronapp/)
+
+
 
 ### Protein Structures
 - PDB:
@@ -84,8 +98,10 @@ https://coronacentral.ai/
 ### Miscellaneous
 - FDA:
   [https://reaganudall.org/covid-19](https://reaganudall.org/covid-19)
-
-
+- COVID-19 Data Protal:
+[https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
+- China National Center for Bioinformation
+[https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
 
 
 ### Chemical structures
@@ -96,23 +112,7 @@ https://coronacentral.ai/
  - PubChem (compounds in clinical trials):
   [https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials](https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials)
 
-### Sequence analyses
-- Next strain:
-[https://nextstrain.org/ncov/global](https://nextstrain.org/ncov/global)
-- LANL 
-https://cov.lanl.gov/content/index
-- Virus Pathogen Resource:
-[https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
-- Virological
-[http://virological.org/c/novel-2019-coronavirus](http://virological.org/c/novel-2019-coronavirus)
-- Amino acid variation:
-[http://cov-glue.cvr.gla.ac.uk/#/home](http://cov-glue.cvr.gla.ac.uk/#/home)
-- Hyphy:
-[http://hyphy.org/covid/](http://hyphy.org/covid/)
-- COVID-19 genome annotator:
-[http://giorgilab.dyndns.org/coronapp/](http://giorgilab.dyndns.org/coronapp/)
-- CDC github code:
-[https://github.com/CDCgov/SARS-CoV-2\_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
+
 
 ### Clinical management
 - NIH:
@@ -160,7 +160,7 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM4NTYxMDcsLTIxMjkxOTQ0MjYsMT
+eyJoaXN0b3J5IjpbLTEzNDE1NDY0NDMsLTIxMjkxOTQ0MjYsMT
 M5ODEyMzAwMSwtMTAwODUzNTMyLC0xMjkzNzYxNzM5LDIwMzcz
 MDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3NjcwNSwyMTI3ODgwMT
 Q4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4MDQxNjMsMTY5
