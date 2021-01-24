@@ -118,27 +118,18 @@ https://coronacentral.ai/
 
 
 
-### Clinical management
-- NIH:
-[https://covid19treatmentguidelines.nih.gov/whats-new/](https://covid19treatmentguidelines.nih.gov/whats-new/)
 
 
-#### Miscellaneous drug development
-[https://opendata.ncats.nih.gov/covid19/index.html](https://opendata.ncats.nih.gov/covid19/index.html)
+### Miscellaneous drug development
 
 
-### News
-- Drug target review:
-[https://www.drugtargetreview.com/research_hub/covid-19/](https://www.drugtargetreview.com/research_hub/covid-19/)
-- Stat:
-[https://www.statnews.com/](https://www.statnews.com/)
-- In the pipeline:
-[https://blogs.sciencemag.org/pipeline/](https://blogs.sciencemag.org/pipeline/)
+
+
+
 
 ### Vaccines
 - Vaccine tracker - London School of Tropical Medicine and Hygeine
 https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/
-
 - Regulatory Affairs Professional Society (RAPS) Vaccine Tracker
 https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker
 
@@ -149,19 +140,21 @@ https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tra
 https://chineseantibody.org/covid-19-track/
 https://www.antibodysociety.org/covid-19-biologics-tracker/
 
-
-
-### Analyses
-
-
+### News
+- Drug target review:
+[https://www.drugtargetreview.com/research_hub/covid-19/](https://www.drugtargetreview.com/research_hub/covid-19/)
+- Stat:
+[https://www.statnews.com/](https://www.statnews.com/)
+- In the pipeline:
+[https://blogs.sciencemag.org/pipeline/](https://blogs.sciencemag.org/pipeline/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyMjg1ODQyLDgzNzE2ODk1MiwtMjEyOT
-E5NDQyNiwxMzk4MTIzMDAxLC0xMDA4NTM1MzIsLTEyOTM3NjE3
-MzksMjAzNzMwMjM3MiwtMjAyMDg0MTQzNCwtNzM1NTc2NzA1LD
-IxMjc4ODAxNDgsMzUzMDY5ODk1LDEyNjEwMzM3NjMsMTU3MTgw
-NDE2MywxNjkzMjQzNzQyLC0xMzA4Njc1MywtMTYyOTcyMzQxNC
-wtMjAyNjc2MDUxMSw0NzcyNDYxMDYsMTMxNDc4Mjg3NiwtODE5
-MjExMjE4XX0=
+eyJoaXN0b3J5IjpbLTUzMjQ4MDM0MSw4MzcxNjg5NTIsLTIxMj
+kxOTQ0MjYsMTM5ODEyMzAwMSwtMTAwODUzNTMyLC0xMjkzNzYx
+NzM5LDIwMzczMDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3NjcwNS
+wyMTI3ODgwMTQ4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4
+MDQxNjMsMTY5MzI0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3MjM0MT
+QsLTIwMjY3NjA1MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgx
+OTIxMTIxOF19
 -->
