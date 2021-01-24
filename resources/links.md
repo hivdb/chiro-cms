@@ -20,8 +20,7 @@
 [https://nextstrain.org/ncov/global](https://nextstrain.org/ncov/global)
 - LANL 
 https://cov.lanl.gov/content/index
-- # China National Center for Bioinformation
-[https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
+
 - Virological
 [http://virological.org/c/novel-2019-coronavirus](http://virological.org/c/novel-2019-coronavirus)
 - CoV-GLUE
@@ -95,16 +94,16 @@ https://coronacentral.ai/
 
 
 ### Miscellaneous
+- China National Center for Bioinformation
+[https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
 - FDA:
   [https://reaganudall.org/covid-19](https://reaganudall.org/covid-19)
   - Reagan-Udall Foundation for the FDA COVID-19 Hub
 [https://covid19.reaganudall.org/companies-developing-covid-19-therapies](https://covid19.reaganudall.org/companies-developing-covid-19-therapies)
-- COVID-19 Data Protal:
+- COVID-19 Data Portal:
 [https://www.covid19dataportal.org/](https://www.covid19dataportal.org/)
 - STAT's Drug and Vaccine Tracker:
  [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
-- China National Center for Bioinformation
-[https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
 - CDC github code:
 [https://github.com/CDCgov/SARS-CoV-2\_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
 
@@ -158,11 +157,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTkzMjA4MjQsODM3MTY4OTUyLC0yMT
-I5MTk0NDI2LDEzOTgxMjMwMDEsLTEwMDg1MzUzMiwtMTI5Mzc2
-MTczOSwyMDM3MzAyMzcyLC0yMDIwODQxNDM0LC03MzU1NzY3MD
-UsMjEyNzg4MDE0OCwzNTMwNjk4OTUsMTI2MTAzMzc2MywxNTcx
-ODA0MTYzLDE2OTMyNDM3NDIsLTEzMDg2NzUzLC0xNjI5NzIzND
-E0LC0yMDI2NzYwNTExLDQ3NzI0NjEwNiwxMzE0NzgyODc2LC04
-MTkyMTEyMThdfQ==
+eyJoaXN0b3J5IjpbNjgyMjg1ODQyLDgzNzE2ODk1MiwtMjEyOT
+E5NDQyNiwxMzk4MTIzMDAxLC0xMDA4NTM1MzIsLTEyOTM3NjE3
+MzksMjAzNzMwMjM3MiwtMjAyMDg0MTQzNCwtNzM1NTc2NzA1LD
+IxMjc4ODAxNDgsMzUzMDY5ODk1LDEyNjEwMzM3NjMsMTU3MTgw
+NDE2MywxNjkzMjQzNzQyLC0xMzA4Njc1MywtMTYyOTcyMzQxNC
+wtMjAyNjc2MDUxMSw0NzcyNDYxMDYsMTMxNDc4Mjg3NiwtODE5
+MjExMjE4XX0=
 -->
