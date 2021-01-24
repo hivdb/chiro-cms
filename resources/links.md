@@ -20,7 +20,7 @@
 [https://nextstrain.org/ncov/global](https://nextstrain.org/ncov/global)
 - LANL 
 https://cov.lanl.gov/content/index
-- Virus Pathogen Resource:
+- # China National Center for Bioinformation
 [https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
 - Virological
 [http://virological.org/c/novel-2019-coronavirus](http://virological.org/c/novel-2019-coronavirus)
@@ -158,7 +158,7 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI1ODY3NTMsODM3MTY4OTUyLC0yMT
+eyJoaXN0b3J5IjpbLTEwOTkzMjA4MjQsODM3MTY4OTUyLC0yMT
 I5MTk0NDI2LDEzOTgxMjMwMDEsLTEwMDg1MzUzMiwtMTI5Mzc2
 MTczOSwyMDM3MzAyMzcyLC0yMDIwODQxNDM0LC03MzU1NzY3MD
 UsMjEyNzg4MDE0OCwzNTMwNjk4OTUsMTI2MTAzMzc2MywxNTcx
