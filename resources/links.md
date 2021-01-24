@@ -22,6 +22,8 @@
 https://cov.lanl.gov/content/index
 - Virological
 [http://virological.org/c/novel-2019-coronavirus](http://virological.org/c/novel-2019-coronavirus)
+- CoVID-CG
+https://covidcg.org/
 - CoV-GLUE
 [http://cov-glue.cvr.gla.ac.uk/#/home](http://cov-glue.cvr.gla.ac.uk/#/home)
 - Spike receptor binding domain - deep mutational scanning
@@ -29,8 +31,6 @@ https://cov.lanl.gov/content/index
 [https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/structures/](https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/structures/)
 - Hyphy:
 [http://hyphy.org/covid/](http://hyphy.org/covid/)
-
-### Molecular Epidemiology
 - Lineages (Pangolin)
 https://cov-lineages.org/llama.html
 
@@ -131,11 +131,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDM2MDY1Niw4MzcxNjg5NTIsLTIxMj
-kxOTQ0MjYsMTM5ODEyMzAwMSwtMTAwODUzNTMyLC0xMjkzNzYx
-NzM5LDIwMzczMDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3NjcwNS
-wyMTI3ODgwMTQ4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4
-MDQxNjMsMTY5MzI0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3MjM0MT
-QsLTIwMjY3NjA1MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgx
-OTIxMTIxOF19
+eyJoaXN0b3J5IjpbNDE0NzIxMDgwLC00MzAzNjA2NTYsODM3MT
+Y4OTUyLC0yMTI5MTk0NDI2LDEzOTgxMjMwMDEsLTEwMDg1MzUz
+MiwtMTI5Mzc2MTczOSwyMDM3MzAyMzcyLC0yMDIwODQxNDM0LC
+03MzU1NzY3MDUsMjEyNzg4MDE0OCwzNTMwNjk4OTUsMTI2MTAz
+Mzc2MywxNTcxODA0MTYzLDE2OTMyNDM3NDIsLTEzMDg2NzUzLC
+0xNjI5NzIzNDE0LC0yMDI2NzYwNTExLDQ3NzI0NjEwNiwxMzE0
+NzgyODc2XX0=
 -->
