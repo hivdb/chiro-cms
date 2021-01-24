@@ -33,8 +33,6 @@ https://cov.lanl.gov/content/index
 - COVID-19 genome annotator:
 [http://giorgilab.dyndns.org/coronapp/](http://giorgilab.dyndns.org/coronapp/)
 
-
-
 ### Protein Structures
 - PDB:
 [https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true](https://www.rcsb.org/news?year=2020&article=5e74d55d2d410731e9944f52&feature=true)
@@ -99,6 +97,13 @@ https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tra
 - The Antibody Society
 https://chineseantibody.org/covid-19-track/
 https://www.antibodysociety.org/covid-19-biologics-tracker/
+### Chemical structures
+- American Chemical Society resources:
+  https://cas.org/covid-19-antiviral-compounds-dataset
+- PubChem:
+ [https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus(https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus)
+ - PubChem (compounds in clinical trials):
+ [https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials](https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials)
 ### Miscellaneous
 - China National Center for Bioinformation
 [https://bigd.big.ac.cn/ncov/?lang=en](https://bigd.big.ac.cn/ncov/?lang=en)
@@ -113,14 +118,6 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 - CDC github code:
 [https://github.com/CDCgov/SARS-CoV-2\_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
 
-### Chemical structures
-- American Chemical Society resources:
-  https://cas.org/covid-19-antiviral-compounds-dataset
-- PubChem:
- [https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus(https://pubchem.ncbi.nlm.nih.gov/#query=coronavirus)
- - PubChem (compounds in clinical trials):
- [https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials](https://pubchem.ncbi.nlm.nih.gov/#tab=compound&query=covid-19%20clinicaltrials)
-
 ### News
 - Drug target review:
 [https://www.drugtargetreview.com/research_hub/covid-19/](https://www.drugtargetreview.com/research_hub/covid-19/)
@@ -131,11 +128,11 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQ0MTg0ODEsODM3MTY4OTUyLC0yMT
-I5MTk0NDI2LDEzOTgxMjMwMDEsLTEwMDg1MzUzMiwtMTI5Mzc2
-MTczOSwyMDM3MzAyMzcyLC0yMDIwODQxNDM0LC03MzU1NzY3MD
-UsMjEyNzg4MDE0OCwzNTMwNjk4OTUsMTI2MTAzMzc2MywxNTcx
-ODA0MTYzLDE2OTMyNDM3NDIsLTEzMDg2NzUzLC0xNjI5NzIzND
-E0LC0yMDI2NzYwNTExLDQ3NzI0NjEwNiwxMzE0NzgyODc2LC04
-MTkyMTEyMThdfQ==
+eyJoaXN0b3J5IjpbMTQyOTY0MDEwNSw4MzcxNjg5NTIsLTIxMj
+kxOTQ0MjYsMTM5ODEyMzAwMSwtMTAwODUzNTMyLC0xMjkzNzYx
+NzM5LDIwMzczMDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3NjcwNS
+wyMTI3ODgwMTQ4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4
+MDQxNjMsMTY5MzI0Mzc0MiwtMTMwODY3NTMsLTE2Mjk3MjM0MT
+QsLTIwMjY3NjA1MTEsNDc3MjQ2MTA2LDEzMTQ3ODI4NzYsLTgx
+OTIxMTIxOF19
 -->
