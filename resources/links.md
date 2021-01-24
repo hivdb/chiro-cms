@@ -20,7 +20,6 @@
 [https://nextstrain.org/ncov/global](https://nextstrain.org/ncov/global)
 - LANL 
 https://cov.lanl.gov/content/index
-
 - Virological
 [http://virological.org/c/novel-2019-coronavirus](http://virological.org/c/novel-2019-coronavirus)
 - CoV-GLUE
@@ -30,8 +29,7 @@ https://cov.lanl.gov/content/index
 [https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/structures/](https://jbloomlab.github.io/SARS-CoV-2-RBD_DMS/structures/)
 - Hyphy:
 [http://hyphy.org/covid/](http://hyphy.org/covid/)
-- COVID-19 genome annotator:
-[http://giorgilab.dyndns.org/coronapp/](http://giorgilab.dyndns.org/coronapp/)
+
 
 ### Protein Structures
 - PDB:
@@ -117,6 +115,8 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
  [https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
 - CDC github code:
 [https://github.com/CDCgov/SARS-CoV-2\_Sequencing](https://github.com/CDCgov/SARS-CoV-2_Sequencing)
+- COVID-19 genome annotator:
+[http://giorgilab.dyndns.org/coronapp/](http://giorgilab.dyndns.org/coronapp/)
 
 ### News
 - Drug target review:
@@ -128,7 +128,7 @@ https://www.antibodysociety.org/covid-19-biologics-tracker/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTY0MDEwNSw4MzcxNjg5NTIsLTIxMj
+eyJoaXN0b3J5IjpbMTc3NDk4OTM0Myw4MzcxNjg5NTIsLTIxMj
 kxOTQ0MjYsMTM5ODEyMzAwMSwtMTAwODUzNTMyLC0xMjkzNzYx
 NzM5LDIwMzczMDIzNzIsLTIwMjA4NDE0MzQsLTczNTU3NjcwNS
 wyMTI3ODgwMTQ4LDM1MzA2OTg5NSwxMjYxMDMzNzYzLDE1NzE4
