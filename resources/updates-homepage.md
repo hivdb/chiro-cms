@@ -22,6 +22,10 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Jan 25)
+Gottlieb RL, Nirula A, et int., and Skovronsky DM. [“Effect of Bamlanivimab as Monotherapy or in Combination With Etesevimab on Viral Load in Patients With Mild to Moderate COVID-19.”](/search/?article=Gottlieb21) _JAMA_, 2021. [doi.org/10.1001/jama.2021.0202](https://doi.org/10.1001/jama.2021.0202). \[[PubMed33475701](https://www.ncbi.nlm.nih.gov/pubmed/33475701/)\]
+### [Clinical Trials (Jan 21)](/page/updates/#clinical.trials)
+[6 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-01-21)
 ### Database Entries (Jan 19)
 Davies SP, Mycroft-West CJ, et int., and Richardson A. [“The hyperlipidaemic drug fenofibrate significantly reduces infection by SARS-CoV-2 in cell culture models.”](/search/?article=Davies21) _bioRxiv_, 2021. [doi.org/10.1101/2021.01.10.426114](https://doi.org/10.1101/2021.01.10.426114).
 ### Database Entries (Jan 19)

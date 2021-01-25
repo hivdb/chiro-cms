@@ -79,6 +79,8 @@ Instruction:
 ## Database Entries
 
 ### January 2021
+- January 25
+    - Gottlieb RL, Nirula A, et int., and Skovronsky DM. [“Effect of Bamlanivimab as Monotherapy or in Combination With Etesevimab on Viral Load in Patients With Mild to Moderate COVID-19.”](/search/?article=Gottlieb21) _JAMA_, 2021. [doi.org/10.1001/jama.2021.0202](https://doi.org/10.1001/jama.2021.0202). \[[PubMed33475701](https://www.ncbi.nlm.nih.gov/pubmed/33475701/)\]
 - January 19
     - Davies SP, Mycroft-West CJ, et int., and Richardson A. [“The hyperlipidaemic drug fenofibrate significantly reduces infection by SARS-CoV-2 in cell culture models.”](/search/?article=Davies21) _bioRxiv_, 2021. [doi.org/10.1101/2021.01.10.426114](https://doi.org/10.1101/2021.01.10.426114).
     - Kim C, Ryu D, et int., and Lee S. [“A therapeutic neutralizing antibody targeting receptor binding domain of SARS-CoV-2 spike protein.”](/search/?article=Kim21) _Nature Communications_, 2021. [doi.org/10.1038/s41467-020-20602-5](https://doi.org/10.1038/s41467-020-20602-5). \[[PubMed33436577](https://www.ncbi.nlm.nih.gov/pubmed/33436577/)\]
@@ -979,6 +981,14 @@ Instruction:
 ## Clinical Trials
 
 ### January 2021
+- January 21
+    - [6 clinical trials were added.](/clinical-trials/?fromDate=2021-01-21)
+    - NCT04713176
+    - NCT04716556
+    - NCT04716569
+    - NCT04718480
+    - NCT04721236
+    - NCT04721535
 - January 14
     - [13 clinical trials were added.](/clinical-trials/?fromDate=2021-01-14)
     - CTRI/2020/12/029855
