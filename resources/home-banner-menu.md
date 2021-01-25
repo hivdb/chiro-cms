@@ -4,8 +4,8 @@
   - [Other Nucleoside Analogs](/page/covid-review/#other.nucleoside.analogs)
 - [Protease Inhibitors](/page/covid-review/#protease.inhibitors)
   - [Mpro inhibitors](/page/covid-review/#mpro.inhibitors)
-  - [PLpro nhibitors](/page/covid-review/#p3clpro.inhibitors)
-  - [HIV-1 protease.innhibitors](/page/covid-review/#hiv-1.protelpro.inveibitors)
+  - [PLpro inhibitors](/page/covid-review/#plpro.inhibitors)
+  - [HIV-1 protease inhibitors](/page/covid-review/#hiv-1.protease.inhibitors)
 - [Entry Inhibitors](/page/covid-review/#entry.inhibitors)
   - [Monoclonal Antibodies (mAbs)](/page/covid-review/#monoclonal.antibodies.mabs.)
     - [mAb Isolation](/page/covid-review/#mab.isolation)
@@ -25,7 +25,7 @@
 - [Interferons](/page/covid-review/#interferons)
 - [Host-Targeting Compounds](/page/covid-review/#host-targeting.compounds)
   - [Host Protease Inhibitors](/page/covid-review/#host.protease.inhibitors)
-  - [tol Host-Targeting Compounds](/page/covid-review/#ist-targeting.compounds)
+  - [Additional Host-Targeting Compounds](/page/covid-review/#additional.host-targeting.compounds)
   - [Apilimod](/page/covid-review/#apilimod)
   - [Chloroquine (CQ) analogs](/page/covid-review/#chloroquine.cq.analogs)
   - [Ivermectin](/page/covid-review/#ivermectin)
@@ -35,6 +35,3 @@
   - [Tyrosine kinase inhibitors](/page/covid-review/#tyrosine.kinase.inhibitors)
   - [Cyclophilin inhibitors](/page/covid-review/#cyclophilin.inhibitors)
   - [Miscellaneous](/page/covid-review/#miscellaneous)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM2NDU2MDldfQ==
--->
