@@ -37,7 +37,7 @@ b-1-351
 
 ### [B.1.351, aka 501.V2 variant, 20C/501Y.V2, and South African COVID-19 variant](#sec_b-1-351)
 
-Abdool Karim S. “The 2nd Covid-19 wave in South Africa: Transmissibility & a 501.V2 variant.” CAPRISA, 2020. [^AbdoolKarim20][^Chand20][^Tegally20]
+Abdool Karim S. “The 2nd Covid-19 wave in South Africa: Transmissibility & a 501.V2 variant.” CAPRISA, 2020. [^Tegally20]
 
 </div>
 
