@@ -87,12 +87,12 @@ GENE_MUTANNOTS = {
         'cutoff': 0.001,
         'path': os.path.join(
             BASE_DIR, 'resources',
-            'mutannots', 'spike', 'var1000.yml')
+            'mutannots', 'spike', 'var1000-glue.yml')
     }, {
         'cutoff': 0.0005,
         'path': os.path.join(
             BASE_DIR, 'resources',
-            'mutannots', 'spike', 'var2000.yml')
+            'mutannots', 'spike', 'var2000-glue.yml')
     }],
     'RdRP': [{
         'cutoff': 0.001,
@@ -323,8 +323,8 @@ def update_mutannots(gene, aapcnt):
                     raise RuntimeError('File {} is empty'.format(path))
         else:
             data = {
-                'name': 'var{}'.format(round(1 / cutoff)),
-                'label': '≥{:g}%'.format(cutoff * 100),
+                'name': 'var{}-glue'.format(round(1 / cutoff)),
+                'label': 'GLUE≥{:g}%'.format(cutoff * 100),
                 'level': 'aminoAcid',
                 'hideCitations': True,
                 'colorRules': [],

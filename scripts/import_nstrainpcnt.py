@@ -2,9 +2,7 @@ import os
 import re
 import json
 import click
-from collections import Counter
 from copy import deepcopy
-from pprint import pprint
 from datetime import date
 
 BASE_DIR = os.path.dirname(
@@ -367,24 +365,6 @@ def main(genes):
         destfile = os.path.join(RESULTS_DIR, 'aapcnt-{}.json'.format(gene))
         with open(destfile, 'w') as fp:
             json.dump(posaas, fp, indent=2)
-
-
-    # with open(os.path.join(CACHE_DIR, 'global-frequencies.json')) as fp:
-    #     branch_freqs = json.load(fp)
-    #     pivots = numeric2date(branch_freqs.pop('pivots'))
-    #     branch_freqs.pop('generated_by')
-    # branches = set(branch_freqs.keys())
-    # with open(os.path.join(CACHE_DIR, 'global.json')) as fp:
-    #     data = json.load(fp)
-    #     branch_lookup = build_branch_lookup(data['tree'], branches)
-
-    # for gene in genes:
-    #     destfile = os.path.join(RESULTS_DIR, 'aapcnt-{}.json'.format(gene))
-    #     with open(destfile, 'w') as fp:
-    #         payload = list(iter_percents(gene, branch_freqs,
-    #                                      branch_lookup, pivots))
-    #         json.dump(payload, fp, indent=2)
-    #         click.echo('Created {}'.format(destfile))
 
 
 if __name__ == '__main__':

@@ -535,7 +535,7 @@
   - freeText: '[Press release]($$CMS_PREFIX$$downloads/press-release/Lilly20201027.pdf)'
   - freeText: (Lilly / AbCellera / Shanghai Junshi Bioscience)
   antibodies:
-  - name: CB6
+  - name: LY-CoV016
     ec50: 835
   source: |-
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
@@ -1114,13 +1114,14 @@
   dataAvailability:
     trial: true
 - references:
-  - doi: 10.21203/rs.3.rs-59639/v1
-    refId: Lee20b
+  - doi: 10.1038/s41467-020-20602-5
+    refId: Kim21
     firstAuthor:
-      surname: Lee
-      givenNames: Soo-Young
-    year: 2020
-    journal: Research Square
+      surname: Kim
+      givenNames: Cheolmin
+    year: 2021
+    journal: Nature Communications
+    journalShort: Nat Commun
   - freeText: (Celltrion)
   antibodies:
   - name: CT-P59
