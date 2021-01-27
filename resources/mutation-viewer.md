@@ -1,4 +1,4 @@
-## Variant Clusters
+## Variants of concern
 
 <div style="clear: both; height: 0;" />
 
@@ -37,12 +37,34 @@ b-1-351
 
 ### [B.1.351, aka 501.V2 variant, 20C/501Y.V2, and South African COVID-19 variant](#sec_b-1-351)
 
-Abdool Karim S. “The 2nd Covid-19 wave in South Africa: Transmissibility & a 501.V2 variant.” CAPRISA, 2020. [^Tegally20]
+Tegally H, Wilkinson E, et int., and de Oliveira T. “Emergence and rapid spread of a new severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) lineage with multiple spike mutations in South Africa.” _medRxiv_, 2020. [doi.org/10.1101/2020.12.21.20248640](https://doi.org/10.1101/2020.12.21.20248640). [^Tegally20]
 
 </div>
 
 </section>
 
+
+<section id="sec_p-1" class="figure-section wrap">
+
+<div class="figure-image">
+
+[genomemap]
+p-1
+[/genomemap]
+
+</div>
+
+<div class="figure-caption">
+
+### [P.1, aka 501Y.V3 variant, and K417T/E484K/N501Y](#sec_p-1)
+
+Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
+
+</div>
+
+</section>
+
+## Other variants
 
 <section id="sec_n439k" class="figure-section wrap">
 
@@ -63,28 +85,6 @@ Thomson EC, Rosen LE, et int., and Snell G. “The circulating SARS-CoV-2 spike 
 </div>
 
 </section>
-
-
-<section id="sec_p-1" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-p-1
-[/genomemap]
-
-</div>
-
-<div class="figure-caption">
-
-### [P.1, aka 501Y.V3, and K417T/E484K/N501Y](#sec_p-1)
-
-Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
-
-</div>
-
-</section>
-
 
 <section id="sec_p-2" class="figure-section wrap">
 
