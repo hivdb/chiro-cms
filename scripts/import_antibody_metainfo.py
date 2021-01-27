@@ -84,6 +84,9 @@ def import_antibody_metainfo(folder_path, output_path):
         ace2_competing = item['ACE2-Competing']
         ace2_overlap = item['%ACE2 Overlap']
         s_trim = item['PDB Spike']
+        release_date = item['Release date']
+        if not release_date:
+            continue
         if not ace2_competing:
             continue
         if not str(ace2_overlap):
@@ -95,10 +98,12 @@ def import_antibody_metainfo(folder_path, output_path):
             'PDB': PDB,
             'PDB_s_trimer': ('√' if s_trim == 'S Trimer' else ''),
             'target': target,
-            'IGHV': se_map[mab],
+            'IGHV': se_map.get(mab),
             'ace2_competing': ('√' if ace2_competing == 'Yes' else ''),
             'ace2_overlap': int(ace2_overlap)
         })
+
+    result.sort(key=lambda x: x['mAb'])
 
     save_path = Path(output_path) / 'antibody-meta.yml'
     dump_yaml(save_path, result)
