@@ -1,0 +1,16 @@
+name: DH1047 epitope
+label: DH1047
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1101/2020.12.31.424729
+  author: Li
+  year: 2020
+  section: 'PDB: 7LD1'
+  positions: [369, 370, 374, 375, 376, 377, 378, 379, 383, 384, 405, 407, 408, 409,
+    415, 435, 499, 501, 502, 503, 504]
+positions:
+- subgroup: DH1047
+  positions: [369, 370, 374, 375, 376, 377, 378, 379, 383, 384, 405, 407, 408, 409,
+    415, 435, 499, 501, 502, 503, 504]

@@ -1,0 +1,16 @@
+name: LY-CoV555 epitope
+label: LY-CoV555
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1101/2020.09.30.318972
+  author: Jones
+  year: 2020
+  section: 'PDB: 7KMG'
+  positions: [351, 449, 450, 452, 455, 456, 470, 472, 481, 482, 483, 484, 485, 486,
+    487, 488, 489, 490, 492, 493, 494]
+positions:
+- subgroup: LY-CoV555
+  positions: [351, 449, 450, 452, 455, 456, 470, 472, 481, 482, 483, 484, 485, 486,
+    487, 488, 489, 490, 492, 493, 494]
