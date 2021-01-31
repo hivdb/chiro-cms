@@ -1,5 +1,4 @@
 name: mccarthy20
-# MW269404 and MW269555
 positions:
 - name: RdRP:P323L  # ORF1ab:P4715L
   pos: 14407
@@ -9,3 +8,5 @@ positions:
 - name: LGVY141-144del
   label: LGVY141-144Δ
   pos: 21983
+- name: D614G
+  pos: 23402
