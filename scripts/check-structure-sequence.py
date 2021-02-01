@@ -419,8 +419,8 @@ def get_mab_has_problem(structures):
             continue
 
         comment = item['Comment']
-        unreleased = item['Unreleased']
-        if comment or unreleased:
+        release_date = item['Release date']
+        if comment or not release_date:
             mab_names.add(name)
 
     mab_names = list(mab_names)
