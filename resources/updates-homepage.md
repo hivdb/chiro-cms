@@ -22,6 +22,10 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Jan 31)
+White KM, Rosales R, et int., and García-Sastre A. [“Plitidepsin has potent preclinical efficacy against SARS-CoV-2 by targeting the host protein eEF1A.”](/search/?article=White21) _Science (New York, N.Y.)_, None. [doi.org/10.1126/science.abf4058](https://doi.org/10.1126/science.abf4058). \[[PubMed33495306](https://www.ncbi.nlm.nih.gov/pubmed/33495306/)\]
+### [Clinical Trials (Jan 28)](/page/updates/#clinical.trials)
+[7 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-01-28)
 ### Database Entries (Jan 25)
 Gottlieb RL, Nirula A, et int., and Skovronsky DM. [“Effect of Bamlanivimab as Monotherapy or in Combination With Etesevimab on Viral Load in Patients With Mild to Moderate COVID-19.”](/search/?article=Gottlieb21) _JAMA_, 2021. [doi.org/10.1001/jama.2021.0202](https://doi.org/10.1001/jama.2021.0202). \[[PubMed33475701](https://www.ncbi.nlm.nih.gov/pubmed/33475701/)\]
 ### [Clinical Trials (Jan 21)](/page/updates/#clinical.trials)

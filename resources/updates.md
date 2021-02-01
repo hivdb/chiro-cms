@@ -79,6 +79,8 @@ Instruction:
 ## Database Entries
 
 ### January 2021
+- January 31
+    - White KM, Rosales R, et int., and García-Sastre A. [“Plitidepsin has potent preclinical efficacy against SARS-CoV-2 by targeting the host protein eEF1A.”](/search/?article=White21) _Science (New York, N.Y.)_, None. [doi.org/10.1126/science.abf4058](https://doi.org/10.1126/science.abf4058). \[[PubMed33495306](https://www.ncbi.nlm.nih.gov/pubmed/33495306/)\]
 - January 25
     - Gottlieb RL, Nirula A, et int., and Skovronsky DM. [“Effect of Bamlanivimab as Monotherapy or in Combination With Etesevimab on Viral Load in Patients With Mild to Moderate COVID-19.”](/search/?article=Gottlieb21) _JAMA_, 2021. [doi.org/10.1001/jama.2021.0202](https://doi.org/10.1001/jama.2021.0202). \[[PubMed33475701](https://www.ncbi.nlm.nih.gov/pubmed/33475701/)\]
 - January 19
@@ -981,6 +983,15 @@ Instruction:
 ## Clinical Trials
 
 ### January 2021
+- January 28
+    - [7 clinical trials were added.](/clinical-trials/?fromDate=2021-01-28)
+    - NCT04723394
+    - NCT04723537
+    - NCT04723589
+    - NCT04727424
+    - NCT04727775
+    - NCT04730206
+    - NCT04730401
 - January 21
     - [6 clinical trials were added.](/clinical-trials/?fromDate=2021-01-21)
     - NCT04713176
