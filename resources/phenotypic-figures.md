@@ -1,0 +1,62 @@
+## Susceptibility results of monoclonal neutralizing antibodies
+
+<section id="sec_mab-fold" class="figure-section wrap">
+
+<div class="figure-image">
+
+![Monoclonal antibodies](https://hivdb.github.io/covid-drdb-reports/phenotypic-figs_files/figure-html/mab-fold-fig-1.png)
+
+</div>
+
+<div class="figure-caption">
+
+Fold reduced _in vitro_ neutralization susceptibility to monoclonal neutralizing antibodies (mAbs) associated with two variants of concern (B.1.1.7 and B.1.351) and two spike amino acid mutations E484K and N501Y. B.1.1.7 contains N501Y plus two S1 N-terminal domain (NTD) deletions, three S1 C-terminal domain (CTD) mutations, and three S2-mutations. B.1.351 contains E484K and N501Y plus four S1 NTD mutations, two receptor binding domain (RBD) mutations, one S1 CTD mutation, and one S2 mutation. Each of the in vitro susceptibility experiments were performed using pseudovirus assays. Some of the pseudovirus assays performed with E484K spike and N501Y spike contained D614G while others did not. D614G has been reported to slightly increase neutralization susceptibility. The Y-axis indicates the log-fold reduction in susceptibility. Data are displayed for mAbs in advanced clinical trials and several additional prototypical mAbs with high-resolution 3-D structures and defined mechanisms of mAb-RBD binding. The histogram colors indicate the study reference:
+
+- **Baum20**: Baum A, Fulton BO, et int., and Kyratsous CA. “Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies.” _Science_, 2020. [doi.org/10.1126/science.abd0831](https://doi.org/10.1126/science.abd0831). \[[PubMed32540904](https://pubmed.ncbi.nlm.nih.gov/32540904/)\] \[[PMC7299283](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7299283/)\]
+- **Gottlieb21**: Gottlieb RL, Nirula A, et int., and Skovronsky DM. “Effect of Bamlanivimab as Monotherapy or in Combination With Etesevimab on Viral Load in Patients With Mild to Moderate COVID-19.” _JAMA_, 2021. [doi.org/10.1001/jama.2021.0202](https://doi.org/10.1001/jama.2021.0202). \[[PubMed33475701](https://pubmed.ncbi.nlm.nih.gov/33475701/)\] \[[PMC7821080]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7821080/)\]
+- **Shen21**: Shen X, Tang H, et int., and Montefiori DC. “SARS-CoV-2 variant B.1.1.7 is susceptible to neutralizing antibodies elicited by ancestral Spike vaccines.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.27.428516](https://doi.org/10.1101/2021.01.27.428516).
+- **Wang21b**: Wang P, Liu L, et int., and Ho DD. “Increased Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7 to Antibody Neutralization.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.25.428137](https://doi.org/10.1101/2021.01.25.428137).
+- **Weisblum20**: Weisblum Y, Schmidt F, et int., and Bieniasz PD. “Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants.” _eLife_, 2020. [doi.org/10.7554/elife.61312](https://doi.org/10.7554/elife.61312). \[[PubMed33112236](https://pubmed.ncbi.nlm.nih.gov/33112236/)\] \[[PMC7723407](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7723407/)\]
+- **Wibmer21**: Wibmer CK, Ayres F, et int., and Moore PL. “SARS-CoV-2 501Y.V2 escapes neutralization by South African COVID-19 donor plasma.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.18.427166](https://doi.org/10.1101/2021.01.18.427166). \[[PubMed33501446](https://pubmed.ncbi.nlm.nih.gov/33501446/)\] \[[PMC7836116](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836116/)\]
+
+</div>
+
+</section>
+
+
+## Susceptibility results of convalescent and vaccinated plasma
+
+<section id="sec_plasma-fold" class="figure-section wrap">
+
+<div class="figure-image">
+
+![Convalescent and vaccinated plasma](https://hivdb.github.io/covid-drdb-reports/phenotypic-figs_files/figure-html/plasma-fold-fig-1.png)
+
+</div>
+
+<div class="figure-caption">
+
+Fold reduced _in vitro_ neutralization susceptibility to plasma from previously infected and vaccinated persons associated with two variants of concern (B.1.1.7 and B.1.351) and two spike amino acid mutations E484K and N501Y. B.1.1.7 contains N501Y plus two S1 N-terminal domain (NTD) deletions, three S1 C-terminal domain (CTD) mutations, and three S2-mutations. B.1.351 contains E484K and N501Y plus four S1 NTD mutations, two receptor binding domain (RBD) mutations, one S1 CTD mutation, and one S2 mutation. The Y-axis indicates the number of plasma units tested.
+
+<p>
+The color scheme indicates the fold-reduction in neutralization: <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #ffffff; color: black;">absence of color</span> – &lt;3-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #7fcbee; color: black;">light blue</span> – 3 to 9.9-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span> – ≥10-fold reduced susceptibility. The histogram labels indicate the studies’ authors and plasma characteristics. BNT: BNT162b2; Mod: mRNA-1273; NVX: NVX-CoV2373. Each of plasma units were obtained approximately one month following vaccination with the exception of one study.
+</p>
+
+- **Collier21**: Collier D, Meng B, et int., and Gupta R. “Impact of SARS-CoV-2 B.1.1.7 Spike variant on neutralisation potency of sera from individuals vaccinated with Pfizer vaccine BNT162b2.” _medRxiv_, 2021. [doi.org/10.1101/2021.01.19.21249840](https://doi.org/10.1101/2021.01.19.21249840).
+- **Greaney21**: Greaney AJ, Loes AN, et int., and Bloom JD. “Comprehensive mapping of mutations to the SARS-CoV-2 receptor-binding domain that affect recognition by polyclonal human serum antibodies.” _bioRxiv_, 2021. [doi.org/10.1101/2020.12.31.425021](https://doi.org/10.1101/2020.12.31.425021).
+- **Hu21**: Hu J, Peng P, et int., and Huang A. “Emerging SARS-CoV-2 variants reduce neutralization sensitivity to convalescent sera and monoclonal antibodies.” _bioRxiv_, 2021. doi.org/10.1101/2021.01.22.427749. 
+- **Jangra21**: Jangra S, Ye C, et int., and Schotsaert M. “The E484K mutation in the SARS-CoV-2 spike protein reduces but does not abolish neutralizing activity of human convalescent and post-vaccination sera.” _medRxiv_, 2021. [doi.org/10.1101/2021.01.26.21250543](https://doi.org/10.1101/2021.01.26.21250543).
+- **Liu21**: Liu Z, VanBlargan LA, et int., and Whelan SPJ. “Identification of SARS-CoV-2 spike mutations that attenuate monoclonal and serum antibody neutralization.” _Cell Host & Microbe_, 2021. [doi.org/10.1016/j.chom.2021.01.014](https://doi.org/10.1016/j.chom.2021.01.014).
+- **Muik21**: Muik A, Wallisch A, et int., and Sahin U. “Neutralization of SARS-CoV-2 lineage B.1.1.7 pseudovirus by BNT162b2 vaccine-elicited human sera.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.18.426984](https://doi.org/10.1101/2021.01.18.426984).
+- **Rees-Spear21**: Rees-Spear C, Muir L, et int., and McCoy L. “The impact of Spike mutations on SARS-CoV-2 neutralization.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.15.426849](https://doi.org/10.1101/2021.01.15.426849).
+- **Shen21**: Shen X, Tang H, et int., and Montefiori DC. “SARS-CoV-2 variant B.1.1.7 is susceptible to neutralizing antibodies elicited by ancestral Spike vaccines.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.27.428516](https://doi.org/10.1101/2021.01.27.428516).
+- **Wang21**: Wang Z, Schmidt F, et int., and Nussenzweig MC. “mRNA vaccine-elicited antibodies to SARS-CoV-2 and circulating variants.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.15.426911](https://doi.org/10.1101/2021.01.15.426911). \[[PubMed33501451](https://pubmed.ncbi.nlm.nih.gov/33501451/)\] \[[PMC7836122](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836122/)\]
+- **Wang21b**: Wang P, Liu L, et int., and Ho DD. “Increased Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7 to Antibody Neutralization.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.25.428137](https://doi.org/10.1101/2021.01.25.428137).
+- **Wibmer21**: Wibmer CK, Ayres F, et int., and Moore PL. “SARS-CoV-2 501Y.V2 escapes neutralization by South African COVID-19 donor plasma.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.18.427166](https://doi.org/10.1101/2021.01.18.427166). \[[PubMed33501446](https://pubmed.ncbi.nlm.nih.gov/33501446/)\] \[[PMC7836116](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836116/)\]
+- **Wu21**: Wu K, Werner AP, et int., and Edwards DK. “mRNA-1273 vaccine induces neutralizing antibodies against spike mutants from global SARS-CoV-2 variants.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.25.427948](https://doi.org/10.1101/2021.01.25.427948). \[[PubMed33501442](https://pubmed.ncbi.nlm.nih.gov/33501442/)\] \[[PMC7836112](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836112/)\]
+- **Xie21**: Xie X, Zou J, et int., and Shi P. “Neutralization of N501Y mutant SARS-CoV-2 by BNT162b2 vaccine-elicited sera.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.07.425740](https://doi.org/10.1101/2021.01.07.425740). \[[PubMed33442691](https://pubmed.ncbi.nlm.nih.gov/33442691/)\] \[[PMC7805448](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7805448/)\]
+- **Xie21b**: Xie X, Liu Y, et int., and Shi P. “Neutralization of SARS-CoV-2 spike 69/70 deletion, E484K, and N501Y variants by BNT162b2 vaccine-elicited sera.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.27.427998](https://doi.org/10.1101/2021.01.27.427998).
+
+</div>
+
+</section>
