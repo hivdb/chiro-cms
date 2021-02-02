@@ -1,4 +1,4 @@
-## Variants of conc Clusterns
+## Variants of concern
 
 <div style="clear: both; height: 0;" />
 
@@ -37,30 +37,28 @@ b-1-351
 
 ### [B.1.351, aka 501.V2 variant, 20C/501Y.V2, and South African COVID-19 variant](#sec_b-1-351)
 
-Tegally H, Wilkinson E, et int., and de Oliveira T. “EmergencAbdool Karim S. “The a2nd rapid spread of a new severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) lineage with multiple spike mutations in South Africa.” _medRxiv_, 2020. [doi.org/10.1101/2020.12.21.20248640](https://doi.org/10.1101/2020.12.21.20248640). Covid-19 wave in South Africa: Transmissibility & a 501.V2 variant.” CAPRISA, 2020. [^AbdoolKarim20][^Chand20][^Tegally20]
+Tegally H, Wilkinson E, et int., and de Oliveira T. “Emergence and rapid spread of a new severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) lineage with multiple spike mutations in South Africa.” _medRxiv_, 2020. [doi.org/10.1101/2020.12.21.20248640](https://doi.org/10.1101/2020.12.21.20248640). [^Tegally20]
 
 </div>
 
 </section>
 
 
-<section id="sec_p-1n439k" class="figure-section wrap">
+<section id="sec_p-1" class="figure-section wrap">
 
 <div class="figure-image">
 
 [genomemap]
-p-1n439k
+p-1
 [/genomemap]
 
 </div>
 
 <div class="figure-caption">
 
-### [P.B.1.141, aka 501Y.V3 variant, and K417T/E484K/N501Y](#sec_p-1)
+### [P.1, aka 501Y.V3 variant, and K417T/E484K/N501Y](#sec_p-1)
 
-Naveca F, Nascimento VN439K](#sec_n439k)
-
-Thomson EC, Rosen LE, et int., and BSnello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21The circulating SARS-CoV-2 spike variant N439K maintains fitness while evading antibody-mediated immunity.” _bioRxiv_, 2020. [doi.org/10.1101/2020.11.04.355842](https://doi.org/10.1101/2020.11.04.355842). [^Thomson20]
+Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
 
 </div>
 
@@ -68,28 +66,25 @@ Thomson EC, Rosen LE, et int., and BSnello G. “Phylogenetic relationship of SA
 
 ## Other variants
 
-<section id="sec_n439kp-1" class="figure-section wrap">
+<section id="sec_n439k" class="figure-section wrap">
 
 <div class="figure-image">
 
 [genomemap]
-n439kp-1
+n439k
 [/genomemap]
 
 </div>
 
 <div class="figure-caption">
 
-### [P.1/B.1.14.28.1, aka N439K](#sec_n439k)
+### [B.1.141, aka N439K](#sec_n439k)
 
-Thomson EC, Rosen LEK417T/E484K/N501Y](#sec_p-1)
-
-Naveca F, Nascimento V, et int., and SnBello G. “The circulating SARS-CoV-2 spike variant N439K maintains fitness while evading antibody-mediated immunity.” _bioRxiv_, 2020. [doi.org/10.1101/2020.11.04.355842](https://doi.org/10.1101/2020.11.04.355842). [^Thomson20Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
+Thomson EC, Rosen LE, et int., and Snell G. “The circulating SARS-CoV-2 spike variant N439K maintains fitness while evading antibody-mediated immunity.” _bioRxiv_, 2020. [doi.org/10.1101/2020.11.04.355842](https://doi.org/10.1101/2020.11.04.355842). [^Thomson20]
 
 </div>
 
 </section>
-
 
 <section id="sec_p-2" class="figure-section wrap">
 
@@ -103,7 +98,7 @@ p-2
 
 <div class="figure-caption">
 
-### [P.2/B.1.1.28.2](#sec_p-2)
+### [P.2](#sec_p-2)
 Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
 
 </div>
@@ -298,6 +293,3 @@ Khatamzas E, Rehn A, et int., and Antwerpen M. “Emergence of multiple SARS-CoV
 </div>
 
 </section>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM2MzAyOTRdfQ==
--->
