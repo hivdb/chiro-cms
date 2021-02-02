@@ -1,0 +1,14 @@
+name: DH1050 epitope
+label: DH1050
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1101/2020.12.31.424729
+  author: Li
+  year: 2020
+  section: 'PDB: 7LCN'
+  positions: [140, 142, 143, 144, 145, 146, 148, 149, 154, 157, 158, 244, 245]
+positions:
+- subgroup: DH1050
+  positions: [140, 142, 143, 144, 145, 146, 148, 149, 154, 157, 158, 244, 245]
