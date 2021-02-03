@@ -1,29 +1,3 @@
-## Susceptibility results of monoclonal neutralizing antibodies
-
-<section id="sec_mab-fold" class="figure-section wrap">
-
-<div class="figure-image">
-
-![Monoclonal antibodies](https://hivdb.github.io/covid-drdb-reports/phenotypic-figs_files/figure-html/mab-fold-fig-1.png)
-
-</div>
-
-<div class="figure-caption">
-
-Fold reduced _in vitro_ neutralization susceptibility to monoclonal neutralizing antibodies (mAbs) associated with two variants of concern (B.1.1.7 and B.1.351) and two spike amino acid mutations E484K and N501Y. B.1.1.7 contains N501Y plus two S1 N-terminal domain (NTD) deletions, three S1 C-terminal domain (CTD) mutations, and three S2-mutations. B.1.351 contains E484K and N501Y plus four S1 NTD mutations, two receptor binding domain (RBD) mutations, one S1 CTD mutation, and one S2 mutation. Each of the in vitro susceptibility experiments were performed using pseudovirus assays. Some of the pseudovirus assays performed with E484K spike and N501Y spike contained D614G while others did not. D614G has been reported to slightly increase neutralization susceptibility. The Y-axis indicates the log-fold reduction in susceptibility. Data are displayed for mAbs in advanced clinical trials and several additional prototypical mAbs with high-resolution 3-D structures and defined mechanisms of mAb-RBD binding. The histogram colors indicate the study reference:
-
-- **Baum20**: Baum A, Fulton BO, et int., and Kyratsous CA. “Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies.” _Science_, 2020. [doi.org/10.1126/science.abd0831](https://doi.org/10.1126/science.abd0831). \[[PubMed32540904](https://pubmed.ncbi.nlm.nih.gov/32540904/)\] \[[PMC7299283](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7299283/)\]
-- **Gottlieb21**: Gottlieb RL, Nirula A, et int., and Skovronsky DM. “Effect of Bamlanivimab as Monotherapy or in Combination With Etesevimab on Viral Load in Patients With Mild to Moderate COVID-19.” _JAMA_, 2021. [doi.org/10.1001/jama.2021.0202](https://doi.org/10.1001/jama.2021.0202). \[[PubMed33475701](https://pubmed.ncbi.nlm.nih.gov/33475701/)\] \[[PMC7821080](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7821080/)\]
-- **Shen21**: Shen X, Tang H, et int., and Montefiori DC. “SARS-CoV-2 variant B.1.1.7 is susceptible to neutralizing antibodies elicited by ancestral Spike vaccines.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.27.428516](https://doi.org/10.1101/2021.01.27.428516).
-- **Wang21b**: Wang P, Liu L, et int., and Ho DD. “Increased Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7 to Antibody Neutralization.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.25.428137](https://doi.org/10.1101/2021.01.25.428137).
-- **Weisblum20**: Weisblum Y, Schmidt F, et int., and Bieniasz PD. “Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants.” _eLife_, 2020. [doi.org/10.7554/elife.61312](https://doi.org/10.7554/elife.61312). \[[PubMed33112236](https://pubmed.ncbi.nlm.nih.gov/33112236/)\] \[[PMC7723407](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7723407/)\]
-- **Wibmer21**: Wibmer CK, Ayres F, et int., and Moore PL. “SARS-CoV-2 501Y.V2 escapes neutralization by South African COVID-19 donor plasma.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.18.427166](https://doi.org/10.1101/2021.01.18.427166). \[[PubMed33501446](https://pubmed.ncbi.nlm.nih.gov/33501446/)\] \[[PMC7836116](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836116/)\]
-
-</div>
-
-</section>
-
-
 ## Susceptibility results of convalescent and vaccinated plasma
 
 <section id="sec_plasma-fold" class="figure-section wrap">
@@ -56,6 +30,32 @@ The color scheme indicates the fold-reduction in neutralization: <span style="pa
 - **Wu21**: Wu K, Werner AP, et int., and Edwards DK. “mRNA-1273 vaccine induces neutralizing antibodies against spike mutants from global SARS-CoV-2 variants.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.25.427948](https://doi.org/10.1101/2021.01.25.427948). \[[PubMed33501442](https://pubmed.ncbi.nlm.nih.gov/33501442/)\] \[[PMC7836112](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836112/)\]
 - **Xie21**: Xie X, Zou J, et int., and Shi P. “Neutralization of N501Y mutant SARS-CoV-2 by BNT162b2 vaccine-elicited sera.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.07.425740](https://doi.org/10.1101/2021.01.07.425740). \[[PubMed33442691](https://pubmed.ncbi.nlm.nih.gov/33442691/)\] \[[PMC7805448](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7805448/)\]
 - **Xie21b**: Xie X, Liu Y, et int., and Shi P. “Neutralization of SARS-CoV-2 spike 69/70 deletion, E484K, and N501Y variants by BNT162b2 vaccine-elicited sera.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.27.427998](https://doi.org/10.1101/2021.01.27.427998).
+
+</div>
+
+</section>
+
+
+## Susceptibility results of monoclonal neutralizing antibodies
+
+<section id="sec_mab-fold" class="figure-section wrap">
+
+<div class="figure-image">
+
+![Monoclonal antibodies](https://hivdb.github.io/covid-drdb-reports/phenotypic-figs_files/figure-html/mab-fold-fig-1.png)
+
+</div>
+
+<div class="figure-caption">
+
+Fold reduced _in vitro_ neutralization susceptibility to monoclonal neutralizing antibodies (mAbs) associated with two variants of concern (B.1.1.7 and B.1.351) and two spike amino acid mutations E484K and N501Y. B.1.1.7 contains N501Y plus two S1 N-terminal domain (NTD) deletions, three S1 C-terminal domain (CTD) mutations, and three S2-mutations. B.1.351 contains E484K and N501Y plus four S1 NTD mutations, two receptor binding domain (RBD) mutations, one S1 CTD mutation, and one S2 mutation. Each of the in vitro susceptibility experiments were performed using pseudovirus assays. Some of the pseudovirus assays performed with E484K spike and N501Y spike contained D614G while others did not. D614G has been reported to slightly increase neutralization susceptibility. The Y-axis indicates the log-fold reduction in susceptibility. Data are displayed for mAbs in advanced clinical trials and several additional prototypical mAbs with high-resolution 3-D structures and defined mechanisms of mAb-RBD binding. The histogram colors indicate the study reference:
+
+- **Baum20**: Baum A, Fulton BO, et int., and Kyratsous CA. “Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies.” _Science_, 2020. [doi.org/10.1126/science.abd0831](https://doi.org/10.1126/science.abd0831). \[[PubMed32540904](https://pubmed.ncbi.nlm.nih.gov/32540904/)\] \[[PMC7299283](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7299283/)\]
+- **Gottlieb21**: Gottlieb RL, Nirula A, et int., and Skovronsky DM. “Effect of Bamlanivimab as Monotherapy or in Combination With Etesevimab on Viral Load in Patients With Mild to Moderate COVID-19.” _JAMA_, 2021. [doi.org/10.1001/jama.2021.0202](https://doi.org/10.1001/jama.2021.0202). \[[PubMed33475701](https://pubmed.ncbi.nlm.nih.gov/33475701/)\] \[[PMC7821080](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7821080/)\]
+- **Shen21**: Shen X, Tang H, et int., and Montefiori DC. “SARS-CoV-2 variant B.1.1.7 is susceptible to neutralizing antibodies elicited by ancestral Spike vaccines.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.27.428516](https://doi.org/10.1101/2021.01.27.428516).
+- **Wang21b**: Wang P, Liu L, et int., and Ho DD. “Increased Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7 to Antibody Neutralization.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.25.428137](https://doi.org/10.1101/2021.01.25.428137).
+- **Weisblum20**: Weisblum Y, Schmidt F, et int., and Bieniasz PD. “Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants.” _eLife_, 2020. [doi.org/10.7554/elife.61312](https://doi.org/10.7554/elife.61312). \[[PubMed33112236](https://pubmed.ncbi.nlm.nih.gov/33112236/)\] \[[PMC7723407](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7723407/)\]
+- **Wibmer21**: Wibmer CK, Ayres F, et int., and Moore PL. “SARS-CoV-2 501Y.V2 escapes neutralization by South African COVID-19 donor plasma.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.18.427166](https://doi.org/10.1101/2021.01.18.427166). \[[PubMed33501446](https://pubmed.ncbi.nlm.nih.gov/33501446/)\] \[[PMC7836116](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836116/)\]
 
 </div>
 
