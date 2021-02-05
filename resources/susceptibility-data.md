@@ -67,6 +67,10 @@ MAb abbreviations:
 - **IMD**: Imdevimab/REGN10987
 - **CAS/IMD**: Casirivimab+imdevimab/REGN-COV2
 - **ETE**: Etesevimab/LY-CoV016/JS016/CB6
+- **CIL**: Cilgavimab/COV2-2130/AZD1061
+- **TIX**: Tixagevimab/COV2-2196/AZD8895
+- **TIX-CIL**: Tixagevimab+Cilgavimab
+- **BAM-ETE**: Bamlanivimab+Etesevimab
 
 </div>
 
