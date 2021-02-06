@@ -17,6 +17,7 @@ The color scheme indicates the fold-reduction in neutralization: <span style="pa
 </p>
 
 - **Collier21**: Collier D, Meng B, et int., and Gupta R. “Impact of SARS-CoV-2 B.1.1.7 Spike variant on neutralisation potency of sera from individuals vaccinated with Pfizer vaccine BNT162b2.” _medRxiv_, 2021. [doi.org/10.1101/2021.01.19.21249840](https://doi.org/10.1101/2021.01.19.21249840).
+- **Edara21**: Edara VV, Floyd K, et int., and Suthar MS. “Infection and mRNA-1273 vaccine antibodies neutralize SARS-CoV-2 UK variant.” _medRxiv_, 2021. [doi.org/10.1101/2021.02.02.21250799](https://doi.org/10.1101/2021.02.02.21250799).
 - **Greaney21**: Greaney AJ, Loes AN, et int., and Bloom JD. “Comprehensive mapping of mutations to the SARS-CoV-2 receptor-binding domain that affect recognition by polyclonal human serum antibodies.” _bioRxiv_, 2021. [doi.org/10.1101/2020.12.31.425021](https://doi.org/10.1101/2020.12.31.425021).
 - **Hu21**: Hu J, Peng P, et int., and Huang A. “Emerging SARS-CoV-2 variants reduce neutralization sensitivity to convalescent sera and monoclonal antibodies.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.22.427749](https://doi.org/10.1101/2021.01.22.427749).
 - **Jangra21**: Jangra S, Ye C, et int., and Schotsaert M. “The E484K mutation in the SARS-CoV-2 spike protein reduces but does not abolish neutralizing activity of human convalescent and post-vaccination sera.” _medRxiv_, 2021. [doi.org/10.1101/2021.01.26.21250543](https://doi.org/10.1101/2021.01.26.21250543).
