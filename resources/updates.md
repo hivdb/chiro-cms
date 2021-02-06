@@ -78,6 +78,10 @@ Instruction:
 
 ## Database Entries
 
+### February 2021
+- February 06
+    - Joyner MJ, Carter RE, et int., and Casadevall A. [“Convalescent Plasma Antibody Levels and the Risk of Death from Covid-19.”](/search/?article=Joyner21) _New England Journal of Medicine_, 2021. [doi.org/10.1056/nejmoa2031893](https://doi.org/10.1056/nejmoa2031893). \[[PubMed33523609](https://www.ncbi.nlm.nih.gov/pubmed/33523609/)\] \[[PMC7821984](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7821984/)\]
+
 ### January 2021
 - January 31
     - White KM, Rosales R, et int., and García-Sastre A. [“Plitidepsin has potent preclinical efficacy against SARS-CoV-2 by targeting the host protein eEF1A.”](/search/?article=White21) _Science (New York, N.Y.)_, None. [doi.org/10.1126/science.abf4058](https://doi.org/10.1126/science.abf4058). \[[PubMed33495306](https://www.ncbi.nlm.nih.gov/pubmed/33495306/)\]
@@ -982,6 +986,15 @@ Instruction:
 
 ## Clinical Trials
 
+### February 2021
+- February 04
+    - [6 clinical trials were added.](/clinical-trials/?fromDate=2021-02-04)
+    - NCT04732949
+    - NCT04734860
+    - NCT04734873
+    - NCT04738045
+    - NCT04738175
+    - NCT04739410
 ### January 2021
 - January 28
     - [7 clinical trials were added.](/clinical-trials/?fromDate=2021-01-28)

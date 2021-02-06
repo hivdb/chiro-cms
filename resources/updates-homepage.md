@@ -22,6 +22,10 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Feb 06)
+Joyner MJ, Carter RE, et int., and Casadevall A. [“Convalescent Plasma Antibody Levels and the Risk of Death from Covid-19.”](/search/?article=Joyner21) _New England Journal of Medicine_, 2021. [doi.org/10.1056/nejmoa2031893](https://doi.org/10.1056/nejmoa2031893). \[[PubMed33523609](https://www.ncbi.nlm.nih.gov/pubmed/33523609/)\] \[[PMC7821984](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7821984/)\]
+### [Clinical Trials (Feb 04)](/page/updates/#clinical.trials)
+[6 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-02-04)
 ### Database Entries (Jan 31)
 White KM, Rosales R, et int., and García-Sastre A. [“Plitidepsin has potent preclinical efficacy against SARS-CoV-2 by targeting the host protein eEF1A.”](/search/?article=White21) _Science (New York, N.Y.)_, None. [doi.org/10.1126/science.abf4058](https://doi.org/10.1126/science.abf4058). \[[PubMed33495306](https://www.ncbi.nlm.nih.gov/pubmed/33495306/)\]
 ### [Clinical Trials (Jan 28)](/page/updates/#clinical.trials)
