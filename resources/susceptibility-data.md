@@ -66,6 +66,7 @@ Studies:
 - **Wang21b**: Wang P, Liu L, et int., and Ho DD. “Increased Resistance of SARS-CoV-2 Variants B.1.351 and B.1.1.7 to Antibody Neutralization.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.25.428137](https://doi.org/10.1101/2021.01.25.428137).
 - **Weisblum20**: Weisblum Y, Schmidt F, et int., and Bieniasz PD. “Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants.” _eLife_, 2020. [doi.org/10.7554/elife.61312](https://doi.org/10.7554/elife.61312). \[[PubMed33112236](https://pubmed.ncbi.nlm.nih.gov/33112236/)\] \[[PMC7723407](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7723407/)\]
 - **Wibmer21**: Wibmer CK, Ayres F, et int., and Moore PL. “SARS-CoV-2 501Y.V2 escapes neutralization by South African COVID-19 donor plasma.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.18.427166](https://doi.org/10.1101/2021.01.18.427166). \[[PubMed33501446](https://pubmed.ncbi.nlm.nih.gov/33501446/)\] \[[PMC7836116](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836116/)\]
+- **Yao21**: Yao W, Wang Y, Zhong G. “Spike mutations decrease SARS-CoV-2 sensitivity to neutralizing antibodies but not ACE2-Ig in vitro.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.27.428353](https://doi.org/10.1101/2021.01.27.428353).
 
 MAb abbreviations:
 
