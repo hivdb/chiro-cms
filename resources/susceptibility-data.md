@@ -32,7 +32,7 @@ The color scheme indicates the fold-reduction in neutralization: <span style="pa
 - **Wibmer21**: Wibmer CK, Ayres F, et int., and Moore PL. “SARS-CoV-2 501Y.V2 escapes neutralization by South African COVID-19 donor plasma.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.18.427166](https://doi.org/10.1101/2021.01.18.427166). \[[PubMed33501446](https://pubmed.ncbi.nlm.nih.gov/33501446/)\] \[[PMC7836116](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836116/)\]
 - **Wu21**: Wu K, Werner AP, et int., and Edwards DK. “mRNA-1273 vaccine induces neutralizing antibodies against spike mutants from global SARS-CoV-2 variants.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.25.427948](https://doi.org/10.1101/2021.01.25.427948). \[[PubMed33501442](https://pubmed.ncbi.nlm.nih.gov/33501442/)\] \[[PMC7836112](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836112/)\]
 - **Xie21**: Xie X, Zou J, et int., and Shi P. “Neutralization of N501Y mutant SARS-CoV-2 by BNT162b2 vaccine-elicited sera.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.07.425740](https://doi.org/10.1101/2021.01.07.425740). \[[PubMed33442691](https://pubmed.ncbi.nlm.nih.gov/33442691/)\] \[[PMC7805448](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7805448/)\]
-- **Xie21b**: Xie X, Liu Y, et int., and Shi P. “Neutralization of SARS-CoV-2 spike 69/70 deletion, E484K, and N501Y variants by BNT162b2 vaccine-elicited sera.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.27.427998](https://doi.org/10.1101/2021.01.27.427998).
+- **Xie21b**: Xie X, Liu Y, et int., and Shi P. “Neutralization of SARS-CoV-2 spike 69/70 deletion, E484K and N501Y variants by BNT162b2 vaccine-elicited sera.” _Nature_, 2021. [doi.org/10.1038/s41591-021-01270-4](https://doi.org/10.1038/s41591-021-01270-4).
 
 </div>
 
