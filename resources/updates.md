@@ -79,6 +79,11 @@ Instruction:
 ## Database Entries
 
 ### February 2021
+- February 09
+    - Joaquín Cáceres C, Cardenas-Garcia S, et int., and Perez DR. [“Efficacy of GC-376 against SARS-CoV-2 virus infection in the K18 hACE2 transgenic mouse model.”](/search/?article=Caceres21) _bioRxiv_, 2021. [doi.org/10.1101/2021.01.27.428428](https://doi.org/10.1101/2021.01.27.428428). \[[PubMed33532776](https://www.ncbi.nlm.nih.gov/pubmed/33532776/)\] \[[PMC7852269](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7852269/)\]
+    - Li W, Schäfer A, et int., and Dimitrov DS. [“High Potency of a Bivalent Human VH Domain in SARS-CoV-2 Animal Models.”](/search/?article=Li20j) _Cell_, 2020. [doi.org/10.1016/j.cell.2020.09.007](https://doi.org/10.1016/j.cell.2020.09.007). \[[PubMed32941803](https://www.ncbi.nlm.nih.gov/pubmed/32941803/)\] \[[PMC7473018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7473018/)\]
+    - Rappazzo CG, Tse LV, et int., and Walker LM. [“Broad and potent activity against SARS-like viruses by an engineered human monoclonal antibody.”](/search/?article=Rappazzo21) _Science_, 2021. [doi.org/10.1126/science.abf4830](https://doi.org/10.1126/science.abf4830). \[[PubMed33495307](https://www.ncbi.nlm.nih.gov/pubmed/33495307/)\]
+    - Stamatatos L, Czartoski J, et int., and McGuire A. [“Antibodies elicited by SARS-CoV-2 infection and boosted by vaccination neutralize an emerging variant and SARS-CoV-1.”](/search/?article=Stamatatos21) _medRxiv_, 2021. [doi.org/10.1101/2021.02.05.21251182](https://doi.org/10.1101/2021.02.05.21251182).
 - February 06
     - Joyner MJ, Carter RE, et int., and Casadevall A. [“Convalescent Plasma Antibody Levels and the Risk of Death from Covid-19.”](/search/?article=Joyner21) _New England Journal of Medicine_, 2021. [doi.org/10.1056/nejmoa2031893](https://doi.org/10.1056/nejmoa2031893). \[[PubMed33523609](https://www.ncbi.nlm.nih.gov/pubmed/33523609/)\] \[[PMC7821984](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7821984/)\]
 
@@ -844,6 +849,13 @@ Instruction:
 
 ## Published preprints
 (Studies in CoV-RDB originally published as preprints)
+
+### February 2021
+- February 09
+    - Chen CZ, Shinn P, et int., and Zheng W. [“Drug Repurposing Screen for Compounds Inhibiting the Cytopathic Effect of SARS-CoV-2.”](/search/?article=Chen20j) _Frontiers in Pharmacology_, 2021. [doi.org/10.3389/fphar.2020.592737](https://doi.org/10.3389/fphar.2020.592737).
+    - Fagre AC, Manhard J, et int., and Schountz T. [“A Potent SARS-CoV-2 Neutralizing Human Monoclonal Antibody That Reduces Viral Burden and Disease Severity in Syrian Hamsters.”](/search/?article=Fagre20) _Frontiers in Immunology_, 2020. [doi.org/10.3389/fimmu.2020.614256](https://doi.org/10.3389/fimmu.2020.614256). \[[PubMed33391285](https://www.ncbi.nlm.nih.gov/pubmed/33391285/)\] \[[PMC7775388](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7775388/)\]
+    - Osipiuk J, Azizi S, et int., and Joachimiak A. [“Structure of papain-like protease from SARS-CoV-2 and its complexes with non-covalent inhibitors.”](/search/?article=Osipiuk20) _Nature Communications_, 2021. [doi.org/10.1038/s41467-021-21060-3](https://doi.org/10.1038/s41467-021-21060-3). \[[PubMed33531496](https://www.ncbi.nlm.nih.gov/pubmed/33531496/)\]
+    - Xie X, Liu Y, et int., and Shi P. [“Neutralization of SARS-CoV-2 spike 69/70 deletion, E484K and N501Y variants by BNT162b2 vaccine-elicited sera.”](/search/?article=Xie21b) _Nature Medicine_, 2021. [doi.org/10.1038/s41591-021-01270-4](https://doi.org/10.1038/s41591-021-01270-4).
 
 ### January 2021
 - January 05
