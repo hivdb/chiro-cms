@@ -79,6 +79,10 @@ Instruction:
 ## Database Entries
 
 ### February 2021
+- February 10
+    - Huang Y, Nguyen AW, et int., and Maynard JA. [“Identification of a conserved neutralizing epitope present on spike proteins from all highly pathogenic coronaviruses.”](/search/?article=Huang21) _bioRxiv_, 2021. [doi.org/10.1101/2021.01.31.428824](https://doi.org/10.1101/2021.01.31.428824).
+    - Koenig P, Das H, et int., and Schmidt FI. [“Structure-guided multivalent nanobodies block SARS-CoV-2 infection and suppress mutational escape.”](/search/?article=Koenig21) _Science_, 2021. [doi.org/10.1126/science.abe6230](https://doi.org/10.1126/science.abe6230). \[[PubMed33436526](https://www.ncbi.nlm.nih.gov/pubmed/33436526/)\]
+    - Wang C, van Haperen R, et int., and Bosch B. [“Isolation of cross-reactive monoclonal antibodies against divergent human coronaviruses that delineate a conserved and vulnerable site on the spike protein.”](/search/?article=Wang21c) _bioRxiv_, 2020. [doi.org/10.1101/2020.10.20.346916](https://doi.org/10.1101/2020.10.20.346916).
 - February 09
     - Joaquín Cáceres C, Cardenas-Garcia S, et int., and Perez DR. [“Efficacy of GC-376 against SARS-CoV-2 virus infection in the K18 hACE2 transgenic mouse model.”](/search/?article=Caceres21) _bioRxiv_, 2021. [doi.org/10.1101/2021.01.27.428428](https://doi.org/10.1101/2021.01.27.428428). \[[PubMed33532776](https://www.ncbi.nlm.nih.gov/pubmed/33532776/)\] \[[PMC7852269](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7852269/)\]
     - Li W, Schäfer A, et int., and Dimitrov DS. [“High Potency of a Bivalent Human VH Domain in SARS-CoV-2 Animal Models.”](/search/?article=Li20j) _Cell_, 2020. [doi.org/10.1016/j.cell.2020.09.007](https://doi.org/10.1016/j.cell.2020.09.007). \[[PubMed32941803](https://www.ncbi.nlm.nih.gov/pubmed/32941803/)\] \[[PMC7473018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7473018/)\]
@@ -89,7 +93,7 @@ Instruction:
 
 ### January 2021
 - January 31
-    - White KM, Rosales R, et int., and García-Sastre A. [“Plitidepsin has potent preclinical efficacy against SARS-CoV-2 by targeting the host protein eEF1A.”](/search/?article=White21) _Science (New York, N.Y.)_, None. [doi.org/10.1126/science.abf4058](https://doi.org/10.1126/science.abf4058). \[[PubMed33495306](https://www.ncbi.nlm.nih.gov/pubmed/33495306/)\]
+    - White KM, Rosales R, et int., and García-Sastre A. [“Plitidepsin has potent preclinical efficacy against SARS-CoV-2 by targeting the host protein eEF1A.”](/search/?article=White21) _Science_, None. [doi.org/10.1126/science.abf4058](https://doi.org/10.1126/science.abf4058). \[[PubMed33495306](https://www.ncbi.nlm.nih.gov/pubmed/33495306/)\]
 - January 25
     - Gottlieb RL, Nirula A, et int., and Skovronsky DM. [“Effect of Bamlanivimab as Monotherapy or in Combination With Etesevimab on Viral Load in Patients With Mild to Moderate COVID-19.”](/search/?article=Gottlieb21) _JAMA_, 2021. [doi.org/10.1001/jama.2021.0202](https://doi.org/10.1001/jama.2021.0202). \[[PubMed33475701](https://www.ncbi.nlm.nih.gov/pubmed/33475701/)\]
 - January 19
@@ -851,6 +855,10 @@ Instruction:
 (Studies in CoV-RDB originally published as preprints)
 
 ### February 2021
+- February 09
+    - Baker JD, Uhrich RL, et int., and Kraemer BC. [“A drug repurposing screen identifies hepatitis C antivirals as inhibitors of the SARS-CoV2 main protease.”](/search/?article=Baker20) _PLoS ONE_, 2021. [doi.org/10.1371/journal.pone.0245962](https://doi.org/10.1371/journal.pone.0245962). \[[PubMed33524017](https://www.ncbi.nlm.nih.gov/pubmed/33524017/)\]
+    - McCarthy KR, Rennick LJ, et int., and Duprex WP. [“Recurrent deletions in the SARS-CoV-2 spike glycoprotein drive antibody escape.”](/search/?article=McCarthy20) _Science_, None. [doi.org/10.1126/science.abf6950](https://doi.org/10.1126/science.abf6950). \[[PubMed33536258](https://www.ncbi.nlm.nih.gov/pubmed/33536258/)\]
+    - Muik A, Wallisch A, et int., and Şahin U. [“Neutralization of SARS-CoV-2 lineage B.1.1.7 pseudovirus by BNT162b2 vaccine–elicited human sera.”](/search/?article=Muik21) _Science_, 2021. [doi.org/10.1126/science.abg6105](https://doi.org/10.1126/science.abg6105). \[[PubMed33514629](https://www.ncbi.nlm.nih.gov/pubmed/33514629/)\]
 - February 09
     - Chen CZ, Shinn P, et int., and Zheng W. [“Drug Repurposing Screen for Compounds Inhibiting the Cytopathic Effect of SARS-CoV-2.”](/search/?article=Chen20j) _Frontiers in Pharmacology_, 2021. [doi.org/10.3389/fphar.2020.592737](https://doi.org/10.3389/fphar.2020.592737).
     - Fagre AC, Manhard J, et int., and Schountz T. [“A Potent SARS-CoV-2 Neutralizing Human Monoclonal Antibody That Reduces Viral Burden and Disease Severity in Syrian Hamsters.”](/search/?article=Fagre20) _Frontiers in Immunology_, 2020. [doi.org/10.3389/fimmu.2020.614256](https://doi.org/10.3389/fimmu.2020.614256). \[[PubMed33391285](https://www.ncbi.nlm.nih.gov/pubmed/33391285/)\] \[[PMC7775388](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7775388/)\]
