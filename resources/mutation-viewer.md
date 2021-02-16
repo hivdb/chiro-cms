@@ -2,6 +2,7 @@
 
 ## Variants of concern
 
+<!-- B.1.1.7 -->
 <section id="sec_b-1-1-7" class="figure-section wrap">
 
 <div class="figure-image">
@@ -22,7 +23,7 @@ Rambaut A, Loman N, et int., and Volz E. “Preliminary genomic characterisation
 
 </section>
 
-
+<!-- B.1.351 -->
 <section id="sec_b-1-351" class="figure-section wrap">
 
 <div class="figure-image">
@@ -43,7 +44,7 @@ Tegally H, Wilkinson E, et int., and de Oliveira T. “Emergence and rapid sprea
 
 </section>
 
-
+<!-- P.1 -->
 <section id="sec_p-1" class="figure-section wrap">
 
 <div class="figure-image">
@@ -66,6 +67,7 @@ Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SA
 
 ## Other variants
 
+<!-- B.1.141 -->
 <section id="sec_n439k" class="figure-section wrap">
 
 <div class="figure-image">
@@ -86,65 +88,28 @@ Thomson EC, Rosen LE, et int., and Snell G. “The circulating SARS-CoV-2 spike 
 
 </section>
 
-<section id="sec_p-2" class="figure-section wrap">
+<!-- B.1.526 -->
+<section id="sec_b-1-526" class="figure-section wrap">
 
 <div class="figure-image">
 
 [genomemap]
-p-2
+b-1-526
 [/genomemap]
 
 </div>
 
 <div class="figure-caption">
 
-### [P.2](#sec_p-2)
-Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
+### [B.1.526](#sec_b-1-526)
+
+West A, Barnes C, et int., and Bjorkman P. “SARS-CoV-2 lineage B.1.526 emerging in the New York region detected by software utility created to query the spike mutational landscape.” _bioRxiv_, 2020. [doi.org/10.1101/2021.02.14.431043](https://doi.org/10.1101/2021.02.14.431043). [^West21]
 
 </div>
 
 </section>
 
-
-<section id="sec_cluster5" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-cluster5
-[/genomemap]
-
-</div>
-
-<div class="figure-caption">
-
-### [Cluster 5](#sec_cluster5)
-Lassaunière R, Fonager J, et int., and Fomsgaard A. “SARS-CoV-2 spike mutations arising in Danish mink and their spread to humans.” Statens Serum Institut, 2020. [^Lassauniere20]
-
-</div>
-
-</section>
-
-
-<section id="sec_tu-501y" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-tu-501y
-[/genomemap]
-
-</div>
-
-<div class="figure-caption">
-
-### [COH.20G/501Y](#sec_tu-501y)
-Tu H, Avenarius MR, et int., and Jones D. “Distinct Patterns of Emergence of SARS-CoV-2 Spike Variants including N501Y in Clinical Samples in Columbus Ohio.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.12.426407](https://doi.org/10.1101/2021.01.12.426407).[^Tu21]
-
-</div>
-
-</section>
-
+<!-- CAL.20C -->
 <section id="sec_cal-20c" class="figure-section wrap">
 
 <div class="figure-image">
@@ -165,9 +130,69 @@ Zhang W, Davis B, et int., and Vail E. “Emergence of a novel SARS-CoV-2 strain
 
 </section>
 
+<!-- Cluster 5 -->
+<section id="sec_cluster5" class="figure-section wrap">
+
+<div class="figure-image">
+
+[genomemap]
+cluster5
+[/genomemap]
+
+</div>
+
+<div class="figure-caption">
+
+### [Cluster 5](#sec_cluster5)
+Lassaunière R, Fonager J, et int., and Fomsgaard A. “SARS-CoV-2 spike mutations arising in Danish mink and their spread to humans.” Statens Serum Institut, 2020. [^Lassauniere20]
+
+</div>
+
+</section>
+
+<!-- COH.20G/501Y -->
+<section id="sec_tu-501y" class="figure-section wrap">
+
+<div class="figure-image">
+
+[genomemap]
+tu-501y
+[/genomemap]
+
+</div>
+
+<div class="figure-caption">
+
+### [COH.20G/501Y](#sec_tu-501y)
+Tu H, Avenarius MR, et int., and Jones D. “Distinct Patterns of Emergence of SARS-CoV-2 Spike Variants including N501Y in Clinical Samples in Columbus Ohio.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.12.426407](https://doi.org/10.1101/2021.01.12.426407).[^Tu21]
+
+</div>
+
+</section>
+
+<!-- P.2 -->
+<section id="sec_p-2" class="figure-section wrap">
+
+<div class="figure-image">
+
+[genomemap]
+p-2
+[/genomemap]
+
+</div>
+
+<div class="figure-caption">
+
+### [P.2](#sec_p-2)
+Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
+
+</div>
+
+</section>
+
 ## Prolonged Infections
 
-
+<!-- Kemp S -->
 <section id="sec_kemp20" class="figure-section wrap">
 
 <div class="figure-image">
@@ -188,7 +213,7 @@ Kemp S, Harvey W, et int., and Gupta RK. “Recurrent emergence and transmission
 
 </section>
 
-
+<!-- McCarthy -->
 <section id="sec_mccarthy20" class="figure-section wrap">
 
 <div class="figure-image">
@@ -209,7 +234,7 @@ McCarthy KR, Rennick LJ, et int., and Duprex WP. “Recurrent deletions in the S
 
 </section>
 
-
+<!-- Choi B -->
 <section id="sec_choi20" class="figure-section wrap">
 
 <div class="figure-image">
@@ -226,12 +251,11 @@ choi20
 
 Choi B, Choudhary MC, et int., and Li JZ. “Persistence and Evolution of SARS-CoV-2 in an Immunocompromised Host.” _New England Journal of Medicine_, 2020. [doi.org/10.1056/NEJMc2031364](https://doi.org/10.1056/NEJMc2031364). \[[PubMed33176080](https://www.ncbi.nlm.nih.gov/pubmed/33176080/)\] \[[PMC7673303](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7673303/)\] [^Choi20]
 
-
 </div>
 
 </section>
 
-
+<!-- Avanzato VA -->
 <section id="sec_avanzato20" class="figure-section wrap">
 
 <div class="figure-image">
@@ -252,7 +276,7 @@ Avanzato VA, Matson MJ, et int., and Munster VJ. “Case Study: Prolonged Infect
 
 </section>
 
-
+<!-- Bazykin G -->
 <section id="sec_bazykin20" class="figure-section wrap">
 
 <div class="figure-image">
@@ -273,7 +297,7 @@ Bazykin G, Stanevich O, et int., and Lioznov D. “Emergence of Y453F and Δ69-7
 
 </section>
 
-
+<!-- Khatamzas E -->
 <section id="sec_khatamzas20" class="figure-section wrap">
 
 <div class="figure-image">
