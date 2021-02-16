@@ -22,6 +22,20 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Feb 16)
+Dampalla CS, Zhang J, et int., and Chang K. [“Post-infection treatment with a protease inhibitor increases survival of mice with a fatal SARS-CoV-2 infection.”](/search/?article=Dampalla21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.05.429937](https://doi.org/10.1101/2021.02.05.429937).
+### Database Entries (Feb 16)
+Lu Q, Zhang Z, et int., and Tong A. [“Development of multivalent nanobodies blocking SARS-CoV-2 infection by targeting RBD of spike protein.”](/search/?article=Lu21) _Journal of Nanobiotechnology_, 2021. [doi.org/10.1186/s12951-021-00768-w](https://doi.org/10.1186/s12951-021-00768-w). \[[PubMed33514385](https://www.ncbi.nlm.nih.gov/pubmed/33514385/)\] \[[PMC7844813](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7844813/)\]
+### Database Entries (Feb 16)
+Martinez DR, Schaefer A, et int., and Sheahan TP. [“Early therapy with remdesivir and antibody combinations improves COVID-19 disease in mice.”](/search/?article=Martinez21) _bioRxiv_, 2021. [doi.org/10.1101/2021.01.27.428478](https://doi.org/10.1101/2021.01.27.428478). \[[PubMed33532765](https://www.ncbi.nlm.nih.gov/pubmed/33532765/)\] \[[PMC7852229](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7852229/)\]
+### Database Entries (Feb 16)
+Miao X, Luo Y, et int., and Xu Y. [“A novel biparatopic hybrid antibody-ACE2 fusion that blocks SARS-CoV-2 infection: implications for therapy.”](/search/?article=Miao20) _mAbs_, 2020. [doi.org/10.1080/19420862.2020.1804241](https://doi.org/10.1080/19420862.2020.1804241). \[[PubMed32804015](https://www.ncbi.nlm.nih.gov/pubmed/32804015/)\] \[[PMC7531490](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7531490/)\]
+### Database Entries (Feb 16)
+Reuschl A, Thorne LG, et int., and Krogan NJ. [“Host-directed therapies against early-lineage SARS-CoV-2 retain efficacy against B.1.1.7 variant.”](/search/?article=Reuschl21) _bioRxiv_, 2021. [doi.org/10.1101/2021.01.24.427991](https://doi.org/10.1101/2021.01.24.427991). \[[PubMed33501437](https://www.ncbi.nlm.nih.gov/pubmed/33501437/)\] \[[PMC7836107](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836107/)\]
+### Database Entries (Feb 16)
+Valenzuela Nieto G, Jara R, et int., and Rojas-Fernandez A. [“Potent neutralization of clinical isolates of SARS-CoV-2 D614 and G614 variants by a monomeric, sub-nanomolar affinity nanobody.”](/search/?article=ValenzuelaNieto21) _Scientific Reports_, 2021. [doi.org/10.1038/s41598-021-82833-w](https://doi.org/10.1038/s41598-021-82833-w). \[[PubMed33558635](https://www.ncbi.nlm.nih.gov/pubmed/33558635/)\] \[[PMC7870875](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7870875/)\]
+### Database Entries (Feb 16)
+Zhou Y, Liu Z, et int., and Wang Q. [“Enhancement versus neutralization by SARS-CoV-2 antibodies from a convalescent donor associates with distinct epitopes on the RBD.”](/search/?article=Zhou21) _Cell Reports_, 2021. [doi.org/10.1016/j.celrep.2021.108699](https://doi.org/10.1016/j.celrep.2021.108699). \[[PubMed33485405](https://www.ncbi.nlm.nih.gov/pubmed/33485405/)\] \[[PMC7802522](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7802522/)\]
 ### [Clinical Trials (Feb 11)](/page/updates/#clinical.trials)
 [6 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-02-11)
 ### Database Entries (Feb 10)
