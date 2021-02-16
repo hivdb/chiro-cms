@@ -1007,6 +1007,14 @@ Instruction:
 ## Clinical Trials
 
 ### February 2021
+- February 11
+    - [6 clinical trials were added.](/clinical-trials/?fromDate=2021-02-11)
+    - NCT04745351
+    - NCT04746183
+    - NCT04747158
+    - NCT04748588
+    - NCT04749173
+    - NCT04750759
 - February 04
     - [6 clinical trials were added.](/clinical-trials/?fromDate=2021-02-04)
     - NCT04732949

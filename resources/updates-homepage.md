@@ -22,6 +22,8 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### [Clinical Trials (Feb 11)](/page/updates/#clinical.trials)
+[6 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-02-11)
 ### Database Entries (Feb 10)
 Huang Y, Nguyen AW, et int., and Maynard JA. [“Identification of a conserved neutralizing epitope present on spike proteins from all highly pathogenic coronaviruses.”](/search/?article=Huang21) _bioRxiv_, 2021. [doi.org/10.1101/2021.01.31.428824](https://doi.org/10.1101/2021.01.31.428824).
 ### Database Entries (Feb 10)
