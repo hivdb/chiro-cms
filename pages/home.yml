@@ -14,7 +14,7 @@ bannerProjects:
     description: Convalescent plasma, vaccine-recipient plasma, and monoclonal antibodies
     link: /page/susceptibility-data/
     image: home/edumat-phenotypic-figs.png
-  - title: Mutation viewer
+  - title: Spike Variants
     description: SARS-CoV-2 variant clusters & prolonged infections
     link: /page/mutation-viewer/
     image: home/edumat-mutation-viewer.png
@@ -50,7 +50,7 @@ webinars:
     extLink: true
     image: home/webinar-cme.png
 eduMaterials:
-  - title: Mutation viewer
+  - title: Spike Variants
     description: SARS-CoV-2 variant clusters & prolonged infections
     link: /page/mutation-viewer/
     image: home/edumat-mutation-viewer.png
