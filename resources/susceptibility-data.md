@@ -1,3 +1,5 @@
+<div style="clear: both; height: 0;" />
+
 ## Susceptibility results of convalescent and vaccine-recipient plasma
 
 <section id="sec_plasma-fold" class="figure-section wrap">
