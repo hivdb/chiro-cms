@@ -1,6 +1,6 @@
-## Variants of concern
-
 <div style="clear: both; height: 0;" />
+
+## Variants of concern
 
 <section id="sec_b-1-1-7" class="figure-section wrap">
 
