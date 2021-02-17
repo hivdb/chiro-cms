@@ -1,0 +1,416 @@
+[
+    {
+        "strain": "B.1.1.7",
+        "assays": [
+            {
+                "strain": "B.1.1.7",
+                "rx": "Bamlanivimab/Etesevimab",
+                "mab_class": "",
+                "fold": "1.7",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "4A8",
+                "mab_class": "NTD",
+                "fold": ">100",
+                "reference": "Collier21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "4A8",
+                "mab_class": "NTD",
+                "fold": ">100",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1.0",
+                "reference": "Hoffmann21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.6",
+                "reference": "Rothenberger21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Vir-7831",
+                "mab_class": "RBD Core Cluster I",
+                "fold": ">100",
+                "reference": "Shen21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "C135",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1.4",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.5",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Vir-7831",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "2.5",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Vir-7831",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "3.1",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "S2X35",
+                "mab_class": "RBD Core Cluster II",
+                "fold": "1.0",
+                "reference": "Collier21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "COVA1-16",
+                "mab_class": "RBD Core Cluster II",
+                "fold": "1.2",
+                "reference": "Rees-Spear21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "DH1047",
+                "mab_class": "RBD Core Cluster II",
+                "fold": "1.2",
+                "reference": "Shen21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "COVA1-16",
+                "mab_class": "RBD Core Cluster II",
+                "fold": "0.8",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "S2E12",
+                "mab_class": "RBM Class I",
+                "fold": "1.1",
+                "reference": "Collier21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "S2H14",
+                "mab_class": "RBM Class I",
+                "fold": ">100",
+                "reference": "Collier21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "2.0",
+                "reference": "Hoffmann21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "COVA2-04",
+                "mab_class": "RBM Class I",
+                "fold": "0.6",
+                "reference": "Rees-Spear21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.6",
+                "reference": "Rothenberger21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "B38",
+                "mab_class": "RBM Class I",
+                "fold": "14",
+                "reference": "Shen21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.4",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.6",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "3.6",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Tixagevimab",
+                "mab_class": "RBM Class I ",
+                "fold": "1.5",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "0.7",
+                "reference": "Hoffmann21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "P2B-2F6",
+                "mab_class": "RBM Class II",
+                "fold": "1.1",
+                "reference": "Shen21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "C121",
+                "mab_class": "RBM Class II",
+                "fold": "0.4",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Cilgavimab",
+                "mab_class": "RBM Class II",
+                "fold": "1.1",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Cilgavimab/Tixagevimab",
+                "mab_class": "RBM Class II",
+                "fold": "0.8",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "0.6",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "S2M11",
+                "mab_class": "RBM Class III",
+                "fold": "0.4",
+                "reference": "Collier21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "2-4",
+                "mab_class": "RBM Class III",
+                "fold": "1.2",
+                "reference": "Wang21b"
+            }
+        ]
+    },
+    {
+        "strain": "B.1.351",
+        "assays": [
+            {
+                "strain": "B.1.351",
+                "rx": "Bamlanivimab/Etesevimab",
+                "mab_class": "",
+                "fold": ">100",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "4A8",
+                "mab_class": "NTD",
+                "fold": ">100",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1.0",
+                "reference": "Hoffmann21"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "C135",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.8",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.6",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Vir-7831",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.8",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "COVA1-16",
+                "mab_class": "RBD Core Cluster II",
+                "fold": "0.8",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "48",
+                "reference": "Hoffmann21"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "RBM Class I",
+                "fold": "1.3",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": ">100",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "59",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "CC12.1",
+                "mab_class": "RBM Class I",
+                "fold": ">100",
+                "reference": "Wibmer21"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": ">100",
+                "reference": "Wibmer21"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Tixagevimab",
+                "mab_class": "RBM Class I ",
+                "fold": "3.5",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": ">100",
+                "reference": "Hoffmann21"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Cilgavimab",
+                "mab_class": "RBM Class II",
+                "fold": "1.0",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Cilgavimab/Tixagevimab",
+                "mab_class": "RBM Class II",
+                "fold": "1.3",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "C121",
+                "mab_class": "RBM Class II",
+                "fold": ">100",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": ">100",
+                "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "C119",
+                "mab_class": "RBM Class II",
+                "fold": ">100",
+                "reference": "Wibmer21"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "P2B-2F6",
+                "mab_class": "RBM Class II",
+                "fold": ">100",
+                "reference": "Wibmer21"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "2-4",
+                "mab_class": "RBM Class III",
+                "fold": ">100",
+                "reference": "Wang21b"
+            }
+        ]
+    },
+    {
+        "strain": "P.1",
+        "assays": [
+            {
+                "strain": "P.1",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.7",
+                "reference": "Hoffmann21"
+            },
+            {
+                "strain": "P.1",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "16",
+                "reference": "Hoffmann21"
+            },
+            {
+                "strain": "P.1",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": ">100",
+                "reference": "Hoffmann21"
+            }
+        ]
+    }
+]

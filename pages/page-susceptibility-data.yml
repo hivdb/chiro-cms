@@ -8,21 +8,6 @@ content:
   _resource: susceptibility-data.md
 tables:
   Table3:
-    metaColumnDefs:
-    - name: strain
-      label: " "
-    - name: rbm1
-      label: RBM-I
-      headCellStyle:
-        colspan: 3
-    - name: rbm2
-      label: RBM-II
-      headCellStyle:
-        colspan: 3
-    - name: rbm2
-      label: Core-I
-      headCellStyle:
-        colspan: 3
     columnDefs:
     - name: strain
       label: " "
@@ -45,87 +30,106 @@ tables:
     data:
       _resource: susc-table/table3.yml
   Table4:
-    metaColumnDefs:
-    - name: strain
-      label: " "
-    - name: cp
-      label: "Convalescent Plasma"
-    - name: vac
-      label: "Plasma from Vaccinated Persons"
     columnDefs:
     - name: strain
       label: " "
     - name: cp_studies
-      label: "Studies\n#"
+      label: "CP\nStudies\n&#35;"
     - name: cp_samples
-      label: "Samples\n#"
+      label: "CP\nSamples\n&#35;"
     - name: cp_s_fold
-      label: "<3-fold (S)\n(%)"
+      label: "CP\n&lt;3-fold (S)\n(%)"
     - name: cp_i_fold
-      label: "3-9-fold (I)\n(%)"
+      label: "CP\n3-9-fold (I)\n(%)"
     - name: cp_r_fold
-      label: ">10-fold (R)\n(%)"
+      label: "CP\n&gt;10-fold (R)\n(%)"
     - name: vac_studies
-      label: "Studies\n#"
+      label: "Vaccine\nStudies\n&#35;"
     - name: vac_samples
-      label: "Samples\n#"
+      label: "Vaccine\nSamples\n&#35;"
     - name: vac_s_fold
-      label: "<3-fold (S)\n(%)"
+      label: "Vaccine\n&lt;3-fold (S)\n(%)"
     - name: vac_i_fold
-      label: "3-9-fold (I)\n(%)"
+      label: "Vaccine\n3-9-fold (I)\n(%)"
     - name: vac_r_fold
-      label: ">10-fold (R)\n(%)"
+      label: "Vaccine\n&gt;10-fold (R)\n(%)"
     data:
       _resource: susc-table/table4.yml
   TableS4:
     columnDefs:
     - name: strain
       label: Spike
-    - name: rx
+    - name: assays.rx
       label: Plasma
-    - name: s_fold
-      label: "S\n(<3-fold)"
-    - name: i_fold
-      label: "I\n(3 - 9-fold)"
-    - name: r_fold
-      label: "R\n(>10-fold)"
-    - name: reference
+      multiCells: true
+    - name: assays.s_fold
+      label: "S\n(&lt;3-fold)"
+      multiCells: true
+    - name: assays.i_fold
+      label: "I\n(3-9-fold)"
+      multiCells: true
+    - name: assays.r_fold
+      label: "R\n(&gt;10-fold)"
+      multiCells: true
+    - name: assays.reference
       label: "Reference"
+      multiCells: true
+    data:
+      _resource: susc-table/tableS4.yml
   TableS5:
-    columnDef:
+    columnDefs:
     - name: strain
       label: Spike
-    - name: rx
+    - name: assays.rx
       label: Mab
-    - name: mab_class
+      multiCells: true
+    - name: assays.mab_class
       label: "Class"
-    - name: fold
+      multiCells: true
+    - name: assays.fold
       label: "Fold"
-    - name: reference
+      multiCells: true
+    - name: assays.reference
       label: "Reference"
+      multiCells: true
+    data:
+      _resource: susc-table/tableS5.yml
   TableS6:
-    columnDef:
+    columnDefs:
     - name: strain
       label: Spike
-    - name: rx
+    - name: assays.rx
       label: Plasma
-    - name: s_fold
-      label: "S\n(<3-fold)"
-    - name: i_fold
-      label: "I\n(3 - 9-fold)"
-    - name: r_fold
-      label: "R\n(>10-fold)"
-    - name: reference
+      multiCells: true
+    - name: assays.s_fold
+      label: "S\n(&lt;3-fold)"
+      multiCells: true
+    - name: assays.i_fold
+      label: "I\n(3-9-fold)"
+      multiCells: true
+    - name: assays.r_fold
+      label: "R\n(&gt;10-fold)"
+      multiCells: true
+    - name: assays.reference
       label: "Reference"
+      multiCells: true
+    data:
+      _resource: susc-table/tableS6.yml
   TableS7:
-    columnDef:
+    columnDefs:
     - name: strain
       label: Spike
-    - name: rx
+    - name: assays.rx
       label: Mab
-    - name: mab_class
+      multiCells: true
+    - name: assays.mab_class
       label: "Class"
-    - name: fold
+      multiCells: true
+    - name: assays.fold
       label: "Fold"
-    - name: reference
+      multiCells: true
+    - name: assays.reference
       label: "Reference"
+      multiCells: true
+    data:
+      _resource: susc-table/tableS7.yml
