@@ -94,3 +94,122 @@ MAb abbreviations:
 </div>
 
 </section>
+
+## Primary data
+
+- [Individual spike mutations / mAb neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#individual-spike-mutations-mab-neutralization)
+- [Individual spike mutations / plasma neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#individual-spike-mutations-plasma-neutralization)
+- [Spike variants and mutation combinations / mAb neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-mab-neutralization)
+- [Spike variants and mutation combinations / plasma neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-plasma-neutralization)
+- [Spike mutation Invitro selection](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-mutation-invitro-selection-cp-and-mab)
+
+<!--
+## Tabular summaries
+
+### Fold-Reduced Neutralizing Susceptibility of Pseudotyped Viruses with Individual or Combinations of Spike Mutations to Monoclonal Antibodies According to General Mode of Binding
+
+<section id="sec_sum-table3" class="figure-section wrap">
+
+<div class="figure-image">
+
+[table]
+Table3
+[/table]
+
+</div>
+
+<div class="figure-caption">
+
+Footnote:
+
+- RBM-I: mAbs binding to the receptor binding motif - class I; RBM-II: mAbs binding to the RBM - class II; Core-I: mAbs binding to the RBD core. CAS (casirivimab), ETE (etesevimab), TIX (tixagevimab), BAM (bamlanivimab), CIL (cilgavimab), IMD (imdevimab), and SOT (Sotrovimab) are in phase III clinical trials.
+- B.1.1.7 contains the following spike mutations: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. B.1.351 contains L18F, D80A, D215G, ∆242-244, K417N, E484K, N501Y, D614G, and A701V. P.1 contains L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
+- C121, C135, BD-368-1, P2B-2F6, and B38 are additional mAbs with high-resolution structural data that have undergone neutralizing susceptibility testing. “-“ indicates absence of susceptibility data. “*“ indicates conflict between two research groups, with one showing very a high-level of reduced susceptibility especially using IC80 rather than IC50.
+
+</div>
+
+</section>
+
+
+### Table 4. Fold Reduction in Neutralizing Susceptibility of Convalescent Plasma and Plasma from Vaccinated Persons for Pseudotyped Viruses and Isogenic Clones Containing Individual Mutations or Combinations of Mutations
+
+<section id="sec_sum-table4" class="figure-section wrap">
+
+<div class="figure-image">
+
+[table]
+Table3
+[/table]
+
+</div>
+
+<div class="figure-caption">
+
+Footnote:
+
+Convalescent plasma in all studies is presumed likely to have been obtained from persons infected with spike variants lacking mutations associated with reduced neutralization susceptibility. B.1.1.7 contains the following spike mutations: 69/70, 144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. B.1.351 contains L18F, D80A, D215G, 242-244, K417N, E484K, N501Y, D614G, and A701V. P.1 contains L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
+
+</div>
+
+</section>
+
+### Supplementary Table 4 Neutralizing Sensitivity of Variants of Concern to Convalescent Plasma and Plasma from Vaccinated Persons
+
+<section id="sec_sum-tables4" class="figure-section wrap">
+
+<div class="figure-image">
+
+[table]
+Table3
+[/table]
+
+</div>
+
+</section>
+
+
+### Supplementary Table 5. Neutralizing Sensitivity of Variants of Concern to Monoclonal Antibodies (mAbs)
+
+<section id="sec_sum-tables4" class="figure-section wrap">
+
+<div class="figure-image">
+
+[table]
+Table3
+[/table]
+
+</div>
+
+</section>
+
+
+### Supplementary Table 6. Neutralizing Sensitivity of mutations to Convalescent Plasma and Plasma from Vaccinated Persons
+
+<section id="sec_sum-tables4" class="figure-section wrap">
+
+<div class="figure-image">
+
+[table]
+Table3
+[/table]
+
+</div>
+
+</section>
+
+
+### Supplementary Table 7. Neutralizing Sensitivity of Mutations to Monoclonal Antibodies (mAbs)
+
+<section id="sec_sum-tables4" class="figure-section wrap">
+
+<div class="figure-image">
+
+[table]
+Table3
+[/table]
+
+</div>
+
+</section>
+
+-->

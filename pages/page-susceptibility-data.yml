@@ -1,8 +1,131 @@
 ---
-title: Susceptibility data
+pageTitle: Susceptibility data
 introHeader: |-
   Susceptiblity data
 toc: true
 escapeHtml: false
 content:
   _resource: susceptibility-data.md
+tables:
+  Table3:
+    metaColumnDefs:
+    - name: strain
+      label: " "
+    - name: rbm1
+      label: RBM-I
+      headCellStyle:
+        colspan: 3
+    - name: rbm2
+      label: RBM-II
+      headCellStyle:
+        colspan: 3
+    - name: rbm2
+      label: Core-I
+      headCellStyle:
+        colspan: 3
+    columnDefs:
+    - name: strain
+      label: " "
+    - name: cas
+      label: "RBM-I\nCAS"
+    - name: ete
+      label: "RBM-I\nETE"
+    - name: tix
+      label: "RBM-I\nTIX"
+    - name: bam
+      label: "RBM-II\nBAM"
+    - name: cil
+      label: "RBM-II\nCIL"
+    - name: imd
+      label: "Core-I\nIMD"
+    - name: sot
+      label: "Core-I\nSOT"
+    - name: other
+      label: "Other mAbs with reduced susceptibility"
+    data:
+      _resource: susc-table/table3.yml
+  Table4:
+    metaColumnDefs:
+    - name: strain
+      label: " "
+    - name: cp
+      label: "Convalescent Plasma"
+    - name: vac
+      label: "Plasma from Vaccinated Persons"
+    columnDefs:
+    - name: strain
+      label: " "
+    - name: cp_studies
+      label: "Studies\n#"
+    - name: cp_samples
+      label: "Samples\n#"
+    - name: cp_s_fold
+      label: "<3-fold (S)\n(%)"
+    - name: cp_i_fold
+      label: "3-9-fold (I)\n(%)"
+    - name: cp_r_fold
+      label: ">10-fold (R)\n(%)"
+    - name: vac_studies
+      label: "Studies\n#"
+    - name: vac_samples
+      label: "Samples\n#"
+    - name: vac_s_fold
+      label: "<3-fold (S)\n(%)"
+    - name: vac_i_fold
+      label: "3-9-fold (I)\n(%)"
+    - name: vac_r_fold
+      label: ">10-fold (R)\n(%)"
+    data:
+      _resource: susc-table/table4.yml
+  TableS4:
+    columnDefs:
+    - name: strain
+      label: Spike
+    - name: rx
+      label: Plasma
+    - name: s_fold
+      label: "S\n(<3-fold)"
+    - name: i_fold
+      label: "I\n(3 - 9-fold)"
+    - name: r_fold
+      label: "R\n(>10-fold)"
+    - name: reference
+      label: "Reference"
+  TableS5:
+    columnDef:
+    - name: strain
+      label: Spike
+    - name: rx
+      label: Mab
+    - name: mab_class
+      label: "Class"
+    - name: fold
+      label: "Fold"
+    - name: reference
+      label: "Reference"
+  TableS6:
+    columnDef:
+    - name: strain
+      label: Spike
+    - name: rx
+      label: Plasma
+    - name: s_fold
+      label: "S\n(<3-fold)"
+    - name: i_fold
+      label: "I\n(3 - 9-fold)"
+    - name: r_fold
+      label: "R\n(>10-fold)"
+    - name: reference
+      label: "Reference"
+  TableS7:
+    columnDef:
+    - name: strain
+      label: Spike
+    - name: rx
+      label: Mab
+    - name: mab_class
+      label: "Class"
+    - name: fold
+      label: "Fold"
+    - name: reference
+      label: "Reference"
