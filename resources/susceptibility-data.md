@@ -103,7 +103,7 @@ MAb abbreviations:
 - [Spike variants and mutation combinations / plasma neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-plasma-neutralization)
 - [Spike mutation Invitro selection](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-mutation-invitro-selection-cp-and-mab)
 
-<!--
+
 ## Tabular summaries
 
 ### Fold-Reduced Neutralizing Susceptibility of Pseudotyped Viruses with Individual or Combinations of Spike Mutations to Monoclonal Antibodies According to General Mode of Binding
@@ -131,14 +131,14 @@ Footnote:
 </section>
 
 
-### Table 4. Fold Reduction in Neutralizing Susceptibility of Convalescent Plasma and Plasma from Vaccinated Persons for Pseudotyped Viruses and Isogenic Clones Containing Individual Mutations or Combinations of Mutations
+### Fold Reduction in Neutralizing Susceptibility of Convalescent Plasma and Plasma from Vaccinated Persons for Pseudotyped Viruses and Isogenic Clones Containing Individual Mutations or Combinations of Mutations
 
 <section id="sec_sum-table4" class="figure-section wrap">
 
 <div class="figure-image">
 
 [table]
-Table3
+Table4
 [/table]
 
 </div>
@@ -153,14 +153,29 @@ Convalescent plasma in all studies is presumed likely to have been obtained from
 
 </section>
 
-### Supplementary Table 4 Neutralizing Sensitivity of Variants of Concern to Convalescent Plasma and Plasma from Vaccinated Persons
+
+### Neutralizing Sensitivity of Variants of Concern to Convalescent Plasma and Plasma from Vaccinated Persons
 
 <section id="sec_sum-tables4" class="figure-section wrap">
 
 <div class="figure-image">
 
 [table]
-Table3
+TableS4
+[/table]
+
+</div>
+
+</section>
+
+### Neutralizing Sensitivity of Variants of Concern to Monoclonal Antibodies (mAbs)
+
+<section id="sec_sum-tables5" class="figure-section wrap">
+
+<div class="figure-image">
+
+[table]
+TableS5
 [/table]
 
 </div>
@@ -168,14 +183,14 @@ Table3
 </section>
 
 
-### Supplementary Table 5. Neutralizing Sensitivity of Variants of Concern to Monoclonal Antibodies (mAbs)
+### Neutralizing Sensitivity of mutations to Convalescent Plasma and Plasma from Vaccinated Persons
 
-<section id="sec_sum-tables4" class="figure-section wrap">
+<section id="sec_sum-tables6" class="figure-section wrap">
 
 <div class="figure-image">
 
 [table]
-Table3
+TableS6
 [/table]
 
 </div>
@@ -183,33 +198,16 @@ Table3
 </section>
 
 
-### Supplementary Table 6. Neutralizing Sensitivity of mutations to Convalescent Plasma and Plasma from Vaccinated Persons
+### Neutralizing Sensitivity of Mutations to Monoclonal Antibodies (mAbs)
 
-<section id="sec_sum-tables4" class="figure-section wrap">
+<section id="sec_sum-tables7" class="figure-section wrap">
 
 <div class="figure-image">
 
 [table]
-Table3
+TableS7
 [/table]
 
 </div>
 
 </section>
-
-
-### Supplementary Table 7. Neutralizing Sensitivity of Mutations to Monoclonal Antibodies (mAbs)
-
-<section id="sec_sum-tables4" class="figure-section wrap">
-
-<div class="figure-image">
-
-[table]
-Table3
-[/table]
-
-</div>
-
-</section>
-
--->
