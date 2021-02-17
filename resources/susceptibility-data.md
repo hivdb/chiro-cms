@@ -112,6 +112,7 @@ MAb abbreviations:
 Table3
 [/table]
 
+
 **Footnote:**
 
 - RBM-I: mAbs binding to the receptor binding motif - class I; RBM-II: mAbs binding to the RBM - class II; Core-I: mAbs binding to the RBD core. CAS (casirivimab), ETE (etesevimab), TIX (tixagevimab), BAM (bamlanivimab), CIL (cilgavimab), IMD (imdevimab), and SOT (Sotrovimab) are in phase III clinical trials.
@@ -124,9 +125,8 @@ Table3
 Table4
 [/table]
 
-**Footnote:**
 
-Convalescent plasma in all studies is presumed likely to have been obtained from persons infected with spike variants lacking mutations associated with reduced neutralization susceptibility. B.1.1.7 contains the following spike mutations: 69/70, 144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. B.1.351 contains L18F, D80A, D215G, 242-244, K417N, E484K, N501Y, D614G, and A701V. P.1 contains L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
+**Footnote:** Convalescent plasma in all studies is presumed likely to have been obtained from persons infected with spike variants lacking mutations associated with reduced neutralization susceptibility. B.1.1.7 contains the following spike mutations: Δ69/70, Δ144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. B.1.351 contains L18F, D80A, D215G, Δ242-244, K417N, E484K, N501Y, D614G, and A701V. P.1 contains L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
 
 ### Neutralizing Sensitivity of Variants of Concern to Convalescent Plasma and Plasma from Vaccinated Persons
 
