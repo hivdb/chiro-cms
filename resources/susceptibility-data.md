@@ -62,6 +62,7 @@ Fold reduced _in vitro_ neutralization susceptibility to monoclonal neutralizing
 The color scheme indicates the fold-reduction in neutralization: <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #ffffff; color: black;">absence of color</span> – &lt;3-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #7fcbee; color: black;">light blue</span> – 3 to 9.9-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span> – ≥10-fold reduced susceptibility.
 </p>
 
+Studies:
 
 - **Baum20**: Baum A, Fulton BO, et int., and Kyratsous CA. “Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies.” _Science_, 2020. [doi.org/10.1126/science.abd0831](https://doi.org/10.1126/science.abd0831). \[[PubMed32540904](https://pubmed.ncbi.nlm.nih.gov/32540904/)\] \[[PMC7299283](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7299283/)\]
 - **Collier21**: Collier D, Marco AD, et int., and Gupta R. “SARS-CoV-2 B.1.1.7 escape from mRNA vaccine-elicited neutralizing antibodies.” _medRxiv_, 2021. [doi.org/10.1101/2021.01.19.21249840](https://doi.org/10.1101/2021.01.19.21249840).
