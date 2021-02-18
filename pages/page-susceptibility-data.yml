@@ -9,6 +9,8 @@ content:
   _resource: susceptibility-data.md
 tables:
   Table3:
+    tableStyle:
+      tableLayout: fixed
     columnDefs:
     - name: strain
       label: " "
@@ -26,8 +28,20 @@ tables:
       label: "Core-I\nIMD"
     - name: sot
       label: "Core-I\nSOT"
-    - name: other
-      label: "Other mAbs with reduced susceptibility"
+    # - name: reg
+    #   label: "RBM-I\nREG"
+    - name: S2E12
+      label: "RBM-I\nS2E12"
+    - name: C144
+      label: "RBM-III\nC144"
+    - name: C135
+      label: "Core-I\nC135"
+    # - name: BRII-196
+    #   label: BRII-196
+    # - name: BRII-198
+    #   label: BRII-198
+    # - name: JMB2002
+    #   label: JMB2002
     data:
       _resource: susc-table/table3.yml
   Table4:

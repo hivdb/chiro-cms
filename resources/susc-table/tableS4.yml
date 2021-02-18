@@ -20,6 +20,12 @@
     reference: Muik21
   - strain: B.1.1.7
     rx: BNT162b2
+    s_fold: 8
+    i_fold: 2
+    r_fold: 0
+    reference: Planas21
+  - strain: B.1.1.7
+    rx: BNT162b2
     s_fold: 9
     i_fold: 1
     r_fold: 0
@@ -98,6 +104,12 @@
     i_fold: 9
     r_fold: 2
     reference: Hoffmann21
+  - strain: B.1.351
+    rx: BNT162b2
+    s_fold: 3
+    i_fold: 6
+    r_fold: 1
+    reference: Planas21
   - strain: B.1.351
     rx: BNT162b2
     s_fold: 2
