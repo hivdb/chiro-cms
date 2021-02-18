@@ -34,7 +34,7 @@
                 "strain": "B.1.1.7",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "1.0",
+                "fold": "1",
                 "reference": "Hoffmann21"
             },
             {
@@ -97,7 +97,7 @@
                 "strain": "B.1.1.7",
                 "rx": "S2X35",
                 "mab_class": "RBD Core Cluster II",
-                "fold": "1.0",
+                "fold": "1",
                 "reference": "Collier21"
             },
             {
@@ -118,7 +118,7 @@
                 "strain": "B.1.1.7",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "2.0",
+                "fold": "2",
                 "reference": "Hoffmann21"
             },
             {
@@ -256,7 +256,7 @@
                 "strain": "B.1.351",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "1.0",
+                "fold": "1",
                 "reference": "Hoffmann21"
             },
             {
@@ -361,7 +361,7 @@
                 "strain": "B.1.351",
                 "rx": "Cilgavimab",
                 "mab_class": "RBM Class II",
-                "fold": "1.0",
+                "fold": "1",
                 "reference": "Wang21b"
             },
             {
