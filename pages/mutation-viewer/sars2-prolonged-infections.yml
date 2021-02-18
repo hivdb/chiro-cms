@@ -9,7 +9,7 @@ paddingTop: 20
   _resource: mutation-viewer/sars2-regions.yml
 positionGroups:
   - label: Kemp
-    .: {_resource: mutation-viewer/position-groups/prolonged-infections/kemp20.yml}
+    .: {_resource: mutation-viewer/position-groups/prolonged-infections/kemp21.yml}
   - label: McCarthy
     .: {_resource: mutation-viewer/position-groups/prolonged-infections/mccarthy20.yml}
   - label: Choi

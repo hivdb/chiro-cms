@@ -1,0 +1,21 @@
+name: kemp21
+positions:
+- name: NSP2:I513T
+  pos: 2342
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: RdRp:V165L
+  pos: 13934
+  <<: *non-spike
+- name: NSP15:N177S
+  pos: 20149
+  <<: *non-spike
+- name: HV69-70del
+  label: HV69-70Δ
+  pos: 21767
+- name: D796H
+  pos: 23948
+- name: ORF7a:T39I
+  pos: 27870
+  <<: *non-spike

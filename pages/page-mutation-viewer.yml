@@ -70,11 +70,11 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/cal-20c.yml
     <<: *common-props
-  kemp20:
-    name: kemp20
+  kemp21:
+    name: kemp21
     height: 200
     positionGroups:
-    - _resource: mutation-viewer/position-groups/prolonged-infections/kemp20.yml
+    - _resource: mutation-viewer/position-groups/prolonged-infections/kemp21.yml
     <<: *common-props
   mccarthy20:
     name: mccarthy20

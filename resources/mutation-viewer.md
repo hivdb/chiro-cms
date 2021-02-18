@@ -193,21 +193,21 @@ Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SA
 ## Prolonged Infections
 
 <!-- Kemp S -->
-<section id="sec_kemp20" class="figure-section wrap">
+<section id="sec_kemp21" class="figure-section wrap">
 
 <div class="figure-image">
 
 [genomemap]
-kemp20
+kemp21
 [/genomemap]
 
 </div>
 
 <div class="figure-caption">
 
-### [Kemp S, Harvey W, et int., and Gupta RK.](#sec_kemp20)
+### [Kemp S, Harvey W, et int., and Gupta RK.](#sec_kemp21)
 
-Kemp S, Harvey W, et int., and Gupta RK. “Recurrent emergence and transmission of a SARS-CoV-2 Spike deletion H69/V70.” _bioRxiv_, 2020. [doi.org/10.1101/2020.12.14.422555](https://doi.org/10.1101/2020.12.14.422555).[^Kemp20]
+Kemp S, Harvey W, et int., and Gupta RK. “SARS-CoV-2 evolution during treatment of chronic infection.” _Nature_, 2021. [doi.org/10.1038/s41586-021-03291-y](https://doi.org/10.1038/s41586-021-03291-y).[^Kemp21] Other detected spike mutations during prolonged infections: S:Y200H, S:T240I, S:P330S
 
 </div>
 
