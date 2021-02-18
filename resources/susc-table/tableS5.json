@@ -13,14 +13,14 @@
                 "strain": "B.1.1.7",
                 "rx": "4A8",
                 "mab_class": "NTD",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Collier21"
             },
             {
                 "strain": "B.1.1.7",
                 "rx": "4A8",
                 "mab_class": "NTD",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Wang21b"
             },
             {
@@ -69,7 +69,7 @@
                 "strain": "B.1.1.7",
                 "rx": "Sotrovimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Shen21"
             },
             {
@@ -160,7 +160,7 @@
                 "strain": "B.1.1.7",
                 "rx": "S2H14",
                 "mab_class": "RBM Class I",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Collier21"
             },
             {
@@ -235,14 +235,14 @@
                 "strain": "B.1.351",
                 "rx": "Bamlanivimab/Etesevimab",
                 "mab_class": "",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Wang21b"
             },
             {
                 "strain": "B.1.351",
                 "rx": "4A8",
                 "mab_class": "NTD",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Wang21b"
             },
             {
@@ -284,7 +284,7 @@
                 "strain": "B.1.351",
                 "rx": "CC12.1",
                 "mab_class": "RBM Class I",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Wibmer21"
             },
             {
@@ -312,14 +312,14 @@
                 "strain": "B.1.351",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Wang21b"
             },
             {
                 "strain": "B.1.351",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Wibmer21"
             },
             {
@@ -333,28 +333,28 @@
                 "strain": "B.1.351",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Hoffmann21"
             },
             {
                 "strain": "B.1.351",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Wang21b"
             },
             {
                 "strain": "B.1.351",
                 "rx": "C119",
                 "mab_class": "RBM Class II",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Wibmer21"
             },
             {
                 "strain": "B.1.351",
                 "rx": "C121",
                 "mab_class": "RBM Class II",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Wang21b"
             },
             {
@@ -375,14 +375,14 @@
                 "strain": "B.1.351",
                 "rx": "P2B-2F6",
                 "mab_class": "RBM Class II",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Wibmer21"
             },
             {
                 "strain": "B.1.351",
                 "rx": "2-4",
                 "mab_class": "RBM Class III",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Wang21b"
             }
         ]
@@ -408,7 +408,7 @@
                 "strain": "P.1",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
-                "fold": ">100",
+                "fold": "&gt;100",
                 "reference": "Hoffmann21"
             }
         ]
