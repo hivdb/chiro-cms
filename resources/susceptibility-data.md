@@ -12,7 +12,7 @@
 
 <div class="figure-caption">
 
-Fold reduced _in vitro_ neutralization susceptibility to plasma from previously infected and vaccinated persons associated with two variants of concern (B.1.1.7 and B.1.351) and two spike amino acid mutations E484K and N501Y. B.1.1.7 contains N501Y plus two S1 N-terminal domain (NTD) deletions, three S1 C-terminal domain (CTD) mutations, and three S2-mutations. B.1.351 contains E484K and N501Y plus four S1 NTD mutations, two receptor binding domain (RBD) mutations, one S1 CTD mutation, and one S2 mutation. The Y-axis indicates the number of plasma units tested.
+Fold reduced _in vitro_ neutralization susceptibility to plasma from previously infected and vaccinated persons associated with three variants of concern (B.1.1.7, B.1.351, and P.1) and two spike amino acid mutations E484K and N501Y. B.1.1.7 contains N501Y plus two S1 N-terminal domain (NTD) deletions, three S1 C-terminal domain (CTD) mutations, and three S2-mutations. B.1.351 contains E484K and N501Y plus four S1 NTD mutations, two receptor binding domain (RBD) mutations, one S1 CTD mutation, and one S2 mutation. P.1 contains E484K and N501Y plus five S1 NTD mutations, one RBD mutation, two S1 CTD mutations, and two S2 mutations. The Y-axis indicates the number of plasma units tested.
 
 <p>
 The color scheme indicates the fold-reduction in neutralization: <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #ffffff; color: black;">absence of color</span> – &lt;3-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #7fcbee; color: black;">light blue</span> – 3 to 9.9-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span> – ≥10-fold reduced susceptibility. The histogram labels indicate the studies’ authors and plasma characteristics. BNT: BNT162b2; Mod: mRNA-1273; NVX: NVX-CoV2373. Each of plasma units were obtained approximately one month following vaccination with the exception of one study.
@@ -56,9 +56,12 @@ The color scheme indicates the fold-reduction in neutralization: <span style="pa
 
 <div class="figure-caption">
 
-Fold reduced _in vitro_ neutralization susceptibility to monoclonal neutralizing antibodies (mAbs) associated with two variants of concern (B.1.1.7 and B.1.351) and two spike amino acid mutations E484K and N501Y. B.1.1.7 contains N501Y plus two S1 N-terminal domain (NTD) deletions, three S1 C-terminal domain (CTD) mutations, and three S2-mutations. B.1.351 contains E484K and N501Y plus four S1 NTD mutations, two receptor binding domain (RBD) mutations, one S1 CTD mutation, and one S2 mutation. Each of the in vitro susceptibility experiments were performed using pseudovirus assays. Some of the pseudovirus assays performed with E484K spike and N501Y spike contained D614G while others did not. D614G has been reported to slightly increase neutralization susceptibility. The Y-axis indicates the log-fold reduction in susceptibility. Data are displayed for mAbs in advanced clinical trials and several additional prototypical mAbs with high-resolution 3-D structures and defined mechanisms of mAb-RBD binding. The histogram colors indicate the study reference:
+Fold reduced _in vitro_ neutralization susceptibility to monoclonal neutralizing antibodies (mAbs) associated with three variants of concern (B.1.1.7, B.1.351, and P.1) and six spike amino acid mutations E484K, N501Y, L452R, K417N, N439K, and Y453F. B.1.1.7 contains N501Y plus two S1 N-terminal domain (NTD) deletions, three S1 C-terminal domain (CTD) mutations, and three S2-mutations. B.1.351 contains E484K and N501Y plus four S1 NTD mutations, two receptor binding domain (RBD) mutations, one S1 CTD mutation, and one S2 mutation. P.1 contains E484K and N501Y plus five S1 NTD mutations, one RBD mutation, two S1 CTD mutations, and two S2 mutations. Each of the _in vitro_ susceptibility experiments were performed using pseudovirus assays. Some of the pseudovirus assays performed with single amino acid mutations contained D614G while others did not. D614G has been reported to slightly increase neutralization susceptibility. The Y-axis indicates the log-fold reduction in susceptibility. Data are displayed for mAbs in advanced clinical trials and several additional prototypical mAbs with high-resolution 3-D structures and defined mechanisms of mAb-RBD binding.
 
-Studies:
+<p>
+The color scheme indicates the fold-reduction in neutralization: <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #ffffff; color: black;">absence of color</span> – &lt;3-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #7fcbee; color: black;">light blue</span> – 3 to 9.9-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span> – ≥10-fold reduced susceptibility.
+</p>
+
 
 - **Baum20**: Baum A, Fulton BO, et int., and Kyratsous CA. “Antibody cocktail to SARS-CoV-2 spike protein prevents rapid mutational escape seen with individual antibodies.” _Science_, 2020. [doi.org/10.1126/science.abd0831](https://doi.org/10.1126/science.abd0831). \[[PubMed32540904](https://pubmed.ncbi.nlm.nih.gov/32540904/)\] \[[PMC7299283](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7299283/)\]
 - **Collier21**: Collier D, Marco AD, et int., and Gupta R. “SARS-CoV-2 B.1.1.7 escape from mRNA vaccine-elicited neutralizing antibodies.” _medRxiv_, 2021. [doi.org/10.1101/2021.01.19.21249840](https://doi.org/10.1101/2021.01.19.21249840).
@@ -91,6 +94,7 @@ MAb abbreviations:
 - **TIX**: Tixagevimab/COV2-2196/AZD8895
 - **TIX-CIL**: Tixagevimab+Cilgavimab
 - **BAM-ETE**: Bamlanivimab+Etesevimab
+- **SOT**: Sotrovimab/Vir-7831/S309
 
 </div>
 
@@ -102,7 +106,7 @@ MAb abbreviations:
 - [Individual spike mutations / plasma neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#individual-spike-mutations-plasma-neutralization)
 - [Spike variants and mutation combinations / mAb neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-mab-neutralization)
 - [Spike variants and mutation combinations / plasma neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-plasma-neutralization)
-- [Spike mutation Invitro selection](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-mutation-invitro-selection-cp-and-mab)
+- [Spike mutation _in vitro_ selection](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-mutation-invitro-selection-cp-and-mab)
 
 ## Tabular summaries
 
@@ -115,9 +119,9 @@ Table3
 
 **Footnote:**
 
-- RBM-I: mAbs binding to the receptor binding motif - class I; RBM-II: mAbs binding to the RBM - class II; Core-I: mAbs binding to the RBD core. CAS (casirivimab), ETE (etesevimab), TIX (tixagevimab), BAM (bamlanivimab), CIL (cilgavimab), IMD (imdevimab), and SOT (Sotrovimab) are in phase III clinical trials.
+- RBM-I: mAbs binding to the receptor binding motif - class I; RBM-II: mAbs binding to the RBM - class II; Core-I: mAbs binding to the RBD core. CAS (casirivimab), ETE (etesevimab), TIX (tixagevimab), BAM (bamlanivimab), CIL (cilgavimab), IMD (imdevimab), and SOT (Sotrovimab) are in phase III clinical trials. C144-LS and C135-LS are in phase I clinical trials. S2E12 is used with Sotrovimab in an antibody cocktail.
 - B.1.1.7 contains the following spike mutations: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. B.1.351 contains L18F, D80A, D215G, ∆242-244, K417N, E484K, N501Y, D614G, and A701V. P.1 contains L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
-- C121, C135, BD-368-1, P2B-2F6, and B38 are additional mAbs with high-resolution structural data that have undergone neutralizing susceptibility testing. “-“ indicates absence of susceptibility data. “\*“ indicates conflict between two research groups, with one showing very a high-level of reduced susceptibility especially using IC80 rather than IC50.
+- “-“ indicates absence of susceptibility data. “\*“ indicates conflict between two research groups, with one showing high-level of reduced susceptibility especially using IC80 rather than IC50.
 
 ### Fold Reduction in Neutralizing Susceptibility of Convalescent Plasma and Plasma from Vaccinated Persons for Pseudotyped Viruses and Isogenic Clones Containing Individual Mutations or Combinations of Mutations
 
