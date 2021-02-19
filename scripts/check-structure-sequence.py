@@ -17,12 +17,25 @@ RENAME_MAB_ABDAB2MAb = {
     'BD23': 'BD-23',
     'Nb20': 'nb20',
     'Nb#6': 'Nb6',
+    'Fab2-15': '2-15',
     'Regdanvimab': 'CT-P59',
+    'DH1050-1': 'DH1050',
+    'VHH_U': 'VHH U',
+    'VHH_V': 'VHH V',
+    'VHH_E': 'VHH E',
+    'VHH_W': 'VHH W',
 }
 
 SWITCH_MAB = {
     'C1A-B12': 'C1A-B3',
     "C1A-B3": 'C1A-B12',
+}
+
+RENAME_MAB = {
+    'LY-CoV016': 'CB6',
+    'LY-CoV555': 'Bamlanivimab',
+    'COV2-2050-LALA-PG': 'COV2-2050',
+    'COV2-3025-LALA-PG': 'COV2-3025',
 }
 
 
@@ -282,7 +295,7 @@ def is_sars_cov2_mab(record):
 def get_mab_from_mabs(mabs):
     mab_names = set()
     for item in mabs:
-        mab_list = item['mAb (EC50)']
+        mab_list = item['mAb (live EC50, ng/ml or PV: ng/ml)']
         mab_list = get_mab_list(mab_list)
 
         for name in mab_list:
@@ -312,7 +325,7 @@ def get_mab_list(mab_list):
 def get_mab2refIDs_from_mabs(mabs):
     mab2refID = defaultdict(list)
     for item in mabs:
-        mab_list = item['mAb (EC50)']
+        mab_list = item['mAb (live EC50, ng/ml or PV: ng/ml)']
         mab_list = get_mab_list(mab_list)
 
         refIDs = item['RefIDs']
@@ -370,7 +383,7 @@ def validate_structures(structures):
         refIDs = item['RefIDs']
         if refIDs == 'NA':
             continue
-        if '20' not in refIDs:
+        if not re.search(r'\d+', refIDs):
             print('RefID dont have publish year', refIDs)
 
     dup_mab_names = get_dup_key(structures, 'mAb Names')
@@ -505,7 +518,7 @@ def validate_sequences(sequences):
         refIDs = item['Author']
         if refIDs == 'NA':
             continue
-        if '20' not in refIDs:
+        if not re.search(r'\d+', refIDs):
             print('RefID dont have publish year', refIDs)
 
     dup_mab = get_dup_key(sequences, 'Mab')
@@ -572,6 +585,14 @@ def export_sequences_for_alignment(folder, sequences):
 
 
 def show_mab_diff(list1, list1_name, list2, list2_name):
+    for i, name in enumerate(list1):
+        if name in RENAME_MAB:
+            list1[i] = RENAME_MAB[name]
+
+    for i, name in enumerate(list2):
+        if name in RENAME_MAB:
+            list2[i] = RENAME_MAB[name]
+
     diff = set(list1) - set(list2)
     print('In {} not in {}:'.format(list1_name, list2_name))
     for i in sorted(diff):
