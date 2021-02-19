@@ -146,6 +146,14 @@
             {
                 "strain": "B.1.351",
                 "rx": "BNT162b2",
+                "s_fold": 15,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Liu21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "BNT162b2",
                 "s_fold": 3,
                 "i_fold": 6,
                 "r_fold": 1,
