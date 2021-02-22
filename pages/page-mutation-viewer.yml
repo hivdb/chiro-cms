@@ -64,6 +64,12 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/tu-501y.yml
     <<: *common-props
+  coh-20g-677h:
+    name: coh-20g-677h
+    height: 225
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/coh-20g-677h.yml
+    <<: *common-props
   cal-20c:
     name: cal-20c
     height: 225

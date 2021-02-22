@@ -170,6 +170,26 @@ Tu H, Avenarius MR, et int., and Jones D. “Distinct Patterns of Emergence of S
 
 </section>
 
+<!-- COH.20G/677H -->
+<section id="sec_coh-20g-677h" class="figure-section wrap">
+
+<div class="figure-image">
+
+[genomemap]
+coh-20g-677h
+[/genomemap]
+
+</div>
+
+<div class="figure-caption">
+
+### [COH.20G/677H](#sec_coh-20g-677h)
+Tada T, Dcosta BM, et int., and Landau NR. “Neutralization of viruses with European, South African, and United States SARS-CoV-2 variant spike proteins by convalescent sera and BNT162b2 mRNA vaccine-elicited antibodies.” _bioRxiv_, 2021. [doi.org/10.1101/2021.02.05.430003](https://doi.org/10.1101/2021.02.05.430003).[^Tada21]
+
+</div>
+
+</section>
+
 <!-- P.2 -->
 <section id="sec_p-2" class="figure-section wrap">
 
