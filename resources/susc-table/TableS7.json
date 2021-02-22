@@ -4,6 +4,41 @@
         "assays": [
             {
                 "strain": "E484K",
+                "rx": "CV05-163",
+                "mab_class": "",
+                "fold": "&gt;100",
+                "reference": "Yuan21"
+            },
+            {
+                "strain": "E484K",
+                "rx": "CV07-270",
+                "mab_class": "",
+                "fold": "&gt;100",
+                "reference": "Yuan21"
+            },
+            {
+                "strain": "E484K",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "1.9",
+                "reference": "Baum20"
+            },
+            {
+                "strain": "E484K",
+                "rx": "Tixagevimab + Cilgavimab",
+                "mab_class": "",
+                "fold": "2.8",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "E484K",
+                "rx": "Vir-7831+S2E12",
+                "mab_class": "",
+                "fold": "9.2",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "E484K",
                 "rx": "C135",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.4",
@@ -15,6 +50,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.2",
                 "reference": "Weisblum20"
+            },
+            {
+                "strain": "E484K",
+                "rx": "IMD",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "10",
+                "reference": "Yuan21"
             },
             {
                 "strain": "E484K",
@@ -34,8 +76,22 @@
                 "strain": "E484K",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
+                "fold": "0.5",
+                "reference": "Tada21b"
+            },
+            {
+                "strain": "E484K",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
                 "fold": "1.1",
                 "reference": "Wang21b"
+            },
+            {
+                "strain": "E484K",
+                "rx": "Sotrovimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "2.6",
+                "reference": "Diamond21"
             },
             {
                 "strain": "E484K",
@@ -53,10 +109,31 @@
             },
             {
                 "strain": "E484K",
+                "rx": "CAS",
+                "mab_class": "RBM Class I",
+                "fold": "30",
+                "reference": "Yuan21"
+            },
+            {
+                "strain": "E484K",
+                "rx": "COVA2-39",
+                "mab_class": "RBM Class I",
+                "fold": "&gt;100",
+                "reference": "Yuan21"
+            },
+            {
+                "strain": "E484K",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
                 "fold": "4.4",
                 "reference": "Rothenberger21"
+            },
+            {
+                "strain": "E484K",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "7.3",
+                "reference": "Tada21b"
             },
             {
                 "strain": "E484K",
@@ -74,13 +151,6 @@
             },
             {
                 "strain": "E484K",
-                "rx": "Casirivimab/Imdevimab",
-                "mab_class": "RBM Class I",
-                "fold": "1.9",
-                "reference": "Baum20"
-            },
-            {
-                "strain": "E484K",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
                 "fold": "4.4",
@@ -95,15 +165,29 @@
             },
             {
                 "strain": "E484K",
+                "rx": "S2E12",
+                "mab_class": "RBM Class I",
+                "fold": "8.5",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "E484K",
                 "rx": "Tixagevimab",
-                "mab_class": "RBM Class I ",
+                "mab_class": "RBM Class I",
                 "fold": "2",
                 "reference": "Dong21"
             },
             {
                 "strain": "E484K",
                 "rx": "Tixagevimab",
-                "mab_class": "RBM Class I ",
+                "mab_class": "RBM Class I",
+                "fold": "4",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "E484K",
+                "rx": "Tixagevimab",
+                "mab_class": "RBM Class I",
                 "fold": "8.1",
                 "reference": "Wang21b"
             },
@@ -137,6 +221,20 @@
             },
             {
                 "strain": "E484K",
+                "rx": "C121",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Yuan21"
+            },
+            {
+                "strain": "E484K",
+                "rx": "Cilgavimab",
+                "mab_class": "RBM Class II",
+                "fold": "1.8",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "E484K",
                 "rx": "Cilgavimab",
                 "mab_class": "RBM Class II",
                 "fold": "2",
@@ -162,12 +260,87 @@
                 "mab_class": "RBM Class III",
                 "fold": "&gt;100",
                 "reference": "Weisblum20"
+            },
+            {
+                "strain": "E484K",
+                "rx": "C144",
+                "mab_class": "RBM Class III",
+                "fold": "&gt;100",
+                "reference": "Yuan21"
+            }
+        ]
+    },
+    {
+        "strain": "E484K + N501Y",
+        "assays": [
+            {
+                "strain": "E484K + N501Y",
+                "rx": "Tixagevimab + Cilgavimab",
+                "mab_class": "",
+                "fold": "2",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "E484K + N501Y",
+                "rx": "Vir-7831+S2E12",
+                "mab_class": "",
+                "fold": "14",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "E484K + N501Y",
+                "rx": "Sotrovimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "11",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "E484K + N501Y",
+                "rx": "S2E12",
+                "mab_class": "RBM Class I",
+                "fold": "12",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "E484K + N501Y",
+                "rx": "Tixagevimab",
+                "mab_class": "RBM Class I",
+                "fold": "10",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "E484K + N501Y",
+                "rx": "Cilgavimab",
+                "mab_class": "RBM Class II",
+                "fold": "2",
+                "reference": "Diamond21"
             }
         ]
     },
     {
         "strain": "K417N",
         "assays": [
+            {
+                "strain": "K417N",
+                "rx": "CC12.3",
+                "mab_class": "",
+                "fold": "&gt;100",
+                "reference": "Yuan21"
+            },
+            {
+                "strain": "K417N",
+                "rx": "Tixagevimab + Cilgavimab",
+                "mab_class": "",
+                "fold": "0.5",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "K417N",
+                "rx": "Vir-7831+S2E12",
+                "mab_class": "",
+                "fold": "0.4",
+                "reference": "Diamond21"
+            },
             {
                 "strain": "K417N",
                 "rx": "4A8",
@@ -186,8 +359,22 @@
                 "strain": "K417N",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
+                "fold": "1.3",
+                "reference": "Tada21b"
+            },
+            {
+                "strain": "K417N",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
                 "fold": "1.2",
                 "reference": "Wang21b"
+            },
+            {
+                "strain": "K417N",
+                "rx": "Sotrovimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1.4",
+                "reference": "Diamond21"
             },
             {
                 "strain": "K417N",
@@ -202,6 +389,34 @@
                 "mab_class": "RBD Core Cluster II",
                 "fold": "0.3",
                 "reference": "Wang21b"
+            },
+            {
+                "strain": "K417N",
+                "rx": "CAS",
+                "mab_class": "RBM Class I",
+                "fold": "30",
+                "reference": "Yuan21"
+            },
+            {
+                "strain": "K417N",
+                "rx": "CC12.1",
+                "mab_class": "RBM Class I",
+                "fold": "&gt;100",
+                "reference": "Yuan21"
+            },
+            {
+                "strain": "K417N",
+                "rx": "COVA2-04",
+                "mab_class": "RBM Class I",
+                "fold": "&gt;100",
+                "reference": "Yuan21"
+            },
+            {
+                "strain": "K417N",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "49",
+                "reference": "Tada21b"
             },
             {
                 "strain": "K417N",
@@ -226,8 +441,22 @@
             },
             {
                 "strain": "K417N",
+                "rx": "S2E12",
+                "mab_class": "RBM Class I",
+                "fold": "0.5",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "K417N",
                 "rx": "Tixagevimab",
-                "mab_class": "RBM Class I ",
+                "mab_class": "RBM Class I",
+                "fold": "0.3",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "K417N",
+                "rx": "Tixagevimab",
+                "mab_class": "RBM Class I",
                 "fold": "0.4",
                 "reference": "Wang21b"
             },
@@ -244,6 +473,13 @@
                 "mab_class": "RBM Class II",
                 "fold": "0.8",
                 "reference": "Wang21b"
+            },
+            {
+                "strain": "K417N",
+                "rx": "Cilgavimab",
+                "mab_class": "RBM Class II",
+                "fold": "0.7",
+                "reference": "Diamond21"
             },
             {
                 "strain": "K417N",
@@ -266,10 +502,31 @@
         "assays": [
             {
                 "strain": "K417N + E484K + N501Y",
+                "rx": "Tixagevimab + Cilgavimab",
+                "mab_class": "",
+                "fold": "0.8",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "K417N + E484K + N501Y",
+                "rx": "Vir-7831+S2E12",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "K417N + E484K + N501Y",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1",
                 "reference": "Yao21"
+            },
+            {
+                "strain": "K417N + E484K + N501Y",
+                "rx": "Sotrovimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "2.1",
+                "reference": "Diamond21"
             },
             {
                 "strain": "K417N + E484K + N501Y",
@@ -301,10 +558,31 @@
             },
             {
                 "strain": "K417N + E484K + N501Y",
+                "rx": "S2E12",
+                "mab_class": "RBM Class I",
+                "fold": "1",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "K417N + E484K + N501Y",
+                "rx": "Tixagevimab",
+                "mab_class": "RBM Class I",
+                "fold": "1.5",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "K417N + E484K + N501Y",
                 "rx": "C119",
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
                 "reference": "Wibmer21"
+            },
+            {
+                "strain": "K417N + E484K + N501Y",
+                "rx": "Cilgavimab",
+                "mab_class": "RBM Class II",
+                "fold": "0.5",
+                "reference": "Diamond21"
             },
             {
                 "strain": "K417N + E484K + N501Y",
@@ -381,6 +659,13 @@
         "assays": [
             {
                 "strain": "N439K",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "1.7",
+                "reference": "Starr21"
+            },
+            {
+                "strain": "N439K",
                 "rx": "C135",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "&gt;100",
@@ -451,13 +736,6 @@
             },
             {
                 "strain": "N439K",
-                "rx": "Casirivimab/Imdevimab",
-                "mab_class": "RBM Class I",
-                "fold": "1.7",
-                "reference": "Starr21"
-            },
-            {
-                "strain": "N439K",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
                 "fold": "0.6",
@@ -519,6 +797,20 @@
         "assays": [
             {
                 "strain": "N501Y",
+                "rx": "Tixagevimab + Cilgavimab",
+                "mab_class": "",
+                "fold": "1.1",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "N501Y",
+                "rx": "Vir-7831+S2E12",
+                "mab_class": "",
+                "fold": "2.6",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "N501Y",
                 "rx": "C135",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.8",
@@ -542,6 +834,13 @@
                 "strain": "N501Y",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
+                "fold": "0.9",
+                "reference": "Tada21b"
+            },
+            {
+                "strain": "N501Y",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
                 "fold": "0.8",
                 "reference": "Wang21b"
             },
@@ -558,6 +857,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.8",
                 "reference": "Wang21b"
+            },
+            {
+                "strain": "N501Y",
+                "rx": "Sotrovimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "3.4",
+                "reference": "Diamond21"
             },
             {
                 "strain": "N501Y",
@@ -612,6 +918,13 @@
                 "strain": "N501Y",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
+                "fold": "1.6",
+                "reference": "Tada21b"
+            },
+            {
+                "strain": "N501Y",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
                 "fold": "1.4",
                 "reference": "Wang21b"
             },
@@ -638,8 +951,22 @@
             },
             {
                 "strain": "N501Y",
+                "rx": "S2E12",
+                "mab_class": "RBM Class I",
+                "fold": "2",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "N501Y",
                 "rx": "Tixagevimab",
-                "mab_class": "RBM Class I ",
+                "mab_class": "RBM Class I",
+                "fold": "1",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "N501Y",
+                "rx": "Tixagevimab",
+                "mab_class": "RBM Class I",
                 "fold": "1.7",
                 "reference": "Wang21b"
             },
@@ -663,6 +990,13 @@
                 "mab_class": "RBM Class II",
                 "fold": "0.8",
                 "reference": "Weisblum20"
+            },
+            {
+                "strain": "N501Y",
+                "rx": "Cilgavimab",
+                "mab_class": "RBM Class II",
+                "fold": "1.1",
+                "reference": "Diamond21"
             },
             {
                 "strain": "N501Y",
@@ -699,6 +1033,13 @@
         "assays": [
             {
                 "strain": "Y453F",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "3.5",
+                "reference": "Baum20"
+            },
+            {
+                "strain": "Y453F",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "2.8",
@@ -717,6 +1058,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "2",
                 "reference": "Rothenberger21"
+            },
+            {
+                "strain": "Y453F",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1.5",
+                "reference": "Tada21b"
             },
             {
                 "strain": "Y453F",
@@ -741,10 +1089,10 @@
             },
             {
                 "strain": "Y453F",
-                "rx": "Casirivimab/Imdevimab",
+                "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "3.5",
-                "reference": "Baum20"
+                "fold": "&gt;100",
+                "reference": "Tada21b"
             }
         ]
     },
@@ -776,6 +1124,13 @@
                 "strain": "∆144",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
+                "fold": "1",
+                "reference": "Tada21b"
+            },
+            {
+                "strain": "∆144",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
                 "fold": "1.4",
                 "reference": "Wang21b"
             },
@@ -797,6 +1152,13 @@
                 "strain": "∆144",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
+                "fold": "1.5",
+                "reference": "Tada21b"
+            },
+            {
+                "strain": "∆144",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
                 "fold": "0.8",
                 "reference": "Wang21b"
             },
@@ -810,7 +1172,7 @@
             {
                 "strain": "∆144",
                 "rx": "Tixagevimab",
-                "mab_class": "RBM Class I ",
+                "mab_class": "RBM Class I",
                 "fold": "1.1",
                 "reference": "Wang21b"
             },
@@ -860,6 +1222,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.6",
                 "reference": "Wang21b"
+            },
+            {
+                "strain": "∆69/70",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.5",
+                "reference": "Tada21b"
             },
             {
                 "strain": "∆69/70",
@@ -921,6 +1290,13 @@
                 "strain": "∆69/70",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
+                "fold": "1.9",
+                "reference": "Tada21b"
+            },
+            {
+                "strain": "∆69/70",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
                 "fold": "0.8",
                 "reference": "Wang21b"
             },
@@ -934,7 +1310,7 @@
             {
                 "strain": "∆69/70",
                 "rx": "Tixagevimab",
-                "mab_class": "RBM Class I ",
+                "mab_class": "RBM Class I",
                 "fold": "1",
                 "reference": "Wang21b"
             },
@@ -973,6 +1349,20 @@
         "assays": [
             {
                 "strain": "∆69/70 + N501Y",
+                "rx": "Tixagevimab + Cilgavimab",
+                "mab_class": "",
+                "fold": "1.3",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "∆69/70 + N501Y",
+                "rx": "Vir-7831+S2E12",
+                "mab_class": "",
+                "fold": "1.6",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "∆69/70 + N501Y",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1",
@@ -984,6 +1374,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "2.2",
                 "reference": "Shen21"
+            },
+            {
+                "strain": "∆69/70 + N501Y",
+                "rx": "Sotrovimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "6",
+                "reference": "Diamond21"
             },
             {
                 "strain": "∆69/70 + N501Y",
@@ -1012,6 +1409,27 @@
                 "mab_class": "RBM Class I",
                 "fold": "10",
                 "reference": "Yao21"
+            },
+            {
+                "strain": "∆69/70 + N501Y",
+                "rx": "S2E12",
+                "mab_class": "RBM Class I",
+                "fold": "1.5",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "∆69/70 + N501Y",
+                "rx": "Tixagevimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.8",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "∆69/70 + N501Y",
+                "rx": "Cilgavimab",
+                "mab_class": "RBM Class II",
+                "fold": "0.8",
+                "reference": "Diamond21"
             },
             {
                 "strain": "∆69/70 + N501Y",

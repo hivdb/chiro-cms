@@ -1,0 +1,65 @@
+[
+    {
+        "strain": "N501Y",
+        "cp": 57,
+        "ip": 79,
+        "phase3": 25,
+        "structure": 14
+    },
+    {
+        "strain": "E484K",
+        "cp": 66,
+        "ip": 32,
+        "phase3": 32,
+        "structure": 12
+    },
+    {
+        "strain": "Other individual mutations",
+        "cp": 376,
+        "ip": 419,
+        "phase3": 416,
+        "structure": 427
+    },
+    {
+        "strain": "All individual mutations",
+        "cp": 499,
+        "ip": 530,
+        "phase3": 473,
+        "structure": 453
+    },
+    {
+        "strain": "B.1.1.7",
+        "cp": 96,
+        "ip": 215,
+        "phase3": 27,
+        "structure": 19
+    },
+    {
+        "strain": "B.1.351",
+        "cp": 116,
+        "ip": 111,
+        "phase3": 27,
+        "structure": 11
+    },
+    {
+        "strain": "P.1",
+        "cp": 9,
+        "ip": 20,
+        "phase3": 3,
+        "structure": 0
+    },
+    {
+        "strain": "Other muation combinations",
+        "cp": 301,
+        "ip": 316,
+        "phase3": 118,
+        "structure": 160
+    },
+    {
+        "strain": "All combinations of mutations",
+        "cp": 522,
+        "ip": 662,
+        "phase3": 175,
+        "structure": 190
+    }
+]

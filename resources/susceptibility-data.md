@@ -114,6 +114,12 @@ MAb abbreviations:
 
 ## Tabular summaries
 
+### Numbers of published in vitro neutralization assays according to spike mutations, type of plasma, and monoclonal antibody
+
+[table]
+TableS3
+[/table]
+
 ### Fold-Reduced Neutralizing Susceptibility of Pseudotyped Viruses with Individual or Combinations of Spike Mutations to Monoclonal Antibodies According to General Mode of Binding
 
 [table]

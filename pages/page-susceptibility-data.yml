@@ -70,6 +70,20 @@ tables:
       label: "Vaccine\n&gt;10-fold (R)\n(%)"
     data:
       _resource: susc-table/table4.yml
+  TableS3:
+    columnDefs:
+    - name: strain
+      label: Mutations
+    - name: cp
+      label: Convalescent plasma
+    - name: ip
+      label: Vaccination plasma
+    - name: phase3
+      label: mAbs in phase 3 trials
+    - name: structure
+      label: mAbs with high-resolution structure
+    data:
+      _resource: susc-table/tableS3.yml
   TableS4:
     columnDefs:
     - name: strain

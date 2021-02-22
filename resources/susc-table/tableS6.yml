@@ -58,12 +58,30 @@
   assays:
   - strain: E484K + N501Y
     rx: BNT162b2
+    s_fold: 0
+    i_fold: 24
+    r_fold: 0
+    reference: Diamond21
+  - strain: E484K + N501Y
+    rx: BNT162b2
     s_fold: 20
     i_fold: 0
     r_fold: 0
     reference: Xie21b
+  - strain: E484K + N501Y
+    rx: CP
+    s_fold: 0
+    i_fold: 19
+    r_fold: 0
+    reference: Diamond21
 - strain: K417N
   assays:
+  - strain: K417N
+    rx: BNT162b2
+    s_fold: 24
+    i_fold: 0
+    r_fold: 0
+    reference: Diamond21
   - strain: K417N
     rx: BNT162b2
     s_fold: 4
@@ -76,6 +94,12 @@
     i_fold: 0
     r_fold: 0
     reference: Wang21b
+  - strain: K417N
+    rx: CP
+    s_fold: 19
+    i_fold: 0
+    r_fold: 0
+    reference: Diamond21
   - strain: K417N
     rx: CP
     s_fold: 20
@@ -96,6 +120,12 @@
     reference: Wang21b
 - strain: K417N + E484K + N501Y
   assays:
+  - strain: K417N + E484K + N501Y
+    rx: CP
+    s_fold: 0
+    i_fold: 19
+    r_fold: 0
+    reference: Diamond21
   - strain: K417N + E484K + N501Y
     rx: CP(High Titer)
     s_fold: 6

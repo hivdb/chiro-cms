@@ -1,110 +1,170 @@
 - strain: B.1.1.7
-  vac_studies: 8
-  vac_samples: 192
-  vac_s_fold: 84%
-  vac_i_fold: 16%
+  vac_studies: 7
+  vac_samples: 178
+  vac_s_fold: 83%
+  vac_i_fold: 17%
   vac_r_fold: 0
-  cp_studies: 5
-  cp_samples: 102
-  cp_s_fold: 74%
-  cp_i_fold: 25%
-  cp_r_fold: 1%
+  vac_num_s_fold: 147
+  vac_num_i_fold: 30
+  vac_num_r_fold: 1
+  cp_studies: 4
+  cp_samples: 82
+  cp_s_fold: 72%
+  cp_i_fold: 26%
+  cp_r_fold: 2%
+  cp_num_s_fold: 59
+  cp_num_i_fold: 21
+  cp_num_r_fold: 2
 - strain: B.1.351
   vac_studies: 6
-  vac_samples: 80
-  vac_s_fold: 36%
+  vac_samples: 79
+  vac_s_fold: 37%
   vac_i_fold: 54%
-  vac_r_fold: 10%
-  cp_studies: 6
-  cp_samples: 118
-  cp_s_fold: 26%
-  cp_i_fold: 36%
-  cp_r_fold: 38%
+  vac_r_fold: 9%
+  vac_num_s_fold: 29
+  vac_num_i_fold: 43
+  vac_num_r_fold: 7
+  cp_studies: 5
+  cp_samples: 112
+  cp_s_fold: 28%
+  cp_i_fold: 37%
+  cp_r_fold: 35%
+  cp_num_s_fold: 31
+  cp_num_i_fold: 41
+  cp_num_r_fold: 40
 - strain: P.1
   vac_studies: 1
   vac_samples: 15
   vac_s_fold: 47%
   vac_i_fold: 47%
   vac_r_fold: 6%
+  vac_num_s_fold: 7
+  vac_num_i_fold: 7
+  vac_num_r_fold: 1
   cp_studies: 1
   cp_samples: 9
   cp_s_fold: 22%
   cp_i_fold: 67%
   cp_r_fold: 11%
+  cp_num_s_fold: 2
+  cp_num_i_fold: 6
+  cp_num_r_fold: 1
 - strain: E484K
   vac_studies: 3
   vac_samples: 32
   vac_s_fold: 53%
   vac_i_fold: 44%
   vac_r_fold: 3%
+  vac_num_s_fold: 17
+  vac_num_i_fold: 14
+  vac_num_r_fold: 1
   cp_studies: 5
   cp_samples: 66
   cp_s_fold: 52%
   cp_i_fold: 38%
   cp_r_fold: 10%
+  cp_num_s_fold: 34
+  cp_num_i_fold: 25
+  cp_num_r_fold: 7
 - strain: N501Y
   vac_studies: 7
   vac_samples: 98
   vac_s_fold: 100%
   vac_i_fold: 0
   vac_r_fold: 0
+  vac_num_s_fold: 98
+  vac_num_i_fold: 0
+  vac_num_r_fold: 0
   cp_studies: 4
   cp_samples: 73
   cp_s_fold: 90%
   cp_i_fold: 10%
   cp_r_fold: 0
+  cp_num_s_fold: 66
+  cp_num_i_fold: 7
+  cp_num_r_fold: 0
 - strain: K417N
-  vac_studies: 2
-  vac_samples: 37
+  vac_studies: 3
+  vac_samples: 61
   vac_s_fold: 100%
   vac_i_fold: 0
   vac_r_fold: 0
-  cp_studies: 1
-  cp_samples: 20
+  vac_num_s_fold: 61
+  vac_num_i_fold: 0
+  vac_num_r_fold: 0
+  cp_studies: 2
+  cp_samples: 39
   cp_s_fold: 100%
   cp_i_fold: 0
   cp_r_fold: 0
+  cp_num_s_fold: 39
+  cp_num_i_fold: 0
+  cp_num_r_fold: 0
 - strain: N439K
   vac_studies: 2
   vac_samples: 26
   vac_s_fold: 100%
   vac_i_fold: 0
   vac_r_fold: 0
+  vac_num_s_fold: 26
+  vac_num_i_fold: 0
+  vac_num_r_fold: 0
   cp_studies: 1
   cp_samples: 3
   cp_s_fold: 100%
   cp_i_fold: 0
   cp_r_fold: 0
+  cp_num_s_fold: 3
+  cp_num_i_fold: 0
+  cp_num_r_fold: 0
 - strain: Y453F
   vac_studies: 1
   vac_samples: 15
   vac_s_fold: 100%
   vac_i_fold: 0
   vac_r_fold: 0
+  vac_num_s_fold: 15
+  vac_num_i_fold: 0
+  vac_num_r_fold: 0
   cp_studies: 1
   cp_samples: 14
   cp_s_fold: 71%
   cp_i_fold: 29%
   cp_r_fold: 0
+  cp_num_s_fold: 10
+  cp_num_i_fold: 4
+  cp_num_r_fold: 0
 - strain: ∆69/70
   vac_studies: 1
   vac_samples: 22
   vac_s_fold: 100%
   vac_i_fold: 0
   vac_r_fold: 0
+  vac_num_s_fold: 22
+  vac_num_i_fold: 0
+  vac_num_r_fold: 0
   cp_studies: 3
   cp_samples: 41
   cp_s_fold: 100%
   cp_i_fold: 0
   cp_r_fold: 0
+  cp_num_s_fold: 41
+  cp_num_i_fold: 0
+  cp_num_r_fold: 0
 - strain: ∆144
   vac_studies: 1
   vac_samples: 22
   vac_s_fold: 100%
   vac_i_fold: 0
   vac_r_fold: 0
+  vac_num_s_fold: 22
+  vac_num_i_fold: 0
+  vac_num_r_fold: 0
   cp_studies: 1
   cp_samples: 20
   cp_s_fold: 90%
   cp_i_fold: 10%
   cp_r_fold: 0
+  cp_num_s_fold: 18
+  cp_num_i_fold: 2
+  cp_num_r_fold: 0
