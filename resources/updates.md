@@ -54,7 +54,7 @@ Instruction:
     - [Animal Model Studies](/page/mab-tables/#animal.model.studies)
     - [Inhibitory potency, sequence data, and structural data](/page/mab-tables/#identification.in.vitro.potency.sequence.data.and.structural.data)
 
-## Press Release
+## Press Releases
 - November 22
     - [Casirivimab and imdevimab EUA fact sheet for healthcare providers]($$CMS_PREFIX$$downloads/press-release/Regeneron20201122.pdf)
 - November 10
