@@ -74,22 +74,22 @@ eduMaterials:
     description: Drug target list and categorized drugs
     link: /compound-target-list/
     image: home/edumat-compound-targets.png
-  - title: Viruses
-    description: List of coronaviruses involved in experiments
-    link: /virus-list/
-    image: home/edumat-viruses.png
-  - title: Cell lines
-    description: List of cell lines involved in experiments
-    link: /cells-list/
-    image: home/edumat-cells.jpg
-  - title: Animal models
-    description: List of animal models involved in experiments
-    link: /animal-model-list/
-    image: home/edumat-animal-models.jpg
-  - title: Measurements
-    description: Cell culture measurement methods
-    link: /cell-culture-measurement-list/
-    image: home/edumat-measurements.jpg
+  # - title: Viruses
+  #   description: List of coronaviruses involved in experiments
+  #   link: /virus-list/
+  #   image: home/edumat-viruses.png
+  # - title: Cell lines
+  #   description: List of cell lines involved in experiments
+  #   link: /cells-list/
+  #   image: home/edumat-cells.jpg
+  # - title: Animal models
+  #   description: List of animal models involved in experiments
+  #   link: /animal-model-list/
+  #   image: home/edumat-animal-models.jpg
+  # - title: Measurements
+  #   description: Cell culture measurement methods
+  #   link: /cell-culture-measurement-list/
+  #   image: home/edumat-measurements.jpg
   - title: References
     description: Coronavirus publications included in this database
     link: /article-list/
