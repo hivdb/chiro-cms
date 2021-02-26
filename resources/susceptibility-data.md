@@ -1,5 +1,11 @@
 <div style="clear: both; height: 0;" />
 
+## Draft: Biological and Clinical Significance of SARS-CoV-2 Spike Mutations
+
+- [Text](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/paper-21feb/draft_text.pdf)
+- [Figures](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/paper-21feb/draft_figures.pdf)
+- [Supplementary tables](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/paper-21feb/draft_supplementary_tables.pdf)
+
 ## Susceptibility results of convalescent and vaccine-recipient plasma
 
 <section id="sec_plasma-fold" class="figure-section wrap">
