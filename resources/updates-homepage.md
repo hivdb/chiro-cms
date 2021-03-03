@@ -22,6 +22,34 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Mar 03)
+Bessière P, Wasniewski M, et int., and Volmer R. [“Intranasal type I interferon treatment is beneficial only when administered before clinical signs onset in the SARS-CoV-2 hamster model.”](/search/?article=Bessiere21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.09.430458](https://doi.org/10.1101/2021.02.09.430458).
+### Database Entries (Mar 03)
+Good SS, Westover J, et int., and Sommadossi J. [“AT-527, a double prodrug of a guanosine nucleotide analog, is a potent inhibitor of SARS-CoV-2 in vitro and a promising oral antiviral for treatment of COVID-19.”](/search/?article=Good21) _Antimicrobial Agents and Chemotherapy_, 2021. [doi.org/10.1128/aac.02479-20](https://doi.org/10.1128/aac.02479-20). \[[PubMed33558299](https://www.ncbi.nlm.nih.gov/pubmed/33558299/)\]
+### Database Entries (Mar 03)
+Li Q, Nie J, et int., and Wang Y. [“No higher infectivity but immune escape of SARS-CoV-2 501Y.V2 variants.”](/search/?article=Li21c) _Cell_, 2021. [doi.org/10.1016/j.cell.2021.02.042](https://doi.org/10.1016/j.cell.2021.02.042).
+### Database Entries (Mar 03)
+Rosenke K, Hansen F, et int., and Jarvis M. [“Orally delivered MK-4482 inhibits SARS-CoV-2 replication in the Syrian hamster model.”](/search/?article=Rosenke20c) _Research square_, 2020. [doi.org/10.21203/rs.3.rs-86289/v1](https://doi.org/10.21203/rs.3.rs-86289/v1). \[[PubMed33052329](https://www.ncbi.nlm.nih.gov/pubmed/33052329/)\] \[[PMC7553153](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7553153/)\]
+### Database Entries (Mar 03)
+Wahl A, Gralinski LE, et int., and Garcia JV. [“SARS-CoV-2 infection is effectively treated and prevented by EIDD-2801.”](/search/?article=Wahl21) _Nature_, 2021. [doi.org/10.1038/s41586-021-03312-w](https://doi.org/10.1038/s41586-021-03312-w). \[[PubMed33561864](https://www.ncbi.nlm.nih.gov/pubmed/33561864/)\]
+### [Clinical Trials (Feb 25)](/page/updates/#clinical.trials)
+[3 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-02-25)
+### Database Entries (Feb 23)
+Diamond M, Chen R, et int., and Gilchuk P. [“SARS-CoV-2 variants show resistance to neutralization by many monoclonal and serum-derived polyclonal antibodies.”](/search/?article=Diamond21) _Research square_, 2021. [doi.org/10.21203/rs.3.rs-228079/v1](https://doi.org/10.21203/rs.3.rs-228079/v1). \[[PubMed33594356](https://www.ncbi.nlm.nih.gov/pubmed/33594356/)\] \[[PMC7885928](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885928/)\]
+### Database Entries (Feb 23)
+Garcia-Beltran WF, Lam EC, et int., and Balazs AB. [“Circulating SARS-CoV-2 variants escape neutralization by vaccine-induced humoral immunity.”](/search/?article=Garcia-Beltran21) _medRxiv_, 2021. [doi.org/10.1101/2021.02.14.21251704](https://doi.org/10.1101/2021.02.14.21251704). \[[PubMed33619506](https://www.ncbi.nlm.nih.gov/pubmed/33619506/)\] \[[PMC7899476](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7899476/)\]
+### Database Entries (Feb 23)
+Hoffmann M, Zhang L, et int., and Pöhlmann S. [“SARS-CoV-2 mutations acquired in mink reduce antibody-mediated neutralization.”](/search/?article=Hoffmann21b) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.12.430998](https://doi.org/10.1101/2021.02.12.430998).
+### Database Entries (Feb 23)
+Liu Y, Liu J, et int., and Shi P. [“Neutralizing Activity of BNT162b2-Elicited Serum — Preliminary Report.”](/search/?article=Liu21b) _New England Journal of Medicine_, 2021. [doi.org/10.1056/NEJMc2102017](https://doi.org/10.1056/NEJMc2102017). \[[PubMed33596352](https://www.ncbi.nlm.nih.gov/pubmed/33596352/)\]
+### Database Entries (Feb 23)
+Planas D, Bruel T, et int., and Schwartz O. [“Sensitivity of infectious SARS-CoV-2 B.1.1.7 and B.1.351 variants to neutralizing antibodies.”](/search/?article=Planas21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.12.430472](https://doi.org/10.1101/2021.02.12.430472).
+### Database Entries (Feb 23)
+Tada T, Dcosta BM, et int., and Landau NR. [“Decreased neutralization of SARS-CoV-2 global variants by therapeutic anti-spike protein monoclonal antibodies.”](/search/?article=Tada21b) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.18.431897](https://doi.org/10.1101/2021.02.18.431897). \[[PubMed33619484](https://www.ncbi.nlm.nih.gov/pubmed/33619484/)\] \[[PMC7899448](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7899448/)\]
+### Database Entries (Feb 23)
+West AP, Barnes CO, et int., and Bjorkman PJ. [“SARS-CoV-2 lineage B.1.526 emerging in the New York region detected by software utility created to query the spike mutational landscape.”](/search/?article=West21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.14.431043](https://doi.org/10.1101/2021.02.14.431043).
+### Database Entries (Feb 23)
+Yuan M, Huang D, et int., and Wilson IA. [“Structural and functional ramifications of antigenic drift in recent SARS-CoV-2 variants.”](/search/?article=Yuan21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.16.430500](https://doi.org/10.1101/2021.02.16.430500). \[[PubMed33619487](https://www.ncbi.nlm.nih.gov/pubmed/33619487/)\] \[[PMC7899451](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7899451/)\]
 ### Database Entries (Feb 16)
 Dampalla CS, Zhang J, et int., and Chang K. [“Post-infection treatment with a protease inhibitor increases survival of mice with a fatal SARS-CoV-2 infection.”](/search/?article=Dampalla21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.05.429937](https://doi.org/10.1101/2021.02.05.429937).
 ### Database Entries (Feb 16)
@@ -54,25 +82,3 @@ Rappazzo CG, Tse LV, et int., and Walker LM. [“Broad and potent activity again
 Joyner MJ, Carter RE, et int., and Casadevall A. [“Convalescent Plasma Antibody Levels and the Risk of Death from Covid-19.”](/search/?article=Joyner21) _New England Journal of Medicine_, 2021. [doi.org/10.1056/nejmoa2031893](https://doi.org/10.1056/nejmoa2031893). \[[PubMed33523609](https://www.ncbi.nlm.nih.gov/pubmed/33523609/)\] \[[PMC7821984](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7821984/)\]
 ### [Clinical Trials (Feb 04)](/page/updates/#clinical.trials)
 [6 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-02-04)
-### Database Entries (Jan 31)
-White KM, Rosales R, et int., and García-Sastre A. [“Plitidepsin has potent preclinical efficacy against SARS-CoV-2 by targeting the host protein eEF1A.”](/search/?article=White21) _Science (New York, N.Y.)_, None. [doi.org/10.1126/science.abf4058](https://doi.org/10.1126/science.abf4058). \[[PubMed33495306](https://www.ncbi.nlm.nih.gov/pubmed/33495306/)\]
-### [Clinical Trials (Jan 28)](/page/updates/#clinical.trials)
-[7 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-01-28)
-### Database Entries (Jan 25)
-Gottlieb RL, Nirula A, et int., and Skovronsky DM. [“Effect of Bamlanivimab as Monotherapy or in Combination With Etesevimab on Viral Load in Patients With Mild to Moderate COVID-19.”](/search/?article=Gottlieb21) _JAMA_, 2021. [doi.org/10.1001/jama.2021.0202](https://doi.org/10.1001/jama.2021.0202). \[[PubMed33475701](https://www.ncbi.nlm.nih.gov/pubmed/33475701/)\]
-### [Clinical Trials (Jan 21)](/page/updates/#clinical.trials)
-[6 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-01-21)
-### Database Entries (Jan 19)
-Davies SP, Mycroft-West CJ, et int., and Richardson A. [“The hyperlipidaemic drug fenofibrate significantly reduces infection by SARS-CoV-2 in cell culture models.”](/search/?article=Davies21) _bioRxiv_, 2021. [doi.org/10.1101/2021.01.10.426114](https://doi.org/10.1101/2021.01.10.426114).
-### Database Entries (Jan 19)
-Kim C, Ryu D, et int., and Lee S. [“A therapeutic neutralizing antibody targeting receptor binding domain of SARS-CoV-2 spike protein.”](/search/?article=Kim21) _Nature Communications_, 2021. [doi.org/10.1038/s41467-020-20602-5](https://doi.org/10.1038/s41467-020-20602-5). \[[PubMed33436577](https://www.ncbi.nlm.nih.gov/pubmed/33436577/)\]
-### Database Entries (Jan 19)
-McCallum M, Marco AD, et int., and Veesler D. [“N-terminal domain antigenic mapping reveals a site of vulnerability for SARS-CoV-2.”](/search/?article=McCallum21) _bioRxiv_, 2021. [doi.org/10.1101/2021.01.14.426475](https://doi.org/10.1101/2021.01.14.426475).
-### Database Entries (Jan 19)
-Tada T, Fan C, et int., and Landau NR. [“An ACE2 Microbody Containing a Single Immunoglobulin Fc Domain Is a Potent Inhibitor of SARS-CoV-2.”](/search/?article=Tada20) _Cell Reports_, 2020. [doi.org/10.1016/j.celrep.2020.108528](https://doi.org/10.1016/j.celrep.2020.108528). \[[PubMed33326798](https://www.ncbi.nlm.nih.gov/pubmed/33326798/)\] \[[PMC7705358](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7705358/)\]
-### Database Entries (Jan 15)
-Biering SB, Van Dis E, et int., and Stanley SA. [“Screening a library of FDA-approved and bioactive compounds for antiviral activity against SARS-CoV-2.”](/search/?article=Biering20) _bioRxiv_, 2020. [doi.org/10.1101/2020.12.30.424862](https://doi.org/10.1101/2020.12.30.424862).
-### [Clinical Trials (Jan 14)](/page/updates/#clinical.trials)
-[13 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-01-14)
-### Database Entries (Jan 12)
-Kirti R, Roy R, et int., and Sarfaraz A. [“Ivermectin as a potential treatment for mild to moderate COVID-19: A double blind randomized placebo-controlled trial.”](/search/?article=Kirti21) _medRxiv_, 2021. [doi.org/10.1101/2021.01.05.21249310](https://doi.org/10.1101/2021.01.05.21249310).
