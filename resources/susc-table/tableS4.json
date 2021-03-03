@@ -5,8 +5,8 @@
             {
                 "strain": "B.1.1.7",
                 "rx": "BNT162b2",
-                "s_fold": 5,
-                "i_fold": 10,
+                "s_fold": 21,
+                "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Collier21"
             },
@@ -41,6 +41,14 @@
                 "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "CP",
+                "s_fold": 0,
+                "i_fold": 27,
+                "r_fold": 0,
+                "reference": "Collier21"
             },
             {
                 "strain": "B.1.1.7",

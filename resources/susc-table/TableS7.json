@@ -516,6 +516,13 @@
             },
             {
                 "strain": "K417N + E484K + N501Y",
+                "rx": "4A8",
+                "mab_class": "NTD",
+                "fold": "1",
+                "reference": "Collier21"
+            },
+            {
+                "strain": "K417N + E484K + N501Y",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1",
@@ -527,6 +534,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "2.1",
                 "reference": "Diamond21"
+            },
+            {
+                "strain": "K417N + E484K + N501Y",
+                "rx": "S2X35",
+                "mab_class": "RBD Core Cluster II",
+                "fold": "1.2",
+                "reference": "Collier21"
             },
             {
                 "strain": "K417N + E484K + N501Y",
@@ -560,8 +574,22 @@
                 "strain": "K417N + E484K + N501Y",
                 "rx": "S2E12",
                 "mab_class": "RBM Class I",
+                "fold": "1.8",
+                "reference": "Collier21"
+            },
+            {
+                "strain": "K417N + E484K + N501Y",
+                "rx": "S2E12",
+                "mab_class": "RBM Class I",
                 "fold": "1",
                 "reference": "Diamond21"
+            },
+            {
+                "strain": "K417N + E484K + N501Y",
+                "rx": "S2H14",
+                "mab_class": "RBM Class I",
+                "fold": "&gt;100",
+                "reference": "Collier21"
             },
             {
                 "strain": "K417N + E484K + N501Y",
@@ -590,6 +618,13 @@
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
                 "reference": "Wibmer21"
+            },
+            {
+                "strain": "K417N + E484K + N501Y",
+                "rx": "S2M11",
+                "mab_class": "RBM Class III",
+                "fold": "&gt;100",
+                "reference": "Collier21"
             }
         ]
     },

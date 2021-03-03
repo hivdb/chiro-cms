@@ -352,6 +352,12 @@
     i_fold: 0
     r_fold: 0
     reference: Collier21
+  - strain: ∆69/70 + N501Y + A570D
+    rx: CP
+    s_fold: 9
+    i_fold: 1
+    r_fold: 0
+    reference: Collier21
 - strain: ∆69/70 + N501Y + Y453F
   assays:
   - strain: ∆69/70 + N501Y + Y453F
