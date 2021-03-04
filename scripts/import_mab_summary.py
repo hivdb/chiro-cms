@@ -98,9 +98,8 @@ def extract_short_journal_title(result):
 
 
 def extract_references(row, refid_lookup):
-    refids = get_first(row, 'refids')
-    free_text_refs = get_first(row, 'freetextrefs', required=False)
-    if not refids and not free_text_refs:
+    refids = get_first(row, 'references')
+    if not refids:
         return []
     refobjs = []
     for refid in REFID_PATTERN.findall(refids):
@@ -121,8 +120,6 @@ def extract_references(row, refid_lookup):
         if journal_short and journal != journal_short:
             refobj['journalShort'] = journal_short
         refobjs.append(refobj)
-    for free_text in smart_split2(free_text_refs):
-        refobjs.append({'freeText': free_text})
     return refobjs
 
 
@@ -275,25 +272,21 @@ def import_mab_summary(input_mabcsv, refid_lookup, output_yaml):
     for row in mabdata:
         groupobj = {
             'references': extract_references(row, refid_lookup),
-            'antibodies': extract_antibodies(row),
+            'antibodies': get_first(row, 'mab name'),
         }
         source = get_first(row, 'source', 'sources')
         if source:
             groupobj['source'] = PreservedScalarString(source)
 
-        desc = get_first(row, 'description')
-        if desc:
-            groupobj['description'] = PreservedScalarString(desc)
-
-        groupobj['dataAvailability'] = {}
-        if get_first(row, 'seq'):
-            groupobj['dataAvailability']['sequence'] = True
-        if get_first(row, 'pdb'):
-            groupobj['dataAvailability']['structure'] = True
-        if get_first(row, 'animal'):
-            groupobj['dataAvailability']['animal'] = True
-        if get_first(row, 'trial'):
-            groupobj['dataAvailability']['trial'] = True
+        groupobj['status'] = get_first(row, 'status')
+        groupobj['type'] = get_first(row, 'type')
+        groupobj['pdb'] = get_first(row, 'status')
+        groupobj['ighv'] = get_first(row, 'ighv')
+        groupobj['shm'] = get_first(row, 'shm(%)')
+        groupobj['cdrh3_len'] = get_first(row, 'cdrh3 length')
+        groupobj['iglv'] = get_first(row, 'iglv')
+        groupobj['ic50'] = get_first(row, 'ic50(live, ng/ml or pv: ng/ml)')
+        groupobj['epitope_class'] = get_first(row, 'epitope class')
 
         groups.append(groupobj)
     yaml.dump(groups, output_yaml)

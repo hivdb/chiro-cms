@@ -31,10 +31,14 @@ annotCategories:
   annotStyle: underscore
   annotNames:
   - 2-4 epitope
+  - 2-15 epitope
+  - 2-51 epitope
+  - 910-30 epitope
   - 2H2 epitope
   - 3C1 epitope
   - 4A8 epitope
   - B38 epitope
+  - Bamlanivimab epitope
   - BD-23 epitope
   - BD-236 epitope
   - BD-368-2 epitope
@@ -60,6 +64,8 @@ annotCategories:
   - COVA1-16 epitope
   - COVA2-04 epitope
   - COVA2-39 epitope
+  - CR3014-C8 epitope
+  - CR3022-B6 epitope
   - CR3022 epitope
   - CV30 epitope
   - CV07-250 epitope
@@ -75,7 +81,6 @@ annotCategories:
   - H11-H4 epitope
   - LY-CoV481 epitope
   - LY-CoV488 epitope
-  - LY-CoV555 epitope
   - MR17 epitope
   - MR17-K99Y epitope
   - nb20 epitope
@@ -94,8 +99,16 @@ annotCategories:
   - REGN10933 epitope
   - REGN10987 epitope
   - S309 epitope
+  - Sb16 epitope
+  - Sb45 epitope
+  - Sb68 epitope
   - Sb23 epitope
   - SR4 epitope
+  - SR31 epitope
+  - VHH E epitope
+  - VHH U epitope
+  - VHH V epitope
+  - VHH W epitope
   - STE90-C11 epitope
   - Ty1 epitope
 - name: polymorphism

@@ -10,51 +10,38 @@ tables:
     tableStyle:
       tableLayout: fixed
     columnDefs:
+    - name: antibodies
+      label: mAb name
+      headCellStyle:
+        width: 14rem
     - name: references
       label: References
       render: articleList
       sort: articleList
       headCellStyle:
         width: 13rem
+    - name: type
+      label: Type
+    - name: pdb
+      label: PDB
+    - name: status
+      label: status
+    - name: ighv
+      label: IGHV
+    - name: shm
+      label: SHM(%)
+    - name: cdrh3_len
+      label: CDRH3 length
+    - name: iglv
+      label: IGLV
+    - name: epitope_class
+      label: Epitope class
     - name: source
       label: Source
       textAlign: left
       render: nl2br
       headCellStyle:
         width: 13rem
-    - name: antibodies
-      label: MAb (EC50)
-      render: compoundEC50Obj
-      sortable: false
-      headCellStyle:
-        width: 14rem
-    - name: description
-      label: Description
-      textAlign: left
-      render: nl2br
-      sortable: false
-      headCellStyle:
-        width: 32rem
-    - name: dataAvailability.sequence
-      label: Seq
-      render: checkMark
-      headCellStyle:
-        width: 3.5rem
-    - name: dataAvailability.structure
-      label: PDB
-      render: checkMark
-      headCellStyle:
-        width: 3.5rem
-    - name: dataAvailability.animal
-      label: Animal
-      render: checkMark
-      headCellStyle:
-        width: 5rem
-    - name: dataAvailability.trial
-      label: Trial
-      render: checkMark
-      headCellStyle:
-        width: 3.5rem
     data:
       _resource: mabs-table.json
 

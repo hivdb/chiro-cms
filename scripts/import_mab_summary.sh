@@ -11,13 +11,15 @@ if [[ "$1" != "--no-update-refid-lookup" ]]; then
     pipenv run python3 scripts/build_refid_doi_lookup.py "${CSVDIR}/articles.csv" "resources/refid_lookup.json"
 fi
 
-pipenv run xlsx2csv "${XLSXDIR}/MAbSummary.xlsx" "${CSVDIR}/MAbs.csv" -n MAbs -f %Y-%m-%d
+pipenv run xlsx2csv "${XLSXDIR}/MAbSummary.xlsx" "${CSVDIR}/MAbSummary.csv" -n "MAbSummary"
 pipenv run xlsx2csv "${XLSXDIR}/MAbSummary.xlsx" "${CSVDIR}/MAbStructures.csv" -n "Structure meta"
+pipenv run xlsx2csv "${XLSXDIR}/MAbSummary.xlsx" "${CSVDIR}/MabSequences.csv" -n "Sequences"
+
 
 rm resources/mab-table-data.yml 2>/dev/null || true
 
 pipenv run python3 scripts/import_mab_summary.py \
-    ${CSVDIR}/MAbs.csv \
+    ${CSVDIR}/MAbSummary.csv \
     --refid-lookup resources/refid_lookup.json \
     resources/mabs-table.yml
 

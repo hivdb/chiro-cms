@@ -1,0 +1,16 @@
+name: Sb68 epitope
+label: Sb68
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1101/2021.01.27.428466
+  author: Ahmad
+  year: 2021
+  section: 'PDB: 7KLW'
+  positions: [368, 369, 370, 371, 372, 374, 375, 376, 377, 378, 379, 383, 384, 385,
+    408]
+positions:
+- subgroup: Sb68
+  positions: [368, 369, 370, 371, 372, 374, 375, 376, 377, 378, 379, 383, 384, 385,
+    408]

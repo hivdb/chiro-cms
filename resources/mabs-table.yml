@@ -14,60 +14,150 @@
       givenNames: Ahmed O.
     year: 2020
     journal: Cell
-  antibodies:
-  - name: 2B04
-    ec50: 1.5
-  - name: 2H04
-    ec50: 300
-  - name: 1B07
-    ec50: 37
+  antibodies: 1B07
   source: |-
     Plasmablasts from mice immunized with RBD and trimeric spike.
-  description: |-
-    2B04, 1B07, and 2H04 are humaized neutralizing mAbs deirived from mice immunized with RBD followed by trimeric S. 2B04 and 1B07 are ACE2-competing mAbs. 2B04 and 1B07 (and to a much lesser extent 2H04) reduced weight loss, lung pathology, and virus levels in a mouse prevention model.
-  dataAvailability:
-    sequence: true
-    animal: true
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV2-9-1
+  shm: '0'
+  cdrh3_len: '15'
+  iglv: IGLV1
+  ic50: '37'
+  epitope_class: ''
 - references:
-  - doi: 10.1126/science.abc5902
-    refId: Brouwer20
+  - doi: 10.4049/jimmunol.2000583
+    refId: Alsoussi20
     firstAuthor:
-      surname: Brouwer
-      givenNames: Philip J. M.
+      surname: Alsoussi
+      givenNames: Wafaa B.
     year: 2020
-    journal: Science
-  - doi: 10.1016/j.celrep.2020.108274
-    refId: Wu20c
+    journal: The Journal of Immunology
+    journalShort: J.I.
+  - doi: 10.1016/j.cell.2020.06.011
+    refId: Hassan20
+    firstAuthor:
+      surname: Hassan
+      givenNames: Ahmed O.
+    year: 2020
+    journal: Cell
+  antibodies: 2B04
+  source: |-
+    Plasmablasts from mice immunized with RBD and trimeric spike.
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV2-9-1
+  shm: '0.03'
+  cdrh3_len: '14'
+  iglv: IGLV1
+  ic50: '1.5'
+  epitope_class: ''
+- references:
+  - doi: 10.4049/jimmunol.2000583
+    refId: Alsoussi20
+    firstAuthor:
+      surname: Alsoussi
+      givenNames: Wafaa B.
+    year: 2020
+    journal: The Journal of Immunology
+    journalShort: J.I.
+  - doi: 10.1016/j.cell.2020.06.011
+    refId: Hassan20
+    firstAuthor:
+      surname: Hassan
+      givenNames: Ahmed O.
+    year: 2020
+    journal: Cell
+  antibodies: 2H04
+  source: |-
+    Plasmablasts from mice immunized with RBD and trimeric spike.
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV1-55
+  shm: '0.06'
+  cdrh3_len: '13'
+  iglv: IGKV5-48
+  ic50: '300'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-16256-y
+    refId: Wang20b
+    firstAuthor:
+      surname: Wang
+      givenNames: Chunyan
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  - doi: 10.1101/2020.08.24.264630
+    refId: Haagmans20
+    firstAuthor:
+      surname: Haagmans
+      givenNames: Bart L.
+    year: 2020
+    journal: bioRxiv
+  - doi: 10.1101/2020.09.30.318261
+    refId: Fedry20
+    firstAuthor:
+      surname: Fedry
+      givenNames: Juliette
+    year: 2020
+    journal: bioRxiv
+  antibodies: 47D11
+  source: |-
+    Hybridomas from humanized H2L2 transgenic mice immunized with trimeric S from SARS-CoV-1, MERS-CoV, and HCoV-OC43 (SARS-CoV-2 RBD)
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '570'
+  epitope_class: ''
+- references:
+  - doi: 10.1073/pnas.2010197117
+    refId: Li20b
+    firstAuthor:
+      surname: Li
+      givenNames: Wei
+    year: 2020
+    journal: Proceedings of the National Academy of Sciences
+    journalShort: Proc Natl Acad Sci USA
+  antibodies: ab1
+  source: |-
+    Naïve B cell Fab and scFv phage display library (RBD)
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-53
+  shm: '0'
+  cdrh3_len: '11'
+  iglv: IGKV4-1
+  ic50: '195'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abc2241
+    refId: Wu20
     firstAuthor:
       surname: Wu
-      givenNames: Nicholas C.
+      givenNames: Yan
     year: 2020
-    journal: Cell Reports
-  - doi: 10.1016/j.immuni.2020.10.023
-    refId: Liu20g
-    firstAuthor:
-      surname: Liu
-      givenNames: Hejun
-    year: 2020
-    journal: Immunity
-  antibodies:
-  - name: COVA1-18
-    ec50: 7
-  - name: COVA2-15
-    ec50: 9
-  - name: COVA1-16
-    ec50: 745
-  - name: COVA2-39
-    ec50: 54
-  - name: COVA2-04
-    ec50: 2500
+    journal: Science
+  antibodies: B38
   source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
-  description: |-
-    COVA1-16, COVA1-18, COVA2-04, COVA2-15, and COVA2-39 are ACE2-competing neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells that recognize trimeric spike. COVA1-16 cross neutralizes SARS-CoV-1. It competes with ACE2 indirectly via steric hindrance. It binds to RBD in the up configuration, likely bivalently. COVA2-04 and COVA2-39 approach RBD from different angles. COVA2-04 contacts more ACE2-binding residues than COVA2-39 (16 vs. 11 residues). COVA2-15 appears to bind ACE2 in its up and down configuration.
-  dataAvailability:
-    sequence: true
-    structure: true
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-53
+  shm: '0.01'
+  cdrh3_len: '9'
+  iglv: IGKV1-9
+  ic50: '180'
+  epitope_class: RBM 1
 - references:
   - doi: 10.1016/j.cell.2020.05.025
     refId: Cao20c
@@ -83,108 +173,748 @@
       givenNames: Shuo
     year: 2020
     journal: Cell
-  antibodies:
-  - name: BD-368-2
-    ec50: 15
-  - name: BD-236
-  - name: BD-503
-    ec50: 140
-  - name: BD-23
-  - name: BD-508
-    ec50: 290
-  - name: BD-515
-    ec50: 200
-  - name: BD-602
-    ec50: 11
-    ec50Note: PV
-  - name: BD-604
-    ec50: 5
-  - name: BD-606
-    ec50: 6
-  - name: BD-612
-    ec50: 18
-  - name: BD-617
-    ec50: 9
-  - name: BD-629
-    ec50: 4
-  - name: BD-632
-    ec50: 17
+  antibodies: BD-23
   source: |-
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
-  description: |-
-    This panel of neutralizing mAbs was derived from SARS-CoV-2 convalescent memory B cells that recognize trimeric spike or its RBD. BD-368-2 is an ACE2-competing mAb that can occupy all three RBDs simultaneously regardless of its configuration. It also does not compete with the ACE2-competing mAbs encoded by VH3-53/66. BD-604, BD-629, and BD-236 are ACE2-competing mAbs that bind RBD in its up configuration. BD-23 is an ACE2-competing mAb that binds RBD in its down configuration. BD-368-2 reduced weight loss and virus levels in a mouse treatment and prevention model.
-  dataAvailability:
-    sequence: true
-    structure: true
-    animal: true
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV7-4-1
+  shm: '0'
+  cdrh3_len: '19'
+  iglv: IGKV1-5
+  ic50: ''
+  epitope_class: RBM 3
 - references:
-  - doi: 10.1038/s41423-020-0426-7
-    refId: Chen20e
+  - doi: 10.1016/j.cell.2020.05.025
+    refId: Cao20c
     firstAuthor:
-      surname: Chen
-      givenNames: Xiangyu
+      surname: Cao
+      givenNames: Yunlong
     year: 2020
-    journal: Cellular & Molecular Immunology
-    journalShort: Cell Mol Immunol
-  antibodies:
-  - name: 311mab-31B5
-    ec50: 34
-    ec50Note: PV
-  - name: 311mab-32D4
-    ec50: 70
-    ec50Note: PV
-  source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
-  description: |-
-    311mab-31B5 and 311mab-32D4 are ACE2-competing neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells.
-  dataAvailability: {}
-- references:
-  - doi: 10.1126/science.abc6952
-    refId: Chi20
+    journal: Cell
+  - doi: 10.1016/j.cell.2020.09.035
+    refId: Du20
     firstAuthor:
-      surname: Chi
-      givenNames: Xiangyang
+      surname: Du
+      givenNames: Shuo
+    year: 2020
+    journal: Cell
+  antibodies: BD-236
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-53
+  shm: '0.03'
+  cdrh3_len: '12'
+  iglv: ''
+  ic50: ''
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1016/j.cell.2020.05.025
+    refId: Cao20c
+    firstAuthor:
+      surname: Cao
+      givenNames: Yunlong
+    year: 2020
+    journal: Cell
+  - doi: 10.1016/j.cell.2020.09.035
+    refId: Du20
+    firstAuthor:
+      surname: Du
+      givenNames: Shuo
+    year: 2020
+    journal: Cell
+  antibodies: BD-368-2
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-23
+  shm: '0.09'
+  cdrh3_len: '18'
+  iglv: IGKV2-28
+  ic50: '15'
+  epitope_class: RBM 2
+- references:
+  - doi: 10.1016/j.cell.2020.05.025
+    refId: Cao20c
+    firstAuthor:
+      surname: Cao
+      givenNames: Yunlong
+    year: 2020
+    journal: Cell
+  - doi: 10.1016/j.cell.2020.09.035
+    refId: Du20
+    firstAuthor:
+      surname: Du
+      givenNames: Shuo
+    year: 2020
+    journal: Cell
+  antibodies: BD-503
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-53
+  shm: ''
+  cdrh3_len: '11'
+  iglv: IGKV1-39
+  ic50: '140'
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.05.025
+    refId: Cao20c
+    firstAuthor:
+      surname: Cao
+      givenNames: Yunlong
+    year: 2020
+    journal: Cell
+  - doi: 10.1016/j.cell.2020.09.035
+    refId: Du20
+    firstAuthor:
+      surname: Du
+      givenNames: Shuo
+    year: 2020
+    journal: Cell
+  antibodies: BD-508
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-53
+  shm: ''
+  cdrh3_len: '11'
+  iglv: IGKV1-39
+  ic50: '290'
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.05.025
+    refId: Cao20c
+    firstAuthor:
+      surname: Cao
+      givenNames: Yunlong
+    year: 2020
+    journal: Cell
+  - doi: 10.1016/j.cell.2020.09.035
+    refId: Du20
+    firstAuthor:
+      surname: Du
+      givenNames: Shuo
+    year: 2020
+    journal: Cell
+  antibodies: BD-515
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-66
+  shm: ''
+  cdrh3_len: ''
+  iglv: IGKV1-39
+  ic50: '200'
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.05.025
+    refId: Cao20c
+    firstAuthor:
+      surname: Cao
+      givenNames: Yunlong
+    year: 2020
+    journal: Cell
+  - doi: 10.1016/j.cell.2020.09.035
+    refId: Du20
+    firstAuthor:
+      surname: Du
+      givenNames: Shuo
+    year: 2020
+    journal: Cell
+  antibodies: BD-602
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 11, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.05.025
+    refId: Cao20c
+    firstAuthor:
+      surname: Cao
+      givenNames: Yunlong
+    year: 2020
+    journal: Cell
+  - doi: 10.1016/j.cell.2020.09.035
+    refId: Du20
+    firstAuthor:
+      surname: Du
+      givenNames: Shuo
+    year: 2020
+    journal: Cell
+  antibodies: BD-604
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-53
+  shm: '0.05'
+  cdrh3_len: '11'
+  iglv: ''
+  ic50: '5'
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1016/j.cell.2020.05.025
+    refId: Cao20c
+    firstAuthor:
+      surname: Cao
+      givenNames: Yunlong
+    year: 2020
+    journal: Cell
+  - doi: 10.1016/j.cell.2020.09.035
+    refId: Du20
+    firstAuthor:
+      surname: Du
+      givenNames: Shuo
+    year: 2020
+    journal: Cell
+  antibodies: BD-606
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '6'
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.05.025
+    refId: Cao20c
+    firstAuthor:
+      surname: Cao
+      givenNames: Yunlong
+    year: 2020
+    journal: Cell
+  - doi: 10.1016/j.cell.2020.09.035
+    refId: Du20
+    firstAuthor:
+      surname: Du
+      givenNames: Shuo
+    year: 2020
+    journal: Cell
+  antibodies: BD-612
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '18'
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.05.025
+    refId: Cao20c
+    firstAuthor:
+      surname: Cao
+      givenNames: Yunlong
+    year: 2020
+    journal: Cell
+  - doi: 10.1016/j.cell.2020.09.035
+    refId: Du20
+    firstAuthor:
+      surname: Du
+      givenNames: Shuo
+    year: 2020
+    journal: Cell
+  antibodies: BD-617
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '9'
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.05.025
+    refId: Cao20c
+    firstAuthor:
+      surname: Cao
+      givenNames: Yunlong
+    year: 2020
+    journal: Cell
+  - doi: 10.1016/j.cell.2020.09.035
+    refId: Du20
+    firstAuthor:
+      surname: Du
+      givenNames: Shuo
+    year: 2020
+    journal: Cell
+  antibodies: BD-629
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-53
+  shm: '0.04'
+  cdrh3_len: '11'
+  iglv: IGKV3-20
+  ic50: '4'
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1016/j.cell.2020.05.025
+    refId: Cao20c
+    firstAuthor:
+      surname: Cao
+      givenNames: Yunlong
+    year: 2020
+    journal: Cell
+  - doi: 10.1016/j.cell.2020.09.035
+    refId: Du20
+    firstAuthor:
+      surname: Du
+      givenNames: Shuo
+    year: 2020
+    journal: Cell
+  antibodies: BD-632
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '17'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abc7520
+    refId: Rogers20
+    firstAuthor:
+      surname: Rogers
+      givenNames: Thomas F.
     year: 2020
     journal: Science
-  antibodies:
-  - name: 4A8
-    ec50: 610
-  - name: 0304-3H3
-    ec50: 40
-  source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
-  description: |-
-    4A8 and 0304-3H3 are mAbs derived SARS-CoV-2 memory B cells that recognize trimer spike. 4A8 binds the spike N terminal domain (NTD). The mechanism of 0304-3H3 binding is uncertain.
-  dataAvailability:
-    sequence: true
-    structure: true
-- references:
-  - doi: 10.1038/s41467-020-18058-8
-    refId: Ejemel20
+  - doi: 10.1126/science.abd2321
+    refId: Yuan20c
     firstAuthor:
-      surname: Ejemel
-      givenNames: Monir
+      surname: Yuan
+      givenNames: Meng
+    year: 2020
+    journal: Science
+  antibodies: CC12.1
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-53
+  shm: '0.02'
+  cdrh3_len: '11'
+  iglv: IGKV1-9
+  ic50: '46'
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1126/science.abc7520
+    refId: Rogers20
+    firstAuthor:
+      surname: Rogers
+      givenNames: Thomas F.
+    year: 2020
+    journal: Science
+  - doi: 10.1126/science.abd2321
+    refId: Yuan20c
+    firstAuthor:
+      surname: Yuan
+      givenNames: Meng
+    year: 2020
+    journal: Science
+  antibodies: CC12.3
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-53
+  shm: '0.04'
+  cdrh3_len: '11'
+  iglv: IGKV3-20
+  ic50: ''
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1126/science.abc7520
+    refId: Rogers20
+    firstAuthor:
+      surname: Rogers
+      givenNames: Thomas F.
+    year: 2020
+    journal: Science
+  - doi: 10.1126/science.abd2321
+    refId: Yuan20c
+    firstAuthor:
+      surname: Yuan
+      givenNames: Meng
+    year: 2020
+    journal: Science
+  antibodies: CC6.29
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV7-4-1
+  shm: '0.08'
+  cdrh3_len: '15'
+  iglv: IGKV1-39
+  ic50: 2, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abc7520
+    refId: Rogers20
+    firstAuthor:
+      surname: Rogers
+      givenNames: Thomas F.
+    year: 2020
+    journal: Science
+  - doi: 10.1126/science.abd2321
+    refId: Yuan20c
+    firstAuthor:
+      surname: Yuan
+      givenNames: Meng
+    year: 2020
+    journal: Science
+  antibodies: CC6.30
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV1-69
+  shm: '0.03'
+  cdrh3_len: '18'
+  iglv: IGKV1-39
+  ic50: 1, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41591-020-0998-x
+    refId: Zost20
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature Medicine
+    journalShort: Nat Med
+  - doi: 10.1038/s41586-020-2548-6
+    refId: Zost20b
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature
+  - doi: 10.1101/2020.12.28.424554
+    refId: Winkler20
+    firstAuthor:
+      surname: Winkler
+      givenNames: Emma S.
+    year: 2020
+    journal: bioRxiv
+  antibodies: COV2-2050
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV1-2
+  shm: '0.04'
+  cdrh3_len: '23'
+  iglv: IGLV1-44
+  ic50: '125'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41591-020-0998-x
+    refId: Zost20
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature Medicine
+    journalShort: Nat Med
+  - doi: 10.1038/s41586-020-2548-6
+    refId: Zost20b
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature
+  - doi: 10.1101/2020.12.28.424554
+    refId: Winkler20
+    firstAuthor:
+      surname: Winkler
+      givenNames: Emma S.
+    year: 2020
+    journal: bioRxiv
+  antibodies: COV2-2050-LALA-PG
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '157'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41591-020-0998-x
+    refId: Zost20
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature Medicine
+    journalShort: Nat Med
+  - doi: 10.1038/s41586-020-2548-6
+    refId: Zost20b
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature
+  - doi: 10.1101/2020.12.28.424554
+    refId: Winkler20
+    firstAuthor:
+      surname: Winkler
+      givenNames: Emma S.
+    year: 2020
+    journal: bioRxiv
+  antibodies: COV2-2381
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV1-58
+  shm: '0.02'
+  cdrh3_len: '16'
+  iglv: IGKV3-20
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41591-020-0998-x
+    refId: Zost20
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature Medicine
+    journalShort: Nat Med
+  - doi: 10.1038/s41586-020-2548-6
+    refId: Zost20b
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature
+  - doi: 10.1101/2020.12.28.424554
+    refId: Winkler20
+    firstAuthor:
+      surname: Winkler
+      givenNames: Emma S.
+    year: 2020
+    journal: bioRxiv
+  antibodies: COV2-3025
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV1-58
+  shm: '0.04'
+  cdrh3_len: '16'
+  iglv: IGKV3-20
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41591-020-0998-x
+    refId: Zost20
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature Medicine
+    journalShort: Nat Med
+  - doi: 10.1038/s41586-020-2548-6
+    refId: Zost20b
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature
+  - doi: 10.1101/2020.12.28.424554
+    refId: Winkler20
+    firstAuthor:
+      surname: Winkler
+      givenNames: Emma S.
+    year: 2020
+    journal: bioRxiv
+  antibodies: COV2-3025-LALA-PG
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.09.049
+    refId: Kreye20
+    firstAuthor:
+      surname: Kreye
+      givenNames: Jakob
+    year: 2020
+    journal: Cell
+  antibodies: CV07-209
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-11
+  shm: '0.01'
+  cdrh3_len: '12'
+  iglv: IGKV1-33
+  ic50: '3.1'
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.09.049
+    refId: Kreye20
+    firstAuthor:
+      surname: Kreye
+      givenNames: Jakob
+    year: 2020
+    journal: Cell
+  antibodies: CV07-270
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-11
+  shm: ''
+  cdrh3_len: '22'
+  iglv: IGKV2-14
+  ic50: '82'
+  epitope_class: RBM 2
+- references:
+  - doi: 10.1126/science.abc2241
+    refId: Wu20
+    firstAuthor:
+      surname: Wu
+      givenNames: Yan
+    year: 2020
+    journal: Science
+  antibodies: H4
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV1-2
+  shm: '0'
+  cdrh3_len: '19'
+  iglv: IGKV2-40
+  ic50: '900'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-19568-1
+    refId: Wang20l
+    firstAuthor:
+      surname: Wang
+      givenNames: Shuang
     year: 2020
     journal: Nature Communications
     journalShort: Nat Commun
-  antibodies:
-  - name: mAb-362-IgA
-    ec50: 1260
-    ec50Note: PV
-  - name: mAb-362-IgA-secretory
-    ec50: 9500
-    ec50Note: PV
-  - name: mAb-362-IgA-dimeric
-    ec50: 30
-    ec50Note: PV
-  - name: mAb-362-IgG
-    ec50: '>50000'
-    ec50Note: PV
+  antibodies: MW05
   source: |-
-    Transgenic HuMAb mice immunized with SARS-CoV-1 spike (SARS-CoV-2 RBD)
-  description: |-
-    mAb-362-IgA is a neutralizing IgA mAb derived from spleen cells of transgenic HuMAb mice immunized with SARS-CoV-1 spike that were screened for binding to SARS-CoV-2 RBD. It cross neutralizes SARS-CoV-1 and binds spike RBD only in its up configuration. Its epitope, defined in part by mutational scanning and modeling studies, overlaps the ACE2 binding site.
-  dataAvailability: {}
+    Convalescent memory B cells (SARS-CoV-2 RBD) engineered to have LALA mutations.
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 1000, IC100
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-19568-1
+    refId: Wang20l
+    firstAuthor:
+      surname: Wang
+      givenNames: Shuang
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: MW07
+  source: |-
+    Convalescent memory B cells (SARS-CoV-2 RBD) engineered to have LALA mutations.
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 5000, IC100
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-19568-1
+    refId: Wang20l
+    firstAuthor:
+      surname: Wang
+      givenNames: Shuang
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: MW33
+  source: |-
+    Convalescent memory B cells (SARS-CoV-2 RBD) engineered to have LALA mutations.
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
 - references:
   - doi: 10.1126/science.abd0827
     refId: Hansen20
@@ -207,208 +937,351 @@
       givenNames: Alina
     year: 2020
     journal: Science
-  - freeText: Press Release [[1]]($$CMS_PREFIX$$downloads/press-release/Regeneron20201028.pdf)
-      / [[2]]($$CMS_PREFIX$$downloads/press-release/Regeneron20201030.pdf)
-  - freeText: (Regeneron)
-  antibodies:
-  - name: REGN10933
-    ec50: 8
-  - name: REGN10934
-    ec50: 4.5
-  - name: REGN10987
-    ec50: 6
-  - name: REGN10989
-    ec50: 1.1
+  antibodies: REGN10934
   source: |-
     Transgenic VelocImmune mice immunized with SARS-CoV-2 trimeric S and RBD
-  description: |-
-    The REGN panel of neutralizing mAbs was derived primarily from VelocImmune mice immunized with trimeric spike boosted with RBD. REGN10933 and REGN10987 are ACE2-competing mAbs that bind to non-overlapping RBD epitopes. They have been been shown to elicit ADCC and ADCP in vitro. This pair of mAbs reduces virus levels and lung pathology in rhesus macaque treatment and prevention models. The combination has demonstrated preliminary virological efficacy in a phase II trial of outpatients. A phase III trial in hospitalized patients was discontinued because of lack of efficacy.
-  dataAvailability:
-    sequence: true
-    structure: true
-    animal: true
-    trial: true
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV3-15
+  shm: '0.01'
+  cdrh3_len: '11'
+  iglv: IGKV1-33
+  ic50: '4.5'
+  epitope_class: ''
 - references:
-  - doi: 10.1038/s41586-020-2380-z
-    refId: Ju20
+  - doi: 10.1126/science.abd0827
+    refId: Hansen20
     firstAuthor:
-      surname: Ju
-      givenNames: Bin
-    year: 2020
-    journal: Nature
-  antibodies:
-  - name: P2B-2F6
-    ec50: 410
-  - name: P2C-1F11
-    ec50: 30
-  - name: P2C-1A13
-    ec50: 280
-  source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
-  description: |-
-    P2B-2F6, P2C-1F11, and P2C-1A13 are ACE2-competing neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells that recognize RBD. P2B-2F6 is predicted to bind with RBD in both its up and down configurations.
-  dataAvailability:
-    sequence: true
-    structure: true
-- references:
-  - doi: 10.1016/j.cell.2020.06.044
-    refId: Kreer20
-    firstAuthor:
-      surname: Kreer
-      givenNames: Christoph
-    year: 2020
-    journal: Cell
-  antibodies:
-  - name: MnC4t2p1_B3
-    ec50: 660
-    ec50Note: IC100
-  - name: MnC2t2p1_C11
-    ec50: 255
-    ec50Note: IC100
-  - name: MnC2t1p1_A3
-    ec50: 780
-    ec50Note: IC100
-  - name: FnC1t2p1_D4
-    ec50: 280
-    ec50Note: IC100
-  - name: HbnC3t1p1_C6
-    ec50: 40
-    ec50Note: IC100
-  source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
-  description: |-
-    MnC4t2p1_B3, MnC2t2p1_C11, MnC2t1p1_A3, FnC1t2p1_D4, and HbnC3t1p1_C6 are neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells.
-  dataAvailability:
-    sequence: true
-- references:
-  - doi: 10.1016/j.cell.2020.09.049
-    refId: Kreye20
-    firstAuthor:
-      surname: Kreye
-      givenNames: Jakob
-    year: 2020
-    journal: Cell
-  antibodies:
-  - name: CV07-209
-    ec50: 3.1
-  - name: CV07-270
-    ec50: 82
-  source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
-  description: |-
-    CV07-209, CV07-270, and CV07-250 are neutralizing mAbs derived from SARS-CoV-2 convalescent memory B cells that recognize RBD. CV07-209 is an ACE2 competing mAb. CV07-270's epitope mimimally overlaps with ACE2 binding residues. CV07-209 reduces weight loss, lung pathology, and virus levels in a hamster prevention and treatment model.
-  dataAvailability:
-    sequence: true
-    structure: true
-    animal: true
-- references:
-  - doi: 10.1073/pnas.2010197117
-    refId: Li20b
-    firstAuthor:
-      surname: Li
-      givenNames: Wei
-    year: 2020
-    journal: Proceedings of the National Academy of Sciences
-    journalShort: Proc Natl Acad Sci USA
-  antibodies:
-  - name: ab1
-    ec50: 195
-  source: |-
-    Naïve B cell Fab and scFv phage display library (RBD)
-  description: |-
-    ab1 is an ACE2-competing neutralizing mAb derived from a naïve B cell Fab and scFv phage display library that was selected for RBD binding. It has been shown to reduce lung virus levels and lung damage when administered prophylatically in a mouse or hamster model. It has been shown to stimulate ADCC in vitro.
-  dataAvailability:
-    animal: true
-- references:
-  - doi: 10.1038/s41586-020-2571-7
-    refId: Liu20e
-    firstAuthor:
-      surname: Liu
-      givenNames: Lihong
-    year: 2020
-    journal: Nature
-  antibodies:
-  - name: 1-20
-    ec50: 7.5
-  - name: 1-57
-    ec50: 7.5
-  - name: 2-15
-    ec50: 0.8
-  - name: 2-17
-    ec50: 6
-  - name: 2-7
-    ec50: 3
-  - name: 4-8
-    ec50: 9
-  - name: 5-24
-    ec50: 7.5
-  - name: 2-4
-  - name: 2-43
-  source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
-  description: |-
-    2-4 ia an ACE2-competing neutralizing mAb derived from SARS-CoV-2 convalescent B cells. It binds RBD in its down position. In a low-resolution image, 2-43 appears to bind to a quartenrary epitope at the top of spike with binding to adjacent S1 protomers. 4-8 binds to NTD. 2-15 is an ACE2-competing mAb that reduced lung virus levels in a hamster prevention model.
-  dataAvailability:
-    sequence: true
-    structure: true
-- references:
-  - doi: 10.1126/science.abc5881
-    refId: Lv20
-    firstAuthor:
-      surname: Lv
-      givenNames: Zhe
+      surname: Hansen
+      givenNames: Johanna
     year: 2020
     journal: Science
-  antibodies:
-  - name: H014
-    ec50: 570
-  source: |-
-    Phage display library created from mice immunized with SARS-CoV-1 and SARS-CoV-2 RBD (SARS-CoV-2 RBD) (humanized)
-  description: |-
-    H014 is an ACE2-competing neutralizing mAb that binds to RBD in its up configuration. It is a humanized mAb derived from a phage display library constructed from the spleen cells of mice immunized with SARS-CoV RBD and panned for SARS-CoV-2 RBD binding.
-  dataAvailability:
-    sequence: true
-    structure: true
-- references:
-  - doi: 10.1038/s41467-020-18159-4
-    refId: Noy-Porat20
+  - doi: 10.1126/science.abd0831
+    refId: Baum20
     firstAuthor:
-      surname: Noy-Porat
-      givenNames: Tal
+      surname: Baum
+      givenNames: Alina
     year: 2020
-    journal: Nature Communications
-    journalShort: Nat Commun
-  antibodies:
-  - name: MD65
-    ec50: 220
-  source: |-
-    Convalescent B cell scFv library filtered from binding to SARS-CoV-2 trimeric spike and RBD
-  description: |-
-    MD65 is an ACE2-competing neutralizing mAb derived from a human B cell phage display library derived from acute and convalescent SARS-CoV-2 sera panned for RBD and S1 binding. MD65-YTE (M252Y, S254T, T256E) has increased affinity for FcRn at acidic pH and a prolonged half-life.
-  dataAvailability:
-    sequence: true
-    structure: true
-- references:
-  - doi: 10.1038/s41586-020-2349-y
-    refId: Pinto20
+    journal: Science
+  - doi: 10.1126/science.abe2402
+    refId: Baum20b
     firstAuthor:
-      surname: Pinto
-      givenNames: Dora
+      surname: Baum
+      givenNames: Alina
+    year: 2020
+    journal: Science
+  antibodies: REGN10989
+  source: |-
+    Transgenic VelocImmune mice immunized with SARS-CoV-2 trimeric S and RBD
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV1-2
+  shm: '0.06'
+  cdrh3_len: '16'
+  iglv: IGLV2-14
+  ic50: '1.1'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abe3354
+    refId: Tortorici20
+    firstAuthor:
+      surname: Tortorici
+      givenNames: M. Alejandra
+    year: 2020
+    journal: Science
+  antibodies: S2E12
+  source: |-
+    Convalescent memory B cells (SARS-CoV-2 trimeric spike)
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV1-58
+  shm: '0.04'
+  cdrh3_len: '16'
+  iglv: IGKV3-20
+  ic50: '4.2'
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1126/science.abe3354
+    refId: Tortorici20
+    firstAuthor:
+      surname: Tortorici
+      givenNames: M. Alejandra
+    year: 2020
+    journal: Science
+  antibodies: S2M11
+  source: |-
+    Convalescent memory B cells (SARS-CoV-2 trimeric spike)
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: IGHV1-2
+  shm: '7.0000000000000007E-2'
+  cdrh3_len: '18'
+  iglv: IGKV3-20
+  ic50: '1.2'
+  epitope_class: RBM 3
+- references:
+  - doi: 10.1101/2020.10.26.355107
+    refId: Chan20b
+    firstAuthor:
+      surname: Chan
+      givenNames: Conrad E.Z.
+    year: 2020
+    journal: bioRxiv
+  antibodies: SC31
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '2670'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.09.27.316174
+    refId: Cao20f
+    firstAuthor:
+      surname: Cao
+      givenNames: Xia
+    year: 2020
+    journal: bioRxiv
+  antibodies: STI-1499
+  source: |-
+    Phage display scFv library created from naïve individuals screened for S1 binding and inhibition of S1-ACE2 binding.
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '3000'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.09.27.316174
+    refId: Cao20f
+    firstAuthor:
+      surname: Cao
+      givenNames: Xia
+    year: 2020
+    journal: bioRxiv
+  antibodies: STI-2020
+  source: |-
+    Phage display scFv library created from naïve individuals screened for S1 binding and inhibition of S1-ACE2 binding.
+  status: animal model
+  type: mAb
+  pdb: animal model
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '55'
+  epitope_class: ''
+- references: []
+  antibodies: Bamlanivimab + Etesevimab
+  status: EUA
+  type: mAb
+  pdb: EUA
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.09.30.318972
+    refId: Jones20
+    firstAuthor:
+      surname: Jones
+      givenNames: Bryan E.
+    year: 2020
+    journal: bioRxiv
+  - doi: 10.1038/s41586-020-2381-y
+    refId: Shi20
+    firstAuthor:
+      surname: Shi
+      givenNames: Rui
     year: 2020
     journal: Nature
-  - freeText: (Vir Biotechnology / GSK)
-  antibodies:
-  - name: S309
-    ec50: 80
-  - name: VIR-7831
+  - doi: 10.1056/NEJMoa2029849
+    refId: Chen20l
+    firstAuthor:
+      surname: Chen
+      givenNames: Peter
+    year: 2020
+    journal: New England Journal of Medicine
+    journalShort: N Engl J Med
+  antibodies: Bamlanivimab, LY-CoV555, LY3819253
   source: |-
-    SARS-CoV-1 convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
-  description: |-
-    VIR-7831 was developed based on the neutralizing mAb S309. It is being studied in a phase II trial. It was derived from SARS-CoV-1 convalescent memory B cells that recognize SARS-CoV-2 trimeric spike. It is a non-ACE2-competing mAb that binds to the RBD core region and cross-neutralizes SARS-CoV-1. It binds to RBD in its up and down configurations and it binds to a unique proteoglycan epitope at N343. It has been shown to elicit ADCC and ADCP in vitro and it has undergone Fc modifications to prolong its half-life.
-  dataAvailability:
-    sequence: true
-    structure: true
-    trial: true
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
+  status: EUA
+  type: mAb
+  pdb: EUA
+  ighv: IGHV1-69
+  shm: '0.01'
+  cdrh3_len: '18'
+  iglv: IGKV1-39
+  ic50: '10'
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1126/science.abd0827
+    refId: Hansen20
+    firstAuthor:
+      surname: Hansen
+      givenNames: Johanna
+    year: 2020
+    journal: Science
+  - doi: 10.1126/science.abd0831
+    refId: Baum20
+    firstAuthor:
+      surname: Baum
+      givenNames: Alina
+    year: 2020
+    journal: Science
+  - doi: 10.1126/science.abe2402
+    refId: Baum20b
+    firstAuthor:
+      surname: Baum
+      givenNames: Alina
+    year: 2020
+    journal: Science
+  antibodies: Casirivimab, REGN10933
+  source: |-
+    Transgenic VelocImmune mice immunized with SARS-CoV-2 trimeric S and RBD
+  status: EUA
+  type: mAb
+  pdb: EUA
+  ighv: IGHV3-11
+  shm: '0.03'
+  cdrh3_len: '13'
+  iglv: IGKV1-33
+  ic50: '8'
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1038/s41586-020-2381-y
+    refId: Shi20
+    firstAuthor:
+      surname: Shi
+      givenNames: Rui
+    year: 2020
+    journal: Nature
+  antibodies: Etesevimab, LY-CoV016, LY3832479, JS016, CB6
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: EUA
+  type: mAb
+  pdb: EUA
+  ighv: IGHV3-66
+  shm: '0.03'
+  cdrh3_len: '13'
+  iglv: IGKV1-39
+  ic50: '835'
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1126/science.abd0827
+    refId: Hansen20
+    firstAuthor:
+      surname: Hansen
+      givenNames: Johanna
+    year: 2020
+    journal: Science
+  - doi: 10.1126/science.abd0831
+    refId: Baum20
+    firstAuthor:
+      surname: Baum
+      givenNames: Alina
+    year: 2020
+    journal: Science
+  - doi: 10.1126/science.abe2402
+    refId: Baum20b
+    firstAuthor:
+      surname: Baum
+      givenNames: Alina
+    year: 2020
+    journal: Science
+  antibodies: Imdevimab, REGN10987
+  source: |-
+    Transgenic VelocImmune mice immunized with SARS-CoV-2 trimeric S and RBD
+  status: EUA
+  type: mAb
+  pdb: EUA
+  ighv: IGHV3-30
+  shm: '0.03'
+  cdrh3_len: '13'
+  iglv: IGLV2-14
+  ic50: '6'
+  epitope_class: RBD Core 1
+- references: []
+  antibodies: REGN-COV2 (Casirivimab + Imdevimab)
+  status: EUA
+  type: mAb
+  pdb: EUA
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-20602-5
+    refId: Kim21
+    firstAuthor:
+      surname: Kim
+      givenNames: Cheolmin
+    year: 2021
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: CT-P59
+  source: |-
+    scFv phage display library of uncertain origin selected for RBD binding
+  status: EUA(in SK)
+  type: mAb
+  pdb: EUA(in SK)
+  ighv: IGHV2-70
+  shm: '0.1'
+  cdrh3_len: '20'
+  iglv: IGLV1-51
+  ic50: '8.4'
+  epitope_class: RBM 1
+- references: []
+  antibodies: ABBV-47D11
+  status: Phase1
+  type: mAb
+  pdb: Phase1
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: ADG20
+  status: Phase1
+  type: mAb
+  pdb: Phase1
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: ADM03820
+  status: Phase1
+  type: mAb
+  pdb: Phase1
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
 - references:
   - doi: 10.1038/s41586-020-2456-9
     refId: Robbiani20
@@ -438,114 +1311,1864 @@
       givenNames: Christopher O.
     year: 2020
     journal: Nature
-  antibodies:
-  - name: C002
-    ec50: 8.9
-    ec50Note: PV
-  - name: C121
-    ec50: 1.6
-    ec50Note: PV
-  - name: C135
-    ec50: 3
-    ec50Note: PV
-  - name: C144
-    ec50: 2.6
-    ec50Note: PV
-  - name: C105
-    ec50: 26.1
-    ec50Note: PV
-  - name: C104
+  antibodies: C135
   source: |-
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
-  description: |-
-    C105, C121, C135, and C144 are ACE2-competing neutralizing mAbs. C105 binds 2 or 3 RBDs in the up configuration. C135 and C144 bind to RBD's up and down configurations. C121 / C135 and C144 / C135 bind to non-overlapping epitopes. C144 uses its CDR(H)3 to bridge two neighboring RBDs and to stabilize spike in the closed state.
-  dataAvailability:
-    sequence: true
-    structure: true
+  status: Phase1
+  type: mAb
+  pdb: Phase1
+  ighv: IGHV3-30
+  shm: '0.04'
+  cdrh3_len: '12'
+  iglv: IGKV1-5
+  ic50: 3, PV
+  epitope_class: RBD Core 1
 - references:
-  - doi: 10.1126/science.abc7520
-    refId: Rogers20
+  - doi: 10.1038/s41586-020-2456-9
+    refId: Robbiani20
     firstAuthor:
-      surname: Rogers
-      givenNames: Thomas F.
+      surname: Robbiani
+      givenNames: Davide F.
     year: 2020
-    journal: Science
-  - doi: 10.1126/science.abd2321
-    refId: Yuan20c
+    journal: Nature
+  - doi: 10.1016/j.cell.2020.06.025
+    refId: Barnes20
     firstAuthor:
-      surname: Yuan
-      givenNames: Meng
+      surname: Barnes
+      givenNames: Christopher O.
     year: 2020
-    journal: Science
-  antibodies:
-  - name: CC12.1
-    ec50: 46
-  - name: CC12.3
-  - name: CC6.29
-    ec50: 2
-    ec50Note: PV
-  - name: CC6.30
-    ec50: 1
-    ec50Note: PV
+    journal: Cell
+  - doi: 10.7554/eLife.61312
+    refId: Weisblum20
+    firstAuthor:
+      surname: Weisblum
+      givenNames: Yiska
+    year: 2020
+    journal: eLife
+  - doi: 10.1038/s41586-020-2852-1
+    refId: Barnes20b
+    firstAuthor:
+      surname: Barnes
+      givenNames: Christopher O.
+    year: 2020
+    journal: Nature
+  antibodies: C144
   source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
-  description: |-
-    CC12.1 and CC12.3 bind the ACE2-binding site with the same angle of approach. CC12.1 and CC12.3 bind 15 and 11 ACE2-binding residues, respectively. Both bind only in the open configuration. CC12.1 reduced weight loss in a hamster prevention model.
-  dataAvailability:
-    sequence: true
-    structure: true
-    animal: true
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: Phase1
+  type: mAb
+  pdb: Phase1
+  ighv: IGHV3-53
+  shm: '0.03'
+  cdrh3_len: '25'
+  iglv: IGLV2-14
+  ic50: 2.6, PV
+  epitope_class: RBM 3
+- references: []
+  antibodies: C144-LS + C-135-LS
+  status: Phase1
+  type: mAb
+  pdb: Phase1
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: DXP604
+  status: Phase1
+  type: mAb
+  pdb: Phase1
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: HFB30132A
+  status: Phase1
+  type: mAb
+  pdb: Phase1
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: HLX70
+  status: Phase1
+  type: mAb
+  pdb: Phase1
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: JMB2002
+  status: Phase1
+  type: mAb
+  pdb: Phase1
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: LY-CovMab
+  status: Phase1
+  type: mAb
+  pdb: Phase1
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: COR-101
+  status: Phase1/2
+  type: mAb
+  pdb: Phase1/2
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: BI 767551, DZIF-10c
+  status: Phase1/2
+  type: mAb
+  pdb: Phase1/2
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: COVI-AMG (STI-2020)
+  status: Phase2
+  type: mAb
+  pdb: Phase2
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: DXP593
+  status: Phase2
+  type: mAb
+  pdb: Phase2
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: MW33
+  status: Phase2
+  type: mAb
+  pdb: Phase2
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: SCTA01
+  status: Phase2/3
+  type: mAb
+  pdb: Phase2/3
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
 - references:
-  - doi: 10.1016/j.immuni.2020.06.001
-    refId: Seydoux20
+  - doi: 10.1038/s41586-020-2349-y
+    refId: Pinto20
     firstAuthor:
-      surname: Seydoux
-      givenNames: Emilie
+      surname: Pinto
+      givenNames: Dora
     year: 2020
-    journal: Immunity
-  - doi: 10.1038/s41467-020-19231-9
-    refId: Hurlburt20
+    journal: Nature
+  - doi: 10.1126/science.abf4830
+    refId: Rappazzo21
     firstAuthor:
-      surname: Hurlburt
-      givenNames: Nicholas K.
+      surname: Rappazzo
+      givenNames: C. Garrett
+    year: 2021
+    journal: Science
+  antibodies: Sotrovimab, Vir-7831, S309, GSK4182136
+  source: |-
+    SARS-CoV-1 convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD(Pinto20). bnAbs ADI-55688, 55689 and 56046 (see Wec20)(Rappazzo21)
+  status: Phase2/3
+  type: mAb
+  pdb: Phase2/3
+  ighv: IGHV1-18
+  shm: '0.06'
+  cdrh3_len: '20'
+  iglv: IGKV3-20
+  ic50: 80(Pinto20), 240(Rappazzo21)
+  epitope_class: RBD Core 1
+- references: []
+  antibodies: AZD7442 (Tixagevimab + Cilgavimab)
+  status: Phase3
+  type: mAb
+  pdb: Phase3
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: BRII-196
+  status: Phase3
+  type: mAb
+  pdb: Phase3
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references: []
+  antibodies: BRII-198
+  status: Phase3
+  type: mAb
+  pdb: Phase3
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41591-020-0998-x
+    refId: Zost20
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature Medicine
+    journalShort: Nat Med
+  - doi: 10.1038/s41586-020-2548-6
+    refId: Zost20b
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature
+  - doi: 10.1101/2020.12.28.424554
+    refId: Winkler20
+    firstAuthor:
+      surname: Winkler
+      givenNames: Emma S.
+    year: 2020
+    journal: bioRxiv
+  antibodies: Cilgavimab, COV2-2130, AZD1061
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
+  status: Phase3
+  type: mAb
+  pdb: Phase3
+  ighv: IGHV3-15
+  shm: '0.04'
+  cdrh3_len: '22'
+  iglv: IGKV4-1
+  ic50: '105'
+  epitope_class: RBM 2
+- references:
+  - doi: 10.1038/s41591-020-0998-x
+    refId: Zost20
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature Medicine
+    journalShort: Nat Med
+  - doi: 10.1038/s41586-020-2548-6
+    refId: Zost20b
+    firstAuthor:
+      surname: Zost
+      givenNames: Seth J.
+    year: 2020
+    journal: Nature
+  - doi: 10.1101/2020.12.28.424554
+    refId: Winkler20
+    firstAuthor:
+      surname: Winkler
+      givenNames: Emma S.
+    year: 2020
+    journal: bioRxiv
+  antibodies: Tixagevimab, COV2-2196, AZD8895
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
+  status: Phase3
+  type: mAb
+  pdb: Phase3
+  ighv: IGHV1-58
+  shm: '0.02'
+  cdrh3_len: '16'
+  iglv: IGKV3-20
+  ic50: '15'
+  epitope_class: RBM 1
+- references: []
+  antibodies: TY027
+  status: Phase3
+  type: mAb
+  pdb: Phase3
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abc6952
+    refId: Chi20
+    firstAuthor:
+      surname: Chi
+      givenNames: Xiangyang
+    year: 2020
+    journal: Science
+  antibodies: 0304-3H3
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV4-59
+  shm: '0.04'
+  cdrh3_len: '18'
+  iglv: IGKV3-15
+  ic50: '40'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.10.20.346916
+    refId: Wang21c
+    firstAuthor:
+      surname: Wang
+      givenNames: Chunyan
+    year: 2020
+    journal: bioRxiv
+  antibodies: 1.6C7
+  source: |-
+    Transgenic H2L2 mice that encode the human immunoglobulin repertoire were used for immunization to develop fully human antibodies
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '83'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41586-020-2571-7
+    refId: Liu20e
+    firstAuthor:
+      surname: Liu
+      givenNames: Lihong
+    year: 2020
+    journal: Nature
+  antibodies: 1-20
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-53
+  shm: '0.02'
+  cdrh3_len: '11'
+  iglv: IGKV1-9
+  ic50: '7.5'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.09.11.292631
+    refId: Li20e
+    firstAuthor:
+      surname: Li
+      givenNames: Tingting
+    year: 2020
+    journal: bioRxiv
+  - doi: 10.1101/2020.08.19.253369
+    refId: Han20b
+    firstAuthor:
+      surname: Han
+      givenNames: Xiaojian
+    year: 2020
+    journal: bioRxiv
+  antibodies: 13G9
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '7'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41586-020-2571-7
+    refId: Liu20e
+    firstAuthor:
+      surname: Liu
+      givenNames: Lihong
+    year: 2020
+    journal: Nature
+  antibodies: 1-57
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-72
+  shm: '0.02'
+  cdrh3_len: '21'
+  iglv: IGKV3-20
+  ic50: '7.5'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18387-8
+    refId: Chi20b
+    firstAuthor:
+      surname: Chi
+      givenNames: Xiaojing
     year: 2020
     journal: Nature Communications
     journalShort: Nat Commun
-  antibodies:
-  - name: CV30
-    ec50: 118
-  - name: CV30-GermLine
-    ec50: 13000
-    ec50Note: PV
+  antibodies: '1E2'
   source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
-  description: |-
-    CV30 is a neutralizing mAb. It is an ACE2 competing mAb, which binds to a high proportion of the ACE2-binding residues.
-  dataAvailability:
-    sequence: true
-    structure: true
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-30
+  shm: '0.18'
+  cdrh3_len: '14'
+  iglv: ''
+  ic50: '240'
+  epitope_class: ''
 - references:
-  - doi: 10.1038/s41586-020-2381-y
-    refId: Shi20
+  - doi: 10.1038/s41467-020-18387-8
+    refId: Chi20b
     firstAuthor:
-      surname: Shi
-      givenNames: Rui
+      surname: Chi
+      givenNames: Xiaojing
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: 1E2-FC
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '43'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.07.14.203414
+    refId: Wang20h
+    firstAuthor:
+      surname: Wang
+      givenNames: Bei
+    year: 2020
+    journal: bioRxiv
+  antibodies: 1F6
+  source: |-
+    Human B cell phage display library filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41586-020-2571-7
+    refId: Liu20e
+    firstAuthor:
+      surname: Liu
+      givenNames: Lihong
     year: 2020
     journal: Nature
-  - freeText: '[Press release]($$CMS_PREFIX$$downloads/press-release/Lilly20201027.pdf)'
-  - freeText: (Lilly / AbCellera / Shanghai Junshi Bioscience)
-  antibodies:
-  - name: LY-CoV016
-    ec50: 835
+  antibodies: 2-15
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV1-2
+  shm: '0.05'
+  cdrh3_len: '22'
+  iglv: IGLV2-14
+  ic50: '0.8'
+  epitope_class: RBM 2
+- references:
+  - doi: 10.1038/s41586-020-2571-7
+    refId: Liu20e
+    firstAuthor:
+      surname: Liu
+      givenNames: Lihong
+    year: 2020
+    journal: Nature
+  antibodies: 2-17
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV1-69
+  shm: '0.01'
+  cdrh3_len: '17'
+  iglv: IGKV3-15
+  ic50: '6'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41586-020-2571-7
+    refId: Liu20e
+    firstAuthor:
+      surname: Liu
+      givenNames: Lihong
+    year: 2020
+    journal: Nature
+  antibodies: 2-4
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV1-2
+  shm: '0.03'
+  cdrh3_len: '15'
+  iglv: IGLV2-8
+  ic50: ''
+  epitope_class: RBM 3
+- references:
+  - doi: 10.1038/s41586-020-2571-7
+    refId: Liu20e
+    firstAuthor:
+      surname: Liu
+      givenNames: Lihong
+    year: 2020
+    journal: Nature
+  antibodies: 2-43
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV1-2
+  shm: '0.02'
+  cdrh3_len: '22'
+  iglv: IGLV2-14
+  ic50: ''
+  epitope_class: RBD Core 1
+- references:
+  - doi: 10.1038/s41586-020-2571-7
+    refId: Liu20e
+    firstAuthor:
+      surname: Liu
+      givenNames: Lihong
+    year: 2020
+    journal: Nature
+  antibodies: 2-7
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV2-5
+  shm: '0'
+  cdrh3_len: '11'
+  iglv: IGLV2-14
+  ic50: '3'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.10.20.346916
+    refId: Wang21c
+    firstAuthor:
+      surname: Wang
+      givenNames: Chunyan
+    year: 2020
+    journal: bioRxiv
+  antibodies: 28D9
+  source: |-
+    Transgenic H2L2 mice that encode the human immunoglobulin repertoire were used for immunization to develop fully human antibodies
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '930'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18387-8
+    refId: Chi20b
+    firstAuthor:
+      surname: Chi
+      givenNames: Xiaojing
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: 2F2
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-23
+  shm: '0.17'
+  cdrh3_len: '18'
+  iglv: ''
+  ic50: '294'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18387-8
+    refId: Chi20b
+    firstAuthor:
+      surname: Chi
+      givenNames: Xiaojing
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: 2F2-Fc
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '32'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2021.01.18.21249786
+    refId: Zhang21
+    firstAuthor:
+      surname: Zhang
+      givenNames: Wenjuan
+    year: 2021
+    journal: medRxiv
+  antibodies: 2G3
+  source: |-
+    mice immunized with a recombinant protein containing the SARS-CoV-2 RBD fused with a C-terminal mouse IgG Fc (RBD-mFc) by using the conventional hybridoma technology
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '32'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2021.01.18.21249786
+    refId: Zhang21
+    firstAuthor:
+      surname: Zhang
+      givenNames: Wenjuan
+    year: 2021
+    journal: medRxiv
+  antibodies: 2H2
+  source: |-
+    mice immunized with a recombinant protein containing the SARS-CoV-2 RBD fused with a C-terminal mouse IgG Fc (RBD-mFc) by using the conventional hybridoma technology
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV2-5-1
+  shm: '0.03'
+  cdrh3_len: '11'
+  iglv: IGKV3-10
+  ic50: '7'
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1101/2020.07.14.203414
+    refId: Wang20h
+    firstAuthor:
+      surname: Wang
+      givenNames: Bei
+    year: 2020
+    journal: bioRxiv
+  antibodies: 2H4
+  source: |-
+    Human B cell phage display library filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41423-020-0426-7
+    refId: Chen20e
+    firstAuthor:
+      surname: Chen
+      givenNames: Xiangyu
+    year: 2020
+    journal: Cellular & Molecular Immunology
+    journalShort: Cell Mol Immunol
+  antibodies: 311mab-31B5
   source: |-
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
-  description: |-
-    CB6 (aka JS016, LY-CoV016) is an ACE2-competing neutralizing mAb derived from SARS-CoV-2 convalescent memory B cells. It has been shown to reduice virus levels and lung pathology when administered 1 day before or after infection of rhesus macaques. Its Fc receptor has been mutated (LALA) to prolong its half-life. It is being evaluated as monotherapy in a phase I trial and in combination with LY-CoV555 in a phase II trial.
-  dataAvailability:
-    sequence: true
-    structure: true
-    animal: true
-    trial: true
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: '19'
+  iglv: ''
+  ic50: 34, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41423-020-0426-7
+    refId: Chen20e
+    firstAuthor:
+      surname: Chen
+      givenNames: Xiangyu
+    year: 2020
+    journal: Cellular & Molecular Immunology
+    journalShort: Cell Mol Immunol
+  antibodies: 311mab-32D4
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: '15'
+  iglv: ''
+  ic50: 70, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2021.01.18.21249786
+    refId: Zhang21
+    firstAuthor:
+      surname: Zhang
+      givenNames: Wenjuan
+    year: 2021
+    journal: medRxiv
+  antibodies: 3C1
+  source: |-
+    mice immunized with a recombinant protein containing the SARS-CoV-2 RBD fused with a C-terminal mouse IgG Fc (RBD-mFc) by using the conventional hybridoma technology
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3S1
+  shm: '0.04'
+  cdrh3_len: '13'
+  iglv: IGKV6-23
+  ic50: '3127'
+  epitope_class: RBD Core 2
+- references:
+  - doi: 10.1101/2020.07.14.203414
+    refId: Wang20h
+    firstAuthor:
+      surname: Wang
+      givenNames: Bei
+    year: 2020
+    journal: bioRxiv
+  antibodies: 3D11
+  source: |-
+    Human B cell phage display library filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18387-8
+    refId: Chi20b
+    firstAuthor:
+      surname: Chi
+      givenNames: Xiaojing
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: 3F11
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-23
+  shm: '0.2'
+  cdrh3_len: '18'
+  iglv: ''
+  ic50: '372'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.07.14.203414
+    refId: Wang20h
+    firstAuthor:
+      surname: Wang
+      givenNames: Bei
+    year: 2020
+    journal: bioRxiv
+  antibodies: 3F11
+  source: |-
+    Human B cell phage display library filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-23
+  shm: '0.2'
+  cdrh3_len: '18'
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18387-8
+    refId: Chi20b
+    firstAuthor:
+      surname: Chi
+      givenNames: Xiaojing
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: 3F11-Fc
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '1'
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.celrep.2020.107918
+    refId: Wan20
+    firstAuthor:
+      surname: Wan
+      givenNames: Jinkai
+    year: 2020
+    journal: Cell Reports
+  antibodies: 414-1
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: '19'
+  iglv: ''
+  ic50: '263'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41586-020-2571-7
+    refId: Liu20e
+    firstAuthor:
+      surname: Liu
+      givenNames: Lihong
+    year: 2020
+    journal: Nature
+  antibodies: 4-8
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV1-69
+  shm: '0.03'
+  cdrh3_len: '18'
+  iglv: IGLV3-1
+  ic50: '9'
+  epitope_class: NTD
+- references:
+  - doi: 10.1126/science.abc6952
+    refId: Chi20
+    firstAuthor:
+      surname: Chi
+      givenNames: Xiangyang
+    year: 2020
+    journal: Science
+  antibodies: 4A8
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV1-24
+  shm: '0.03'
+  cdrh3_len: '21'
+  iglv: IGKV2-24
+  ic50: '610'
+  epitope_class: NTD
+- references:
+  - doi: 10.1038/s41467-020-18387-8
+    refId: Chi20b
+    firstAuthor:
+      surname: Chi
+      givenNames: Xiaojing
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: 4D8
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-23
+  shm: '0.18'
+  cdrh3_len: '18'
+  iglv: ''
+  ic50: '125'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18387-8
+    refId: Chi20b
+    firstAuthor:
+      surname: Chi
+      givenNames: Xiaojing
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: 4D8-Fc
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '37'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.09.11.292631
+    refId: Li20e
+    firstAuthor:
+      surname: Li
+      givenNames: Tingting
+    year: 2020
+    journal: bioRxiv
+  - doi: 10.1101/2020.08.19.253369
+    refId: Han20b
+    firstAuthor:
+      surname: Han
+      givenNames: Xiaojian
+    year: 2020
+    journal: bioRxiv
+  antibodies: 510A5
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-9
+  shm: '0.02'
+  cdrh3_len: '16'
+  iglv: IGKV1-39
+  ic50: '11'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.09.11.292631
+    refId: Li20e
+    firstAuthor:
+      surname: Li
+      givenNames: Tingting
+    year: 2020
+    journal: bioRxiv
+  - doi: 10.1101/2020.08.19.253369
+    refId: Han20b
+    firstAuthor:
+      surname: Han
+      givenNames: Xiaojian
+    year: 2020
+    journal: bioRxiv
+  antibodies: 51D7
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV5-51
+  shm: '0.06'
+  cdrh3_len: '13'
+  iglv: IGKV1-39
+  ic50: '39'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41586-020-2571-7
+    refId: Liu20e
+    firstAuthor:
+      surname: Liu
+      givenNames: Lihong
+    year: 2020
+    journal: Nature
+  antibodies: 5-24
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-33
+  shm: '0.05'
+  cdrh3_len: '22'
+  iglv: IGKV3-20
+  ic50: '7.5'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.09.11.292631
+    refId: Li20e
+    firstAuthor:
+      surname: Li
+      givenNames: Tingting
+    year: 2020
+    journal: bioRxiv
+  - doi: 10.1101/2020.08.19.253369
+    refId: Han20b
+    firstAuthor:
+      surname: Han
+      givenNames: Xiaojian
+    year: 2020
+    journal: bioRxiv
+  antibodies: 58G6
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV1-58
+  shm: '0.04'
+  cdrh3_len: '16'
+  iglv: IGKV3-20
+  ic50: '10'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.07.14.203414
+    refId: Wang20h
+    firstAuthor:
+      surname: Wang
+      givenNames: Bei
+    year: 2020
+    journal: bioRxiv
+  antibodies: 5A6
+  source: |-
+    Human B cell phage display library filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '141'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18387-8
+    refId: Chi20b
+    firstAuthor:
+      surname: Chi
+      givenNames: Xiaojing
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: 5F8
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-30
+  shm: '0.16'
+  cdrh3_len: '18'
+  iglv: ''
+  ic50: '511'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18387-8
+    refId: Chi20b
+    firstAuthor:
+      surname: Chi
+      givenNames: Xiaojing
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: 5F8-Fc
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '4'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.07.14.203414
+    refId: Wang20h
+    firstAuthor:
+      surname: Wang
+      givenNames: Bei
+    year: 2020
+    journal: bioRxiv
+  antibodies: 6F8
+  source: |-
+    Human B cell phage display library filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.06.14.147868
+    refId: Miao20
+    firstAuthor:
+      surname: Miao
+      givenNames: Xiaoniu
+    year: 2020
+    journal: bioRxiv
+  antibodies: 89C8
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.06.14.147868
+    refId: Miao20
+    firstAuthor:
+      surname: Miao
+      givenNames: Xiaoniu
+    year: 2020
+    journal: bioRxiv
+  antibodies: 89C8-ACE2
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2021.01.18.21249786
+    refId: Zhang21
+    firstAuthor:
+      surname: Zhang
+      givenNames: Wenjuan
+    year: 2021
+    journal: medRxiv
+  antibodies: 8D3
+  source: |-
+    mice immunized with a recombinant protein containing the SARS-CoV-2 RBD fused with a C-terminal mouse IgG Fc (RBD-mFc) by using the conventional hybridoma technology
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '71'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abf4830
+    refId: Rappazzo21
+    firstAuthor:
+      surname: Rappazzo
+      givenNames: C. Garrett
+    year: 2021
+    journal: Science
+  antibodies: ADG-1
+  source: |-
+    bnAbs ADI-55688, 55689 and 56046 (see Wec20)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '42'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abf4830
+    refId: Rappazzo21
+    firstAuthor:
+      surname: Rappazzo
+      givenNames: C. Garrett
+    year: 2021
+    journal: Science
+  antibodies: ADG-2
+  source: |-
+    bnAbs ADI-55688, 55689 and 56046 (see Wec20)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '8'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abf4830
+    refId: Rappazzo21
+    firstAuthor:
+      surname: Rappazzo
+      givenNames: C. Garrett
+    year: 2021
+    journal: Science
+  antibodies: ADG-3
+  source: |-
+    bnAbs ADI-55688, 55689 and 56046 (see Wec20)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '47'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abf4830
+    refId: Rappazzo21
+    firstAuthor:
+      surname: Rappazzo
+      givenNames: C. Garrett
+    year: 2021
+    journal: Science
+  antibodies: ADI-55688
+  source: |-
+    bnAbs ADI-55688, 55689 and 56046 (see Wec20)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '21'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abc7424
+    refId: Wec20
+    firstAuthor:
+      surname: Wec
+      givenNames: Anna Z.
+    year: 2020
+    journal: Science
+  antibodies: ADI-55688
+  source: |-
+    SARS-CoV-1 convalescent memory B cells filtered for binding to SARS-CoV-2 tetrameric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '190'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abf4830
+    refId: Rappazzo21
+    firstAuthor:
+      surname: Rappazzo
+      givenNames: C. Garrett
+    year: 2021
+    journal: Science
+  antibodies: ADI-55689
+  source: |-
+    bnAbs ADI-55688, 55689 and 56046 (see Wec20)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '37'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abc7424
+    refId: Wec20
+    firstAuthor:
+      surname: Wec
+      givenNames: Anna Z.
+    year: 2020
+    journal: Science
+  antibodies: ADI-55689
+  source: |-
+    SARS-CoV-1 convalescent memory B cells filtered for binding to SARS-CoV-2 tetrameric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '100'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abc7424
+    refId: Wec20
+    firstAuthor:
+      surname: Wec
+      givenNames: Anna Z.
+    year: 2020
+    journal: Science
+  antibodies: ADI-56000
+  source: |-
+    SARS-CoV-1 convalescent memory B cells filtered for binding to SARS-CoV-2 tetrameric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '120'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abf4830
+    refId: Rappazzo21
+    firstAuthor:
+      surname: Rappazzo
+      givenNames: C. Garrett
+    year: 2021
+    journal: Science
+  antibodies: ADI-56046
+  source: |-
+    bnAbs ADI-55688, 55689 and 56046 (see Wec20)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '140'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abc7424
+    refId: Wec20
+    firstAuthor:
+      surname: Wec
+      givenNames: Anna Z.
+    year: 2020
+    journal: Science
+  antibodies: ADI-56046
+  source: |-
+    SARS-CoV-1 convalescent memory B cells filtered for binding to SARS-CoV-2 tetrameric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '100'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.12.29.424482
+    refId: Veesler20
+    firstAuthor:
+      surname: Sauer
+      givenNames: Maximilian M.
+    year: 2020
+    journal: bioRxiv
+  antibodies: B6
+  source: |-
+    Mice immunized with MERS-CoV trimeric S followed by SARS-CoV trimeric S
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1186/s12951-021-00768-w
+    refId: Lu21
+    firstAuthor:
+      surname: Lu
+      givenNames: Qizhong
+    year: 2021
+    journal: Journal of Nanobiotechnology
+    journalShort: J Nanobiotechnol
+  antibodies: biNb3-hFc
+  source: |-
+    camel nanobody, +/- Fc fusion, mono- di- or tri-mer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 755.7, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1186/s12951-021-00768-w
+    refId: Lu21
+    firstAuthor:
+      surname: Lu
+      givenNames: Qizhong
+    year: 2021
+    journal: Journal of Nanobiotechnology
+    journalShort: J Nanobiotechnol
+  antibodies: biNb91-hFc
+  source: |-
+    camel nanobody, +/- Fc fusion, mono- di- or tri-mer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 1239.7, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41586-020-2456-9
+    refId: Robbiani20
+    firstAuthor:
+      surname: Robbiani
+      givenNames: Davide F.
+    year: 2020
+    journal: Nature
+  - doi: 10.1016/j.cell.2020.06.025
+    refId: Barnes20
+    firstAuthor:
+      surname: Barnes
+      givenNames: Christopher O.
+    year: 2020
+    journal: Cell
+  - doi: 10.7554/eLife.61312
+    refId: Weisblum20
+    firstAuthor:
+      surname: Weisblum
+      givenNames: Yiska
+    year: 2020
+    journal: eLife
+  - doi: 10.1038/s41586-020-2852-1
+    refId: Barnes20b
+    firstAuthor:
+      surname: Barnes
+      givenNames: Christopher O.
+    year: 2020
+    journal: Nature
+  antibodies: C002
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-30
+  shm: '0.02'
+  cdrh3_len: '17'
+  iglv: IGKV1-39
+  ic50: 8.9, PV
+  epitope_class: RBM 2
+- references:
+  - doi: 10.1038/s41586-020-2456-9
+    refId: Robbiani20
+    firstAuthor:
+      surname: Robbiani
+      givenNames: Davide F.
+    year: 2020
+    journal: Nature
+  - doi: 10.1016/j.cell.2020.06.025
+    refId: Barnes20
+    firstAuthor:
+      surname: Barnes
+      givenNames: Christopher O.
+    year: 2020
+    journal: Cell
+  - doi: 10.7554/eLife.61312
+    refId: Weisblum20
+    firstAuthor:
+      surname: Weisblum
+      givenNames: Yiska
+    year: 2020
+    journal: eLife
+  - doi: 10.1038/s41586-020-2852-1
+    refId: Barnes20b
+    firstAuthor:
+      surname: Barnes
+      givenNames: Christopher O.
+    year: 2020
+    journal: Nature
+  antibodies: C104
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV4-34
+  shm: '0.06'
+  cdrh3_len: '17'
+  iglv: IGKV3-20
+  ic50: ''
+  epitope_class: RBM 2
+- references:
+  - doi: 10.1038/s41586-020-2456-9
+    refId: Robbiani20
+    firstAuthor:
+      surname: Robbiani
+      givenNames: Davide F.
+    year: 2020
+    journal: Nature
+  - doi: 10.1016/j.cell.2020.06.025
+    refId: Barnes20
+    firstAuthor:
+      surname: Barnes
+      givenNames: Christopher O.
+    year: 2020
+    journal: Cell
+  - doi: 10.7554/eLife.61312
+    refId: Weisblum20
+    firstAuthor:
+      surname: Weisblum
+      givenNames: Yiska
+    year: 2020
+    journal: eLife
+  - doi: 10.1038/s41586-020-2852-1
+    refId: Barnes20b
+    firstAuthor:
+      surname: Barnes
+      givenNames: Christopher O.
+    year: 2020
+    journal: Nature
+  antibodies: C105
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-53
+  shm: '0.01'
+  cdrh3_len: '12'
+  iglv: IGLV2-8
+  ic50: 26.1, PV
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1038/s41586-020-2456-9
+    refId: Robbiani20
+    firstAuthor:
+      surname: Robbiani
+      givenNames: Davide F.
+    year: 2020
+    journal: Nature
+  - doi: 10.1016/j.cell.2020.06.025
+    refId: Barnes20
+    firstAuthor:
+      surname: Barnes
+      givenNames: Christopher O.
+    year: 2020
+    journal: Cell
+  - doi: 10.7554/eLife.61312
+    refId: Weisblum20
+    firstAuthor:
+      surname: Weisblum
+      givenNames: Yiska
+    year: 2020
+    journal: eLife
+  - doi: 10.1038/s41586-020-2852-1
+    refId: Barnes20b
+    firstAuthor:
+      surname: Barnes
+      givenNames: Christopher O.
+    year: 2020
+    journal: Nature
+  antibodies: C121
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV1-2
+  shm: '0.02'
+  cdrh3_len: '22'
+  iglv: IGLV2-23
+  ic50: 1.6, PV
+  epitope_class: RBM 2
+- references:
+  - doi: 10.1101/2021.01.18.21249786
+    refId: Zhang21
+    firstAuthor:
+      surname: Zhang
+      givenNames: Wenjuan
+    year: 2021
+    journal: medRxiv
+  antibodies: c2H2
+  source: |-
+    mice immunized with a recombinant protein containing the SARS-CoV-2 RBD fused with a C-terminal mouse IgG Fc (RBD-mFc) by using the conventional hybridoma technology
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '22'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2021.01.18.21249786
+    refId: Zhang21
+    firstAuthor:
+      surname: Zhang
+      givenNames: Wenjuan
+    year: 2021
+    journal: medRxiv
+  antibodies: c3C1
+  source: |-
+    mice immunized with a recombinant protein containing the SARS-CoV-2 RBD fused with a C-terminal mouse IgG Fc (RBD-mFc) by using the conventional hybridoma technology
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '286'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2021.01.18.21249786
+    refId: Zhang21
+    firstAuthor:
+      surname: Zhang
+      givenNames: Wenjuan
+    year: 2021
+    journal: medRxiv
+  antibodies: c3C1+c2H2
+  source: |-
+    mice immunized with a recombinant protein containing the SARS-CoV-2 RBD fused with a C-terminal mouse IgG Fc (RBD-mFc) by using the conventional hybridoma technology
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '12'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abc5902
+    refId: Brouwer20
+    firstAuthor:
+      surname: Brouwer
+      givenNames: Philip J. M.
+    year: 2020
+    journal: Science
+  - doi: 10.1016/j.celrep.2020.108274
+    refId: Wu20c
+    firstAuthor:
+      surname: Wu
+      givenNames: Nicholas C.
+    year: 2020
+    journal: Cell Reports
+  - doi: 10.1016/j.immuni.2020.10.023
+    refId: Liu20g
+    firstAuthor:
+      surname: Liu
+      givenNames: Hejun
+    year: 2020
+    journal: Immunity
+  antibodies: COVA1-16
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV1-46
+  shm: '0.01'
+  cdrh3_len: '22'
+  iglv: IGKV1-33
+  ic50: '745'
+  epitope_class: RBD Core 2
+- references:
+  - doi: 10.1126/science.abc5902
+    refId: Brouwer20
+    firstAuthor:
+      surname: Brouwer
+      givenNames: Philip J. M.
+    year: 2020
+    journal: Science
+  - doi: 10.1016/j.celrep.2020.108274
+    refId: Wu20c
+    firstAuthor:
+      surname: Wu
+      givenNames: Nicholas C.
+    year: 2020
+    journal: Cell Reports
+  - doi: 10.1016/j.immuni.2020.10.023
+    refId: Liu20g
+    firstAuthor:
+      surname: Liu
+      givenNames: Hejun
+    year: 2020
+    journal: Immunity
+  antibodies: COVA1-18
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-66
+  shm: '0'
+  cdrh3_len: '12'
+  iglv: IGLV7-46
+  ic50: '7'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abc5902
+    refId: Brouwer20
+    firstAuthor:
+      surname: Brouwer
+      givenNames: Philip J. M.
+    year: 2020
+    journal: Science
+  - doi: 10.1016/j.celrep.2020.108274
+    refId: Wu20c
+    firstAuthor:
+      surname: Wu
+      givenNames: Nicholas C.
+    year: 2020
+    journal: Cell Reports
+  - doi: 10.1016/j.immuni.2020.10.023
+    refId: Liu20g
+    firstAuthor:
+      surname: Liu
+      givenNames: Hejun
+    year: 2020
+    journal: Immunity
+  antibodies: COVA2-04
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-53
+  shm: '0.02'
+  cdrh3_len: '12'
+  iglv: IGKV3-20
+  ic50: '2500'
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1126/science.abc5902
+    refId: Brouwer20
+    firstAuthor:
+      surname: Brouwer
+      givenNames: Philip J. M.
+    year: 2020
+    journal: Science
+  - doi: 10.1016/j.celrep.2020.108274
+    refId: Wu20c
+    firstAuthor:
+      surname: Wu
+      givenNames: Nicholas C.
+    year: 2020
+    journal: Cell Reports
+  - doi: 10.1016/j.immuni.2020.10.023
+    refId: Liu20g
+    firstAuthor:
+      surname: Liu
+      givenNames: Hejun
+    year: 2020
+    journal: Immunity
+  antibodies: COVA2-15
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-23
+  shm: '0.03'
+  cdrh3_len: '22'
+  iglv: IGKV2-30
+  ic50: '9'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abc5902
+    refId: Brouwer20
+    firstAuthor:
+      surname: Brouwer
+      givenNames: Philip J. M.
+    year: 2020
+    journal: Science
+  - doi: 10.1016/j.celrep.2020.108274
+    refId: Wu20c
+    firstAuthor:
+      surname: Wu
+      givenNames: Nicholas C.
+    year: 2020
+    journal: Cell Reports
+  - doi: 10.1016/j.immuni.2020.10.023
+    refId: Liu20g
+    firstAuthor:
+      surname: Liu
+      givenNames: Hejun
+    year: 2020
+    journal: Immunity
+  antibodies: COVA2-39
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-53
+  shm: '0.03'
+  cdrh3_len: '17'
+  iglv: IGLV2-23
+  ic50: '54'
+  epitope_class: RBM 1
 - references:
   - doi: 10.1371/journal.pmed.0030237
     refId: terMeulen06
@@ -569,129 +3192,74 @@
       givenNames: Jiandong
     year: 2020
     journal: Cell Host & Microbe
-  antibodies:
-  - name: CR3022
-    ec50: 114
+  antibodies: CR3022
   source: |-
     SARS-CoV-1 scFv phage display library (irradiated SARS-Cov-1)
-  description: |-
-    CR3022 is a SARS-1 cross-reacting neutralizing mAb that binds to a non-competing RBD epitope accessible only when the RBD is in the up configuration.
-  dataAvailability:
-    sequence: true
-    structure: true
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV5-51
+  shm: '0.09'
+  cdrh3_len: '12'
+  iglv: IGKV4-1
+  ic50: '114'
+  epitope_class: RBD Core 2
 - references:
-  - doi: 10.1016/j.celrep.2020.107918
-    refId: Wan20
+  - doi: 10.1016/j.immuni.2020.06.001
+    refId: Seydoux20
     firstAuthor:
-      surname: Wan
-      givenNames: Jinkai
+      surname: Seydoux
+      givenNames: Emilie
     year: 2020
-    journal: Cell Reports
-  antibodies:
-  - name: 414-1
-    ec50: 263
-  source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
-  description: |-
-    414-1 is an ACE2-competing neutralizing mAb.
-  dataAvailability:
-    sequence: true
-- references:
-  - doi: 10.1038/s41467-020-16256-y
-    refId: Wang20b
+    journal: Immunity
+  - doi: 10.1038/s41467-020-19231-9
+    refId: Hurlburt20
     firstAuthor:
-      surname: Wang
-      givenNames: Chunyan
+      surname: Hurlburt
+      givenNames: Nicholas K.
     year: 2020
     journal: Nature Communications
     journalShort: Nat Commun
-  - doi: 10.1101/2020.08.24.264630
-    refId: Haagmans20
-    firstAuthor:
-      surname: Haagmans
-      givenNames: Bart L.
-    year: 2020
-    journal: bioRxiv
-  - doi: 10.1101/2020.09.30.318261
-    refId: Fedry20
-    firstAuthor:
-      surname: Fedry
-      givenNames: Juliette
-    year: 2020
-    journal: bioRxiv
-  antibodies:
-  - name: 47D11
-    ec50: 570
+  antibodies: CV30
   source: |-
-    Hybridomas from humanized H2L2 transgenic mice immunized with trimeric S from SARS-CoV-1, MERS-CoV, and HCoV-OC43 (SARS-CoV-2 RBD)
-  description: |-
-    47D11 is a non-ACE2-competing mAb that cross-neutralizes SARS-1. It binds to the down conformation of the RBD. It reduces weight loss, lung pathology, and virus levels in a hamster SARS-CoV-2 prevention model.
-  dataAvailability:
-    animal: true
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-53
+  shm: '0.02'
+  cdrh3_len: '12'
+  iglv: IGKV3-20
+  ic50: '118'
+  epitope_class: RBM 1
 - references:
-  - doi: 10.1101/2020.07.14.203414
-    refId: Wang20h
+  - doi: 10.1016/j.immuni.2020.06.001
+    refId: Seydoux20
     firstAuthor:
-      surname: Wang
-      givenNames: Bei
+      surname: Seydoux
+      givenNames: Emilie
     year: 2020
-    journal: bioRxiv
-  antibodies:
-  - name: 1F6
-  - name: 2H4
-  - name: 3D11
-  - name: 3F11
-  - name: 5A6
-    ec50: 141
-  - name: 6F8
-  source: |-
-    Human B cell phage display library filtered for binding to SARS-CoV-2 RBD
-  description: |-
-    5A6 is an ACE2-competing mAb that binds bivalently to one RBD in the up configuration and another in the down configuration.
-  dataAvailability: {}
-- references:
-  - doi: 10.1126/science.abc7424
-    refId: Wec20
+    journal: Immunity
+  - doi: 10.1038/s41467-020-19231-9
+    refId: Hurlburt20
     firstAuthor:
-      surname: Wec
-      givenNames: Anna Z.
+      surname: Hurlburt
+      givenNames: Nicholas K.
     year: 2020
-    journal: Science
-  antibodies:
-  - name: ADI-55688
-    ec50: 190
-  - name: ADI-55689
-    ec50: 100
-  - name: ADI-56000
-    ec50: 120
-  - name: ADI-56046
-    ec50: 100
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: CV30-GermLine
   source: |-
-    SARS-CoV-1 convalescent memory B cells filtered for binding to SARS-CoV-2 tetrameric spike
-  description: |-
-    ADI-55689 cross-neutralizes SARS-1 and competes with ACE2 but not CR3022 by binding at the edge of the ACE2 binding site. ADI-56046 also cross neutralizes SARS-1 and competes with ACE2 but binds further away from the RBD tip causing it to compete with CR3022.
-  dataAvailability: {}
-- references:
-  - doi: 10.1126/science.abc2241
-    refId: Wu20
-    firstAuthor:
-      surname: Wu
-      givenNames: Yan
-    year: 2020
-    journal: Science
-  antibodies:
-  - name: B38
-    ec50: 180
-  - name: H4
-    ec50: 900
-  source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
-  description: |-
-    H4 and B38 are ACE2-competing neutralizing mAbs that bind to non-overlapping epitopes. Both mAbs have been shown to reduce lung pathology and virus levels in a mouse treatment model.
-  dataAvailability:
-    sequence: true
-    structure: true
-    animal: true
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 13000, PV
+  epitope_class: ''
 - references:
   - doi: 10.1038/s41594-020-0480-y
     refId: Zhou20b
@@ -701,548 +3269,121 @@
     year: 2020
     journal: Nature Structural & Molecular Biology
     journalShort: Nat Struct Mol Biol
-  antibodies:
-  - name: EY6A
-    ec50: 70
+  antibodies: EY6A
   source: |-
     Plasmablasts from SARS-CoV-2 infected persons filtered for binding to SARS-CoV-2 trimeric spike and S1
-  description: |-
-    EY6A is a non-ACE2 competing neutralizing mAb that cross-neutralizes SARS-CoV-1.
-  dataAvailability:
-    sequence: true
-    structure: true
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-30
+  shm: '0.03'
+  cdrh3_len: '14'
+  iglv: IGKV1-39
+  ic50: '70'
+  epitope_class: RBD Core 2
 - references:
-  - doi: 10.1038/s41591-020-0998-x
-    refId: Zost20
+  - doi: 10.1016/j.cell.2020.06.044
+    refId: Kreer20
     firstAuthor:
-      surname: Zost
-      givenNames: Seth J.
-    year: 2020
-    journal: Nature Medicine
-    journalShort: Nat Med
-  - doi: 10.1038/s41586-020-2548-6
-    refId: Zost20b
-    firstAuthor:
-      surname: Zost
-      givenNames: Seth J.
-    year: 2020
-    journal: Nature
-  - freeText: (AstraZeneca / Paraxel)
-  antibodies:
-  - name: COV2-2196
-    ec50: 15
-  - name: COV2-2130
-    ec50: 105
-  - name: COV2-2381
-  - name: COV2-2050
-    ec50: 125
-  - name: COV2-2050-LALA-PG
-    ec50: 157
-  - name: COV2-3025
-  - name: COV2-3025-LALA-PG
-  source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
-  description: |-
-    COV2-2196 and COV2-2130 are ACE2-competing mAbs that bind to nonoverlapping RBD epitopes. COV2-2196 binds RBD in the up configuration; COV2-2130 binds RBD in the up and down configuration. Each mAb reduces weight loss and lung virus levels in a mouse prevention model. COV2-2196 reduces lung virus levels in rhesus macaques. A modified versions of COV2-2196 and COV2-2130 (AZD8895 and AZD1061; aka AZD7442) have begun phase III clinical trials. COV2-2050-LALA-PG contained 3 loss of function Fc mutations: L234A, L235A, and P329G.
-  dataAvailability:
-    sequence: true
-    animal: true
-    trial: true
-- references:
-  - doi: 10.1101/2020.09.11.292631
-    refId: Li20e
-    firstAuthor:
-      surname: Li
-      givenNames: Tingting
-    year: 2020
-    journal: bioRxiv
-  - doi: 10.1101/2020.08.19.253369
-    refId: Han20b
-    firstAuthor:
-      surname: Han
-      givenNames: Xiaojian
-    year: 2020
-    journal: bioRxiv
-  antibodies:
-  - name: 13G9
-    ec50: 7
-  - name: 58G6
-    ec50: 10
-  - name: 510A5
-    ec50: 11
-  - name: 51D7
-    ec50: 39
-  source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
-  description: |-
-    58G6 is an ACE2-competing neutralizing mAb.
-  dataAvailability:
-    sequence: true
-- references:
-  - doi: 10.1101/2020.09.30.318972
-    refId: Jones20
-    firstAuthor:
-      surname: Jones
-      givenNames: Bryan E.
-    year: 2020
-    journal: bioRxiv
-  - doi: 10.1038/s41586-020-2381-y
-    refId: Shi20
-    firstAuthor:
-      surname: Shi
-      givenNames: Rui
-    year: 2020
-    journal: Nature
-  - doi: 10.1056/NEJMoa2029849
-    refId: Chen20l
-    firstAuthor:
-      surname: Chen
-      givenNames: Peter
-    year: 2020
-    journal: New England Journal of Medicine
-    journalShort: N Engl J Med
-  - freeText: '[Press release]($$CMS_PREFIX$$downloads/press-release/Lilly20201027.pdf)'
-  - freeText: (Lilly / AbCellera)
-  antibodies:
-  - name: LY-CoV555
-    ec50: 10
-  source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
-  description: |-
-    LY-CoV555 (aka LY3819253; bamlanivimab) is an ACE2-competing mAb that binds RBD in the up and down configurations. It reduces upper airway and lower airway virus levels in rhesus macaques. It has been shown to reduce virus levels and possibly hospitalizations in a phase II trial. A phase III trial in hospitalized patients was discontinued because of lack of efficacy. It is also being studied in combination with LY-CoV016 which appears to be the same mAb as CB6 and JS016. LY-CoV555 received FDA emergence use authorization on November 9, 2020.
-  dataAvailability:
-    animal: true
-    trial: true
-- references:
-  - doi: 10.1101/2020.09.27.316174
-    refId: Cao20f
-    firstAuthor:
-      surname: Cao
-      givenNames: Xia
-    year: 2020
-    journal: bioRxiv
-  - freeText: (Sorrento Therapeutics)
-  antibodies:
-  - name: STI-1499
-    ec50: 3000
-  - name: STI-2020
-    ec50: 55
-  source: |-
-    Phage display scFv library created from naïve individuals screened for S1 binding and inhibition of S1-ACE2 binding.
-  description: |-
-    STI-1499 and STI-2020 (AKA COVI-AMG) are neutralizing mAbs being studied in phase I trials. ST-2020 is an affinity-engineered variant of STI-1499 that has greater activity in vitro and in Syrian hamsters. The Fc receptors of both mAbs were mutated (LALA) to prolong its half-life.
-  dataAvailability:
-    animal: true
-    trial: true
-- references:
-  - doi: 10.1101/2020.10.26.355107
-    refId: Chan20b
-    firstAuthor:
-      surname: Chan
-      givenNames: Conrad E.Z.
-    year: 2020
-    journal: bioRxiv
-  antibodies:
-  - name: SC31
-    ec50: 2670
-  source: |-
-    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
-  description: |-
-    SC31 is an ACE2-competing neutralizing mAb shown to have protective effects in transgenic mice and Syrian hamsters. Its activity in these models appears to depend on Fc-mediated effector functions as it is more protective than the Fc-null (LALA) SC31 variant.
-  dataAvailability:
-    animal: true
-- references:
-  - doi: 10.1101/2020.08.09.242867
-    refId: Gai20
-    firstAuthor:
-      surname: Gai
-      givenNames: Junwei
-    year: 2020
-    journal: bioRxiv
-  antibodies:
-  - name: Nb11-59
-    ec50: 550
-  source: |-
-    Phage display library created from camels immunized with RBD and then filtered for RBD binding
-  description: |-
-    Nb11-59 is an an ACE2-competing single-domain humanized neutralizing mAb.
-  dataAvailability: {}
-- references:
-  - doi: 10.1016/j.chom.2020.04.023
-    refId: Wu20b
-    firstAuthor:
-      surname: Wu
-      givenNames: Yanling
-    year: 2020
-    journal: Cell Host & Microbe
-  antibodies:
-  - name: n3088
-    ec50: 2600
-  - name: n3130
-    ec50: 4000
-  source: |-
-    Human sdAb phage display library (seleccted for binding to S1 and RBD)
-  description: |-
-    n3088 and n3130 are single-domain neutralizing non-ACE2 competing mAbs that compete with CR3022.
-  dataAvailability: {}
-- references:
-  - doi: 10.1126/science.abe3255
-    refId: Schoof20
-    firstAuthor:
-      surname: Schoof
-      givenNames: Michael
-    year: 2020
-    journal: Science
-  antibodies:
-  - name: Nb6
-    ec50: 6300
-  - name: Nb6-matured
-    ec50: 180
-  - name: Nb6-trimeric
-    ec50: 45
-  - name: Nb6-matured-trimeric
-    ec50: 2.4
-  - name: Nb11
-  source: |-
-    Synthetic phage display sdAb library selected for trimeric spike binding.
-  description: |-
-    Nb6 and Nb11 are ACE2-competing single-domain neutralizing mAbs. Nb6 straddles 2 RBD down states; Nb11 binds a single RBD either in the up or down state. A mutated (Nb6-matured) trimer form of Nb6 has the greatest neutralizing activity of these adAbs. It retains activity after aerosolization, lyophilization, and heat treatment.
-  dataAvailability:
-    sequence: true
-    structure: true
-- references:
-  - doi: 10.1080/19420862.2020.1778435
-    refId: Sun20
-    firstAuthor:
-      surname: Sun
-      givenNames: Zehua
-    year: 2020
-    journal: mAbs
-  antibodies:
-  - name: VH-Ab6-Fc
-    ec50: 350
-  - name: VH-M397-Fc
-    ec50: 1500
-  source: |-
-    Human sdAb CDR2 and CDR3 VH phage display library selected for RBD binding.
-  description: |-
-    VH-Ab6-Fc and VH-m397-Fc are single-domain variable heavy chain (VH) ACE2-competing mAbs fused with Fc domains to increase their half lives.
-  dataAvailability: {}
-- references:
-  - doi: 10.1016/j.cell.2020.04.031
-    refId: Wrapp20
-    firstAuthor:
-      surname: Wrapp
-      givenNames: Daniel
+      surname: Kreer
+      givenNames: Christoph
     year: 2020
     journal: Cell
-  antibodies:
-  - name: VHH-72-Fc
-    ec50: 200
-  - name: VHH-55
+  antibodies: FnC1t2p1_D4
   source: |-
-    Phage display sdAb library created from llamas immunized with SARS-CoV-1 and MERS-CoV trimeric spike. mAbs selected for binding to SARS-CoV-1 or MERS-CoV spike.
-  description: |-
-    VHH72-Fc is a bivalent Fc-linked single domain mAb selected for SARS-CoV-1 binding which cross-neutralizes SARS-Cov-2 in pseudovirus assays.
-  dataAvailability:
-    sequence: true
-    structure: true
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV7-4-1
+  shm: '0.06'
+  cdrh3_len: '11'
+  iglv: IGKV1-33
+  ic50: 280, IC100
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abc5881
+    refId: Lv20
+    firstAuthor:
+      surname: Lv
+      givenNames: Zhe
+    year: 2020
+    journal: Science
+  antibodies: H014
+  source: |-
+    Phage display library created from mice immunized with SARS-CoV-1 and SARS-CoV-2 RBD (SARS-CoV-2 RBD) (humanized)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV1-69-2
+  shm: '0.2'
+  cdrh3_len: '13'
+  iglv: IGKV6-21
+  ic50: '570'
+  epitope_class: RBD Core 2
 - references:
   - doi: 10.1038/s41594-020-0469-6
     refId: Huo20b
     firstAuthor:
       surname: Huo
-      givenNames: Jiangdong
+      givenNames: Jiandong
     year: 2020
     journal: Nature Structural & Molecular Biology
     journalShort: Nat Struct Mol Biol
-  antibodies:
-  - name: H11-H4
-    ec50: 600
-  - name: H11-H4-Fc
-    ec50: 280
-  - name: H11-D4-Fc
-    ec50: 1020
+  antibodies: H11-D4-Fc
   source: |-
     Phage display sdAb library created from naïve llamas. mAbs selected for RBD binding and then fused with an Fc domain.
-  description: |-
-    H11-D4-Fc and H11-F4-Fc are single-domain Fc-fusion ACE2-competing neutralizing mAbs derived from a naïve llama nanobody (VHH) phage display library that underwent RBD panning.
-  dataAvailability:
-    sequence: true
-    structure: true
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '1020'
+  epitope_class: ''
 - references:
-  - doi: 10.1038/s41467-020-19204-y
-    refId: Custodio20
+  - doi: 10.1038/s41594-020-0469-6
+    refId: Huo20b
     firstAuthor:
-      surname: Custódio
-      givenNames: Tânia F.
+      surname: Huo
+      givenNames: Jiandong
     year: 2020
-    journal: Nature Communications
-    journalShort: Nat Commun
-  antibodies:
-  - name: Sb23
-    ec50: 600
+    journal: Nature Structural & Molecular Biology
+    journalShort: Nat Struct Mol Biol
+  antibodies: H11-H4
   source: |-
-    Synthetic phage display sdAb library selected for RBD binding.
-  description: |-
-    Sb23 is a an ACE2-competing single-domain mAb that binds RBD in both its up and down configurations. It was derived from a synthetic single domain phage display library that underwent RBD panning.
-  dataAvailability:
-    sequence: true
-    structure: true
+    Phage display sdAb library created from naïve llamas. mAbs selected for RBD binding and then fused with an Fc domain.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3-3
+  shm: '0.08'
+  cdrh3_len: '20'
+  iglv: ''
+  ic50: '600'
+  epitope_class: RBM 2
 - references:
-  - doi: 10.1101/2020.07.27.224089
-    refId: Beasley20
+  - doi: 10.1038/s41594-020-0469-6
+    refId: Huo20b
     firstAuthor:
-      surname: Beasley
-      givenNames: Matthew D.
+      surname: Huo
+      givenNames: Jiandong
     year: 2020
-    journal: bioRxiv
-  antibodies:
-  - name: RU169-178-scFv
-    ec50: 2200
-  - name: RU169-178-diabody
-    ec50: 2000
-  - name: RU169-178-IgG
-    ec50: 1300
+    journal: Nature Structural & Molecular Biology
+    journalShort: Nat Struct Mol Biol
+  antibodies: H11-H4-Fc
   source: |-
-    Retained Display scFv display platform selected for RBD and Spike binding and engineered to produce diabodies and Fc fusions.
-  description: |-
-    RU169-178 is a single-chain variable fragment (scFv) single-domain ACE2- competing neutralizing mAb. RU169-178-diabody and RU169-178-IgG1 are engineered forms of this sdAb.
-  dataAvailability: {}
-- references:
-  - doi: 10.1038/s41467-020-18174-5
-    refId: Hanke20
-    firstAuthor:
-      surname: Hanke
-      givenNames: Leo
-    year: 2020
-    journal: Nature Communications
-    journalShort: Nat Commun
-  antibodies:
-  - name: Ty1
-    ec50: 770
-    ec50Note: PV
-  source: |-
-    Phage display sdAb library created from alpaca immunized with S1-Fc and RBD.
-  description: |-
-    Ty1 is an ACE2-competing single-domain neutralizing mAb that binds the RBD in it up and down configurations. It was derived from a phage display library derived from Alpaca immunized with S1-Fc and RBD.
-  dataAvailability:
-    sequence: true
-    structure: true
-- references:
-  - doi: 10.1101/2020.06.09.143438
-    refId: Li20d
-    firstAuthor:
-      surname: Li
-      givenNames: Tingting
-    year: 2020
-    journal: bioRxiv
-  antibodies:
-  - name: SR4
-    ec50: 5900
-    ec50Note: PV
-  - name: MR3
-    ec50: 400
-    ec50Note: PV
-  - name: MR4
-    ec50: 740
-    ec50Note: PV
-  - name: MR17
-    ec50: 12000
-    ec50Note: PV
-  - name: MR17-K99Y
-    ec50: 500
-    ec50Note: PV
-  source: |-
-    Synthetic phage display sdAb library selected for RBD binding.
-  description: |-
-    SR4, MR3, MR4, and MR17 belong to a panel of single-comain neutralizing ACE2-competing mAbs derived from a synthetic nanobody phage display library selected for RBD binding. These mAbs bind RBD in its up and down configurations. MR17-K99Y increased neutralization 24 fold compared to MR17.
-  dataAvailability:
-    sequence: true
-    structure: true
-- references:
-  - doi: 10.1038/s41467-020-18387-8
-    refId: Chi20b
-    firstAuthor:
-      surname: Chi
-      givenNames: Xiaojing
-    year: 2020
-    journal: Nature Communications
-    journalShort: Nat Commun
-  antibodies:
-  - name: '1E2'
-    ec50: 240
-  - name: 1E2-FC
-    ec50: 43
-  - name: 2F2
-    ec50: 294
-  - name: 2F2-Fc
-    ec50: 32
-  - name: 3F11
-    ec50: 372
-  - name: 3F11-Fc
-    ec50: 1
-  - name: 4D8
-    ec50: 125
-  - name: 4D8-Fc
-    ec50: 37
-  - name: 5F8
-    ec50: 511
-  - name: 5F8-Fc
-    ec50: 4
-  source: |-
-    Synthetic phage display sdAb library selected for RBD binding.
-  description: |-
-    1E2, 2F2, 3F11, 4D8, and 5F8 belong to a panel of single-domain neutralizing mAbs derived from a synthetic humanized phage display library that underent RBD panning. Each sdAb either completely or partially competes with ACE2 binding. Fc fusion versions of these Abs increase neutralization.
-  dataAvailability:
-    sequence: true
-    structure: true
-- references:
-  - freeText: (Tychan Pte)
-  antibodies:
-  - name: TY027
-  description: |-
-    TY027 is a mAb targeting the SARS-CoV-2 spike protein being studied in a phase I trial.
-  dataAvailability:
-    trial: true
-- references:
-  - freeText: (Brii Biosciences)
-  antibodies:
-  - name: BRII-196
-  description: |-
-    BRII-196 is a mAb targeting the SARS-CoV-2spike protein being studied in a phase I trial.
-  dataAvailability:
-    trial: true
-- references:
-  - doi: 10.1038/s41467-020-20602-5
-    refId: Kim21
-    firstAuthor:
-      surname: Kim
-      givenNames: Cheolmin
-    year: 2021
-    journal: Nature Communications
-    journalShort: Nat Commun
-  - freeText: (Celltrion)
-  antibodies:
-  - name: CT-P59
-    ec50: 8.4
-  source: |-
-    scFv phage display library of uncertain origin selected for RBD binding
-  description: |-
-    CT-P59(aka Regdanvimab) is a neutralizing mAb targeting the SARS-CoV-2 RBD, which is being studied in a phase II/III clinical trial. It has been shown to reduce virus levels in ferrets, Syrian hamsters, and rhesus macaques.
-  dataAvailability:
-    sequence: true
-    structure: true
-    animal: true
-    trial: true
-- references:
-  - doi: 10.1038/s41467-020-19568-1
-    refId: Wang20l
-    firstAuthor:
-      surname: Wang
-      givenNames: Shuang
-    year: 2020
-    journal: Nature Communications
-    journalShort: Nat Commun
-  - freeText: (Mabwell Bioscience)
-  antibodies:
-  - name: MW05
-    ec50: 1000
-    ec50Note: IC100
-  - name: MW07
-    ec50: 5000
-    ec50Note: IC100
-  - name: MW33
-  source: |-
-    Convalescent memory B cells (SARS-CoV-2 RBD) engineered to have LALA mutations.
-  description: |-
-    MW05 and MW07 are ACE-2 competing mAbs that have been evaluated in rhesus macaques. MW33 is a mAb that appears to be from the same group, which is being studied in a phase II trial.
-  dataAvailability:
-    animal: true
-    trial: true
-- references:
-  - freeText: (BeiGene)
-  antibodies:
-  - name: BGB-DXP593
-  description: |-
-    BGB DXP593 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phase I trial.
-  dataAvailability:
-    trial: true
-- references:
-  - freeText: (Sinocelltech)
-  antibodies:
-  - name: SCTA01
-  description: |-
-    SCTA01 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phase I trial.
-  dataAvailability:
-    trial: true
-- references:
-  - freeText: (Hengenix Biotech Inc)
-  antibodies:
-  - name: HLX70
-  description: |-
-    HLX70 is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phase I trial.
-  dataAvailability:
-    trial: true
-- references:
-  - freeText: (Ology Bioservices)
-  antibodies:
-  - name: ADM03820
-  description: |-
-    ADM03820 is a mixture of two non-overlapping mAbs, being studied in a phase I trial.
-  dataAvailability:
-    trial: true
-- references:
-  - freeText: (HiFiBiO Therapeutics)
-  antibodies:
-  - name: HFB30132A
-  description: |-
-    HFB30132A is an mAb targeting the SARS-CoV-2 spike protein, which is being studied in a phase Itrial.
-  dataAvailability:
-    trial: true
-- references:
-  - doi: 10.1126/science.abe3354
-    refId: Tortorici20
-    firstAuthor:
-      surname: Tortorici
-      givenNames: M. Alejandra
-    year: 2020
-    journal: Science
-  antibodies:
-  - name: S2M11
-    ec50: 1.2
-  - name: S2E12
-    ec50: 4.2
-  source: |-
-    Convalescent memory B cells (SARS-CoV-2 trimeric spike)
-  description: |-
-    S2M11 and S2E12 are ACE-2 competing neutralizing mAbs. S2M11 stabilizes the closed conformation of the spike trimer by binding two neighboring RBDs in their down configurations. S2E12 binds RBD only in its up position. S2M11 (but not S2E12) promote ADCC and ADCP activity. Both S2M11 and S2E12 inhibit virus replication when administered propylactically at low doses to hamsters.
-  dataAvailability:
-    sequence: true
-    structure: true
-    animal: true
-- references:
-  - doi: 10.1016/j.cell.2020.09.037
-    refId: Piccoli20
-    firstAuthor:
-      surname: Piccoli
-      givenNames: Luca
-    year: 2020
-    journal: Cell
-  antibodies:
-  - name: S2H13
-    ec50: 500
-    ec50Note: PV
-  - name: S2H14
-    ec50: 900
-    ec50Note: PV
-  source: |-
-    Convalescent memory B cells (SARS-CoV-2 trimeric spike)
-  description: |-
-    S2H13 is an ACE2-competing neutralizing mAb that binds to RBD in both its up and down configurations. S2H14 is an ACE2-competing mAb that has a large ACE2 footprint and binds to RBD only in its up configuration. S2H13 (but not S2H14) promoted ADCC.
-  dataAvailability:
-    sequence: true
-    structure: true
+    Phage display sdAb library created from naïve llamas. mAbs selected for RBD binding and then fused with an Fc domain.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '280'
+  epitope_class: ''
 - references:
   - doi: 10.1038/s41423-020-0458-z
     refId: Yi20
@@ -1252,15 +3393,626 @@
     year: 2020
     journal: Cellular & Molecular Immunology
     journalShort: Cell Mol Immunol
-  antibodies:
-  - name: HA001
-    ec50: 16
-    ec50Note: PV
+  antibodies: HA001
   source: |-
     Phage display library (uncertain source) selected for SARS-CoV-2 RBD binding
-  description: |-
-    HA001 is an ACE2-competing neutralizing mAb.
-  dataAvailability: {}
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 16, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.06.044
+    refId: Kreer20
+    firstAuthor:
+      surname: Kreer
+      givenNames: Christoph
+    year: 2020
+    journal: Cell
+  antibodies: HbnC3t1p1_C6
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV1-58
+  shm: '0'
+  cdrh3_len: '16'
+  iglv: IGKV3-20
+  ic50: 40, IC100
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18058-8
+    refId: Ejemel20
+    firstAuthor:
+      surname: Ejemel
+      givenNames: Monir
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: mAb-362-IgA
+  source: |-
+    Transgenic HuMAb mice immunized with SARS-CoV-1 spike (SARS-CoV-2 RBD)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 1260, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18058-8
+    refId: Ejemel20
+    firstAuthor:
+      surname: Ejemel
+      givenNames: Monir
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: mAb-362-IgA-dimeric
+  source: |-
+    Transgenic HuMAb mice immunized with SARS-CoV-1 spike (SARS-CoV-2 RBD)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 30, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18058-8
+    refId: Ejemel20
+    firstAuthor:
+      surname: Ejemel
+      givenNames: Monir
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: mAb-362-IgA-secretory
+  source: |-
+    Transgenic HuMAb mice immunized with SARS-CoV-1 spike (SARS-CoV-2 RBD)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 9500, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18058-8
+    refId: Ejemel20
+    firstAuthor:
+      surname: Ejemel
+      givenNames: Monir
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: mAb-362-IgG
+  source: |-
+    Transgenic HuMAb mice immunized with SARS-CoV-1 spike (SARS-CoV-2 RBD)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '>50000, PV'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18159-4
+    refId: Noy-Porat20
+    firstAuthor:
+      surname: Noy-Porat
+      givenNames: Tal
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: MD65
+  source: |-
+    Convalescent B cell scFv library filtered from binding to SARS-CoV-2 trimeric spike and RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-66
+  shm: ''
+  cdrh3_len: '12'
+  iglv: IGKV3-20
+  ic50: '220'
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.06.044
+    refId: Kreer20
+    firstAuthor:
+      surname: Kreer
+      givenNames: Christoph
+    year: 2020
+    journal: Cell
+  antibodies: MnC2t1p1_A3
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-66
+  shm: '0.03'
+  cdrh3_len: '13'
+  iglv: IGKV1-12
+  ic50: 780, IC100
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.06.044
+    refId: Kreer20
+    firstAuthor:
+      surname: Kreer
+      givenNames: Christoph
+    year: 2020
+    journal: Cell
+  antibodies: MnC2t2p1_C11
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV1-69
+  shm: '0.03'
+  cdrh3_len: '23'
+  iglv: IGKV1-39
+  ic50: 255, IC100
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.06.044
+    refId: Kreer20
+    firstAuthor:
+      surname: Kreer
+      givenNames: Christoph
+    year: 2020
+    journal: Cell
+  antibodies: MnC4t2p1_B3
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-9
+  shm: '0.1'
+  cdrh3_len: '17'
+  iglv: IGKV1-12
+  ic50: 660, IC100
+  epitope_class: ''
+- references:
+  - doi: 10.1186/s12951-021-00768-w
+    refId: Lu21
+    firstAuthor:
+      surname: Lu
+      givenNames: Qizhong
+    year: 2021
+    journal: Journal of Nanobiotechnology
+    journalShort: J Nanobiotechnol
+  antibodies: monoNb3-hFc
+  source: |-
+    camel nanobody, +/- Fc fusion, mono- di- or tri-mer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 1779.8, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1186/s12951-021-00768-w
+    refId: Lu21
+    firstAuthor:
+      surname: Lu
+      givenNames: Qizhong
+    year: 2021
+    journal: Journal of Nanobiotechnology
+    journalShort: J Nanobiotechnol
+  antibodies: monoNb91-hFc
+  source: |-
+    camel nanobody, +/- Fc fusion, mono- di- or tri-mer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 2973.85, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.06.09.143438
+    refId: Li20d
+    firstAuthor:
+      surname: Li
+      givenNames: Tingting
+    year: 2020
+    journal: bioRxiv
+  antibodies: MR17
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3S53
+  shm: '0.21'
+  cdrh3_len: '14'
+  iglv: ''
+  ic50: 12000, PV
+  epitope_class: RBM 2
+- references:
+  - doi: 10.1101/2020.06.09.143438
+    refId: Li20d
+    firstAuthor:
+      surname: Li
+      givenNames: Tingting
+    year: 2020
+    journal: bioRxiv
+  antibodies: MR17-K99Y
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3S53
+  shm: '0.21'
+  cdrh3_len: '14'
+  iglv: ''
+  ic50: 500, PV
+  epitope_class: RBM 2
+- references:
+  - doi: 10.1101/2020.06.09.143438
+    refId: Li20d
+    firstAuthor:
+      surname: Li
+      givenNames: Tingting
+    year: 2020
+    journal: bioRxiv
+  antibodies: MR3
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3S53
+  shm: '0.2'
+  cdrh3_len: '14'
+  iglv: ''
+  ic50: 400, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.06.09.143438
+    refId: Li20d
+    firstAuthor:
+      surname: Li
+      givenNames: Tingting
+    year: 2020
+    journal: bioRxiv
+  antibodies: MR4
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3S53
+  shm: '0.22'
+  cdrh3_len: '14'
+  iglv: ''
+  ic50: 740, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.chom.2020.04.023
+    refId: Wu20b
+    firstAuthor:
+      surname: Wu
+      givenNames: Yanling
+    year: 2020
+    journal: Cell Host & Microbe
+  antibodies: n3088
+  source: |-
+    Human sdAb phage display library (seleccted for binding to S1 and RBD)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '2600'
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.chom.2020.04.023
+    refId: Wu20b
+    firstAuthor:
+      surname: Wu
+      givenNames: Yanling
+    year: 2020
+    journal: Cell Host & Microbe
+  antibodies: n3130
+  source: |-
+    Human sdAb phage display library (seleccted for binding to S1 and RBD)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '4000'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abe3255
+    refId: Schoof20
+    firstAuthor:
+      surname: Schoof
+      givenNames: Michael
+    year: 2020
+    journal: Science
+  antibodies: Nb11
+  source: |-
+    Synthetic phage display sdAb library selected for trimeric spike binding.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3-3
+  shm: '0.14000000000000001'
+  cdrh3_len: '12'
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.08.09.242867
+    refId: Gai20
+    firstAuthor:
+      surname: Gai
+      givenNames: Junwei
+    year: 2020
+    journal: bioRxiv
+  antibodies: Nb11-59
+  source: |-
+    Phage display library created from camels immunized with RBD and then filtered for RBD binding
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '550'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abe4747
+    refId: Xiang20
+    firstAuthor:
+      surname: Xiang
+      givenNames: Yufei
+    year: 2020
+    journal: Science
+  antibodies: nb20
+  source: |-
+    Phage display sdAb library created from llamas immunized with RBD.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3-3
+  shm: '0.15'
+  cdrh3_len: '12'
+  iglv: ''
+  ic50: '0.8'
+  epitope_class: RBM 3
+- references:
+  - doi: 10.1126/science.abe4747
+    refId: Xiang20
+    firstAuthor:
+      surname: Xiang
+      givenNames: Yufei
+    year: 2020
+    journal: Science
+  antibodies: nb21
+  source: |-
+    Phage display sdAb library created from llamas immunized with RBD.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '0.4'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abe3255
+    refId: Schoof20
+    firstAuthor:
+      surname: Schoof
+      givenNames: Michael
+    year: 2020
+    journal: Science
+  antibodies: Nb6
+  source: |-
+    Synthetic phage display sdAb library selected for trimeric spike binding.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3S53
+  shm: '0.17'
+  cdrh3_len: '12'
+  iglv: ''
+  ic50: '6300'
+  epitope_class: RBM 3
+- references:
+  - doi: 10.1126/science.abe3255
+    refId: Schoof20
+    firstAuthor:
+      surname: Schoof
+      givenNames: Michael
+    year: 2020
+    journal: Science
+  antibodies: Nb6-matured
+  source: |-
+    Synthetic phage display sdAb library selected for trimeric spike binding.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '180'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abe3255
+    refId: Schoof20
+    firstAuthor:
+      surname: Schoof
+      givenNames: Michael
+    year: 2020
+    journal: Science
+  antibodies: Nb6-matured-trimeric
+  source: |-
+    Synthetic phage display sdAb library selected for trimeric spike binding.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '2.4'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abe3255
+    refId: Schoof20
+    firstAuthor:
+      surname: Schoof
+      givenNames: Michael
+    year: 2020
+    journal: Science
+  antibodies: Nb6-trimeric
+  source: |-
+    Synthetic phage display sdAb library selected for trimeric spike binding.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '45'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abe4747
+    refId: Xiang20
+    firstAuthor:
+      surname: Xiang
+      givenNames: Yufei
+    year: 2020
+    journal: Science
+  antibodies: nb89
+  source: |-
+    Phage display sdAb library created from llamas immunized with RBD.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '2.4'
+  epitope_class: ''
+- references:
+  - doi: 10.1186/s12951-021-00768-w
+    refId: Lu21
+    firstAuthor:
+      surname: Lu
+      givenNames: Qizhong
+    year: 2021
+    journal: Journal of Nanobiotechnology
+    journalShort: J Nanobiotechnol
+  antibodies: Nb91-Nb3-hFc
+  source: |-
+    camel nanobody, +/- Fc fusion, mono- di- or tri-mer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 169.4, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41586-020-2380-z
+    refId: Ju20
+    firstAuthor:
+      surname: Ju
+      givenNames: Bin
+    year: 2020
+    journal: Nature
+  antibodies: P2B-2F6
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV4-38-2
+  shm: '0.01'
+  cdrh3_len: '20'
+  iglv: IGLV2-8
+  ic50: '410'
+  epitope_class: RBM 2
+- references:
+  - doi: 10.1038/s41586-020-2380-z
+    refId: Ju20
+    firstAuthor:
+      surname: Ju
+      givenNames: Bin
+    year: 2020
+    journal: Nature
+  antibodies: P2C-1A13
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '280'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41586-020-2380-z
+    refId: Ju20
+    firstAuthor:
+      surname: Ju
+      givenNames: Bin
+    year: 2020
+    journal: Nature
+  antibodies: P2C-1F11
+  source: |-
+    Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-66
+  shm: '0.04'
+  cdrh3_len: '11'
+  iglv: IGKV3-20
+  ic50: '30'
+  epitope_class: RBM 1
 - references:
   - doi: 10.1101/2020.10.07.328302
     refId: Andreano20
@@ -1269,26 +4021,242 @@
       givenNames: Emanuele
     year: 2020
     journal: bioRxiv
-  antibodies:
-  - name: PT-004
-    ec50: <3
-    ec50Note: IC100
-  - name: PT-100
-    ec50: <3
-    ec50Note: IC100
+  antibodies: PT-004
   source: |-
     Convalescent memory B cells (SARS-CoV-2 trimeric spike).
-  description: |-
-    Two highly potent ACE2-competing neutralizing mAbs were identified.
-  dataAvailability: {}
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: <3, IC100
+  epitope_class: ''
 - references:
-  - freeText: (U. Cologne / Boehringer Ingelheim)
-  antibodies:
-  - name: DZIF-10c
-  description: |-
-    DZIF-10c is a mAb targeting the SARS-CoV-2 spike protein being studied in a phase I trial.
-  dataAvailability:
-    trial: true
+  - doi: 10.1101/2020.10.07.328302
+    refId: Andreano20
+    firstAuthor:
+      surname: Andreano
+      givenNames: Emanuele
+    year: 2020
+    journal: bioRxiv
+  antibodies: PT-100
+  source: |-
+    Convalescent memory B cells (SARS-CoV-2 trimeric spike).
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: <3, IC100
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.07.27.224089
+    refId: Beasley20
+    firstAuthor:
+      surname: Beasley
+      givenNames: Matthew D.
+    year: 2020
+    journal: bioRxiv
+  antibodies: RU169-178-diabody
+  source: |-
+    Retained Display scFv display platform selected for RBD and Spike binding and engineered to produce diabodies and Fc fusions.
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '2000'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.07.27.224089
+    refId: Beasley20
+    firstAuthor:
+      surname: Beasley
+      givenNames: Matthew D.
+    year: 2020
+    journal: bioRxiv
+  antibodies: RU169-178-IgG
+  source: |-
+    Retained Display scFv display platform selected for RBD and Spike binding and engineered to produce diabodies and Fc fusions.
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '1300'
+  epitope_class: ''
+- references:
+  - doi: 10.1101/2020.07.27.224089
+    refId: Beasley20
+    firstAuthor:
+      surname: Beasley
+      givenNames: Matthew D.
+    year: 2020
+    journal: bioRxiv
+  antibodies: RU169-178-scFv
+  source: |-
+    Retained Display scFv display platform selected for RBD and Spike binding and engineered to produce diabodies and Fc fusions.
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '2200'
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.09.037
+    refId: Piccoli20
+    firstAuthor:
+      surname: Piccoli
+      givenNames: Luca
+    year: 2020
+    journal: Cell
+  antibodies: S2H13
+  source: |-
+    Convalescent memory B cells (SARS-CoV-2 trimeric spike)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-7
+  shm: '0.04'
+  cdrh3_len: '13'
+  iglv: IGLV7-46
+  ic50: 500, PV
+  epitope_class: RBM 2
+- references:
+  - doi: 10.1016/j.cell.2020.09.037
+    refId: Piccoli20
+    firstAuthor:
+      surname: Piccoli
+      givenNames: Luca
+    year: 2020
+    journal: Cell
+  antibodies: S2H14
+  source: |-
+    Convalescent memory B cells (SARS-CoV-2 trimeric spike)
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: IGHV3-15
+  shm: '0'
+  cdrh3_len: '17'
+  iglv: IGLV6-57
+  ic50: 900, PV
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1038/s41467-020-19204-y
+    refId: Custodio20
+    firstAuthor:
+      surname: Custódio
+      givenNames: Tânia F.
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: Sb23
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3-3
+  shm: '0.14000000000000001'
+  cdrh3_len: '8'
+  iglv: ''
+  ic50: '600'
+  epitope_class: RBM 2
+- references:
+  - doi: 10.1101/2020.06.09.143438
+    refId: Li20d
+    firstAuthor:
+      surname: Li
+      givenNames: Tingting
+    year: 2020
+    journal: bioRxiv
+  antibodies: SR4
+  source: |-
+    Synthetic phage display sdAb library selected for RBD binding.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3-3
+  shm: '0.14000000000000001'
+  cdrh3_len: '8'
+  iglv: ''
+  ic50: 5900, PV
+  epitope_class: RBM 1
+- references:
+  - doi: 10.1186/s12951-021-00768-w
+    refId: Lu21
+    firstAuthor:
+      surname: Lu
+      givenNames: Qizhong
+    year: 2021
+    journal: Journal of Nanobiotechnology
+    journalShort: J Nanobiotechnol
+  antibodies: triNb3-hFc
+  source: |-
+    camel nanobody, +/- Fc fusion, mono- di- or tri-mer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 775.5, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1186/s12951-021-00768-w
+    refId: Lu21
+    firstAuthor:
+      surname: Lu
+      givenNames: Qizhong
+    year: 2021
+    journal: Journal of Nanobiotechnology
+    journalShort: J Nanobiotechnol
+  antibodies: triNb91-hFc
+  source: |-
+    camel nanobody, +/- Fc fusion, mono- di- or tri-mer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 806.85, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41467-020-18174-5
+    refId: Hanke20
+    firstAuthor:
+      surname: Hanke
+      givenNames: Leo
+    year: 2020
+    journal: Nature Communications
+    journalShort: Nat Commun
+  antibodies: Ty1
+  source: |-
+    Phage display sdAb library created from alpaca immunized with S1-Fc and RBD.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3S1
+  shm: '0.17'
+  cdrh3_len: '11'
+  iglv: ''
+  ic50: PV, 770
+  epitope_class: RBM 2
 - references:
   - doi: 10.1038/s41589-020-00679-1
     refId: Bracken20
@@ -1298,58 +4266,536 @@
     year: 2020
     journal: Nature Chemical Biology
     journalShort: Nat Chem Biol
-  antibodies:
-  - name: VH2-A01-B01
-    ec50: 347
-  - name: VH2-A01-B02
-    ec50: 743
-  - name: VH-Fc-B01
-    ec50: 2613
-  - name: VH3-B01
-    ec50: 176
+  antibodies: VH2-A01-B01
   source: |-
     Synthetic VH phage display sdAb library selected for RBD binding engineered to form VH2, VH3, and VH-Fc fusions.
-  description: |-
-    VH-A01, VH-B01, and VH-B02 are ACE2-competing neutralizing sdAbs. Trivalent VH3-B01 binds three spike RBDs - 2 in the up and 1 in the down configuration.
-  dataAvailability:
-    sequence: true
-    structure: true
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '347'
+  epitope_class: ''
 - references:
-  - doi: 10.1126/science.abe4747
-    refId: Xiang20
+  - doi: 10.1038/s41589-020-00679-1
+    refId: Bracken20
     firstAuthor:
-      surname: Xiang
-      givenNames: Yufei
+      surname: Bracken
+      givenNames: Colton J.
     year: 2020
+    journal: Nature Chemical Biology
+    journalShort: Nat Chem Biol
+  antibodies: VH2-A01-B02
+  source: |-
+    Synthetic VH phage display sdAb library selected for RBD binding engineered to form VH2, VH3, and VH-Fc fusions.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '743'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41589-020-00679-1
+    refId: Bracken20
+    firstAuthor:
+      surname: Bracken
+      givenNames: Colton J.
+    year: 2020
+    journal: Nature Chemical Biology
+    journalShort: Nat Chem Biol
+  antibodies: VH3-B01
+  source: |-
+    Synthetic VH phage display sdAb library selected for RBD binding engineered to form VH2, VH3, and VH-Fc fusions.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '176'
+  epitope_class: ''
+- references:
+  - doi: 10.1080/19420862.2020.1778435
+    refId: Sun20
+    firstAuthor:
+      surname: Sun
+      givenNames: Zehua
+    year: 2020
+    journal: mAbs
+  antibodies: VH-Ab6-Fc
+  source: |-
+    Human sdAb CDR2 and CDR3 VH phage display library selected for RBD binding.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '350'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41589-020-00679-1
+    refId: Bracken20
+    firstAuthor:
+      surname: Bracken
+      givenNames: Colton J.
+    year: 2020
+    journal: Nature Chemical Biology
+    journalShort: Nat Chem Biol
+  antibodies: VH-Fc-B01
+  source: |-
+    Synthetic VH phage display sdAb library selected for RBD binding engineered to form VH2, VH3, and VH-Fc fusions.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '2613'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abe6230
+    refId: Koenig21
+    firstAuthor:
+      surname: Koenig
+      givenNames: Paul-Albert
+    year: 2021
     journal: Science
-  antibodies:
-  - name: nb20
-    ec50: 0.8
-  - name: nb21
-    ec50: 0.4
-  - name: nb89
-    ec50: 2.4
+  antibodies: VHH E
   source: |-
-    Phage display sdAb library created from llamas immunized with RBD.
-  description: |-
-    nb20 is an ACE2-competing neutralizing sdAb that binds to RBD in its down configuration. Nb20 and nb21 homotrimers were associated with 30-fold increased inhibition in pseudovirus assays.
-  dataAvailability:
-    sequence: true
-    structure: true
+    alpaca or llama immunized with SARS-CoV-2 spike RBD and inactivated virus
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3-3
+  shm: '0.16'
+  cdrh3_len: '22'
+  iglv: ''
+  ic50: '0.72'
+  epitope_class: RBM 2
 - references:
-  - doi: 10.1101/2020.12.29.424482
-    refId: Veesler20
+  - doi: 10.1126/science.abe6230
+    refId: Koenig21
     firstAuthor:
-      surname: Sauer
-      givenNames: Maximilian M.
-    year: 2020
-    journal: bioRxiv
-  antibodies:
-  - name: B6
+      surname: Koenig
+      givenNames: Paul-Albert
+    year: 2021
+    journal: Science
+  antibodies: VHH EV
   source: |-
-    Mice immunized with MERS-CoV trimeric S followed by SARS-CoV trimeric S
-  description: |-
-    B6 is an mAb targeting a conserved linear S2 stem helix epitope. It modestly neutralizes MERS-CoV, HCoV-OC43, and HCoV-HKU4. It binds to but does not neutralize SARS-CoV and SARS-CoV-2
-  dataAvailability:
-    sequence: true
-    structure: true
+    alpaca or llama immunized with SARS-CoV-2 spike RBD and inactivated virus
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '0.021000'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abe6230
+    refId: Koenig21
+    firstAuthor:
+      surname: Koenig
+      givenNames: Paul-Albert
+    year: 2021
+    journal: Science
+  antibodies: VHH U
+  source: |-
+    alpaca or llama immunized with SARS-CoV-2 spike RBD and inactivated virus
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3-3
+  shm: '0.13'
+  cdrh3_len: '19'
+  iglv: ''
+  ic50: '2.775'
+  epitope_class: RBD Core 1
+- references:
+  - doi: 10.1126/science.abe6230
+    refId: Koenig21
+    firstAuthor:
+      surname: Koenig
+      givenNames: Paul-Albert
+    year: 2021
+    journal: Science
+  antibodies: VHH V
+  source: |-
+    alpaca or llama immunized with SARS-CoV-2 spike RBD and inactivated virus
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3S1
+  shm: '0.12'
+  cdrh3_len: '15'
+  iglv: ''
+  ic50: '2.13'
+  epitope_class: RBD Core 1
+- references:
+  - doi: 10.1126/science.abe6230
+    refId: Koenig21
+    firstAuthor:
+      surname: Koenig
+      givenNames: Paul-Albert
+    year: 2021
+    journal: Science
+  antibodies: VHH VE
+  source: |-
+    alpaca or llama immunized with SARS-CoV-2 spike RBD and inactivated virus
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '0.039600'
+  epitope_class: ''
+- references:
+  - doi: 10.1126/science.abe6230
+    refId: Koenig21
+    firstAuthor:
+      surname: Koenig
+      givenNames: Paul-Albert
+    year: 2021
+    journal: Science
+  antibodies: VHH W
+  source: |-
+    alpaca or llama immunized with SARS-CoV-2 spike RBD and inactivated virus
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3-3
+  shm: '0.13'
+  cdrh3_len: '19'
+  iglv: ''
+  ic50: '1.215'
+  epitope_class: RBD Core 1
+- references:
+  - doi: 10.1016/j.cell.2020.04.031
+    refId: Wrapp20
+    firstAuthor:
+      surname: Wrapp
+      givenNames: Daniel
+    year: 2020
+    journal: Cell
+  antibodies: VHH-55
+  source: |-
+    Phage display sdAb library created from llamas immunized with SARS-CoV-1 and MERS-CoV trimeric spike. mAbs selected for binding to SARS-CoV-1 or MERS-CoV spike.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: IGHV3S53
+  shm: '0.24'
+  cdrh3_len: '14'
+  iglv: ''
+  ic50: ''
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.cell.2020.04.031
+    refId: Wrapp20
+    firstAuthor:
+      surname: Wrapp
+      givenNames: Daniel
+    year: 2020
+    journal: Cell
+  antibodies: VHH-72-Fc
+  source: |-
+    Phage display sdAb library created from llamas immunized with SARS-CoV-1 and MERS-CoV trimeric spike. mAbs selected for binding to SARS-CoV-1 or MERS-CoV spike.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '200'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41598-021-82833-w
+    refId: ValenzuelaNieto21
+    firstAuthor:
+      surname: Valenzuela Nieto
+      givenNames: Guillermo
+    year: 2021
+    journal: Scientific Reports
+    journalShort: Sci Rep
+  antibodies: VHH-72-FcM
+  source: |-
+    alpaca nanobody, +/- Fc fusion, M suffix = monomer otherwise dimer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '70840'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41598-021-82833-w
+    refId: ValenzuelaNieto21
+    firstAuthor:
+      surname: Valenzuela Nieto
+      givenNames: Guillermo
+    year: 2021
+    journal: Scientific Reports
+    journalShort: Sci Rep
+  antibodies: VHH-72-FcM
+  source: |-
+    alpaca nanobody, +/- Fc fusion, M suffix = monomer otherwise dimer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '67870'
+  epitope_class: ''
+- references:
+  - doi: 10.1080/19420862.2020.1778435
+    refId: Sun20
+    firstAuthor:
+      surname: Sun
+      givenNames: Zehua
+    year: 2020
+    journal: mAbs
+  antibodies: VH-M397-Fc
+  source: |-
+    Human sdAb CDR2 and CDR3 VH phage display library selected for RBD binding.
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '1500'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41598-021-82833-w
+    refId: ValenzuelaNieto21
+    firstAuthor:
+      surname: Valenzuela Nieto
+      givenNames: Guillermo
+    year: 2021
+    journal: Scientific Reports
+    journalShort: Sci Rep
+  antibodies: W25
+  source: |-
+    alpaca nanobody, +/- Fc fusion, M suffix = monomer otherwise dimer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '147.3'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41598-021-82833-w
+    refId: ValenzuelaNieto21
+    firstAuthor:
+      surname: Valenzuela Nieto
+      givenNames: Guillermo
+    year: 2021
+    journal: Scientific Reports
+    journalShort: Sci Rep
+  antibodies: W25
+  source: |-
+    alpaca nanobody, +/- Fc fusion, M suffix = monomer otherwise dimer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '76.35'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41598-021-82833-w
+    refId: ValenzuelaNieto21
+    firstAuthor:
+      surname: Valenzuela Nieto
+      givenNames: Guillermo
+    year: 2021
+    journal: Scientific Reports
+    journalShort: Sci Rep
+  antibodies: W25Fc
+  source: |-
+    alpaca nanobody, +/- Fc fusion, M suffix = monomer otherwise dimer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '812.9'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41598-021-82833-w
+    refId: ValenzuelaNieto21
+    firstAuthor:
+      surname: Valenzuela Nieto
+      givenNames: Guillermo
+    year: 2021
+    journal: Scientific Reports
+    journalShort: Sci Rep
+  antibodies: W25Fc
+  source: |-
+    alpaca nanobody, +/- Fc fusion, M suffix = monomer otherwise dimer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '405.9'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41598-021-82833-w
+    refId: ValenzuelaNieto21
+    firstAuthor:
+      surname: Valenzuela Nieto
+      givenNames: Guillermo
+    year: 2021
+    journal: Scientific Reports
+    journalShort: Sci Rep
+  antibodies: W25FcM
+  source: |-
+    alpaca nanobody, +/- Fc fusion, M suffix = monomer otherwise dimer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '1507'
+  epitope_class: ''
+- references:
+  - doi: 10.1038/s41598-021-82833-w
+    refId: ValenzuelaNieto21
+    firstAuthor:
+      surname: Valenzuela Nieto
+      givenNames: Guillermo
+    year: 2021
+    journal: Scientific Reports
+    journalShort: Sci Rep
+  antibodies: W25FcM
+  source: |-
+    alpaca nanobody, +/- Fc fusion, M suffix = monomer otherwise dimer
+  status: ''
+  type: nanobody
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '679.8'
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.celrep.2021.108699
+    refId: Zhou21
+    firstAuthor:
+      surname: Zhou
+      givenNames: Yunjiao
+    year: 2021
+    journal: Cell Reports
+  antibodies: XG005
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 6.1, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.celrep.2021.108699
+    refId: Zhou21
+    firstAuthor:
+      surname: Zhou
+      givenNames: Yunjiao
+    year: 2021
+    journal: Cell Reports
+  antibodies: XG014
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: '5.1'
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.celrep.2021.108699
+    refId: Zhou21
+    firstAuthor:
+      surname: Zhou
+      givenNames: Yunjiao
+    year: 2021
+    journal: Cell Reports
+  antibodies: XG016
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 9.1, PV
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.celrep.2021.108699
+    refId: Zhou21
+    firstAuthor:
+      surname: Zhou
+      givenNames: Yunjiao
+    year: 2021
+    journal: Cell Reports
+  antibodies: XG027
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 15.7,PV
+  epitope_class: ''
+- references:
+  - doi: 10.1016/j.celrep.2021.108699
+    refId: Zhou21
+    firstAuthor:
+      surname: Zhou
+      givenNames: Yunjiao
+    year: 2021
+    journal: Cell Reports
+  antibodies: XG038
+  status: ''
+  type: mAb
+  pdb: ''
+  ighv: ''
+  shm: ''
+  cdrh3_len: ''
+  iglv: ''
+  ic50: 12.7, PV
+  epitope_class: ''

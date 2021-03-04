@@ -5,10 +5,10 @@ level: aminoAcid
 hideCitations: false
 colorRules: []
 citations:
-- doi: 10.1101/2020.11.06.372037
+- doi: 10.1016/j.chom.2021.01.014
   author: Liu
   year: 2020
-  section: Table 2
+  section: Table S1
   aminoAcids:
   - 477GN
   - 478I
