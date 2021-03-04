@@ -9,6 +9,7 @@ tables:
   MAbs:
     tableStyle:
       tableLayout: fixed
+    # when change this schema, and dataset, make sure covdb search page also changed.
     columnDefs:
     - name: antibodies
       label: mAb name
