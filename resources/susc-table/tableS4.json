@@ -254,11 +254,35 @@
             },
             {
                 "strain": "P.1",
+                "rx": "BNT162b2",
+                "s_fold": 8,
+                "i_fold": 1,
+                "r_fold": 1,
+                "reference": "Wang21c"
+            },
+            {
+                "strain": "P.1",
                 "rx": "CP",
                 "s_fold": 2,
                 "i_fold": 6,
                 "r_fold": 1,
                 "reference": "Hoffmann21"
+            },
+            {
+                "strain": "P.1",
+                "rx": "CP",
+                "s_fold": 12,
+                "i_fold": 7,
+                "r_fold": 1,
+                "reference": "Wang21c"
+            },
+            {
+                "strain": "P.1",
+                "rx": "mRNA-1273",
+                "s_fold": 5,
+                "i_fold": 7,
+                "r_fold": 0,
+                "reference": "Wang21c"
             }
         ]
     }

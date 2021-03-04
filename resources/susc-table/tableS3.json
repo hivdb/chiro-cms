@@ -18,48 +18,48 @@
         "cp": 376,
         "ip": 419,
         "phase3": 416,
-        "structure": 427
+        "structure": 432
     },
     {
         "strain": "All individual mutations",
         "cp": 499,
         "ip": 530,
         "phase3": 473,
-        "structure": 453
+        "structure": 458
     },
     {
         "strain": "B.1.1.7",
-        "cp": 97,
-        "ip": 201,
-        "phase3": 27,
-        "structure": 19
+        "cp": 96,
+        "ip": 200,
+        "phase3": 22,
+        "structure": 17
     },
     {
         "strain": "B.1.351",
-        "cp": 116,
-        "ip": 111,
-        "phase3": 27,
-        "structure": 11
+        "cp": 115,
+        "ip": 110,
+        "phase3": 22,
+        "structure": 9
     },
     {
         "strain": "P.1",
-        "cp": 9,
-        "ip": 20,
-        "phase3": 3,
-        "structure": 0
+        "cp": 29,
+        "ip": 42,
+        "phase3": 10,
+        "structure": 2
     },
     {
         "strain": "Other muation combinations",
-        "cp": 312,
-        "ip": 305,
-        "phase3": 118,
-        "structure": 165
+        "cp": 314,
+        "ip": 307,
+        "phase3": 128,
+        "structure": 169
     },
     {
         "strain": "All combinations of mutations",
-        "cp": 534,
-        "ip": 637,
-        "phase3": 175,
-        "structure": 195
+        "cp": 554,
+        "ip": 659,
+        "phase3": 182,
+        "structure": 197
     }
 ]
