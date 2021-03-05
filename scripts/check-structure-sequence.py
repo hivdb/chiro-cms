@@ -4,13 +4,15 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
-ABDAB_FILE = 'CoV-AbDab_140221.csv'
+ABDAB_FILE = 'CoV-AbDab_280221.csv'
 RENAME_MAB_ABDAB2MAb = {
     'MR17_K99Y': 'MR17-K99Y',
     'S2-M11': 'S2M11',
     'S2-E12': 'S2E12',
+    'Fab2-7': '2-7',
     'Fab2-4': '2-4',
     'Fab2-51': '2-51',
+    'Fab1-57': '1-57',
     'Fab5-24': '5-24',
     'Fab1-87': '1-87',
     'Fab4-18': '4-18',
@@ -396,7 +398,7 @@ def validate_structures(structures):
 
     invalid_records = get_invalid_null_records(structures, [
         'mAb Target', 'Epitope(<=4.5Å)',
-        'ACE2-Competing', '%ACE2 Overlap', 'PDB Spike'])
+        'ACE2-Competing', 'PDB Spike'])
 
     for item in invalid_records:
         print('Invalid structure record', item)

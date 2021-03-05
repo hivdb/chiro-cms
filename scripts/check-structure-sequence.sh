@@ -8,7 +8,7 @@ mkdir -p "${CSVDIR}"
 
 cd $(dirname $0)/..
 
-pipenv run xlsx2csv "${XLSXDIR}/MAbSummary.xlsx" "${CSVDIR}/MAbs.csv" -n MAbs
+pipenv run xlsx2csv "${XLSXDIR}/MAbSummary.xlsx" "${CSVDIR}/MAbs.csv" -n "__pending_removal_MAbs"
 pipenv run xlsx2csv "${XLSXDIR}/MAbSummary.xlsx" "${CSVDIR}/Structures.csv" -n "Structure meta"
 pipenv run xlsx2csv "${XLSXDIR}/MAbSummary.xlsx" "${CSVDIR}/Sequences.csv" -n "Sequences"
 
