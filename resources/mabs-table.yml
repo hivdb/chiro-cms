@@ -19,9 +19,9 @@
     Plasmablasts from mice immunized with RBD and trimeric spike.
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV2-9-1
-  shm: '0'
+  shm: 0
   cdrh3_len: '15'
   iglv: IGLV1
   ic50: '37'
@@ -47,9 +47,9 @@
     Plasmablasts from mice immunized with RBD and trimeric spike.
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV2-9-1
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '14'
   iglv: IGLV1
   ic50: '1.5'
@@ -75,9 +75,9 @@
     Plasmablasts from mice immunized with RBD and trimeric spike.
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV1-55
-  shm: '0.06'
+  shm: 6
   cdrh3_len: '13'
   iglv: IGKV5-48
   ic50: '300'
@@ -110,7 +110,7 @@
     Hybridomas from humanized H2L2 transgenic mice immunized with trimeric S from SARS-CoV-1, MERS-CoV, and HCoV-OC43 (SARS-CoV-2 RBD)
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: 7AKD
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -131,9 +131,9 @@
     Naïve B cell Fab and scFv phage display library (RBD)
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV3-53
-  shm: '0'
+  shm: 0
   cdrh3_len: '11'
   iglv: IGKV4-1
   ic50: '195'
@@ -151,9 +151,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: 7BZ5
   ighv: IGHV3-53
-  shm: '0.01'
+  shm: 1
   cdrh3_len: '9'
   iglv: IGKV1-9
   ic50: '180'
@@ -178,9 +178,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: 7BYR
   ighv: IGHV7-4-1
-  shm: '0'
+  shm: 0
   cdrh3_len: '19'
   iglv: IGKV1-5
   ic50: ''
@@ -205,9 +205,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: 7CHB
   ighv: IGHV3-53
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '12'
   iglv: ''
   ic50: ''
@@ -232,9 +232,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: 7CHH
   ighv: IGHV3-23
-  shm: '0.09'
+  shm: 9
   cdrh3_len: '18'
   iglv: IGKV2-28
   ic50: '15'
@@ -259,7 +259,7 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV3-53
   shm: ''
   cdrh3_len: '11'
@@ -286,7 +286,7 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV3-53
   shm: ''
   cdrh3_len: '11'
@@ -313,7 +313,7 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV3-66
   shm: ''
   cdrh3_len: ''
@@ -340,7 +340,7 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -367,9 +367,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: 7CH4
   ighv: IGHV3-53
-  shm: '0.05'
+  shm: 5
   cdrh3_len: '11'
   iglv: ''
   ic50: '5'
@@ -394,7 +394,7 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -421,7 +421,7 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -448,7 +448,7 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -475,9 +475,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: 7CH5
   ighv: IGHV3-53
-  shm: '0.04'
+  shm: 4
   cdrh3_len: '11'
   iglv: IGKV3-20
   ic50: '4'
@@ -502,7 +502,7 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -529,9 +529,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: 6XC2
   ighv: IGHV3-53
-  shm: '0.02'
+  shm: 2
   cdrh3_len: '11'
   iglv: IGKV1-9
   ic50: '46'
@@ -556,9 +556,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: 6XC4
   ighv: IGHV3-53
-  shm: '0.04'
+  shm: 4
   cdrh3_len: '11'
   iglv: IGKV3-20
   ic50: ''
@@ -583,9 +583,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV7-4-1
-  shm: '0.08'
+  shm: 8
   cdrh3_len: '15'
   iglv: IGKV1-39
   ic50: 2, PV
@@ -610,9 +610,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV1-69
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '18'
   iglv: IGKV1-39
   ic50: 1, PV
@@ -645,9 +645,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV1-2
-  shm: '0.04'
+  shm: 4
   cdrh3_len: '23'
   iglv: IGLV1-44
   ic50: '125'
@@ -680,7 +680,7 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -715,9 +715,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV1-58
-  shm: '0.02'
+  shm: 2
   cdrh3_len: '16'
   iglv: IGKV3-20
   ic50: ''
@@ -750,9 +750,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV1-58
-  shm: '0.04'
+  shm: 4
   cdrh3_len: '16'
   iglv: IGKV3-20
   ic50: ''
@@ -785,7 +785,7 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -805,9 +805,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV3-11
-  shm: '0.01'
+  shm: 1
   cdrh3_len: '12'
   iglv: IGKV1-33
   ic50: '3.1'
@@ -825,7 +825,7 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: 6XKP
   ighv: IGHV3-11
   shm: ''
   cdrh3_len: '22'
@@ -845,9 +845,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV1-2
-  shm: '0'
+  shm: 0
   cdrh3_len: '19'
   iglv: IGKV2-40
   ic50: '900'
@@ -866,7 +866,7 @@
     Convalescent memory B cells (SARS-CoV-2 RBD) engineered to have LALA mutations.
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -887,7 +887,7 @@
     Convalescent memory B cells (SARS-CoV-2 RBD) engineered to have LALA mutations.
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -908,7 +908,7 @@
     Convalescent memory B cells (SARS-CoV-2 RBD) engineered to have LALA mutations.
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -942,9 +942,9 @@
     Transgenic VelocImmune mice immunized with SARS-CoV-2 trimeric S and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV3-15
-  shm: '0.01'
+  shm: 1
   cdrh3_len: '11'
   iglv: IGKV1-33
   ic50: '4.5'
@@ -976,9 +976,9 @@
     Transgenic VelocImmune mice immunized with SARS-CoV-2 trimeric S and RBD
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: IGHV1-2
-  shm: '0.06'
+  shm: 6
   cdrh3_len: '16'
   iglv: IGLV2-14
   ic50: '1.1'
@@ -996,9 +996,9 @@
     Convalescent memory B cells (SARS-CoV-2 trimeric spike)
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: 7K4N
   ighv: IGHV1-58
-  shm: '0.04'
+  shm: 4
   cdrh3_len: '16'
   iglv: IGKV3-20
   ic50: '4.2'
@@ -1016,9 +1016,9 @@
     Convalescent memory B cells (SARS-CoV-2 trimeric spike)
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: 7K43
   ighv: IGHV1-2
-  shm: '7.0000000000000007E-2'
+  shm: 7
   cdrh3_len: '18'
   iglv: IGKV3-20
   ic50: '1.2'
@@ -1036,7 +1036,7 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1056,7 +1056,7 @@
     Phage display scFv library created from naïve individuals screened for S1 binding and inhibition of S1-ACE2 binding.
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1076,7 +1076,7 @@
     Phage display scFv library created from naïve individuals screened for S1 binding and inhibition of S1-ACE2 binding.
   status: animal model
   type: mAb
-  pdb: animal model
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1087,7 +1087,7 @@
   antibodies: Bamlanivimab + Etesevimab
   status: EUA
   type: mAb
-  pdb: EUA
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1122,13 +1122,13 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
   status: EUA
   type: mAb
-  pdb: EUA
+  pdb: 7KMG
   ighv: IGHV1-69
-  shm: '0.01'
+  shm: 1
   cdrh3_len: '18'
   iglv: IGKV1-39
   ic50: '10'
-  epitope_class: RBM 1
+  epitope_class: RBM 2
 - references:
   - doi: 10.1126/science.abd0827
     refId: Hansen20
@@ -1156,9 +1156,9 @@
     Transgenic VelocImmune mice immunized with SARS-CoV-2 trimeric S and RBD
   status: EUA
   type: mAb
-  pdb: EUA
+  pdb: 6XDG
   ighv: IGHV3-11
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '13'
   iglv: IGKV1-33
   ic50: '8'
@@ -1176,9 +1176,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   status: EUA
   type: mAb
-  pdb: EUA
+  pdb: 7C01
   ighv: IGHV3-66
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '13'
   iglv: IGKV1-39
   ic50: '835'
@@ -1210,9 +1210,9 @@
     Transgenic VelocImmune mice immunized with SARS-CoV-2 trimeric S and RBD
   status: EUA
   type: mAb
-  pdb: EUA
+  pdb: 6XDG
   ighv: IGHV3-30
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '13'
   iglv: IGLV2-14
   ic50: '6'
@@ -1221,7 +1221,7 @@
   antibodies: REGN-COV2 (Casirivimab + Imdevimab)
   status: EUA
   type: mAb
-  pdb: EUA
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1242,9 +1242,9 @@
     scFv phage display library of uncertain origin selected for RBD binding
   status: EUA(in SK)
   type: mAb
-  pdb: EUA(in SK)
+  pdb: 7CM4
   ighv: IGHV2-70
-  shm: '0.1'
+  shm: 10
   cdrh3_len: '20'
   iglv: IGLV1-51
   ic50: '8.4'
@@ -1253,7 +1253,7 @@
   antibodies: ABBV-47D11
   status: Phase1
   type: mAb
-  pdb: Phase1
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1264,7 +1264,7 @@
   antibodies: ADG20
   status: Phase1
   type: mAb
-  pdb: Phase1
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1275,7 +1275,7 @@
   antibodies: ADM03820
   status: Phase1
   type: mAb
-  pdb: Phase1
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1316,9 +1316,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   status: Phase1
   type: mAb
-  pdb: Phase1
+  pdb: 7K8Z
   ighv: IGHV3-30
-  shm: '0.04'
+  shm: 4
   cdrh3_len: '12'
   iglv: IGKV1-5
   ic50: 3, PV
@@ -1357,9 +1357,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   status: Phase1
   type: mAb
-  pdb: Phase1
+  pdb: 7K90
   ighv: IGHV3-53
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '25'
   iglv: IGLV2-14
   ic50: 2.6, PV
@@ -1368,7 +1368,7 @@
   antibodies: C144-LS + C-135-LS
   status: Phase1
   type: mAb
-  pdb: Phase1
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1379,7 +1379,7 @@
   antibodies: DXP604
   status: Phase1
   type: mAb
-  pdb: Phase1
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1390,7 +1390,7 @@
   antibodies: HFB30132A
   status: Phase1
   type: mAb
-  pdb: Phase1
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1401,7 +1401,7 @@
   antibodies: HLX70
   status: Phase1
   type: mAb
-  pdb: Phase1
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1412,7 +1412,7 @@
   antibodies: JMB2002
   status: Phase1
   type: mAb
-  pdb: Phase1
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1423,7 +1423,7 @@
   antibodies: LY-CovMab
   status: Phase1
   type: mAb
-  pdb: Phase1
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1434,7 +1434,7 @@
   antibodies: COR-101
   status: Phase1/2
   type: mAb
-  pdb: Phase1/2
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1445,7 +1445,7 @@
   antibodies: BI 767551, DZIF-10c
   status: Phase1/2
   type: mAb
-  pdb: Phase1/2
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1456,7 +1456,7 @@
   antibodies: COVI-AMG (STI-2020)
   status: Phase2
   type: mAb
-  pdb: Phase2
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1467,7 +1467,7 @@
   antibodies: DXP593
   status: Phase2
   type: mAb
-  pdb: Phase2
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1478,7 +1478,7 @@
   antibodies: MW33
   status: Phase2
   type: mAb
-  pdb: Phase2
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1489,7 +1489,7 @@
   antibodies: SCTA01
   status: Phase2/3
   type: mAb
-  pdb: Phase2/3
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1516,9 +1516,9 @@
     SARS-CoV-1 convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD(Pinto20). bnAbs ADI-55688, 55689 and 56046 (see Wec20)(Rappazzo21)
   status: Phase2/3
   type: mAb
-  pdb: Phase2/3
+  pdb: 6WPS
   ighv: IGHV1-18
-  shm: '0.06'
+  shm: 6
   cdrh3_len: '20'
   iglv: IGKV3-20
   ic50: 80(Pinto20), 240(Rappazzo21)
@@ -1527,7 +1527,7 @@
   antibodies: AZD7442 (Tixagevimab + Cilgavimab)
   status: Phase3
   type: mAb
-  pdb: Phase3
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1538,7 +1538,7 @@
   antibodies: BRII-196
   status: Phase3
   type: mAb
-  pdb: Phase3
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1549,7 +1549,7 @@
   antibodies: BRII-198
   status: Phase3
   type: mAb
-  pdb: Phase3
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1584,9 +1584,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
   status: Phase3
   type: mAb
-  pdb: Phase3
+  pdb: 7L7E
   ighv: IGHV3-15
-  shm: '0.04'
+  shm: 4
   cdrh3_len: '22'
   iglv: IGKV4-1
   ic50: '105'
@@ -1619,9 +1619,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD and trimeric spike
   status: Phase3
   type: mAb
-  pdb: Phase3
+  pdb: 7L7D
   ighv: IGHV1-58
-  shm: '0.02'
+  shm: 2
   cdrh3_len: '16'
   iglv: IGKV3-20
   ic50: '15'
@@ -1630,7 +1630,7 @@
   antibodies: TY027
   status: Phase3
   type: mAb
-  pdb: Phase3
+  pdb: ''
   ighv: ''
   shm: ''
   cdrh3_len: ''
@@ -1652,7 +1652,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV4-59
-  shm: '0.04'
+  shm: 4
   cdrh3_len: '18'
   iglv: IGKV3-15
   ic50: '40'
@@ -1692,7 +1692,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV3-53
-  shm: '0.02'
+  shm: 2
   cdrh3_len: '11'
   iglv: IGKV1-9
   ic50: '7.5'
@@ -1737,9 +1737,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7LS9
   ighv: IGHV3-72
-  shm: '0.02'
+  shm: 2
   cdrh3_len: '21'
   iglv: IGKV3-20
   ic50: '7.5'
@@ -1760,7 +1760,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV3-30
-  shm: '0.18'
+  shm: 18
   cdrh3_len: '14'
   iglv: ''
   ic50: '240'
@@ -1819,9 +1819,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7L5B
   ighv: IGHV1-2
-  shm: '0.05'
+  shm: 5
   cdrh3_len: '22'
   iglv: IGLV2-14
   ic50: '0.8'
@@ -1841,7 +1841,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV1-69
-  shm: '0.01'
+  shm: 1
   cdrh3_len: '17'
   iglv: IGKV3-15
   ic50: '6'
@@ -1859,9 +1859,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 6XEY
   ighv: IGHV1-2
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '15'
   iglv: IGLV2-8
   ic50: ''
@@ -1881,7 +1881,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV1-2
-  shm: '0.02'
+  shm: 2
   cdrh3_len: '22'
   iglv: IGLV2-14
   ic50: ''
@@ -1899,9 +1899,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7LSS
   ighv: IGHV2-5
-  shm: '0'
+  shm: 0
   cdrh3_len: '11'
   iglv: IGLV2-14
   ic50: '3'
@@ -1942,7 +1942,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV3-23
-  shm: '0.17'
+  shm: 17
   cdrh3_len: '18'
   iglv: ''
   ic50: '294'
@@ -2001,9 +2001,9 @@
     mice immunized with a recombinant protein containing the SARS-CoV-2 RBD fused with a C-terminal mouse IgG Fc (RBD-mFc) by using the conventional hybridoma technology
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7DK5
   ighv: IGHV2-5-1
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '11'
   iglv: IGKV3-10
   ic50: '7'
@@ -2083,9 +2083,9 @@
     mice immunized with a recombinant protein containing the SARS-CoV-2 RBD fused with a C-terminal mouse IgG Fc (RBD-mFc) by using the conventional hybridoma technology
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7DD2
   ighv: IGHV3S1
-  shm: '0.04'
+  shm: 4
   cdrh3_len: '13'
   iglv: IGKV6-23
   ic50: '3127'
@@ -2126,7 +2126,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV3-23
-  shm: '0.2'
+  shm: 20
   cdrh3_len: '18'
   iglv: ''
   ic50: '372'
@@ -2146,7 +2146,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV3-23
-  shm: '0.2'
+  shm: 20
   cdrh3_len: '18'
   iglv: ''
   ic50: ''
@@ -2207,7 +2207,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV1-69
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '18'
   iglv: IGLV3-1
   ic50: '9'
@@ -2225,9 +2225,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7C2L
   ighv: IGHV1-24
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '21'
   iglv: IGKV2-24
   ic50: '610'
@@ -2248,7 +2248,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV3-23
-  shm: '0.18'
+  shm: 18
   cdrh3_len: '18'
   iglv: ''
   ic50: '125'
@@ -2296,7 +2296,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV3-9
-  shm: '0.02'
+  shm: 2
   cdrh3_len: '16'
   iglv: IGKV1-39
   ic50: '11'
@@ -2323,7 +2323,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV5-51
-  shm: '0.06'
+  shm: 6
   cdrh3_len: '13'
   iglv: IGKV1-39
   ic50: '39'
@@ -2341,9 +2341,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7L2F
   ighv: IGHV3-33
-  shm: '0.05'
+  shm: 5
   cdrh3_len: '22'
   iglv: IGKV3-20
   ic50: '7.5'
@@ -2370,7 +2370,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV1-58
-  shm: '0.04'
+  shm: 4
   cdrh3_len: '16'
   iglv: IGKV3-20
   ic50: '10'
@@ -2411,7 +2411,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV3-30
-  shm: '0.16'
+  shm: 16
   cdrh3_len: '18'
   iglv: ''
   ic50: '511'
@@ -2809,9 +2809,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7K8S
   ighv: IGHV3-30
-  shm: '0.02'
+  shm: 2
   cdrh3_len: '17'
   iglv: IGKV1-39
   ic50: 8.9, PV
@@ -2850,9 +2850,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7K8U
   ighv: IGHV4-34
-  shm: '0.06'
+  shm: 6
   cdrh3_len: '17'
   iglv: IGKV3-20
   ic50: ''
@@ -2891,9 +2891,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 6XCN
   ighv: IGHV3-53
-  shm: '0.01'
+  shm: 1
   cdrh3_len: '12'
   iglv: IGLV2-8
   ic50: 26.1, PV
@@ -2932,9 +2932,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7K8X
   ighv: IGHV1-2
-  shm: '0.02'
+  shm: 2
   cdrh3_len: '22'
   iglv: IGLV2-23
   ic50: 1.6, PV
@@ -3026,9 +3026,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7JMW
   ighv: IGHV1-46
-  shm: '0.01'
+  shm: 1
   cdrh3_len: '22'
   iglv: IGKV1-33
   ic50: '745'
@@ -3062,7 +3062,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV3-66
-  shm: '0'
+  shm: 0
   cdrh3_len: '12'
   iglv: IGLV7-46
   ic50: '7'
@@ -3094,9 +3094,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7JMO
   ighv: IGHV3-53
-  shm: '0.02'
+  shm: 2
   cdrh3_len: '12'
   iglv: IGKV3-20
   ic50: '2500'
@@ -3130,7 +3130,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV3-23
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '22'
   iglv: IGKV2-30
   ic50: '9'
@@ -3162,9 +3162,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7JMP
   ighv: IGHV3-53
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '17'
   iglv: IGLV2-23
   ic50: '54'
@@ -3197,9 +3197,9 @@
     SARS-CoV-1 scFv phage display library (irradiated SARS-Cov-1)
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 6YLA
   ighv: IGHV5-51
-  shm: '0.09'
+  shm: 9
   cdrh3_len: '12'
   iglv: IGKV4-1
   ic50: '114'
@@ -3225,9 +3225,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 trimeric spike and RBD
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 6XE1
   ighv: IGHV3-53
-  shm: '0.02'
+  shm: 2
   cdrh3_len: '12'
   iglv: IGKV3-20
   ic50: '118'
@@ -3274,9 +3274,9 @@
     Plasmablasts from SARS-CoV-2 infected persons filtered for binding to SARS-CoV-2 trimeric spike and S1
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 6ZER
   ighv: IGHV3-30
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '14'
   iglv: IGKV1-39
   ic50: '70'
@@ -3296,7 +3296,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV7-4-1
-  shm: '0.06'
+  shm: 6
   cdrh3_len: '11'
   iglv: IGKV1-33
   ic50: 280, IC100
@@ -3314,9 +3314,9 @@
     Phage display library created from mice immunized with SARS-CoV-1 and SARS-CoV-2 RBD (SARS-CoV-2 RBD) (humanized)
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7CAH
   ighv: IGHV1-69-2
-  shm: '0.2'
+  shm: 20
   cdrh3_len: '13'
   iglv: IGKV6-21
   ic50: '570'
@@ -3356,9 +3356,9 @@
     Phage display sdAb library created from naïve llamas. mAbs selected for RBD binding and then fused with an Fc domain.
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 6ZHD
   ighv: IGHV3-3
-  shm: '0.08'
+  shm: 8
   cdrh3_len: '20'
   iglv: ''
   ic50: '600'
@@ -3420,7 +3420,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV1-58
-  shm: '0'
+  shm: 0
   cdrh3_len: '16'
   iglv: IGKV3-20
   ic50: 40, IC100
@@ -3545,7 +3545,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV3-66
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '13'
   iglv: IGKV1-12
   ic50: 780, IC100
@@ -3565,7 +3565,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV1-69
-  shm: '0.03'
+  shm: 3
   cdrh3_len: '23'
   iglv: IGKV1-39
   ic50: 255, IC100
@@ -3585,7 +3585,7 @@
   type: mAb
   pdb: ''
   ighv: IGHV3-9
-  shm: '0.1'
+  shm: 10
   cdrh3_len: '17'
   iglv: IGKV1-12
   ic50: 660, IC100
@@ -3645,9 +3645,9 @@
     Synthetic phage display sdAb library selected for RBD binding.
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 7C8W
   ighv: IGHV3S53
-  shm: '0.21'
+  shm: 21
   cdrh3_len: '14'
   iglv: ''
   ic50: 12000, PV
@@ -3665,9 +3665,9 @@
     Synthetic phage display sdAb library selected for RBD binding.
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 7CAN
   ighv: IGHV3S53
-  shm: '0.21'
+  shm: 21
   cdrh3_len: '14'
   iglv: ''
   ic50: 500, PV
@@ -3687,7 +3687,7 @@
   type: nanobody
   pdb: ''
   ighv: IGHV3S53
-  shm: '0.2'
+  shm: 20
   cdrh3_len: '14'
   iglv: ''
   ic50: 400, PV
@@ -3707,7 +3707,7 @@
   type: nanobody
   pdb: ''
   ighv: IGHV3S53
-  shm: '0.22'
+  shm: 22
   cdrh3_len: '14'
   iglv: ''
   ic50: 740, PV
@@ -3767,7 +3767,7 @@
   type: nanobody
   pdb: ''
   ighv: IGHV3-3
-  shm: '0.14000000000000001'
+  shm: 14
   cdrh3_len: '12'
   iglv: ''
   ic50: ''
@@ -3805,9 +3805,9 @@
     Phage display sdAb library created from llamas immunized with RBD.
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 7JVB
   ighv: IGHV3-3
-  shm: '0.15'
+  shm: 15
   cdrh3_len: '12'
   iglv: ''
   ic50: '0.8'
@@ -3845,9 +3845,9 @@
     Synthetic phage display sdAb library selected for trimeric spike binding.
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 7KKK
   ighv: IGHV3S53
-  shm: '0.17'
+  shm: 17
   cdrh3_len: '12'
   iglv: ''
   ic50: '6300'
@@ -3966,9 +3966,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7BWJ
   ighv: IGHV4-38-2
-  shm: '0.01'
+  shm: 1
   cdrh3_len: '20'
   iglv: IGLV2-8
   ic50: '410'
@@ -4006,9 +4006,9 @@
     Convalescent memory B cells filtered for binding to SARS-CoV-2 RBD
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7CDI
   ighv: IGHV3-66
-  shm: '0.04'
+  shm: 4
   cdrh3_len: '11'
   iglv: IGKV3-20
   ic50: '30'
@@ -4126,9 +4126,9 @@
     Convalescent memory B cells (SARS-CoV-2 trimeric spike)
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7JV6
   ighv: IGHV3-7
-  shm: '0.04'
+  shm: 4
   cdrh3_len: '13'
   iglv: IGLV7-46
   ic50: 500, PV
@@ -4146,9 +4146,9 @@
     Convalescent memory B cells (SARS-CoV-2 trimeric spike)
   status: ''
   type: mAb
-  pdb: ''
+  pdb: 7JX3
   ighv: IGHV3-15
-  shm: '0'
+  shm: 0
   cdrh3_len: '17'
   iglv: IGLV6-57
   ic50: 900, PV
@@ -4167,9 +4167,9 @@
     Synthetic phage display sdAb library selected for RBD binding.
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 7A29
   ighv: IGHV3-3
-  shm: '0.14000000000000001'
+  shm: 14
   cdrh3_len: '8'
   iglv: ''
   ic50: '600'
@@ -4187,9 +4187,9 @@
     Synthetic phage display sdAb library selected for RBD binding.
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 7C8V
   ighv: IGHV3-3
-  shm: '0.14000000000000001'
+  shm: 14
   cdrh3_len: '8'
   iglv: ''
   ic50: 5900, PV
@@ -4250,9 +4250,9 @@
     Phage display sdAb library created from alpaca immunized with S1-Fc and RBD.
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 6ZXN
   ighv: IGHV3S1
-  shm: '0.17'
+  shm: 17
   cdrh3_len: '11'
   iglv: ''
   ic50: PV, 770
@@ -4374,9 +4374,9 @@
     alpaca or llama immunized with SARS-CoV-2 spike RBD and inactivated virus
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 7KN5
   ighv: IGHV3-3
-  shm: '0.16'
+  shm: 16
   cdrh3_len: '22'
   iglv: ''
   ic50: '0.72'
@@ -4414,9 +4414,9 @@
     alpaca or llama immunized with SARS-CoV-2 spike RBD and inactivated virus
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 7KN5
   ighv: IGHV3-3
-  shm: '0.13'
+  shm: 13
   cdrh3_len: '19'
   iglv: ''
   ic50: '2.775'
@@ -4434,9 +4434,9 @@
     alpaca or llama immunized with SARS-CoV-2 spike RBD and inactivated virus
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 7KN6
   ighv: IGHV3S1
-  shm: '0.12'
+  shm: 12
   cdrh3_len: '15'
   iglv: ''
   ic50: '2.13'
@@ -4474,9 +4474,9 @@
     alpaca or llama immunized with SARS-CoV-2 spike RBD and inactivated virus
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 7KN7
   ighv: IGHV3-3
-  shm: '0.13'
+  shm: 13
   cdrh3_len: '19'
   iglv: ''
   ic50: '1.215'
@@ -4494,9 +4494,9 @@
     Phage display sdAb library created from llamas immunized with SARS-CoV-1 and MERS-CoV trimeric spike. mAbs selected for binding to SARS-CoV-1 or MERS-CoV spike.
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 6WAR
   ighv: IGHV3S53
-  shm: '0.24'
+  shm: 24
   cdrh3_len: '14'
   iglv: ''
   ic50: ''
@@ -4514,7 +4514,7 @@
     Phage display sdAb library created from llamas immunized with SARS-CoV-1 and MERS-CoV trimeric spike. mAbs selected for binding to SARS-CoV-1 or MERS-CoV spike.
   status: ''
   type: nanobody
-  pdb: ''
+  pdb: 6WAQ
   ighv: ''
   shm: ''
   cdrh3_len: ''

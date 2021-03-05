@@ -280,9 +280,13 @@ def import_mab_summary(input_mabcsv, refid_lookup, output_yaml):
 
         groupobj['status'] = get_first(row, 'status')
         groupobj['type'] = get_first(row, 'type')
-        groupobj['pdb'] = get_first(row, 'status')
+        groupobj['pdb'] = get_first(row, 'pdb')
         groupobj['ighv'] = get_first(row, 'ighv')
-        groupobj['shm'] = get_first(row, 'shm(%)')
+
+        shm = get_first(row, 'shm(%)')
+        if shm:
+            shm = round(float(shm) * 100)
+        groupobj['shm'] = shm
         groupobj['cdrh3_len'] = get_first(row, 'cdrh3 length')
         groupobj['iglv'] = get_first(row, 'iglv')
         groupobj['ic50'] = get_first(row, 'ic50(live, ng/ml or pv: ng/ml)')

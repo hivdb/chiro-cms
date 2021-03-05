@@ -26,7 +26,7 @@ tables:
     - name: pdb
       label: PDB
     - name: status
-      label: status
+      label: Status
     - name: ighv
       label: IGHV
     - name: shm
