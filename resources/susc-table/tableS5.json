@@ -25,6 +25,20 @@
             },
             {
                 "strain": "B.1.1.7",
+                "rx": "Tixagevimab + Cilgavimab",
+                "mab_class": "",
+                "fold": "0.5",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Vir-7831+S2E12",
+                "mab_class": "",
+                "fold": "0.7",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "B.1.1.7",
                 "rx": "4A8",
                 "mab_class": "NTD",
                 "fold": "&gt;100",
@@ -78,6 +92,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "3.1",
                 "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Sotrovimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "13",
+                "reference": "Diamond21"
             },
             {
                 "strain": "B.1.1.7",
@@ -165,10 +186,24 @@
             },
             {
                 "strain": "B.1.1.7",
+                "rx": "S2E12",
+                "mab_class": "RBM Class I",
+                "fold": "0.7",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "B.1.1.7",
                 "rx": "S2H14",
                 "mab_class": "RBM Class I",
                 "fold": "&gt;100",
                 "reference": "Collier21"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Tixagevimab",
+                "mab_class": "RBM Class I",
+                "fold": "1.7",
+                "reference": "Diamond21"
             },
             {
                 "strain": "B.1.1.7",
@@ -197,6 +232,13 @@
                 "mab_class": "RBM Class II",
                 "fold": "0.4",
                 "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "Cilgavimab",
+                "mab_class": "RBM Class II",
+                "fold": "0.5",
+                "reference": "Diamond21"
             },
             {
                 "strain": "B.1.1.7",
@@ -254,6 +296,20 @@
             },
             {
                 "strain": "B.1.351",
+                "rx": "Tixagevimab + Cilgavimab",
+                "mab_class": "",
+                "fold": "0.8",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Vir-7831+S2E12",
+                "mab_class": "",
+                "fold": "0.6",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "B.1.351",
                 "rx": "4A8",
                 "mab_class": "NTD",
                 "fold": "&gt;100",
@@ -286,6 +342,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.6",
                 "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Sotrovimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1",
+                "reference": "Diamond21"
             },
             {
                 "strain": "B.1.351",
@@ -345,6 +408,20 @@
             },
             {
                 "strain": "B.1.351",
+                "rx": "S2E12",
+                "mab_class": "RBM Class I",
+                "fold": "0.4",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Tixagevimab",
+                "mab_class": "RBM Class I",
+                "fold": "1.7",
+                "reference": "Diamond21"
+            },
+            {
+                "strain": "B.1.351",
                 "rx": "Tixagevimab",
                 "mab_class": "RBM Class I",
                 "fold": "3.5",
@@ -377,6 +454,13 @@
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
                 "reference": "Wang21b"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "Cilgavimab",
+                "mab_class": "RBM Class II",
+                "fold": "0.3",
+                "reference": "Diamond21"
             },
             {
                 "strain": "B.1.351",
