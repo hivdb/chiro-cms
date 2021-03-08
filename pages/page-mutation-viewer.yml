@@ -28,6 +28,12 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351.yml
     <<: *common-props
+  phl-b-1-1-28:
+    name: phl-b-1-1-28
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/phl-b-1-1-28.yml
+    <<: *common-props
   b-1-526:
     name: b-1-526
     height: 250

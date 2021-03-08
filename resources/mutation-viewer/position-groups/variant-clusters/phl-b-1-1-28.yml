@@ -1,0 +1,48 @@
+name: phl-b-1-1-28
+positions:
+- name: PL:D735G  # ORF1ab:D1554G
+  pos: 4925
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: nsp4:L437P  # ORF1ab:L3201P
+  pos: 9867
+  <<: *non-spike
+- name: nsp6:D111E # ORF1ab:D3681E
+  pos: 11308
+  <<: *non-spike
+- name: nsp7:L71F  # ORF1ab:L3930F
+  pos: 12053
+  <<: *non-spike
+- name: RdRP:P323L  # ORF1ab:P4715L
+  pos: 14407
+  <<: *non-spike
+- name: nsp13:A367V # ORF1ab:A5692V
+  pos: 17339
+  <<: *non-spike
+- name: LGV141-143del
+  label: ∆141-143
+  pos: 21981
+- name: E484K
+  pos: 23012
+- name: N501Y
+  pos: 23063
+- name: D614G
+  pos: 23403
+- name: P681H
+  pos: 23604
+- name: E1092K
+  pos: 24836
+- name: H1101Y
+  pos: 24863
+- name: V1176F
+  pos: 25088
+- name: ORF8:K2Q
+  pos: 27897
+  <<: *non-spike
+- name: N:R203K
+  pos: 28881
+  <<: *non-spike
+- name: N:G204R
+  pos: 28883
+  <<: *non-spike

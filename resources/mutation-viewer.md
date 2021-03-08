@@ -67,6 +67,28 @@ Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SA
 
 ## Other variants
 
+<!-- PHL-B.1.1.28 -->
+<section id="sec_phl-b-1-1-28" class="figure-section wrap">
+
+<div class="figure-image">
+
+[genomemap]
+phl-b-1-1-28
+[/genomemap]
+
+</div>
+
+<div class="figure-caption">
+
+### [PHL-B.1.1.28](#phl-b-1-1-28)
+
+Tablizo FA, Kim KM, et int., and Saloma CP. “Genome sequencing and analysis of an emergent SARS-CoV-2 variant characterized by multiple spike protein mutations detected from the Central Visayas Region of the Philippines.” _bioRxiv_, 2021. [doi.org/10.1101/2021.03.03.21252812](https://doi.org/10.1101/2021.03.03.21252812
+). [^Tablizo21]
+
+</div>
+
+</section>
+
 <!-- B.1.141 -->
 <section id="sec_n439k" class="figure-section wrap">
 
