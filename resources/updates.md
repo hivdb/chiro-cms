@@ -79,6 +79,17 @@ Instruction:
 ## Database Entries
 
 ### March 2021
+- March 09
+    - Faulkner N, Ng KW, et int., and Kassiotis G. [“Reduced antibody cross-reactivity following infection with B.1.1.7 than with parental SARS-CoV-2 strains.”](/search/?article=Faulkner21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.01.433314](https://doi.org/10.1101/2021.03.01.433314).
+    - López-Medina E, López P, et int., and Caicedo I. [“Effect of Ivermectin on Time to Resolution of Symptoms Among Adults With Mild COVID-19.”](/search/?article=Lopez-Medina21) _JAMA_, 2021. [doi.org/10.1001/jama.2021.3071](https://doi.org/10.1001/jama.2021.3071). \[[PubMed33662102](https://www.ncbi.nlm.nih.gov/pubmed/33662102/)\]
+    - Marot S, Malet I, et int., and Marcelin A. [“Neutralization heterogeneity of United Kingdom and South-African SARS-CoV-2 variants in BNT162b2-vaccinated or convalescent COVID-19 healthcare workers.”](/search/?article=Marot21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.05.434089](https://doi.org/10.1101/2021.03.05.434089).
+    - Moyo-Gwete T, Madzivhandila M, et int., and Moore PL. [“SARS-CoV-2 501Y.V2 (B.1.351) elicits cross-reactive neutralizing antibodies.”](/search/?article=Moyo-Gwete21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.06.434193](https://doi.org/10.1101/2021.03.06.434193).
+    - Rondinone V, Pace L, et int., and Galante D. [“VOC 202012/01 Variant Is Effectively Neutralized by Antibodies Produced by Patients Infected before Its Diffusion in Italy.”](/search/?article=Rondinone21) _Viruses_, 2021. [doi.org/10.3390/v13020276](https://doi.org/10.3390/v13020276). \[[PubMed33670182](https://www.ncbi.nlm.nih.gov/pubmed/33670182/)\] \[[PMC7916909](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7916909/)\]
+    - Tablizo FA, Kim KM, et int., and Saloma CP. [“Genome sequencing and analysis of an emergent SARS-CoV-2 variant characterized by multiple spike protein mutations detected from the Central Visayas Region of the Philippines.”](/search/?article=Tablizo21) _medRxiv_, 2021. [doi.org/10.1101/2021.03.03.21252812](https://doi.org/10.1101/2021.03.03.21252812).
+    - Trinité B, Pradenas E, et int., and Blanco J. [“Previous SARS-CoV-2 infection increases B.1.1.7 cross-neutralization by vaccinated individuals.”](/search/?article=Trinite21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.05.433800](https://doi.org/10.1101/2021.03.05.433800).
+    - Wang P, Wang M, et int., and Ho DD. [“Increased Resistance of SARS-CoV-2 Variant P.1 to Antibody Neutralization.”](/search/?article=Wang21d) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.01.433466](https://doi.org/10.1101/2021.03.01.433466).
+    - Wang L, Zhou T, et int., and Misasi J. [“Antibodies with potent and broad neutralizing activity against antigenically diverse and highly transmissible SARS-CoV-2 variants.”](/search/?article=Wang21e) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.25.432969](https://doi.org/10.1101/2021.02.25.432969). \[[PubMed33655252](https://www.ncbi.nlm.nih.gov/pubmed/33655252/)\] \[[PMC7924272](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7924272/)\]
+    - Updated: Chen RE, Zhang X, et int., and Diamond MS. [“Resistance of SARS-CoV-2 variants to neutralization by monoclonal and serum-derived polyclonal antibodies.”](/search/?article=Diamond21) _Nature Medicine_, 2021. [doi.org/10.1038/s41591-021-01294-w](https://doi.org/10.1038/s41591-021-01294-w). \[[PubMed33664494](https://www.ncbi.nlm.nih.gov/pubmed/33664494/)\]
 - March 03
     - Bessière P, Wasniewski M, et int., and Volmer R. [“Intranasal type I interferon treatment is beneficial only when administered before clinical signs onset in the SARS-CoV-2 hamster model.”](/search/?article=Bessiere21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.09.430458](https://doi.org/10.1101/2021.02.09.430458).
     - Good SS, Westover J, et int., and Sommadossi J. [“AT-527, a double prodrug of a guanosine nucleotide analog, is a potent inhibitor of SARS-CoV-2 in vitro and a promising oral antiviral for treatment of COVID-19.”](/search/?article=Good21) _Antimicrobial Agents and Chemotherapy_, 2021. [doi.org/10.1128/aac.02479-20](https://doi.org/10.1128/aac.02479-20). \[[PubMed33558299](https://www.ncbi.nlm.nih.gov/pubmed/33558299/)\]
@@ -1053,6 +1064,13 @@ Instruction:
 <!-- start of clinical trials -->
 
 ## Clinical Trials
+
+### March 2021
+- March 04
+    - [3 clinical trials were added.](/clinical-trials/?fromDate=2021-03-04)
+    - NCT04779879
+    - NCT04780321
+    - NCT04784481
 
 ### February 2021
 - February 25

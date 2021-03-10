@@ -22,6 +22,34 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Susceptibility data updated (Mar 09)
+
+- [Susceptibility data](https://covdb.stanford.edu/page/susceptibility-data/)
+
+### New Variants (Mar 09)
+
+- [PHL-B.1.1.28](https://covdb.stanford.edu/page/mutation-viewer/#phl-b.1.1.28)
+
+### Database Entries (Mar 09)
+Faulkner N, Ng KW, et int., and Kassiotis G. [“Reduced antibody cross-reactivity following infection with B.1.1.7 than with parental SARS-CoV-2 strains.”](/search/?article=Faulkner21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.01.433314](https://doi.org/10.1101/2021.03.01.433314).
+### Database Entries (Mar 09)
+López-Medina E, López P, et int., and Caicedo I. [“Effect of Ivermectin on Time to Resolution of Symptoms Among Adults With Mild COVID-19.”](/search/?article=Lopez-Medina21) _JAMA_, 2021. [doi.org/10.1001/jama.2021.3071](https://doi.org/10.1001/jama.2021.3071). \[[PubMed33662102](https://www.ncbi.nlm.nih.gov/pubmed/33662102/)\]
+### Database Entries (Mar 09)
+Marot S, Malet I, et int., and Marcelin A. [“Neutralization heterogeneity of United Kingdom and South-African SARS-CoV-2 variants in BNT162b2-vaccinated or convalescent COVID-19 healthcare workers.”](/search/?article=Marot21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.05.434089](https://doi.org/10.1101/2021.03.05.434089).
+### Database Entries (Mar 09)
+Moyo-Gwete T, Madzivhandila M, et int., and Moore PL. [“SARS-CoV-2 501Y.V2 (B.1.351) elicits cross-reactive neutralizing antibodies.”](/search/?article=Moyo-Gwete21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.06.434193](https://doi.org/10.1101/2021.03.06.434193).
+### Database Entries (Mar 09)
+Rondinone V, Pace L, et int., and Galante D. [“VOC 202012/01 Variant Is Effectively Neutralized by Antibodies Produced by Patients Infected before Its Diffusion in Italy.”](/search/?article=Rondinone21) _Viruses_, 2021. [doi.org/10.3390/v13020276](https://doi.org/10.3390/v13020276). \[[PubMed33670182](https://www.ncbi.nlm.nih.gov/pubmed/33670182/)\] \[[PMC7916909](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7916909/)\]
+### Database Entries (Mar 09)
+Tablizo FA, Kim KM, et int., and Saloma CP. [“Genome sequencing and analysis of an emergent SARS-CoV-2 variant characterized by multiple spike protein mutations detected from the Central Visayas Region of the Philippines.”](/search/?article=Tablizo21) _medRxiv_, 2021. [doi.org/10.1101/2021.03.03.21252812](https://doi.org/10.1101/2021.03.03.21252812).
+### Database Entries (Mar 09)
+Trinité B, Pradenas E, et int., and Blanco J. [“Previous SARS-CoV-2 infection increases B.1.1.7 cross-neutralization by vaccinated individuals.”](/search/?article=Trinite21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.05.433800](https://doi.org/10.1101/2021.03.05.433800).
+### Database Entries (Mar 09)
+Wang P, Wang M, et int., and Ho DD. [“Increased Resistance of SARS-CoV-2 Variant P.1 to Antibody Neutralization.”](/search/?article=Wang21d) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.01.433466](https://doi.org/10.1101/2021.03.01.433466).
+### Database Entries (Mar 09)
+Wang L, Zhou T, et int., and Misasi J. [“Antibodies with potent and broad neutralizing activity against antigenically diverse and highly transmissible SARS-CoV-2 variants.”](/search/?article=Wang21e) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.25.432969](https://doi.org/10.1101/2021.02.25.432969). \[[PubMed33655252](https://www.ncbi.nlm.nih.gov/pubmed/33655252/)\] \[[PMC7924272](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7924272/)\]
+### [Clinical Trials (Mar 04)](/page/updates/#clinical.trials)
+[3 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-03-04)
 ### Database Entries (Mar 03)
 Bessière P, Wasniewski M, et int., and Volmer R. [“Intranasal type I interferon treatment is beneficial only when administered before clinical signs onset in the SARS-CoV-2 hamster model.”](/search/?article=Bessiere21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.09.430458](https://doi.org/10.1101/2021.02.09.430458).
 ### Database Entries (Mar 03)
@@ -78,7 +106,3 @@ Joaquín Cáceres C, Cardenas-Garcia S, et int., and Perez DR. [“Efficacy of G
 Li W, Schäfer A, et int., and Dimitrov DS. [“High Potency of a Bivalent Human VH Domain in SARS-CoV-2 Animal Models.”](/search/?article=Li20j) _Cell_, 2020. [doi.org/10.1016/j.cell.2020.09.007](https://doi.org/10.1016/j.cell.2020.09.007). \[[PubMed32941803](https://www.ncbi.nlm.nih.gov/pubmed/32941803/)\] \[[PMC7473018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7473018/)\]
 ### Database Entries (Feb 09)
 Rappazzo CG, Tse LV, et int., and Walker LM. [“Broad and potent activity against SARS-like viruses by an engineered human monoclonal antibody.”](/search/?article=Rappazzo21) _Science_, 2021. [doi.org/10.1126/science.abf4830](https://doi.org/10.1126/science.abf4830). \[[PubMed33495307](https://www.ncbi.nlm.nih.gov/pubmed/33495307/)\]
-### Database Entries (Feb 06)
-Joyner MJ, Carter RE, et int., and Casadevall A. [“Convalescent Plasma Antibody Levels and the Risk of Death from Covid-19.”](/search/?article=Joyner21) _New England Journal of Medicine_, 2021. [doi.org/10.1056/nejmoa2031893](https://doi.org/10.1056/nejmoa2031893). \[[PubMed33523609](https://www.ncbi.nlm.nih.gov/pubmed/33523609/)\] \[[PMC7821984](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7821984/)\]
-### [Clinical Trials (Feb 04)](/page/updates/#clinical.trials)
-[6 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-02-04)
