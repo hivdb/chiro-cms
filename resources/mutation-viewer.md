@@ -23,6 +23,27 @@ Rambaut A, Loman N, et int., and Volz E. “Preliminary genomic characterisation
 
 </section>
 
+<!-- B.1.1.7 E484K-->
+<section id="sec_b-1-1-7-484k" class="figure-section wrap">
+
+<div class="figure-image">
+
+[genomemap]
+b-1-1-7-484k
+[/genomemap]
+
+</div>
+
+<div class="figure-caption">
+
+### [B.1.1.7 with S:E484K](#sec_b-1-1-7-484k)
+
+Latif AA, Gangavarapu K, et int., and the Center for Viral Systems Biology . [“B.1.1.7 Lineage with S:E484K Report.”](https://outbreak.info/situation-reports?country=United%20Kingdom&country=United%20States&division=California&pango=B.1.1.7&muts=S%3AE484K&selected=United%20States&selectedType=country) outbreak.info, 2021. [^B117E484]
+
+</div>
+
+</section>
+
 <!-- B.1.351 -->
 <section id="sec_b-1-351" class="figure-section wrap">
 

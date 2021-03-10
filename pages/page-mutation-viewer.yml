@@ -22,6 +22,20 @@ genomeMaps:
       hidePositionAxis: true
       .:
         _resource: mutation-viewer/sars2-regions.yml
+  b-1-1-7-484k:
+    name: b-1-1-7-484k
+    height: 260
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-7-484k.yml
+    <<: &common-props
+      label: ""
+      width: 1520
+      paddingLeft: 60
+      paddingRight: 60
+      paddingTop: 0
+      hidePositionAxis: true
+      .:
+        _resource: mutation-viewer/sars2-regions.yml
   b-1-351:
     name: b-1-351
     height: 250

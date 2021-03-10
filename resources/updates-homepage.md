@@ -22,6 +22,10 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### New Variants (Mar 09)
+
+- [B.1.1.7 with S:E484K](https://covdb.stanford.edu/page/mutation-viewer/#sec_b-1-1-7-484k)
+
 ### Susceptibility data updated (Mar 09)
 
 - [Susceptibility data](https://covdb.stanford.edu/page/susceptibility-data/)
