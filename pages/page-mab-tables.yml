@@ -1,6 +1,9 @@
 ---
 pageTitle: Monoclonal Antibodies
 heroImage: mab-tables-bg.jpg
+toc: true
+tocFloat: none
+escapeHtml: false
 introHeader: |-
   SARS-CoV-2 Monoclonal Antibodies Tracker
 content:
@@ -45,7 +48,28 @@ tables:
         width: 13rem
     data:
       _resource: mabs-table.json
-
-toc: false
-escapeHtml: false
+  InTrial:
+    columnDefs:
+    - name: population
+      label: Population
+    - name: results.intervention
+      label: Intervention
+      multiCells: true
+    - name: results.trial
+      label: Trial
+      multiCells: true
+    - name: results.population
+      label: Population
+      multiCells: true
+    - name: results.treatment
+      label: Treatment
+      multiCells: true
+    - name: results.endpoint
+      label: Endpoint
+      multiCells: true
+    - name: results.finding
+      label: Finding
+      multiCells: true
+    data:
+      _resource: mabs-in-trial.json
 ...
