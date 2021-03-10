@@ -11,13 +11,19 @@
     s_fold: 20
     i_fold: 4
     r_fold: 0
-    reference: Diamond21
+    reference: Diamond21*
   - strain: B.1.1.7
     rx: BNT162b2
     s_fold: 15
     i_fold: 0
     r_fold: 0
     reference: Hoffmann21
+  - strain: B.1.1.7
+    rx: BNT162b2
+    s_fold: 17
+    i_fold: 12
+    r_fold: 0
+    reference: Marot21*
   - strain: B.1.1.7
     rx: BNT162b2
     s_fold: 40
@@ -37,6 +43,12 @@
     r_fold: 0
     reference: Wang21b
   - strain: B.1.1.7
+    rx: BNT162b2
+    s_fold: 10
+    i_fold: 0
+    r_fold: 0
+    reference: Wang21b*
+  - strain: B.1.1.7
     rx: CP
     s_fold: 0
     i_fold: 27
@@ -47,7 +59,13 @@
     s_fold: 18
     i_fold: 1
     r_fold: 0
-    reference: Diamond21
+    reference: Diamond21*
+  - strain: B.1.1.7
+    rx: CP
+    s_fold: 16
+    i_fold: 4
+    r_fold: 0
+    reference: Edara21*
   - strain: B.1.1.7
     rx: CP
     s_fold: 8
@@ -62,6 +80,12 @@
     reference: Hu21
   - strain: B.1.1.7
     rx: CP
+    s_fold: 6
+    i_fold: 3
+    r_fold: 0
+    reference: Marot21*
+  - strain: B.1.1.7
+    rx: CP
     s_fold: 13
     i_fold: 2
     r_fold: 0
@@ -73,17 +97,41 @@
     r_fold: 1
     reference: Wang21b
   - strain: B.1.1.7
+    rx: CP
+    s_fold: 20
+    i_fold: 0
+    r_fold: 0
+    reference: Wang21b*
+  - strain: B.1.1.7
     rx: CP(8M)
     s_fold: 11
     i_fold: 8
     r_fold: 0
     reference: Hu21
   - strain: B.1.1.7
+    rx: CP_Mild
+    s_fold: 9
+    i_fold: 1
+    r_fold: 0
+    reference: Faulkner21*
+  - strain: B.1.1.7
+    rx: CP_Patient
+    s_fold: 18
+    i_fold: 2
+    r_fold: 0
+    reference: Faulkner21*
+  - strain: B.1.1.7
     rx: NVX-CoV
     s_fold: 20
     i_fold: 7
     r_fold: 1
     reference: Shen21
+  - strain: B.1.1.7
+    rx: mRNA-1273
+    s_fold: 14
+    i_fold: 0
+    r_fold: 0
+    reference: Edara21*
   - strain: B.1.1.7
     rx: mRNA-1273
     s_fold: 30
@@ -98,6 +146,12 @@
     reference: Wang21b
   - strain: B.1.1.7
     rx: mRNA-1273
+    s_fold: 12
+    i_fold: 0
+    r_fold: 0
+    reference: Wang21b*
+  - strain: B.1.1.7
+    rx: mRNA-1273
     s_fold: 8
     i_fold: 0
     r_fold: 0
@@ -109,7 +163,7 @@
     s_fold: 0
     i_fold: 12
     r_fold: 12
-    reference: Diamond21
+    reference: Diamond21*
   - strain: B.1.351
     rx: BNT162b2
     s_fold: 4
@@ -122,6 +176,12 @@
     i_fold: 5
     r_fold: 0
     reference: Liu21b
+  - strain: B.1.351
+    rx: BNT162b2
+    s_fold: 3
+    i_fold: 23
+    r_fold: 3
+    reference: Marot21*
   - strain: B.1.351
     rx: BNT162b2
     s_fold: 3
@@ -141,11 +201,17 @@
     r_fold: 1
     reference: Wang21b
   - strain: B.1.351
+    rx: BNT162b2
+    s_fold: 0
+    i_fold: 5
+    r_fold: 4
+    reference: Wang21b*
+  - strain: B.1.351
     rx: CP
     s_fold: 9
     i_fold: 7
     r_fold: 3
-    reference: Diamond21
+    reference: Diamond21*
   - strain: B.1.351
     rx: CP
     s_fold: 4
@@ -160,6 +226,12 @@
     reference: Hu21
   - strain: B.1.351
     rx: CP
+    s_fold: 0
+    i_fold: 8
+    r_fold: 1
+    reference: Marot21*
+  - strain: B.1.351
+    rx: CP
     s_fold: 9
     i_fold: 1
     r_fold: 0
@@ -170,6 +242,12 @@
     i_fold: 9
     r_fold: 7
     reference: Wang21b
+  - strain: B.1.351
+    rx: CP
+    s_fold: 6
+    i_fold: 9
+    r_fold: 5
+    reference: Wang21b*
   - strain: B.1.351
     rx: CP(8M)
     s_fold: 5
@@ -189,11 +267,41 @@
     r_fold: 7
     reference: Wibmer21
   - strain: B.1.351
+    rx: CP(WT)
+    s_fold: 0
+    i_fold: 2
+    r_fold: 4
+    reference: Cele21*
+  - strain: B.1.351
+    rx: CP_614G
+    s_fold: 5
+    i_fold: 10
+    r_fold: 29
+    reference: Moyo-Gwete21
+  - strain: B.1.351
+    rx: CP_Mild
+    s_fold: 0
+    i_fold: 8
+    r_fold: 0
+    reference: Faulkner21*
+  - strain: B.1.351
+    rx: CP_Patient
+    s_fold: 1
+    i_fold: 10
+    r_fold: 9
+    reference: Faulkner21*
+  - strain: B.1.351
     rx: mRNA-1273
     s_fold: 1
     i_fold: 8
     r_fold: 3
     reference: Wang21b
+  - strain: B.1.351
+    rx: mRNA-1273
+    s_fold: 0
+    i_fold: 5
+    r_fold: 7
+    reference: Wang21b*
   - strain: B.1.351
     rx: mRNA-1273
     s_fold: 0
@@ -207,7 +315,7 @@
     s_fold: 12
     i_fold: 3
     r_fold: 0
-    reference: Diamond21
+    reference: Diamond21*
   - strain: P.1
     rx: BNT162b2
     s_fold: 7
@@ -225,7 +333,7 @@
     s_fold: 7
     i_fold: 2
     r_fold: 1
-    reference: Diamond21
+    reference: Diamond21*
   - strain: P.1
     rx: CP
     s_fold: 2

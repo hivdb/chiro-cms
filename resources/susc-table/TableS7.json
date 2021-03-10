@@ -53,13 +53,6 @@
             },
             {
                 "strain": "E484K",
-                "rx": "IMD",
-                "mab_class": "RBD Core Cluster I",
-                "fold": "10",
-                "reference": "Yuan21"
-            },
-            {
-                "strain": "E484K",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.7",
@@ -88,6 +81,13 @@
             },
             {
                 "strain": "E484K",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "10",
+                "reference": "Yuan21"
+            },
+            {
+                "strain": "E484K",
                 "rx": "Sotrovimab",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.2",
@@ -106,13 +106,6 @@
                 "mab_class": "RBD Core Cluster II",
                 "fold": "1",
                 "reference": "Wang21b"
-            },
-            {
-                "strain": "E484K",
-                "rx": "CAS",
-                "mab_class": "RBM Class I",
-                "fold": "30",
-                "reference": "Yuan21"
             },
             {
                 "strain": "E484K",
@@ -148,6 +141,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "11",
                 "reference": "Wang21b"
+            },
+            {
+                "strain": "E484K",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "30",
+                "reference": "Yuan21"
             },
             {
                 "strain": "E484K",
@@ -392,13 +392,6 @@
             },
             {
                 "strain": "K417N",
-                "rx": "CAS",
-                "mab_class": "RBM Class I",
-                "fold": "30",
-                "reference": "Yuan21"
-            },
-            {
-                "strain": "K417N",
                 "rx": "CC12.1",
                 "mab_class": "RBM Class I",
                 "fold": "&gt;100",
@@ -424,6 +417,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "13",
                 "reference": "Wang21b"
+            },
+            {
+                "strain": "K417N",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "30",
+                "reference": "Yuan21"
             },
             {
                 "strain": "K417N",
@@ -640,6 +640,13 @@
             },
             {
                 "strain": "L452R",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "5",
+                "reference": "Wang21e"
+            },
+            {
+                "strain": "L452R",
                 "rx": "H014",
                 "mab_class": "RBD Core Cluster II",
                 "fold": "1.3",
@@ -661,10 +668,24 @@
             },
             {
                 "strain": "L452R",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "1",
+                "reference": "Wang21e"
+            },
+            {
+                "strain": "L452R",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
                 "fold": "1",
                 "reference": "Li20h"
+            },
+            {
+                "strain": "L452R",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.6",
+                "reference": "Wang21e"
             },
             {
                 "strain": "L452R",
@@ -679,6 +700,13 @@
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
                 "reference": "Du20"
+            },
+            {
+                "strain": "L452R",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Wang21e"
             },
             {
                 "strain": "L452R",
