@@ -1,65 +1,65 @@
 [
     {
         "strain": "N501Y",
-        "cp": 57,
+        "cp": 81,
         "ip": 79,
-        "phase3": 25,
-        "structure": 14
-    },
-    {
-        "strain": "E484K",
-        "cp": 66,
-        "ip": 32,
-        "phase3": 32,
-        "structure": 12
-    },
-    {
-        "strain": "Other individual mutations",
-        "cp": 394,
-        "ip": 442,
-        "phase3": 452,
-        "structure": 432
-    },
-    {
-        "strain": "All individual mutations",
-        "cp": 517,
-        "ip": 553,
-        "phase3": 509,
-        "structure": 458
-    },
-    {
-        "strain": "B.1.1.7",
-        "cp": 176,
-        "ip": 276,
-        "phase3": 45,
-        "structure": 25
-    },
-    {
-        "strain": "B.1.351",
-        "cp": 241,
-        "ip": 184,
-        "phase3": 45,
+        "phase3": 29,
         "structure": 17
     },
     {
+        "strain": "E484K",
+        "cp": 90,
+        "ip": 32,
+        "phase3": 36,
+        "structure": 15
+    },
+    {
+        "strain": "Other individual mutations",
+        "cp": 480,
+        "ip": 445,
+        "phase3": 528,
+        "structure": 489
+    },
+    {
+        "strain": "All individual mutations",
+        "cp": 651,
+        "ip": 556,
+        "phase3": 593,
+        "structure": 521
+    },
+    {
+        "strain": "B.1.1.7",
+        "cp": 210,
+        "ip": 279,
+        "phase3": 50,
+        "structure": 28
+    },
+    {
+        "strain": "B.1.351",
+        "cp": 275,
+        "ip": 187,
+        "phase3": 50,
+        "structure": 20
+    },
+    {
         "strain": "P.1",
-        "cp": 39,
+        "cp": 63,
         "ip": 57,
-        "phase3": 10,
-        "structure": 2
+        "phase3": 14,
+        "structure": 5
     },
     {
         "strain": "Other muation combinations",
-        "cp": 300,
-        "ip": 284,
-        "phase3": 134,
-        "structure": 153
+        "cp": 376,
+        "ip": 298,
+        "phase3": 147,
+        "structure": 162
     },
     {
         "strain": "All combinations of mutations",
-        "cp": 756,
-        "ip": 801,
-        "phase3": 234,
-        "structure": 197
+        "cp": 924,
+        "ip": 821,
+        "phase3": 261,
+        "structure": 215
     }
 ]

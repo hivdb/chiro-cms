@@ -93,6 +93,14 @@
             {
                 "strain": "B.1.1.7",
                 "rx": "CP",
+                "s_fold": 27,
+                "i_fold": 3,
+                "r_fold": 0,
+                "reference": "Faulkner21*"
+            },
+            {
+                "strain": "B.1.1.7",
+                "rx": "CP",
                 "s_fold": 8,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -140,27 +148,19 @@
             },
             {
                 "strain": "B.1.1.7",
+                "rx": "CP",
+                "s_fold": 23,
+                "i_fold": 0,
+                "r_fold": 1,
+                "reference": "Wang21f"
+            },
+            {
+                "strain": "B.1.1.7",
                 "rx": "CP(8M)",
                 "s_fold": 11,
                 "i_fold": 8,
                 "r_fold": 0,
                 "reference": "Hu21"
-            },
-            {
-                "strain": "B.1.1.7",
-                "rx": "CP_Mild",
-                "s_fold": 9,
-                "i_fold": 1,
-                "r_fold": 0,
-                "reference": "Faulkner21*"
-            },
-            {
-                "strain": "B.1.1.7",
-                "rx": "CP_Patient",
-                "s_fold": 18,
-                "i_fold": 2,
-                "r_fold": 0,
-                "reference": "Faulkner21*"
             },
             {
                 "strain": "B.1.1.7",
@@ -290,6 +290,14 @@
             {
                 "strain": "B.1.351",
                 "rx": "CP",
+                "s_fold": 1,
+                "i_fold": 18,
+                "r_fold": 9,
+                "reference": "Faulkner21*"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "CP",
                 "s_fold": 4,
                 "i_fold": 4,
                 "r_fold": 1,
@@ -314,6 +322,14 @@
             {
                 "strain": "B.1.351",
                 "rx": "CP",
+                "s_fold": 5,
+                "i_fold": 10,
+                "r_fold": 29,
+                "reference": "Moyo-Gwete21"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "CP",
                 "s_fold": 9,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -334,6 +350,14 @@
                 "i_fold": 9,
                 "r_fold": 5,
                 "reference": "Wang21b*"
+            },
+            {
+                "strain": "B.1.351",
+                "rx": "CP",
+                "s_fold": 3,
+                "i_fold": 7,
+                "r_fold": 14,
+                "reference": "Wang21f"
             },
             {
                 "strain": "B.1.351",
@@ -366,30 +390,6 @@
                 "i_fold": 2,
                 "r_fold": 4,
                 "reference": "Cele21*"
-            },
-            {
-                "strain": "B.1.351",
-                "rx": "CP_614G",
-                "s_fold": 5,
-                "i_fold": 10,
-                "r_fold": 29,
-                "reference": "Moyo-Gwete21"
-            },
-            {
-                "strain": "B.1.351",
-                "rx": "CP_Mild",
-                "s_fold": 0,
-                "i_fold": 8,
-                "r_fold": 0,
-                "reference": "Faulkner21*"
-            },
-            {
-                "strain": "B.1.351",
-                "rx": "CP_Patient",
-                "s_fold": 1,
-                "i_fold": 10,
-                "r_fold": 9,
-                "reference": "Faulkner21*"
             },
             {
                 "strain": "B.1.351",
@@ -467,6 +467,14 @@
                 "i_fold": 7,
                 "r_fold": 1,
                 "reference": "Wang21c"
+            },
+            {
+                "strain": "P.1",
+                "rx": "CP",
+                "s_fold": 15,
+                "i_fold": 5,
+                "r_fold": 4,
+                "reference": "Wang21f"
             },
             {
                 "strain": "P.1",

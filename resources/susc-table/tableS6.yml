@@ -49,6 +49,12 @@
     r_fold: 2
     reference: Wang21b
   - strain: E484K
+    rx: CP
+    s_fold: 23
+    i_fold: 1
+    r_fold: 0
+    reference: Wang21f
+  - strain: E484K
     rx: mRNA-1273
     s_fold: 8
     i_fold: 4
@@ -107,6 +113,12 @@
     r_fold: 0
     reference: Wang21b
   - strain: K417N
+    rx: CP
+    s_fold: 24
+    i_fold: 0
+    r_fold: 0
+    reference: Wang21f
+  - strain: K417N
     rx: mRNA-1273
     s_fold: 11
     i_fold: 0
@@ -126,6 +138,12 @@
     i_fold: 5
     r_fold: 2
     reference: Diamond21
+  - strain: K417N + E484K + N501Y
+    rx: CP
+    s_fold: 22
+    i_fold: 1
+    r_fold: 1
+    reference: Wang21f
   - strain: K417N + E484K + N501Y
     rx: CP(High Titer)
     s_fold: 6
@@ -228,6 +246,12 @@
     i_fold: 2
     r_fold: 0
     reference: Wang21b
+  - strain: N501Y
+    rx: CP
+    s_fold: 24
+    i_fold: 0
+    r_fold: 0
+    reference: Wang21f
   - strain: N501Y
     rx: mRNA-1273
     s_fold: 14
