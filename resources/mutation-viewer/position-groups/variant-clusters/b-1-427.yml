@@ -24,7 +24,7 @@ positions:
 - name: L452R
   pos: 22917
 - name: D614G
-  pos: A23403
+  pos: 23403
 - name: ORF3a:Q57H
   pos: 25563
   <<: *non-spike
