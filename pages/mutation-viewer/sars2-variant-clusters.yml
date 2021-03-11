@@ -21,7 +21,7 @@ positionGroups:
   - label: B.1.141
     .: {_resource: mutation-viewer/position-groups/variant-clusters/n439k.yml}
   - label: CAL.20C
-    .: {_resource: mutation-viewer/position-groups/variant-clusters/cal-20c.yml}
+    .: {_resource: mutation-viewer/position-groups/variant-clusters/b-1-429.yml}
   - label: COH.20G/501Y
     .: {_resource: mutation-viewer/position-groups/variant-clusters/tu-501y.yml}
   - label: P.2

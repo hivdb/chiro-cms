@@ -152,22 +152,43 @@ West A, Barnes C, et int., and Bjorkman P. “SARS-CoV-2 lineage B.1.526 emergin
 
 </section>
 
-<!-- CAL.20C -->
-<section id="sec_cal-20c" class="figure-section wrap">
+<!-- b-1-429 -->
+<section id="sec_b-1-429" class="figure-section wrap">
 
 <div class="figure-image">
 
 [genomemap]
-cal-20c
+b-1-429
 [/genomemap]
 
 </div>
 
 <div class="figure-caption">
 
-### [CAL.20C](#sec_cal-20c)
+### [B.1.429, aka CAL.20C](#sec_b-1-429)
 
-Zhang W, Davis B, et int., and Vail E. “Emergence of a novel SARS-CoV-2 strain in Southern California, USA.” _medRxiv_, 2021. [doi.org/10.1101/2021.01.18.21249786](https://doi.org/10.1101/2021.01.18.21249786). [^Zhang21]
+Deng X, Garcia-Knight MA, et int., and Vail E. “Transmission, infectivity, and antibody neutralization of an emerging SARS-CoV-2 variant in California carrying a L452R spike protein mutation.” _medRxiv_, 2021. [doi.org/10.1101/2021.03.07.21252647](https://doi.org/10.1101/2021.03.07.21252647).[^Deng21]
+
+</div>
+
+</section>
+
+<!-- b-1-427 -->
+<section id="sec_b-1-427" class="figure-section wrap">
+
+<div class="figure-image">
+
+[genomemap]
+b-1-427
+[/genomemap]
+
+</div>
+
+<div class="figure-caption">
+
+### [B.1.427](#sec_b-1-427)
+
+Deng X, Garcia-Knight MA, et int., and Vail E. “Transmission, infectivity, and antibody neutralization of an emerging SARS-CoV-2 variant in California carrying a L452R spike protein mutation.” _medRxiv_, 2021. [doi.org/10.1101/2021.03.07.21252647](https://doi.org/10.1101/2021.03.07.21252647).[^Deng21]
 
 </div>
 

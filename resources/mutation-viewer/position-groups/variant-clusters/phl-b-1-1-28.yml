@@ -1,14 +1,14 @@
 name: phl-b-1-1-28
 positions:
-- name: PL:D735G  # ORF1ab:D1554G
+- name: PL:D736G  # ORF1ab:D1554G
   pos: 4925
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: nsp4:L437P  # ORF1ab:L3201P
+- name: nsp4:L438P  # ORF1ab:L3201P
   pos: 9867
   <<: *non-spike
-- name: nsp6:D111E # ORF1ab:D3681E
+- name: nsp6:D112E # ORF1ab:D3681E
   pos: 11308
   <<: *non-spike
 - name: nsp7:L71F  # ORF1ab:L3930F
@@ -17,7 +17,7 @@ positions:
 - name: RdRP:P323L  # ORF1ab:P4715L
   pos: 14407
   <<: *non-spike
-- name: nsp13:A367V # ORF1ab:A5692V
+- name: nsp13:A368V # ORF1ab:A5692V
   pos: 17339
   <<: *non-spike
 - name: LGV141-143del

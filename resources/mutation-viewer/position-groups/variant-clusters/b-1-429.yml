@@ -1,0 +1,30 @@
+name: b-1-429
+positions:
+- name: nsp2:T85I # ORF1ab:T265I
+  pos: 1059
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: nsp9:I64V  # ORF1a:I4205V
+  pos: 12878
+  <<: *non-spike
+- name: RdRP:P323L # ORF1b:P314L
+  pos: 14408
+  <<: *non-spike
+- name: helicase:D260Y  # ORF1b:D1183Y
+  pos: 17014
+  <<: *non-spike
+- name: S13I
+  pos: 21600
+- name: W152C
+  pos: 22018
+- name: L452R
+  pos: 22917
+- name: D614G
+  pos: A23403
+- name: ORF3a:Q57H
+  pos: 25563
+  <<: *non-spike
+- name: N:T205I
+  pos: 28887
+  <<: *non-spike

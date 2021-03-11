@@ -90,11 +90,17 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/coh-20g-677h.yml
     <<: *common-props
-  cal-20c:
-    name: cal-20c
+  b-1-429:
+    name: b-1-429
     height: 225
     positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/cal-20c.yml
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-429.yml
+    <<: *common-props
+  b-1-427:
+    name: b-1-427
+    height: 225
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-427.yml
     <<: *common-props
   kemp21:
     name: kemp21
