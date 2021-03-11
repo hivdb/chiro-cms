@@ -1,0 +1,24 @@
+species: SARS2
+allGenes: [
+  nsp1, nsp2, PLpro, nsp4, _3CLpro, nsp6, nsp7, nsp8, nsp9,
+  nsp10, RdRP, nsp13, nsp14, nsp15, nsp16, S, ORF3a, E, M,
+  ORF6, ORF7a, ORF7b, ORF8, N, ORF10
+]
+highlightGenes: [PLpro, _3CLpro, RdRP, S]
+geneDisplay:
+  _3CLpro: 3CLpro
+  S: Spike
+regionPresets:
+  presets:
+    - name: spike
+      label: Spike protein
+      preset:
+        width: 1720
+        minHeight: 170
+        paddingLeft: 20
+        paddingRight: 20
+        paddingTop: 20
+        .:
+          _resource: mutation-viewer/sars2-regions.yml
+  genes:
+    _resource: mutation-viewer/sars2-genes.yml
