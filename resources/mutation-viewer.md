@@ -173,27 +173,6 @@ Deng X, Garcia-Knight MA, et int., and Chiu CY. “Transmission, infectivity, an
 
 </section>
 
-<!-- b-1-427 -->
-<section id="sec_b-1-427" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-b-1-427
-[/genomemap]
-
-</div>
-
-<div class="figure-caption">
-
-### [B.1.427](#sec_b-1-427)
-
-Deng X, Garcia-Knight MA, et int., and Chiu CY. “Transmission, infectivity, and antibody neutralization of an emerging SARS-CoV-2 variant in California carrying a L452R spike protein mutation.” _medRxiv_, 2021. [doi.org/10.1101/2021.03.07.21252647](https://doi.org/10.1101/2021.03.07.21252647).[^Deng21]
-
-</div>
-
-</section>
-
 <!-- Cluster 5 -->
 <section id="sec_cluster5" class="figure-section wrap">
 
