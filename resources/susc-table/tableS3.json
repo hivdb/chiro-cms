@@ -1,8 +1,8 @@
 [
     {
         "strain": "N501Y",
-        "cp": 81,
-        "ip": 79,
+        "cp": 133,
+        "ip": 98,
         "phase3": 29,
         "structure": 17
     },
@@ -15,28 +15,28 @@
     },
     {
         "strain": "Other individual mutations",
-        "cp": 480,
-        "ip": 445,
+        "cp": 616,
+        "ip": 466,
         "phase3": 528,
         "structure": 489
     },
     {
         "strain": "All individual mutations",
-        "cp": 651,
-        "ip": 556,
+        "cp": 839,
+        "ip": 596,
         "phase3": 593,
         "structure": 521
     },
     {
         "strain": "B.1.1.7",
-        "cp": 210,
-        "ip": 279,
+        "cp": 360,
+        "ip": 333,
         "phase3": 50,
         "structure": 28
     },
     {
         "strain": "B.1.351",
-        "cp": 275,
+        "cp": 355,
         "ip": 187,
         "phase3": 50,
         "structure": 20
@@ -44,21 +44,28 @@
     {
         "strain": "P.1",
         "cp": 63,
-        "ip": 57,
+        "ip": 78,
         "phase3": 14,
         "structure": 5
     },
     {
+        "strain": "CAL.20C",
+        "cp": 18,
+        "ip": 37,
+        "phase3": 0,
+        "structure": 0
+    },
+    {
         "strain": "Other muation combinations",
-        "cp": 376,
-        "ip": 298,
+        "cp": 498,
+        "ip": 507,
         "phase3": 147,
         "structure": 162
     },
     {
         "strain": "All combinations of mutations",
-        "cp": 924,
-        "ip": 821,
+        "cp": 1276,
+        "ip": 1105,
         "phase3": 261,
         "structure": 215
     }

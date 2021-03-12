@@ -418,6 +418,35 @@
         ]
     },
     {
+        "strain": "CAL.20C",
+        "assays": [
+            {
+                "strain": "CAL.20C",
+                "rx": "BNT162b2",
+                "s_fold": 3,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Deng21"
+            },
+            {
+                "strain": "CAL.20C",
+                "rx": "CP",
+                "s_fold": 7,
+                "i_fold": 10,
+                "r_fold": 1,
+                "reference": "Deng21"
+            },
+            {
+                "strain": "CAL.20C",
+                "rx": "mRNA-1273",
+                "s_fold": 7,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Deng21"
+            }
+        ]
+    },
+    {
         "strain": "P.1",
         "assays": [
             {

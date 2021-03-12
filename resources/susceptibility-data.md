@@ -119,8 +119,6 @@ MAb abbreviations:
 
 ## Primary data
 
-- [Individual spike mutations / mAb neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#individual-spike-mutations-mab-neutralization)
-- [Individual spike mutations / plasma neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#individual-spike-mutations-plasma-neutralization)
 - [Spike variants and mutation combinations / mAb neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-mab-neutralization)
 - [Spike variants and mutation combinations / plasma neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-plasma-neutralization)
 - [Spike mutation _in vitro_ selection](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-mutation-invitro-selection-cp-and-mab)

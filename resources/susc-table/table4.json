@@ -57,6 +57,25 @@
         "cp_num_r_fold": 7
     },
     {
+        "strain": "CAL.20C",
+        "vac_studies": 1,
+        "vac_samples": 11,
+        "vac_s_fold": "91%",
+        "vac_i_fold": "9%",
+        "vac_r_fold": 0,
+        "vac_num_s_fold": 10,
+        "vac_num_i_fold": 1,
+        "vac_num_r_fold": 0,
+        "cp_studies": 1,
+        "cp_samples": 18,
+        "cp_s_fold": "39%",
+        "cp_i_fold": "56%",
+        "cp_r_fold": "5%",
+        "cp_num_s_fold": 7,
+        "cp_num_i_fold": 10,
+        "cp_num_r_fold": 1
+    },
+    {
         "strain": "E484K",
         "vac_studies": 3,
         "vac_samples": 32,
