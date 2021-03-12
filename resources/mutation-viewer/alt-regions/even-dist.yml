@@ -1,24 +1,15 @@
 positionAxis:
-  posOffset: 21562
-  posStart: 21563
-  posEnd: 25381
-  convertToAA: true
-  tickCount: 15
-  roundToNearest: 5
+  posOffset: 0
+  posStart: 1
+  posEnd: 29903
+  convertToAA: false
+  tickCount: 30
+  roundToNearest: 1000
 
 domains:
-- posStart: 1      # pre-spike
-  posEnd: 21562
-  scaleRatio: 0.15
-- posStart: 21563  # S1
-  posEnd: 23633
-  scaleRatio: 0.5
-- posStart: 23634  # S2
-  posEnd: 25384
-  scaleRatio: 0.2
-- posStart: 25382  # post-spike
+- posStart: 1
   posEnd: 29903
-  scaleRatio: 0.15
+  scaleRatio: 1
 
 regions:
 - name: 5-UTR
@@ -27,13 +18,102 @@ regions:
   posEnd: 265
   shapeType: line
   labelPostion: above
-- name: ORF1ab
-  label: ORF1ab
+- gene: nsp1
+  label: ""
   posStart: 266
-  posEnd: 21555
+  posEnd: 805
   <<: &gray-region
     fill: '#d8d8d8'
     color: '#505050'
+  shapeType: rect
+  labelPosition: above
+- gene: nsp2
+  label: nsp2
+  posStart: 806
+  posEnd: 2719
+  <<: *gray-region
+  shapeType: rect
+- gene: PLpro
+  label: PL
+  posStart: 2720
+  posEnd: 8554
+  fill: '#cab2d6'
+  color: '#6a3d9a'
+  shapeType: rect
+- gene: nsp4
+  label: nsp4
+  posStart: 8555
+  posEnd: 10054
+  <<: *gray-region
+  shapeType: rect
+- gene: _3CLpro
+  label: 3CL
+  posStart: 10055
+  posEnd: 10972
+  fill: '#fdbf6f'
+  color: '#ff7f00'
+  shapeType: rect
+- gene: nsp6
+  label: nsp6
+  posStart: 10973
+  posEnd: 11842
+  <<: *gray-region
+  shapeType: rect
+- gene: nsp7
+  label: ""
+  posStart: 11843
+  posEnd: 12091
+  <<: *gray-region
+  shapeType: rect
+- gene: nsp8
+  label: ""
+  posStart: 12092
+  posEnd: 12685
+  <<: *gray-region
+  shapeType: rect
+  labelPosition: above
+- gene: nsp9
+  label: ""
+  posStart: 12686
+  posEnd: 13024
+  <<: *gray-region
+  shapeType: rect
+- gene: nsp10
+  label: ""
+  posStart: 13025
+  posEnd: 13441
+  <<: *gray-region
+  shapeType: rect
+- gene: RdRP
+  label: RdRP
+  posStart: 13442
+  posEnd: 16236
+  fill: '#a6cee3'
+  color: '#1f78b4'
+  shapeType: rect
+- gene: nsp13
+  label: nsp13
+  posStart: 16237
+  posEnd: 18039
+  <<: *gray-region
+  shapeType: rect
+- gene: nsp14
+  label: nsp14
+  posStart: 18040
+  posEnd: 19620
+  <<: *gray-region
+  shapeType: rect
+- gene: nsp15
+  label: nsp15
+  posStart: 19621
+  posEnd: 20658
+  <<: *gray-region
+  shapeType: rect
+- gene: nsp16
+  label: ""
+  posStart: 20659
+  posEnd: 21552
+  <<: *gray-region
   shapeType: rect
 - name: S
   label: Spike
@@ -42,61 +122,8 @@ regions:
   fill: '#b2df8a'
   color: '#33a02c'
   shapeType: rect
-  labelPosition: above
-- name: NTD
-  label: NTD
-  posStart: 21600  # aa: 13
-  posEnd: 22478    # aa: 305
-  fill: '#a6cee3'
-  color: '#1f78b4'
-  offsetY: 12
-  shapeType: rect
-  labelPosition: over
-- name: RBD
-  label: RBD
-  posStart: 22479  # aa: 306
-  posEnd: 23165    # aa: 534
-  fill: '#fb9a99'
-  color: '#e31a1c'
-  offsetY: 12
-  shapeType: rect
-  labelPosition: over
-- name: RBM
-  label: RBM
-  posStart: 22872  # aa: 437
-  posEnd: 23087    # aa: 508
-  fill: '#cab2d6'
-  color: '#6a3d9a'
-  offsetY: 24
-  shapeType: rect
-  labelPosition: over
-- name: SD1
-  label: SD1
-  posStart: 23166  # aa: 535
-  posEnd: 23331    # aa: 590
-  <<: *gray-region
-  offsetY: 12
-  shapeType: rect
-  labelPosition: over
-- name: SD2
-  label: SD2
-  posStart: 23332  # aa: 591
-  posEnd: 23603    # aa: 680
-  <<: *gray-region
-  offsetY: 12
-  shapeType: rect
-  labelPosition: over
-- name: S1-S2
-  label: S1/S2
-  posStart: 23604  # aa: 681
-  posEnd: 23633    # aa: 690
-  fill: '#fdbf6f'
-  color: '#ff7f00'
-  offsetY: 12
-  shapeType: rect
-  labelPosition: above
 - name: ORF3a
-  label: ''
+  label: ""
   posStart: 25393
   posEnd: 26220
   <<: *gray-region
@@ -110,7 +137,7 @@ regions:
   shapeType: rect
   labelPosition: above
 - name: M
-  label: ''
+  label: M
   posStart: 26523
   posEnd: 27191
   <<: *gray-region

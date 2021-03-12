@@ -1,103 +1,77 @@
 - gene: nsp1
   displayGene: nsp1
   range: [266, 805]
-  <<: &non-spike
-    stroke: '#e0e0e0'
-    color: '#a0a0a0'
 - gene: nsp2
   displayGene: nsp2
   range: [806, 2719]
-  <<: *non-spike
 - gene: PLpro
   displayGene: PL
   range: [2720, 8554]
-  <<: *non-spike
 - gene: nsp4
   displayGene: nsp4
   range: [8555, 10054]
-  <<: *non-spike
 - gene: _3CLpro
   displayGene: 3CL
   range: [10055, 10972]
-  <<: *non-spike
 - gene: nsp6
   displayGene: nsp6
   range: [10973, 11842]
-  <<: *non-spike
 - gene: nsp7
   displayGene: nsp7
   range: [11843, 12091]
-  <<: *non-spike
 - gene: nsp8
   displayGene: nsp8
   range: [12092, 12685]
-  <<: *non-spike
 - gene: nsp9
   displayGene: nsp9
   range: [12686, 13024]
-  <<: *non-spike
 - gene: nsp10
   displayGene: nsp10
   range: [13025, 13441]
-  <<: *non-spike
 - gene: RdRP
   displayGene: RdRP
   range: [13442, 16236]
   readingFrame:
     - [13468, -1]  # position 13468 repeated once
-  <<: *non-spike
 - gene: nsp13
   displayGene: nsp13
   range: [16237, 18039]
-  <<: *non-spike
 - gene: nsp14
   displayGene: nsp14
   range: [18040, 19620]
-  <<: *non-spike
 - gene: nsp15
   displayGene: nsp15
   range: [19621, 20658]
-  <<: *non-spike
 - gene: nsp16
   displayGene: nsp16
   range: [20659, 21552]
-  <<: *non-spike
 - gene: S
   displayGene: S
   range: [21563, 25381]
 - gene: ORF3a
   displayGene: ORF3a
   range: [25393, 26217]
-  <<: *non-spike
 - gene: E
   displayGene: E
   range: [26245, 26469]
-  <<: *non-spike
 - gene: M
   displayGene: M
   range: [26523, 27188]
-  <<: *non-spike
 - gene: ORF6
   displayGene: ORF6
   range: [27202, 27384]
-  <<: *non-spike
 - gene: ORF7a
   displayGene: ORF7a
   range: [27394, 27756]
-  <<: *non-spike
 - gene: ORF7b
   displayGene: ORF7b
   range: [27756, 27884]
-  <<: *non-spike
 - gene: ORF8
   displayGene: ORF8
   range: [27894, 28256]
-  <<: *non-spike
 - gene: N
   displayGene: N
   range: [28274, 29530]
-  <<: *non-spike
 - gene: ORF10
   displayGene: ORF10
   range: [29558, 29671]
-  <<: *non-spike
