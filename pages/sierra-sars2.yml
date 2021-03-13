@@ -31,12 +31,101 @@ regionPresets:
           _resource: mutation-viewer/alt-regions/even-dist.yml
   genes:
     _resource: mutation-viewer/sars2-genes.yml
-defaultStrain: SARS2
 geneValidatorDefs:
-  - regexp: '^\s*(nsp11|rdrp)\s*$'
+  - regexp: '^\s*nsp1([ _-]?protein)?\s*$'
+    gene: nsp1
+  - regexp: '^\s*nsp2([ _-]?protein)?\s*$'
+    gene: nsp2
+  - regexp: '^\s*(nsp3|pl|papain-like)([ _-]?(pro|protein|proteinase))?\s*$'
+    gene: PLpro
+  - regexp: '^\s*nsp4([ _-]?protein)?\s*$'
+    gene: nsp4
+  - regexp: '^\s*(nsp5|_?3cl|3c-like|mpro|main)([ _-]?(pro|protein|proteinase))?\s*$'
+    gene: _3CLpro
+  - regexp: '^\s*nsp6([ _-]?protein)?\s*$'
+    gene: nsp6
+  - regexp: '^\s*nsp7([ _-]?protein)?\s*$'
+    gene: nsp7
+  - regexp: '^\s*nsp8([ _-]?protein)?\s*$'
+    gene: nsp8
+  - regexp: '^\s*nsp9([ _-]?protein)?\s*$'
+    gene: nsp9
+  - regexp: '^\s*nsp10([ _-]?protein)?\s*$'
+    gene: nsp10
+  - regexp: '^\s*(nsp11([ _-]?protein)?|rdrp|rna-dependent rna polymerase)\s*$'
     gene: RdRP
-  - regexp: '^\s*(nsp12)\s*$'
+  - regexp: '^\s*nsp12([ _-]?protein)?\s*$'
     gene: RdRP
     posOffset: 9
-  - regexp: '^\s*(s|spike)\s*$'
+  - regexp: '^\s*(nsp13|helicase)([ _-]?protein)?\s*$'
+    gene: nsp13
+  - regexp: '^\s*nsp14([ _-]?protein)?\s*$'
+    gene: nsp14
+  - regexp: '^\s*nsp15([ _-]?protein)?\s*$'
+    gene: nsp15
+  - regexp: '^\s*nsp16([ _-]?protein)?\s*$'
+    gene: nsp16
+  - regexp: '^\s*(GU280_gp02|(s|spike|surface)([ _-]?(protein|glycoprotein))?)\s*$'
     gene: S
+  - regexp: '^\s*(GU280_gp03|(orf3a?)([ _-]?protein)?)\s*$'
+    gene: ORF3a
+  - regexp: '^\s*(GU280_gp04|(orf4|e|envelope|env)([ _-]?protein)?)\s*$'
+    gene: E
+  - regexp: '^\s*(GU280_gp05|(orf5|m|membranes?|mp)([ _-]?protein)?)\s*$'
+    gene: M
+  - regexp: '^\s*(GU280_gp06|orf6([ _-]?protein)?)\s*$'
+    gene: ORF6
+  - regexp: '^\s*(GU280_gp07|orf7a([ _-]?protein)?)\s*$'
+    gene: ORF7a
+  - regexp: '^\s*(GU280_gp08|orf7b([ _-]?protein)?)\s*$'
+    gene: ORF7b
+  - regexp: '^\s*(GU280_gp09|orf8([ _-]?protein)?)\s*$'
+    gene: ORF8
+  - regexp: '^\s*(GU280_gp10|(orf9|n|nucleocapsid|np)([ _-]?(protein|phosphoprotein))?)\s*$'
+    gene: N
+  - regexp: '^\s*(GU280_gp11|orf10([ _-]?protein)?)\s*$'
+    gene: ORF10
+seqReadsDefaultParams:
+  strain: SARS2
+  minPrevalence: 0.1  # 10%
+  minCodonReads: 10
+  minPositionReads: 1
+seqReadsMinPrevalenceOptions:
+  - value: 0.01
+    label: ≥1%
+  - value: 0.02
+    label: ≥2%
+  - value: 0.05
+    label: ≥5%
+  - value: 0.10
+    label: ≥10%
+  - value: 0.20
+    label: ≥20%
+  - value: 0.50
+    label: ≥50%
+seqReadsMinCodonReadsOptions:
+  - value: 1
+    label: (all)
+  - value: 10
+    label: ≥10
+  - value: 100
+    label: ≥100
+  - value: 200
+    label: ≥200
+  - value: 500
+    label: ≥500
+  - value: 1000
+    label: "≥1,000"
+seqReadsMinPositionReadsOptions:
+  - value: 1
+    label: (all)
+  - value: 10
+    label: ≥10
+  - value: 100
+    label: ≥100
+  - value: 200
+    label: ≥200
+  - value: 500
+    label: ≥500
+  - value: 1000
+    label: "≥1,000"
