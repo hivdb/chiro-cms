@@ -17,7 +17,7 @@ regionPresets:
         <<: &presetCommon
           width: 1720
           minHeight: 170
-          paddingLeft: 20
+          paddingLeft: 60
           paddingRight: 20
           paddingTop: 20
         .:
@@ -52,7 +52,10 @@ geneValidatorDefs:
     gene: nsp9
   - regexp: '^\s*nsp10([ _-]?protein)?\s*$'
     gene: nsp10
-  - regexp: '^\s*(nsp11([ _-]?protein)?|rdrp|rna-dependent rna polymerase)\s*$'
+  - regexp: '^\s*nsp11([ _-]?protein)?\s*$'
+    gene: RdRP
+    range: [1, 9]
+  - regexp: '^\s*(rdrp|rna-dependent rna polymerase)\s*$'
     gene: RdRP
   - regexp: '^\s*nsp12([ _-]?protein)?\s*$'
     gene: RdRP
