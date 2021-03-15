@@ -246,8 +246,28 @@ p-2
 
 <div class="figure-caption">
 
-### [P.2](#sec_p-2)
+### [P.2, evolved from B.1.1.28](#sec_p-2)
 Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
+
+</div>
+
+</section>
+
+<!-- B.1.1.35 N9 -->
+<section id="sec_b-1-1-33-n9" class="figure-section wrap">
+
+<div class="figure-image">
+
+[genomemap]
+b-1-1-33-n9
+[/genomemap]
+
+</div>
+
+<div class="figure-caption">
+
+### [B.1.1.33 N9](#sec_p-1-1-33-n9)
+Resende PC, Graf T, et int., and Siqueira MM. “A potential SARS-CoV-2 variant of interest (VOI) harboring mutation E484K in the Spike protein was identified within lineage B.1.1.33 circulating in Brazil.” _biorxiv_, 2021.[^Resende21]
 
 </div>
 
