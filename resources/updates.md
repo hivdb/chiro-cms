@@ -79,6 +79,12 @@ Instruction:
 ## Database Entries
 
 ### March 2021
+- March 14
+    - Cathcart AL, Havenar-Daughton C, et int., and Hebner CM. [“The dual function monoclonal antibodies VIR-7831 and VIR-7832 demonstrate potent in vitro and in vivo activity against SARS-CoV-2.”](/search/?article=Cathcart21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.09.434607](https://doi.org/10.1101/2021.03.09.434607).
+    - Copin R, Baum A, et int., and Kyratsous CA. [“In vitro and in vivo preclinical studies predict REGEN-COV protection against emergence of viral escape in humans.”](/search/?article=Copin21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.10.434834](https://doi.org/10.1101/2021.03.10.434834).
+    - Deng X, Garcia-Knight MA, et int., and Chiu CY. [“Transmission, infectivity, and antibody neutralization of an emerging SARS-CoV-2 variant in California carrying a L452R spike protein mutation.”](/search/?article=Deng21) _medRxiv_, 2021. [doi.org/10.1101/2021.03.07.21252647](https://doi.org/10.1101/2021.03.07.21252647).
+    - Wang R, Zhang Q, et int., and Zhang L. [“Spike mutations in SARS-CoV-2 variants confer resistance to antibody neutralization.”](/search/?article=Wang21f) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.09.434497](https://doi.org/10.1101/2021.03.09.434497).
+    - Widera M, Wilhelm A, et int., and Ciesek S. [“Bamlanivimab does not neutralize two SARS-CoV-2 variants carrying E484K in vitro.”](/search/?article=Widera21) _medRxiv_, 2021. [doi.org/10.1101/2021.02.24.21252372](https://doi.org/10.1101/2021.02.24.21252372).
 - March 09
     - Faulkner N, Ng KW, et int., and Kassiotis G. [“Reduced antibody cross-reactivity following infection with B.1.1.7 than with parental SARS-CoV-2 strains.”](/search/?article=Faulkner21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.01.433314](https://doi.org/10.1101/2021.03.01.433314).
     - López-Medina E, López P, et int., and Caicedo I. [“Effect of Ivermectin on Time to Resolution of Symptoms Among Adults With Mild COVID-19.”](/search/?article=Lopez-Medina21) _JAMA_, 2021. [doi.org/10.1001/jama.2021.3071](https://doi.org/10.1001/jama.2021.3071). \[[PubMed33662102](https://www.ncbi.nlm.nih.gov/pubmed/33662102/)\]
@@ -1066,6 +1072,11 @@ Instruction:
 ## Clinical Trials
 
 ### March 2021
+- March 11
+    - [3 clinical trials were added.](/clinical-trials/?fromDate=2021-03-11)
+    - NCT04787211
+    - NCT04788407
+    - NCT04796402
 - March 04
     - [3 clinical trials were added.](/clinical-trials/?fromDate=2021-03-04)
     - NCT04779879

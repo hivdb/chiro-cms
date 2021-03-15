@@ -22,6 +22,20 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Mar 14)
+Cathcart AL, Havenar-Daughton C, et int., and Hebner CM. [“The dual function monoclonal antibodies VIR-7831 and VIR-7832 demonstrate potent in vitro and in vivo activity against SARS-CoV-2.”](/search/?article=Cathcart21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.09.434607](https://doi.org/10.1101/2021.03.09.434607).
+### Database Entries (Mar 14)
+Copin R, Baum A, et int., and Kyratsous CA. [“In vitro and in vivo preclinical studies predict REGEN-COV protection against emergence of viral escape in humans.”](/search/?article=Copin21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.10.434834](https://doi.org/10.1101/2021.03.10.434834).
+### Database Entries (Mar 14)
+Deng X, Garcia-Knight MA, et int., and Chiu CY. [“Transmission, infectivity, and antibody neutralization of an emerging SARS-CoV-2 variant in California carrying a L452R spike protein mutation.”](/search/?article=Deng21) _medRxiv_, 2021. [doi.org/10.1101/2021.03.07.21252647](https://doi.org/10.1101/2021.03.07.21252647).
+### Database Entries (Mar 14)
+Wang R, Zhang Q, et int., and Zhang L. [“Spike mutations in SARS-CoV-2 variants confer resistance to antibody neutralization.”](/search/?article=Wang21f) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.09.434497](https://doi.org/10.1101/2021.03.09.434497).
+### Database Entries (Mar 14)
+Widera M, Wilhelm A, et int., and Ciesek S. [“Bamlanivimab does not neutralize two SARS-CoV-2 variants carrying E484K in vitro.”](/search/?article=Widera21) _medRxiv_, 2021. [doi.org/10.1101/2021.02.24.21252372](https://doi.org/10.1101/2021.02.24.21252372).
+
+### [Clinical Trials (Mar 11)](/page/updates/#clinical.trials)
+[3 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-03-11)
+
 ### New Variants (Mar 09)
 
 - [B.1.1.7 with S:E484K](https://covdb.stanford.edu/page/mutation-viewer/#sec_b-1-1-7-484k)
