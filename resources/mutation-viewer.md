@@ -86,7 +86,7 @@ Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SA
 
 </section>
 
-## Other variants
+## Variants of Interest
 
 <!-- PHL-B.1.1.28 -->
 <section id="sec_phl-b-1-1-28" class="figure-section wrap">
