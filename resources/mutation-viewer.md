@@ -78,7 +78,7 @@ p-1
 
 <div class="figure-caption">
 
-### [P.1, aka 501Y.V3 variant, and K417T/E484K/N501Y](#sec_p-1)
+### [P.1, aka B.1.1.28.1, 20J/501Y.V3 variant, and K417T/E484K/N501Y](#sec_p-1)
 
 Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
 
