@@ -1,72 +1,72 @@
 [
     {
-        "strain": "N501Y",
+        "variant": "N501Y",
         "cp": 133,
         "ip": 98,
-        "phase3": 29,
+        "phase3": 32,
         "structure": 17
     },
     {
-        "strain": "E484K",
+        "variant": "E484K",
         "cp": 90,
         "ip": 32,
-        "phase3": 36,
+        "phase3": 39,
         "structure": 15
     },
     {
-        "strain": "Other individual mutations",
+        "variant": "Other individual mutations",
         "cp": 616,
         "ip": 466,
-        "phase3": 528,
+        "phase3": 579,
         "structure": 489
     },
     {
-        "strain": "All individual mutations",
+        "variant": "All individual mutations",
         "cp": 839,
         "ip": 596,
-        "phase3": 593,
+        "phase3": 650,
         "structure": 521
     },
     {
-        "strain": "B.1.1.7",
-        "cp": 360,
-        "ip": 333,
-        "phase3": 50,
+        "variant": "B.1.1.7",
+        "cp": 407,
+        "ip": 385,
+        "phase3": 58,
         "structure": 28
     },
     {
-        "strain": "B.1.351",
-        "cp": 355,
-        "ip": 187,
-        "phase3": 50,
+        "variant": "B.1.351",
+        "cp": 362,
+        "ip": 193,
+        "phase3": 54,
         "structure": 20
     },
     {
-        "strain": "P.1",
+        "variant": "P.1",
         "cp": 63,
         "ip": 78,
-        "phase3": 14,
+        "phase3": 18,
         "structure": 5
     },
     {
-        "strain": "CAL.20C",
+        "variant": "CAL.20C",
         "cp": 18,
         "ip": 37,
         "phase3": 0,
         "structure": 0
     },
     {
-        "strain": "Other muation combinations",
-        "cp": 480,
+        "variant": "Other muation combinations",
+        "cp": 498,
         "ip": 470,
-        "phase3": 147,
+        "phase3": 166,
         "structure": 162
     },
     {
-        "strain": "All combinations of mutations",
-        "cp": 1276,
-        "ip": 1105,
-        "phase3": 261,
+        "variant": "All combinations of mutations",
+        "cp": 1348,
+        "ip": 1163,
+        "phase3": 296,
         "structure": 215
     }
 ]

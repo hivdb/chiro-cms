@@ -1,11 +1,11 @@
-- strain: B.1.1.7
-  cas: 2<sub>5</sub>
+- variant: B.1.1.7
+  cas: 3<sub>7</sub>
   ete: 4.9<sub>3</sub>
-  tix: 1.7<sub>2</sub>
+  tix: 1.7<sub>3</sub>
   bam: 2.8<sub>4</sub>
-  cil: 1.1<sub>2</sub>
-  imd: 1<sub>5</sub>
-  sot: '&gt;100<sub>4</sub>*'
+  cil: 1.1<sub>3</sub>
+  imd: 1<sub>7</sub>
+  sot: '&gt;100<sub>5</sub>*'
   reg: '-'
   BRII-196: '-'
   BRII-198: '-'
@@ -13,14 +13,14 @@
   C144: '-'
   JMB2002: '-'
   S2E12: 1.1<sub>2</sub>
-- strain: B.1.351
-  cas: '&gt;100<sub>5</sub>'
+- variant: B.1.351
+  cas: '&gt;100<sub>6</sub>'
   ete: '&gt;100<sub>4</sub>'
   tix: 6.3<sub>2</sub>
   bam: '&gt;100<sub>4</sub>'
   cil: 1<sub>2</sub>
-  imd: 3.5<sub>5</sub>
-  sot: 2.2<sub>3</sub>
+  imd: 3.5<sub>6</sub>
+  sot: 2.2<sub>4</sub>
   reg: '-'
   BRII-196: '-'
   BRII-198: '-'
@@ -28,14 +28,14 @@
   C144: '-'
   JMB2002: '-'
   S2E12: 0.4<sub></sub>
-- strain: P.1
-  cas: '&gt;100<sub>3</sub>'
+- variant: P.1
+  cas: '&gt;100<sub>4</sub>'
   ete: '&gt;100<sub>2</sub>'
   tix: 3.5<sub></sub>
   bam: '&gt;100<sub>2</sub>'
   cil: 0.4<sub></sub>
-  imd: 0.7<sub>3</sub>
-  sot: 1.4<sub>2</sub>
+  imd: 0.7<sub>4</sub>
+  sot: 1.4<sub>3</sub>
   reg: '-'
   BRII-196: '-'
   BRII-198: '-'
@@ -43,13 +43,13 @@
   C144: '-'
   JMB2002: '-'
   S2E12: '-'
-- strain: E484K
-  cas: 30<sub>6</sub>
+- variant: E484K
+  cas: 30<sub>7</sub>
   ete: 4.4<sub>3</sub>
   tix: 8.1<sub>3</sub>
   bam: '&gt;100<sub>2</sub>'
   cil: 2<sub>3</sub>
-  imd: 10<sub>6</sub>
+  imd: 10<sub>7</sub>
   sot: 1.2<sub>3</sub>
   reg: '-'
   BRII-196: '-'
@@ -58,13 +58,13 @@
   C144: '&gt;100<sub>2</sub>'
   JMB2002: '-'
   S2E12: 4.4<sub></sub>
-- strain: N501Y
-  cas: 1.6<sub>5</sub>
+- variant: N501Y
+  cas: 1.6<sub>6</sub>
   ete: 5<sub>3</sub>
   tix: 1.7<sub>2</sub>
   bam: 1<sub></sub>
   cil: 1.3<sub>2</sub>
-  imd: 1<sub>5</sub>
+  imd: 1<sub>6</sub>
   sot: 3.1<sub>4</sub>*
   reg: '-'
   BRII-196: '-'
@@ -73,7 +73,7 @@
   C144: 1.4<sub></sub>
   JMB2002: '-'
   S2E12: 1.1<sub></sub>
-- strain: K417N
+- variant: K417N
   cas: 49<sub>4</sub>
   ete: '&gt;100<sub>3</sub>'
   tix: 0.4<sub>2</sub>
@@ -88,7 +88,7 @@
   C144: '-'
   JMB2002: '-'
   S2E12: 0.2<sub></sub>
-- strain: N439K
+- variant: N439K
   cas: 1.2<sub>3</sub>
   ete: 0.6<sub>2</sub>
   tix: '-'
@@ -103,13 +103,13 @@
   C144: 0.9<sub></sub>
   JMB2002: '-'
   S2E12: 0.9<sub></sub>
-- strain: L452R
-  cas: 1<sub></sub>
+- variant: L452R
+  cas: 1.3<sub>2</sub>
   ete: 1<sub>2</sub>
   tix: '-'
   bam: '&gt;100<sub></sub>'
   cil: '-'
-  imd: 5<sub></sub>
+  imd: 5<sub>2</sub>
   sot: '-'
   reg: '-'
   BRII-196: '-'
@@ -118,7 +118,7 @@
   C144: '-'
   JMB2002: 42<sub></sub>
   S2E12: '-'
-- strain: Y453F
+- variant: Y453F
   cas: '&gt;100<sub>5</sub>'
   ete: 0.6<sub></sub>
   tix: '-'

@@ -12,7 +12,7 @@ tables:
     tableStyle:
       tableLayout: fixed
     columnDefs:
-    - name: strain
+    - name: variant
       label: " "
     - name: cas
       label: "RBM-I\nCAS"
@@ -46,7 +46,7 @@ tables:
       _resource: susc-table/table3.yml
   Table4:
     columnDefs:
-    - name: strain
+    - name: variant
       label: " "
     - name: cp_studies
       label: "CP\nStudies\n&#35;"
@@ -72,7 +72,7 @@ tables:
       _resource: susc-table/table4.yml
   TableS3:
     columnDefs:
-    - name: strain
+    - name: variant
       label: Mutations
     - name: cp
       label: Convalescent plasma
@@ -86,7 +86,7 @@ tables:
       _resource: susc-table/tableS3.yml
   TableS4:
     columnDefs:
-    - name: strain
+    - name: variant
       label: Spike
     - name: assays.rx
       label: Plasma
@@ -107,7 +107,7 @@ tables:
       _resource: susc-table/tableS4.yml
   TableS5:
     columnDefs:
-    - name: strain
+    - name: variant
       label: Spike
     - name: assays.rx
       label: Mab
@@ -125,7 +125,7 @@ tables:
       _resource: susc-table/tableS5.yml
   TableS6:
     columnDefs:
-    - name: strain
+    - name: variant
       label: Spike
     - name: assays.rx
       label: Plasma
@@ -146,7 +146,7 @@ tables:
       _resource: susc-table/tableS6.yml
   TableS7:
     columnDefs:
-    - name: strain
+    - name: variant
       label: Spike
     - name: assays.rx
       label: Mab

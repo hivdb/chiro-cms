@@ -10,21 +10,30 @@ paddingTop: 20
 positionGroups:
   - label: B.1.1.7
     .: {_resource: mutation-viewer/position-groups/variant-clusters/b-1-1-7.yml}
+  - label: B.1.1.7 with S:E484K
+    .: {_resource: mutation-viewer/position-groups/variant-clusters/b-1-1-7-484k.yml}
   - label: B.1.351
     .: {_resource: mutation-viewer/position-groups/variant-clusters/b-1-351.yml}
   - label: P.1
     .: {_resource: mutation-viewer/position-groups/variant-clusters/p-1.yml}
-  - label: B.1.526
-    .: {_resource: mutation-viewer/position-groups/variant-clusters/b-1-526.yml}
-  - label: Cluster5
-    .: {_resource: mutation-viewer/position-groups/variant-clusters/cluster5.yml}
-  - label: B.1.141
-    .: {_resource: mutation-viewer/position-groups/variant-clusters/n439k.yml}
   - label: CAL.20C
     .: {_resource: mutation-viewer/position-groups/variant-clusters/b-1-429.yml}
-  - label: COH.20G/501Y
-    .: {_resource: mutation-viewer/position-groups/variant-clusters/tu-501y.yml}
   - label: P.2
     .: {_resource: mutation-viewer/position-groups/variant-clusters/p-2.yml}
+  - label: Cluster5
+    .: {_resource: mutation-viewer/position-groups/variant-clusters/cluster5.yml}
+  - label: PHL_B.1.1.28
+    .: {_resource: mutation-viewer/position-groups/variant-clusters/phl-b-1-1-28.yml}
+  - label: B.1.141
+    .: {_resource: mutation-viewer/position-groups/variant-clusters/n439k.yml}
+  - label: B.1.526
+    .: {_resource: mutation-viewer/position-groups/variant-clusters/b-1-526.yml}
+  - label: B.1.1.33 N9
+    .: {_resource: mutation-viewer/position-groups/variant-clusters/b-1-1-33-n9.yml}
+  - label: COH.20G/501Y
+    .: {_resource: mutation-viewer/position-groups/variant-clusters/tu-501y.yml}
+  - label: COH.20G/677H
+    .: {_resource: mutation-viewer/position-groups/variant-clusters/coh-20g-677h.yml}
+
 presets:
   _resource: mutation-viewer/index.yml

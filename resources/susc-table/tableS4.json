@@ -1,9 +1,33 @@
 [
     {
-        "strain": "B.1.1.7",
+        "variant": "B.1.1.7",
         "assays": [
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
+                "rx": "AZD1222",
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Supasa21*"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Brown21"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "s_fold": 8,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Brown21*"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "s_fold": 21,
                 "i_fold": 0,
@@ -11,7 +35,7 @@
                 "reference": "Collier21"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "s_fold": 20,
                 "i_fold": 4,
@@ -19,7 +43,7 @@
                 "reference": "Diamond21*"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "s_fold": 15,
                 "i_fold": 0,
@@ -27,7 +51,7 @@
                 "reference": "Hoffmann21"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "s_fold": 17,
                 "i_fold": 12,
@@ -35,7 +59,7 @@
                 "reference": "Marot21*"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "s_fold": 40,
                 "i_fold": 0,
@@ -43,7 +67,7 @@
                 "reference": "Muik21"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "s_fold": 8,
                 "i_fold": 2,
@@ -51,7 +75,15 @@
                 "reference": "Planas21"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "s_fold": 0,
+                "i_fold": 25,
+                "r_fold": 0,
+                "reference": "Supasa21*"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "s_fold": 9,
                 "i_fold": 1,
@@ -59,7 +91,7 @@
                 "reference": "Wang21b"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "s_fold": 10,
                 "i_fold": 0,
@@ -67,7 +99,23 @@
                 "reference": "Wang21b*"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
+                "rx": "CP",
+                "s_fold": 5,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Brown21"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP",
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Brown21*"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "CP",
                 "s_fold": 0,
                 "i_fold": 27,
@@ -75,7 +123,7 @@
                 "reference": "Collier21"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "CP",
                 "s_fold": 18,
                 "i_fold": 1,
@@ -83,7 +131,7 @@
                 "reference": "Diamond21*"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "CP",
                 "s_fold": 16,
                 "i_fold": 4,
@@ -91,7 +139,7 @@
                 "reference": "Edara21*"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "CP",
                 "s_fold": 27,
                 "i_fold": 3,
@@ -99,7 +147,7 @@
                 "reference": "Faulkner21*"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "CP",
                 "s_fold": 8,
                 "i_fold": 1,
@@ -107,7 +155,7 @@
                 "reference": "Hoffmann21"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "CP",
                 "s_fold": 13,
                 "i_fold": 5,
@@ -115,7 +163,7 @@
                 "reference": "Hu21"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "CP",
                 "s_fold": 6,
                 "i_fold": 3,
@@ -123,7 +171,7 @@
                 "reference": "Marot21*"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "CP",
                 "s_fold": 13,
                 "i_fold": 2,
@@ -131,7 +179,15 @@
                 "reference": "Shen21"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
+                "rx": "CP",
+                "s_fold": 34,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Supasa21*"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "CP",
                 "s_fold": 14,
                 "i_fold": 5,
@@ -139,7 +195,7 @@
                 "reference": "Wang21b"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "CP",
                 "s_fold": 20,
                 "i_fold": 0,
@@ -147,7 +203,7 @@
                 "reference": "Wang21b*"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "CP",
                 "s_fold": 23,
                 "i_fold": 0,
@@ -155,7 +211,7 @@
                 "reference": "Wang21f"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "CP(8M)",
                 "s_fold": 11,
                 "i_fold": 8,
@@ -163,7 +219,7 @@
                 "reference": "Hu21"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "NVX-CoV",
                 "s_fold": 20,
                 "i_fold": 7,
@@ -171,7 +227,7 @@
                 "reference": "Shen21"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
                 "s_fold": 14,
                 "i_fold": 0,
@@ -179,7 +235,7 @@
                 "reference": "Edara21*"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
                 "s_fold": 30,
                 "i_fold": 10,
@@ -187,7 +243,7 @@
                 "reference": "Shen21"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
                 "s_fold": 12,
                 "i_fold": 0,
@@ -195,7 +251,7 @@
                 "reference": "Wang21b"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
                 "s_fold": 12,
                 "i_fold": 0,
@@ -203,7 +259,7 @@
                 "reference": "Wang21b*"
             },
             {
-                "strain": "B.1.1.7",
+                "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
                 "s_fold": 8,
                 "i_fold": 0,
@@ -213,10 +269,18 @@
         ]
     },
     {
-        "strain": "B.1.351",
+        "variant": "B.1.351",
         "assays": [
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "s_fold": 1,
+                "i_fold": 3,
+                "r_fold": 2,
+                "reference": "Becker21*"
+            },
+            {
+                "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "s_fold": 0,
                 "i_fold": 12,
@@ -224,7 +288,7 @@
                 "reference": "Diamond21*"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "s_fold": 4,
                 "i_fold": 9,
@@ -232,7 +296,7 @@
                 "reference": "Hoffmann21"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "s_fold": 15,
                 "i_fold": 5,
@@ -240,7 +304,7 @@
                 "reference": "Liu21b"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "s_fold": 3,
                 "i_fold": 23,
@@ -248,7 +312,7 @@
                 "reference": "Marot21*"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "s_fold": 3,
                 "i_fold": 6,
@@ -256,7 +320,7 @@
                 "reference": "Planas21"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "s_fold": 2,
                 "i_fold": 3,
@@ -264,7 +328,7 @@
                 "reference": "Tada21"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "s_fold": 4,
                 "i_fold": 4,
@@ -272,7 +336,7 @@
                 "reference": "Wang21b"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "s_fold": 0,
                 "i_fold": 5,
@@ -280,7 +344,15 @@
                 "reference": "Wang21b*"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
+                "rx": "CP",
+                "s_fold": 3,
+                "i_fold": 1,
+                "r_fold": 3,
+                "reference": "Becker21*"
+            },
+            {
+                "variant": "B.1.351",
                 "rx": "CP",
                 "s_fold": 9,
                 "i_fold": 7,
@@ -288,7 +360,7 @@
                 "reference": "Diamond21*"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "CP",
                 "s_fold": 1,
                 "i_fold": 18,
@@ -296,7 +368,7 @@
                 "reference": "Faulkner21*"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "CP",
                 "s_fold": 4,
                 "i_fold": 4,
@@ -304,7 +376,7 @@
                 "reference": "Hoffmann21"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "CP",
                 "s_fold": 4,
                 "i_fold": 9,
@@ -312,7 +384,7 @@
                 "reference": "Hu21"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "CP",
                 "s_fold": 0,
                 "i_fold": 8,
@@ -320,7 +392,7 @@
                 "reference": "Marot21*"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "CP",
                 "s_fold": 5,
                 "i_fold": 10,
@@ -328,7 +400,7 @@
                 "reference": "Moyo-Gwete21"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "CP",
                 "s_fold": 9,
                 "i_fold": 1,
@@ -336,7 +408,7 @@
                 "reference": "Tada21"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "CP",
                 "s_fold": 4,
                 "i_fold": 9,
@@ -344,7 +416,7 @@
                 "reference": "Wang21b"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "CP",
                 "s_fold": 6,
                 "i_fold": 9,
@@ -352,7 +424,7 @@
                 "reference": "Wang21b*"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "CP",
                 "s_fold": 3,
                 "i_fold": 7,
@@ -360,7 +432,7 @@
                 "reference": "Wang21f"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "CP(8M)",
                 "s_fold": 5,
                 "i_fold": 9,
@@ -368,7 +440,7 @@
                 "reference": "Hu21"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "CP(High Titer)",
                 "s_fold": 1,
                 "i_fold": 7,
@@ -376,7 +448,7 @@
                 "reference": "Wibmer21"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "CP(Low Titer)",
                 "s_fold": 4,
                 "i_fold": 2,
@@ -384,7 +456,7 @@
                 "reference": "Wibmer21"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "CP(WT)",
                 "s_fold": 0,
                 "i_fold": 2,
@@ -392,7 +464,7 @@
                 "reference": "Cele21*"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "mRNA-1273",
                 "s_fold": 1,
                 "i_fold": 8,
@@ -400,7 +472,7 @@
                 "reference": "Wang21b"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "mRNA-1273",
                 "s_fold": 0,
                 "i_fold": 5,
@@ -408,7 +480,7 @@
                 "reference": "Wang21b*"
             },
             {
-                "strain": "B.1.351",
+                "variant": "B.1.351",
                 "rx": "mRNA-1273",
                 "s_fold": 0,
                 "i_fold": 8,
@@ -418,10 +490,10 @@
         ]
     },
     {
-        "strain": "CAL.20C",
+        "variant": "CAL.20C",
         "assays": [
             {
-                "strain": "CAL.20C",
+                "variant": "CAL.20C",
                 "rx": "BNT162b2",
                 "s_fold": 3,
                 "i_fold": 0,
@@ -429,7 +501,7 @@
                 "reference": "Deng21"
             },
             {
-                "strain": "CAL.20C",
+                "variant": "CAL.20C",
                 "rx": "CP",
                 "s_fold": 7,
                 "i_fold": 10,
@@ -437,7 +509,7 @@
                 "reference": "Deng21"
             },
             {
-                "strain": "CAL.20C",
+                "variant": "CAL.20C",
                 "rx": "mRNA-1273",
                 "s_fold": 7,
                 "i_fold": 1,
@@ -447,10 +519,10 @@
         ]
     },
     {
-        "strain": "P.1",
+        "variant": "P.1",
         "assays": [
             {
-                "strain": "P.1",
+                "variant": "P.1",
                 "rx": "BNT162b2",
                 "s_fold": 12,
                 "i_fold": 3,
@@ -458,7 +530,7 @@
                 "reference": "Diamond21*"
             },
             {
-                "strain": "P.1",
+                "variant": "P.1",
                 "rx": "BNT162b2",
                 "s_fold": 7,
                 "i_fold": 7,
@@ -466,7 +538,7 @@
                 "reference": "Hoffmann21"
             },
             {
-                "strain": "P.1",
+                "variant": "P.1",
                 "rx": "BNT162b2",
                 "s_fold": 8,
                 "i_fold": 1,
@@ -474,7 +546,7 @@
                 "reference": "Wang21c"
             },
             {
-                "strain": "P.1",
+                "variant": "P.1",
                 "rx": "CP",
                 "s_fold": 7,
                 "i_fold": 2,
@@ -482,7 +554,7 @@
                 "reference": "Diamond21*"
             },
             {
-                "strain": "P.1",
+                "variant": "P.1",
                 "rx": "CP",
                 "s_fold": 2,
                 "i_fold": 6,
@@ -490,7 +562,7 @@
                 "reference": "Hoffmann21"
             },
             {
-                "strain": "P.1",
+                "variant": "P.1",
                 "rx": "CP",
                 "s_fold": 12,
                 "i_fold": 7,
@@ -498,7 +570,7 @@
                 "reference": "Wang21c"
             },
             {
-                "strain": "P.1",
+                "variant": "P.1",
                 "rx": "CP",
                 "s_fold": 15,
                 "i_fold": 5,
@@ -506,7 +578,7 @@
                 "reference": "Wang21f"
             },
             {
-                "strain": "P.1",
+                "variant": "P.1",
                 "rx": "mRNA-1273",
                 "s_fold": 5,
                 "i_fold": 7,
