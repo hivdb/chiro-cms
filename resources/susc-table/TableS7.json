@@ -1400,6 +1400,130 @@
         ]
     },
     {
+        "variant": "S494P",
+        "assays": [
+            {
+                "variant": "S494P",
+                "rx": "Casirivimab+Imdevimab",
+                "mab_class": "",
+                "fold": "1.1",
+                "reference": "Copin21"
+            },
+            {
+                "variant": "S494P",
+                "rx": "4A8",
+                "mab_class": "NTD",
+                "fold": "0.9",
+                "reference": "Wang21f"
+            },
+            {
+                "variant": "S494P",
+                "rx": "C135",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.8",
+                "reference": "Weisblum20"
+            },
+            {
+                "variant": "S494P",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1",
+                "reference": "Copin21"
+            },
+            {
+                "variant": "S494P",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.8",
+                "reference": "Wang21f"
+            },
+            {
+                "variant": "S494P",
+                "rx": "Sotrovimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1.5",
+                "reference": "Wang21f"
+            },
+            {
+                "variant": "S494P",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "2.1",
+                "reference": "Wang21f"
+            },
+            {
+                "variant": "S494P",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "4.5",
+                "reference": "Copin21"
+            },
+            {
+                "variant": "S494P",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.5",
+                "reference": "Gottlieb21"
+            },
+            {
+                "variant": "S494P",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.6",
+                "reference": "Wang21f"
+            },
+            {
+                "variant": "S494P",
+                "rx": "P2C-1F11",
+                "mab_class": "RBM Class I",
+                "fold": "0.7",
+                "reference": "Wang21f"
+            },
+            {
+                "variant": "S494P",
+                "rx": "S2E12",
+                "mab_class": "RBM Class I",
+                "fold": "0.5",
+                "reference": "Tortorici20"
+            },
+            {
+                "variant": "S494P",
+                "rx": "BD-368-2",
+                "mab_class": "RBM Class II",
+                "fold": "1.5",
+                "reference": "Wang21f"
+            },
+            {
+                "variant": "S494P",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Gottlieb21"
+            },
+            {
+                "variant": "S494P",
+                "rx": "C121",
+                "mab_class": "RBM Class II",
+                "fold": "27",
+                "reference": "Weisblum20"
+            },
+            {
+                "variant": "S494P",
+                "rx": "C144",
+                "mab_class": "RBM Class III",
+                "fold": "45",
+                "reference": "Weisblum20"
+            },
+            {
+                "variant": "S494P",
+                "rx": "S2M11",
+                "mab_class": "RBM Class III",
+                "fold": "&gt;100",
+                "reference": "Tortorici20"
+            }
+        ]
+    },
+    {
         "variant": "Y453F",
         "assays": [
             {
