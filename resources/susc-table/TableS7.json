@@ -388,6 +388,88 @@
         ]
     },
     {
+        "variant": "F490S",
+        "assays": [
+            {
+                "variant": "F490S",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "Baum20"
+            },
+            {
+                "variant": "F490S",
+                "rx": "C135",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1.2",
+                "reference": "Weisblum20"
+            },
+            {
+                "variant": "F490S",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1.2",
+                "reference": "Baum20"
+            },
+            {
+                "variant": "F490S",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1.5",
+                "reference": "Rothenberger21"
+            },
+            {
+                "variant": "F490S",
+                "rx": "Sotrovimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.9",
+                "reference": "Cathcart21"
+            },
+            {
+                "variant": "F490S",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "1.2",
+                "reference": "Baum20"
+            },
+            {
+                "variant": "F490S",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.8",
+                "reference": "Rothenberger21"
+            },
+            {
+                "variant": "F490S",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.8",
+                "reference": "Gottlieb21"
+            },
+            {
+                "variant": "F490S",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Gottlieb21"
+            },
+            {
+                "variant": "F490S",
+                "rx": "C121",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Weisblum20"
+            },
+            {
+                "variant": "F490S",
+                "rx": "C144",
+                "mab_class": "RBM Class III",
+                "fold": "4.5",
+                "reference": "Weisblum20"
+            }
+        ]
+    },
+    {
         "variant": "K417N",
         "assays": [
             {
