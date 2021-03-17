@@ -108,7 +108,7 @@
   - variant: B.1.1.7
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '1'
+    fold: '0.9'
     reference: Supasa21*
   - variant: B.1.1.7
     rx: Imdevimab
@@ -140,6 +140,11 @@
     mab_class: RBD Core Cluster I
     fold: '&gt;100'
     reference: Shen21
+  - variant: B.1.1.7
+    rx: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '1.5'
+    reference: Supasa21*
   - variant: B.1.1.7
     rx: Sotrovimab
     mab_class: RBD Core Cluster I
@@ -218,13 +223,13 @@
   - variant: B.1.1.7
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '3'
-    reference: Supasa21*
+    fold: '1'
+    reference: Wang21b*
   - variant: B.1.1.7
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '1'
-    reference: Wang21b*
+    fold: '3.3'
+    reference: Supasa21*
   - variant: B.1.1.7
     rx: Etesevimab
     mab_class: RBM Class I
@@ -240,6 +245,11 @@
     mab_class: RBM Class I
     fold: '4.9'
     reference: Wang21f
+  - variant: B.1.1.7
+    rx: Etesevimab
+    mab_class: RBM Class I
+    fold: '1.5'
+    reference: Supasa21*
   - variant: B.1.1.7
     rx: Etesevimab
     mab_class: RBM Class I
@@ -278,7 +288,7 @@
   - variant: B.1.1.7
     rx: Tixagevimab
     mab_class: RBM Class I
-    fold: '1'
+    fold: '2.2'
     reference: Supasa21*
   - variant: B.1.1.7
     rx: Tixagevimab
@@ -305,6 +315,11 @@
     mab_class: RBM Class II
     fold: '0.6'
     reference: Wang21e
+  - variant: B.1.1.7
+    rx: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '1.5'
+    reference: Supasa21*
   - variant: B.1.1.7
     rx: Bamlanivimab
     mab_class: RBM Class II
@@ -338,7 +353,7 @@
   - variant: B.1.1.7
     rx: Cilgavimab
     mab_class: RBM Class II
-    fold: '1'
+    fold: '0.9'
     reference: Supasa21*
   - variant: B.1.1.7
     rx: Cilgavimab
@@ -470,6 +485,11 @@
   - variant: B.1.351
     rx: Imdevimab
     mab_class: RBD Core Cluster I
+    fold: '0.2'
+    reference: Zhou21b*
+  - variant: B.1.351
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
     fold: '3.5'
     reference: Wang21b*
   - variant: B.1.351
@@ -497,6 +517,11 @@
     mab_class: RBD Core Cluster I
     fold: '2.2'
     reference: Wang21b*
+  - variant: B.1.351
+    rx: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '2'
+    reference: Zhou21b*
   - variant: B.1.351
     rx: COVA1-16
     mab_class: RBD Core Cluster II
@@ -548,6 +573,11 @@
     fold: '&gt;100'
     reference: Wang21b*
   - variant: B.1.351
+    rx: Casirivimab
+    mab_class: RBM Class I
+    fold: '&gt;100'
+    reference: Zhou21b*
+  - variant: B.1.351
     rx: Etesevimab
     mab_class: RBM Class I
     fold: '&gt;100'
@@ -573,6 +603,11 @@
     fold: '&gt;100'
     reference: Wang21b*
   - variant: B.1.351
+    rx: Etesevimab
+    mab_class: RBM Class I
+    fold: '&gt;100'
+    reference: Zhou21b*
+  - variant: B.1.351
     rx: P2C-1F11
     mab_class: RBM Class I
     fold: '0.5'
@@ -597,6 +632,11 @@
     mab_class: RBM Class I
     fold: '6.3'
     reference: Wang21b*
+  - variant: B.1.351
+    rx: Tixagevimab
+    mab_class: RBM Class I
+    fold: '8.9'
+    reference: Zhou21b*
   - variant: B.1.351
     rx: BD-368-2
     mab_class: RBM Class II
@@ -628,6 +668,11 @@
     fold: '&gt;100'
     reference: Widera21*
   - variant: B.1.351
+    rx: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '&gt;100'
+    reference: Zhou21b*
+  - variant: B.1.351
     rx: C119
     mab_class: RBM Class II
     fold: '&gt;100'
@@ -657,6 +702,11 @@
     mab_class: RBM Class II
     fold: '0.3'
     reference: Wang21b*
+  - variant: B.1.351
+    rx: Cilgavimab
+    mab_class: RBM Class II
+    fold: '1.1'
+    reference: Zhou21b*
   - variant: B.1.351
     rx: P2B-2F6
     mab_class: RBM Class II
@@ -705,6 +755,11 @@
     fold: '0.3'
     reference: Wang21f
   - variant: P.1
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.4'
+    reference: Dejnirattisai21*
+  - variant: P.1
     rx: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '0.4'
@@ -719,6 +774,11 @@
     mab_class: RBD Core Cluster I
     fold: '0.7'
     reference: Wang21f
+  - variant: P.1
+    rx: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '1.9'
+    reference: Dejnirattisai21*
   - variant: P.1
     rx: Casirivimab
     mab_class: RBM Class I
@@ -740,6 +800,11 @@
     fold: '&gt;100'
     reference: Wang21c
   - variant: P.1
+    rx: Casirivimab
+    mab_class: RBM Class I
+    fold: '&gt;100'
+    reference: Dejnirattisai21*
+  - variant: P.1
     rx: Etesevimab
     mab_class: RBM Class I
     fold: '&gt;100'
@@ -749,6 +814,11 @@
     mab_class: RBM Class I
     fold: '&gt;100'
     reference: Wang21f
+  - variant: P.1
+    rx: Etesevimab
+    mab_class: RBM Class I
+    fold: '&gt;100'
+    reference: Dejnirattisai21*
   - variant: P.1
     rx: P2C-1F11
     mab_class: RBM Class I
@@ -759,6 +829,11 @@
     mab_class: RBM Class I
     fold: '3.5'
     reference: Wang21c
+  - variant: P.1
+    rx: Tixagevimab
+    mab_class: RBM Class I
+    fold: '8.8'
+    reference: Dejnirattisai21*
   - variant: P.1
     rx: BD-368-2
     mab_class: RBM Class II
@@ -775,6 +850,11 @@
     fold: '&gt;100'
     reference: Wang21c
   - variant: P.1
+    rx: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '&gt;100'
+    reference: Dejnirattisai21*
+  - variant: P.1
     rx: C121
     mab_class: RBM Class II
     fold: '&gt;100'
@@ -784,3 +864,8 @@
     mab_class: RBM Class II
     fold: '0.4'
     reference: Wang21c
+  - variant: P.1
+    rx: Cilgavimab
+    mab_class: RBM Class II
+    fold: '0.5'
+    reference: Dejnirattisai21*

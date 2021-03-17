@@ -38,9 +38,9 @@
     reference: Hoffmann21
   - variant: B.1.1.7
     rx: BNT162b2
-    s_fold: 17
-    i_fold: 12
-    r_fold: 0
+    s_fold: 16
+    i_fold: 10
+    r_fold: 3
     reference: Marot21*
   - variant: B.1.1.7
     rx: BNT162b2
@@ -122,9 +122,9 @@
     reference: Hu21
   - variant: B.1.1.7
     rx: CP
-    s_fold: 6
-    i_fold: 3
-    r_fold: 0
+    s_fold: 5
+    i_fold: 2
+    r_fold: 2
     reference: Marot21*
   - variant: B.1.1.7
     rx: CP
@@ -201,6 +201,18 @@
 - variant: B.1.351
   assays:
   - variant: B.1.351
+    rx: AZD1222
+    s_fold: 0
+    i_fold: 3
+    r_fold: 22
+    reference: Madhi21
+  - variant: B.1.351
+    rx: AZD1222
+    s_fold: 2
+    i_fold: 11
+    r_fold: 12
+    reference: Zhou21b*
+  - variant: B.1.351
     rx: BNT162b2
     s_fold: 1
     i_fold: 3
@@ -227,8 +239,8 @@
   - variant: B.1.351
     rx: BNT162b2
     s_fold: 3
-    i_fold: 23
-    r_fold: 3
+    i_fold: 19
+    r_fold: 7
     reference: Marot21*
   - variant: B.1.351
     rx: BNT162b2
@@ -255,6 +267,12 @@
     r_fold: 4
     reference: Wang21b*
   - variant: B.1.351
+    rx: BNT162b2
+    s_fold: 1
+    i_fold: 14
+    r_fold: 9
+    reference: Zhou21b*
+  - variant: B.1.351
     rx: CP
     s_fold: 3
     i_fold: 1
@@ -269,8 +287,8 @@
   - variant: B.1.351
     rx: CP
     s_fold: 1
-    i_fold: 18
-    r_fold: 9
+    i_fold: 11
+    r_fold: 16
     reference: Faulkner21*
   - variant: B.1.351
     rx: CP
@@ -287,8 +305,8 @@
   - variant: B.1.351
     rx: CP
     s_fold: 0
-    i_fold: 8
-    r_fold: 1
+    i_fold: 2
+    r_fold: 7
     reference: Marot21*
   - variant: B.1.351
     rx: CP
@@ -320,6 +338,12 @@
     i_fold: 7
     r_fold: 14
     reference: Wang21f
+  - variant: B.1.351
+    rx: CP
+    s_fold: 3
+    i_fold: 11
+    r_fold: 20
+    reference: Zhou21b*
   - variant: B.1.351
     rx: CP(8M)
     s_fold: 5
@@ -385,6 +409,18 @@
 - variant: P.1
   assays:
   - variant: P.1
+    rx: AZD1222
+    s_fold: 17
+    i_fold: 7
+    r_fold: 1
+    reference: Dejnirattisai21*
+  - variant: P.1
+    rx: BNT162b2
+    s_fold: 14
+    i_fold: 10
+    r_fold: 0
+    reference: Dejnirattisai21*
+  - variant: P.1
     rx: BNT162b2
     s_fold: 12
     i_fold: 3
@@ -402,6 +438,12 @@
     i_fold: 1
     r_fold: 1
     reference: Wang21c
+  - variant: P.1
+    rx: CP
+    s_fold: 18
+    i_fold: 14
+    r_fold: 2
+    reference: Dejnirattisai21*
   - variant: P.1
     rx: CP
     s_fold: 7

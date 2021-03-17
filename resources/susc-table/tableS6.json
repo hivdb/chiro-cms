@@ -187,6 +187,14 @@
         "assays": [
             {
                 "variant": "K417N + E484K + N501Y",
+                "rx": "AZD1222",
+                "s_fold": 1,
+                "i_fold": 7,
+                "r_fold": 17,
+                "reference": "Madhi21"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
                 "rx": "CP",
                 "s_fold": 12,
                 "i_fold": 5,
