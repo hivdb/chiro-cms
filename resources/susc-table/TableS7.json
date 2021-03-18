@@ -20,26 +20,33 @@
                 "variant": "E484K",
                 "rx": "Casirivimab+Imdevimab",
                 "mab_class": "",
-                "fold": "1.6",
-                "reference": "Copin21"
-            },
-            {
-                "variant": "E484K",
-                "rx": "Casirivimab/Imdevimab",
-                "mab_class": "",
                 "fold": "1.9",
                 "reference": "Baum20"
             },
             {
                 "variant": "E484K",
-                "rx": "Tixagevimab + Cilgavimab",
+                "rx": "Casirivimab+Imdevimab",
+                "mab_class": "",
+                "fold": "1.6",
+                "reference": "Copin21"
+            },
+            {
+                "variant": "E484K",
+                "rx": "Cilgavimab+Tixagevimab",
                 "mab_class": "",
                 "fold": "3.2",
                 "reference": "Diamond21"
             },
             {
                 "variant": "E484K",
-                "rx": "Vir-7831+S2E12",
+                "rx": "Imdevimab+REGN10989",
+                "mab_class": "",
+                "fold": "15",
+                "reference": "Baum20"
+            },
+            {
+                "variant": "E484K",
+                "rx": "S2E12+Vir-7831",
                 "mab_class": "",
                 "fold": "6.9",
                 "reference": "Diamond21"
@@ -345,14 +352,14 @@
         "assays": [
             {
                 "variant": "E484K + N501Y",
-                "rx": "Tixagevimab + Cilgavimab",
+                "rx": "Cilgavimab+Tixagevimab",
                 "mab_class": "",
                 "fold": "2",
                 "reference": "Diamond21"
             },
             {
                 "variant": "E484K + N501Y",
-                "rx": "Vir-7831+S2E12",
+                "rx": "S2E12+Vir-7831",
                 "mab_class": "",
                 "fold": "11",
                 "reference": "Diamond21"
@@ -392,9 +399,16 @@
         "assays": [
             {
                 "variant": "F490S",
-                "rx": "Casirivimab/Imdevimab",
+                "rx": "Casirivimab+Imdevimab",
                 "mab_class": "",
                 "fold": "1",
+                "reference": "Baum20"
+            },
+            {
+                "variant": "F490S",
+                "rx": "Imdevimab+REGN10989",
+                "mab_class": "",
+                "fold": "5.4",
                 "reference": "Baum20"
             },
             {
@@ -481,14 +495,14 @@
             },
             {
                 "variant": "K417N",
-                "rx": "Tixagevimab + Cilgavimab",
+                "rx": "Cilgavimab+Tixagevimab",
                 "mab_class": "",
                 "fold": "0.5",
                 "reference": "Diamond21"
             },
             {
                 "variant": "K417N",
-                "rx": "Vir-7831+S2E12",
+                "rx": "S2E12+Vir-7831",
                 "mab_class": "",
                 "fold": "0.2",
                 "reference": "Diamond21"
@@ -703,14 +717,14 @@
         "assays": [
             {
                 "variant": "K417N + E484K + N501Y",
-                "rx": "Tixagevimab + Cilgavimab",
+                "rx": "Cilgavimab+Tixagevimab",
                 "mab_class": "",
                 "fold": "1",
                 "reference": "Diamond21"
             },
             {
                 "variant": "K417N + E484K + N501Y",
-                "rx": "Vir-7831+S2E12",
+                "rx": "S2E12+Vir-7831",
                 "mab_class": "",
                 "fold": "0.9",
                 "reference": "Diamond21"
@@ -993,7 +1007,7 @@
         "assays": [
             {
                 "variant": "N439K",
-                "rx": "Casirivimab/Imdevimab",
+                "rx": "Casirivimab+Imdevimab",
                 "mab_class": "",
                 "fold": "1.7",
                 "reference": "Starr21"
@@ -1187,14 +1201,14 @@
             },
             {
                 "variant": "N501Y",
-                "rx": "Tixagevimab + Cilgavimab",
+                "rx": "Cilgavimab+Tixagevimab",
                 "mab_class": "",
                 "fold": "1.2",
                 "reference": "Diamond21"
             },
             {
                 "variant": "N501Y",
-                "rx": "Vir-7831+S2E12",
+                "rx": "S2E12+Vir-7831",
                 "mab_class": "",
                 "fold": "1.9",
                 "reference": "Diamond21"
@@ -1610,9 +1624,16 @@
         "assays": [
             {
                 "variant": "Y453F",
-                "rx": "Casirivimab/Imdevimab",
+                "rx": "Casirivimab+Imdevimab",
                 "mab_class": "",
                 "fold": "3.5",
+                "reference": "Baum20"
+            },
+            {
+                "variant": "Y453F",
+                "rx": "Imdevimab+REGN10989",
+                "mab_class": "",
+                "fold": "2",
                 "reference": "Baum20"
             },
             {
@@ -2073,14 +2094,14 @@
         "assays": [
             {
                 "variant": "∆69/70 + N501Y",
-                "rx": "Tixagevimab + Cilgavimab",
+                "rx": "Cilgavimab+Tixagevimab",
                 "mab_class": "",
                 "fold": "1.4",
                 "reference": "Diamond21"
             },
             {
                 "variant": "∆69/70 + N501Y",
-                "rx": "Vir-7831+S2E12",
+                "rx": "S2E12+Vir-7831",
                 "mab_class": "",
                 "fold": "1.1",
                 "reference": "Diamond21"

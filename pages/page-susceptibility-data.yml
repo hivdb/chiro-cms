@@ -28,14 +28,20 @@ tables:
       label: "Core-I\nIMD"
     - name: sot
       label: "Core-I\nSOT"
+    - name: bam_ete
+      label: "BAM+\nETE"
+    - name: cas_imd
+      label: "CAS+\nIMD"
+    - name: cil_tix
+      label: "CIL+\nTIX"
     # - name: reg
     #   label: "RBM-I\nREG"
-    - name: S2E12
-      label: "RBM-I\nS2E12"
-    - name: C144
-      label: "RBM-III\nC144"
-    - name: C135
-      label: "Core-I\nC135"
+    # - name: S2E12
+    #   label: "RBM-I\nS2E12"
+    # - name: C144
+    #   label: "RBM-III\nC144"
+    # - name: C135
+    #   label: "Core-I\nC135"
     # - name: BRII-196
     #   label: BRII-196
     # - name: BRII-198
