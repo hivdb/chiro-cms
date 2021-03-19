@@ -8,6 +8,10 @@ positions:
 - name: PL:K977Q     # ORF1a:K1795Q
   pos: 5648
   <<: *non-spike
+- name: nsp6:SGF106-108del  # ORF1ab:SGF3675-3677del
+  label: nsp6:SGF106-108Δ
+  pos: 11288
+  <<: *non-spike
 - name: RdRP:P323L   # ORF1ab:P4715L
   pos: 14407
   <<: *non-spike
