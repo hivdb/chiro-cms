@@ -152,7 +152,7 @@ Table3
 
 - RBM-I: mAbs binding to the receptor binding motif - class I; RBM-II: mAbs binding to the RBM - class II; Core-I: mAbs binding to the RBD core. CAS (casirivimab), ETE (etesevimab), TIX (tixagevimab), BAM (bamlanivimab), CIL (cilgavimab), IMD (imdevimab), and SOT (Sotrovimab) are in phase III clinical trials. C144-LS and C135-LS are in phase I clinical trials. S2E12 is used with Sotrovimab in an antibody cocktail.
 - B.1.1.7 contains the following spike mutations: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. B.1.351 contains L18F, D80A, D215G, ∆242-244, K417N, E484K, N501Y, D614G, and A701V. P.1 contains L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
-- “-“ indicates absence of susceptibility data. “\*“ indicates conflict between two research groups, with one showing high-level of reduced susceptibility especially using IC80 rather than IC50.
+- The fold change is the median value of results, the subscript is the number of results. “-“ indicates absence of susceptibility data. “\*“ indicates conflict between two research groups, with one showing high-level of reduced susceptibility especially using IC80 rather than IC50.
 
 ### Fold Reduction in Neutralizing Susceptibility of Convalescent Plasma and Plasma from Vaccinated Persons for Pseudotyped Viruses and Isogenic Clones Containing Individual Mutations or Combinations of Mutations
 

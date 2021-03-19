@@ -4,30 +4,6 @@
         "assays": [
             {
                 "variant": "B.1.1.7",
-                "rx": "AZD1222",
-                "s_fold": 10,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Supasa21*"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "BNT162b2",
-                "s_fold": 8,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Brown21"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "BNT162b2",
-                "s_fold": 8,
-                "i_fold": 1,
-                "r_fold": 0,
-                "reference": "Brown21*"
-            },
-            {
-                "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "s_fold": 21,
                 "i_fold": 0,
@@ -77,14 +53,6 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "s_fold": 0,
-                "i_fold": 25,
-                "r_fold": 0,
-                "reference": "Supasa21*"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "BNT162b2",
                 "s_fold": 9,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -97,30 +65,6 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Wang21b*"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "CP",
-                "s_fold": 5,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Brown21"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "CP",
-                "s_fold": 8,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Brown21*"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "CP",
-                "s_fold": 0,
-                "i_fold": 27,
-                "r_fold": 0,
-                "reference": "Collier21"
             },
             {
                 "variant": "B.1.1.7",
@@ -177,14 +121,6 @@
                 "i_fold": 2,
                 "r_fold": 0,
                 "reference": "Shen21"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "CP",
-                "s_fold": 34,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Supasa21*"
             },
             {
                 "variant": "B.1.1.7",

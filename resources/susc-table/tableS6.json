@@ -195,6 +195,14 @@
             },
             {
                 "variant": "K417N + E484K + N501Y",
+                "rx": "BNT162b2",
+                "s_fold": 17,
+                "i_fold": 3,
+                "r_fold": 0,
+                "reference": "Liu21b"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
                 "rx": "CP",
                 "s_fold": 12,
                 "i_fold": 5,
@@ -224,6 +232,14 @@
                 "i_fold": 6,
                 "r_fold": 6,
                 "reference": "Wibmer21"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "mRNA-1273",
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wu21"
             }
         ]
     },
@@ -391,6 +407,14 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Wang21b"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "mRNA-1273",
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wu21"
             }
         ]
     },
@@ -534,14 +558,6 @@
                 "rx": "BNT162b2",
                 "s_fold": 15,
                 "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Collier21"
-            },
-            {
-                "variant": "∆69/70 + N501Y + A570D",
-                "rx": "CP",
-                "s_fold": 9,
-                "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Collier21"
             }
