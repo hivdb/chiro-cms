@@ -1,7 +1,7 @@
 [
     {
         "variant": "N501Y",
-        "cp": 133,
+        "cp": 148,
         "ip": 106,
         "phase3": 36,
         "structure": 17
@@ -22,14 +22,14 @@
     },
     {
         "variant": "All individual mutations",
-        "cp": 839,
+        "cp": 854,
         "ip": 596,
         "phase3": 650,
         "structure": 521
     },
     {
         "variant": "B.1.1.7",
-        "cp": 407,
+        "cp": 422,
         "ip": 385,
         "phase3": 61,
         "structure": 28
@@ -64,7 +64,7 @@
     },
     {
         "variant": "All combinations of mutations",
-        "cp": 1416,
+        "cp": 1431,
         "ip": 1311,
         "phase3": 313,
         "structure": 215
