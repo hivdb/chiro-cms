@@ -5,14 +5,6 @@
 <!-- B.1.1.7 -->
 <section id="sec_b-1-1-7" class="figure-section wrap">
 
-<div class="figure-image">
-
-[genomemap]
-b-1-1-7
-[/genomemap]
-
-</div>
-
 <div class="figure-caption">
 
 ### [B.1.1.7, aka 501Y.V1 variant, 20I/501Y.V1, and UK COVID variant](#sec_b-1-1-7)
@@ -21,18 +13,18 @@ Rambaut A, Loman N, et int., and Volz E. “Preliminary genomic characterisation
 
 </div>
 
+<div class="figure-image">
+
+[genomemap]
+b-1-1-7
+[/genomemap]
+
+</div>
+
 </section>
 
 <!-- B.1.1.7 E484K-->
 <section id="sec_b-1-1-7-484k" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-b-1-1-7-484k
-[/genomemap]
-
-</div>
 
 <div class="figure-caption">
 
@@ -42,18 +34,18 @@ Latif AA, Gangavarapu K, et int., and the Center for Viral Systems Biology . [�
 
 </div>
 
+<div class="figure-image">
+
+[genomemap]
+b-1-1-7-484k
+[/genomemap]
+
+</div>
+
 </section>
 
 <!-- B.1.351 -->
 <section id="sec_b-1-351" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-b-1-351
-[/genomemap]
-
-</div>
 
 <div class="figure-caption">
 
@@ -63,24 +55,32 @@ Tegally H, Wilkinson E, et int., and de Oliveira T. “Emergence and rapid sprea
 
 </div>
 
+<div class="figure-image">
+
+[genomemap]
+b-1-351
+[/genomemap]
+
+</div>
+
 </section>
 
 <!-- P.1 -->
 <section id="sec_p-1" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-p-1
-[/genomemap]
-
-</div>
 
 <div class="figure-caption">
 
 ### [P.1, aka B.1.1.28.1, 20J/501Y.V3 variant, and K417T/E484K/N501Y](#sec_p-1)
 
 Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
+
+</div>
+
+<div class="figure-image">
+
+[genomemap]
+p-1
+[/genomemap]
 
 </div>
 
@@ -91,14 +91,6 @@ Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SA
 <!-- PHL-B.1.1.28 -->
 <section id="sec_phl-b-1-1-28" class="figure-section wrap">
 
-<div class="figure-image">
-
-[genomemap]
-phl-b-1-1-28
-[/genomemap]
-
-</div>
-
 <div class="figure-caption">
 
 ### [PHL-B.1.1.28](#phl-b-1-1-28)
@@ -108,18 +100,18 @@ Tablizo FA, Kim KM, et int., and Saloma CP. “Genome sequencing and analysis of
 
 </div>
 
+<div class="figure-image">
+
+[genomemap]
+phl-b-1-1-28
+[/genomemap]
+
+</div>
+
 </section>
 
 <!-- B.1.141 -->
 <section id="sec_n439k" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-n439k
-[/genomemap]
-
-</div>
 
 <div class="figure-caption">
 
@@ -129,18 +121,18 @@ Thomson EC, Rosen LE, et int., and Snell G. “The circulating SARS-CoV-2 spike 
 
 </div>
 
+<div class="figure-image">
+
+[genomemap]
+n439k
+[/genomemap]
+
+</div>
+
 </section>
 
 <!-- B.1.526 -->
 <section id="sec_b-1-526" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-b-1-526
-[/genomemap]
-
-</div>
 
 <div class="figure-caption">
 
@@ -150,18 +142,18 @@ West A, Barnes C, et int., and Bjorkman P. “SARS-CoV-2 lineage B.1.526 emergin
 
 </div>
 
+<div class="figure-image">
+
+[genomemap]
+b-1-526
+[/genomemap]
+
+</div>
+
 </section>
 
 <!-- b-1-429 -->
 <section id="sec_b-1-429" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-b-1-429
-[/genomemap]
-
-</div>
 
 <div class="figure-caption">
 
@@ -171,10 +163,25 @@ Deng X, Garcia-Knight MA, et int., and Chiu CY. “Transmission, infectivity, an
 
 </div>
 
+<div class="figure-image">
+
+[genomemap]
+b-1-429
+[/genomemap]
+
+</div>
+
 </section>
 
 <!-- Cluster 5 -->
 <section id="sec_cluster5" class="figure-section wrap">
+
+<div class="figure-caption">
+
+### [Cluster 5](#sec_cluster5)
+Lassaunière R, Fonager J, et int., and Fomsgaard A. “SARS-CoV-2 spike mutations arising in Danish mink and their spread to humans.” Statens Serum Institut, 2020. [^Lassauniere20]
+
+</div>
 
 <div class="figure-image">
 
@@ -184,17 +191,17 @@ cluster5
 
 </div>
 
-<div class="figure-caption">
-
-### [Cluster 5](#sec_cluster5)
-Lassaunière R, Fonager J, et int., and Fomsgaard A. “SARS-CoV-2 spike mutations arising in Danish mink and their spread to humans.” Statens Serum Institut, 2020. [^Lassauniere20]
-
-</div>
-
 </section>
 
 <!-- COH.20G/501Y -->
 <section id="sec_tu-501y" class="figure-section wrap">
+
+<div class="figure-caption">
+
+### [COH.20G/501Y](#sec_tu-501y)
+Tu H, Avenarius MR, et int., and Jones D. “Distinct Patterns of Emergence of SARS-CoV-2 Spike Variants including N501Y in Clinical Samples in Columbus Ohio.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.12.426407](https://doi.org/10.1101/2021.01.12.426407).[^Tu21]
+
+</div>
 
 <div class="figure-image">
 
@@ -204,17 +211,17 @@ tu-501y
 
 </div>
 
-<div class="figure-caption">
-
-### [COH.20G/501Y](#sec_tu-501y)
-Tu H, Avenarius MR, et int., and Jones D. “Distinct Patterns of Emergence of SARS-CoV-2 Spike Variants including N501Y in Clinical Samples in Columbus Ohio.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.12.426407](https://doi.org/10.1101/2021.01.12.426407).[^Tu21]
-
-</div>
-
 </section>
 
 <!-- COH.20G/677H -->
 <section id="sec_coh-20g-677h" class="figure-section wrap">
+
+<div class="figure-caption">
+
+### [COH.20G/677H](#sec_coh-20g-677h)
+Tada T, Dcosta BM, et int., and Landau NR. “Neutralization of viruses with European, South African, and United States SARS-CoV-2 variant spike proteins by convalescent sera and BNT162b2 mRNA vaccine-elicited antibodies.” _bioRxiv_, 2021. [doi.org/10.1101/2021.02.05.430003](https://doi.org/10.1101/2021.02.05.430003).[^Tada21]
+
+</div>
 
 <div class="figure-image">
 
@@ -224,17 +231,17 @@ coh-20g-677h
 
 </div>
 
-<div class="figure-caption">
-
-### [COH.20G/677H](#sec_coh-20g-677h)
-Tada T, Dcosta BM, et int., and Landau NR. “Neutralization of viruses with European, South African, and United States SARS-CoV-2 variant spike proteins by convalescent sera and BNT162b2 mRNA vaccine-elicited antibodies.” _bioRxiv_, 2021. [doi.org/10.1101/2021.02.05.430003](https://doi.org/10.1101/2021.02.05.430003).[^Tada21]
-
-</div>
-
 </section>
 
 <!-- P.2 -->
 <section id="sec_p-2" class="figure-section wrap">
+
+<div class="figure-caption">
+
+### [P.2, evolved from B.1.1.28](#sec_p-2)
+Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
+
+</div>
 
 <div class="figure-image">
 
@@ -244,30 +251,23 @@ p-2
 
 </div>
 
-<div class="figure-caption">
-
-### [P.2, evolved from B.1.1.28](#sec_p-2)
-Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
-
-</div>
-
 </section>
 
 <!-- B.1.1.35 N9 -->
 <section id="sec_b-1-1-33-n9" class="figure-section wrap">
+
+<div class="figure-caption">
+
+### [B.1.1.33 N9](#sec_p-1-1-33-n9)
+Resende PC, Graf T, et int., and Siqueira MM. “A potential SARS-CoV-2 variant of interest (VOI) harboring mutation E484K in the Spike protein was identified within lineage B.1.1.33 circulating in Brazil.” _biorxiv_, 2021.[^Resende21]
+
+</div>
 
 <div class="figure-image">
 
 [genomemap]
 b-1-1-33-n9
 [/genomemap]
-
-</div>
-
-<div class="figure-caption">
-
-### [B.1.1.33 N9](#sec_p-1-1-33-n9)
-Resende PC, Graf T, et int., and Siqueira MM. “A potential SARS-CoV-2 variant of interest (VOI) harboring mutation E484K in the Spike protein was identified within lineage B.1.1.33 circulating in Brazil.” _biorxiv_, 2021.[^Resende21]
 
 </div>
 
@@ -278,14 +278,6 @@ Resende PC, Graf T, et int., and Siqueira MM. “A potential SARS-CoV-2 variant 
 <!-- Kemp S -->
 <section id="sec_kemp21" class="figure-section wrap">
 
-<div class="figure-image">
-
-[genomemap]
-kemp21
-[/genomemap]
-
-</div>
-
 <div class="figure-caption">
 
 ### [Kemp S, Harvey W, et int., and Gupta RK.](#sec_kemp21)
@@ -294,18 +286,18 @@ Kemp S, Harvey W, et int., and Gupta RK. “SARS-CoV-2 evolution during treatmen
 
 </div>
 
+<div class="figure-image">
+
+[genomemap]
+kemp21
+[/genomemap]
+
+</div>
+
 </section>
 
 <!-- McCarthy -->
 <section id="sec_mccarthy20" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-mccarthy20
-[/genomemap]
-
-</div>
 
 <div class="figure-caption">
 
@@ -315,18 +307,18 @@ McCarthy KR, Rennick LJ, et int., and Duprex WP. “Recurrent deletions in the S
 
 </div>
 
+<div class="figure-image">
+
+[genomemap]
+mccarthy20
+[/genomemap]
+
+</div>
+
 </section>
 
 <!-- Choi B -->
 <section id="sec_choi20" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-choi20
-[/genomemap]
-
-</div>
 
 <div class="figure-caption">
 
@@ -336,18 +328,18 @@ Choi B, Choudhary MC, et int., and Li JZ. “Persistence and Evolution of SARS-C
 
 </div>
 
+<div class="figure-image">
+
+[genomemap]
+choi20
+[/genomemap]
+
+</div>
+
 </section>
 
 <!-- Avanzato VA -->
 <section id="sec_avanzato20" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-avanzato20
-[/genomemap]
-
-</div>
 
 <div class="figure-caption">
 
@@ -357,18 +349,18 @@ Avanzato VA, Matson MJ, et int., and Munster VJ. “Case Study: Prolonged Infect
 
 </div>
 
+<div class="figure-image">
+
+[genomemap]
+avanzato20
+[/genomemap]
+
+</div>
+
 </section>
 
 <!-- Bazykin G -->
 <section id="sec_bazykin20" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-bazykin20
-[/genomemap]
-
-</div>
 
 <div class="figure-caption">
 
@@ -378,24 +370,33 @@ Bazykin G, Stanevich O, et int., and Lioznov D. “Emergence of Y453F and Δ69-7
 
 </div>
 
+<div class="figure-image">
+
+[genomemap]
+bazykin20
+[/genomemap]
+
+</div>
+
 </section>
 
 <!-- Khatamzas E -->
 <section id="sec_khatamzas20" class="figure-section wrap">
-
-<div class="figure-image">
-
-[genomemap]
-khatamzas20
-[/genomemap]
-
-</div>
 
 <div class="figure-caption">
 
 ### [Khatamzas E, Rehn A, et int., and Antwerpen M.](#sec_khatamzas20)
 
 Khatamzas E, Rehn A, et int., and Antwerpen M. “Emergence of multiple SARS-CoV-2 mutations in an immunocompromised host.” _medRxiv_, 2021. [doi.org/10.1101/2021.01.10.20248871](https://doi.org/10.1101/2021.01.10.20248871). [^Khatamzas21]
+
+</div>
+
+
+<div class="figure-image">
+
+[genomemap]
+khatamzas20
+[/genomemap]
 
 </div>
 
