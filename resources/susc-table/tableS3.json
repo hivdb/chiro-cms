@@ -56,10 +56,17 @@
         "structure": 0
     },
     {
+        "variant": "B.1.526",
+        "cp": 0,
+        "ip": 0,
+        "phase3": 3,
+        "structure": 0
+    },
+    {
         "variant": "Other muation combinations",
         "cp": 498,
         "ip": 487,
-        "phase3": 160,
+        "phase3": 157,
         "structure": 160
     },
     {
