@@ -8,7 +8,7 @@
                 "s_fold": 21,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Collier21"
+                "reference": "Collier21[^Collier21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -16,7 +16,7 @@
                 "s_fold": 20,
                 "i_fold": 4,
                 "r_fold": 0,
-                "reference": "Diamond21*"
+                "reference": "Diamond21*[^Diamond21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -24,7 +24,7 @@
                 "s_fold": 15,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Hoffmann21"
+                "reference": "Hoffmann21[^Hoffmann21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -32,7 +32,7 @@
                 "s_fold": 16,
                 "i_fold": 10,
                 "r_fold": 3,
-                "reference": "Marot21*"
+                "reference": "Marot21*[^Marot21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -40,7 +40,7 @@
                 "s_fold": 40,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Muik21"
+                "reference": "Muik21[^Muik21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -48,7 +48,7 @@
                 "s_fold": 8,
                 "i_fold": 2,
                 "r_fold": 0,
-                "reference": "Planas21"
+                "reference": "Planas21[^Planas21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -56,7 +56,7 @@
                 "s_fold": 9,
                 "i_fold": 1,
                 "r_fold": 0,
-                "reference": "Wang21b"
+                "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "B.1.1.7",
@@ -64,7 +64,7 @@
                 "s_fold": 10,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Wang21b*"
+                "reference": "Wang21b*[^Wang21b]"
             },
             {
                 "variant": "B.1.1.7",
@@ -72,7 +72,7 @@
                 "s_fold": 18,
                 "i_fold": 1,
                 "r_fold": 0,
-                "reference": "Diamond21*"
+                "reference": "Diamond21*[^Diamond21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -80,7 +80,7 @@
                 "s_fold": 19,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Edara21*"
+                "reference": "Edara21*[^Edara21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -88,7 +88,7 @@
                 "s_fold": 27,
                 "i_fold": 3,
                 "r_fold": 0,
-                "reference": "Faulkner21*"
+                "reference": "Faulkner21*[^Faulkner21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -96,7 +96,7 @@
                 "s_fold": 8,
                 "i_fold": 1,
                 "r_fold": 0,
-                "reference": "Hoffmann21"
+                "reference": "Hoffmann21[^Hoffmann21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -104,7 +104,7 @@
                 "s_fold": 13,
                 "i_fold": 5,
                 "r_fold": 1,
-                "reference": "Hu21"
+                "reference": "Hu21[^Hu21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -112,7 +112,7 @@
                 "s_fold": 5,
                 "i_fold": 2,
                 "r_fold": 2,
-                "reference": "Marot21*"
+                "reference": "Marot21*[^Marot21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -120,7 +120,7 @@
                 "s_fold": 13,
                 "i_fold": 2,
                 "r_fold": 0,
-                "reference": "Shen21"
+                "reference": "Shen21[^Shen21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -128,7 +128,7 @@
                 "s_fold": 14,
                 "i_fold": 5,
                 "r_fold": 1,
-                "reference": "Wang21b"
+                "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "B.1.1.7",
@@ -136,7 +136,7 @@
                 "s_fold": 20,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Wang21b*"
+                "reference": "Wang21b*[^Wang21b]"
             },
             {
                 "variant": "B.1.1.7",
@@ -144,7 +144,7 @@
                 "s_fold": 23,
                 "i_fold": 0,
                 "r_fold": 1,
-                "reference": "Wang21f"
+                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "B.1.1.7",
@@ -152,7 +152,7 @@
                 "s_fold": 11,
                 "i_fold": 8,
                 "r_fold": 0,
-                "reference": "Hu21"
+                "reference": "Hu21[^Hu21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -160,7 +160,7 @@
                 "s_fold": 20,
                 "i_fold": 7,
                 "r_fold": 1,
-                "reference": "Shen21"
+                "reference": "Shen21[^Shen21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -168,7 +168,7 @@
                 "s_fold": 14,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Edara21*"
+                "reference": "Edara21*[^Edara21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -176,7 +176,7 @@
                 "s_fold": 30,
                 "i_fold": 10,
                 "r_fold": 0,
-                "reference": "Shen21"
+                "reference": "Shen21[^Shen21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -184,7 +184,7 @@
                 "s_fold": 12,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Wang21b"
+                "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "B.1.1.7",
@@ -192,7 +192,7 @@
                 "s_fold": 12,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Wang21b*"
+                "reference": "Wang21b*[^Wang21b]"
             },
             {
                 "variant": "B.1.1.7",
@@ -200,7 +200,7 @@
                 "s_fold": 8,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Wu21"
+                "reference": "Wu21[^Wu21]"
             }
         ]
     },
@@ -213,7 +213,7 @@
                 "s_fold": 0,
                 "i_fold": 3,
                 "r_fold": 22,
-                "reference": "Madhi21"
+                "reference": "Madhi21[^Madhi21]"
             },
             {
                 "variant": "B.1.351",
@@ -221,7 +221,7 @@
                 "s_fold": 2,
                 "i_fold": 11,
                 "r_fold": 12,
-                "reference": "Zhou21b*"
+                "reference": "Zhou21b*[^Zhou21b]"
             },
             {
                 "variant": "B.1.351",
@@ -229,7 +229,7 @@
                 "s_fold": 1,
                 "i_fold": 3,
                 "r_fold": 2,
-                "reference": "Becker21*"
+                "reference": "Becker21*[^Becker21]"
             },
             {
                 "variant": "B.1.351",
@@ -237,7 +237,7 @@
                 "s_fold": 0,
                 "i_fold": 12,
                 "r_fold": 12,
-                "reference": "Diamond21*"
+                "reference": "Diamond21*[^Diamond21]"
             },
             {
                 "variant": "B.1.351",
@@ -245,7 +245,7 @@
                 "s_fold": 4,
                 "i_fold": 9,
                 "r_fold": 2,
-                "reference": "Hoffmann21"
+                "reference": "Hoffmann21[^Hoffmann21]"
             },
             {
                 "variant": "B.1.351",
@@ -253,7 +253,7 @@
                 "s_fold": 15,
                 "i_fold": 5,
                 "r_fold": 0,
-                "reference": "Liu21b"
+                "reference": "Liu21b[^Liu21b]"
             },
             {
                 "variant": "B.1.351",
@@ -261,7 +261,7 @@
                 "s_fold": 3,
                 "i_fold": 19,
                 "r_fold": 7,
-                "reference": "Marot21*"
+                "reference": "Marot21*[^Marot21]"
             },
             {
                 "variant": "B.1.351",
@@ -269,7 +269,7 @@
                 "s_fold": 3,
                 "i_fold": 6,
                 "r_fold": 1,
-                "reference": "Planas21"
+                "reference": "Planas21[^Planas21]"
             },
             {
                 "variant": "B.1.351",
@@ -277,7 +277,7 @@
                 "s_fold": 2,
                 "i_fold": 3,
                 "r_fold": 0,
-                "reference": "Tada21"
+                "reference": "Tada21[^Tada21]"
             },
             {
                 "variant": "B.1.351",
@@ -285,7 +285,7 @@
                 "s_fold": 4,
                 "i_fold": 4,
                 "r_fold": 1,
-                "reference": "Wang21b"
+                "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "B.1.351",
@@ -293,7 +293,7 @@
                 "s_fold": 0,
                 "i_fold": 5,
                 "r_fold": 4,
-                "reference": "Wang21b*"
+                "reference": "Wang21b*[^Wang21b]"
             },
             {
                 "variant": "B.1.351",
@@ -301,7 +301,7 @@
                 "s_fold": 1,
                 "i_fold": 14,
                 "r_fold": 9,
-                "reference": "Zhou21b*"
+                "reference": "Zhou21b*[^Zhou21b]"
             },
             {
                 "variant": "B.1.351",
@@ -309,7 +309,7 @@
                 "s_fold": 3,
                 "i_fold": 1,
                 "r_fold": 3,
-                "reference": "Becker21*"
+                "reference": "Becker21*[^Becker21]"
             },
             {
                 "variant": "B.1.351",
@@ -317,7 +317,7 @@
                 "s_fold": 9,
                 "i_fold": 7,
                 "r_fold": 3,
-                "reference": "Diamond21*"
+                "reference": "Diamond21*[^Diamond21]"
             },
             {
                 "variant": "B.1.351",
@@ -325,7 +325,7 @@
                 "s_fold": 1,
                 "i_fold": 11,
                 "r_fold": 16,
-                "reference": "Faulkner21*"
+                "reference": "Faulkner21*[^Faulkner21]"
             },
             {
                 "variant": "B.1.351",
@@ -333,7 +333,7 @@
                 "s_fold": 4,
                 "i_fold": 4,
                 "r_fold": 1,
-                "reference": "Hoffmann21"
+                "reference": "Hoffmann21[^Hoffmann21]"
             },
             {
                 "variant": "B.1.351",
@@ -341,7 +341,7 @@
                 "s_fold": 4,
                 "i_fold": 9,
                 "r_fold": 6,
-                "reference": "Hu21"
+                "reference": "Hu21[^Hu21]"
             },
             {
                 "variant": "B.1.351",
@@ -349,7 +349,7 @@
                 "s_fold": 0,
                 "i_fold": 2,
                 "r_fold": 7,
-                "reference": "Marot21*"
+                "reference": "Marot21*[^Marot21]"
             },
             {
                 "variant": "B.1.351",
@@ -357,7 +357,7 @@
                 "s_fold": 5,
                 "i_fold": 10,
                 "r_fold": 29,
-                "reference": "Moyo-Gwete21"
+                "reference": "Moyo-Gwete21[^Moyo-Gwete21]"
             },
             {
                 "variant": "B.1.351",
@@ -365,7 +365,7 @@
                 "s_fold": 9,
                 "i_fold": 1,
                 "r_fold": 0,
-                "reference": "Tada21"
+                "reference": "Tada21[^Tada21]"
             },
             {
                 "variant": "B.1.351",
@@ -373,7 +373,7 @@
                 "s_fold": 4,
                 "i_fold": 9,
                 "r_fold": 7,
-                "reference": "Wang21b"
+                "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "B.1.351",
@@ -381,7 +381,7 @@
                 "s_fold": 6,
                 "i_fold": 9,
                 "r_fold": 5,
-                "reference": "Wang21b*"
+                "reference": "Wang21b*[^Wang21b]"
             },
             {
                 "variant": "B.1.351",
@@ -389,7 +389,7 @@
                 "s_fold": 3,
                 "i_fold": 7,
                 "r_fold": 14,
-                "reference": "Wang21f"
+                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "B.1.351",
@@ -397,7 +397,7 @@
                 "s_fold": 3,
                 "i_fold": 11,
                 "r_fold": 20,
-                "reference": "Zhou21b*"
+                "reference": "Zhou21b*[^Zhou21b]"
             },
             {
                 "variant": "B.1.351",
@@ -405,7 +405,7 @@
                 "s_fold": 5,
                 "i_fold": 9,
                 "r_fold": 5,
-                "reference": "Hu21"
+                "reference": "Hu21[^Hu21]"
             },
             {
                 "variant": "B.1.351",
@@ -413,7 +413,7 @@
                 "s_fold": 1,
                 "i_fold": 7,
                 "r_fold": 14,
-                "reference": "Wibmer21"
+                "reference": "Wibmer21[^Wibmer21]"
             },
             {
                 "variant": "B.1.351",
@@ -421,7 +421,7 @@
                 "s_fold": 4,
                 "i_fold": 2,
                 "r_fold": 7,
-                "reference": "Wibmer21"
+                "reference": "Wibmer21[^Wibmer21]"
             },
             {
                 "variant": "B.1.351",
@@ -429,7 +429,7 @@
                 "s_fold": 0,
                 "i_fold": 2,
                 "r_fold": 4,
-                "reference": "Cele21*"
+                "reference": "Cele21*[^Cele21]"
             },
             {
                 "variant": "B.1.351",
@@ -437,7 +437,7 @@
                 "s_fold": 1,
                 "i_fold": 8,
                 "r_fold": 3,
-                "reference": "Wang21b"
+                "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "B.1.351",
@@ -445,7 +445,7 @@
                 "s_fold": 0,
                 "i_fold": 5,
                 "r_fold": 7,
-                "reference": "Wang21b*"
+                "reference": "Wang21b*[^Wang21b]"
             },
             {
                 "variant": "B.1.351",
@@ -453,7 +453,7 @@
                 "s_fold": 0,
                 "i_fold": 8,
                 "r_fold": 0,
-                "reference": "Wu21"
+                "reference": "Wu21[^Wu21]"
             }
         ]
     },
@@ -466,7 +466,7 @@
                 "s_fold": 3,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Deng21"
+                "reference": "Deng21[^Deng21]"
             },
             {
                 "variant": "CAL.20C",
@@ -474,7 +474,7 @@
                 "s_fold": 7,
                 "i_fold": 10,
                 "r_fold": 1,
-                "reference": "Deng21"
+                "reference": "Deng21[^Deng21]"
             },
             {
                 "variant": "CAL.20C",
@@ -482,7 +482,7 @@
                 "s_fold": 7,
                 "i_fold": 1,
                 "r_fold": 0,
-                "reference": "Deng21"
+                "reference": "Deng21[^Deng21]"
             }
         ]
     },
@@ -495,7 +495,7 @@
                 "s_fold": 17,
                 "i_fold": 7,
                 "r_fold": 1,
-                "reference": "Dejnirattisai21*"
+                "reference": "Dejnirattisai21*[^Dejnirattisai21]"
             },
             {
                 "variant": "P.1",
@@ -503,7 +503,7 @@
                 "s_fold": 14,
                 "i_fold": 10,
                 "r_fold": 0,
-                "reference": "Dejnirattisai21*"
+                "reference": "Dejnirattisai21*[^Dejnirattisai21]"
             },
             {
                 "variant": "P.1",
@@ -511,7 +511,7 @@
                 "s_fold": 12,
                 "i_fold": 3,
                 "r_fold": 0,
-                "reference": "Diamond21*"
+                "reference": "Diamond21*[^Diamond21]"
             },
             {
                 "variant": "P.1",
@@ -519,7 +519,7 @@
                 "s_fold": 7,
                 "i_fold": 7,
                 "r_fold": 1,
-                "reference": "Hoffmann21"
+                "reference": "Hoffmann21[^Hoffmann21]"
             },
             {
                 "variant": "P.1",
@@ -527,7 +527,7 @@
                 "s_fold": 8,
                 "i_fold": 1,
                 "r_fold": 1,
-                "reference": "Wang21c"
+                "reference": "Wang21c[^Wang21c]"
             },
             {
                 "variant": "P.1",
@@ -535,7 +535,7 @@
                 "s_fold": 18,
                 "i_fold": 14,
                 "r_fold": 2,
-                "reference": "Dejnirattisai21*"
+                "reference": "Dejnirattisai21*[^Dejnirattisai21]"
             },
             {
                 "variant": "P.1",
@@ -543,7 +543,7 @@
                 "s_fold": 7,
                 "i_fold": 2,
                 "r_fold": 1,
-                "reference": "Diamond21*"
+                "reference": "Diamond21*[^Diamond21]"
             },
             {
                 "variant": "P.1",
@@ -551,7 +551,7 @@
                 "s_fold": 2,
                 "i_fold": 6,
                 "r_fold": 1,
-                "reference": "Hoffmann21"
+                "reference": "Hoffmann21[^Hoffmann21]"
             },
             {
                 "variant": "P.1",
@@ -559,7 +559,7 @@
                 "s_fold": 12,
                 "i_fold": 7,
                 "r_fold": 1,
-                "reference": "Wang21c"
+                "reference": "Wang21c[^Wang21c]"
             },
             {
                 "variant": "P.1",
@@ -567,7 +567,7 @@
                 "s_fold": 15,
                 "i_fold": 5,
                 "r_fold": 4,
-                "reference": "Wang21f"
+                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "P.1",
@@ -575,7 +575,7 @@
                 "s_fold": 5,
                 "i_fold": 7,
                 "r_fold": 0,
-                "reference": "Wang21c"
+                "reference": "Wang21c[^Wang21c]"
             }
         ]
     }

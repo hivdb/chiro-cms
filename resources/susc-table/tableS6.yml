@@ -5,61 +5,61 @@
     s_fold: 2
     i_fold: 3
     r_fold: 0
-    reference: Jangra21
+    reference: Jangra21[^Jangra21]
   - variant: E484K
     rx: BNT162b2
     s_fold: 1
     i_fold: 4
     r_fold: 0
-    reference: Tada21
+    reference: Tada21[^Tada21]
   - variant: E484K
     rx: BNT162b2
     s_fold: 6
     i_fold: 3
     r_fold: 1
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
   - variant: E484K
     rx: CP
     s_fold: 1
     i_fold: 1
     r_fold: 2
-    reference: Greaney21
+    reference: Greaney21[^Greaney21]
   - variant: E484K
     rx: CP
     s_fold: 17
     i_fold: 10
     r_fold: 3
-    reference: Jangra21
+    reference: Jangra21[^Jangra21]
   - variant: E484K
     rx: CP
     s_fold: 0
     i_fold: 2
     r_fold: 0
-    reference: Liu21
+    reference: Liu21[^Liu21]
   - variant: E484K
     rx: CP
     s_fold: 10
     i_fold: 0
     r_fold: 0
-    reference: Tada21
+    reference: Tada21[^Tada21]
   - variant: E484K
     rx: CP
     s_fold: 6
     i_fold: 12
     r_fold: 2
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
   - variant: E484K
     rx: CP
     s_fold: 23
     i_fold: 1
     r_fold: 0
-    reference: Wang21f
+    reference: Wang21f[^Wang21f]
   - variant: E484K
     rx: mRNA-1273
     s_fold: 8
     i_fold: 4
     r_fold: 0
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
 - variant: E484K + N501Y
   assays:
   - variant: E484K + N501Y
@@ -67,19 +67,19 @@
     s_fold: 4
     i_fold: 19
     r_fold: 1
-    reference: Diamond21
+    reference: Diamond21[^Diamond21]
   - variant: E484K + N501Y
     rx: BNT162b2
     s_fold: 20
     i_fold: 0
     r_fold: 0
-    reference: Xie21b
+    reference: Xie21b[^Xie21b]
   - variant: E484K + N501Y
     rx: CP
     s_fold: 6
     i_fold: 10
     r_fold: 3
-    reference: Diamond21
+    reference: Diamond21[^Diamond21]
 - variant: K417N
   assays:
   - variant: K417N
@@ -87,49 +87,49 @@
     s_fold: 23
     i_fold: 1
     r_fold: 0
-    reference: Diamond21
+    reference: Diamond21[^Diamond21]
   - variant: K417N
     rx: BNT162b2
     s_fold: 4
     i_fold: 0
     r_fold: 0
-    reference: Wang21
+    reference: Wang21[^Wang21]
   - variant: K417N
     rx: BNT162b2
     s_fold: 10
     i_fold: 0
     r_fold: 0
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
   - variant: K417N
     rx: CP
     s_fold: 17
     i_fold: 2
     r_fold: 0
-    reference: Diamond21
+    reference: Diamond21[^Diamond21]
   - variant: K417N
     rx: CP
     s_fold: 20
     i_fold: 0
     r_fold: 0
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
   - variant: K417N
     rx: CP
     s_fold: 24
     i_fold: 0
     r_fold: 0
-    reference: Wang21f
+    reference: Wang21f[^Wang21f]
   - variant: K417N
     rx: mRNA-1273
     s_fold: 11
     i_fold: 0
     r_fold: 0
-    reference: Wang21
+    reference: Wang21[^Wang21]
   - variant: K417N
     rx: mRNA-1273
     s_fold: 12
     i_fold: 0
     r_fold: 0
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
 - variant: K417N + E484K + N501Y
   assays:
   - variant: K417N + E484K + N501Y
@@ -137,43 +137,43 @@
     s_fold: 1
     i_fold: 7
     r_fold: 17
-    reference: Madhi21
+    reference: Madhi21[^Madhi21]
   - variant: K417N + E484K + N501Y
     rx: BNT162b2
     s_fold: 17
     i_fold: 3
     r_fold: 0
-    reference: Liu21b
+    reference: Liu21b[^Liu21b]
   - variant: K417N + E484K + N501Y
     rx: CP
     s_fold: 12
     i_fold: 5
     r_fold: 2
-    reference: Diamond21
+    reference: Diamond21[^Diamond21]
   - variant: K417N + E484K + N501Y
     rx: CP
     s_fold: 22
     i_fold: 1
     r_fold: 1
-    reference: Wang21f
+    reference: Wang21f[^Wang21f]
   - variant: K417N + E484K + N501Y
     rx: CP(High Titer)
     s_fold: 6
     i_fold: 7
     r_fold: 9
-    reference: Wibmer21
+    reference: Wibmer21[^Wibmer21]
   - variant: K417N + E484K + N501Y
     rx: CP(Low Titer)
     s_fold: 5
     i_fold: 6
     r_fold: 6
-    reference: Wibmer21
+    reference: Wibmer21[^Wibmer21]
   - variant: K417N + E484K + N501Y
     rx: mRNA-1273
     s_fold: 8
     i_fold: 0
     r_fold: 0
-    reference: Wu21
+    reference: Wu21[^Wu21]
 - variant: L452R
   assays:
   - variant: L452R
@@ -181,7 +181,7 @@
     s_fold: 0
     i_fold: 1
     r_fold: 1
-    reference: Liu21
+    reference: Liu21[^Liu21]
 - variant: N439K
   assays:
   - variant: N439K
@@ -189,25 +189,25 @@
     s_fold: 4
     i_fold: 0
     r_fold: 0
-    reference: Wang21
+    reference: Wang21[^Wang21]
   - variant: N439K
     rx: CP
     s_fold: 3
     i_fold: 0
     r_fold: 0
-    reference: Shen21
+    reference: Shen21[^Shen21]
   - variant: N439K
     rx: mRNA-1273
     s_fold: 11
     i_fold: 0
     r_fold: 0
-    reference: Shen21
+    reference: Shen21[^Shen21]
   - variant: N439K
     rx: mRNA-1273
     s_fold: 11
     i_fold: 0
     r_fold: 0
-    reference: Wang21
+    reference: Wang21[^Wang21]
 - variant: N501Y
   assays:
   - variant: N501Y
@@ -215,91 +215,91 @@
     s_fold: 5
     i_fold: 0
     r_fold: 0
-    reference: Tada21
+    reference: Tada21[^Tada21]
   - variant: N501Y
     rx: BNT162b2
     s_fold: 4
     i_fold: 0
     r_fold: 0
-    reference: Wang21
+    reference: Wang21[^Wang21]
   - variant: N501Y
     rx: BNT162b2
     s_fold: 10
     i_fold: 0
     r_fold: 0
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
   - variant: N501Y
     rx: BNT162b2
     s_fold: 11
     i_fold: 0
     r_fold: 0
-    reference: Xie21
+    reference: Xie21[^Xie21]
   - variant: N501Y
     rx: BNT162b2
     s_fold: 20
     i_fold: 0
     r_fold: 0
-    reference: Xie21b
+    reference: Xie21b[^Xie21b]
   - variant: N501Y
     rx: CP
     s_fold: 19
     i_fold: 0
     r_fold: 0
-    reference: Edara21
+    reference: Edara21[^Edara21]
   - variant: N501Y
     rx: CP
     s_fold: 11
     i_fold: 4
     r_fold: 0
-    reference: Shen21
+    reference: Shen21[^Shen21]
   - variant: N501Y
     rx: CP
     s_fold: 18
     i_fold: 0
     r_fold: 0
-    reference: Tada21
+    reference: Tada21[^Tada21]
   - variant: N501Y
     rx: CP
     s_fold: 18
     i_fold: 2
     r_fold: 0
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
   - variant: N501Y
     rx: CP
     s_fold: 24
     i_fold: 0
     r_fold: 0
-    reference: Wang21f
+    reference: Wang21f[^Wang21f]
   - variant: N501Y
     rx: mRNA-1273
     s_fold: 14
     i_fold: 0
     r_fold: 0
-    reference: Edara21
+    reference: Edara21[^Edara21]
   - variant: N501Y
     rx: mRNA-1273
     s_fold: 11
     i_fold: 0
     r_fold: 0
-    reference: Shen21
+    reference: Shen21[^Shen21]
   - variant: N501Y
     rx: mRNA-1273
     s_fold: 11
     i_fold: 0
     r_fold: 0
-    reference: Wang21
+    reference: Wang21[^Wang21]
   - variant: N501Y
     rx: mRNA-1273
     s_fold: 12
     i_fold: 0
     r_fold: 0
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
   - variant: N501Y
     rx: mRNA-1273
     s_fold: 8
     i_fold: 0
     r_fold: 0
-    reference: Wu21
+    reference: Wu21[^Wu21]
 - variant: Y453F
   assays:
   - variant: Y453F
@@ -307,19 +307,19 @@
     s_fold: 4
     i_fold: 0
     r_fold: 0
-    reference: Wang21
+    reference: Wang21[^Wang21]
   - variant: Y453F
     rx: CP
     s_fold: 10
     i_fold: 4
     r_fold: 0
-    reference: Hoffmann21b
+    reference: Hoffmann21b[^Hoffmann21b]
   - variant: Y453F
     rx: mRNA-1273
     s_fold: 11
     i_fold: 0
     r_fold: 0
-    reference: Wang21
+    reference: Wang21[^Wang21]
 - variant: ∆144
   assays:
   - variant: ∆144
@@ -327,19 +327,19 @@
     s_fold: 10
     i_fold: 0
     r_fold: 0
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
   - variant: ∆144
     rx: CP
     s_fold: 18
     i_fold: 2
     r_fold: 0
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
   - variant: ∆144
     rx: mRNA-1273
     s_fold: 12
     i_fold: 0
     r_fold: 0
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
 - variant: ∆69/70
   assays:
   - variant: ∆69/70
@@ -347,31 +347,31 @@
     s_fold: 10
     i_fold: 0
     r_fold: 0
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
   - variant: ∆69/70
     rx: CP
     s_fold: 3
     i_fold: 0
     r_fold: 0
-    reference: Kemp21
+    reference: Kemp21[^Kemp21]
   - variant: ∆69/70
     rx: CP
     s_fold: 18
     i_fold: 0
     r_fold: 0
-    reference: Tada21
+    reference: Tada21[^Tada21]
   - variant: ∆69/70
     rx: CP
     s_fold: 20
     i_fold: 0
     r_fold: 0
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
   - variant: ∆69/70
     rx: mRNA-1273
     s_fold: 12
     i_fold: 0
     r_fold: 0
-    reference: Wang21b
+    reference: Wang21b[^Wang21b]
 - variant: ∆69/70 + N501Y
   assays:
   - variant: ∆69/70 + N501Y
@@ -379,19 +379,19 @@
     s_fold: 20
     i_fold: 0
     r_fold: 0
-    reference: Xie21b
+    reference: Xie21b[^Xie21b]
   - variant: ∆69/70 + N501Y
     rx: CP
     s_fold: 15
     i_fold: 0
     r_fold: 0
-    reference: Shen21
+    reference: Shen21[^Shen21]
   - variant: ∆69/70 + N501Y
     rx: mRNA-1273
     s_fold: 11
     i_fold: 0
     r_fold: 0
-    reference: Shen21
+    reference: Shen21[^Shen21]
 - variant: ∆69/70 + N501Y + A570D
   assays:
   - variant: ∆69/70 + N501Y + A570D
@@ -399,7 +399,7 @@
     s_fold: 15
     i_fold: 0
     r_fold: 0
-    reference: Collier21
+    reference: Collier21[^Collier21]
 - variant: ∆69/70 + N501Y + Y453F
   assays:
   - variant: ∆69/70 + N501Y + Y453F
@@ -407,10 +407,10 @@
     s_fold: 12
     i_fold: 3
     r_fold: 0
-    reference: Shen21
+    reference: Shen21[^Shen21]
   - variant: ∆69/70 + N501Y + Y453F
     rx: mRNA-1273
     s_fold: 11
     i_fold: 0
     r_fold: 0
-    reference: Shen21
+    reference: Shen21[^Shen21]
