@@ -31,42 +31,42 @@
         "variant": "B.1.1.7",
         "cp": 422,
         "ip": 385,
-        "phase3": 61,
+        "phase3": 64,
         "structure": 28
     },
     {
         "variant": "B.1.351",
         "cp": 396,
         "ip": 267,
-        "phase3": 61,
+        "phase3": 64,
         "structure": 20
     },
     {
         "variant": "P.1",
         "cp": 97,
         "ip": 127,
-        "phase3": 25,
+        "phase3": 28,
         "structure": 5
     },
     {
         "variant": "CAL.20C",
         "cp": 18,
         "ip": 37,
-        "phase3": 0,
+        "phase3": 3,
         "structure": 0
     },
     {
         "variant": "Other muation combinations",
         "cp": 498,
         "ip": 487,
-        "phase3": 157,
+        "phase3": 160,
         "structure": 160
     },
     {
         "variant": "All combinations of mutations",
         "cp": 1431,
         "ip": 1311,
-        "phase3": 313,
+        "phase3": 328,
         "structure": 215
     }
 ]

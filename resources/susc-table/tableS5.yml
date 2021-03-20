@@ -3,6 +3,11 @@
   - variant: B.1.1.7
     rx: Bamlanivimab+Etesevimab
     mab_class: ''
+    fold: '1'
+    reference: FDA21[^FDA21]
+  - variant: B.1.1.7
+    rx: Bamlanivimab+Etesevimab
+    mab_class: ''
     fold: '1.7'
     reference: Wang21b[^Wang21b]
   - variant: B.1.1.7
@@ -15,6 +20,11 @@
     mab_class: ''
     fold: '0.9'
     reference: Copin21[^Copin21]
+  - variant: B.1.1.7
+    rx: Casirivimab+Imdevimab
+    mab_class: ''
+    fold: '1'
+    reference: FDA21[^FDA21]
   - variant: B.1.1.7
     rx: Casirivimab+Imdevimab
     mab_class: ''
@@ -303,6 +313,11 @@
   - variant: B.1.1.7
     rx: Bamlanivimab
     mab_class: RBM Class II
+    fold: '1'
+    reference: FDA21[^FDA21]
+  - variant: B.1.1.7
+    rx: Bamlanivimab
+    mab_class: RBM Class II
     fold: '0.7'
     reference: Hoffmann21[^Hoffmann21]
   - variant: B.1.1.7
@@ -385,6 +400,11 @@
   - variant: B.1.351
     rx: Bamlanivimab+Etesevimab
     mab_class: ''
+    fold: '45'
+    reference: FDA21[^FDA21]
+  - variant: B.1.351
+    rx: Bamlanivimab+Etesevimab
+    mab_class: ''
     fold: '&gt;100'
     reference: Wang21b[^Wang21b]
   - variant: B.1.351
@@ -397,6 +417,11 @@
     mab_class: ''
     fold: '0.6'
     reference: Copin21[^Copin21]
+  - variant: B.1.351
+    rx: Casirivimab+Imdevimab
+    mab_class: ''
+    fold: '1'
+    reference: FDA21[^FDA21]
   - variant: B.1.351
     rx: Casirivimab+Imdevimab
     mab_class: ''
@@ -646,6 +671,11 @@
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '&gt;100'
+    reference: FDA21[^FDA21]
+  - variant: B.1.351
+    rx: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '&gt;100'
     reference: Hoffmann21[^Hoffmann21]
   - variant: B.1.351
     rx: Bamlanivimab
@@ -722,13 +752,40 @@
     mab_class: RBM Class III
     fold: '&gt;100'
     reference: Wang21b*[^Wang21b]
+- variant: CAL.20C
+  assays:
+  - variant: CAL.20C
+    rx: Bamlanivimab+Etesevimab
+    mab_class: ''
+    fold: '7.4'
+    reference: FDA21[^FDA21]
+  - variant: CAL.20C
+    rx: Casirivimab+Imdevimab
+    mab_class: ''
+    fold: '1'
+    reference: FDA21[^FDA21]
+  - variant: CAL.20C
+    rx: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '&gt;100'
+    reference: FDA21[^FDA21]
 - variant: P.1
   assays:
+  - variant: P.1
+    rx: Bamlanivimab+Etesevimab
+    mab_class: ''
+    fold: '&gt;100'
+    reference: FDA21[^FDA21]
   - variant: P.1
     rx: Casirivimab+Imdevimab
     mab_class: ''
     fold: '0.1'
     reference: Copin21[^Copin21]
+  - variant: P.1
+    rx: Casirivimab+Imdevimab
+    mab_class: ''
+    fold: '1'
+    reference: FDA21[^FDA21]
   - variant: P.1
     rx: 4A8
     mab_class: NTD
@@ -839,6 +896,11 @@
     mab_class: RBM Class II
     fold: '&gt;100'
     reference: Wang21f[^Wang21f]
+  - variant: P.1
+    rx: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '&gt;100'
+    reference: FDA21[^FDA21]
   - variant: P.1
     rx: Bamlanivimab
     mab_class: RBM Class II
