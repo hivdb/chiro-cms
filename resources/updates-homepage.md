@@ -22,6 +22,22 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Mar 18)
+Becker M, Dulovic A, et int., and Schneiderhan-Marra N. [“Immune response to SARS-CoV-2 variants of concern in vaccinated individuals.”](/search/?article=Becker21) _medRxiv_, 2021. [doi.org/10.1101/2021.03.08.21252958](https://doi.org/10.1101/2021.03.08.21252958).
+### Database Entries (Mar 18)
+Brown JC, Goldhill DH, et int., and Barclay WS. [“Increased transmission of SARS-CoV-2 lineage B.1.1.7 (VOC 2020212/01) is not accounted for by a replicative advantage in primary airway cells or antibody escape.”](/search/?article=Brown21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.24.432576](https://doi.org/10.1101/2021.02.24.432576).
+### Database Entries (Mar 18)
+Dejnirattisai W, Zhou D, et int., and Screaton GR. [“Antibody evasion by the Brazilian P.1 strain of SARS-CoV-2.”](/search/?article=Dejnirattisai21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.12.435194](https://doi.org/10.1101/2021.03.12.435194).
+### Database Entries (Mar 18)
+Ku Z, Xie X, et int., and An Z. [“Molecular determinants and mechanism for antibody cocktail preventing SARS-CoV-2 escape.”](/search/?article=Ku21) _Nature Communications_, 2021. [doi.org/10.1038/s41467-020-20789-7](https://doi.org/10.1038/s41467-020-20789-7). \[[PubMed33473140](https://www.ncbi.nlm.nih.gov/pubmed/33473140/)\] \[[PMC7817669](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7817669/)\]
+### Database Entries (Mar 18)
+Madhi SA, Baillie V, et int., and Izu A. [“Safety and efficacy of the ChAdOx1 nCoV-19 (AZD1222) Covid-19 vaccine against the B.1.351 variant in South Africa.”](/search/?article=Madhi21) _medRxiv_, 2021. [doi.org/10.1101/2021.02.10.21251247](https://doi.org/10.1101/2021.02.10.21251247).
+### Database Entries (Mar 18)
+Resende PC, Gräf T, et int., and Siqueira MM. [“A potential SARS-CoV-2 variant of interest (VOI) harboring mutation E484K in the Spike protein was identified within lineage B.1.1.33 circulating in Brazil.”](/search/?article=Resende21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.12.434969](https://doi.org/10.1101/2021.03.12.434969).
+### Database Entries (Mar 18)
+Supasa P, Zhou D, et int., and Screaton GR. [“Reduced neutralization of SARS-CoV-2 B.1.1.7 variant by convalescent and vaccine sera.”](/search/?article=Supasa21) _Cell_, 2021. [doi.org/10.1016/j.cell.2021.02.033](https://doi.org/10.1016/j.cell.2021.02.033).
+### Database Entries (Mar 18)
+Zhou D, Dejnirattisai W, et int., and Screaton GR. [“Evidence of escape of SARS-CoV-2 variant B.1.351 from natural and vaccine-induced sera.”](/search/?article=Zhou21b) _Cell_, 2021. [doi.org/10.1016/j.cell.2021.02.037](https://doi.org/10.1016/j.cell.2021.02.037). \[[PubMed33730597](https://www.ncbi.nlm.nih.gov/pubmed/33730597/)\]
 ### Database Entries (Mar 14)
 Cathcart AL, Havenar-Daughton C, et int., and Hebner CM. [“The dual function monoclonal antibodies VIR-7831 and VIR-7832 demonstrate potent in vitro and in vivo activity against SARS-CoV-2.”](/search/?article=Cathcart21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.09.434607](https://doi.org/10.1101/2021.03.09.434607).
 ### Database Entries (Mar 14)
