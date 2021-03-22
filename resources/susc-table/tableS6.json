@@ -378,6 +378,30 @@
             },
             {
                 "variant": "N501Y",
+                "rx": "CP_acute",
+                "s_fold": 16,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Edara21[^Edara21]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "Mild",
+                "s_fold": 17,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Rees-Spear21[^Rees-Spear21]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "Severe",
+                "s_fold": 18,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Rees-Spear21[^Rees-Spear21]"
+            },
+            {
+                "variant": "N501Y",
                 "rx": "mRNA-1273",
                 "s_fold": 14,
                 "i_fold": 0,
@@ -513,6 +537,22 @@
             },
             {
                 "variant": "∆69/70",
+                "rx": "Mild",
+                "s_fold": 18,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Rees-Spear21[^Rees-Spear21]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "Severe",
+                "s_fold": 18,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Rees-Spear21[^Rees-Spear21]"
+            },
+            {
+                "variant": "∆69/70",
                 "rx": "mRNA-1273",
                 "s_fold": 12,
                 "i_fold": 0,
@@ -558,6 +598,14 @@
                 "rx": "BNT162b2",
                 "s_fold": 15,
                 "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Collier21[^Collier21]"
+            },
+            {
+                "variant": "∆69/70 + N501Y + A570D",
+                "rx": "CP",
+                "s_fold": 9,
+                "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Collier21[^Collier21]"
             }

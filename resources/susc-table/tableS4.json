@@ -4,6 +4,30 @@
         "assays": [
             {
                 "variant": "B.1.1.7",
+                "rx": "AZD1222",
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Supasa21*[^Supasa21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Brown21[^Brown21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "s_fold": 8,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Brown21*[^Brown21]"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "s_fold": 21,
                 "i_fold": 0,
@@ -17,6 +41,14 @@
                 "i_fold": 4,
                 "r_fold": 0,
                 "reference": "Diamond21*[^Diamond21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "s_fold": 22,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Garcia-Beltran21[^Garcia-Beltran21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -45,10 +77,18 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "s_fold": 8,
-                "i_fold": 2,
-                "r_fold": 0,
+                "s_fold": 27,
+                "i_fold": 13,
+                "r_fold": 1,
                 "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "s_fold": 0,
+                "i_fold": 25,
+                "r_fold": 0,
+                "reference": "Supasa21*[^Supasa21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -65,6 +105,38 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Wang21b*[^Wang21b]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "s_fold": 0,
+                "i_fold": 2,
+                "r_fold": 1,
+                "reference": "Widera21*[^Widera21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP",
+                "s_fold": 5,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Brown21[^Brown21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP",
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Brown21*[^Brown21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP",
+                "s_fold": 0,
+                "i_fold": 27,
+                "r_fold": 0,
+                "reference": "Collier21[^Collier21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -125,6 +197,14 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "s_fold": 34,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Supasa21*[^Supasa21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP",
                 "s_fold": 14,
                 "i_fold": 5,
                 "r_fold": 1,
@@ -148,11 +228,59 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "CP",
+                "s_fold": 1,
+                "i_fold": 2,
+                "r_fold": 7,
+                "reference": "Widera21*[^Widera21]"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "CP(8M)",
                 "s_fold": 11,
                 "i_fold": 8,
                 "r_fold": 0,
                 "reference": "Hu21[^Hu21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP_M3",
+                "s_fold": 28,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP_M6",
+                "s_fold": 25,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP_M9",
+                "s_fold": 30,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP_acute",
+                "s_fold": 15,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Edara21*[^Edara21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Mild",
+                "s_fold": 14,
+                "i_fold": 3,
+                "r_fold": 1,
+                "reference": "Rees-Spear21[^Rees-Spear21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -164,11 +292,27 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "Severe",
+                "s_fold": 15,
+                "i_fold": 3,
+                "r_fold": 0,
+                "reference": "Rees-Spear21[^Rees-Spear21]"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
                 "s_fold": 14,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Edara21*[^Edara21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "mRNA-1273",
+                "s_fold": 4,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Garcia-Beltran21[^Garcia-Beltran21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -266,9 +410,9 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "s_fold": 3,
-                "i_fold": 6,
-                "r_fold": 1,
+                "s_fold": 13,
+                "i_fold": 19,
+                "r_fold": 9,
                 "reference": "Planas21[^Planas21]"
             },
             {
@@ -294,6 +438,14 @@
                 "i_fold": 5,
                 "r_fold": 4,
                 "reference": "Wang21b*[^Wang21b]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "s_fold": 0,
+                "i_fold": 3,
+                "r_fold": 0,
+                "reference": "Widera21*[^Widera21]"
             },
             {
                 "variant": "B.1.351",
@@ -394,6 +546,14 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "s_fold": 0,
+                "i_fold": 1,
+                "r_fold": 8,
+                "reference": "Widera21*[^Widera21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP",
                 "s_fold": 3,
                 "i_fold": 11,
                 "r_fold": 20,
@@ -430,6 +590,30 @@
                 "i_fold": 2,
                 "r_fold": 4,
                 "reference": "Cele21*[^Cele21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP_M3",
+                "s_fold": 0,
+                "i_fold": 28,
+                "r_fold": 0,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP_M6",
+                "s_fold": 0,
+                "i_fold": 25,
+                "r_fold": 0,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP_M9",
+                "s_fold": 0,
+                "i_fold": 30,
+                "r_fold": 0,
+                "reference": "Planas21[^Planas21]"
             },
             {
                 "variant": "B.1.351",
@@ -470,6 +654,14 @@
             },
             {
                 "variant": "CAL.20C",
+                "rx": "BNT162b2",
+                "s_fold": 22,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Garcia-Beltran21[^Garcia-Beltran21]"
+            },
+            {
+                "variant": "CAL.20C",
                 "rx": "CP",
                 "s_fold": 7,
                 "i_fold": 10,
@@ -483,6 +675,14 @@
                 "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Deng21[^Deng21]"
+            },
+            {
+                "variant": "CAL.20C",
+                "rx": "mRNA-1273",
+                "s_fold": 3,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Garcia-Beltran21[^Garcia-Beltran21]"
             }
         ]
     },
@@ -512,6 +712,14 @@
                 "i_fold": 3,
                 "r_fold": 0,
                 "reference": "Diamond21*[^Diamond21]"
+            },
+            {
+                "variant": "P.1",
+                "rx": "BNT162b2",
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 22,
+                "reference": "Garcia-Beltran21[^Garcia-Beltran21]"
             },
             {
                 "variant": "P.1",
@@ -568,6 +776,14 @@
                 "i_fold": 5,
                 "r_fold": 4,
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "P.1",
+                "rx": "mRNA-1273",
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 4,
+                "reference": "Garcia-Beltran21[^Garcia-Beltran21]"
             },
             {
                 "variant": "P.1",

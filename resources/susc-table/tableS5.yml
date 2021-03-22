@@ -94,6 +94,11 @@
     rx: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1'
+    reference: FDA21[^FDA21]
+  - variant: B.1.1.7
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '1'
     reference: Hoffmann21[^Hoffmann21]
   - variant: B.1.1.7
     rx: Imdevimab
@@ -205,6 +210,11 @@
     mab_class: RBM Class I
     fold: '1.2'
     reference: Copin21[^Copin21]
+  - variant: B.1.1.7
+    rx: Casirivimab
+    mab_class: RBM Class I
+    fold: '1'
+    reference: FDA21[^FDA21]
   - variant: B.1.1.7
     rx: Casirivimab
     mab_class: RBM Class I
@@ -774,7 +784,7 @@
   - variant: CAL.20C
     rx: Bamlanivimab+Etesevimab
     mab_class: ''
-    fold: '7.4'
+    fold: '7.7'
     reference: FDA21[^FDA21]
   - variant: CAL.20C
     rx: Casirivimab+Imdevimab

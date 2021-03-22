@@ -4,6 +4,13 @@
         "assays": [
             {
                 "variant": "E484K",
+                "rx": "Bamlanivimab+Etesevimab",
+                "mab_class": "",
+                "fold": "17",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "E484K",
                 "rx": "CV05-163",
                 "mab_class": "",
                 "fold": "&gt;100",
@@ -29,6 +36,13 @@
                 "mab_class": "",
                 "fold": "1.6",
                 "reference": "Copin21[^Copin21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "Casirivimab+Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "E484K",
@@ -85,6 +99,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.2",
                 "reference": "Copin21[^Copin21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "E484K",
@@ -209,6 +230,13 @@
                 "variant": "E484K",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
+                "fold": "25",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
                 "fold": "11",
                 "reference": "Wang21b[^Wang21b]"
             },
@@ -302,6 +330,13 @@
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "E484K",
@@ -448,6 +483,13 @@
         "assays": [
             {
                 "variant": "F490S",
+                "rx": "Bamlanivimab+Etesevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "F490S",
                 "rx": "Casirivimab+Imdevimab",
                 "mab_class": "",
                 "fold": "1",
@@ -521,6 +563,13 @@
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "F490S",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
                 "reference": "Gottlieb21[^Gottlieb21]"
             },
             {
@@ -549,6 +598,13 @@
     {
         "variant": "K417N",
         "assays": [
+            {
+                "variant": "K417N",
+                "rx": "Bamlanivimab+Etesevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
+            },
             {
                 "variant": "K417N",
                 "rx": "CC12.3",
@@ -590,6 +646,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.3",
                 "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "K417N",
@@ -660,6 +723,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "&gt;100",
                 "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "7",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "K417N",
@@ -806,6 +876,20 @@
     {
         "variant": "K417N + E484K + N501Y",
         "assays": [
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "Bamlanivimab+Etesevimab",
+                "mab_class": "",
+                "fold": "45",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "Casirivimab+Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
+            },
             {
                 "variant": "K417N + E484K + N501Y",
                 "rx": "Cilgavimab+Tixagevimab",
@@ -1016,10 +1100,24 @@
         "assays": [
             {
                 "variant": "L452R",
+                "rx": "Bamlanivimab+Etesevimab",
+                "mab_class": "",
+                "fold": "7.4",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "L452R",
                 "rx": "Casirivimab+Imdevimab",
                 "mab_class": "",
                 "fold": "1.2",
                 "reference": "Copin21[^Copin21]"
+            },
+            {
+                "variant": "L452R",
+                "rx": "Casirivimab+Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "L452R",
@@ -1034,6 +1132,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.1",
                 "reference": "Copin21[^Copin21]"
+            },
+            {
+                "variant": "L452R",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "L452R",
@@ -1075,6 +1180,13 @@
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
                 "fold": "1",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "L452R",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "1",
                 "reference": "Wang21e[^Wang21e]"
             },
             {
@@ -1110,6 +1222,13 @@
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "L452R",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
                 "reference": "Wang21e[^Wang21e]"
             },
             {
@@ -1124,6 +1243,13 @@
     {
         "variant": "N439K",
         "assays": [
+            {
+                "variant": "N439K",
+                "rx": "Casirivimab+Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
+            },
             {
                 "variant": "N439K",
                 "rx": "Casirivimab+Imdevimab",
@@ -1151,6 +1277,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "4.9",
                 "reference": "Rothenberger21[^Rothenberger21]"
+            },
+            {
+                "variant": "N439K",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "&gt;100",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "N439K",
@@ -1348,10 +1481,24 @@
         "assays": [
             {
                 "variant": "N501Y",
+                "rx": "Bamlanivimab+Etesevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "N501Y",
                 "rx": "Casirivimab+Imdevimab",
                 "mab_class": "",
                 "fold": "1.1",
                 "reference": "Copin21[^Copin21]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "Casirivimab+Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "N501Y",
@@ -1394,6 +1541,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.5",
                 "reference": "Copin21[^Copin21]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "N501Y",
@@ -1511,6 +1665,13 @@
                 "variant": "N501Y",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
                 "fold": "1.1",
                 "reference": "Rothenberger21[^Rothenberger21]"
             },
@@ -1575,6 +1736,13 @@
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
                 "fold": "5",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "5",
                 "reference": "Yao21[^Yao21]"
             },
             {
@@ -1611,6 +1779,13 @@
                 "mab_class": "RBM Class II",
                 "fold": "1.2",
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "N501Y",
@@ -1682,10 +1857,24 @@
         "assays": [
             {
                 "variant": "S494P",
+                "rx": "Bamlanivimab+Etesevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "S494P",
                 "rx": "Casirivimab+Imdevimab",
                 "mab_class": "",
                 "fold": "1.1",
                 "reference": "Copin21[^Copin21]"
+            },
+            {
+                "variant": "S494P",
+                "rx": "Casirivimab+Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "S494P",
@@ -1745,6 +1934,13 @@
             },
             {
                 "variant": "S494P",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "5",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "S494P",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
                 "fold": "0.5",
@@ -1777,6 +1973,13 @@
                 "mab_class": "RBM Class II",
                 "fold": "1.5",
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "S494P",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "71",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "S494P",
@@ -1887,6 +2090,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "&gt;100",
                 "reference": "Baum20[^Baum20]"
+            },
+            {
+                "variant": "Y453F",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "&gt;100",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "Y453F",
@@ -2353,6 +2563,13 @@
         "assays": [
             {
                 "variant": "∆69/70 + N501Y",
+                "rx": "Bamlanivimab+Etesevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "∆69/70 + N501Y",
                 "rx": "Cilgavimab+Tixagevimab",
                 "mab_class": "",
                 "fold": "1.4",
@@ -2448,6 +2665,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "0.9",
                 "reference": "Diamond21[^Diamond21]"
+            },
+            {
+                "variant": "∆69/70 + N501Y",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "∆69/70 + N501Y",
