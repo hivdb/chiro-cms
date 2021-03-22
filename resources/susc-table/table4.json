@@ -1,7 +1,7 @@
 [
     {
         "variant": "B.1.1.7",
-        "vac_studies": 16,
+        "vac_studies": 14,
         "vac_samples": 385,
         "vac_s_fold": "79%",
         "vac_i_fold": "19%",
@@ -9,7 +9,7 @@
         "vac_num_s_fold": 306,
         "vac_num_i_fold": 73,
         "vac_num_r_fold": 6,
-        "cp_studies": 17,
+        "cp_studies": 15,
         "cp_samples": 422,
         "cp_s_fold": "82%",
         "cp_i_fold": "15%",
@@ -20,7 +20,7 @@
     },
     {
         "variant": "B.1.351",
-        "vac_studies": 13,
+        "vac_studies": 12,
         "vac_samples": 267,
         "vac_s_fold": "17%",
         "vac_i_fold": "49%",
@@ -28,7 +28,7 @@
         "vac_num_s_fold": 46,
         "vac_num_i_fold": 131,
         "vac_num_r_fold": 90,
-        "cp_studies": 16,
+        "cp_studies": 15,
         "cp_samples": 396,
         "cp_s_fold": "15%",
         "cp_i_fold": "47%",
