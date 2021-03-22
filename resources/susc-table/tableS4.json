@@ -5,6 +5,14 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "AZD1222",
+                "s_fold": 0,
+                "i_fold": 46,
+                "r_fold": 0,
+                "reference": "Emary21*[^Emary21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "AZD1222",
                 "s_fold": 10,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -29,18 +37,18 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "s_fold": 21,
-                "i_fold": 0,
+                "s_fold": 20,
+                "i_fold": 4,
                 "r_fold": 0,
-                "reference": "Collier21[^Collier21]"
+                "reference": "Chen21*[^Chen21]"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "s_fold": 20,
-                "i_fold": 4,
+                "s_fold": 21,
+                "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Diamond21*[^Diamond21]"
+                "reference": "Collier21[^Collier21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -133,18 +141,18 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
-                "s_fold": 0,
-                "i_fold": 27,
+                "s_fold": 18,
+                "i_fold": 1,
                 "r_fold": 0,
-                "reference": "Collier21[^Collier21]"
+                "reference": "Chen21*[^Chen21]"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
-                "s_fold": 18,
-                "i_fold": 1,
+                "s_fold": 0,
+                "i_fold": 27,
                 "r_fold": 0,
-                "reference": "Diamond21*[^Diamond21]"
+                "reference": "Collier21[^Collier21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -201,6 +209,14 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Supasa21*[^Supasa21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP",
+                "s_fold": 3,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Tang21[^Tang21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -273,6 +289,22 @@
                 "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Edara21*[^Edara21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "IVIG",
+                "s_fold": 6,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Tang21[^Tang21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "IVIG",
+                "s_fold": 6,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Tang21*[^Tang21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -381,7 +413,7 @@
                 "s_fold": 0,
                 "i_fold": 12,
                 "r_fold": 12,
-                "reference": "Diamond21*[^Diamond21]"
+                "reference": "Chen21*[^Chen21]"
             },
             {
                 "variant": "B.1.351",
@@ -469,7 +501,7 @@
                 "s_fold": 9,
                 "i_fold": 7,
                 "r_fold": 3,
-                "reference": "Diamond21*[^Diamond21]"
+                "reference": "Chen21*[^Chen21]"
             },
             {
                 "variant": "B.1.351",
@@ -518,6 +550,14 @@
                 "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Tada21[^Tada21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP",
+                "s_fold": 1,
+                "i_fold": 1,
+                "r_fold": 6,
+                "reference": "Tang21[^Tang21]"
             },
             {
                 "variant": "B.1.351",
@@ -617,6 +657,22 @@
             },
             {
                 "variant": "B.1.351",
+                "rx": "IVIG",
+                "s_fold": 0,
+                "i_fold": 3,
+                "r_fold": 3,
+                "reference": "Tang21[^Tang21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "IVIG",
+                "s_fold": 1,
+                "i_fold": 4,
+                "r_fold": 1,
+                "reference": "Tang21*[^Tang21]"
+            },
+            {
+                "variant": "B.1.351",
                 "rx": "mRNA-1273",
                 "s_fold": 1,
                 "i_fold": 8,
@@ -670,6 +726,22 @@
             },
             {
                 "variant": "CAL.20C",
+                "rx": "CP",
+                "s_fold": 6,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "Tang21[^Tang21]"
+            },
+            {
+                "variant": "CAL.20C",
+                "rx": "IVIG",
+                "s_fold": 6,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Tang21[^Tang21]"
+            },
+            {
+                "variant": "CAL.20C",
                 "rx": "mRNA-1273",
                 "s_fold": 7,
                 "i_fold": 1,
@@ -700,18 +772,18 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
-                "s_fold": 14,
-                "i_fold": 10,
+                "s_fold": 12,
+                "i_fold": 3,
                 "r_fold": 0,
-                "reference": "Dejnirattisai21*[^Dejnirattisai21]"
+                "reference": "Chen21*[^Chen21]"
             },
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
-                "s_fold": 12,
-                "i_fold": 3,
+                "s_fold": 14,
+                "i_fold": 10,
                 "r_fold": 0,
-                "reference": "Diamond21*[^Diamond21]"
+                "reference": "Dejnirattisai21*[^Dejnirattisai21]"
             },
             {
                 "variant": "P.1",
@@ -740,6 +812,14 @@
             {
                 "variant": "P.1",
                 "rx": "CP",
+                "s_fold": 7,
+                "i_fold": 2,
+                "r_fold": 1,
+                "reference": "Chen21*[^Chen21]"
+            },
+            {
+                "variant": "P.1",
+                "rx": "CP",
                 "s_fold": 18,
                 "i_fold": 14,
                 "r_fold": 2,
@@ -748,18 +828,18 @@
             {
                 "variant": "P.1",
                 "rx": "CP",
-                "s_fold": 7,
-                "i_fold": 2,
-                "r_fold": 1,
-                "reference": "Diamond21*[^Diamond21]"
-            },
-            {
-                "variant": "P.1",
-                "rx": "CP",
                 "s_fold": 2,
                 "i_fold": 6,
                 "r_fold": 1,
                 "reference": "Hoffmann21[^Hoffmann21]"
+            },
+            {
+                "variant": "P.1",
+                "rx": "CP",
+                "s_fold": 4,
+                "i_fold": 2,
+                "r_fold": 2,
+                "reference": "Tang21[^Tang21]"
             },
             {
                 "variant": "P.1",
@@ -776,6 +856,14 @@
                 "i_fold": 5,
                 "r_fold": 4,
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "P.1",
+                "rx": "IVIG",
+                "s_fold": 2,
+                "i_fold": 4,
+                "r_fold": 0,
+                "reference": "Tang21[^Tang21]"
             },
             {
                 "variant": "P.1",

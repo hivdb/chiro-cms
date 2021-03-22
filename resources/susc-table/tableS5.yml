@@ -44,7 +44,7 @@
     rx: Cilgavimab+Tixagevimab
     mab_class: ''
     fold: '0.5'
-    reference: Diamond21*[^Diamond21]
+    reference: Chen21*[^Chen21]
   - variant: B.1.1.7
     rx: Cilgavimab+Tixagevimab
     mab_class: ''
@@ -54,7 +54,7 @@
     rx: S2E12+Vir-7831
     mab_class: ''
     fold: '0.7'
-    reference: Diamond21*[^Diamond21]
+    reference: Chen21*[^Chen21]
   - variant: B.1.1.7
     rx: 4A8
     mab_class: NTD
@@ -169,7 +169,7 @@
     rx: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '13'
-    reference: Diamond21*[^Diamond21]
+    reference: Chen21*[^Chen21]
   - variant: B.1.1.7
     rx: COVA1-16
     mab_class: RBD Core Cluster II
@@ -289,7 +289,7 @@
     rx: S2E12
     mab_class: RBM Class I
     fold: '0.7'
-    reference: Diamond21*[^Diamond21]
+    reference: Chen21*[^Chen21]
   - variant: B.1.1.7
     rx: S2H14
     mab_class: RBM Class I
@@ -304,7 +304,7 @@
     rx: Tixagevimab
     mab_class: RBM Class I
     fold: '1.7'
-    reference: Diamond21*[^Diamond21]
+    reference: Chen21*[^Chen21]
   - variant: B.1.1.7
     rx: Tixagevimab
     mab_class: RBM Class I
@@ -374,7 +374,7 @@
     rx: Cilgavimab
     mab_class: RBM Class II
     fold: '0.5'
-    reference: Diamond21*[^Diamond21]
+    reference: Chen21*[^Chen21]
   - variant: B.1.1.7
     rx: Cilgavimab
     mab_class: RBM Class II
@@ -451,7 +451,7 @@
     rx: Cilgavimab+Tixagevimab
     mab_class: ''
     fold: '0.8'
-    reference: Diamond21*[^Diamond21]
+    reference: Chen21*[^Chen21]
   - variant: B.1.351
     rx: Cilgavimab+Tixagevimab
     mab_class: ''
@@ -461,7 +461,7 @@
     rx: S2E12+Vir-7831
     mab_class: ''
     fold: '0.6'
-    reference: Diamond21*[^Diamond21]
+    reference: Chen21*[^Chen21]
   - variant: B.1.351
     rx: 4A8
     mab_class: NTD
@@ -546,7 +546,7 @@
     rx: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '1'
-    reference: Diamond21*[^Diamond21]
+    reference: Chen21*[^Chen21]
   - variant: B.1.351
     rx: Sotrovimab
     mab_class: RBD Core Cluster I
@@ -651,7 +651,7 @@
     rx: S2E12
     mab_class: RBM Class I
     fold: '0.4'
-    reference: Diamond21*[^Diamond21]
+    reference: Chen21*[^Chen21]
   - variant: B.1.351
     rx: Tixagevimab
     mab_class: RBM Class I
@@ -661,7 +661,7 @@
     rx: Tixagevimab
     mab_class: RBM Class I
     fold: '1.7'
-    reference: Diamond21*[^Diamond21]
+    reference: Chen21*[^Chen21]
   - variant: B.1.351
     rx: Tixagevimab
     mab_class: RBM Class I
@@ -736,7 +736,7 @@
     rx: Cilgavimab
     mab_class: RBM Class II
     fold: '0.3'
-    reference: Diamond21*[^Diamond21]
+    reference: Chen21*[^Chen21]
   - variant: B.1.351
     rx: Cilgavimab
     mab_class: RBM Class II

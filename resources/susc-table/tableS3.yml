@@ -19,22 +19,22 @@
   phase3: 716
   structure: 521
 - variant: B.1.1.7
-  cp: 422
-  ip: 385
+  cp: 442
+  ip: 431
   phase3: 66
   structure: 28
 - variant: B.1.351
-  cp: 396
+  cp: 416
   ip: 267
   phase3: 64
   structure: 20
 - variant: P.1
-  cp: 97
+  cp: 111
   ip: 127
   phase3: 28
   structure: 5
 - variant: CAL.20C
-  cp: 18
+  cp: 32
   ip: 37
   phase3: 3
   structure: 0
@@ -49,7 +49,7 @@
   phase3: 163
   structure: 160
 - variant: All combinations of mutations
-  cp: 1431
-  ip: 1311
+  cp: 1499
+  ip: 1357
   phase3: 336
   structure: 215

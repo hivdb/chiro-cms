@@ -1,19 +1,19 @@
 - variant: B.1.1.7
-  vac_studies: 14
-  vac_samples: 385
-  vac_s_fold: 79%
-  vac_i_fold: 19%
-  vac_r_fold: 2%
+  vac_studies: 15
+  vac_samples: 431
+  vac_s_fold: 71%
+  vac_i_fold: 28%
+  vac_r_fold: 1%
   vac_num_s_fold: 306
-  vac_num_i_fold: 73
+  vac_num_i_fold: 119
   vac_num_r_fold: 6
-  cp_studies: 15
-  cp_samples: 422
+  cp_studies: 16
+  cp_samples: 442
   cp_s_fold: 82%
   cp_i_fold: 15%
   cp_r_fold: 3%
-  cp_num_s_fold: 346
-  cp_num_i_fold: 63
+  cp_num_s_fold: 361
+  cp_num_i_fold: 68
   cp_num_r_fold: 13
 - variant: B.1.351
   vac_studies: 12
@@ -24,14 +24,14 @@
   vac_num_s_fold: 46
   vac_num_i_fold: 131
   vac_num_r_fold: 90
-  cp_studies: 15
-  cp_samples: 396
+  cp_studies: 16
+  cp_samples: 416
   cp_s_fold: 15%
   cp_i_fold: 47%
   cp_r_fold: 38%
-  cp_num_s_fold: 61
-  cp_num_i_fold: 186
-  cp_num_r_fold: 149
+  cp_num_s_fold: 63
+  cp_num_i_fold: 194
+  cp_num_r_fold: 159
 - variant: P.1
   vac_studies: 5
   vac_samples: 127
@@ -41,14 +41,14 @@
   vac_num_s_fold: 63
   vac_num_i_fold: 35
   vac_num_r_fold: 29
-  cp_studies: 5
-  cp_samples: 97
-  cp_s_fold: 56%
-  cp_i_fold: 35%
-  cp_r_fold: 9%
-  cp_num_s_fold: 54
-  cp_num_i_fold: 34
-  cp_num_r_fold: 9
+  cp_studies: 6
+  cp_samples: 111
+  cp_s_fold: 54%
+  cp_i_fold: 36%
+  cp_r_fold: 10%
+  cp_num_s_fold: 60
+  cp_num_i_fold: 40
+  cp_num_r_fold: 11
 - variant: CAL.20C
   vac_studies: 2
   vac_samples: 37
@@ -58,13 +58,13 @@
   vac_num_s_fold: 35
   vac_num_i_fold: 2
   vac_num_r_fold: 0
-  cp_studies: 1
-  cp_samples: 18
-  cp_s_fold: 39%
-  cp_i_fold: 56%
-  cp_r_fold: 5%
-  cp_num_s_fold: 7
-  cp_num_i_fold: 10
+  cp_studies: 2
+  cp_samples: 32
+  cp_s_fold: 59%
+  cp_i_fold: 38%
+  cp_r_fold: 3%
+  cp_num_s_fold: 19
+  cp_num_i_fold: 12
   cp_num_r_fold: 1
 - variant: E484K
   vac_studies: 3

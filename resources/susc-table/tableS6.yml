@@ -67,7 +67,7 @@
     s_fold: 4
     i_fold: 19
     r_fold: 1
-    reference: Diamond21[^Diamond21]
+    reference: Chen21[^Chen21]
   - variant: E484K + N501Y
     rx: BNT162b2
     s_fold: 20
@@ -79,7 +79,7 @@
     s_fold: 6
     i_fold: 10
     r_fold: 3
-    reference: Diamond21[^Diamond21]
+    reference: Chen21[^Chen21]
 - variant: K417N
   assays:
   - variant: K417N
@@ -87,7 +87,7 @@
     s_fold: 23
     i_fold: 1
     r_fold: 0
-    reference: Diamond21[^Diamond21]
+    reference: Chen21[^Chen21]
   - variant: K417N
     rx: BNT162b2
     s_fold: 4
@@ -105,7 +105,7 @@
     s_fold: 17
     i_fold: 2
     r_fold: 0
-    reference: Diamond21[^Diamond21]
+    reference: Chen21[^Chen21]
   - variant: K417N
     rx: CP
     s_fold: 20
@@ -149,7 +149,7 @@
     s_fold: 12
     i_fold: 5
     r_fold: 2
-    reference: Diamond21[^Diamond21]
+    reference: Chen21[^Chen21]
   - variant: K417N + E484K + N501Y
     rx: CP
     s_fold: 22
