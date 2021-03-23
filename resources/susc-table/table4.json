@@ -152,6 +152,25 @@
         "cp_num_r_fold": 0
     },
     {
+        "variant": "L452R",
+        "cp_studies": 1,
+        "cp_samples": 2,
+        "cp_s_fold": 0,
+        "cp_i_fold": "50%",
+        "cp_r_fold": "50%",
+        "cp_num_s_fold": 0,
+        "cp_num_i_fold": 1,
+        "cp_num_r_fold": 1,
+        "vac_studies": 0,
+        "vac_samples": 0,
+        "vac_s_fold": 0,
+        "vac_i_fold": 0,
+        "vac_r_fold": 0,
+        "vac_num_s_fold": 0,
+        "vac_num_i_fold": 0,
+        "vac_num_r_fold": 0
+    },
+    {
         "variant": "Y453F",
         "vac_studies": 1,
         "vac_samples": 15,
