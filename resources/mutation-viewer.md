@@ -1,9 +1,34 @@
+[toc]
+- [Variants of concern](#variants.of.concern)
+  - [B.1.1.7, aka 501Y.V1 variant, 20I/501Y.V1, and UK COVID variant](#sec_b-1-1-7)
+  - [B.1.1.7 with S:E484K](#sec_b-1-1-7-484k)
+  - [B.1.351, aka 501.V2 variant, 20C/501Y.V2, and South African COVID-19 variant](#sec_b-1-351)
+  - [P.1, aka B.1.1.28.1, 20J/501Y.V3 variant, and K417T/E484K/N501Y](#sec_p-1)
+- [Variants of interest](#variants.of.interest)
+  - [PHL-B.1.1.28](#phl-b-1-1-28)
+  - [B.1.141, aka N439K](#sec_n439k)
+  - [B.1.526](#sec_b-1-526)
+  - [B.1.429, aka CAL.20C](#sec_b-1-429)
+  - [Cluster 5](#sec_cluster5)
+  - [COH.20G/501Y](#sec_tu-501y)
+  - [COH.20G/677H](#sec_coh-20g-677h)
+  - [P.2, evolved from B.1.1.28](#sec_p-2)
+  - [B.1.1.33 N9](#sec_p-1-1-33-n9)
+- [Prolonged Infections](#prolonged.infections)
+  - [Kemp S, Harvey W, et int., and Gupta RK.](#sec_kemp21)
+  - [McCarthy KR, Rennick LJ, et int., and Duprex WP.](#sec_mccarthy20)
+  - [Choi B, Choudhary MC, et int., and Li JZ.](#sec_choi20)
+  - [Avanzato VA, Matson MJ, et int., and Munster VJ.](#sec_avanzato20)
+  - [Bazykin G, Stanevich O, et int., and Lioznov D.](#sec_bazykin20)
+  - [Khatamzas E, Rehn A, et int., and Antwerpen M.](#sec_khatamzas20)
+[/toc]
+
 <div style="clear: both; height: 0;" />
 
 ## Variants of concern
 
 <!-- B.1.1.7 -->
-<section id="sec_b-1-1-7" class="figure-section wrap">
+<section id="sec_b-1-1-7" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -13,7 +38,7 @@ Rambaut A, Loman N, et int., and Volz E. “Preliminary genomic characterisation
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 b-1-1-7
@@ -24,7 +49,7 @@ b-1-1-7
 </section>
 
 <!-- B.1.1.7 E484K-->
-<section id="sec_b-1-1-7-484k" class="figure-section wrap">
+<section id="sec_b-1-1-7-484k" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -34,7 +59,7 @@ Latif AA, Gangavarapu K, et int., and the Center for Viral Systems Biology . [�
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 b-1-1-7-484k
@@ -45,7 +70,7 @@ b-1-1-7-484k
 </section>
 
 <!-- B.1.351 -->
-<section id="sec_b-1-351" class="figure-section wrap">
+<section id="sec_b-1-351" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -55,7 +80,7 @@ Tegally H, Wilkinson E, et int., and de Oliveira T. “Emergence and rapid sprea
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 b-1-351
@@ -66,7 +91,7 @@ b-1-351
 </section>
 
 <!-- P.1 -->
-<section id="sec_p-1" class="figure-section wrap">
+<section id="sec_p-1" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -76,7 +101,7 @@ Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SA
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 p-1
@@ -89,7 +114,7 @@ p-1
 ## Variants of Interest
 
 <!-- PHL-B.1.1.28 -->
-<section id="sec_phl-b-1-1-28" class="figure-section wrap">
+<section id="sec_phl-b-1-1-28" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -100,7 +125,7 @@ Tablizo FA, Kim KM, et int., and Saloma CP. “Genome sequencing and analysis of
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 phl-b-1-1-28
@@ -111,7 +136,7 @@ phl-b-1-1-28
 </section>
 
 <!-- B.1.141 -->
-<section id="sec_n439k" class="figure-section wrap">
+<section id="sec_n439k" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -121,7 +146,7 @@ Thomson EC, Rosen LE, et int., and Snell G. “The circulating SARS-CoV-2 spike 
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 n439k
@@ -132,7 +157,7 @@ n439k
 </section>
 
 <!-- B.1.526 -->
-<section id="sec_b-1-526" class="figure-section wrap">
+<section id="sec_b-1-526" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -142,7 +167,7 @@ West A, Barnes C, et int., and Bjorkman P. “SARS-CoV-2 lineage B.1.526 emergin
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 b-1-526
@@ -153,7 +178,7 @@ b-1-526
 </section>
 
 <!-- b-1-429 -->
-<section id="sec_b-1-429" class="figure-section wrap">
+<section id="sec_b-1-429" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -163,7 +188,7 @@ Deng X, Garcia-Knight MA, et int., and Chiu CY. “Transmission, infectivity, an
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 b-1-429
@@ -174,7 +199,7 @@ b-1-429
 </section>
 
 <!-- Cluster 5 -->
-<section id="sec_cluster5" class="figure-section wrap">
+<section id="sec_cluster5" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -183,7 +208,7 @@ Lassaunière R, Fonager J, et int., and Fomsgaard A. “SARS-CoV-2 spike mutatio
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 cluster5
@@ -194,7 +219,7 @@ cluster5
 </section>
 
 <!-- COH.20G/501Y -->
-<section id="sec_tu-501y" class="figure-section wrap">
+<section id="sec_tu-501y" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -203,7 +228,7 @@ Tu H, Avenarius MR, et int., and Jones D. “Distinct Patterns of Emergence of S
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 tu-501y
@@ -214,7 +239,7 @@ tu-501y
 </section>
 
 <!-- COH.20G/677H -->
-<section id="sec_coh-20g-677h" class="figure-section wrap">
+<section id="sec_coh-20g-677h" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -223,7 +248,7 @@ Tada T, Dcosta BM, et int., and Landau NR. “Neutralization of viruses with Eur
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 coh-20g-677h
@@ -234,7 +259,7 @@ coh-20g-677h
 </section>
 
 <!-- P.2 -->
-<section id="sec_p-2" class="figure-section wrap">
+<section id="sec_p-2" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -243,7 +268,7 @@ Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SA
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 p-2
@@ -254,7 +279,7 @@ p-2
 </section>
 
 <!-- B.1.1.35 N9 -->
-<section id="sec_b-1-1-33-n9" class="figure-section wrap">
+<section id="sec_b-1-1-33-n9" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -263,7 +288,7 @@ Resende PC, Graf T, et int., and Siqueira MM. “A potential SARS-CoV-2 variant 
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 b-1-1-33-n9
@@ -276,7 +301,7 @@ b-1-1-33-n9
 ## Prolonged Infections
 
 <!-- Kemp S -->
-<section id="sec_kemp21" class="figure-section wrap">
+<section id="sec_kemp21" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -286,7 +311,7 @@ Kemp S, Harvey W, et int., and Gupta RK. “SARS-CoV-2 evolution during treatmen
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 kemp21
@@ -297,7 +322,7 @@ kemp21
 </section>
 
 <!-- McCarthy -->
-<section id="sec_mccarthy20" class="figure-section wrap">
+<section id="sec_mccarthy20" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -307,7 +332,7 @@ McCarthy KR, Rennick LJ, et int., and Duprex WP. “Recurrent deletions in the S
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 mccarthy20
@@ -318,7 +343,7 @@ mccarthy20
 </section>
 
 <!-- Choi B -->
-<section id="sec_choi20" class="figure-section wrap">
+<section id="sec_choi20" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -328,7 +353,7 @@ Choi B, Choudhary MC, et int., and Li JZ. “Persistence and Evolution of SARS-C
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 choi20
@@ -339,7 +364,7 @@ choi20
 </section>
 
 <!-- Avanzato VA -->
-<section id="sec_avanzato20" class="figure-section wrap">
+<section id="sec_avanzato20" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -349,7 +374,7 @@ Avanzato VA, Matson MJ, et int., and Munster VJ. “Case Study: Prolonged Infect
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 avanzato20
@@ -360,7 +385,7 @@ avanzato20
 </section>
 
 <!-- Bazykin G -->
-<section id="sec_bazykin20" class="figure-section wrap">
+<section id="sec_bazykin20" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -370,7 +395,7 @@ Bazykin G, Stanevich O, et int., and Lioznov D. “Emergence of Y453F and Δ69-7
 
 </div>
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 bazykin20
@@ -381,7 +406,7 @@ bazykin20
 </section>
 
 <!-- Khatamzas E -->
-<section id="sec_khatamzas20" class="figure-section wrap">
+<section id="sec_khatamzas20" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -392,7 +417,7 @@ Khatamzas E, Rehn A, et int., and Antwerpen M. “Emergence of multiple SARS-CoV
 </div>
 
 
-<div class="figure-image">
+<div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
 khatamzas20

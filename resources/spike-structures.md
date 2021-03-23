@@ -155,7 +155,7 @@ ACE2-competing mAbs bind to a small proportion of ACE2-binding residues. These m
 
 <div class="figure-image">
 
-![RBD non-ACE2-competing mAbs](spike-structures/fig8.png#!maxHeight=35rem)
+![RBD non-ACE2-competing mAbs](spike-structures/fig8.png#!maxHeight=35rem&maxWidth=40vw)
 
 </div>
 
