@@ -12,10 +12,12 @@
 
 <div class="figure-caption">
 
-Fold reduced _in vitro_ neutralization susceptibility to plasma from previously infected and vaccinated persons associated with three variants of concern (B.1.1.7, B.1.351, and P.1) and two spike amino acid mutations E484K and N501Y. B.1.1.7 contains N501Y plus two S1 N-terminal domain (NTD) deletions, three S1 C-terminal domain (CTD) mutations, and three S2-mutations. B.1.351 contains E484K and N501Y plus four S1 NTD mutations, two receptor binding domain (RBD) mutations, one S1 CTD mutation, and one S2 mutation. P.1 contains E484K and N501Y plus five S1 NTD mutations, one RBD mutation, two S1 CTD mutations, and two S2 mutations. The Y-axis indicates the number of plasma units tested.
+Fold reduced _in vitro_ neutralization susceptibility to plasma from previously infected and vaccinated persons associated with three variants of concern (B.1.1.7, B.1.351, and P.1), variants of interest(CAL.20C) and two spike amino acid mutations E484K and N501Y. B.1.1.7 contains N501Y plus two S1 N-terminal domain (NTD) deletions, three S1 C-terminal domain (CTD) mutations, and three S2-mutations. B.1.351 contains E484K and N501Y plus four S1 NTD mutations, two receptor binding domain (RBD) mutations, one S1 CTD mutation, and one S2 mutation. P.1 contains E484K and N501Y plus five S1 NTD mutations, one RBD mutation, two S1 CTD mutations, and two S2 mutations. The Y-axis indicates the number of plasma samples tested.
+
+"*": authentic virus assay.
 
 <p>
-The color scheme indicates the fold-reduction in neutralization: <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #ffffff; color: black;">absence of color</span> – &lt;3-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #7fcbee; color: black;">light blue</span> – 3 to 9.9-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span> – ≥10-fold reduced susceptibility. The histogram labels indicate the studies’ authors and plasma characteristics. BNT: BNT162b2; Mod: mRNA-1273; NVX: NVX-CoV2373. Each of plasma units were obtained approximately one month following vaccination with the exception of one study.
+The color scheme indicates the fold-reduction in neutralization: <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #ffffff; color: black;">absence of color</span> – &lt;3-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #7fcbee; color: black;">light blue</span> – 3 to 9.9-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span> – ≥10-fold reduced susceptibility. The histogram labels indicate the studies’ authors and plasma characteristics. BNT: BNT162b2; Mod: mRNA-1273; NVX: NVX-CoV2373; AZD: AZD1222. Each of plasma units were obtained approximately one month following vaccination with the exception of one study.
 </p>
 
 - **Becker21**: Becker M, Dulovic A, et int., and Schneiderhan-Marra N. “Immune response to SARS-CoV-2 variants of concern in vaccinated individuals.” _medRxiv_, 2021. [doi.org/10.1101/2021.03.08.21252958](https://doi.org/10.1101/2021.03.08.21252958).
@@ -173,11 +175,15 @@ Table4
 TableS4
 [/table]
 
+"*": authentic virus assay.
+
 ### Neutralizing Sensitivity of Variants of Concern to Monoclonal Antibodies (mAbs)
 
 [table]
 TableS5
 [/table]
+
+"*": authentic virus assay.
 
 ### Neutralizing Sensitivity of mutations to Convalescent Plasma and Plasma from Vaccinated Persons
 
