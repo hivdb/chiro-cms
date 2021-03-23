@@ -21,6 +21,14 @@
             {
                 "variant": "E484K",
                 "rx": "BNT162b2",
+                "s_fold": 3,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Wang21[^Wang21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "BNT162b2",
                 "s_fold": 6,
                 "i_fold": 3,
                 "r_fold": 1,
@@ -73,6 +81,14 @@
                 "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "mRNA-1273",
+                "s_fold": 10,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Wang21[^Wang21]"
             },
             {
                 "variant": "E484K",
@@ -203,6 +219,14 @@
             },
             {
                 "variant": "K417N + E484K + N501Y",
+                "rx": "BNT162b2",
+                "s_fold": 4,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wang21[^Wang21]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
                 "rx": "CP",
                 "s_fold": 12,
                 "i_fold": 5,
@@ -212,10 +236,26 @@
             {
                 "variant": "K417N + E484K + N501Y",
                 "rx": "CP",
+                "s_fold": 36,
+                "i_fold": 8,
+                "r_fold": 1,
+                "reference": "Wang21[^Wang21]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "CP",
                 "s_fold": 22,
                 "i_fold": 1,
                 "r_fold": 1,
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "CP(6M)",
+                "s_fold": 37,
+                "i_fold": 6,
+                "r_fold": 2,
+                "reference": "Wang21[^Wang21]"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -232,6 +272,14 @@
                 "i_fold": 6,
                 "r_fold": 6,
                 "reference": "Wibmer21[^Wibmer21]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "mRNA-1273",
+                "s_fold": 11,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wang21[^Wang21]"
             },
             {
                 "variant": "K417N + E484K + N501Y",

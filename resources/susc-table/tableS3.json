@@ -3,28 +3,28 @@
         "variant": "N501Y",
         "cp": 148,
         "ip": 106,
-        "phase3": 42,
+        "phase3": 51,
         "structure": 17
     },
     {
         "variant": "E484K",
         "cp": 90,
-        "ip": 32,
-        "phase3": 49,
+        "ip": 47,
+        "phase3": 58,
         "structure": 17
     },
     {
         "variant": "Other individual mutations",
         "cp": 616,
         "ip": 466,
-        "phase3": 634,
+        "phase3": 652,
         "structure": 489
     },
     {
         "variant": "All individual mutations",
         "cp": 854,
-        "ip": 596,
-        "phase3": 716,
+        "ip": 611,
+        "phase3": 752,
         "structure": 521
     },
     {
@@ -64,16 +64,16 @@
     },
     {
         "variant": "Other muation combinations",
-        "cp": 498,
-        "ip": 487,
-        "phase3": 163,
+        "cp": 588,
+        "ip": 472,
+        "phase3": 172,
         "structure": 160
     },
     {
         "variant": "All combinations of mutations",
-        "cp": 1499,
-        "ip": 1357,
-        "phase3": 336,
+        "cp": 1589,
+        "ip": 1342,
+        "phase3": 345,
         "structure": 215
     }
 ]
