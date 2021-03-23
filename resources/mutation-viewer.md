@@ -7,7 +7,7 @@
   - [B.1.526](#sec_b-1-526)
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
 - [Variants of interest](#variants.of.interest)
-  - [PHL-B.1.1.28](#sec_phl-b-1-1-28)
+  - [PHL-B.1.1.28, aka P.3](#sec_phl-b-1-1-28)
   - [B.1.141, aka N439K](#sec_n439k)
   - [Cluster 5](#sec_cluster5)
   - [COH.20G/501Y](#sec_tu-501y)
@@ -160,7 +160,7 @@ b-1-429
 
 <div class="figure-caption">
 
-### [PHL-B.1.1.28](#phl-b-1-1-28)
+### [PHL-B.1.1.28, aka P.3](#phl-b-1-1-28)
 
 Tablizo FA, Kim KM, et int., and Saloma CP. “Genome sequencing and analysis of an emergent SARS-CoV-2 variant characterized by multiple spike protein mutations detected from the Central Visayas Region of the Philippines.” _bioRxiv_, 2021. [doi.org/10.1101/2021.03.03.21252812](https://doi.org/10.1101/2021.03.03.21252812
 ). [^Tablizo21]

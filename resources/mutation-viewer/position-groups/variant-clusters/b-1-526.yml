@@ -1,5 +1,11 @@
 name: b-1-526
 positions:
+- name: nsp6:SGF106-108del  # ORF1ab:SGF3675-3677del
+  label: nsp6:SGF106-108Δ
+  pos: 11288
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
 - name: L5F
   pos: 21575
 - name: T95I
