@@ -4,16 +4,16 @@
   - [B.1.1.7 with S:E484K](#sec_b-1-1-7-484k)
   - [B.1.351, aka 501.V2 variant, 20C/501Y.V2, and South African COVID-19 variant](#sec_b-1-351)
   - [P.1, aka B.1.1.28.1, 20J/501Y.V3 variant, and K417T/E484K/N501Y](#sec_p-1)
-- [Variants of interest](#variants.of.interest)
-  - [PHL-B.1.1.28](#phl-b-1-1-28)
-  - [B.1.141, aka N439K](#sec_n439k)
   - [B.1.526](#sec_b-1-526)
-  - [B.1.429, aka CAL.20C](#sec_b-1-429)
+  - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
+- [Variants of interest](#variants.of.interest)
+  - [PHL-B.1.1.28](#sec_phl-b-1-1-28)
+  - [B.1.141, aka N439K](#sec_n439k)
   - [Cluster 5](#sec_cluster5)
   - [COH.20G/501Y](#sec_tu-501y)
   - [COH.20G/677H](#sec_coh-20g-677h)
   - [P.2, evolved from B.1.1.28](#sec_p-2)
-  - [B.1.1.33 N9](#sec_p-1-1-33-n9)
+  - [B.1.1.33 N9](#sec_b-1-1-33-n9)
 - [Prolonged Infections](#prolonged.infections)
   - [Kemp S, Harvey W, et int., and Gupta RK.](#sec_kemp21)
   - [McCarthy KR, Rennick LJ, et int., and Duprex WP.](#sec_mccarthy20)
@@ -111,6 +111,48 @@ p-1
 
 </section>
 
+<!-- B.1.526 -->
+<section id="sec_b-1-526" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.526](#sec_b-1-526)
+
+West A, Barnes C, et int., and Bjorkman P. “SARS-CoV-2 lineage B.1.526 emerging in the New York region detected by software utility created to query the spike mutational landscape.” _bioRxiv_, 2020. [doi.org/10.1101/2021.02.14.431043](https://doi.org/10.1101/2021.02.14.431043). [^West21]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-526
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- b-1-429 -->
+<section id="sec_b-1-429" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
+
+Deng X, Garcia-Knight MA, et int., and Chiu CY. “Transmission, infectivity, and antibody neutralization of an emerging SARS-CoV-2 variant in California carrying a L452R spike protein mutation.” _medRxiv_, 2021. [doi.org/10.1101/2021.03.07.21252647](https://doi.org/10.1101/2021.03.07.21252647).[^Deng21]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-429
+[/genomemap]
+
+</div>
+
+</section>
+
 ## Variants of Interest
 
 <!-- PHL-B.1.1.28 -->
@@ -150,48 +192,6 @@ Thomson EC, Rosen LE, et int., and Snell G. “The circulating SARS-CoV-2 spike 
 
 [genomemap]
 n439k
-[/genomemap]
-
-</div>
-
-</section>
-
-<!-- B.1.526 -->
-<section id="sec_b-1-526" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [B.1.526](#sec_b-1-526)
-
-West A, Barnes C, et int., and Bjorkman P. “SARS-CoV-2 lineage B.1.526 emerging in the New York region detected by software utility created to query the spike mutational landscape.” _bioRxiv_, 2020. [doi.org/10.1101/2021.02.14.431043](https://doi.org/10.1101/2021.02.14.431043). [^West21]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-b-1-526
-[/genomemap]
-
-</div>
-
-</section>
-
-<!-- b-1-429 -->
-<section id="sec_b-1-429" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [B.1.429, aka CAL.20C](#sec_b-1-429)
-
-Deng X, Garcia-Knight MA, et int., and Chiu CY. “Transmission, infectivity, and antibody neutralization of an emerging SARS-CoV-2 variant in California carrying a L452R spike protein mutation.” _medRxiv_, 2021. [doi.org/10.1101/2021.03.07.21252647](https://doi.org/10.1101/2021.03.07.21252647).[^Deng21]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-b-1-429
 [/genomemap]
 
 </div>
@@ -283,7 +283,7 @@ p-2
 
 <div class="figure-caption">
 
-### [B.1.1.33 N9](#sec_p-1-1-33-n9)
+### [B.1.1.33 N9](#sec_b-1-1-33-n9)
 Resende PC, Graf T, et int., and Siqueira MM. “A potential SARS-CoV-2 variant of interest (VOI) harboring mutation E484K in the Spike protein was identified within lineage B.1.1.33 circulating in Brazil.” _biorxiv_, 2021.[^Resende21]
 
 </div>
