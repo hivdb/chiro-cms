@@ -8,9 +8,9 @@ escapeHtml: false
 content:
   _resource: susceptibility-data.md
 tables:
-  Table3:
-    tableStyle:
-      tableLayout: fixed
+  table_mab:
+    tableScrollStyle:
+      max-height: none
     columnDefs:
     - name: variant
       label: " "
@@ -49,8 +49,10 @@ tables:
     # - name: JMB2002
     #   label: JMB2002
     data:
-      _resource: susc-table/table3.yml
-  Table4:
+      _resource: susc-table/table_mab.yml
+  table_plasma:
+    tableScrollStyle:
+      max-height: none
     columnDefs:
     - name: variant
       label: " "
@@ -75,8 +77,10 @@ tables:
     - name: vac_r_fold
       label: "Vaccine\n&gt;10-fold (R)\n(%)"
     data:
-      _resource: susc-table/table4.yml
-  TableS3:
+      _resource: susc-table/table_plasma.yml
+  table_summary:
+    tableScrollStyle:
+      max-height: none
     columnDefs:
     - name: variant
       label: Mutations
@@ -89,82 +93,4 @@ tables:
     - name: structure
       label: mAbs with high-resolution structure
     data:
-      _resource: susc-table/tableS3.yml
-  TableS4:
-    columnDefs:
-    - name: variant
-      label: Spike
-    - name: assays.rx
-      label: Plasma
-      multiCells: true
-    - name: assays.s_fold
-      label: "S\n(&lt;3-fold)"
-      multiCells: true
-    - name: assays.i_fold
-      label: "I\n(3-9-fold)"
-      multiCells: true
-    - name: assays.r_fold
-      label: "R\n(&gt;10-fold)"
-      multiCells: true
-    - name: assays.reference
-      label: "Reference"
-      multiCells: true
-    data:
-      _resource: susc-table/tableS4.yml
-  TableS5:
-    columnDefs:
-    - name: variant
-      label: Spike
-    - name: assays.rx
-      label: Mab
-      multiCells: true
-    - name: assays.mab_class
-      label: "Class"
-      multiCells: true
-    - name: assays.fold
-      label: "Fold"
-      multiCells: true
-    - name: assays.reference
-      label: "Reference"
-      multiCells: true
-    data:
-      _resource: susc-table/tableS5.yml
-  TableS6:
-    columnDefs:
-    - name: variant
-      label: Spike
-    - name: assays.rx
-      label: Plasma
-      multiCells: true
-    - name: assays.s_fold
-      label: "S\n(&lt;3-fold)"
-      multiCells: true
-    - name: assays.i_fold
-      label: "I\n(3-9-fold)"
-      multiCells: true
-    - name: assays.r_fold
-      label: "R\n(&gt;10-fold)"
-      multiCells: true
-    - name: assays.reference
-      label: "Reference"
-      multiCells: true
-    data:
-      _resource: susc-table/tableS6.yml
-  TableS7:
-    columnDefs:
-    - name: variant
-      label: Spike
-    - name: assays.rx
-      label: Mab
-      multiCells: true
-    - name: assays.mab_class
-      label: "Class"
-      multiCells: true
-    - name: assays.fold
-      label: "Fold"
-      multiCells: true
-    - name: assays.reference
-      label: "Reference"
-      multiCells: true
-    data:
-      _resource: susc-table/tableS7.yml
+      _resource: susc-table/table_summary.yml

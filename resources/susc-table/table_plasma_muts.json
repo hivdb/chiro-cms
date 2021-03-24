@@ -13,6 +13,14 @@
             {
                 "variant": "E484K",
                 "rx": "BNT162b2",
+                "s_fold": 0,
+                "i_fold": 10,
+                "r_fold": 0,
+                "reference": "Kuzmina21†[^Kuzmina21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "BNT162b2",
                 "s_fold": 1,
                 "i_fold": 4,
                 "r_fold": 0,
@@ -114,6 +122,14 @@
             {
                 "variant": "E484K + N501Y",
                 "rx": "BNT162b2",
+                "s_fold": 0,
+                "i_fold": 10,
+                "r_fold": 0,
+                "reference": "Kuzmina21†[^Kuzmina21]"
+            },
+            {
+                "variant": "E484K + N501Y",
+                "rx": "BNT162b2",
                 "s_fold": 20,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -139,6 +155,14 @@
                 "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Chen21[^Chen21]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "BNT162b2",
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Kuzmina21†[^Kuzmina21]"
             },
             {
                 "variant": "K417N",
@@ -208,6 +232,14 @@
                 "i_fold": 7,
                 "r_fold": 17,
                 "reference": "Madhi21[^Madhi21]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "BNT162b2",
+                "s_fold": 0,
+                "i_fold": 10,
+                "r_fold": 0,
+                "reference": "Kuzmina21†[^Kuzmina21]"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -287,7 +319,7 @@
                 "s_fold": 8,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Wu21[^Wu21]"
+                "reference": "Wu21†[^Wu21]"
             }
         ]
     },
@@ -347,6 +379,14 @@
             {
                 "variant": "N501Y",
                 "rx": "BNT162b2",
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Kuzmina21†[^Kuzmina21]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "BNT162b2",
                 "s_fold": 5,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -371,18 +411,18 @@
             {
                 "variant": "N501Y",
                 "rx": "BNT162b2",
-                "s_fold": 11,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Xie21[^Xie21]"
-            },
-            {
-                "variant": "N501Y",
-                "rx": "BNT162b2",
                 "s_fold": 20,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Xie21b[^Xie21b]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "BNT162b2",
+                "s_fold": 11,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Xie21†[^Xie21]"
             },
             {
                 "variant": "N501Y",
@@ -446,7 +486,7 @@
                 "s_fold": 18,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Rees-Spear21[^Rees-Spear21]"
+                "reference": "Rees-Spear21†[^Rees-Spear21]"
             },
             {
                 "variant": "N501Y",
@@ -486,7 +526,7 @@
                 "s_fold": 8,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Wu21[^Wu21]"
+                "reference": "Wu21†[^Wu21]"
             }
         ]
     },
@@ -589,7 +629,7 @@
                 "s_fold": 18,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Rees-Spear21[^Rees-Spear21]"
+                "reference": "Rees-Spear21†[^Rees-Spear21]"
             },
             {
                 "variant": "∆69/70",
@@ -597,7 +637,7 @@
                 "s_fold": 18,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Rees-Spear21[^Rees-Spear21]"
+                "reference": "Rees-Spear21†[^Rees-Spear21]"
             },
             {
                 "variant": "∆69/70",

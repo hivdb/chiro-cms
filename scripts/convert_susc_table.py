@@ -18,12 +18,11 @@ def convert_susc_table(input_file, output_file):
         new_assays = []
         for rec in item.get('assays'):
             refname = rec['reference']
-            refID = refname.replace('*', '')
+            refID = refname.replace('*', '').replace('†', '')
             rec['reference'] = "{}[^{}]".format(refname, refID)
             new_assays.append(rec)
         item['assays'] = new_assays
         result.append(item)
-
 
     with open(output_file, 'w', encoding='utf-8') as fd:
         json.dump(result, fd, indent=4, ensure_ascii=False)
