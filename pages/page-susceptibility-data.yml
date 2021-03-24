@@ -94,3 +94,89 @@ tables:
       label: mAbs with high-resolution structure
     data:
       _resource: susc-table/table_summary.yml
+  table_plasma_variant:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: variant
+      label: Spike
+    - name: assays.rx
+      label: Plasma
+      multiCells: true
+    - name: assays.s_fold
+      label: "S\n(&lt;3-fold)"
+      multiCells: true
+    - name: assays.i_fold
+      label: "I\n(3-9-fold)"
+      multiCells: true
+    - name: assays.r_fold
+      label: "R\n(&gt;10-fold)"
+      multiCells: true
+    - name: assays.reference
+      label: "Reference"
+      multiCells: true
+    data:
+      _resource: susc-table/table_plasma_variant.yml
+  table_mab_variant:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: variant
+      label: Spike
+    - name: assays.rx
+      label: Mab
+      multiCells: true
+    - name: assays.mab_class
+      label: "Class"
+      multiCells: true
+    - name: assays.fold
+      label: "Fold"
+      multiCells: true
+    - name: assays.reference
+      label: "Reference"
+      multiCells: true
+    data:
+      _resource: susc-table/table_mab_variant.yml
+  table_plasma_muts:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: variant
+      label: Spike
+    - name: assays.rx
+      label: Plasma
+      multiCells: true
+    - name: assays.s_fold
+      label: "S\n(&lt;3-fold)"
+      multiCells: true
+    - name: assays.i_fold
+      label: "I\n(3-9-fold)"
+      multiCells: true
+    - name: assays.r_fold
+      label: "R\n(&gt;10-fold)"
+      multiCells: true
+    - name: assays.reference
+      label: "Reference"
+      multiCells: true
+    data:
+      _resource: susc-table/table_plasma_muts.yml
+  table_mab_muts:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: variant
+      label: Spike
+    - name: assays.rx
+      label: Mab
+      multiCells: true
+    - name: assays.mab_class
+      label: "Class"
+      multiCells: true
+    - name: assays.fold
+      label: "Fold"
+      multiCells: true
+    - name: assays.reference
+      label: "Reference"
+      multiCells: true
+    data:
+      _resource: susc-table/table_mab_muts.yml

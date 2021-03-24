@@ -102,10 +102,38 @@ The color scheme indicates the fold-reduction in neutralization: <span style="pa
 
 ## Individual study details
 
-- [Table S1: Neutralizing Sensitivity of Variants of Concern to Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-table#table.s1.neutralizing.sensitivity.of.variants.of.concern.to.convalescent.plasma.and.plasma.from.vaccinated.persons)
-- [Table S2: Neutralizing Sensitivity of Variants of Concern to Monoclonal Antibodies (mAbs)](/page/susceptibility-table#table.s2.neutralizing.sensitivity.of.variants.of.concern.to.monoclonal.antibodies.mabs.)
-- [Table S3: Neutralizing Sensitivity of mutations to Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-table#table.s3.neutralizing.sensitivity.of.mutations.to.convalescent.plasma.and.plasma.from.vaccinated.persons)
-- [Table S4: Neutralizing Sensitivity of Mutations to Monoclonal Antibodies (mAbs)](/page/susceptibility-table#table.s4.neutralizing.sensitivity.of.mutations.to.monoclonal.antibodies.mabs.)
+### Table S1: Neutralizing Sensitivity of Variants of Concern to Convalescent Plasma and Plasma from Vaccinated Persons
+
+[table]
+table_plasma_variant
+[/table]
+
+"*": The study is using authentic virus assay.
+"†": Aggregated results, the study provides mean fold change, not individual result for each sample.
+
+
+### Table S2: Neutralizing Sensitivity of Variants of Concern to Monoclonal Antibodies (mAbs)
+
+[table]
+table_mab_variant
+[/table]
+
+
+### Table S3: Neutralizing Sensitivity of mutations to Convalescent Plasma and Plasma from Vaccinated Persons
+
+[table]
+table_plasma_muts
+[/table]
+
+"*": The study is using authentic virus assay.
+"†": Aggregated results, the study provides mean fold change, not individual result for each sample.
+
+### Table S4: Neutralizing Sensitivity of Mutations to Monoclonal Antibodies (mAbs)
+
+[table]
+table_mab_muts
+[/table]
+
 
 
 ## Supplemantary data
