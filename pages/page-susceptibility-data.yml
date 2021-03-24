@@ -3,7 +3,7 @@ pageTitle: Susceptibility data
 introHeader: |-
   Susceptiblity data
 toc: true
-tocFloat: none
+tocFloat: right
 escapeHtml: false
 content:
   _resource: susceptibility-data.md
@@ -14,40 +14,26 @@ tables:
     columnDefs:
     - name: variant
       label: " "
-    - name: cas
-      label: "RBM-I\nCAS"
-    - name: ete
-      label: "RBM-I\nETE"
-    - name: tix
-      label: "RBM-I\nTIX"
     - name: bam
-      label: "RBM-II\nBAM"
-    - name: cil
-      label: "RBM-II\nCIL"
-    - name: imd
-      label: "Core-I\nIMD"
-    - name: sot
-      label: "Core-I\nSOT"
+      label: "BAM"
+    - name: ete
+      label: "ETE"
     - name: bam_ete
-      label: "BAM+\nETE"
+      label: "BAM+ETE"
+    - name: cas
+      label: "CAS"
+    - name: imd
+      label: "IMD"
     - name: cas_imd
-      label: "CAS+\nIMD"
+      label: "CAS+IMD"
+    - name: cil
+      label: "CIL"
+    - name: tix
+      label: "TIX"
     - name: cil_tix
-      label: "CIL+\nTIX"
-    # - name: reg
-    #   label: "RBM-I\nREG"
-    # - name: S2E12
-    #   label: "RBM-I\nS2E12"
-    # - name: C144
-    #   label: "RBM-III\nC144"
-    # - name: C135
-    #   label: "Core-I\nC135"
-    # - name: BRII-196
-    #   label: BRII-196
-    # - name: BRII-198
-    #   label: BRII-198
-    # - name: JMB2002
-    #   label: JMB2002
+      label: "CIL+TIX"
+    - name: sot
+      label: "SOT"
     data:
       _resource: susc-table/table_mab.yml
   table_plasma:
@@ -94,89 +80,3 @@ tables:
       label: mAbs with high-resolution structure
     data:
       _resource: susc-table/table_summary.yml
-  table_plasma_variant:
-    tableScrollStyle:
-      max-height: none
-    columnDefs:
-    - name: variant
-      label: Spike
-    - name: assays.rx
-      label: Plasma
-      multiCells: true
-    - name: assays.s_fold
-      label: "S\n(&lt;3-fold)"
-      multiCells: true
-    - name: assays.i_fold
-      label: "I\n(3-9-fold)"
-      multiCells: true
-    - name: assays.r_fold
-      label: "R\n(&gt;10-fold)"
-      multiCells: true
-    - name: assays.reference
-      label: "Reference"
-      multiCells: true
-    data:
-      _resource: susc-table/table_plasma_variant.yml
-  table_mab_variant:
-    tableScrollStyle:
-      max-height: none
-    columnDefs:
-    - name: variant
-      label: Spike
-    - name: assays.rx
-      label: Mab
-      multiCells: true
-    - name: assays.mab_class
-      label: "Class"
-      multiCells: true
-    - name: assays.fold
-      label: "Fold"
-      multiCells: true
-    - name: assays.reference
-      label: "Reference"
-      multiCells: true
-    data:
-      _resource: susc-table/table_mab_variant.yml
-  table_plasma_muts:
-    tableScrollStyle:
-      max-height: none
-    columnDefs:
-    - name: variant
-      label: Spike
-    - name: assays.rx
-      label: Plasma
-      multiCells: true
-    - name: assays.s_fold
-      label: "S\n(&lt;3-fold)"
-      multiCells: true
-    - name: assays.i_fold
-      label: "I\n(3-9-fold)"
-      multiCells: true
-    - name: assays.r_fold
-      label: "R\n(&gt;10-fold)"
-      multiCells: true
-    - name: assays.reference
-      label: "Reference"
-      multiCells: true
-    data:
-      _resource: susc-table/table_plasma_muts.yml
-  table_mab_muts:
-    tableScrollStyle:
-      max-height: none
-    columnDefs:
-    - name: variant
-      label: Spike
-    - name: assays.rx
-      label: Mab
-      multiCells: true
-    - name: assays.mab_class
-      label: "Class"
-      multiCells: true
-    - name: assays.fold
-      label: "Fold"
-      multiCells: true
-    - name: assays.reference
-      label: "Reference"
-      multiCells: true
-    data:
-      _resource: susc-table/table_mab_muts.yml

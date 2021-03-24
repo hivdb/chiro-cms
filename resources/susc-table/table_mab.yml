@@ -10,12 +10,6 @@
   cas_imd: 1.0<sub>4</sub>
   cil_tix: 0.8<sub>3</sub>
   bam_ete: 1.3<sub>3</sub>
-  BRII-196: '-'
-  BRII-198: '-'
-  C135: 0.9<sub>2</sub>
-  C144: '-'
-  JMB2002: '-'
-  S2E12: 0.9<sub>2</sub>
 - variant: B.1.351
   cas: 68<sub>8</sub>
   ete: '&gt;100<sub>6</sub>'
@@ -28,12 +22,6 @@
   cas_imd: 1.2<sub>4</sub>
   cil_tix: 1.3<sub>3</sub>
   bam_ete: '&gt;100<sub>3</sub>'
-  BRII-196: '-'
-  BRII-198: '-'
-  C135: 0.9<sub>2</sub>
-  C144: '-'
-  JMB2002: '-'
-  S2E12: 0.4<sub></sub>
 - variant: P.1
   cas: '&gt;100<sub>5</sub>'
   ete: '&gt;100<sub>3</sub>'
@@ -46,30 +34,6 @@
   cas_imd: 0.6<sub>2</sub>
   cil_tix: '-'
   bam_ete: '&gt;100<sub></sub>'
-  BRII-196: '-'
-  BRII-198: '-'
-  C135: '-'
-  C144: '-'
-  JMB2002: '-'
-  S2E12: '-'
-- variant: CAL.20C
-  cas: '-'
-  ete: '-'
-  tix: '-'
-  bam: '&gt;100<sub></sub>'
-  cil: '-'
-  imd: '-'
-  sot: '-'
-  reg: '-'
-  cas_imd: 1<sub></sub>
-  cil_tix: '-'
-  bam_ete: 7.7<sub></sub>
-  BRII-196: '-'
-  BRII-198: '-'
-  C135: '-'
-  C144: '-'
-  JMB2002: '-'
-  S2E12: '-'
 - variant: B.1.526
   cas: '-'
   ete: '-'
@@ -82,30 +46,18 @@
   cas_imd: 1<sub></sub>
   cil_tix: '-'
   bam_ete: 17<sub></sub>
-  BRII-196: '-'
-  BRII-198: '-'
-  C135: '-'
-  C144: '-'
-  JMB2002: '-'
-  S2E12: '-'
-- variant: E484K
-  cas: 13<sub>10</sub>
-  ete: 3.0<sub>4</sub>
-  tix: 6.4<sub>4</sub>
-  bam: '&gt;100<sub>4</sub>'
-  cil: 1.5<sub>4</sub>
-  imd: 1.1<sub>10</sub>
-  sot: 0.6<sub>4</sub>
+- variant: CAL.20C
+  cas: '-'
+  ete: '-'
+  tix: '-'
+  bam: '&gt;100<sub></sub>'
+  cil: '-'
+  imd: '-'
+  sot: '-'
   reg: '-'
-  cas_imd: 1.6<sub>4</sub>
-  cil_tix: 2.3<sub>2</sub>
-  bam_ete: 17<sub></sub>
-  BRII-196: '-'
-  BRII-198: '-'
-  C135: 0.4<sub>3</sub>
-  C144: '&gt;100<sub>3</sub>'
-  JMB2002: '-'
-  S2E12: 4<sub>2</sub>
+  cas_imd: 1<sub></sub>
+  cil_tix: '-'
+  bam_ete: 7.7<sub></sub>
 - variant: N501Y
   cas: 1<sub>9</sub>
   ete: 2.9<sub>5</sub>
@@ -118,12 +70,18 @@
   cas_imd: 1<sub>3</sub>
   cil_tix: 1.0<sub>2</sub>
   bam_ete: 1<sub></sub>
-  BRII-196: '-'
-  BRII-198: '-'
-  C135: 1.4<sub>3</sub>
-  C144: 1.5<sub>2</sub>
-  JMB2002: '-'
-  S2E12: 1.1<sub></sub>
+- variant: E484K
+  cas: 13<sub>10</sub>
+  ete: 3.0<sub>4</sub>
+  tix: 6.4<sub>4</sub>
+  bam: '&gt;100<sub>4</sub>'
+  cil: 1.5<sub>4</sub>
+  imd: 1.1<sub>10</sub>
+  sot: 0.6<sub>4</sub>
+  reg: '-'
+  cas_imd: 1.6<sub>4</sub>
+  cil_tix: 2.3<sub>2</sub>
+  bam_ete: 17<sub></sub>
 - variant: K417N
   cas: 8.9<sub>7</sub>
   ete: '&gt;100<sub>4</sub>'
@@ -136,30 +94,6 @@
   cas_imd: 0.8<sub></sub>
   cil_tix: 0.4<sub>2</sub>
   bam_ete: 1<sub></sub>
-  BRII-196: '-'
-  BRII-198: '-'
-  C135: 0.3<sub>2</sub>
-  C144: 0.5<sub></sub>
-  JMB2002: '-'
-  S2E12: 0.2<sub></sub>
-- variant: N439K
-  cas: 0.8<sub>4</sub>
-  ete: 0.4<sub>3</sub>
-  tix: '-'
-  bam: 1.3<sub></sub>
-  cil: '-'
-  imd: 28<sub>5</sub>
-  sot: 0.9<sub>3</sub>
-  reg: '-'
-  cas_imd: 1.4<sub>2</sub>
-  cil_tix: '-'
-  bam_ete: '-'
-  BRII-196: '-'
-  BRII-198: '-'
-  C135: '&gt;100<sub></sub>'
-  C144: 0.9<sub></sub>
-  JMB2002: '-'
-  S2E12: 0.9<sub></sub>
 - variant: L452R
   cas: 1<sub>3</sub>
   ete: 0.8<sub>2</sub>
@@ -172,12 +106,18 @@
   cas_imd: 1.1<sub>2</sub>
   cil_tix: '-'
   bam_ete: 7.4<sub></sub>
-  BRII-196: '-'
-  BRII-198: '-'
-  C135: '-'
-  C144: '-'
-  JMB2002: 42<sub></sub>
-  S2E12: '-'
+- variant: N439K
+  cas: 0.8<sub>4</sub>
+  ete: 0.4<sub>3</sub>
+  tix: '-'
+  bam: 1.3<sub></sub>
+  cil: '-'
+  imd: 28<sub>5</sub>
+  sot: 0.9<sub>3</sub>
+  reg: '-'
+  cas_imd: 1.4<sub>2</sub>
+  cil_tix: '-'
+  bam_ete: '-'
 - variant: Y453F
   cas: '&gt;100<sub>7</sub>'
   ete: 1<sub>2</sub>
@@ -190,12 +130,6 @@
   cas_imd: 3.5<sub></sub>
   cil_tix: '-'
   bam_ete: '-'
-  BRII-196: '-'
-  BRII-198: '-'
-  C135: '-'
-  C144: '-'
-  JMB2002: '-'
-  S2E12: 1.6<sub></sub>
 - variant: F490S
   cas: 1<sub>2</sub>
   ete: 0.8<sub></sub>
@@ -208,12 +142,6 @@
   cas_imd: 1<sub></sub>
   cil_tix: '-'
   bam_ete: 1<sub></sub>
-  BRII-196: '-'
-  BRII-198: '-'
-  C135: 1.2<sub></sub>
-  C144: 4.5<sub></sub>
-  JMB2002: '-'
-  S2E12: 1<sub></sub>
 - variant: S494P
   cas: 4.5<sub>3</sub>
   ete: 0.6<sub>2</sub>
@@ -226,9 +154,3 @@
   cas_imd: 1.1<sub>2</sub>
   cil_tix: '-'
   bam_ete: 1<sub></sub>
-  BRII-196: '-'
-  BRII-198: '-'
-  C135: 0.8<sub></sub>
-  C144: 45<sub></sub>
-  JMB2002: '-'
-  S2E12: 0.5<sub></sub>

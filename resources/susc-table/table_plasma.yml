@@ -49,6 +49,23 @@
   cp_num_s_fold: 60
   cp_num_i_fold: 40
   cp_num_r_fold: 11
+- variant: B.1.526
+  vac_studies: 0
+  vac_samples: 0
+  vac_s_fold: 0
+  vac_i_fold: 0
+  vac_r_fold: 0
+  vac_num_s_fold: 0
+  vac_num_i_fold: 0
+  vac_num_r_fold: 0
+  cp_studies: 0
+  cp_samples: 0
+  cp_s_fold: 0
+  cp_i_fold: 0
+  cp_r_fold: 0
+  cp_num_s_fold: 0
+  cp_num_i_fold: 0
+  cp_num_r_fold: 0
 - variant: CAL.20C
   vac_studies: 2
   vac_samples: 37
@@ -66,23 +83,6 @@
   cp_num_s_fold: 19
   cp_num_i_fold: 12
   cp_num_r_fold: 1
-- variant: E484K
-  vac_studies: 5
-  vac_samples: 57
-  vac_s_fold: 53%
-  vac_i_fold: 46%
-  vac_r_fold: 1%
-  vac_num_s_fold: 30
-  vac_num_i_fold: 26
-  vac_num_r_fold: 1
-  cp_studies: 6
-  cp_samples: 90
-  cp_s_fold: 63%
-  cp_i_fold: 29%
-  cp_r_fold: 8%
-  cp_num_s_fold: 57
-  cp_num_i_fold: 26
-  cp_num_r_fold: 7
 - variant: N501Y
   vac_studies: 9
   vac_samples: 116
@@ -100,6 +100,23 @@
   cp_num_s_fold: 141
   cp_num_i_fold: 7
   cp_num_r_fold: 0
+- variant: E484K
+  vac_studies: 5
+  vac_samples: 57
+  vac_s_fold: 53%
+  vac_i_fold: 46%
+  vac_r_fold: 1%
+  vac_num_s_fold: 30
+  vac_num_i_fold: 26
+  vac_num_r_fold: 1
+  cp_studies: 6
+  cp_samples: 90
+  cp_s_fold: 63%
+  cp_i_fold: 29%
+  cp_r_fold: 8%
+  cp_num_s_fold: 57
+  cp_num_i_fold: 26
+  cp_num_r_fold: 7
 - variant: K417N
   vac_studies: 4
   vac_samples: 71
@@ -116,23 +133,6 @@
   cp_r_fold: 0
   cp_num_s_fold: 61
   cp_num_i_fold: 2
-  cp_num_r_fold: 0
-- variant: N439K
-  vac_studies: 2
-  vac_samples: 26
-  vac_s_fold: 100%
-  vac_i_fold: 0
-  vac_r_fold: 0
-  vac_num_s_fold: 26
-  vac_num_i_fold: 0
-  vac_num_r_fold: 0
-  cp_studies: 1
-  cp_samples: 3
-  cp_s_fold: 100%
-  cp_i_fold: 0
-  cp_r_fold: 0
-  cp_num_s_fold: 3
-  cp_num_i_fold: 0
   cp_num_r_fold: 0
 - variant: L452R
   cp_studies: 1
@@ -151,6 +151,23 @@
   vac_num_s_fold: 0
   vac_num_i_fold: 0
   vac_num_r_fold: 0
+- variant: N439K
+  vac_studies: 2
+  vac_samples: 26
+  vac_s_fold: 100%
+  vac_i_fold: 0
+  vac_r_fold: 0
+  vac_num_s_fold: 26
+  vac_num_i_fold: 0
+  vac_num_r_fold: 0
+  cp_studies: 1
+  cp_samples: 3
+  cp_s_fold: 100%
+  cp_i_fold: 0
+  cp_r_fold: 0
+  cp_num_s_fold: 3
+  cp_num_i_fold: 0
+  cp_num_r_fold: 0
 - variant: Y453F
   vac_studies: 1
   vac_samples: 15
