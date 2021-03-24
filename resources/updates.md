@@ -79,6 +79,13 @@ Instruction:
 ## Database Entries
 
 ### March 2021
+- March 23
+    - Chen RE, Zhang X, et int., and Diamond MS. [“Resistance of SARS-CoV-2 variants to neutralization by monoclonal and serum-derived polyclonal antibodies.”](/search/?article=Chen21) _Nature Medicine_, 2021. [doi.org/10.1038/s41591-021-01294-w](https://doi.org/10.1038/s41591-021-01294-w). \[[PubMed33664494](https://www.ncbi.nlm.nih.gov/pubmed/33664494/)\]
+    - Emary KRW, Golubchik T, et int., and Group OCVT. [“Efficacy of ChAdOx1 nCoV-19&nbsp;(AZD1222)&nbsp;Vaccine Against SARS-CoV-2 VOC&nbsp;202012/01&nbsp;(B.1.1.7).”](/search/?article=Emary21) _SSRN Electronic Journal_, 2021. [doi.org/10.2139/ssrn.3779160](https://doi.org/10.2139/ssrn.3779160).
+    - Kuzmina A, Khalaila Y, et int., and Taube R. [“SARS CoV-2 escape variants exhibit differential infectivity and neutralization sensitivity to convalescent or post-vaccination sera.”](/search/?article=Kuzmina21) _medRxiv_, 2021. [doi.org/10.1101/2021.02.22.21252002](https://doi.org/10.1101/2021.02.22.21252002).
+    - Tang J, Lee Y, et int., and Khurana S. [“Reduced neutralization of SARS-CoV-2 variants by convalescent plasma and hyperimmune intravenous immunoglobulins for treatment of COVID-19.”](/search/?article=Tang21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.19.436183](https://doi.org/10.1101/2021.03.19.436183).
+    - Updated: Edara VV, Hudson WH, et int., and Suthar MS. [“Neutralizing Antibodies Against SARS-CoV-2 Variants After Infection and Vaccination.”](/search/?article=Edara21) _JAMA_, 2021. [doi.org/10.1001/jama.2021.4388](https://doi.org/10.1001/jama.2021.4388). \[[PubMed33739374](https://www.ncbi.nlm.nih.gov/pubmed/33739374/)\]
+    - Updated: Shen X, Tang H, et int., and Montefiori DC. [“SARS-CoV-2 variant B.1.1.7 is susceptible to neutralizing antibodies elicited by ancestral spike vaccines.”](/search/?article=Shen21) _Cell Host & Microbe_, 2021. [doi.org/10.1016/j.chom.2021.03.002](https://doi.org/10.1016/j.chom.2021.03.002). \[[PubMed33705729](https://www.ncbi.nlm.nih.gov/pubmed/33705729/)\] \[[PMC7934674](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7934674/)\]
 - March 18
     - Becker M, Dulovic A, et int., and Schneiderhan-Marra N. [“Immune response to SARS-CoV-2 variants of concern in vaccinated individuals.”](/search/?article=Becker21) _medRxiv_, 2021. [doi.org/10.1101/2021.03.08.21252958](https://doi.org/10.1101/2021.03.08.21252958).
     - Brown JC, Goldhill DH, et int., and Barclay WS. [“Increased transmission of SARS-CoV-2 lineage B.1.1.7 (VOC 2020212/01) is not accounted for by a replicative advantage in primary airway cells or antibody escape.”](/search/?article=Brown21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.24.432576](https://doi.org/10.1101/2021.02.24.432576).
@@ -1088,6 +1095,10 @@ Instruction:
 ## Clinical Trials
 
 ### March 2021
+- March 18
+    - [2 clinical trials were added.](/clinical-trials/?fromDate=2021-03-18)
+    - NCT04803370
+    - NCT04805671
 - March 11
     - [3 clinical trials were added.](/clinical-trials/?fromDate=2021-03-11)
     - NCT04787211
