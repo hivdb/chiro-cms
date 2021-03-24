@@ -53,7 +53,7 @@ table_plasma
 
 <div class="figure-image">
 
-![Convalescent and vaccine-recipient plasma](https://hivdb.github.io/covid-drdb-reports/susceptibility-data_files/figure-html/plasma-fold-fig-1.png#!maxWidth=95vw)
+![Convalescent and vaccine-recipient plasma](https://hivdb.github.io/covid-drdb-reports/susceptibility-data_files/figure-html/plasma-fold-fig-1.png#!maxWidth=95%)
 
 </div>
 
@@ -82,7 +82,7 @@ The color scheme indicates the fold-reduction in neutralization: <span style="pa
 
 <div class="figure-image">
 
-![Monoclonal antibodies](https://hivdb.github.io/covid-drdb-reports/susceptibility-data_files/figure-html/mab-fold-fig-1.png#!maxWidth=95vw)
+![Monoclonal antibodies](https://hivdb.github.io/covid-drdb-reports/susceptibility-data_files/figure-html/mab-fold-fig-1.png#!maxWidth=95%)
 
 </div>
 
