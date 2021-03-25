@@ -10,7 +10,7 @@ table_mab
 
 
 - The fold change is the median value of samples, the subscript is the number of samples. “-“ indicates absence of susceptibility data. “\*“ indicates conflict between two research groups, with one showing high-level of reduced susceptibility especially using IC80 rather than IC50.
-- **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.526**: L5F, T95I, D253G, S477N, E484K, D614G, A701V. **B.1.429/B.1.427**: S13I, W152C, L452R, D614G.
+- **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.526**: L5F, T95I, D253G, E484K, D614G, A701V. **B.1.429/B.1.427**: S13I, W152C, L452R, D614G.
 - Monoclonal antibody(mAb) abbreviations: **BAM**: Bamlanivimab/LY-CoV555, **CAS**: Casirivimab/REGN10933, **IMD**: Imdevimab/REGN10987, **CAS/IMD**: Casirivimab+imdevimab/REGN-COV2, **ETE**: Etesevimab/LY-CoV016/JS016/CB6, **CIL**: Cilgavimab/COV2-2130/AZD1061, **TIX**: Tixagevimab/COV2-2196/AZD8895, **TIX/CIL**: Tixagevimab+Cilgavimab, **BAM/ETE**: Bamlanivimab+Etesevimab, **SOT**: Sotrovimab/Vir-7831/S309.
 
 
