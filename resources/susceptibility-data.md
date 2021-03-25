@@ -157,7 +157,6 @@ The color scheme indicates the fold-reduction in neutralization: <span style="pa
 - [Table S3: Neutralizing Sensitivity of mutations to Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-studies#table.s3.neutralizing.sensitivity.of.mutations.to.convalescent.plasma.and.plasma.from.vaccinated.persons)
 - [Table S4: Neutralizing Sensitivity of Mutations to Monoclonal Antibodies (mAbs)](/page/susceptibility-studies#table.s4.neutralizing.sensitivity.of.mutations.to.monoclonal.antibodies.mabs.)
 
-
 ## Supplemantary data
 
 ### Statistics of Published _in vitro_ Neutralization Assays

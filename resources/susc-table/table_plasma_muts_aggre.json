@@ -1,0 +1,123 @@
+[
+    {
+        "variant": "E484K",
+        "assays": [
+            {
+                "variant": "E484K",
+                "rx": "BNT162b2",
+                "fold": "3.4",
+                "samples": 10,
+                "reference": "Kuzmina21[^Kuzmina21]"
+            }
+        ]
+    },
+    {
+        "variant": "E484K + N501Y",
+        "assays": [
+            {
+                "variant": "E484K + N501Y",
+                "rx": "BNT162b2",
+                "fold": "3.8",
+                "samples": 10,
+                "reference": "Kuzmina21[^Kuzmina21]"
+            }
+        ]
+    },
+    {
+        "variant": "K417N",
+        "assays": [
+            {
+                "variant": "K417N",
+                "rx": "BNT162b2",
+                "fold": "1.1",
+                "samples": 10,
+                "reference": "Kuzmina21[^Kuzmina21]"
+            }
+        ]
+    },
+    {
+        "variant": "K417N + E484K + N501Y",
+        "assays": [
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "BNT162b2",
+                "fold": "4.5",
+                "samples": 10,
+                "reference": "Kuzmina21[^Kuzmina21]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "mRNA-1273",
+                "fold": "2.7",
+                "samples": 8,
+                "reference": "Wu21[^Wu21]"
+            }
+        ]
+    },
+    {
+        "variant": "N501Y",
+        "assays": [
+            {
+                "variant": "N501Y",
+                "rx": "BNT162b2",
+                "fold": "1.1",
+                "samples": 10,
+                "reference": "Kuzmina21[^Kuzmina21]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "BNT162b2",
+                "fold": "0.5",
+                "samples": 3,
+                "reference": "Xie21[^Xie21]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "BNT162b2",
+                "fold": "0.5",
+                "samples": 5,
+                "reference": "Xie21[^Xie21]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "Mild",
+                "fold": "<3.0",
+                "samples": 16,
+                "reference": "Rees-Spear21[^Rees-Spear21]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "Severe",
+                "fold": "<3.0",
+                "samples": 18,
+                "reference": "Rees-Spear21[^Rees-Spear21]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "mRNA-1273",
+                "fold": "0.9",
+                "samples": 8,
+                "reference": "Wu21[^Wu21]"
+            }
+        ]
+    },
+    {
+        "variant": "∆69/70",
+        "assays": [
+            {
+                "variant": "∆69/70",
+                "rx": "Mild",
+                "fold": "<3.0",
+                "samples": 18,
+                "reference": "Rees-Spear21[^Rees-Spear21]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "Severe",
+                "fold": "<3.0",
+                "samples": 18,
+                "reference": "Rees-Spear21[^Rees-Spear21]"
+            }
+        ]
+    }
+]

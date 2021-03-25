@@ -6,9 +6,17 @@
 table_plasma_variant
 [/table]
 
-"*": The study is using authentic virus assay.
-"†": Aggregated results, the study provides mean fold change, not individual result for each sample.
+**Footnote:**
 
+"*": The study is using authentic virus assay.
+
+#### Addtional data
+
+Original data from these studies are aggregated results (mean value or median value) rather than individual result.
+
+[table]
+table_plasma_variant_aggre
+[/table]
 
 ### Table S2: Neutralizing Sensitivity of Variants of Concern to Monoclonal Antibodies (mAbs)
 
@@ -23,8 +31,17 @@ table_mab_variant
 table_plasma_muts
 [/table]
 
+**Footnote:**
+
 "*": The study is using authentic virus assay.
-"†": Aggregated results, the study provides mean fold change, not individual result for each sample.
+
+#### Addtional data
+
+Original data from these studies are aggregated results (mean value or median value) rather than individual result.
+
+[table]
+table_plasma_muts_aggre
+[/table]
 
 ### Table S4: Neutralizing Sensitivity of Mutations to Monoclonal Antibodies (mAbs)
 
