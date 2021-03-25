@@ -142,11 +142,16 @@ Numbers of published _in vitro_ neutralization assays according to spike mutatio
 table_summary
 [/table]
 
+<div style="clear: both;" />
+
 ### Spike Mutations Binding
 
 [table compact,lastCompact]
 table_binding
 [/table]
+
+<div style="clear: both;" />
+
 
 ### Spike Mutations Monoclonal Antibodies Escape
 
