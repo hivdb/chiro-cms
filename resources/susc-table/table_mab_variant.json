@@ -1074,6 +1074,32 @@
         ]
     },
     {
+        "variant": "B.1.429/B.1.427",
+        "assays": [
+            {
+                "variant": "B.1.429/B.1.427",
+                "rx": "Bamlanivimab+Etesevimab",
+                "mab_class": "",
+                "fold": "7.7",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "B.1.429/B.1.427",
+                "rx": "Casirivimab+Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "B.1.429/B.1.427",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "FDA21[^FDA21]"
+            }
+        ]
+    },
+    {
         "variant": "B.1.526",
         "assays": [
             {
@@ -1092,32 +1118,6 @@
             },
             {
                 "variant": "B.1.526",
-                "rx": "Bamlanivimab",
-                "mab_class": "RBM Class II",
-                "fold": "&gt;100",
-                "reference": "FDA21[^FDA21]"
-            }
-        ]
-    },
-    {
-        "variant": "CAL.20C",
-        "assays": [
-            {
-                "variant": "CAL.20C",
-                "rx": "Bamlanivimab+Etesevimab",
-                "mab_class": "",
-                "fold": "7.7",
-                "reference": "FDA21[^FDA21]"
-            },
-            {
-                "variant": "CAL.20C",
-                "rx": "Casirivimab+Imdevimab",
-                "mab_class": "",
-                "fold": "1",
-                "reference": "FDA21[^FDA21]"
-            },
-            {
-                "variant": "CAL.20C",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",

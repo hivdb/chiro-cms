@@ -12,7 +12,7 @@ table_mab
 **Footnote:**
 
 - The fold change is the median value of samples, the subscript is the number of samples. “-“ indicates absence of susceptibility data. “\*“ indicates conflict between two research groups, with one showing high-level of reduced susceptibility especially using IC80 rather than IC50.
-- **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.526**: L5F, T95I, D253G, S477N, E484K, D614G, A701V. **CAL.20C**: S13I, W152C, L452R, D614G.
+- **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.526**: L5F, T95I, D253G, S477N, E484K, D614G, A701V. **B.1.429/B.1.427**: S13I, W152C, L452R, D614G.
 
 MAb abbreviations
 
@@ -64,7 +64,7 @@ table_plasma
 **Footnote:**
 
 - Convalescent plasma in all studies is presumed likely to have been obtained from persons infected with spike variants lacking mutations associated with reduced neutralization susceptibility.
-- **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **CAL.20C**: S13I, W152C, L452R, D614G.
+- **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.429/B.1.427**: S13I, W152C, L452R, D614G.
 
 
 ### Figure: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons
@@ -79,8 +79,8 @@ table_plasma
 
 <div class="figure-caption">
 
-- Fold reduced _in vitro_ neutralization susceptibility to plasma from previously infected and vaccinated persons associated with variants of concern (B.1.1.7, B.1.351, P.1 and CAL.20C), and two spike amino acid mutations E484K and N501Y.
-- **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **CAL.20C**: S13I, W152C, L452R, D614G.
+- Fold reduced _in vitro_ neutralization susceptibility to plasma from previously infected and vaccinated persons associated with variants of concern (B.1.1.7, B.1.351, P.1 and B.1.429/B.1.427), and two spike amino acid mutations E484K and N501Y.
+- **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.429/B.1.427**: S13I, W152C, L452R, D614G.
 - The Y-axis indicates the number of plasma samples tested.
 - “\*”: The study is using authentic virus assay.
 
