@@ -19,19 +19,19 @@ tables:
     - name: ete
       label: "ETE"
     - name: bam_ete
-      label: "BAM+ETE"
+      label: "BAM/ETE"
     - name: cas
       label: "CAS"
     - name: imd
       label: "IMD"
     - name: cas_imd
-      label: "CAS+IMD"
+      label: "CAS/IMD"
     - name: cil
       label: "CIL"
     - name: tix
       label: "TIX"
     - name: cil_tix
-      label: "CIL+TIX"
+      label: "CIL/TIX"
     - name: sot
       label: "SOT"
     data:

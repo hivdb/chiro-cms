@@ -1,9 +1,8 @@
 ## Summaries
 
-### Table 1: Virus Variants or Spike Mutations vs Monoclonal antibodies
+### Table 1: Virus Variants and Spike Mutations vs Monoclonal Antibodies
 
-Fold-reduced neutralizing susceptibility of viruses variants spike mutations to monoclonal antibodies in in phaese 3 clinical trials.
-
+Fold reduced neutralizing susceptibility to monoclonal antibodies in phase 3 clinical trials
 
 [table]
 table_mab
@@ -12,12 +11,8 @@ table_mab
 
 **Footnote:**
 
-- B.1.1.7 contains the following spike mutations: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H.
-- B.1.351 contains the following spike mutations: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V.
-- P.1 contains the following spike mutations: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
-- B.1.526 contains the following spike mutations: L5F, T95I, D253G, S477N, E484K, D614G, A701V
-- CAL.20C contains the following spike mutations: S13I, W152C, L452R, D614G
 - The fold change is the median value of results, the subscript is the number of results. “-“ indicates absence of susceptibility data. “\*“ indicates conflict between two research groups, with one showing high-level of reduced susceptibility especially using IC80 rather than IC50.
+- B.1.1.7 contains the following spike mutations: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. B.1.351 contains the following spike mutations: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. P.1 contains the following spike mutations: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. B.1.526 contains the following spike mutations: L5F, T95I, D253G, S477N, E484K, D614G, A701V. CAL.20C contains the following spike mutations: S13I, W152C, L452R, D614G.
 
 MAb abbreviations
 
@@ -28,12 +23,12 @@ MAb abbreviations
 - **ETE**: Etesevimab/LY-CoV016/JS016/CB6
 - **CIL**: Cilgavimab/COV2-2130/AZD1061
 - **TIX**: Tixagevimab/COV2-2196/AZD8895
-- **TIX-CIL**: Tixagevimab+Cilgavimab
-- **BAM-ETE**: Bamlanivimab+Etesevimab
+- **TIX/CIL**: Tixagevimab+Cilgavimab
+- **BAM/ETE**: Bamlanivimab+Etesevimab
 - **SOT**: Sotrovimab/Vir-7831/S309
 
 
-<!-- ### Figure 1: Virus Variants or Spike Mutations vs Monoclonal antibodies
+<!-- ### Figure 1: Virus Variants or Spike Mutations vs Monoclonal Antibodies
 
 <section id="sec_mab-fold" class="figure-section wrap">
 
@@ -58,7 +53,7 @@ The color scheme indicates the fold-reduction in neutralization: <span style="pa
 
 
 
-### Table 2: Virus Variants or Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons
+### Table 2: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons
 
 
 [table]
@@ -69,14 +64,14 @@ table_plasma
 **Footnote:**
 
 - Convalescent plasma in all studies is presumed likely to have been obtained from persons infected with spike variants lacking mutations associated with reduced neutralization susceptibility.
-- B.1.1.7 contains the following spike mutations: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H.
-- B.1.351 contains the following spike mutations: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V.
-- P.1 contains the following spike mutations: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
-- B.1.526 contains the following spike mutations: L5F, T95I, D253G, S477N, E484K, D614G, A701V
-- CAL.20C contains the following spike mutations: S13I, W152C, L452R, D614G
+- B.1.1.7: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H.
+- B.1.351: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V.
+- P.1: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
+- B.1.526: L5F, T95I, D253G, S477N, E484K, D614G, A701V
+- CAL.20C: S13I, W152C, L452R, D614G
 
 
-### Figure: Virus Variants or Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons
+### Figure: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons
 
 <section id="sec_plasma-fold" class="figure-section wrap">
 
@@ -88,7 +83,9 @@ table_plasma
 
 <div class="figure-caption">
 
-Fold reduced _in vitro_ neutralization susceptibility to plasma from previously infected and vaccinated persons associated with three variants of concern (B.1.1.7, B.1.351, and P.1), variants of interest(CAL.20C) and two spike amino acid mutations E484K and N501Y. B.1.1.7 contains N501Y plus two S1 N-terminal domain (NTD) deletions, three S1 C-terminal domain (CTD) mutations, and three S2-mutations. B.1.351 contains E484K and N501Y plus four S1 NTD mutations, two receptor binding domain (RBD) mutations, one S1 CTD mutation, and one S2 mutation. P.1 contains E484K and N501Y plus five S1 NTD mutations, one RBD mutation, two S1 CTD mutations, and two S2 mutations. The Y-axis indicates the number of plasma samples tested.
+- Fold reduced _in vitro_ neutralization susceptibility to plasma from previously infected and vaccinated persons associated with three variants of concern (B.1.1.7, B.1.351, and P.1), variants of interest (CAL.20C) and two spike amino acid mutations E484K and N501Y.
+- B.1.1.7 contains the following spike mutations: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. B.1.351 contains the following spike mutations: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. P.1 contains the following spike mutations: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. B.1.526 contains the following spike mutations: L5F, T95I, D253G, S477N, E484K, D614G, A701V. CAL.20C contains the following spike mutations: S13I, W152C, L452R, D614G.
+- The Y-axis indicates the number of plasma samples tested.
 
 "*": The study is using authentic virus assay.
 
