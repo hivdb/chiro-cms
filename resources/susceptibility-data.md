@@ -11,7 +11,7 @@ table_mab
 
 **Footnote:**
 
-- The fold change is the median value of results, the subscript is the number of results. “-“ indicates absence of susceptibility data. “\*“ indicates conflict between two research groups, with one showing high-level of reduced susceptibility especially using IC80 rather than IC50.
+- The fold change is the median value of samples, the subscript is the number of samples. “-“ indicates absence of susceptibility data. “\*“ indicates conflict between two research groups, with one showing high-level of reduced susceptibility especially using IC80 rather than IC50.
 - **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.526**: L5F, T95I, D253G, S477N, E484K, D614G, A701V. **CAL.20C**: S13I, W152C, L452R, D614G.
 
 MAb abbreviations
@@ -79,11 +79,15 @@ table_plasma
 
 <div class="figure-caption">
 
-- Fold reduced _in vitro_ neutralization susceptibility to plasma from previously infected and vaccinated persons associated with three variants of concern (B.1.1.7, B.1.351, and P.1), variants of interest (CAL.20C) and two spike amino acid mutations E484K and N501Y.
+- Fold reduced _in vitro_ neutralization susceptibility to plasma from previously infected and vaccinated persons associated with variants of concern (B.1.1.7, B.1.351, P.1 and CAL.20C), and two spike amino acid mutations E484K and N501Y.
 - **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **CAL.20C**: S13I, W152C, L452R, D614G.
 - The Y-axis indicates the number of plasma samples tested.
+- “\*”: The study is using authentic virus assay.
 
-“\*”: The study is using authentic virus assay.
+<p>
+The color scheme indicates the fold-reduction in neutralization: <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #ffffff; color: black;">absence of color</span> – &lt;3-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #7fcbee; color: black;">light blue</span> – 3 to 9.9-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span> – ≥10-fold reduced susceptibility. The histogram labels indicate the studies’ authors and plasma characteristics. BNT: BNT162b2; Mod: mRNA-1273; NVX: NVX-CoV2373; AZD: AZD1222. Each of plasma units were obtained approximately one month following vaccination except one study.
+</p>
+
 
 Studies:
 
@@ -125,10 +129,6 @@ Studies:
 - **Xie21b**: [^Xie21b#inline]
 - **Zhou21b**: [^Zhou21b#inline]
 
-<p>
-The color scheme indicates the fold-reduction in neutralization: <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #ffffff; color: black;">absence of color</span> – &lt;3-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #7fcbee; color: black;">light blue</span> – 3 to 9.9-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span> – ≥10-fold reduced susceptibility. The histogram labels indicate the studies’ authors and plasma characteristics. BNT: BNT162b2; Mod: mRNA-1273; NVX: NVX-CoV2373; AZD: AZD1222. Each of plasma units were obtained approximately one month following vaccination with the exception of one study.
-</p>
-
 </div>
 
 </section>
@@ -137,24 +137,24 @@ The color scheme indicates the fold-reduction in neutralization: <span style="pa
 
 ## Raw data
 
-- [Spike variants and mutation combinations / mAb neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-mab-neutralization)
+- [Spike variants and mutation combinations / monoclonal antibodies neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-mab-neutralization)
 - [Spike variants and mutation combinations / plasma neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-plasma-neutralization)
-- [Spike mutation _in vitro_ selection](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-mutation-invitro-selection-cp-and-mab)
+- [Spike mutations _in vitro_ selection](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-mutation-invitro-selection-cp-and-mab)
 
 
 
 ## Individual study details
 
 - [Table S1: Neutralizing Sensitivity of Variants of Concern to Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-studies#table.s1.neutralizing.sensitivity.of.variants.of.concern.to.convalescent.plasma.and.plasma.from.vaccinated.persons)
-- [Table S2: Neutralizing Sensitivity of Variants of Concern to Monoclonal Antibodies (mAbs)](/page/susceptibility-studies#table.s2.neutralizing.sensitivity.of.variants.of.concern.to.monoclonal.antibodies.mabs.)
-- [Table S3: Neutralizing Sensitivity of mutations to Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-studies#table.s3.neutralizing.sensitivity.of.mutations.to.convalescent.plasma.and.plasma.from.vaccinated.persons)
-- [Table S4: Neutralizing Sensitivity of Mutations to Monoclonal Antibodies (mAbs)](/page/susceptibility-studies#table.s4.neutralizing.sensitivity.of.mutations.to.monoclonal.antibodies.mabs.)
+- [Table S2: Neutralizing Sensitivity of Variants of Concern to Monoclonal Antibodies](/page/susceptibility-studies#table.s2.neutralizing.sensitivity.of.variants.of.concern.to.monoclonal.antibodies)
+- [Table S3: Neutralizing Sensitivity of Spike Mutations to Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-studies#table.s3.neutralizing.sensitivity.of.spike.mutations.to.convalescent.plasma.and.plasma.from.vaccinated.persons)
+- [Table S4: Neutralizing Sensitivity of Spike Mutations to Monoclonal Antibodies](/page/susceptibility-studies#table.s4.neutralizing.sensitivity.of.spike.mutations.to.monoclonal.antibodies)
 
-## Supplemantary data
+## Supplementary data
 
 ### Statistics of Published _in vitro_ Neutralization Assays
 
-Numbers of published _in vitro_ neutralization assays according to spike mutations, type of plasma, and monoclonal antibody
+Numbers of published _in vitro_ neutralization assays according to spike mutations, type of plasma, and monoclonal antibodies
 
 
 [table]
