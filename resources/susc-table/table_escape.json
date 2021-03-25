@@ -40,6 +40,86 @@
         "escape_score": 0.03
     },
     {
+        "mutation": "K417N",
+        "rx_name": "Bamlanivimab",
+        "escape_score": 0.002
+    },
+    {
+        "mutation": "K417N",
+        "rx_name": "Bamlanivimab/Etesevimab",
+        "escape_score": 0.002
+    },
+    {
+        "mutation": "K417N",
+        "rx_name": "Casirivimab",
+        "escape_score": 0.003
+    },
+    {
+        "mutation": "K417N",
+        "rx_name": "Casirivimab/Imdevimab",
+        "escape_score": 0.002
+    },
+    {
+        "mutation": "K417N",
+        "rx_name": "Cilgavimab",
+        "escape_score": 0.001
+    },
+    {
+        "mutation": "K417N",
+        "rx_name": "Etesevimab",
+        "escape_score": 0.997
+    },
+    {
+        "mutation": "K417N",
+        "rx_name": "Imdevimab",
+        "escape_score": 0.002
+    },
+    {
+        "mutation": "K417N",
+        "rx_name": "Tixagevimab",
+        "escape_score": 0.012
+    },
+    {
+        "mutation": "L452R",
+        "rx_name": "Bamlanivimab",
+        "escape_score": 0.933
+    },
+    {
+        "mutation": "L452R",
+        "rx_name": "Bamlanivimab/Etesevimab",
+        "escape_score": 0.002
+    },
+    {
+        "mutation": "L452R",
+        "rx_name": "Casirivimab",
+        "escape_score": 0.001
+    },
+    {
+        "mutation": "L452R",
+        "rx_name": "Casirivimab/Imdevimab",
+        "escape_score": 0.002
+    },
+    {
+        "mutation": "L452R",
+        "rx_name": "Cilgavimab",
+        "escape_score": 0.001
+    },
+    {
+        "mutation": "L452R",
+        "rx_name": "Etesevimab",
+        "escape_score": 0.001
+    },
+    {
+        "mutation": "L452R",
+        "rx_name": "Imdevimab",
+        "escape_score": 0.002
+    },
+    {
+        "mutation": "L452R",
+        "rx_name": "Tixagevimab",
+        "escape_score": 0.012
+    },
+    {
         "mutation": "N501Y",
         "rx_name": "Bamlanivimab",
         "escape_score": 0.002
