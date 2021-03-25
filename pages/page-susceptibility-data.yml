@@ -80,3 +80,29 @@ tables:
       label: mAbs with high-resolution structure
     data:
       _resource: susc-table/table_summary.yml
+  table_binding:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: mutation
+      label: Mutation
+    - name: ace2_binding
+      label: ACE2 binding
+    - name: expression
+      label: Spike expression
+    - name: ace2_contact
+      label: ACE2 contact
+    data:
+      _resource: susc-table/table_binding.yml
+  table_escape:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: mutation
+      label: Mutation
+    - name: rx_name
+      label: mAb
+    - name: escape_score
+      label: Escape score
+    data:
+      _resource: susc-table/table_escape.yml
