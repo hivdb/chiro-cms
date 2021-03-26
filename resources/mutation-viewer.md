@@ -8,7 +8,7 @@
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
 - [Variants of interest](#variants.of.interest)
   - [PHL-B.1.1.28, aka P.3](#sec_phl-b-1-1-28)
-  - [India E484Q+L452R](#sec_e484q)
+  <!-- - [India E484Q+L452R](#sec_e484q) -->
   - [B.1.141, aka N439K](#sec_n439k)
   - [Cluster 5](#sec_cluster5)
   - [COH.20G/501Y](#sec_tu-501y)
@@ -179,7 +179,7 @@ phl-b-1-1-28
 </section>
 
 <!-- India E484Q -->
-<section id="sec_e484q" class="figure-section compact">
+<!-- <section id="sec_e484q" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -199,7 +199,7 @@ e484q
 
 </div>
 
-</section>
+</section> -->
 
 <!-- B.1.141 -->
 <section id="sec_n439k" class="figure-section compact">
