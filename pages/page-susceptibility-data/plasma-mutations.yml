@@ -1,0 +1,53 @@
+---
+pageTitle: Susceptibility studies
+introHeader: |-
+  Susceptibility individual studies
+toc: false
+tocFloat: none
+escapeHtml: false
+content:
+  _resource: susceptibility-data/plasma-mutations.md
+tables:
+  table_plasma_muts:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: variant
+      label: Spike
+    - name: assays.rx
+      label: Plasma
+      multiCells: true
+    - name: assays.s_fold
+      label: "S\n(&lt;3-fold)"
+      multiCells: true
+    - name: assays.i_fold
+      label: "I\n(3-9-fold)"
+      multiCells: true
+    - name: assays.r_fold
+      label: "R\n(&gt;10-fold)"
+      multiCells: true
+    - name: assays.reference
+      label: "Reference"
+      multiCells: true
+    data:
+      _resource: susc-table/table_plasma_muts.yml
+  table_plasma_muts_aggre:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: variant
+      label: Spike
+    - name: assays.rx
+      label: Plasma
+      multiCells: true
+    - name: assays.fold
+      label: Fold
+      multiCells: true
+    - name: assays.samples
+      label: "Samples"
+      multiCells: true
+    - name: assays.reference
+      label: "Reference"
+      multiCells: true
+    data:
+      _resource: susc-table/table_plasma_muts_aggre.yml

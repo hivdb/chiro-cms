@@ -1,0 +1,30 @@
+---
+pageTitle: Susceptibility studies
+introHeader: |-
+  Susceptibility individual studies
+toc: false
+tocFloat: none
+escapeHtml: false
+content:
+  _resource: susceptibility-data/mab-mutations.md
+tables:
+  table_mab_muts:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: variant
+      label: Spike
+    - name: assays.rx
+      label: Mab
+      multiCells: true
+    - name: assays.mab_class
+      label: "Class"
+      multiCells: true
+    - name: assays.fold
+      label: "Fold"
+      multiCells: true
+    - name: assays.reference
+      label: "Reference"
+      multiCells: true
+    data:
+      _resource: susc-table/table_mab_muts.yml
