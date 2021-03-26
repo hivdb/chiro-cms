@@ -78,6 +78,12 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-33-n9.yml
     <<: *common-props
+  e484q:
+    name: e484q
+    height: 200
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/e484q.yml
+    <<: *common-props
   cluster5:
     name: cluster5
     height: 195

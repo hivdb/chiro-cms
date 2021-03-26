@@ -8,6 +8,7 @@
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
 - [Variants of interest](#variants.of.interest)
   - [PHL-B.1.1.28, aka P.3](#sec_phl-b-1-1-28)
+  - [India E484Q+L452R](#sec_e484q)
   - [B.1.141, aka N439K](#sec_n439k)
   - [Cluster 5](#sec_cluster5)
   - [COH.20G/501Y](#sec_tu-501y)
@@ -171,6 +172,29 @@ Tablizo FA, Kim KM, et int., and Saloma CP. “Genome sequencing and analysis of
 
 [genomemap]
 phl-b-1-1-28
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- India E484Q -->
+<section id="sec_e484q" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [India E484Q+L452R](#sec_e484q)
+
+INSACOG. “Genome Sequencing by INSACOG shows variants of concern and a Novel variant in India
+” _INSACOG_, 2021. [Link](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1707177
+). [^Tablizo21]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+e484q
 [/genomemap]
 
 </div>
