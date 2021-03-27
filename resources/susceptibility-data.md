@@ -13,10 +13,6 @@
   - [Table S2: Neutralizing Sensitivity of Variants of Concern to Monoclonal Antibodies](/page/susceptibility-data/mab-variant/)
   - [Table S3: Neutralizing Sensitivity of Spike Mutations to Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-data/plasma-mutations/)
   - [Table S4: Neutralizing Sensitivity of Spike Mutations to Monoclonal Antibodies](/page/susceptibility-data/mab-mutations/)
-- [Supplementary data](#supplementary.data)
-  - [Statistics of Published in vitro Neutralization Assays](#statistics.of.published.in.vitro.neutralization.assays)
-  - [Spike Mutations Binding](#spike.mutations.binding)
-  - [Spike Mutations Monoclonal Antibodies Escape](#spike.mutations.monoclonal.antibodies.escape)
 
 [/toc]
 
@@ -136,36 +132,3 @@ Studies:
 </div>
 
 </section>
-
-
-## Supplementary data
-
-### Statistics of Published _in vitro_ Neutralization Assays
-
-Numbers of published _in vitro_ neutralization assays according to spike mutations, type of plasma, and monoclonal antibodies
-
-
-[table compact,lastCompact]
-table_summary
-[/table]
-
-<div style="clear: both;" />
-
-### Spike Mutations Binding
-
-[table compact,lastCompact]
-table_binding
-[/table]
-
-<div style="clear: both;" />
-
-
-### Spike Mutations Monoclonal Antibodies Escape
-
-[table compact,lastCompact]
-table_escape
-[/table]
-
-
-<div style="clear: both;" />
-
