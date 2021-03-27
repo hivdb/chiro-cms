@@ -59,9 +59,15 @@ The color scheme indicates the fold-reduction in neutralization: <span style="pa
 
 ### Table 2: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons
 
-[table compact,lastCompact]
-table_plasma
+[table compact]
+table_cp
 [/table]
+
+[table compact,lastCompact]
+table_vp
+[/table]
+
+
 
 - Convalescent plasma in all studies is presumed likely to have been obtained from persons infected with spike variants lacking mutations associated with reduced neutralization susceptibility.
 - **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.429/B.1.427**: S13I, W152C, L452R, D614G.

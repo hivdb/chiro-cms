@@ -36,7 +36,7 @@ tables:
       label: "SOT"
     data:
       _resource: susc-table/table_mab.yml
-  table_plasma:
+  table_cp:
     tableScrollStyle:
       max-height: none
     columnDefs:
@@ -52,6 +52,14 @@ tables:
       label: "CP\n3-9-fold (I)\n(%)"
     - name: cp_r_fold
       label: "CP\n&gt;10-fold (R)\n(%)"
+    data:
+      _resource: susc-table/table_plasma.yml
+  table_vp:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: variant
+      label: " "
     - name: vac_studies
       label: "Vaccine\nStudies\n&#35;"
     - name: vac_samples
@@ -64,6 +72,7 @@ tables:
       label: "Vaccine\n&gt;10-fold (R)\n(%)"
     data:
       _resource: susc-table/table_plasma.yml
+
   table_summary:
     tableScrollStyle:
       max-height: none
