@@ -8,11 +8,11 @@
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
 - [Variants of interest](#variants.of.interest)
   - [P.3, aka PHL-B.1.1.28](#sec_phl-b-1-1-28)
-  - [EPI_ISL_1360318, E484Q+L452R (India)](#sec_e484q)
+  - [EPI_ISL_1360318, S:E484Q+L452R (India)](#sec_e484q)
   - [B.1.141, aka N439K](#sec_n439k)
   - [B.1.298, aka Cluster 5](#sec_cluster5)
-  - [COH.20G/501Y](#sec_tu-501y)
-  - [COH.20G/677H](#sec_coh-20g-677h)
+  - [B.1.2 COH.20G/501Y](#sec_tu-501y)
+  - [B.1.2 COH.20G/677H](#sec_coh-20g-677h)
   - [P.2, evolved from B.1.1.28](#sec_p-2)
   - [B.1.1.33 N9](#sec_b-1-1-33-n9)
 - [Prolonged Infections](#prolonged.infections)
@@ -183,7 +183,7 @@ phl-b-1-1-28
 
 <div class="figure-caption">
 
-### [EPI_ISL_1360318, E484Q+L452R (India)](#sec_e484q)
+### [EPI_ISL_1360318, S:E484Q+L452R (India)](#sec_e484q)
 
 INSACOG. “Genome Sequencing by INSACOG shows variants of concern and a Novel variant in India
 ” _INSACOG_, 2021. [Link](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1707177
@@ -247,7 +247,7 @@ cluster5
 
 <div class="figure-caption">
 
-### [COH.20G/501Y](#sec_tu-501y)
+### [B.1.2 COH.20G/501Y](#sec_tu-501y)
 Tu H, Avenarius MR, et int., and Jones D. “Distinct Patterns of Emergence of SARS-CoV-2 Spike Variants including N501Y in Clinical Samples in Columbus Ohio.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.12.426407](https://doi.org/10.1101/2021.01.12.426407).[^Tu21]
 
 </div>
@@ -267,7 +267,7 @@ tu-501y
 
 <div class="figure-caption">
 
-### [COH.20G/677H](#sec_coh-20g-677h)
+### [B.1.2 COH.20G/677H](#sec_coh-20g-677h)
 Tada T, Dcosta BM, et int., and Landau NR. “Neutralization of viruses with European, South African, and United States SARS-CoV-2 variant spike proteins by convalescent sera and BNT162b2 mRNA vaccine-elicited antibodies.” _bioRxiv_, 2021. [doi.org/10.1101/2021.02.05.430003](https://doi.org/10.1101/2021.02.05.430003).[^Tada21]
 
 </div>
