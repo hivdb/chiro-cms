@@ -20,11 +20,17 @@
 
 ### Table 1: Virus Variants and Spike Mutations vs Monoclonal Antibodies
 
-Fold reduced neutralizing susceptibility to monoclonal antibodies in phase 3 clinical trials
+Fold reduced neutralizing susceptibility to monoclonal antibodies under Emergency Use Authorization(EUA)
 
-[table compact,lastCompact]
+[table compact, lastCompact]
 table_mab
 [/table]
+
+<!-- Fold reduced neutralizing susceptibility to monoclonal antibodies in other clinical trials
+
+[table compact,lastCompact]
+table_mab_non_eua
+[/table] -->
 
 - The fold change is the median value of samples, the subscript is the number of samples. “-“ indicates absence of susceptibility data. “\*“ indicates conflict between two research groups, with one showing high-level of reduced susceptibility especially using IC80 rather than IC50.
 - **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.526**: L5F, T95I, D253G, E484K, D614G, A701V. **B.1.429/B.1.427**: S13I, W152C, L452R, D614G.

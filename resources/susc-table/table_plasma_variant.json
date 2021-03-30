@@ -61,14 +61,6 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "s_fold": 13,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Planas21[^Planas21]"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "BNT162b2",
                 "s_fold": 9,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -117,6 +109,14 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2_W5",
+                "s_fold": 13,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2_W6",
                 "s_fold": 13,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -419,14 +419,6 @@
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "s_fold": 2,
-                "i_fold": 6,
-                "r_fold": 5,
-                "reference": "Planas21[^Planas21]"
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "BNT162b2",
-                "s_fold": 2,
                 "i_fold": 3,
                 "r_fold": 0,
                 "reference": "Tada21[^Tada21]"
@@ -493,6 +485,14 @@
                 "s_fold": 3,
                 "i_fold": 3,
                 "r_fold": 7,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2_W6",
+                "s_fold": 2,
+                "i_fold": 6,
+                "r_fold": 5,
                 "reference": "Planas21[^Planas21]"
             },
             {

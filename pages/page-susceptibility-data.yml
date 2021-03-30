@@ -36,6 +36,28 @@ tables:
       label: "SOT"
     data:
       _resource: susc-table/table_mab.yml
+  table_mab_non_eua:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: variant
+      label: " "
+    - name: b_196
+      label: BRII-196
+    - name: b_198
+      label: BRII-198
+    - name: b_196_198
+      label: BRII-196/198
+    - name: C135
+      label: C135
+    - name: C144
+      label: C144
+    - name: JMB2002
+      label: JMB2002
+    - name: ADG20
+      label: ADG20
+    data:
+      _resource: susc-table/table_mab.yml
   table_cp:
     tableScrollStyle:
       max-height: none

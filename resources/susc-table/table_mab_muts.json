@@ -4,6 +4,20 @@
         "assays": [
             {
                 "variant": "E484K",
+                "rx": "BRII-196",
+                "mab_class": "",
+                "fold": "1.4",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "BRII-198",
+                "mab_class": "",
+                "fold": "2.5",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "E484K",
                 "rx": "Bamlanivimab+Etesevimab",
                 "mab_class": "",
                 "fold": "17",
@@ -661,6 +675,20 @@
     {
         "variant": "K417N",
         "assays": [
+            {
+                "variant": "K417N",
+                "rx": "BRII-196",
+                "mab_class": "",
+                "fold": "1.8",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "BRII-198",
+                "mab_class": "",
+                "fold": "0.2",
+                "reference": "Wang21b[^Wang21b]"
+            },
             {
                 "variant": "K417N",
                 "rx": "Bamlanivimab+Etesevimab",
@@ -1670,6 +1698,20 @@
         "assays": [
             {
                 "variant": "N501Y",
+                "rx": "BRII-196",
+                "mab_class": "",
+                "fold": "0.7",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "BRII-198",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "N501Y",
                 "rx": "Bamlanivimab+Etesevimab",
                 "mab_class": "",
                 "fold": "1",
@@ -2441,6 +2483,20 @@
         "assays": [
             {
                 "variant": "∆144",
+                "rx": "BRII-196",
+                "mab_class": "",
+                "fold": "0.8",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆144",
+                "rx": "BRII-198",
+                "mab_class": "",
+                "fold": "0.7",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆144",
                 "rx": "4A8",
                 "mab_class": "NTD",
                 "fold": "&gt;100",
@@ -2598,6 +2654,20 @@
     {
         "variant": "∆69/70",
         "assays": [
+            {
+                "variant": "∆69/70",
+                "rx": "BRII-196",
+                "mab_class": "",
+                "fold": "0.9",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "BRII-198",
+                "mab_class": "",
+                "fold": "0.9",
+                "reference": "Wang21b[^Wang21b]"
+            },
             {
                 "variant": "∆69/70",
                 "rx": "4A8",

@@ -1,6 +1,41 @@
 - variant: B.1.1.7
   assays:
   - variant: B.1.1.7
+    rx: ADG20
+    mab_class: ''
+    fold: '1.4'
+    reference: Supasa21*[^Supasa21]
+  - variant: B.1.1.7
+    rx: BRII-196
+    mab_class: ''
+    fold: '0.5'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.1.7
+    rx: BRII-196
+    mab_class: ''
+    fold: '0.1'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.1.7
+    rx: BRII-196/BRII-198
+    mab_class: ''
+    fold: '0.5'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.1.7
+    rx: BRII-196/BRII-198
+    mab_class: ''
+    fold: '0.2'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.1.7
+    rx: BRII-198
+    mab_class: ''
+    fold: '0.2'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.1.7
+    rx: BRII-198
+    mab_class: ''
+    fold: '0.2'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.1.7
     rx: Bamlanivimab+Etesevimab
     mab_class: ''
     fold: '1'
@@ -408,6 +443,41 @@
 - variant: B.1.351
   assays:
   - variant: B.1.351
+    rx: ADG20
+    mab_class: ''
+    fold: '2.5'
+    reference: Zhou21b*[^Zhou21b]
+  - variant: B.1.351
+    rx: BRII-196
+    mab_class: ''
+    fold: '0.6'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.351
+    rx: BRII-196
+    mab_class: ''
+    fold: '0.5'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.351
+    rx: BRII-196/BRII-198
+    mab_class: ''
+    fold: '0.8'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.351
+    rx: BRII-196/BRII-198
+    mab_class: ''
+    fold: '1.1'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.351
+    rx: BRII-198
+    mab_class: ''
+    fold: '3.4'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.351
+    rx: BRII-198
+    mab_class: ''
+    fold: '15'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.351
     rx: Bamlanivimab+Etesevimab
     mab_class: ''
     fold: '45'
@@ -798,6 +868,11 @@
     reference: FDA21[^FDA21]
 - variant: P.1
   assays:
+  - variant: P.1
+    rx: ADG20
+    mab_class: ''
+    fold: '2.2'
+    reference: Dejnirattisai21*[^Dejnirattisai21]
   - variant: P.1
     rx: Bamlanivimab+Etesevimab
     mab_class: ''
