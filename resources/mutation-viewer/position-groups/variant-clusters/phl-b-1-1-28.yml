@@ -41,7 +41,7 @@ positions:
   pos: 27897
   <<: *non-spike
 - name: N:R203K
-  pos: 28881
+  pos: 28880
   <<: *non-spike
 - name: N:G204R
   pos: 28883

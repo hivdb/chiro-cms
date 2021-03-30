@@ -7,10 +7,10 @@
   - [B.1.526](#sec_b-1-526)
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
 - [Variants of interest](#variants.of.interest)
-  - [PHL-B.1.1.28, aka P.3](#sec_phl-b-1-1-28)
-  <!-- - [India E484Q+L452R](#sec_e484q) -->
+  - [P.3, aka PHL-B.1.1.28](#sec_phl-b-1-1-28)
+  - [EPI_ISL_1360318 E484Q+L452R (India)](#sec_e484q)
   - [B.1.141, aka N439K](#sec_n439k)
-  - [Cluster 5](#sec_cluster5)
+  - [B.1.298, aka Cluster 5](#sec_cluster5)
   - [COH.20G/501Y](#sec_tu-501y)
   - [COH.20G/677H](#sec_coh-20g-677h)
   - [P.2, evolved from B.1.1.28](#sec_p-2)
@@ -161,7 +161,7 @@ b-1-429
 
 <div class="figure-caption">
 
-### [PHL-B.1.1.28, aka P.3](#phl-b-1-1-28)
+### [P.3, aka PHL-B.1.1.28](#phl-b-1-1-28)
 
 Tablizo FA, Kim KM, et int., and Saloma CP. “Genome sequencing and analysis of an emergent SARS-CoV-2 variant characterized by multiple spike protein mutations detected from the Central Visayas Region of the Philippines.” _bioRxiv_, 2021. [doi.org/10.1101/2021.03.03.21252812](https://doi.org/10.1101/2021.03.03.21252812
 ). [^Tablizo21]
@@ -179,15 +179,13 @@ phl-b-1-1-28
 </section>
 
 <!-- India E484Q -->
-<!-- <section id="sec_e484q" class="figure-section compact">
+<section id="sec_e484q" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [India E484Q+L452R](#sec_e484q)
+### [EPI_ISL_1360318 E484Q+L452R (India)](#sec_e484q)
 
-INSACOG. “Genome Sequencing by INSACOG shows variants of concern and a Novel variant in India
-” _INSACOG_, 2021. [Link](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1707177
-). [^Tablizo21]
+Until Mar 29, this variant hasn't been assigned panglin lineage.
 
 </div>
 
@@ -199,7 +197,7 @@ e484q
 
 </div>
 
-</section> -->
+</section>
 
 <!-- B.1.141 -->
 <section id="sec_n439k" class="figure-section compact">
@@ -227,7 +225,7 @@ n439k
 
 <div class="figure-caption">
 
-### [Cluster 5](#sec_cluster5)
+### [B.1.298, aka Cluster 5](#sec_cluster5)
 Lassaunière R, Fonager J, et int., and Fomsgaard A. “SARS-CoV-2 spike mutations arising in Danish mink and their spread to humans.” Statens Serum Institut, 2020. [^Lassauniere20]
 
 </div>

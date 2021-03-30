@@ -52,7 +52,7 @@ positions:
   pos: 28511
   <<: *non-spike
 - name: N:R203K
-  pos: 28883
+  pos: 28880
   <<: *non-spike
 - name: ORF9b:Q77E
   pos: 29512
