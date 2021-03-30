@@ -61,8 +61,8 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "s_fold": 8,
-                "i_fold": 2,
+                "s_fold": 13,
+                "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Planas21[^Planas21]"
             },
@@ -104,6 +104,22 @@
                 "s_fold": 11,
                 "i_fold": 4,
                 "r_fold": 1,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2_W4",
+                "s_fold": 8,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2_W5",
+                "s_fold": 13,
+                "i_fold": 0,
+                "r_fold": 0,
                 "reference": "Planas21[^Planas21]"
             },
             {
@@ -182,6 +198,14 @@
                 "variant": "B.1.1.7",
                 "rx": "CP",
                 "s_fold": 3,
+                "i_fold": 3,
+                "r_fold": 3,
+                "reference": "Skelly21[^Skelly21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP",
+                "s_fold": 3,
                 "i_fold": 5,
                 "r_fold": 0,
                 "reference": "Tang21[^Tang21]"
@@ -225,6 +249,30 @@
                 "i_fold": 8,
                 "r_fold": 0,
                 "reference": "Hu21[^Hu21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP_M3",
+                "s_fold": 27,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP_M6",
+                "s_fold": 21,
+                "i_fold": 4,
+                "r_fold": 0,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP_M9",
+                "s_fold": 30,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Planas21[^Planas21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -370,9 +418,9 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "s_fold": 3,
+                "s_fold": 2,
                 "i_fold": 6,
-                "r_fold": 1,
+                "r_fold": 5,
                 "reference": "Planas21[^Planas21]"
             },
             {
@@ -433,6 +481,22 @@
             },
             {
                 "variant": "B.1.351",
+                "rx": "BNT162b2_W4",
+                "s_fold": 3,
+                "i_fold": 6,
+                "r_fold": 1,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2_W5",
+                "s_fold": 3,
+                "i_fold": 3,
+                "r_fold": 7,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.351",
                 "rx": "CP",
                 "s_fold": 3,
                 "i_fold": 1,
@@ -476,7 +540,7 @@
                 "rx": "CP",
                 "s_fold": 0,
                 "i_fold": 2,
-                "r_fold": 7,
+                "r_fold": 6,
                 "reference": "Marot21*[^Marot21]"
             },
             {
@@ -486,6 +550,14 @@
                 "i_fold": 10,
                 "r_fold": 29,
                 "reference": "Moyo-Gwete21[^Moyo-Gwete21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP",
+                "s_fold": 1,
+                "i_fold": 1,
+                "r_fold": 7,
+                "reference": "Skelly21[^Skelly21]"
             },
             {
                 "variant": "B.1.351",
@@ -574,6 +646,30 @@
                 "i_fold": 2,
                 "r_fold": 4,
                 "reference": "Cele21*[^Cele21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP_M3",
+                "s_fold": 12,
+                "i_fold": 11,
+                "r_fold": 5,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP_M6",
+                "s_fold": 12,
+                "i_fold": 6,
+                "r_fold": 7,
+                "reference": "Planas21[^Planas21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP_M9",
+                "s_fold": 18,
+                "i_fold": 12,
+                "r_fold": 0,
+                "reference": "Planas21[^Planas21]"
             },
             {
                 "variant": "B.1.351",

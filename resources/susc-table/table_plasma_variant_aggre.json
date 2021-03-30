@@ -60,27 +60,6 @@
             },
             {
                 "variant": "B.1.1.7",
-                "rx": "CP_M3",
-                "fold": "1.2",
-                "samples": 28,
-                "reference": "Planas21[^Planas21]"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "CP_M6",
-                "fold": "1.4",
-                "samples": 25,
-                "reference": "Planas21[^Planas21]"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "CP_M9",
-                "fold": "0.8",
-                "samples": 30,
-                "reference": "Planas21[^Planas21]"
-            },
-            {
-                "variant": "B.1.1.7",
                 "rx": "Mild",
                 "fold": "<3.0",
                 "samples": 13,
@@ -111,27 +90,6 @@
                 "fold": "6.9",
                 "samples": 10,
                 "reference": "Kuzmina21[^Kuzmina21]"
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "CP_M3",
-                "fold": "4.3",
-                "samples": 28,
-                "reference": "Planas21[^Planas21]"
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "CP_M6",
-                "fold": "5.7",
-                "samples": 25,
-                "reference": "Planas21[^Planas21]"
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "CP_M9",
-                "fold": "3.1",
-                "samples": 30,
-                "reference": "Planas21[^Planas21]"
             }
         ]
     },
