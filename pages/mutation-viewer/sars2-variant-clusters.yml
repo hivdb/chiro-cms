@@ -24,7 +24,7 @@ positionGroups:
     .: {_resource: mutation-viewer/position-groups/variant-clusters/cluster5.yml}
   - label: PHL_B.1.1.28
     .: {_resource: mutation-viewer/position-groups/variant-clusters/phl-b-1-1-28.yml}
-  - label: B.1.141
+  - label: B.1.258
     .: {_resource: mutation-viewer/position-groups/variant-clusters/n439k.yml}
   - label: B.1.526
     .: {_resource: mutation-viewer/position-groups/variant-clusters/b-1-526.yml}

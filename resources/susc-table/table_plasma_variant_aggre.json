@@ -33,9 +33,23 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "fold": "2.0",
+                "samples": 25,
+                "reference": "Skelly21[^Skelly21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
                 "fold": "3.3",
                 "samples": 25,
                 "reference": "Supasa21*[^Supasa21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "fold": "2.0",
+                "samples": 18,
+                "reference": "Zuckerman21*[^Zuckerman21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -86,6 +100,13 @@
             },
             {
                 "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "fold": "5.0",
+                "samples": 25,
+                "reference": "Skelly21[^Skelly21]"
+            },
+            {
+                "variant": "B.1.351",
                 "rx": "CP",
                 "fold": "6.9",
                 "samples": 10,
@@ -94,10 +115,10 @@
         ]
     },
     {
-        "variant": "B.1.429/B.1.427",
+        "variant": "B.1.427/9",
         "assays": [
             {
-                "variant": "B.1.429/B.1.427",
+                "variant": "B.1.427/9",
                 "rx": "BNT162b2",
                 "fold": "2.9",
                 "samples": 22,

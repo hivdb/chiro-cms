@@ -832,19 +832,19 @@
     mab_class: RBM Class III
     fold: '&gt;100'
     reference: Wang21b*[^Wang21b]
-- variant: B.1.429/B.1.427
+- variant: B.1.427/9
   assays:
-  - variant: B.1.429/B.1.427
+  - variant: B.1.427/9
     rx: Bamlanivimab+Etesevimab
     mab_class: ''
     fold: '7.7'
     reference: FDA21[^FDA21]
-  - variant: B.1.429/B.1.427
+  - variant: B.1.427/9
     rx: Casirivimab+Imdevimab
     mab_class: ''
     fold: '1'
     reference: FDA21[^FDA21]
-  - variant: B.1.429/B.1.427
+  - variant: B.1.427/9
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '&gt;100'

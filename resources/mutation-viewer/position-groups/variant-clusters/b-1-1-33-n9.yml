@@ -10,6 +10,8 @@ positions:
   <<: *non-spike
 - name: E484K
   pos: 23012
+- name: D614G
+  pos: 23402
 - name: ORF7b:E33A
   pos: 27853
   <<: *non-spike

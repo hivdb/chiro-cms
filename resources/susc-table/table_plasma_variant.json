@@ -714,10 +714,10 @@
         ]
     },
     {
-        "variant": "B.1.429/B.1.427",
+        "variant": "B.1.427/9",
         "assays": [
             {
-                "variant": "B.1.429/B.1.427",
+                "variant": "B.1.427/9",
                 "rx": "BNT162b2",
                 "s_fold": 3,
                 "i_fold": 0,
@@ -725,7 +725,7 @@
                 "reference": "Deng21[^Deng21]"
             },
             {
-                "variant": "B.1.429/B.1.427",
+                "variant": "B.1.427/9",
                 "rx": "CP",
                 "s_fold": 7,
                 "i_fold": 10,
@@ -733,7 +733,7 @@
                 "reference": "Deng21[^Deng21]"
             },
             {
-                "variant": "B.1.429/B.1.427",
+                "variant": "B.1.427/9",
                 "rx": "CP",
                 "s_fold": 6,
                 "i_fold": 2,
@@ -741,7 +741,7 @@
                 "reference": "Tang21[^Tang21]"
             },
             {
-                "variant": "B.1.429/B.1.427",
+                "variant": "B.1.427/9",
                 "rx": "IVIG",
                 "s_fold": 6,
                 "i_fold": 0,
@@ -749,7 +749,7 @@
                 "reference": "Tang21[^Tang21]"
             },
             {
-                "variant": "B.1.429/B.1.427",
+                "variant": "B.1.427/9",
                 "rx": "mRNA-1273",
                 "s_fold": 7,
                 "i_fold": 1,
@@ -757,7 +757,7 @@
                 "reference": "Deng21[^Deng21]"
             },
             {
-                "variant": "B.1.429/B.1.427",
+                "variant": "B.1.427/9",
                 "rx": "mRNA-1273",
                 "s_fold": 3,
                 "i_fold": 1,

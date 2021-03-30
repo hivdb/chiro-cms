@@ -20,12 +20,12 @@
   structure: 521
 - variant: B.1.1.7
   cp: 461
-  ip: 470
+  ip: 513
   phase3: 67
   structure: 28
 - variant: B.1.351
   cp: 434
-  ip: 303
+  ip: 328
   phase3: 65
   structure: 20
 - variant: P.1
@@ -33,7 +33,7 @@
   ip: 127
   phase3: 29
   structure: 5
-- variant: B.1.429/B.1.427
+- variant: B.1.427/9
   cp: 32
   ip: 37
   phase3: 3
@@ -45,11 +45,11 @@
   structure: 0
 - variant: Other combinations of mutations
   cp: 588
-  ip: 512
+  ip: 530
   phase3: 172
   structure: 160
 - variant: All combinations of mutations
   cp: 1626
-  ip: 1457
+  ip: 1543
   phase3: 348
   structure: 215

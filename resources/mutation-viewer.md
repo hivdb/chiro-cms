@@ -4,12 +4,13 @@
   - [B.1.1.7 with S:E484K](#sec_b-1-1-7-484k)
   - [B.1.351, aka 501.V2 variant, 20C/501Y.V2, and South African COVID-19 variant](#sec_b-1-351)
   - [P.1, aka B.1.1.28.1, 20J/501Y.V3 variant, and K417T/E484K/N501Y](#sec_p-1)
+  - [B.1.525](#sec_b-1-525)
   - [B.1.526](#sec_b-1-526)
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
 - [Variants of interest](#variants.of.interest)
   - [P.3, aka PHL-B.1.1.28](#sec_phl-b-1-1-28)
   - [EPI_ISL_1360318, S:E484Q+L452R (India)](#sec_e484q)
-  - [B.1.141, aka N439K](#sec_n439k)
+  - [B.1.258, aka N439K](#sec_n439k)
   - [B.1.298, aka Cluster 5](#sec_cluster5)
   - [B.1.2 COH.20G/501Y](#sec_tu-501y)
   - [B.1.2 COH.20G/677H](#sec_coh-20g-677h)
@@ -112,6 +113,27 @@ p-1
 
 </section>
 
+<!-- B.1.525 -->
+<section id="sec_b-1-525" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.525](#sec_b-1-525)
+
+CDC. “SARS-CoV-2 Variant Classifications and Definitions.” _bioRxiv_, 2020. [Link](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/variant-surveillance/variant-info.html#Interest)
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-525
+[/genomemap]
+
+</div>
+
+</section>
+
 <!-- B.1.526 -->
 <section id="sec_b-1-526" class="figure-section compact">
 
@@ -201,12 +223,12 @@ e484q
 
 </section>
 
-<!-- B.1.141 -->
+<!-- B.1.258 -->
 <section id="sec_n439k" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.141, aka N439K](#sec_n439k)
+### [B.1.258, aka N439K](#sec_n439k)
 
 Thomson EC, Rosen LE, et int., and Snell G. “The circulating SARS-CoV-2 spike variant N439K maintains fitness while evading antibody-mediated immunity.” _bioRxiv_, 2020. [doi.org/10.1101/2020.11.04.355842](https://doi.org/10.1101/2020.11.04.355842). [^Thomson20]
 
