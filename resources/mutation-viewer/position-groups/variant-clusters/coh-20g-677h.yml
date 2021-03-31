@@ -1,13 +1,56 @@
-name: coh-20g-677h
+name: tu-677h
 positions:
-- name: RdRP:P323L # ORF1ab:P4715L
-  pos: 14407
+- name: nsp2:T85I
+  pos: 1058
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: N501Y
-  pos: 23063
+- name: PLpro:1238I
+  pos: 6431
+  <<: *non-spike
+- name: PLpro:M1788I  # ORF1a:M2606I
+  pos: 8081
+  <<: *non-spike
+- name: 3CL:L89F   # ORF1a:L3352F
+  pos: 10319
+  <<: *non-spike
+- name: RdRP:P323L # ORF1ab:P4715L
+  pos: 14407
+  <<: *non-spike
+- name: nsp14:N129D  # ORF1ab:N6054D
+  pos: 18424
+  <<: *non-spike
+- name: nsp16:R216C  # ORF1ab:R7014C
+  pos: 21304
+  <<: *non-spike
 - name: D614G
   pos: 23402
 - name: Q677H
   pos: 23591
+- name: L938F
+  pos: 24374
+- name: ORF3a:Q57H
+  pos: 25561
+  <<: *non-spike
+- name: ORF3a:104ins
+  pos: 25702
+  <<: *non-spike
+- name: ORF3a:104ins
+- name: ORF3a:G172V
+  pos: 25906
+  <<: *non-spike
+- name: M:A85S
+  pos: 26775
+  <<: *non-spike
+- name: ORF8:S24L
+  pos: 27963
+  <<: *non-spike
+- name: N:P67S
+  pos: 28472
+  <<: *non-spike
+- name: N:P199L
+  pos: 28868
+  <<: *non-spike
+- name: N:D377Y
+  pos: 29402
+  <<: *non-spike

@@ -31,7 +31,7 @@ positionGroups:
   - label: B.1.1.33 N9
     .: {_resource: mutation-viewer/position-groups/variant-clusters/b-1-1-33-n9.yml}
   - label: COH.20G/501Y
-    .: {_resource: mutation-viewer/position-groups/variant-clusters/tu-501y.yml}
+    .: {_resource: mutation-viewer/position-groups/variant-clusters/coh-20g-501y.yml}
   - label: COH.20G/677H
     .: {_resource: mutation-viewer/position-groups/variant-clusters/coh-20g-677h.yml}
 

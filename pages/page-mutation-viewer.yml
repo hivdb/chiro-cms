@@ -96,11 +96,11 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/cluster5.yml
     <<: *common-props
-  tu-501y:
-    name: tu-501y
+  coh-20g-501y:
+    name: coh-20g-501y
     height: 225
     positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/tu-501y.yml
+    - _resource: mutation-viewer/position-groups/variant-clusters/coh-20g-501y.yml
     <<: *common-props
   coh-20g-677h:
     name: coh-20g-677h
