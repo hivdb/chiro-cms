@@ -1,0 +1,32 @@
+name: n9
+positions:
+- name: nsp3:A1711V # ORF1a:A2529V
+  pos: 7851
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: nsp6:F36L # ORF1a:F3605L
+  pos: 11078
+  <<: *non-spike
+- name: RdRP:P323L  # ORF1ab:P4715L
+  pos: 14407
+  <<: *non-spike
+- name: E484K
+  pos: 23012
+- name: D614G
+  pos: 23402
+- name: ORF6:I33T
+  pos: 27298
+  <<: *non-spike
+- name: ORF7b:E33A
+  pos: 27852
+  <<: *non-spike
+- name: N:R203K
+  pos: 28880
+  <<: *non-spike
+- name: N:G204R
+  pos: 28883
+  <<: *non-spike
+- name: N:I292T
+  pos: 29147
+  <<: *non-spike

@@ -28,8 +28,8 @@ positionGroups:
     .: {_resource: mutation-viewer/position-groups/variant-clusters/n439k.yml}
   - label: B.1.526
     .: {_resource: mutation-viewer/position-groups/variant-clusters/b-1-526.yml}
-  - label: B.1.1.33 N9
-    .: {_resource: mutation-viewer/position-groups/variant-clusters/b-1-1-33-n9.yml}
+  - label: N.9
+    .: {_resource: mutation-viewer/position-groups/variant-clusters/n9.yml}
   - label: COH.20G/501Y
     .: {_resource: mutation-viewer/position-groups/variant-clusters/coh-20g-501y.yml}
   - label: COH.20G/677H

@@ -15,7 +15,7 @@
   - [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](#sec_coh-20g-501y)
   - [COH.20G/677H, EPI_ISL_826463](#sec_coh-20g-677h)
   - [P.2, evolved from B.1.1.28](#sec_p-2)
-  - [B.1.1.33 N9](#sec_b-1-1-33-n9)
+  - [N.9](#sec_n9)
 - [Prolonged Infections](#prolonged.infections)
   - [Kemp S, Harvey W, et int., and Gupta RK.](#sec_kemp21)
   - [McCarthy KR, Rennick LJ, et int., and Duprex WP.](#sec_mccarthy20)
@@ -326,20 +326,20 @@ p-2
 
 </section>
 
-<!-- B.1.1.35 N9 -->
-<section id="sec_b-1-1-33-n9" class="figure-section compact">
+<!-- N.9 -->
+<section id="sec_n9" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.1.33 N9](#sec_b-1-1-33-n9)
-Resende PC, Graf T, et int., and Siqueira MM. “A potential SARS-CoV-2 variant of interest (VOI) harboring mutation E484K in the Spike protein was identified within lineage B.1.1.33 circulating in Brazil.” _biorxiv_, 2021.[^Resende21]
+### [N.9](#sec_n9)
+Resende PC, Graf T, et int., and Siqueira MM. “A potential SARS-CoV-2 variant of interest (VOI) harboring mutation E484K in the Spike protein was identified within lineage B.1.1.33 circulating in Brazil.” _biorxiv_, 2021. [doi.org/10.1101/2021.03.12.434969](https://doi.org/10.1101/2021.03.12.434969) [^Resende21]
 
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
-b-1-1-33-n9
+n9
 [/genomemap]
 
 </div>
