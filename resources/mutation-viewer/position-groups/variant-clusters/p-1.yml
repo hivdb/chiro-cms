@@ -48,12 +48,9 @@ positions:
 - name: ORF8:E92K
   pos: 28167
   <<: *non-spike
-- name: N:P80R
+- name: N:P80R  ## a.k.a ORF9b:Q77E
   pos: 28511
   <<: *non-spike
 - name: N:R203K
   pos: 28880
-  <<: *non-spike
-- name: ORF9b:Q77E
-  pos: 29512
   <<: *non-spike
