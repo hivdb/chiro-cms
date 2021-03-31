@@ -1,24 +1,28 @@
 name: b-1-525
 positions:
-- name: 5'-UTR:R81C
-  pos: 243
+# - name: 5'-UTR:R81C
+#   pos: 243
+#   <<: &non-spike
+#     stroke: '#e0e0e0'
+#     color: '#a0a0a0'
+# - name: PLpro:T1189I # ORFa: T2007I
+#   pos: 6284
+#   <<: *non-spike
+- name: RdRP:P323F  # ORF1ab:L4715F
+  pos: 14407
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: PLpro:T1189I # ORFa: T2007I
-  pos: 6284
-  <<: *non-spike
-- name: RdRP:P323L  # ORF1ab:P4715L
-  pos: 14407
-  <<: *non-spike
-- name: A67V
-  pos: 21761
-- name: HV69-70del
-  label: HV69-70Δ
-  pos: 21767
-- name: Y144del
-  label: Y144Δ
-  pos: 21992
+# - name: A67V
+#   pos: 21761
+# - name: HV69-70del
+#   label: HV69-70Δ
+#   pos: 21767
+# - name: Y144del
+#   label: Y144Δ
+#   pos: 21992
+- name: Q52R
+  pos: 21716
 - name: E484K
   pos: 23012
 - name: D614G
@@ -27,12 +31,18 @@ positions:
   pos: 23591
 - name: F888L
   pos: 24224
-- name: M:I82T
-  pos: 26766
+# - name: M:I82T
+#   pos: 26766
+#   <<: *non-spike
+# - name: N:A12G
+#   pos: 28307
+#   <<: *non-spike
+# - name: N:T205I
+#   pos: 28887
+#   <<: *non-spike
+- name: E:L21F
+  pos: 26305
   <<: *non-spike
-- name: N:A12G
-  pos: 28307
-  <<: *non-spike
-- name: N:T205I
-  pos: 28887
+- name: E:I82T
+  pos: 26488
   <<: *non-spike
