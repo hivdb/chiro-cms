@@ -1,8 +1,5 @@
 name: b-1-525
 positions:
-# - name: 5'-UTR:R81C
-#   pos: 243
-
 - name: PLpro:T1189I # ORFa: T2007I
   pos: 6284
   <<: &non-spike
