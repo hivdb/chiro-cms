@@ -120,7 +120,7 @@ p-1
 
 ### [B.1.525](#sec_b-1-525)
 
-Latif AA, Mullen JL, et int., and the Center for Viral Systems Biology. “B.1.525 Lineage Report.” _outbreak.info_, 2021. [available at](https://outbreak.info/situation-reports?pango=B.1.525)
+Latif AA, Mullen JL, et int., and the Center for Viral Systems Biology. “B.1.525 Lineage Report.” _outbreak.info_, 2021. [Available at](https://outbreak.info/situation-reports?pango=B.1.525)
 
 </div>
 
