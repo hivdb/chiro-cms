@@ -22,6 +22,18 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Apr 01)
+Hattori S, Higashi-Kuwata N, et int., and Mitsuya H. [“A small molecule compound with an indole moiety inhibits the main protease of SARS-CoV-2 and blocks virus replication.”](/search/?article=Hattori21) _Nature Communications_, 2021. [doi.org/10.1038/s41467-021-20900-6](https://doi.org/10.1038/s41467-021-20900-6). \[[PubMed33510133](https://www.ncbi.nlm.nih.gov/pubmed/33510133/)\] \[[PMC7843602](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7843602/)\]
+### Database Entries (Apr 01)
+Vatansever EC, Yang KS, et int., and Liu WR. [“Bepridil is potent against SARS-CoV-2 in vitro.”](/search/?article=Vatansever21) _Proceedings of the National Academy of Sciences_, 2021. [doi.org/10.1073/pnas.2012201118](https://doi.org/10.1073/pnas.2012201118). \[[PubMed33597253](https://www.ncbi.nlm.nih.gov/pubmed/33597253/)\] \[[PMC7958448](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7958448/)\]
+### Database Entries (Mar 31)
+Skelly DT, Harding AC, et int., and James WS. [“Vaccine-induced immunity provides more robust heterotypic immunity than natural infection to emerging SARS-CoV-2 variants of concern.”](/search/?article=Skelly21) _Research square_, 2021. [doi.org/10.21203/rs.3.rs-226857/v1](https://doi.org/10.21203/rs.3.rs-226857/v1).
+### Database Entries (Mar 31)
+Zhou H, Dcosta BM, et int., and Tada T. [“B.1.526 SARS-CoV-2 variants identified in New York City are neutralized by vaccine-elicited and therapeutic monoclonal antibodies.”](/search/?article=Zhou21c) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.24.436620](https://doi.org/10.1101/2021.03.24.436620).
+### Database Entries (Mar 31)
+Zuckerman NS, Fleishon S, et int., and Mor O. [“A unique SARS-CoV-2 spike protein P681H strain detected in Israel.”](/search/?article=Zuckerman21) _medRxiv_, 2021. [doi.org/10.1101/2021.03.25.21253908](https://doi.org/10.1101/2021.03.25.21253908).
+### [Clinical Trials (Mar 25)](/page/updates/#clinical.trials)
+[2 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-03-25)
 ### Database Entries (Mar 23)
 Chen RE, Zhang X, et int., and Diamond MS. “Resistance of SARS-CoV-2 variants to neutralization by monoclonal and serum-derived polyclonal antibodies.” _Nature Medicine_, 2021. [doi.org/10.1038/s41591-021-01294-w](https://doi.org/10.1038/s41591-021-01294-w). \[[PubMed33664494](https://www.ncbi.nlm.nih.gov/pubmed/33664494/)\]
 ### Database Entries (Mar 23)
@@ -105,21 +117,3 @@ Li Q, Nie J, et int., and Wang Y. [“No higher infectivity but immune escape of
 Rosenke K, Hansen F, et int., and Jarvis M. [“Orally delivered MK-4482 inhibits SARS-CoV-2 replication in the Syrian hamster model.”](/search/?article=Rosenke20c) _Research square_, 2020. [doi.org/10.21203/rs.3.rs-86289/v1](https://doi.org/10.21203/rs.3.rs-86289/v1). \[[PubMed33052329](https://www.ncbi.nlm.nih.gov/pubmed/33052329/)\] \[[PMC7553153](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7553153/)\]
 ### Database Entries (Mar 03)
 Wahl A, Gralinski LE, et int., and Garcia JV. [“SARS-CoV-2 infection is effectively treated and prevented by EIDD-2801.”](/search/?article=Wahl21) _Nature_, 2021. [doi.org/10.1038/s41586-021-03312-w](https://doi.org/10.1038/s41586-021-03312-w). \[[PubMed33561864](https://www.ncbi.nlm.nih.gov/pubmed/33561864/)\]
-### [Clinical Trials (Feb 25)](/page/updates/#clinical.trials)
-[3 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-02-25)
-### Database Entries (Feb 23)
-Diamond M, Chen R, et int., and Gilchuk P. [“SARS-CoV-2 variants show resistance to neutralization by many monoclonal and serum-derived polyclonal antibodies.”](/search/?article=Diamond21) _Research square_, 2021. [doi.org/10.21203/rs.3.rs-228079/v1](https://doi.org/10.21203/rs.3.rs-228079/v1). \[[PubMed33594356](https://www.ncbi.nlm.nih.gov/pubmed/33594356/)\] \[[PMC7885928](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885928/)\]
-### Database Entries (Feb 23)
-Garcia-Beltran WF, Lam EC, et int., and Balazs AB. [“Circulating SARS-CoV-2 variants escape neutralization by vaccine-induced humoral immunity.”](/search/?article=Garcia-Beltran21) _medRxiv_, 2021. [doi.org/10.1101/2021.02.14.21251704](https://doi.org/10.1101/2021.02.14.21251704). \[[PubMed33619506](https://www.ncbi.nlm.nih.gov/pubmed/33619506/)\] \[[PMC7899476](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7899476/)\]
-### Database Entries (Feb 23)
-Hoffmann M, Zhang L, et int., and Pöhlmann S. [“SARS-CoV-2 mutations acquired in mink reduce antibody-mediated neutralization.”](/search/?article=Hoffmann21b) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.12.430998](https://doi.org/10.1101/2021.02.12.430998).
-### Database Entries (Feb 23)
-Liu Y, Liu J, et int., and Shi P. [“Neutralizing Activity of BNT162b2-Elicited Serum — Preliminary Report.”](/search/?article=Liu21b) _New England Journal of Medicine_, 2021. [doi.org/10.1056/NEJMc2102017](https://doi.org/10.1056/NEJMc2102017). \[[PubMed33596352](https://www.ncbi.nlm.nih.gov/pubmed/33596352/)\]
-### Database Entries (Feb 23)
-Planas D, Bruel T, et int., and Schwartz O. [“Sensitivity of infectious SARS-CoV-2 B.1.1.7 and B.1.351 variants to neutralizing antibodies.”](/search/?article=Planas21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.12.430472](https://doi.org/10.1101/2021.02.12.430472).
-### Database Entries (Feb 23)
-Tada T, Dcosta BM, et int., and Landau NR. [“Decreased neutralization of SARS-CoV-2 global variants by therapeutic anti-spike protein monoclonal antibodies.”](/search/?article=Tada21b) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.18.431897](https://doi.org/10.1101/2021.02.18.431897). \[[PubMed33619484](https://www.ncbi.nlm.nih.gov/pubmed/33619484/)\] \[[PMC7899448](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7899448/)\]
-### Database Entries (Feb 23)
-West AP, Barnes CO, et int., and Bjorkman PJ. [“SARS-CoV-2 lineage B.1.526 emerging in the New York region detected by software utility created to query the spike mutational landscape.”](/search/?article=West21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.14.431043](https://doi.org/10.1101/2021.02.14.431043).
-### Database Entries (Feb 23)
-Yuan M, Huang D, et int., and Wilson IA. [“Structural and functional ramifications of antigenic drift in recent SARS-CoV-2 variants.”](/search/?article=Yuan21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.16.430500](https://doi.org/10.1101/2021.02.16.430500). \[[PubMed33619487](https://www.ncbi.nlm.nih.gov/pubmed/33619487/)\] \[[PMC7899451](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7899451/)\]
