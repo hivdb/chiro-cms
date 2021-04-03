@@ -598,13 +598,6 @@
     reference: Wibmer21[^Wibmer21]
     median: '11'
   - variant: B.1.351
-    rx: CP(WT)
-    s_fold: 0
-    i_fold: 2
-    r_fold: 3
-    reference: Cele21*[^Cele21]
-    median: '38'
-  - variant: B.1.351
     rx: CP_M3
     s_fold: 12
     i_fold: 11
