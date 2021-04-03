@@ -26,6 +26,9 @@ tables:
     - name: assays.r_fold
       label: "R\n(&gt;10-fold)"
       multiCells: true
+    - name: assays.median
+      label: Median
+      multiCells: true
     - name: assays.reference
       label: "Reference"
       multiCells: true

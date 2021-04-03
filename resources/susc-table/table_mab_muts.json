@@ -389,13 +389,6 @@
             },
             {
                 "variant": "E484K",
-                "rx": "BD-368-2",
-                "mab_class": "RBM Class II",
-                "fold": "&gt;100",
-                "reference": "Wang21f[^Wang21f]"
-            },
-            {
-                "variant": "E484K",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
@@ -922,13 +915,6 @@
             },
             {
                 "variant": "K417N",
-                "rx": "Etesevimab",
-                "mab_class": "RBM Class I",
-                "fold": "&gt;100",
-                "reference": "Wang21f[^Wang21f]"
-            },
-            {
-                "variant": "K417N",
                 "rx": "P2C-1F11",
                 "mab_class": "RBM Class I",
                 "fold": "1.6",
@@ -1151,13 +1137,6 @@
             },
             {
                 "variant": "K417N + E484K + N501Y",
-                "rx": "CC12.1",
-                "mab_class": "RBM Class I",
-                "fold": "&gt;100",
-                "reference": "Wibmer21[^Wibmer21]"
-            },
-            {
-                "variant": "K417N + E484K + N501Y",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
                 "fold": "&gt;100",
@@ -1190,27 +1169,6 @@
                 "mab_class": "RBM Class I",
                 "fold": "&gt;100",
                 "reference": "Wang21e[^Wang21e]"
-            },
-            {
-                "variant": "K417N + E484K + N501Y",
-                "rx": "Etesevimab",
-                "mab_class": "RBM Class I",
-                "fold": "&gt;100",
-                "reference": "Wang21f[^Wang21f]"
-            },
-            {
-                "variant": "K417N + E484K + N501Y",
-                "rx": "Etesevimab",
-                "mab_class": "RBM Class I",
-                "fold": "&gt;100",
-                "reference": "Wibmer21[^Wibmer21]"
-            },
-            {
-                "variant": "K417N + E484K + N501Y",
-                "rx": "Etesevimab",
-                "mab_class": "RBM Class I",
-                "fold": "&gt;100",
-                "reference": "Yao21[^Yao21]"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -1256,24 +1214,10 @@
             },
             {
                 "variant": "K417N + E484K + N501Y",
-                "rx": "BD-368-2",
-                "mab_class": "RBM Class II",
-                "fold": "&gt;100",
-                "reference": "Wang21f[^Wang21f]"
-            },
-            {
-                "variant": "K417N + E484K + N501Y",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
                 "reference": "Wang21e[^Wang21e]"
-            },
-            {
-                "variant": "K417N + E484K + N501Y",
-                "rx": "C119",
-                "mab_class": "RBM Class II",
-                "fold": "&gt;100",
-                "reference": "Wibmer21[^Wibmer21]"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -1288,13 +1232,6 @@
                 "mab_class": "RBM Class II",
                 "fold": "0.6",
                 "reference": "Wang21[^Wang21]"
-            },
-            {
-                "variant": "K417N + E484K + N501Y",
-                "rx": "P2B-2F6",
-                "mab_class": "RBM Class II",
-                "fold": "&gt;100",
-                "reference": "Wibmer21[^Wibmer21]"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -1426,13 +1363,6 @@
                 "mab_class": "RBM Class I",
                 "fold": "1.4",
                 "reference": "Li20h[^Li20h]"
-            },
-            {
-                "variant": "L452R",
-                "rx": "BD-368-2",
-                "mab_class": "RBM Class II",
-                "fold": "&gt;100",
-                "reference": "Du20[^Du20]"
             },
             {
                 "variant": "L452R",
@@ -2383,13 +2313,6 @@
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
                 "fold": "&gt;100",
-                "reference": "Baum20[^Baum20]"
-            },
-            {
-                "variant": "Y453F",
-                "rx": "Casirivimab",
-                "mab_class": "RBM Class I",
-                "fold": "&gt;100",
                 "reference": "FDA21[^FDA21]"
             },
             {
@@ -2508,13 +2431,6 @@
                 "mab_class": "NTD",
                 "fold": "&gt;100",
                 "reference": "Wang21b[^Wang21b]"
-            },
-            {
-                "variant": "∆144",
-                "rx": "4A8",
-                "mab_class": "NTD",
-                "fold": "&gt;100",
-                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "∆144",

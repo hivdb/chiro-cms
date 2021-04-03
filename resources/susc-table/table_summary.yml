@@ -4,52 +4,52 @@
   phase3: 51
   structure: 17
 - variant: E484K
-  cp: 90
+  cp: 88
   ip: 57
   phase3: 58
-  structure: 17
+  structure: 16
 - variant: Other individual mutations
-  cp: 616
+  cp: 612
   ip: 476
-  phase3: 652
-  structure: 489
+  phase3: 644
+  structure: 484
 - variant: All individual mutations
-  cp: 854
+  cp: 848
   ip: 641
-  phase3: 752
-  structure: 521
+  phase3: 744
+  structure: 515
 - variant: B.1.1.7
-  cp: 461
-  ip: 513
+  cp: 452
+  ip: 533
   phase3: 67
-  structure: 28
+  structure: 26
 - variant: B.1.351
-  cp: 434
-  ip: 328
-  phase3: 65
-  structure: 20
+  cp: 387
+  ip: 327
+  phase3: 61
+  structure: 15
 - variant: P.1
-  cp: 111
-  ip: 127
-  phase3: 29
-  structure: 5
+  cp: 106
+  ip: 144
+  phase3: 25
+  structure: 3
 - variant: B.1.427/9
   cp: 32
-  ip: 37
-  phase3: 3
-  structure: 0
+  ip: 66
+  phase3: 9
+  structure: 3
 - variant: B.1.526
   cp: 0
   ip: 0
   phase3: 3
   structure: 0
 - variant: Other combinations of mutations
-  cp: 588
-  ip: 530
-  phase3: 172
-  structure: 160
+  cp: 581
+  ip: 614
+  phase3: 164
+  structure: 155
 - variant: All combinations of mutations
-  cp: 1626
-  ip: 1543
-  phase3: 348
-  structure: 215
+  cp: 1558
+  ip: 1692
+  phase3: 338
+  structure: 204
