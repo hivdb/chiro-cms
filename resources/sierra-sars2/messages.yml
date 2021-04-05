@@ -1,4 +1,4 @@
-pattern-analysis-form-title: >-
+pattern-analysis-form-title: >- # Warning: title doesn't support markdown
   SARS-CoV-2 Mutations Analysis
 
 pattern-analysis-form-desc: |-
@@ -18,7 +18,7 @@ pattern-analysis-form-desc: |-
   - a deletion: nsp6:S106del
   - an insertion: nsp6:34ins
 
-sequence-analysis-form-title: >-
+sequence-analysis-form-title: >- # Warning: title doesn't support markdown
   SARS-CoV-2 Sequence Analysis
 
 sequence-analysis-form-desc: |-
@@ -28,10 +28,10 @@ sequence-analysis-form-desc: |-
   using the File Upload option. The upper limit is currently 1000 sequences
   containing 3000 nucleotides per sequence.
 
-seqreads-analysis-form-title: >-
+seqreads-analysis-form-title: >- # Warning: title doesn't support markdown
   SARS-CoV-2 Sequence Reads (NGS) Analysis
 
-seqreads-anaylsis-form-desc: |-
+seqreads-analysis-form-desc: |-
   SARS-CoV-2 Sequence Reads of each SARS-CoV-2 gene, Spike, RdRP, nsp1-10
   (include PLpro and 3CLpro), nsp13-16, ORF3a, E, M, ORF6, ORF7a, ORF8, N and
   ORF10, can be submittted in the form of [codon frequency tables (CodFreq
