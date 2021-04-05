@@ -1,0 +1,69 @@
+# TODO: this should be dynamic generated based on COVID CG/GLUE/NextStrain suggestions (≥1%)
+- gene: S
+  mutations:
+    - [18, F]
+    - [69, d]
+    - [70, d]
+    - [141, d]
+    - [142, d]
+    - [143, d]
+    - [144, d]
+    - [145, d]
+    - [146, d]
+    - [222, V]
+    - [242, d]
+    - [243, d]
+    - [244, d]
+    - [253, Y]
+    - [417, NT]
+    - [439, K]
+    - [452, R]
+    - [453, F]
+    - [477, N]
+    - [484, KQ]
+    - [490, S]
+    - [494, P]
+    - [501, Y]
+    - [570, D]
+    - [614, G]
+    - [675, HR]
+    - [677, HP]
+    - [679, K]
+    - [681, H]
+    - [716, I]
+    - [982, A]
+    - [1118, H]
+- gene: nsp6
+  mutations:
+    - [104, d]
+    - [105, d]
+    - [106, d]
+- gene: nsp2
+  mutations:
+    - [85, I]
+- gene: PLpro
+  mutations:
+    - [183, I]
+    - [890, D]
+    - [1412, T]
+- gene: RdRP
+  mutations:
+    - [323, L]
+- gene: ORF3a
+  mutations:
+    - [57, H]
+- gene: ORF8
+  mutations:
+    - [52, I]
+    - [73, C]
+- gene: N
+  mutations:
+    - [3, L]
+    - [194, L]
+    - [203, K]
+    - [204, R]
+    - [220, V]
+    - [235, F]
+- gene: ORF10
+  mutations:
+    - [30, L]
