@@ -12,7 +12,8 @@ import click
 @click.command()
 @click.argument('input_file', type=click.File())
 @click.argument('output_file', type=click.File('w'))
-def mutcmt2json(input_file, output_file):
+@click.argument('version', type=str)
+def mutcmt2json(input_file, output_file, version):
     rows = []  # CommentedSeq()
     for idx, row in enumerate(csv.DictReader(input_file)):
         row['position'] = int(row['position'])
@@ -29,7 +30,10 @@ def mutcmt2json(input_file, output_file):
         #     rows.yaml_set_comment_before_after_key(idx, "\n\n", 2)
     # yaml = ruamel.yaml.YAML()
     # yaml.dump(rows, output_file)
-    json.dump(rows, output_file)
+    json.dump({
+        'version': version,
+        'payload': rows
+    }, output_file)
 
 
 if __name__ == '__main__':
