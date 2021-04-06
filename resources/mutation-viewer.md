@@ -16,6 +16,7 @@
   - [COH.20G/677H, EPI_ISL_826463](#sec_coh-20g-677h)
   - [P.2, evolved from B.1.1.28](#sec_p-2)
   - [N.9](#sec_n9)
+  - [A.VOI.V2](#sec_a-voi-v2)
 - [Prolonged Infections](#prolonged.infections)
   - [Kemp S, Harvey W, et int., and Gupta RK.](#sec_kemp21)
   - [McCarthy KR, Rennick LJ, et int., and Duprex WP.](#sec_mccarthy20)
@@ -340,6 +341,26 @@ Resende PC, Graf T, et int., and Siqueira MM. “A potential SARS-CoV-2 variant 
 
 [genomemap]
 n9
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- A.VOI.V2 -->
+<section id="sec_a-voi-v2" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [A.VOI.V2](#sec_a-voi-v2)
+Oliveira T, Lutucuta S, et int., and Lessells RJ. “A novel variant of interest of SARS-CoV-2 with multiple spike mutations is identified from travel surveillance in Africa.” _biorxiv_, 2021. [doi.org/10.1101/2021.03.30.21254323](https://doi.org/10.1101/2021.03.30.21254323)
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+a-voi-v2
 [/genomemap]
 
 </div>

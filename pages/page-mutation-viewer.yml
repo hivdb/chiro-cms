@@ -78,6 +78,12 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/p-2.yml
     <<: *common-props
+  a-voi-v2:
+    name: a-voi-v2
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/a-voi-v2.yml
+    <<: *common-props
   n9:
     name: n9
     height: 200

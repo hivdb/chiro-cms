@@ -15,6 +15,7 @@
   - [COH.20G/677H, EPI_ISL_826463](/page/mutation-viewer/#sec_coh-20g-677h)
   - [P.2, evolved from B.1.1.28](/page/mutation-viewer/#sec_p-2)
   - [N.9](/page/mutation-viewer/#sec_n9)
+  - [A.VOI.V2](#sec_a-voi-v2)
 - [Prolonged Infections](/page/mutation-viewer/#prolonged.infections)
   - [Kemp S, Harvey W, et int., and Gupta RK.](/page/mutation-viewer/#sec_kemp21)
   - [McCarthy KR, Rennick LJ, et int., and Duprex WP.](/page/mutation-viewer/#sec_mccarthy20)
