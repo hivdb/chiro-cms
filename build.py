@@ -5,6 +5,7 @@ import re
 import json
 import copy
 import subprocess
+from collections.abc import Mapping
 from importlib import import_module
 from datetime import datetime
 
@@ -116,9 +117,10 @@ def main():
                 data = yaml.load(yamlfp)
                 data, new_mtime = load_resources(data)
                 mtime = max(new_mtime, mtime)
-                data['lastModified'] = (
-                    datetime.utcfromtimestamp(mtime).isoformat() + 'Z'
-                )
+                if isinstance(data, Mapping):
+                    data['lastModified'] = (
+                        datetime.utcfromtimestamp(mtime).isoformat() + 'Z'
+                    )
                 json.dump(data, jsonfp)
                 print('create: {}'.format(jsonpath))
     copy_tree(IMAGEDIR, os.path.join(BUILDDIR, 'images'))
