@@ -19,3 +19,6 @@ Variants
 [table compact, lastCompact]
 VariantMutations
 [/table]
+
+
+Powered by [GISAID](https://www.gisaid.org/) and [Outbreak.info](https://outbreak.info/)
