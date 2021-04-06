@@ -1,0 +1,70 @@
+---
+pageTitle: Prevalence Tracker
+toc: true
+tocFloat: none
+escapeHtml: false
+introHeader: |-
+  SARS-CoV-2 Prevalence Tracker
+content:
+  _resource: prevalence-tracker.md
+tables:
+  Mutations:
+    columnDefs:
+    - name: name
+      label: Mutation
+    - name: '2020-07-01'
+      label: '2020-07-01'
+    - name: '2020-08-01'
+      label: '2020-08-01'
+    - name: '2020-09-01'
+      label: '2020-09-01'
+    - name: '2020-10-01'
+      label: '2020-10-01'
+    - name: '2020-11-01'
+      label: '2020-11-01'
+    - name: '2020-12-01'
+      label: '2020-12-01'
+    - name: '2021-01-01'
+      label: '2021-01-01'
+    - name: '2021-02-01'
+      label: '2021-02-01'
+    - name: '2021-03-01'
+      label: '2021-03-01'
+    - name: '2021-04-01'
+      label: '2021-04-01'
+    data:
+      _resource: outbreak-aapcnt/aapcnt-mutations.yml
+  Variants:
+    columnDefs:
+    - name: name
+      label: Variant
+    - name: '2020-07-01'
+      label: '2020-07-01'
+    - name: '2020-08-01'
+      label: '2020-08-01'
+    - name: '2020-09-01'
+      label: '2020-09-01'
+    - name: '2020-10-01'
+      label: '2020-10-01'
+    - name: '2020-11-01'
+      label: '2020-11-01'
+    - name: '2020-12-01'
+      label: '2020-12-01'
+    - name: '2021-01-01'
+      label: '2021-01-01'
+    - name: '2021-02-01'
+      label: '2021-02-01'
+    - name: '2021-03-01'
+      label: '2021-03-01'
+    - name: '2021-04-01'
+      label: '2021-04-01'
+    data:
+      _resource: outbreak-aapcnt/aapcnt-variants.yml
+  VariantMutations:
+    columnDefs:
+    - name: name
+      label: Variant
+    - name: mutations
+      label: Mutations
+    data:
+      _resource: outbreak-aapcnt/variants-mutations.yml

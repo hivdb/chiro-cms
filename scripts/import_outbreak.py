@@ -91,11 +91,30 @@ def round_number(float_number):
 def get_proportion(numerator, denominator):
     proportion = round_number(
                 numerator / denominator * 100)
-    if proportion:
-        proportion = '{}%'.format(proportion)
-    else:
-        return str(proportion)
-    return proportion
+    # if proportion:
+    #     proportion = '{}%'.format(proportion)
+    # else:
+    #     return str(proportion)
+    return str(proportion)
+
+
+def filter_timepoints(timepoints):
+    records = []
+    MIN_PREVALENCE = 0.1
+    for name, tp_list in timepoints.items():
+        prev_list = [float(i['prevalence']) > MIN_PREVALENCE for i in tp_list]
+        if not any(prev_list):
+            continue
+        rec = {
+            'name': name
+        }
+        for tp in tp_list:
+            date = tp['date']
+            prevalence = tp['prevalence']
+            rec[date] = prevalence
+        records.append(rec)
+
+    return records
 
 
 def get_version():
@@ -143,6 +162,8 @@ def get_mutation_prevalence():
         resp = query_api(query)
         timepoints = resp['results']
 
+        name = name.upper()
+
         cummulative_lineage_count = 0
         cummulative_total_count = 0
 
@@ -164,13 +185,12 @@ def get_mutation_prevalence():
                 cummulative_total_count
             )
 
-            name = name.upper()
             prevalence[name].append({
                 'date': date,
                 'prevalence': proportion
             })
 
-    prevalence = dict(prevalence)
+    prevalence = filter_timepoints(prevalence)
     return prevalence
 
 
@@ -229,9 +249,16 @@ def get_variant_mutations():
             for mut in muts:
                 mutations[variant].append(mut['mutation'])
 
-        mutations[variant] = ','.join(mutations[variant])
+        mutations[variant] = ', '.join(mutations[variant])
 
-    return mutations
+    records = []
+    for variant, mut_list in mutations.items():
+        records.append({
+            'name': variant,
+            'mutations': mut_list
+        })
+
+    return records
 
 
 def get_variant_global_prevalence():
@@ -244,6 +271,8 @@ def get_variant_global_prevalence():
 
         resp = query_api(query)
         timepoints = resp['results']
+
+        variant = variant.upper()
 
         cummulative_total_count = 0
         cummulative_lineage_count = 0
@@ -266,22 +295,12 @@ def get_variant_global_prevalence():
                 cummulative_total_count
             )
 
-            variant = variant.upper()
             prevalence[variant].append({
                 'date': date,
                 'prevalence': proportion
             })
-        # latest_tp = resp['results']
 
-        # date = latest_tp['last_detected']
-        # prevalence[variant].append({
-        #     'date': date,
-        #     'total_count': latest_tp['total_count'],
-        #     'count': latest_tp['lineage_count'],
-        #     'proportion': latest_tp['global_prevalence']
-        # })
-
-    prevalence = dict(prevalence)
+    prevalence = filter_timepoints(prevalence)
     return prevalence
 
 
@@ -293,7 +312,7 @@ def process_variants(save_dir):
         yaml.dump(prevalence, fp)
         print('Updated {}'.format(save_path))
 
-    save_path = save_dir / 'variants-mutaions.yml'
+    save_path = save_dir / 'variants-mutations.yml'
     mutations = get_variant_mutations()
     with open(save_path, 'w') as fp:
         yaml.dump(mutations, fp)
@@ -306,14 +325,9 @@ def import_outbreak():
 
     get_version()
 
-    # process_mutations(RESULTS_DIR)
+    process_mutations(RESULTS_DIR)
 
-    file_path = RESULTS_DIR / 'aapcnt-mutations.yml'
-    with open(file_path) as fp:
-        content = yaml.load(fp)
-
-
-    # process_variants(RESULTS_DIR)
+    process_variants(RESULTS_DIR)
 
 
 if __name__ == '__main__':
