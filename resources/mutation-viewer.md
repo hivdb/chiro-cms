@@ -231,7 +231,7 @@ e484q
 
 ### [B.1.258, aka N439K](#sec_n439k)
 
-Thomson EC, Rosen LE, et int., and Snell G. “The circulating SARS-CoV-2 spike variant N439K maintains fitness while evading antibody-mediated immunity.” _bioRxiv_, 2020. [doi.org/10.1101/2020.11.04.355842](https://doi.org/10.1101/2020.11.04.355842). [^Thomson20]
+Thomson EC, Rosen LE, et int., and Snell G. “Circulating SARS-CoV-2 spike N439K variants maintain fitness while evading antibody-mediated immunity.” _Cell_, 2021. [doi.org/10.1016/j.cell.2021.01.037](https://doi.org/10.1016/j.cell.2021.01.037). [^Thomson21]
 
 </div>
 
