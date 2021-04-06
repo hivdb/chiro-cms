@@ -25,8 +25,8 @@ sequence-analysis-form-desc: |-
   SARS-CoV-2 Sequences can be entered as plain text if just one sequence is
   entered.  Sequences must be entered using the FASTA format if multiple
   sequences are entered. Sequences can be pasted in the text box or uploaded
-  using the File Upload option. The upper limit is currently 1000 sequences
-  containing 3000 nucleotides per sequence.
+  using the File Upload option. The upper limit is currently 100 sequences
+  containing ~30000 nucleotides per sequence.
 
 seqreads-analysis-form-title: >- # Warning: title doesn't support markdown
   SARS-CoV-2 Sequence Reads (NGS) Analysis
