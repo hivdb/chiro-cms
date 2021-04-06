@@ -79,7 +79,7 @@ b-1-1-7-484k
 
 ### [B.1.351, aka 501.V2 variant, 20C/501Y.V2, and South African COVID-19 variant](#sec_b-1-351)
 
-Tegally H, Wilkinson E, et int., and de Oliveira T. “Emergence and rapid spread of a new severe acute respiratory syndrome-related coronavirus 2 (SARS-CoV-2) lineage with multiple spike mutations in South Africa.” _medRxiv_, 2020. [doi.org/10.1101/2020.12.21.20248640](https://doi.org/10.1101/2020.12.21.20248640). [^Tegally20]
+Tegally H, Wilkinson E, et int., and Oliveira T. “Detection of a SARS-CoV-2 variant of concern in South Africa.” _nature_, 2020. [doi.org/10.1038/s41586-021-03402-9](https://doi.org/10.1038/s41586-021-03402-9). [^Tegally21]
 
 </div>
 
