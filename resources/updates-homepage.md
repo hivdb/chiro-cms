@@ -22,6 +22,21 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+
+### Database Entries (Apr 06)
+McCallum M, Bassi J, et int., and Veesler D. [“SARS-CoV-2 immune evasion by variant B.1.427/B.1.429.”](/search/?article=McCallum21b) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.31.437925](https://doi.org/10.1101/2021.03.31.437925).
+### Database Entries (Apr 06)
+de Oliveira T, Lutucuta S, et int., and Lessells RJ. [“A novel variant of interest of SARS-CoV-2 with multiple spike mutations is identified from travel surveillance in Africa.”](/search/?article=Oliviera21) _medRxiv_, 2021. [doi.org/10.1101/2021.03.30.21254323](https://doi.org/10.1101/2021.03.30.21254323).
+### Database Entries (Apr 06)
+Pandit A, Bhalani N, et int., and Kansagra K. [“Efficacy and safety of pegylated interferon alfa-2b in moderate COVID-19: A phase II, randomized, controlled, open-label study.”](/search/?article=Pandit21) _International Journal of Infectious Diseases_, 2021. [doi.org/10.1016/j.ijid.2021.03.015](https://doi.org/10.1016/j.ijid.2021.03.015). \[[PubMed33713817](https://www.ncbi.nlm.nih.gov/pubmed/33713817/)\] \[[PMC7944859](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7944859/)\]
+### Database Entries (Apr 06)
+Tegally H, Wilkinson E, et int., and de Oliveira T. [“Detection of a SARS-CoV-2 variant of concern in South Africa.”](/search/?article=Tegally21) _Nature_, 2021. [doi.org/10.1038/s41586-021-03402-9](https://doi.org/10.1038/s41586-021-03402-9). \[[PubMed33690265](https://www.ncbi.nlm.nih.gov/pubmed/33690265/)\]
+### Database Entries (Apr 06)
+Thomson EC, Rosen LE, et int., and Snell G. [“Circulating SARS-CoV-2 spike N439K variants maintain fitness while evading antibody-mediated immunity.”](/search/?article=Thomson21) _Cell_, 2021. [doi.org/10.1016/j.cell.2021.01.037](https://doi.org/10.1016/j.cell.2021.01.037). \[[PubMed33621484](https://www.ncbi.nlm.nih.gov/pubmed/33621484/)\] \[[PMC7843029](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7843029/)\]
+
+### [Clinical Trials (Apr 01)](/page/updates/#clinical.trials)
+[2 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-04-01)
+
 ### Database Entries (Apr 01)
 Hattori S, Higashi-Kuwata N, et int., and Mitsuya H. [“A small molecule compound with an indole moiety inhibits the main protease of SARS-CoV-2 and blocks virus replication.”](/search/?article=Hattori21) _Nature Communications_, 2021. [doi.org/10.1038/s41467-021-20900-6](https://doi.org/10.1038/s41467-021-20900-6). \[[PubMed33510133](https://www.ncbi.nlm.nih.gov/pubmed/33510133/)\] \[[PMC7843602](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7843602/)\]
 ### Database Entries (Apr 01)
@@ -105,15 +120,3 @@ Trinité B, Pradenas E, et int., and Blanco J. [“Previous SARS-CoV-2 infection
 Wang P, Wang M, et int., and Ho DD. [“Increased Resistance of SARS-CoV-2 Variant P.1 to Antibody Neutralization.”](/search/?article=Wang21d) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.01.433466](https://doi.org/10.1101/2021.03.01.433466).
 ### Database Entries (Mar 09)
 Wang L, Zhou T, et int., and Misasi J. [“Antibodies with potent and broad neutralizing activity against antigenically diverse and highly transmissible SARS-CoV-2 variants.”](/search/?article=Wang21e) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.25.432969](https://doi.org/10.1101/2021.02.25.432969). \[[PubMed33655252](https://www.ncbi.nlm.nih.gov/pubmed/33655252/)\] \[[PMC7924272](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7924272/)\]
-### [Clinical Trials (Mar 04)](/page/updates/#clinical.trials)
-[3 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-03-04)
-### Database Entries (Mar 03)
-Bessière P, Wasniewski M, et int., and Volmer R. [“Intranasal type I interferon treatment is beneficial only when administered before clinical signs onset in the SARS-CoV-2 hamster model.”](/search/?article=Bessiere21) _bioRxiv_, 2021. [doi.org/10.1101/2021.02.09.430458](https://doi.org/10.1101/2021.02.09.430458).
-### Database Entries (Mar 03)
-Good SS, Westover J, et int., and Sommadossi J. [“AT-527, a double prodrug of a guanosine nucleotide analog, is a potent inhibitor of SARS-CoV-2 in vitro and a promising oral antiviral for treatment of COVID-19.”](/search/?article=Good21) _Antimicrobial Agents and Chemotherapy_, 2021. [doi.org/10.1128/aac.02479-20](https://doi.org/10.1128/aac.02479-20). \[[PubMed33558299](https://www.ncbi.nlm.nih.gov/pubmed/33558299/)\]
-### Database Entries (Mar 03)
-Li Q, Nie J, et int., and Wang Y. [“No higher infectivity but immune escape of SARS-CoV-2 501Y.V2 variants.”](/search/?article=Li21c) _Cell_, 2021. [doi.org/10.1016/j.cell.2021.02.042](https://doi.org/10.1016/j.cell.2021.02.042).
-### Database Entries (Mar 03)
-Rosenke K, Hansen F, et int., and Jarvis M. [“Orally delivered MK-4482 inhibits SARS-CoV-2 replication in the Syrian hamster model.”](/search/?article=Rosenke20c) _Research square_, 2020. [doi.org/10.21203/rs.3.rs-86289/v1](https://doi.org/10.21203/rs.3.rs-86289/v1). \[[PubMed33052329](https://www.ncbi.nlm.nih.gov/pubmed/33052329/)\] \[[PMC7553153](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7553153/)\]
-### Database Entries (Mar 03)
-Wahl A, Gralinski LE, et int., and Garcia JV. [“SARS-CoV-2 infection is effectively treated and prevented by EIDD-2801.”](/search/?article=Wahl21) _Nature_, 2021. [doi.org/10.1038/s41586-021-03312-w](https://doi.org/10.1038/s41586-021-03312-w). \[[PubMed33561864](https://www.ncbi.nlm.nih.gov/pubmed/33561864/)\]
