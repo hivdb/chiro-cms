@@ -47,3 +47,9 @@ seqreads-analysis-form-placeholder: >-
 
 no-mab-susc-result: >-
   No mAb susceptibility data are available. All mAbs expected to be active.
+
+no-cp-susc-result: >-
+  No convalescent plasma/serum susceptibility data are available.
+
+no-vp-susc-result: >-
+  No susceptibility data of plasma/serum from vaccinated persons are available.
