@@ -15,29 +15,29 @@
     },
     {
         "variant": "Other individual mutations",
-        "cp": 612,
-        "ip": 476,
+        "cp": 642,
+        "ip": 517,
         "phase3": 644,
         "structure": 484
     },
     {
         "variant": "All individual mutations",
-        "cp": 848,
-        "ip": 641,
+        "cp": 878,
+        "ip": 682,
         "phase3": 744,
         "structure": 515
     },
     {
         "variant": "B.1.1.7",
-        "cp": 452,
-        "ip": 533,
+        "cp": 475,
+        "ip": 611,
         "phase3": 67,
         "structure": 26
     },
     {
         "variant": "B.1.351",
-        "cp": 382,
-        "ip": 329,
+        "cp": 412,
+        "ip": 370,
         "phase3": 61,
         "structure": 15
     },
@@ -65,14 +65,14 @@
     {
         "variant": "Other combinations of mutations",
         "cp": 581,
-        "ip": 614,
+        "ip": 651,
         "phase3": 164,
         "structure": 155
     },
     {
         "variant": "All combinations of mutations",
-        "cp": 1553,
-        "ip": 1694,
+        "cp": 1606,
+        "ip": 1850,
         "phase3": 338,
         "structure": 204
     }

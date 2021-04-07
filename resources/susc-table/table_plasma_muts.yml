@@ -478,7 +478,7 @@
 - variant: ∆69/70 + N501Y + A570D
   assays:
   - variant: ∆69/70 + N501Y + A570D
-    rx: BNT162b2
+    rx: BNT162b2_1ds
     s_fold: 15
     i_fold: 0
     r_fold: 0
@@ -486,11 +486,11 @@
     median: '0.5'
   - variant: ∆69/70 + N501Y + A570D
     rx: CP
-    s_fold: 9
-    i_fold: 1
+    s_fold: 10
+    i_fold: 0
     r_fold: 0
     reference: Collier21[^Collier21]
-    median: '1.0'
+    median: '0.8'
 - variant: ∆69/70 + N501Y + Y453F
   assays:
   - variant: ∆69/70 + N501Y + Y453F

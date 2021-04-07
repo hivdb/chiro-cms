@@ -7,11 +7,6 @@
     reference: Supasa21*[^Supasa21]
   - variant: B.1.1.7
     rx: BNT162b2
-    fold: '1.9'
-    samples: 21
-    reference: Collier21[^Collier21]
-  - variant: B.1.1.7
-    rx: BNT162b2
     fold: '2.3'
     samples: 22
     reference: Garcia-Beltran21[^Garcia-Beltran21]
@@ -35,11 +30,6 @@
     fold: '2.0'
     samples: 18
     reference: Zuckerman21*[^Zuckerman21]
-  - variant: B.1.1.7
-    rx: CP
-    fold: '4.5'
-    samples: 27
-    reference: Collier21[^Collier21]
   - variant: B.1.1.7
     rx: CP
     fold: '1.5'

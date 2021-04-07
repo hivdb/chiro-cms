@@ -8,6 +8,13 @@
     reference: Emary21*[^Emary21]
     median: '8.7'
   - variant: B.1.1.7
+    rx: BBIBP-CorV
+    s_fold: 16
+    i_fold: 0
+    r_fold: 3
+    reference: Wang21g[^Wang21g]
+    median: '0.9'
+  - variant: B.1.1.7
     rx: BNT162b2
     s_fold: 8
     i_fold: 0
@@ -78,6 +85,20 @@
     reference: Widera21*[^Widera21]
     median: '8'
   - variant: B.1.1.7
+    rx: BNT162b2_1ds
+    s_fold: 28
+    i_fold: 7
+    r_fold: 2
+    reference: Collier21[^Collier21]
+    median: '1.6'
+  - variant: B.1.1.7
+    rx: BNT162b2_2ds
+    s_fold: 18
+    i_fold: 3
+    r_fold: 0
+    reference: Collier21[^Collier21]
+    median: '2'
+  - variant: B.1.1.7
     rx: BNT162b2_W2
     s_fold: 8
     i_fold: 7
@@ -147,6 +168,13 @@
     r_fold: 0
     reference: Chen21*[^Chen21]
     median: '1.4'
+  - variant: B.1.1.7
+    rx: CP
+    s_fold: 11
+    i_fold: 8
+    r_fold: 1
+    reference: Collier21[^Collier21]
+    median: '2.7'
   - variant: B.1.1.7
     rx: CP
     s_fold: 19
@@ -226,6 +254,13 @@
     median: '1.2'
   - variant: B.1.1.7
     rx: CP
+    s_fold: 23
+    i_fold: 1
+    r_fold: 6
+    reference: Wang21g[^Wang21g]
+    median: '1'
+  - variant: B.1.1.7
+    rx: CP
     s_fold: 1
     i_fold: 2
     r_fold: 1
@@ -266,6 +301,13 @@
     r_fold: 0
     reference: Edara21*[^Edara21]
     median: '0.9'
+  - variant: B.1.1.7
+    rx: CoronaVac
+    s_fold: 12
+    i_fold: 1
+    r_fold: 9
+    reference: Wang21g[^Wang21g]
+    median: '1.6'
   - variant: B.1.1.7
     rx: IVIG
     s_fold: 6
@@ -345,6 +387,13 @@
     r_fold: 5
     reference: Zhou21b*[^Zhou21b]
     median: '7.8'
+  - variant: B.1.351
+    rx: BBIBP-CorV
+    s_fold: 5
+    i_fold: 1
+    r_fold: 13
+    reference: Wang21g[^Wang21g]
+    median: '4.2'
   - variant: B.1.351
     rx: BNT162b2
     s_fold: 1
@@ -564,6 +613,13 @@
     median: '5.6'
   - variant: B.1.351
     rx: CP
+    s_fold: 20
+    i_fold: 1
+    r_fold: 9
+    reference: Wang21g[^Wang21g]
+    median: '2.0'
+  - variant: B.1.351
+    rx: CP
     s_fold: 0
     i_fold: 2
     r_fold: 2
@@ -618,6 +674,13 @@
     r_fold: 0
     reference: Planas21[^Planas21]
     median: '2.6'
+  - variant: B.1.351
+    rx: CoronaVac
+    s_fold: 5
+    i_fold: 1
+    r_fold: 16
+    reference: Wang21g[^Wang21g]
+    median: '4.9'
   - variant: B.1.351
     rx: IVIG
     s_fold: 0
