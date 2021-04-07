@@ -515,19 +515,19 @@
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "s_fold": 4,
-                "i_fold": 4,
+                "i_fold": 5,
                 "r_fold": 1,
                 "reference": "Wang21b[^Wang21b]",
-                "median": "3.5"
+                "median": "4"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "s_fold": 0,
-                "i_fold": 5,
+                "i_fold": 6,
                 "r_fold": 4,
                 "reference": "Wang21b*[^Wang21b]",
-                "median": "9.3"
+                "median": "9.2"
             },
             {
                 "variant": "B.1.351",
@@ -986,7 +986,7 @@
                 "s_fold": 8,
                 "i_fold": 1,
                 "r_fold": 1,
-                "reference": "Wang21c[^Wang21c]",
+                "reference": "Wang21d[^Wang21d]",
                 "median": "1.9"
             },
             {
@@ -1040,7 +1040,7 @@
                 "s_fold": 12,
                 "i_fold": 7,
                 "r_fold": 1,
-                "reference": "Wang21c[^Wang21c]",
+                "reference": "Wang21d[^Wang21d]",
                 "median": "2.5"
             },
             {
@@ -1076,7 +1076,7 @@
                 "s_fold": 5,
                 "i_fold": 7,
                 "r_fold": 0,
-                "reference": "Wang21c[^Wang21c]",
+                "reference": "Wang21d[^Wang21d]",
                 "median": "3.4"
             }
         ]

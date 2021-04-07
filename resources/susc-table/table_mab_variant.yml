@@ -897,7 +897,7 @@
     rx: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.4'
-    reference: Wang21c[^Wang21c]
+    reference: Wang21d[^Wang21d]
   - variant: P.1
     rx: Imdevimab
     mab_class: RBD Core Cluster I
@@ -917,7 +917,7 @@
     rx: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '1.4'
-    reference: Wang21c[^Wang21c]
+    reference: Wang21d[^Wang21d]
   - variant: P.1
     rx: Sotrovimab
     mab_class: RBD Core Cluster I
@@ -947,7 +947,7 @@
     rx: Casirivimab
     mab_class: RBM Class I
     fold: '&gt;100'
-    reference: Wang21c[^Wang21c]
+    reference: Wang21d[^Wang21d]
   - variant: P.1
     rx: Casirivimab
     mab_class: RBM Class I
@@ -967,7 +967,7 @@
     rx: Tixagevimab
     mab_class: RBM Class I
     fold: '3.5'
-    reference: Wang21c[^Wang21c]
+    reference: Wang21d[^Wang21d]
   - variant: P.1
     rx: Tixagevimab
     mab_class: RBM Class I
@@ -987,7 +987,7 @@
     rx: Cilgavimab
     mab_class: RBM Class II
     fold: '0.4'
-    reference: Wang21c[^Wang21c]
+    reference: Wang21d[^Wang21d]
   - variant: P.1
     rx: Cilgavimab
     mab_class: RBM Class II

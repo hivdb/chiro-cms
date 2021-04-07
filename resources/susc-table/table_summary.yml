@@ -25,7 +25,7 @@
   structure: 26
 - variant: B.1.351
   cp: 382
-  ip: 327
+  ip: 329
   phase3: 61
   structure: 15
 - variant: P.1
@@ -50,6 +50,6 @@
   structure: 155
 - variant: All combinations of mutations
   cp: 1553
-  ip: 1692
+  ip: 1694
   phase3: 338
   structure: 204
