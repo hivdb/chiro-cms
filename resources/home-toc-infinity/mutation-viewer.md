@@ -12,7 +12,7 @@
   - [B.1.258, aka N439K](/page/mutation-viewer/#sec_n439k)
   - [B.1.298, aka Cluster 5](/page/mutation-viewer/#sec_cluster5)
   - [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](/page/mutation-viewer/#sec_coh-20g-501y)
-  - [COH.20G/677H, EPI_ISL_826463](/page/mutation-viewer/#sec_coh-20g-677h)
+  <!-- - [COH.20G/677H, EPI_ISL_826463](/page/mutation-viewer/#sec_coh-20g-677h) -->
   - [P.2, evolved from B.1.1.28](/page/mutation-viewer/#sec_p-2)
   - [N.9](/page/mutation-viewer/#sec_n9)
   - [A.VOI.V2](/page/mutation-viewer/#sec_a-voi-v2)

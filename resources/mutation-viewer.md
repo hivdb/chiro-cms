@@ -13,7 +13,7 @@
   - [B.1.258, aka N439K](#sec_n439k)
   - [B.1.298, aka Cluster 5](#sec_cluster5)
   - [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](#sec_coh-20g-501y)
-  - [COH.20G/677H, EPI_ISL_826463](#sec_coh-20g-677h)
+  <!-- - [COH.20G/677H, EPI_ISL_826463](#sec_coh-20g-677h) -->
   - [P.2, evolved from B.1.1.28](#sec_p-2)
   - [N.9](#sec_n9)
   - [A.VOI.V2](#sec_a-voi-v2)
@@ -286,7 +286,7 @@ coh-20g-501y
 </section>
 
 <!-- COH.20G/677H -->
-<section id="sec_coh-20g-677h" class="figure-section compact">
+<!-- <section id="sec_coh-20g-677h" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -305,7 +305,7 @@ coh-20g-677h
 
 </div>
 
-</section>
+</section> -->
 
 <!-- P.2 -->
 <section id="sec_p-2" class="figure-section compact">
