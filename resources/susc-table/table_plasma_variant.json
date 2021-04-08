@@ -739,6 +739,15 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "s_fold": 0,
+                "i_fold": 4,
+                "r_fold": 7,
+                "reference": "Shen21b[^Shen21b]",
+                "median": "19"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP",
                 "s_fold": 1,
                 "i_fold": 1,
                 "r_fold": 7,
@@ -900,6 +909,24 @@
             },
             {
                 "variant": "B.1.351",
+                "rx": "NVV",
+                "s_fold": 0,
+                "i_fold": 7,
+                "r_fold": 15,
+                "reference": "Shen21b[^Shen21b]",
+                "median": "13"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "mRNA-1273",
+                "s_fold": 1,
+                "i_fold": 13,
+                "r_fold": 12,
+                "reference": "Shen21b[^Shen21b]",
+                "median": "9.1"
+            },
+            {
+                "variant": "B.1.351",
                 "rx": "mRNA-1273",
                 "s_fold": 1,
                 "i_fold": 8,
@@ -969,6 +996,15 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "CP",
+                "s_fold": 7,
+                "i_fold": 7,
+                "r_fold": 0,
+                "reference": "Shen21b[^Shen21b]",
+                "median": "3.1"
+            },
+            {
+                "variant": "B.1.427/9",
+                "rx": "CP",
                 "s_fold": 6,
                 "i_fold": 2,
                 "r_fold": 0,
@@ -983,6 +1019,15 @@
                 "r_fold": 0,
                 "reference": "Tang21[^Tang21]",
                 "median": "1.5"
+            },
+            {
+                "variant": "B.1.427/9",
+                "rx": "NVV",
+                "s_fold": 15,
+                "i_fold": 8,
+                "r_fold": 0,
+                "reference": "Shen21b[^Shen21b]",
+                "median": "2.3"
             },
             {
                 "variant": "B.1.427/9",
@@ -1010,6 +1055,15 @@
                 "r_fold": 3,
                 "reference": "McCallum21b[^McCallum21b]",
                 "median": "2.6"
+            },
+            {
+                "variant": "B.1.427/9",
+                "rx": "mRNA-1273",
+                "s_fold": 20,
+                "i_fold": 6,
+                "r_fold": 0,
+                "reference": "Shen21b[^Shen21b]",
+                "median": "2.3"
             }
         ]
     },

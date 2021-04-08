@@ -26,6 +26,11 @@
     },
     {
         "mutation": "E484K",
+        "rx_name": "Cilgavimab/Tixagevimab",
+        "escape_score": 0.011
+    },
+    {
+        "mutation": "E484K",
         "rx_name": "Etesevimab",
         "escape_score": 0.001
     },
@@ -63,6 +68,11 @@
         "mutation": "K417N",
         "rx_name": "Cilgavimab",
         "escape_score": 0.001
+    },
+    {
+        "mutation": "K417N",
+        "rx_name": "Cilgavimab/Tixagevimab",
+        "escape_score": 0.002
     },
     {
         "mutation": "K417N",
@@ -106,6 +116,11 @@
     },
     {
         "mutation": "L452R",
+        "rx_name": "Cilgavimab/Tixagevimab",
+        "escape_score": 0.004
+    },
+    {
+        "mutation": "L452R",
         "rx_name": "Etesevimab",
         "escape_score": 0.001
     },
@@ -143,6 +158,11 @@
         "mutation": "N501Y",
         "rx_name": "Cilgavimab",
         "escape_score": 0.003
+    },
+    {
+        "mutation": "N501Y",
+        "rx_name": "Cilgavimab/Tixagevimab",
+        "escape_score": 0.002
     },
     {
         "mutation": "N501Y",

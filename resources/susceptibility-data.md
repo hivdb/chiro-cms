@@ -120,26 +120,32 @@ Studies:
 - **Hu21**: [^Hu21#inline]
 - **Jangra21**: [^Jangra21#inline]
 - **Kemp21**: [^Kemp21#inline]
+- **Kuzmina21**: [^Kuzmina21#inline]
 - **Liu21**: [^Liu21#inline]
 - **Liu21b**: [^Liu21b#inline]
 - **Madhi21**: [^Madhi21#inline]
 - **Marot21**: [^Marot21#inline]
+- **McCallum21b**: [^McCallum21b#inline]
 - **Moyo-Gwete21**: [^Moyo-Gwete21#inline]
 - **Muik21**: [^Muik21#inline]
 - **Planas21**: [^Planas21#inline]
 - **Rees-Spear21**: [^Rees-Spear21#inline]
 - **Shen21**: [^Shen21#inline]
+<!-- - **Shen21b**: [^Shen21b#inline] -->
+- **Skelly21**: [^Skelly21#inline]
 - **Tada21**: [^Tada21#inline]
 - **Tang21**: [^Tang21#inline]
 - **Wang21**: [^Wang21#inline]
 - **Wang21b**: [^Wang21b#inline]
 - **Wang21c**: [^Wang21c#inline]
 - **Wang21f**: [^Wang21f#inline]
+<!-- - **Wang21g**: [^Wang21g#inline] -->
 - **Wibmer21**: [^Wibmer21#inline]
 - **Widera21**: [^Widera21#inline]
 - **Wu21**: [^Wu21#inline]
 - **Xie21b**: [^Xie21b#inline]
 - **Zhou21b**: [^Zhou21b#inline]
+- **Zuckerman21**: [^Zuckerman21#inline]
 
 </div>
 
