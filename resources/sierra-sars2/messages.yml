@@ -3,16 +3,18 @@ pattern-analysis-form-title: >- # Warning: title doesn't support markdown
 
 pattern-analysis-form-desc: |-
   Mutations of each SARS-CoV-2 gene, Spike, RdRP, nsp1-10 (include PLpro and
-  3CLpro), nsp13-16, ORF3a, E, M, ORF6, ORF7a, ORF8, N and ORF10, can be entered
-  using the text box. To use the text box, type or paste mutations separated by
-  one or more spaces. The mutation should start with its gene's name and a colon
-  followed.  The reference wildtype and separating commas are optional. If there
-  is a mixture of more than one amino acid at a position, write both amino amino
-  acids (an intervening slash is optional). Insertions should be indicated by
-  “ins” and deletions by “del”.
+  3CLpro), nsp13-16, ORF3a, E, M, ORF6, ORF7a, ORF8, N and ORF10, can be
+  entered using the text box. To use the text box, type or paste mutations
+  separated by one or more spaces. The mutation should start with its gene's
+  name and a colon followed. For Spike protein, the gene's name and the colon
+  is optional. The reference wildtype and separating commas are optional. If
+  there is a mixture of more than one amino acid at a position, write both
+  amino amino acids (an intervening slash is optional). Insertions should be
+  indicated by “ins” and deletions by “del”.
 
   Mutation format examples:
 
+  - a Spike mutation: 452R, N501Y
   - a pure mutation: S:E484K, RdRP:323L
   - a mixture mutation: S:614DG
   - a deletion: nsp6:S106del
