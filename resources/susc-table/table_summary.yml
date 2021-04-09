@@ -1,55 +1,70 @@
 - variant: N501Y
   cp: 148
-  ip: 116
+  vp: 116
   phase3: 51
   structure: 17
 - variant: E484K
   cp: 88
-  ip: 57
+  vp: 57
   phase3: 58
   structure: 16
+- variant: K417N
+  cp: 63
+  vp: 71
+  phase3: 38
+  structure: 14
+- variant: K417T
+  cp: 24
+  vp: 0
+  phase3: 3
+  structure: 3
+- variant: L452R
+  cp: 2
+  vp: 0
+  phase3: 14
+  structure: 5
 - variant: Other individual mutations
-  cp: 642
-  ip: 517
-  phase3: 644
-  structure: 484
+  cp: 553
+  vp: 446
+  phase3: 593
+  structure: 462
 - variant: All individual mutations
   cp: 878
-  ip: 682
+  vp: 682
   phase3: 744
   structure: 515
 - variant: B.1.1.7
   cp: 475
-  ip: 611
+  vp: 611
   phase3: 67
   structure: 26
 - variant: B.1.351
   cp: 423
-  ip: 418
+  vp: 418
   phase3: 61
   structure: 15
 - variant: P.1
   cp: 106
-  ip: 144
+  vp: 144
   phase3: 25
   structure: 3
 - variant: B.1.427/9
   cp: 46
-  ip: 115
+  vp: 115
   phase3: 9
   structure: 3
 - variant: B.1.526
   cp: 0
-  ip: 0
+  vp: 0
   phase3: 3
   structure: 0
 - variant: Other combinations of mutations
   cp: 581
-  ip: 651
+  vp: 651
   phase3: 164
   structure: 155
 - variant: All combinations of mutations
   cp: 1631
-  ip: 1947
+  vp: 1947
   phase3: 338
   structure: 204

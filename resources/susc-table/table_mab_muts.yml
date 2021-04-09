@@ -11,12 +11,12 @@
     fold: '2.5'
     reference: Wang21b[^Wang21b]
   - variant: E484K
-    rx: Bamlanivimab+Etesevimab
+    rx: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '17'
     reference: FDA21[^FDA21]
   - variant: E484K
-    rx: C135+C144
+    rx: C135/C144
     mab_class: ''
     fold: '2.2'
     reference: Wang21[^Wang21]
@@ -31,42 +31,42 @@
     fold: '&gt;100'
     reference: Yuan21[^Yuan21]
   - variant: E484K
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1.9'
     reference: Baum20[^Baum20]
   - variant: E484K
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1.6'
     reference: Copin21[^Copin21]
   - variant: E484K
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
     reference: FDA21[^FDA21]
   - variant: E484K
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1.5'
     reference: Wang21[^Wang21]
   - variant: E484K
-    rx: Cilgavimab+Tixagevimab
+    rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '1.4'
     reference: Wang21[^Wang21]
   - variant: E484K
-    rx: Cilgavimab+Tixagevimab
+    rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '3.2'
     reference: Chen21[^Chen21]
   - variant: E484K
-    rx: Imdevimab+REGN10989
+    rx: Imdevimab/REGN10989
     mab_class: ''
     fold: '15'
     reference: Baum20[^Baum20]
   - variant: E484K
-    rx: S2E12+Vir-7831
+    rx: S2E12/Vir-7831
     mab_class: ''
     fold: '6.9'
     reference: Chen21[^Chen21]
@@ -358,12 +358,12 @@
 - variant: E484K + N501Y
   assays:
   - variant: E484K + N501Y
-    rx: Cilgavimab+Tixagevimab
+    rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '2'
     reference: Chen21[^Chen21]
   - variant: E484K + N501Y
-    rx: S2E12+Vir-7831
+    rx: S2E12/Vir-7831
     mab_class: ''
     fold: '11'
     reference: Chen21[^Chen21]
@@ -390,17 +390,17 @@
 - variant: F490S
   assays:
   - variant: F490S
-    rx: Bamlanivimab+Etesevimab
+    rx: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '1'
     reference: FDA21[^FDA21]
   - variant: F490S
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
     reference: Baum20[^Baum20]
   - variant: F490S
-    rx: Imdevimab+REGN10989
+    rx: Imdevimab/REGN10989
     mab_class: ''
     fold: '5.4'
     reference: Baum20[^Baum20]
@@ -482,12 +482,12 @@
     fold: '0.2'
     reference: Wang21b[^Wang21b]
   - variant: K417N
-    rx: Bamlanivimab+Etesevimab
+    rx: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '1'
     reference: FDA21[^FDA21]
   - variant: K417N
-    rx: C135+C144
+    rx: C135/C144
     mab_class: ''
     fold: '0.5'
     reference: Wang21[^Wang21]
@@ -497,22 +497,22 @@
     fold: '&gt;100'
     reference: Yuan21[^Yuan21]
   - variant: K417N
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '0.8'
     reference: Wang21[^Wang21]
   - variant: K417N
-    rx: Cilgavimab+Tixagevimab
+    rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '0.5'
     reference: Chen21[^Chen21]
   - variant: K417N
-    rx: Cilgavimab+Tixagevimab
+    rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '0.3'
     reference: Wang21[^Wang21]
   - variant: K417N
-    rx: S2E12+Vir-7831
+    rx: S2E12/Vir-7831
     mab_class: ''
     fold: '0.2'
     reference: Chen21[^Chen21]
@@ -719,37 +719,37 @@
 - variant: K417N + E484K + N501Y
   assays:
   - variant: K417N + E484K + N501Y
-    rx: Bamlanivimab+Etesevimab
+    rx: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '45'
     reference: FDA21[^FDA21]
   - variant: K417N + E484K + N501Y
-    rx: C135+C144
+    rx: C135/C144
     mab_class: ''
     fold: '1'
     reference: Wang21[^Wang21]
   - variant: K417N + E484K + N501Y
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
     reference: FDA21[^FDA21]
   - variant: K417N + E484K + N501Y
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '0.7'
     reference: Wang21[^Wang21]
   - variant: K417N + E484K + N501Y
-    rx: Cilgavimab+Tixagevimab
+    rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '1'
     reference: Chen21[^Chen21]
   - variant: K417N + E484K + N501Y
-    rx: Cilgavimab+Tixagevimab
+    rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '0.8'
     reference: Wang21[^Wang21]
   - variant: K417N + E484K + N501Y
-    rx: S2E12+Vir-7831
+    rx: S2E12/Vir-7831
     mab_class: ''
     fold: '0.9'
     reference: Chen21[^Chen21]
@@ -886,17 +886,17 @@
 - variant: L452R
   assays:
   - variant: L452R
-    rx: Bamlanivimab+Etesevimab
+    rx: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '7.4'
     reference: FDA21[^FDA21]
   - variant: L452R
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1.2'
     reference: Copin21[^Copin21]
   - variant: L452R
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
     reference: FDA21[^FDA21]
@@ -983,12 +983,12 @@
 - variant: N439K
   assays:
   - variant: N439K
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
     reference: FDA21[^FDA21]
   - variant: N439K
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1.7'
     reference: Starr21[^Starr21]
@@ -1160,42 +1160,42 @@
     fold: '1'
     reference: Wang21b[^Wang21b]
   - variant: N501Y
-    rx: Bamlanivimab+Etesevimab
+    rx: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '1'
     reference: FDA21[^FDA21]
   - variant: N501Y
-    rx: C135+C144
+    rx: C135/C144
     mab_class: ''
     fold: '1'
     reference: Wang21[^Wang21]
   - variant: N501Y
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1.1'
     reference: Copin21[^Copin21]
   - variant: N501Y
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
     reference: FDA21[^FDA21]
   - variant: N501Y
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '0.8'
     reference: Wang21[^Wang21]
   - variant: N501Y
-    rx: Cilgavimab+Tixagevimab
+    rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '1.2'
     reference: Chen21[^Chen21]
   - variant: N501Y
-    rx: Cilgavimab+Tixagevimab
+    rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '0.7'
     reference: Wang21[^Wang21]
   - variant: N501Y
-    rx: S2E12+Vir-7831
+    rx: S2E12/Vir-7831
     mab_class: ''
     fold: '1.9'
     reference: Chen21[^Chen21]
@@ -1472,17 +1472,17 @@
 - variant: S494P
   assays:
   - variant: S494P
-    rx: Bamlanivimab+Etesevimab
+    rx: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '1'
     reference: FDA21[^FDA21]
   - variant: S494P
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1.1'
     reference: Copin21[^Copin21]
   - variant: S494P
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
     reference: FDA21[^FDA21]
@@ -1584,12 +1584,12 @@
 - variant: Y453F
   assays:
   - variant: Y453F
-    rx: Casirivimab+Imdevimab
+    rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '3.5'
     reference: Baum20[^Baum20]
   - variant: Y453F
-    rx: Imdevimab+REGN10989
+    rx: Imdevimab/REGN10989
     mab_class: ''
     fold: '2'
     reference: Baum20[^Baum20]
@@ -1980,17 +1980,17 @@
 - variant: ∆69/70 + N501Y
   assays:
   - variant: ∆69/70 + N501Y
-    rx: Bamlanivimab+Etesevimab
+    rx: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '1'
     reference: FDA21[^FDA21]
   - variant: ∆69/70 + N501Y
-    rx: Cilgavimab+Tixagevimab
+    rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '1.4'
     reference: Chen21[^Chen21]
   - variant: ∆69/70 + N501Y
-    rx: S2E12+Vir-7831
+    rx: S2E12/Vir-7831
     mab_class: ''
     fold: '1.1'
     reference: Chen21[^Chen21]

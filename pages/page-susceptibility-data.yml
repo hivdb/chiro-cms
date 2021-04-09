@@ -103,7 +103,7 @@ tables:
       label: Mutations
     - name: cp
       label: Convalescent plasma
-    - name: ip
+    - name: vp
       label: Vaccination plasma
     - name: phase3
       label: mAbs in phase 3 trials
