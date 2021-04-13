@@ -78,7 +78,16 @@ Instruction:
 
 ## Database Entries
 ### April 2021
-
+### April 2021
+- April 11
+    - Chen L, Zody MC, et int., and Kreiswirth BN. [“Emergence of multiple SARS-CoV-2 antibody escape variants in an immunocompromised host undergoing convalescent plasma treatment.”](/search/?article=Chen21b) _medRxiv_, 2021. [doi.org/10.1101/2021.04.08.21254791](https://doi.org/10.1101/2021.04.08.21254791).
+    - Greaney AJ, Starr TN, et int., and Bloom JD. [“Mutational escape from the polyclonal antibody response to SARS-CoV-2 infection is largely shaped by a single class of antibodies.”](/search/?article=Greaney21b) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.17.435863](https://doi.org/10.1101/2021.03.17.435863). \[[PubMed33758856](https://www.ncbi.nlm.nih.gov/pubmed/33758856/)\] \[[PMC7987015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7987015/)\]
+    - Maisonnasse P, Aldon Y, et int., and Grand RL. [“COVA1-18 neutralizing antibody protects against SARS-CoV-2 in three preclinical models.”](/search/?article=Maisonnasse21) _Research Square_, 2021. [doi.org/10.21203/rs.3.rs-235272/v1](https://doi.org/10.21203/rs.3.rs-235272/v1). \[[PubMed33619476](https://www.ncbi.nlm.nih.gov/pubmed/33619476/)\] \[[PMC7899470](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7899470/)\]
+    - Shen X, Tang H, et int., and Montefiori DC. [“Neutralization of SARS-CoV-2 Variants B.1.429 and B.1.351.”](/search/?article=Shen21b) _New England Journal of Medicine_, 2021. [doi.org/10.1056/NEJMc2103740](https://doi.org/10.1056/NEJMc2103740). \[[PubMed33826819](https://www.ncbi.nlm.nih.gov/pubmed/33826819/)\]
+    - Starr TN, Greaney AJ, et int., and Bloom JD. [“Complete map of SARS-CoV-2 RBD mutations that escape the monoclonal antibody LY-CoV555 and its cocktail with LY-CoV016.”](/search/?article=Starr21b) _Cell Reports Medicine_, 2021. [doi.org/10.1016/j.xcrm.2021.100255](https://doi.org/10.1016/j.xcrm.2021.100255).
+    - Suryadevara N, Shrihari S, et int., and Crowe JE. [“Neutralizing and protective human monoclonal antibodies recognizing the N-terminal domain of the SARS-CoV-2 spike protein.”](/search/?article=Suryadevara21) _Cell_, 2021. [doi.org/10.1016/j.cell.2021.03.029](https://doi.org/10.1016/j.cell.2021.03.029). \[[PubMed33773105](https://www.ncbi.nlm.nih.gov/pubmed/33773105/)\] \[[PMC7962591](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7962591/)\]
+    - Wang G, Wang Z, et int., and Ma M. [“Susceptibility of Circulating SARS-CoV-2 Variants to Neutralization.”](/search/?article=Wang21g) _New England Journal of Medicine_, 2021. [doi.org/10.1056/NEJMc2103022](https://doi.org/10.1056/NEJMc2103022). \[[PubMed33822491](https://www.ncbi.nlm.nih.gov/pubmed/33822491/)\]
+    - Wettstein L, Weil T, et int., and Münch J. [“Alpha-1 antitrypsin inhibits TMPRSS2 protease activity and SARS-CoV-2 infection.”](/search/?article=Wettstein21) _Nature Communications_, 2021. [doi.org/10.1038/s41467-021-21972-0](https://doi.org/10.1038/s41467-021-21972-0). \[[PubMed33741941](https://www.ncbi.nlm.nih.gov/pubmed/33741941/)\]
 - April 06
     - Annavajhala MK, Mohri H, et int., and Uhlemann A. [“A Novel SARS-CoV-2 Variant of Concern, B.1.526, Identified in New York.”](/search/?article=Annavajhala21) _medRxiv_, 2021. [doi.org/10.1101/2021.02.23.21252259](https://doi.org/10.1101/2021.02.23.21252259). \[[PubMed33655278](https://www.ncbi.nlm.nih.gov/pubmed/33655278/)\] \[[PMC7924303](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7924303/)\]
     - Bascos NAD, Mirano-Bascos D, and Saloma CP. [“Structural Analysis of Spike Protein Mutations in the SARS-CoV-2 P.3 Variant.”](/search/?article=Bascos21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.06.434059](https://doi.org/10.1101/2021.03.06.434059).
@@ -956,6 +965,9 @@ Instruction:
 (Studies in CoV-RDB originally published as preprints)
 
 ### April 2021
+- April 13
+    - Moyo-Gwete T, Madzivhandila M, et int., and Moore PL. [“Cross-Reactive Neutralizing Antibody Responses Elicited by SARS-CoV-2 501Y.V2 (B.1.351).”](/search/?article=Moyo-Gwete21) _New England Journal of Medicine_, 2021. [doi.org/10.1056/nejmc2104192](https://doi.org/10.1056/nejmc2104192). \[[PubMed33826816](https://www.ncbi.nlm.nih.gov/pubmed/33826816/)\]
+- April 6
     - Cele S, Gazy I, et int., and Sigal A. [“Escape of SARS-CoV-2 501Y.V2 from neutralization by convalescent plasma.”](/search/?article=Cele21) _Nature_, 2021. [doi.org/10.1038/s41586-021-03471-w](https://doi.org/10.1038/s41586-021-03471-w). \[[PubMed33780970](https://www.ncbi.nlm.nih.gov/pubmed/33780970/)\]
     - Chen RE, Zhang X, et int., and Diamond MS. [“Resistance of SARS-CoV-2 variants to neutralization by monoclonal and serum-derived polyclonal antibodies.”](/search/?article=Chen21) _Nature Medicine_, 2021. [doi.org/10.1038/s41591-021-01294-w](https://doi.org/10.1038/s41591-021-01294-w). \[[PubMed33664494](https://www.ncbi.nlm.nih.gov/pubmed/33664494/)\]
     - Collier DA, De Marco A, et int., and Gupta RK. [“Sensitivity of SARS-CoV-2 B.1.1.7 to mRNA vaccine-elicited antibodies.”](/search/?article=Collier21) _Nature_, 2021. [doi.org/10.1038/s41586-021-03412-7](https://doi.org/10.1038/s41586-021-03412-7). \[[PubMed33706364](https://www.ncbi.nlm.nih.gov/pubmed/33706364/)\]
@@ -1184,6 +1196,20 @@ Instruction:
 <!-- start of clinical trials -->
 
 ## Clinical Trials
+### April 2021
+- April 08
+    - [7 clinical trials were added.](/clinical-trials/?fromDate=2021-04-08)
+    - NCT04834089
+    - NCT04834115
+    - NCT04834856
+    - NCT04834908
+    - NCT04836260
+    - NCT04836299
+    - NCT04838821
+- April 01
+    - [2 clinical trials were added.](/clinical-trials/?fromDate=2021-04-01)
+    - NCT04822701
+    - NCT04828161
 
 ### March 2021
 - March 25
