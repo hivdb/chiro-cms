@@ -11,7 +11,7 @@
   - [P.3, aka PHL-B.1.1.28](#sec_phl-b-1-1-28)
   - [EPI_ISL_1360318, S:E484Q+L452R (India)](#sec_e484q)
   - [B.1.258, aka N439K](#sec_n439k)
-  - [B.1.298, aka Cluster 5](#sec_cluster5)
+  - [B.1.1.298, aka Cluster 5](#sec_cluster5)
   - [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](#sec_coh-20g-501y)
   <!-- - [COH.20G/677H, EPI_ISL_826463](#sec_coh-20g-677h) -->
   - [P.2, evolved from B.1.1.28](#sec_p-2)
@@ -250,7 +250,7 @@ n439k
 
 <div class="figure-caption">
 
-### [B.1.298, aka Cluster 5](#sec_cluster5)
+### [B.1.1.298, aka Cluster 5](#sec_cluster5)
 Lassaunière R, Fonager J, et int., and Fomsgaard A. “SARS-CoV-2 spike mutations arising in Danish mink and their spread to humans.” Statens Serum Institut, 2020. [^Lassauniere20]
 
 </div>
