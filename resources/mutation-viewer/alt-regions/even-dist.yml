@@ -18,7 +18,7 @@ regions:
   posEnd: 265
   shapeType: line
   labelPostion: above
-- gene: nsp1
+- name: nsp1
   label: ""
   posStart: 266
   posEnd: 805
@@ -27,89 +27,89 @@ regions:
     color: '#505050'
   shapeType: rect
   labelPosition: above
-- gene: nsp2
+- name: nsp2
   label: nsp2
   posStart: 806
   posEnd: 2719
   <<: *gray-region
   shapeType: rect
-- gene: PLpro
+- name: PLpro
   label: PL
   posStart: 2720
   posEnd: 8554
   fill: '#cab2d6'
   color: '#6a3d9a'
   shapeType: rect
-- gene: nsp4
+- name: nsp4
   label: nsp4
   posStart: 8555
   posEnd: 10054
   <<: *gray-region
   shapeType: rect
-- gene: _3CLpro
+- name: _3CLpro
   label: 3CL
   posStart: 10055
   posEnd: 10972
   fill: '#fdbf6f'
   color: '#ff7f00'
   shapeType: rect
-- gene: nsp6
+- name: nsp6
   label: nsp6
   posStart: 10973
   posEnd: 11842
   <<: *gray-region
   shapeType: rect
-- gene: nsp7
+- name: nsp7
   label: ""
   posStart: 11843
   posEnd: 12091
   <<: *gray-region
   shapeType: rect
-- gene: nsp8
+- name: nsp8
   label: ""
   posStart: 12092
   posEnd: 12685
   <<: *gray-region
   shapeType: rect
   labelPosition: above
-- gene: nsp9
+- name: nsp9
   label: ""
   posStart: 12686
   posEnd: 13024
   <<: *gray-region
   shapeType: rect
-- gene: nsp10
+- name: nsp10
   label: ""
   posStart: 13025
   posEnd: 13441
   <<: *gray-region
   shapeType: rect
-- gene: RdRP
+- name: RdRP
   label: RdRP
   posStart: 13442
   posEnd: 16236
   fill: '#a6cee3'
   color: '#1f78b4'
   shapeType: rect
-- gene: nsp13
+- name: nsp13
   label: nsp13
   posStart: 16237
   posEnd: 18039
   <<: *gray-region
   shapeType: rect
-- gene: nsp14
+- name: nsp14
   label: nsp14
   posStart: 18040
   posEnd: 19620
   <<: *gray-region
   shapeType: rect
-- gene: nsp15
+- name: nsp15
   label: nsp15
   posStart: 19621
   posEnd: 20658
   <<: *gray-region
   shapeType: rect
-- gene: nsp16
+- name: nsp16
   label: ""
   posStart: 20659
   posEnd: 21552
