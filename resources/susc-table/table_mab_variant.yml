@@ -1,6 +1,46 @@
 - variant: B.1.1.7
   assays:
   - variant: B.1.1.7
+    rx: 1-57
+    mab_class: ''
+    fold: '0.5'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.1.7
+    rx: 1-57
+    mab_class: ''
+    fold: '1.5'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.1.7
+    rx: 2-15
+    mab_class: ''
+    fold: '0.5'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.1.7
+    rx: 2-15
+    mab_class: ''
+    fold: '3'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.1.7
+    rx: 2-7
+    mab_class: ''
+    fold: '0.7'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.1.7
+    rx: 2-7
+    mab_class: ''
+    fold: '0.7'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.1.7
+    rx: 910-30
+    mab_class: ''
+    fold: '14'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.1.7
+    rx: 910-30
+    mab_class: ''
+    fold: '10'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.1.7
     rx: ADG20
     mab_class: ''
     fold: '1.4'
@@ -86,7 +126,17 @@
     fold: '1'
     reference: Wang21b*[^Wang21b]
   - variant: B.1.1.7
-    rx: S2E12/Vir-7831
+    rx: DH1041
+    mab_class: ''
+    fold: '1.6'
+    reference: Shen21[^Shen21]
+  - variant: B.1.1.7
+    rx: S2E11
+    mab_class: ''
+    fold: '0.6'
+    reference: Collier21[^Collier21]
+  - variant: B.1.1.7
+    rx: Vir-7831/S2E12
     mab_class: ''
     fold: '0.7'
     reference: Chen21*[^Chen21]
@@ -97,6 +147,16 @@
     reference: Wang21b[^Wang21b]
   - variant: B.1.1.7
     rx: 4A8
+    mab_class: NTD
+    fold: '&gt;100'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.1.7
+    rx: 5-24
+    mab_class: NTD
+    fold: '&gt;100'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.1.7
+    rx: 5-24
     mab_class: NTD
     fold: '&gt;100'
     reference: Wang21b*[^Wang21b]
@@ -156,42 +216,42 @@
     fold: '1'
     reference: Wang21b*[^Wang21b]
   - variant: B.1.1.7
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '2.3'
     reference: Cathcart21[^Cathcart21]
   - variant: B.1.1.7
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '2.5'
     reference: Wang21b[^Wang21b]
   - variant: B.1.1.7
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '0.5'
     reference: Wang21f[^Wang21f]
   - variant: B.1.1.7
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '3.1'
     reference: Wang21b[^Wang21b]
   - variant: B.1.1.7
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '&gt;100'
     reference: Shen21[^Shen21]
   - variant: B.1.1.7
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '1.5'
     reference: Supasa21*[^Supasa21]
   - variant: B.1.1.7
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '4'
     reference: Wang21b*[^Wang21b]
   - variant: B.1.1.7
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '13'
     reference: Chen21*[^Chen21]
@@ -433,6 +493,46 @@
 - variant: B.1.351
   assays:
   - variant: B.1.351
+    rx: 1-57
+    mab_class: ''
+    fold: '0.3'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.351
+    rx: 1-57
+    mab_class: ''
+    fold: '5.2'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.351
+    rx: 2-15
+    mab_class: ''
+    fold: '&gt;100'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.351
+    rx: 2-15
+    mab_class: ''
+    fold: '&gt;100'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.351
+    rx: 2-7
+    mab_class: ''
+    fold: '0.8'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.351
+    rx: 2-7
+    mab_class: ''
+    fold: '0.9'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.351
+    rx: 910-30
+    mab_class: ''
+    fold: '&gt;100'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.351
+    rx: 910-30
+    mab_class: ''
+    fold: '&gt;100'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.351
     rx: ADG20
     mab_class: ''
     fold: '2.5'
@@ -518,7 +618,7 @@
     fold: '12'
     reference: Wang21b*[^Wang21b]
   - variant: B.1.351
-    rx: S2E12/Vir-7831
+    rx: Vir-7831/S2E12
     mab_class: ''
     fold: '0.6'
     reference: Chen21*[^Chen21]
@@ -529,6 +629,16 @@
     reference: Wang21b[^Wang21b]
   - variant: B.1.351
     rx: 4A8
+    mab_class: NTD
+    fold: '&gt;100'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.351
+    rx: 5-24
+    mab_class: NTD
+    fold: '&gt;100'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.351
+    rx: 5-24
     mab_class: NTD
     fold: '&gt;100'
     reference: Wang21b*[^Wang21b]
@@ -583,32 +693,32 @@
     fold: '3.5'
     reference: Wang21b*[^Wang21b]
   - variant: B.1.351
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '0.6'
     reference: Cathcart21[^Cathcart21]
   - variant: B.1.351
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '0.8'
     reference: Wang21b[^Wang21b]
   - variant: B.1.351
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '0.5'
     reference: Wang21f[^Wang21f]
   - variant: B.1.351
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '1'
     reference: Chen21*[^Chen21]
   - variant: B.1.351
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '2.2'
     reference: Wang21b*[^Wang21b]
   - variant: B.1.351
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '2'
     reference: Zhou21b*[^Zhou21b]
@@ -790,17 +900,12 @@
     fold: '1'
     reference: FDA21[^FDA21]
   - variant: B.1.427/9
-    rx: Regdanvimab
-    mab_class: ''
-    fold: '14'
-    reference: McCallum21b[^McCallum21b]
-  - variant: B.1.427/9
     rx: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '2.1'
     reference: McCallum21b[^McCallum21b]
   - variant: B.1.427/9
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '0.8'
     reference: McCallum21b[^McCallum21b]
@@ -813,6 +918,11 @@
     rx: Etesevimab
     mab_class: RBM Class I
     fold: '5.5'
+    reference: McCallum21b[^McCallum21b]
+  - variant: B.1.427/9
+    rx: Regdanvimab
+    mab_class: RBM Class I
+    fold: '14'
     reference: McCallum21b[^McCallum21b]
   - variant: B.1.427/9
     rx: S2E12
@@ -859,6 +969,16 @@
 - variant: P.1
   assays:
   - variant: P.1
+    rx: 1-57
+    mab_class: ''
+    fold: '1.2'
+    reference: Wang21d[^Wang21d]
+  - variant: P.1
+    rx: 2-7
+    mab_class: ''
+    fold: '0.8'
+    reference: Wang21d[^Wang21d]
+  - variant: P.1
     rx: ADG20
     mab_class: ''
     fold: '2.2'
@@ -883,6 +1003,11 @@
     mab_class: NTD
     fold: '7.9'
     reference: Wang21f[^Wang21f]
+  - variant: P.1
+    rx: 5-24
+    mab_class: NTD
+    fold: '1'
+    reference: Wang21d[^Wang21d]
   - variant: P.1
     rx: Imdevimab
     mab_class: RBD Core Cluster I
@@ -909,22 +1034,22 @@
     fold: '0.4'
     reference: Dejnirattisai21*[^Dejnirattisai21]
   - variant: P.1
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '0.4'
     reference: Cathcart21[^Cathcart21]
   - variant: P.1
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '1.4'
     reference: Wang21d[^Wang21d]
   - variant: P.1
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '0.7'
     reference: Wang21f[^Wang21f]
   - variant: P.1
-    rx: Sotrovimab
+    rx: Vir-7831
     mab_class: RBD Core Cluster I
     fold: '1.9'
     reference: Dejnirattisai21*[^Dejnirattisai21]

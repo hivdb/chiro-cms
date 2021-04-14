@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cp ../covid-drdb-reports/susceptibility-data_files/table/*.json ./resources/susc-table/
+cp ../covid-drdb-reports/report_tables/*.json ./resources/susc-table/
 
 FOLDER=./resources/susc-table
 

@@ -25,11 +25,3 @@ table_plasma_muts
 **Footnote:**
 
 “\*”: The study is using authentic virus assay.
-
-### Addtional data
-
-Original data from these studies are aggregated results (mean value or median value) rather than individual result.
-
-[table]
-table_plasma_muts_aggre
-[/table]

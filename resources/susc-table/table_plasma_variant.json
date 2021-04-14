@@ -5,6 +5,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "AZD1222",
+                "samples": 49,
                 "s_fold": 3,
                 "i_fold": 23,
                 "r_fold": 23,
@@ -13,7 +14,18 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "AZD1222",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Supasa21*[^Supasa21]",
+                "median": "2.1"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "BBIBP-CorV",
+                "samples": 19,
                 "s_fold": 16,
                 "i_fold": 0,
                 "r_fold": 3,
@@ -23,6 +35,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "samples": 8,
                 "s_fold": 8,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -32,6 +45,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "samples": 9,
                 "s_fold": 8,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -41,6 +55,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "samples": 24,
                 "s_fold": 20,
                 "i_fold": 4,
                 "r_fold": 0,
@@ -50,6 +65,17 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "samples": 22,
+                "s_fold": 22,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
+                "median": "2.3"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 15,
                 "s_fold": 15,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -59,6 +85,17 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Kuzmina21[^Kuzmina21]",
+                "median": "1.0"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 26,
                 "s_fold": 16,
                 "i_fold": 10,
                 "r_fold": 0,
@@ -68,6 +105,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "samples": 13,
                 "s_fold": 12,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -77,6 +115,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "samples": 40,
                 "s_fold": 40,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -86,6 +125,27 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "samples": 25,
+                "s_fold": 25,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Skelly21[^Skelly21]",
+                "median": "2.0"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 25,
+                "s_fold": 0,
+                "i_fold": 25,
+                "r_fold": 0,
+                "reference": "Supasa21*[^Supasa21]",
+                "median": "3.3"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 10,
                 "s_fold": 9,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -95,6 +155,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "samples": 10,
                 "s_fold": 10,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -104,6 +165,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "samples": 3,
                 "s_fold": 0,
                 "i_fold": 2,
                 "r_fold": 1,
@@ -112,7 +174,18 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 18,
+                "s_fold": 18,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Zuckerman21*[^Zuckerman21]",
+                "median": "2.0"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "BNT162b2_1ds",
+                "samples": 37,
                 "s_fold": 28,
                 "i_fold": 7,
                 "r_fold": 2,
@@ -122,6 +195,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2_2ds",
+                "samples": 21,
                 "s_fold": 18,
                 "i_fold": 3,
                 "r_fold": 0,
@@ -131,6 +205,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2_W2",
+                "samples": 15,
                 "s_fold": 8,
                 "i_fold": 7,
                 "r_fold": 0,
@@ -140,6 +215,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2_W3",
+                "samples": 16,
                 "s_fold": 11,
                 "i_fold": 4,
                 "r_fold": 1,
@@ -149,6 +225,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2_W4",
+                "samples": 10,
                 "s_fold": 8,
                 "i_fold": 2,
                 "r_fold": 0,
@@ -158,6 +235,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2_W5",
+                "samples": 13,
                 "s_fold": 13,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -167,6 +245,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2_W6",
+                "samples": 13,
                 "s_fold": 13,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -176,6 +255,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2_infected",
+                "samples": 5,
                 "s_fold": 4,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -185,6 +265,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2_one_dose",
+                "samples": 5,
                 "s_fold": 0,
                 "i_fold": 0,
                 "r_fold": 5,
@@ -194,6 +275,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 5,
                 "s_fold": 5,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -203,6 +285,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 8,
                 "s_fold": 8,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -212,6 +295,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 19,
                 "s_fold": 18,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -221,6 +305,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 20,
                 "s_fold": 11,
                 "i_fold": 8,
                 "r_fold": 1,
@@ -230,6 +315,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 19,
                 "s_fold": 19,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -239,6 +325,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 30,
                 "s_fold": 27,
                 "i_fold": 3,
                 "r_fold": 0,
@@ -248,6 +335,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 9,
                 "s_fold": 8,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -257,6 +345,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 19,
                 "s_fold": 13,
                 "i_fold": 5,
                 "r_fold": 1,
@@ -266,6 +355,17 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Kuzmina21[^Kuzmina21]",
+                "median": "1.5"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP",
+                "samples": 7,
                 "s_fold": 5,
                 "i_fold": 2,
                 "r_fold": 0,
@@ -275,6 +375,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 15,
                 "s_fold": 13,
                 "i_fold": 2,
                 "r_fold": 0,
@@ -284,6 +385,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 9,
                 "s_fold": 3,
                 "i_fold": 3,
                 "r_fold": 3,
@@ -293,6 +395,17 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 34,
+                "s_fold": 34,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Supasa21*[^Supasa21]",
+                "median": "2.9"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP",
+                "samples": 8,
                 "s_fold": 3,
                 "i_fold": 5,
                 "r_fold": 0,
@@ -302,6 +415,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 20,
                 "s_fold": 14,
                 "i_fold": 5,
                 "r_fold": 1,
@@ -311,6 +425,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 20,
                 "s_fold": 20,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -320,6 +435,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 23,
                 "s_fold": 23,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -329,6 +445,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 30,
                 "s_fold": 23,
                 "i_fold": 1,
                 "r_fold": 6,
@@ -338,6 +455,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 4,
                 "s_fold": 1,
                 "i_fold": 2,
                 "r_fold": 1,
@@ -347,6 +465,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP(8M)",
+                "samples": 19,
                 "s_fold": 11,
                 "i_fold": 8,
                 "r_fold": 0,
@@ -356,6 +475,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP_M3",
+                "samples": 28,
                 "s_fold": 27,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -365,6 +485,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP_M6",
+                "samples": 25,
                 "s_fold": 21,
                 "i_fold": 4,
                 "r_fold": 0,
@@ -374,6 +495,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP_M9",
+                "samples": 30,
                 "s_fold": 30,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -383,6 +505,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP_acute",
+                "samples": 16,
                 "s_fold": 15,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -392,6 +515,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CoronaVac",
+                "samples": 22,
                 "s_fold": 12,
                 "i_fold": 1,
                 "r_fold": 9,
@@ -401,6 +525,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "IVIG",
+                "samples": 6,
                 "s_fold": 6,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -410,6 +535,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "IVIG",
+                "samples": 6,
                 "s_fold": 6,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -418,7 +544,18 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "Mild",
+                "samples": 13,
+                "s_fold": 13,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Rees-Spear21[^Rees-Spear21]",
+                "median": "<3.0"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "NVX-CoV",
+                "samples": 28,
                 "s_fold": 20,
                 "i_fold": 7,
                 "r_fold": 1,
@@ -427,7 +564,18 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "Severe",
+                "samples": 13,
+                "s_fold": 13,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Rees-Spear21[^Rees-Spear21]",
+                "median": "<3.0"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
+                "samples": 14,
                 "s_fold": 14,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -437,6 +585,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
+                "samples": 4,
                 "s_fold": 4,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -446,6 +595,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
+                "samples": 40,
                 "s_fold": 30,
                 "i_fold": 10,
                 "r_fold": 0,
@@ -455,6 +605,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
+                "samples": 12,
                 "s_fold": 12,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -464,6 +615,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
+                "samples": 12,
                 "s_fold": 12,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -473,6 +625,7 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
+                "samples": 8,
                 "s_fold": 8,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -487,6 +640,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "AZD1222",
+                "samples": 9,
                 "s_fold": 0,
                 "i_fold": 3,
                 "r_fold": 6,
@@ -496,6 +650,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "AZD1222",
+                "samples": 18,
                 "s_fold": 2,
                 "i_fold": 11,
                 "r_fold": 5,
@@ -505,6 +660,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BBIBP-CorV",
+                "samples": 19,
                 "s_fold": 5,
                 "i_fold": 1,
                 "r_fold": 13,
@@ -514,6 +670,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 6,
                 "s_fold": 1,
                 "i_fold": 3,
                 "r_fold": 2,
@@ -523,6 +680,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 24,
                 "s_fold": 0,
                 "i_fold": 12,
                 "r_fold": 12,
@@ -532,6 +690,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 15,
                 "s_fold": 4,
                 "i_fold": 9,
                 "r_fold": 2,
@@ -541,6 +700,17 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 10,
+                "s_fold": 0,
+                "i_fold": 10,
+                "r_fold": 0,
+                "reference": "Kuzmina21[^Kuzmina21]",
+                "median": "6.8"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 20,
                 "s_fold": 15,
                 "i_fold": 5,
                 "r_fold": 0,
@@ -550,6 +720,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 24,
                 "s_fold": 3,
                 "i_fold": 19,
                 "r_fold": 2,
@@ -559,6 +730,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 13,
                 "s_fold": 3,
                 "i_fold": 9,
                 "r_fold": 1,
@@ -568,6 +740,17 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 25,
+                "s_fold": 0,
+                "i_fold": 25,
+                "r_fold": 0,
+                "reference": "Skelly21[^Skelly21]",
+                "median": "5.0"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 5,
                 "s_fold": 2,
                 "i_fold": 3,
                 "r_fold": 0,
@@ -577,6 +760,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 10,
                 "s_fold": 4,
                 "i_fold": 5,
                 "r_fold": 1,
@@ -586,6 +770,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 10,
                 "s_fold": 0,
                 "i_fold": 6,
                 "r_fold": 4,
@@ -595,6 +780,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 3,
                 "s_fold": 0,
                 "i_fold": 3,
                 "r_fold": 0,
@@ -604,6 +790,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 23,
                 "s_fold": 1,
                 "i_fold": 14,
                 "r_fold": 8,
@@ -613,6 +800,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2_W2",
+                "samples": 15,
                 "s_fold": 6,
                 "i_fold": 7,
                 "r_fold": 2,
@@ -622,6 +810,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2_W3",
+                "samples": 16,
                 "s_fold": 4,
                 "i_fold": 6,
                 "r_fold": 6,
@@ -631,6 +820,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2_W4",
+                "samples": 10,
                 "s_fold": 3,
                 "i_fold": 6,
                 "r_fold": 1,
@@ -640,6 +830,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2_W5",
+                "samples": 13,
                 "s_fold": 3,
                 "i_fold": 3,
                 "r_fold": 7,
@@ -649,6 +840,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2_W6",
+                "samples": 13,
                 "s_fold": 2,
                 "i_fold": 6,
                 "r_fold": 5,
@@ -658,6 +850,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2_infected",
+                "samples": 5,
                 "s_fold": 3,
                 "i_fold": 2,
                 "r_fold": 0,
@@ -667,6 +860,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2_one_dose",
+                "samples": 10,
                 "s_fold": 0,
                 "i_fold": 0,
                 "r_fold": 10,
@@ -676,6 +870,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 7,
                 "s_fold": 3,
                 "i_fold": 1,
                 "r_fold": 3,
@@ -685,6 +880,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 19,
                 "s_fold": 9,
                 "i_fold": 7,
                 "r_fold": 3,
@@ -694,6 +890,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 21,
                 "s_fold": 1,
                 "i_fold": 11,
                 "r_fold": 9,
@@ -703,6 +900,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 9,
                 "s_fold": 4,
                 "i_fold": 4,
                 "r_fold": 1,
@@ -712,6 +910,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 19,
                 "s_fold": 4,
                 "i_fold": 9,
                 "r_fold": 6,
@@ -721,6 +920,17 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 10,
+                "s_fold": 0,
+                "i_fold": 10,
+                "r_fold": 0,
+                "reference": "Kuzmina21[^Kuzmina21]",
+                "median": "6.9"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP",
+                "samples": 2,
                 "s_fold": 0,
                 "i_fold": 2,
                 "r_fold": 0,
@@ -730,6 +940,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 36,
                 "s_fold": 5,
                 "i_fold": 10,
                 "r_fold": 21,
@@ -739,6 +950,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 11,
                 "s_fold": 0,
                 "i_fold": 4,
                 "r_fold": 7,
@@ -748,6 +960,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 9,
                 "s_fold": 1,
                 "i_fold": 1,
                 "r_fold": 7,
@@ -757,6 +970,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 10,
                 "s_fold": 9,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -766,6 +980,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 6,
                 "s_fold": 1,
                 "i_fold": 1,
                 "r_fold": 4,
@@ -775,6 +990,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 20,
                 "s_fold": 4,
                 "i_fold": 9,
                 "r_fold": 7,
@@ -784,6 +1000,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 20,
                 "s_fold": 6,
                 "i_fold": 9,
                 "r_fold": 5,
@@ -793,6 +1010,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 12,
                 "s_fold": 3,
                 "i_fold": 7,
                 "r_fold": 2,
@@ -802,6 +1020,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 30,
                 "s_fold": 20,
                 "i_fold": 1,
                 "r_fold": 9,
@@ -811,6 +1030,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 4,
                 "s_fold": 0,
                 "i_fold": 2,
                 "r_fold": 2,
@@ -820,6 +1040,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 29,
                 "s_fold": 2,
                 "i_fold": 11,
                 "r_fold": 16,
@@ -829,6 +1050,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP(8M)",
+                "samples": 19,
                 "s_fold": 5,
                 "i_fold": 9,
                 "r_fold": 5,
@@ -838,6 +1060,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP(High Titer)",
+                "samples": 22,
                 "s_fold": 1,
                 "i_fold": 7,
                 "r_fold": 14,
@@ -847,6 +1070,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP(Low Titer)",
+                "samples": 13,
                 "s_fold": 4,
                 "i_fold": 2,
                 "r_fold": 7,
@@ -856,6 +1080,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP_M3",
+                "samples": 28,
                 "s_fold": 12,
                 "i_fold": 11,
                 "r_fold": 5,
@@ -865,6 +1090,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP_M6",
+                "samples": 25,
                 "s_fold": 12,
                 "i_fold": 6,
                 "r_fold": 7,
@@ -874,6 +1100,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP_M9",
+                "samples": 30,
                 "s_fold": 18,
                 "i_fold": 12,
                 "r_fold": 0,
@@ -883,6 +1110,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "CoronaVac",
+                "samples": 22,
                 "s_fold": 5,
                 "i_fold": 1,
                 "r_fold": 16,
@@ -892,6 +1120,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "IVIG",
+                "samples": 6,
                 "s_fold": 0,
                 "i_fold": 3,
                 "r_fold": 3,
@@ -901,6 +1130,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "IVIG",
+                "samples": 6,
                 "s_fold": 1,
                 "i_fold": 4,
                 "r_fold": 1,
@@ -910,6 +1140,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "NVV",
+                "samples": 22,
                 "s_fold": 0,
                 "i_fold": 7,
                 "r_fold": 15,
@@ -919,6 +1150,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "mRNA-1273",
+                "samples": 26,
                 "s_fold": 1,
                 "i_fold": 13,
                 "r_fold": 12,
@@ -928,6 +1160,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "mRNA-1273",
+                "samples": 12,
                 "s_fold": 1,
                 "i_fold": 8,
                 "r_fold": 3,
@@ -937,6 +1170,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "mRNA-1273",
+                "samples": 12,
                 "s_fold": 0,
                 "i_fold": 5,
                 "r_fold": 7,
@@ -946,6 +1180,7 @@
             {
                 "variant": "B.1.351",
                 "rx": "mRNA-1273",
+                "samples": 8,
                 "s_fold": 0,
                 "i_fold": 8,
                 "r_fold": 0,
@@ -960,6 +1195,7 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "BNT162b2",
+                "samples": 3,
                 "s_fold": 3,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -969,6 +1205,17 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "BNT162b2",
+                "samples": 22,
+                "s_fold": 22,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
+                "median": "2.9"
+            },
+            {
+                "variant": "B.1.427/9",
+                "rx": "BNT162b2",
+                "samples": 13,
                 "s_fold": 8,
                 "i_fold": 5,
                 "r_fold": 0,
@@ -978,6 +1225,7 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "BNT162b2_infected",
+                "samples": 5,
                 "s_fold": 3,
                 "i_fold": 2,
                 "r_fold": 0,
@@ -987,6 +1235,7 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "CP",
+                "samples": 18,
                 "s_fold": 7,
                 "i_fold": 10,
                 "r_fold": 1,
@@ -996,6 +1245,7 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "CP",
+                "samples": 14,
                 "s_fold": 7,
                 "i_fold": 7,
                 "r_fold": 0,
@@ -1005,6 +1255,7 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "CP",
+                "samples": 8,
                 "s_fold": 6,
                 "i_fold": 2,
                 "r_fold": 0,
@@ -1014,6 +1265,7 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "IVIG",
+                "samples": 6,
                 "s_fold": 6,
                 "i_fold": 0,
                 "r_fold": 0,
@@ -1023,6 +1275,7 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "NVV",
+                "samples": 23,
                 "s_fold": 15,
                 "i_fold": 8,
                 "r_fold": 0,
@@ -1032,6 +1285,7 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "mRNA-1273",
+                "samples": 8,
                 "s_fold": 7,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -1041,6 +1295,7 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "mRNA-1273",
+                "samples": 4,
                 "s_fold": 3,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -1050,6 +1305,7 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "mRNA-1273",
+                "samples": 11,
                 "s_fold": 6,
                 "i_fold": 2,
                 "r_fold": 3,
@@ -1059,6 +1315,7 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "mRNA-1273",
+                "samples": 26,
                 "s_fold": 20,
                 "i_fold": 6,
                 "r_fold": 0,
@@ -1073,6 +1330,7 @@
             {
                 "variant": "P.1",
                 "rx": "AZD1222",
+                "samples": 25,
                 "s_fold": 17,
                 "i_fold": 7,
                 "r_fold": 1,
@@ -1082,6 +1340,7 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
+                "samples": 15,
                 "s_fold": 12,
                 "i_fold": 3,
                 "r_fold": 0,
@@ -1091,6 +1350,7 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
+                "samples": 24,
                 "s_fold": 14,
                 "i_fold": 10,
                 "r_fold": 0,
@@ -1100,6 +1360,17 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
+                "samples": 22,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 22,
+                "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
+                "median": "15.1"
+            },
+            {
+                "variant": "P.1",
+                "rx": "BNT162b2",
+                "samples": 15,
                 "s_fold": 7,
                 "i_fold": 7,
                 "r_fold": 1,
@@ -1109,6 +1380,7 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
+                "samples": 13,
                 "s_fold": 12,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -1118,6 +1390,7 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
+                "samples": 10,
                 "s_fold": 8,
                 "i_fold": 1,
                 "r_fold": 1,
@@ -1127,6 +1400,7 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2_infected",
+                "samples": 5,
                 "s_fold": 4,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -1136,6 +1410,7 @@
             {
                 "variant": "P.1",
                 "rx": "CP",
+                "samples": 10,
                 "s_fold": 7,
                 "i_fold": 2,
                 "r_fold": 1,
@@ -1145,6 +1420,7 @@
             {
                 "variant": "P.1",
                 "rx": "CP",
+                "samples": 34,
                 "s_fold": 18,
                 "i_fold": 14,
                 "r_fold": 2,
@@ -1154,6 +1430,7 @@
             {
                 "variant": "P.1",
                 "rx": "CP",
+                "samples": 9,
                 "s_fold": 2,
                 "i_fold": 6,
                 "r_fold": 1,
@@ -1163,6 +1440,7 @@
             {
                 "variant": "P.1",
                 "rx": "CP",
+                "samples": 7,
                 "s_fold": 4,
                 "i_fold": 2,
                 "r_fold": 1,
@@ -1172,6 +1450,7 @@
             {
                 "variant": "P.1",
                 "rx": "CP",
+                "samples": 20,
                 "s_fold": 12,
                 "i_fold": 7,
                 "r_fold": 1,
@@ -1181,6 +1460,7 @@
             {
                 "variant": "P.1",
                 "rx": "CP",
+                "samples": 20,
                 "s_fold": 15,
                 "i_fold": 5,
                 "r_fold": 0,
@@ -1190,6 +1470,7 @@
             {
                 "variant": "P.1",
                 "rx": "IVIG",
+                "samples": 6,
                 "s_fold": 2,
                 "i_fold": 4,
                 "r_fold": 0,
@@ -1199,6 +1480,7 @@
             {
                 "variant": "P.1",
                 "rx": "mRNA-1273",
+                "samples": 3,
                 "s_fold": 0,
                 "i_fold": 0,
                 "r_fold": 3,
@@ -1208,6 +1490,7 @@
             {
                 "variant": "P.1",
                 "rx": "mRNA-1273",
+                "samples": 12,
                 "s_fold": 5,
                 "i_fold": 7,
                 "r_fold": 0,

@@ -4,6 +4,34 @@
         "assays": [
             {
                 "variant": "E484K",
+                "rx": "1-57",
+                "mab_class": "",
+                "fold": "1.1",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "2-15",
+                "mab_class": "",
+                "fold": "&gt;100",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "2-7",
+                "mab_class": "",
+                "fold": "3.4",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "910-30",
+                "mab_class": "",
+                "fold": "0.2",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "E484K",
                 "rx": "BRII-196",
                 "mab_class": "",
                 "fold": "1.4",
@@ -88,14 +116,14 @@
             },
             {
                 "variant": "E484K",
-                "rx": "Imdevimab/REGN10989",
+                "rx": "REGN10989/Imdevimab",
                 "mab_class": "",
                 "fold": "15",
                 "reference": "Baum20[^Baum20]"
             },
             {
                 "variant": "E484K",
-                "rx": "S2E12/Vir-7831",
+                "rx": "Vir-7831/S2E12",
                 "mab_class": "",
                 "fold": "6.9",
                 "reference": "Chen21[^Chen21]"
@@ -106,6 +134,13 @@
                 "mab_class": "NTD",
                 "fold": "1",
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "5-24",
+                "mab_class": "NTD",
+                "fold": "1.6",
+                "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "E484K",
@@ -200,28 +235,28 @@
             },
             {
                 "variant": "E484K",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.3",
                 "reference": "Cathcart21[^Cathcart21]"
             },
             {
                 "variant": "E484K",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.2",
                 "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "E484K",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.4",
                 "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "E484K",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.7",
                 "reference": "Wang21f[^Wang21f]"
@@ -513,14 +548,14 @@
             },
             {
                 "variant": "E484K + N501Y",
-                "rx": "S2E12/Vir-7831",
+                "rx": "Vir-7831/S2E12",
                 "mab_class": "",
                 "fold": "11",
                 "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "E484K + N501Y",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "5.4",
                 "reference": "Chen21[^Chen21]"
@@ -567,7 +602,14 @@
             },
             {
                 "variant": "F490S",
-                "rx": "Imdevimab/REGN10989",
+                "rx": "REGN10989/10934",
+                "mab_class": "",
+                "fold": "51",
+                "reference": "Baum20[^Baum20]"
+            },
+            {
+                "variant": "F490S",
+                "rx": "REGN10989/Imdevimab",
                 "mab_class": "",
                 "fold": "5.4",
                 "reference": "Baum20[^Baum20]"
@@ -595,7 +637,7 @@
             },
             {
                 "variant": "F490S",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.9",
                 "reference": "Cathcart21[^Cathcart21]"
@@ -670,6 +712,34 @@
         "assays": [
             {
                 "variant": "K417N",
+                "rx": "1-57",
+                "mab_class": "",
+                "fold": "0.1",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "2-15",
+                "mab_class": "",
+                "fold": "0.3",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "2-7",
+                "mab_class": "",
+                "fold": "0.5",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "910-30",
+                "mab_class": "",
+                "fold": "&gt;100",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "K417N",
                 "rx": "BRII-196",
                 "mab_class": "",
                 "fold": "1.8",
@@ -726,7 +796,7 @@
             },
             {
                 "variant": "K417N",
-                "rx": "S2E12/Vir-7831",
+                "rx": "Vir-7831/S2E12",
                 "mab_class": "",
                 "fold": "0.2",
                 "reference": "Chen21[^Chen21]"
@@ -744,6 +814,13 @@
                 "mab_class": "NTD",
                 "fold": "0.2",
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "5-24",
+                "mab_class": "NTD",
+                "fold": "0.3",
+                "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "K417N",
@@ -803,21 +880,21 @@
             },
             {
                 "variant": "K417N",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.7",
                 "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "K417N",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.6",
                 "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "K417N",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.4",
                 "reference": "Wang21f[^Wang21f]"
@@ -1060,7 +1137,14 @@
             },
             {
                 "variant": "K417N + E484K + N501Y",
-                "rx": "S2E12/Vir-7831",
+                "rx": "S2E11",
+                "mab_class": "",
+                "fold": "0.6",
+                "reference": "Collier21[^Collier21]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "Vir-7831/S2E12",
                 "mab_class": "",
                 "fold": "0.9",
                 "reference": "Chen21[^Chen21]"
@@ -1116,14 +1200,14 @@
             },
             {
                 "variant": "K417N + E484K + N501Y",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1",
                 "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "K417N + E484K + N501Y",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.8",
                 "reference": "Wang21f[^Wang21f]"
@@ -1406,6 +1490,13 @@
             },
             {
                 "variant": "N439K",
+                "rx": "DH1041",
+                "mab_class": "",
+                "fold": "0.8",
+                "reference": "Shen21[^Shen21]"
+            },
+            {
+                "variant": "N439K",
                 "rx": "4A8",
                 "mab_class": "NTD",
                 "fold": "1",
@@ -1455,21 +1546,21 @@
             },
             {
                 "variant": "N439K",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.9",
                 "reference": "Cathcart21[^Cathcart21]"
             },
             {
                 "variant": "N439K",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.9",
                 "reference": "Shen21[^Shen21]"
             },
             {
                 "variant": "N439K",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1",
                 "reference": "Wang21f[^Wang21f]"
@@ -1628,6 +1719,34 @@
         "assays": [
             {
                 "variant": "N501Y",
+                "rx": "1-57",
+                "mab_class": "",
+                "fold": "0.3",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "2-15",
+                "mab_class": "",
+                "fold": "0.7",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "2-7",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "910-30",
+                "mab_class": "",
+                "fold": "13",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "N501Y",
                 "rx": "BRII-196",
                 "mab_class": "",
                 "fold": "0.7",
@@ -1691,7 +1810,14 @@
             },
             {
                 "variant": "N501Y",
-                "rx": "S2E12/Vir-7831",
+                "rx": "DH1041",
+                "mab_class": "",
+                "fold": "1.1",
+                "reference": "Shen21[^Shen21]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "Vir-7831/S2E12",
                 "mab_class": "",
                 "fold": "1.9",
                 "reference": "Chen21[^Chen21]"
@@ -1702,6 +1828,13 @@
                 "mab_class": "NTD",
                 "fold": "1",
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "5-24",
+                "mab_class": "NTD",
+                "fold": "2.9",
+                "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "N501Y",
@@ -1789,28 +1922,28 @@
             },
             {
                 "variant": "N501Y",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.6",
                 "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "N501Y",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.8",
                 "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "N501Y",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.8",
                 "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "N501Y",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "3.1",
                 "reference": "Shen21[^Shen21]"
@@ -2130,14 +2263,14 @@
             },
             {
                 "variant": "S494P",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "2.5",
                 "reference": "Cathcart21[^Cathcart21]"
             },
             {
                 "variant": "S494P",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.5",
                 "reference": "Wang21f[^Wang21f]"
@@ -2247,7 +2380,14 @@
             },
             {
                 "variant": "Y453F",
-                "rx": "Imdevimab/REGN10989",
+                "rx": "REGN10989/10934",
+                "mab_class": "",
+                "fold": "4.3",
+                "reference": "Baum20[^Baum20]"
+            },
+            {
+                "variant": "Y453F",
+                "rx": "REGN10989/Imdevimab",
                 "mab_class": "",
                 "fold": "2",
                 "reference": "Baum20[^Baum20]"
@@ -2303,7 +2443,7 @@
             },
             {
                 "variant": "Y453F",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.1",
                 "reference": "Wang21f[^Wang21f]"
@@ -2406,6 +2546,34 @@
         "assays": [
             {
                 "variant": "∆144",
+                "rx": "1-57",
+                "mab_class": "",
+                "fold": "0.9",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆144",
+                "rx": "2-15",
+                "mab_class": "",
+                "fold": "0.8",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆144",
+                "rx": "2-7",
+                "mab_class": "",
+                "fold": "0.8",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆144",
+                "rx": "910-30",
+                "mab_class": "",
+                "fold": "0.4",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆144",
                 "rx": "BRII-196",
                 "mab_class": "",
                 "fold": "0.8",
@@ -2428,6 +2596,13 @@
             {
                 "variant": "∆144",
                 "rx": "4A8",
+                "mab_class": "NTD",
+                "fold": "&gt;100",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆144",
+                "rx": "5-24",
                 "mab_class": "NTD",
                 "fold": "&gt;100",
                 "reference": "Wang21b[^Wang21b]"
@@ -2462,14 +2637,14 @@
             },
             {
                 "variant": "∆144",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.7",
                 "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "∆144",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.2",
                 "reference": "Wang21f[^Wang21f]"
@@ -2572,6 +2747,34 @@
         "assays": [
             {
                 "variant": "∆69/70",
+                "rx": "1-57",
+                "mab_class": "",
+                "fold": "0.9",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "2-15",
+                "mab_class": "",
+                "fold": "0.8",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "2-7",
+                "mab_class": "",
+                "fold": "1.2",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "910-30",
+                "mab_class": "",
+                "fold": "0.4",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆69/70",
                 "rx": "BRII-196",
                 "mab_class": "",
                 "fold": "0.9",
@@ -2597,6 +2800,13 @@
                 "mab_class": "NTD",
                 "fold": "0.7",
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "5-24",
+                "mab_class": "NTD",
+                "fold": "0.9",
+                "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "∆69/70",
@@ -2635,14 +2845,14 @@
             },
             {
                 "variant": "∆69/70",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.6",
                 "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "∆69/70",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.1",
                 "reference": "Wang21f[^Wang21f]"
@@ -2815,7 +3025,14 @@
             },
             {
                 "variant": "∆69/70 + N501Y",
-                "rx": "S2E12/Vir-7831",
+                "rx": "DH1041",
+                "mab_class": "",
+                "fold": "0.5",
+                "reference": "Shen21[^Shen21]"
+            },
+            {
+                "variant": "∆69/70 + N501Y",
+                "rx": "Vir-7831/S2E12",
                 "mab_class": "",
                 "fold": "1.1",
                 "reference": "Chen21[^Chen21]"
@@ -2836,14 +3053,14 @@
             },
             {
                 "variant": "∆69/70 + N501Y",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "2.8",
                 "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "∆69/70 + N501Y",
-                "rx": "Sotrovimab",
+                "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "2.2",
                 "reference": "Shen21[^Shen21]"
