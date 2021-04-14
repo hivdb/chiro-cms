@@ -1,5 +1,5 @@
 [toc]
-- [Variants of concern](#variants.of.concern)
+- [Variants with adaptive mutations](#variants.with.adaptive.mutations)
   - [B.1.1.7, aka 501Y.V1 variant, 20I/501Y.V1, and UK COVID variant](#sec_b-1-1-7)
   - [B.1.1.7 with S:E484K](#sec_b-1-1-7-484k)
   - [B.1.351, aka 501.V2 variant, 20C/501Y.V2, and South African COVID-19 variant](#sec_b-1-351)
@@ -7,7 +7,6 @@
   - [B.1.525](#sec_b-1-525)
   - [B.1.526](#sec_b-1-526)
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
-- [Variants of interest](#variants.of.interest)
   - [P.3, aka PHL-B.1.1.28](#sec_phl-b-1-1-28)
   - [EPI_ISL_1360318, S:E484Q+L452R (India)](#sec_e484q)
   - [B.1.258, aka N439K](#sec_n439k)
@@ -28,7 +27,7 @@
 
 <div style="clear: both; height: 0;" />
 
-## Variants of concern
+## Variants with adaptive mutations
 
 <!-- B.1.1.7 -->
 <section id="sec_b-1-1-7" class="figure-section compact">
@@ -177,7 +176,6 @@ b-1-429
 
 </section>
 
-## Variants of Interest
 
 <!-- PHL-B.1.1.28 -->
 <section id="sec_phl-b-1-1-28" class="figure-section compact">

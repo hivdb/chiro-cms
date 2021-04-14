@@ -1,4 +1,4 @@
-- [Variants of concern](/page/mutation-viewer/#variants.of.concern)
+- [Variants with adaptive mutations](/page/mutation-viewer/#variants.with.adaptive.mutations)
   - [B.1.1.7, aka 501Y.V1 variant, 20I/501Y.V1, and UK COVID variant](/page/mutation-viewer/#sec_b-1-1-7)
   - [B.1.1.7 with S:E484K](/page/mutation-viewer/#sec_b-1-1-7-484k)
   - [B.1.351, aka 501.V2 variant, 20C/501Y.V2, and South African COVID-19 variant](/page/mutation-viewer/#sec_b-1-351)
@@ -6,7 +6,6 @@
   - [B.1.525](/page/mutation-viewer/#sec_b-1-525)
   - [B.1.526](/page/mutation-viewer/#sec_b-1-526)
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](/page/mutation-viewer/#sec_b-1-429)
-- [Variants of interest](/page/mutation-viewer/#variants.of.interest)
   - [P.3, aka PHL-B.1.1.28](/page/mutation-viewer/#sec_phl-b-1-1-28)
   - [EPI_ISL_1360318, S:E484Q+L452R (India)](/page/mutation-viewer/#sec_e484q)
   - [B.1.258, aka N439K](/page/mutation-viewer/#sec_n439k)

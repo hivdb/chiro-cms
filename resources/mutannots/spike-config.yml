@@ -131,65 +131,65 @@ annotCategories:
   - "lineage B.1.1.7"
   - "lineage 501.V2"
   - "lineage Cluster 5"
-- name: resistance
-  display: mAb DRMs
-  dropdown: true
-  defaultAnnots: []
-  multiSelect: true
-  annotStyle: aminoAcids
-  color: '#d23b6f'
-  annotNames:
-  - resistance 1-20
-  - resistance 157
-  - resistance 1B07
-  - resistance 2-15
-  - resistance 2-4
-  - resistance 247
-  - resistance 261-262
-  - resistance 2B04
-  - resistance 2H04
-  - resistance 4-20
-  - resistance AB35
-  - resistance B38
-  - resistance C121
-  - resistance C135
-  - resistance C144
-  - resistance CA1
-  - resistance CB6
-  - resistance COV2-2082
-  - resistance COV2-2165
-  - resistance COV2-2479
-  - resistance COV2-2832
-  - resistance H00S022
-  - resistance H014
-  - resistance H4
-  - resistance LY-CoV2016
-  - resistance P2B-2F6
-  - resistance P2C-1F11
-  - resistance REGN-COV2
-  - resistance REGN10933
-  - resistance REGN10934
-  - resistance REGN10987
-  - resistance REGN10989
-  - resistance REGN10989/10934
-  - resistance REGN10989/10987
-  - resistance S2M11
-  - resistance SARS2-01
-  - resistance SARS2-02
-  - resistance SARS2-07
-  - resistance SARS2-16
-  - resistance SARS2-19
-  - resistance SARS2-21
-  - resistance SARS2-22
-  - resistance SARS2-23
-  - resistance SARS2-31
-  - resistance SARS2-32
-  - resistance SARS2-34
-  - resistance SARS2-55
-  - resistance SARS2-58
-  - resistance SARS2-66
-  - resistance SARS2-71
-  - resistance X593
+# - name: resistance
+#   display: mAb DRMs
+#   dropdown: true
+#   defaultAnnots: []
+#   multiSelect: true
+#   annotStyle: aminoAcids
+#   color: '#d23b6f'
+#   annotNames:
+#   - resistance 1-20
+#   - resistance 157
+#   - resistance 1B07
+#   - resistance 2-15
+#   - resistance 2-4
+#   - resistance 247
+#   - resistance 261-262
+#   - resistance 2B04
+#   - resistance 2H04
+#   - resistance 4-20
+#   - resistance AB35
+#   - resistance B38
+#   - resistance C121
+#   - resistance C135
+#   - resistance C144
+#   - resistance CA1
+#   - resistance CB6
+#   - resistance COV2-2082
+#   - resistance COV2-2165
+#   - resistance COV2-2479
+#   - resistance COV2-2832
+#   - resistance H00S022
+#   - resistance H014
+#   - resistance H4
+#   - resistance LY-CoV2016
+#   - resistance P2B-2F6
+#   - resistance P2C-1F11
+#   - resistance REGN-COV2
+#   - resistance REGN10933
+#   - resistance REGN10934
+#   - resistance REGN10987
+#   - resistance REGN10989
+#   - resistance REGN10989/10934
+#   - resistance REGN10989/10987
+#   - resistance S2M11
+#   - resistance SARS2-01
+#   - resistance SARS2-02
+#   - resistance SARS2-07
+#   - resistance SARS2-16
+#   - resistance SARS2-19
+#   - resistance SARS2-21
+#   - resistance SARS2-22
+#   - resistance SARS2-23
+#   - resistance SARS2-31
+#   - resistance SARS2-32
+#   - resistance SARS2-34
+#   - resistance SARS2-55
+#   - resistance SARS2-58
+#   - resistance SARS2-66
+#   - resistance SARS2-71
+#   - resistance X593
 - name: _hide
   display: false
   dropdown: false

@@ -9,8 +9,8 @@
   - [Spike variants and mutation combinations / plasma neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-plasma-neutralization)
   - [Spike mutations _in vitro_ selection](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-mutation-invitro-selection-cp-and-mab)
 - **Individual study details**
-  - [Table S1: Neutralizing Sensitivity of Variants of Concern to Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-data/plasma-variant/)
-  - [Table S2: Neutralizing Sensitivity of Variants of Concern to Monoclonal Antibodies](/page/susceptibility-data/mab-variant/)
+  - [Table S1: Neutralizing Sensitivity of Variants to Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-data/plasma-variant/)
+  - [Table S2: Neutralizing Sensitivity of Variants to Monoclonal Antibodies](/page/susceptibility-data/mab-variant/)
   - [Table S3: Neutralizing Sensitivity of Spike Mutations to Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-data/plasma-mutations/)
   - **Table S4: Neutralizing Sensitivity of Spike Mutations to Monoclonal Antibodies**
 
