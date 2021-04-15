@@ -23,19 +23,10 @@ Instruction:
 
 -->
 ### Database Entries (Apr 11)
-Chen L, Zody MC, et int., and Kreiswirth BN. [“Emergence of multiple SARS-CoV-2 antibody escape variants in an immunocompromised host undergoing convalescent plasma treatment.”](/search/?article=Chen21b) _medRxiv_, 2021. [doi.org/10.1101/2021.04.08.21254791](https://doi.org/10.1101/2021.04.08.21254791).
-### Database Entries (Apr 11)
-Greaney AJ, Starr TN, et int., and Bloom JD. [“Mutational escape from the polyclonal antibody response to SARS-CoV-2 infection is largely shaped by a single class of antibodies.”](/search/?article=Greaney21b) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.17.435863](https://doi.org/10.1101/2021.03.17.435863). \[[PubMed33758856](https://www.ncbi.nlm.nih.gov/pubmed/33758856/)\] \[[PMC7987015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7987015/)\]
-### Database Entries (Apr 11)
 Maisonnasse P, Aldon Y, et int., and Grand RL. [“COVA1-18 neutralizing antibody protects against SARS-CoV-2 in three preclinical models.”](/search/?article=Maisonnasse21) _Research Square_, 2021. [doi.org/10.21203/rs.3.rs-235272/v1](https://doi.org/10.21203/rs.3.rs-235272/v1). \[[PubMed33619476](https://www.ncbi.nlm.nih.gov/pubmed/33619476/)\] \[[PMC7899470](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7899470/)\]
 ### Database Entries (Apr 11)
-Shen X, Tang H, et int., and Montefiori DC. [“Neutralization of SARS-CoV-2 Variants B.1.429 and B.1.351.”](/search/?article=Shen21b) _New England Journal of Medicine_, 2021. [doi.org/10.1056/NEJMc2103740](https://doi.org/10.1056/NEJMc2103740). \[[PubMed33826819](https://www.ncbi.nlm.nih.gov/pubmed/33826819/)\]
-### Database Entries (Apr 11)
-Starr TN, Greaney AJ, et int., and Bloom JD. [“Complete map of SARS-CoV-2 RBD mutations that escape the monoclonal antibody LY-CoV555 and its cocktail with LY-CoV016.”](/search/?article=Starr21b) _Cell Reports Medicine_, 2021. [doi.org/10.1016/j.xcrm.2021.100255](https://doi.org/10.1016/j.xcrm.2021.100255).
-### Database Entries (Apr 11)
 Suryadevara N, Shrihari S, et int., and Crowe JE. [“Neutralizing and protective human monoclonal antibodies recognizing the N-terminal domain of the SARS-CoV-2 spike protein.”](/search/?article=Suryadevara21) _Cell_, 2021. [doi.org/10.1016/j.cell.2021.03.029](https://doi.org/10.1016/j.cell.2021.03.029). \[[PubMed33773105](https://www.ncbi.nlm.nih.gov/pubmed/33773105/)\] \[[PMC7962591](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7962591/)\]
-### Database Entries (Apr 11)
-Wang G, Wang Z, et int., and Ma M. [“Susceptibility of Circulating SARS-CoV-2 Variants to Neutralization.”](/search/?article=Wang21g) _New England Journal of Medicine_, 2021. [doi.org/10.1056/NEJMc2103022](https://doi.org/10.1056/NEJMc2103022). \[[PubMed33822491](https://www.ncbi.nlm.nih.gov/pubmed/33822491/)\]
+
 ### Database Entries (Apr 11)
 Wettstein L, Weil T, et int., and Münch J. [“Alpha-1 antitrypsin inhibits TMPRSS2 protease activity and SARS-CoV-2 infection.”](/search/?article=Wettstein21) _Nature Communications_, 2021. [doi.org/10.1038/s41467-021-21972-0](https://doi.org/10.1038/s41467-021-21972-0). \[[PubMed33741941](https://www.ncbi.nlm.nih.gov/pubmed/33741941/)\]
 ### [Clinical Trials (Apr 08)](/page/updates/#clinical.trials)
