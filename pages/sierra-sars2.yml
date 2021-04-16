@@ -77,16 +77,34 @@ seqReadsMinCodonReadsOptions:
 messages:
   _resource: sierra-sars2/messages.yml
 sequenceExamples:
-  - url: downloads/fasta-examples/variants-of-concern.fas
-    title: Variants of concern (N=8)
-  - url: downloads/fasta-examples/variants-of-interest.fas
-    title: Variants of interest (N=8)
-seqReadsExamples:
-  - downloads/codfreq-examples/ERR4085387.S.codfreq.txt
-  - downloads/codfreq-examples/ERR4181732.S.codfreq.txt
-  - downloads/codfreq-examples/ERR4181742.S.codfreq.txt
-  - downloads/codfreq-examples/ERR4181776.S.codfreq.txt
-  - downloads/codfreq-examples/SRR11494719.RdRP.codfreq.txt
-  - downloads/codfreq-examples/SRR11494735.RdRP.codfreq.txt
-  - downloads/codfreq-examples/SRR11577999.RdRP.codfreq.txt
-  - downloads/codfreq-examples/SRR11578120.RdRP.codfreq.txt
+  - url: downloads/fasta-examples/b-1-1-7.fas
+    title: B.1.1.7 (N=1)
+  - url: downloads/fasta-examples/b-1-1-7_e484k.fas
+    title: B.1.1.7+E484K (N=1)
+  - url: downloads/fasta-examples/b-1-351.fas
+    title: B.1.351 (N=1)
+  - url: downloads/fasta-examples/p-1.fas
+    title: P.1 (N=1)
+  - url: downloads/fasta-examples/b-1-525.fas
+    title: B.1.525 (N=1)
+  - url: downloads/fasta-examples/b-1-526.fas
+    title: B.1.526 (N=1)
+  - url: downloads/fasta-examples/b-1-429_427.fas
+    title: B.1.429/427 (N=2)
+  - url: downloads/fasta-examples/p-3.fas
+    title: P.3 (N=1)
+  - url: downloads/fasta-examples/india-e484q-l452r.fas
+    title: E484Q+L452R India (N=1)
+  - url: downloads/fasta-examples/b-1-258.fas
+    title: B.1.258 (N=1)
+  - url: downloads/fasta-examples/b-1-1-298.fas
+    title: B.1.1.298 a.k.a Mink Cluster V (N=1)
+  - url: downloads/fasta-examples/coh-20g-501y.fas
+    title: COH.20G/501Y (N=1)
+  - url: downloads/fasta-examples/p-2.fas
+    title: P.2 (N=1)
+  - url: downloads/fasta-examples/n-9.fas
+    title: N.9 (N=1)
+  - url: downloads/fasta-examples/a-voi-v2.fas
+    title: A.VOI.V2 (N=1)
+seqReadsExamples: []
