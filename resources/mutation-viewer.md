@@ -7,6 +7,7 @@
   - [B.1.525](#sec_b-1-525)
   - [B.1.526](#sec_b-1-526)
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
+  - [B.1.x](#sec_b-1-x)
   - [P.3, aka PHL-B.1.1.28](#sec_phl-b-1-1-28)
   - [EPI_ISL_1360318, S:E484Q+L452R (India)](#sec_e484q)
   - [B.1.258, aka N439K](#sec_n439k)
@@ -175,6 +176,29 @@ b-1-429
 </div>
 
 </section>
+
+
+<!-- b-1-x -->
+<section id="sec_b-1-x" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.x](#sec_b-1-x)
+
+Thornlow B, Hinrichs AS, et int., and Corbett-Detig R. “A new SARS-CoV-2 lineage that shares mutations with known Variants of Concern is rejected by automated sequence repository quality control.” _bioRxiv_, 2021. [doi.org/10.1101/2021.04.05.438352](https://doi.org/10.1101/2021.04.05.438352).[^Thornlow21]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-x
+[/genomemap]
+
+</div>
+
+</section>
+
 
 
 <!-- PHL-B.1.1.28 -->
