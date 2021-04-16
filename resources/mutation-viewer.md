@@ -24,6 +24,7 @@
   - [Avanzato VA, Matson MJ, et int., and Munster VJ.](#sec_avanzato20)
   - [Bazykin G, Stanevich O, et int., and Lioznov D.](#sec_bazykin20)
   - [Khatamzas E, Rehn A, et int., and Antwerpen M.](#sec_khatamzas20)
+  - [Chen L, Zody CM, et int., and Kreiswirth BN.](#sec_chen21c)
 [/toc]
 
 <div style="clear: both; height: 0;" />
@@ -512,6 +513,28 @@ Khatamzas E, Rehn A, et int., and Antwerpen M. “Emergence of multiple SARS-CoV
 
 [genomemap]
 khatamzas20
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- Chen L -->
+<section id="sec_chen21c" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [Chen L, Zody CM, et int., and Kreiswirth BN.](#sec_chen21c)
+
+Chen L, Zody CM, et int., and Kreiswirth BN. “Emergence of multiple SARS-CoV-2 antibody escape variants in an immunocompromised host undergoing convalescent plasma treatment.” _medRxiv_, 2021. [doi.org/10.1101/2021.04.08.21254791](https://doi.org/10.1101/2021.04.08.21254791). [^Chen21c]
+
+</div>
+
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+chen21c
 [/genomemap]
 
 </div>
