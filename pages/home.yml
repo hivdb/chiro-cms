@@ -23,7 +23,7 @@ projectSections:
     items:
     - title: SARS-CoV-2 analysis program
       description: Susceptibility data, genes, mutations, and lineage
-      link: /sierra/sars2/patterns/
+      link: /sierra/sars2/by-patterns/
       image: home/edumat-sierra-sars2.png
     - title: Spike viewer
       description: A mutation annotation viewer of Spike gene
