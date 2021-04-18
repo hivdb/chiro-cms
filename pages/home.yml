@@ -21,6 +21,10 @@ missionStatement:
 projectSections:
   - title: Highlights
     items:
+    - title: SARS-CoV-2 genotypic analysis program
+      description: Susceptibility data, genes, mutations, and lineage
+      link: /sierra/sars2/patterns/
+      image: home/edumat-sierra-sars2.png
     - title: Spike viewer
       description: A mutation annotation viewer of Spike gene
       link: /mut-annot-viewer/SARS2S/
