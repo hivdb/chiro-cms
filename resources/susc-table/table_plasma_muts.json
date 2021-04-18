@@ -20,7 +20,7 @@
                 "i_fold": 10,
                 "r_fold": 0,
                 "reference": "Kuzmina21[^Kuzmina21]",
-                "median": "3.4"
+                "median": 3.4
             },
             {
                 "variant": "E484K",
@@ -65,6 +65,16 @@
             {
                 "variant": "E484K",
                 "rx": "CP",
+                "samples": 5,
+                "s_fold": 1,
+                "i_fold": 2,
+                "r_fold": 2,
+                "reference": "Greaney21c[^Greaney21c]",
+                "median": "10"
+            },
+            {
+                "variant": "E484K",
+                "rx": "CP",
                 "samples": 30,
                 "s_fold": 17,
                 "i_fold": 10,
@@ -101,6 +111,26 @@
                 "r_fold": 0,
                 "reference": "Wang21f[^Wang21f]",
                 "median": "1.1"
+            },
+            {
+                "variant": "E484K",
+                "rx": "Sputnik V",
+                "samples": 12,
+                "s_fold": 7,
+                "i_fold": 4,
+                "r_fold": 1,
+                "reference": "Ikegame21[^Ikegame21]",
+                "median": "2.9"
+            },
+            {
+                "variant": "E484K",
+                "rx": "mRNA-1273",
+                "samples": 6,
+                "s_fold": 4,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "Greaney21c[^Greaney21c]",
+                "median": "3"
             },
             {
                 "variant": "E484K",
@@ -145,7 +175,7 @@
                 "i_fold": 10,
                 "r_fold": 0,
                 "reference": "Kuzmina21[^Kuzmina21]",
-                "median": "3.8"
+                "median": 3.8
             },
             {
                 "variant": "E484K + N501Y",
@@ -190,7 +220,7 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Kuzmina21[^Kuzmina21]",
-                "median": "1.1"
+                "median": 1.1
             },
             {
                 "variant": "K417N",
@@ -225,6 +255,16 @@
             {
                 "variant": "K417N",
                 "rx": "CP",
+                "samples": 6,
+                "s_fold": 6,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Greaney21c[^Greaney21c]",
+                "median": "1.2"
+            },
+            {
+                "variant": "K417N",
+                "rx": "CP",
                 "samples": 20,
                 "s_fold": 20,
                 "i_fold": 0,
@@ -241,6 +281,16 @@
                 "r_fold": 0,
                 "reference": "Wang21f[^Wang21f]",
                 "median": "0.5"
+            },
+            {
+                "variant": "K417N",
+                "rx": "mRNA-1273",
+                "samples": 6,
+                "s_fold": 6,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Greaney21c[^Greaney21c]",
+                "median": "0.9"
             },
             {
                 "variant": "K417N",
@@ -285,7 +335,7 @@
                 "i_fold": 10,
                 "r_fold": 0,
                 "reference": "Kuzmina21[^Kuzmina21]",
-                "median": "4.5"
+                "median": 4.5
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -320,16 +370,6 @@
             {
                 "variant": "K417N + E484K + N501Y",
                 "rx": "CP",
-                "samples": 45,
-                "s_fold": 36,
-                "i_fold": 8,
-                "r_fold": 1,
-                "reference": "Wang21[^Wang21]",
-                "median": "2"
-            },
-            {
-                "variant": "K417N + E484K + N501Y",
-                "rx": "CP",
                 "samples": 23,
                 "s_fold": 22,
                 "i_fold": 1,
@@ -339,7 +379,17 @@
             },
             {
                 "variant": "K417N + E484K + N501Y",
-                "rx": "CP(6M)",
+                "rx": "CP_1M",
+                "samples": 45,
+                "s_fold": 36,
+                "i_fold": 8,
+                "r_fold": 1,
+                "reference": "Wang21[^Wang21]",
+                "median": "2"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "CP_6M",
                 "samples": 45,
                 "s_fold": 37,
                 "i_fold": 6,
@@ -349,7 +399,7 @@
             },
             {
                 "variant": "K417N + E484K + N501Y",
-                "rx": "CP(High Titer)",
+                "rx": "CP_high_titer",
                 "samples": 20,
                 "s_fold": 6,
                 "i_fold": 5,
@@ -359,7 +409,7 @@
             },
             {
                 "variant": "K417N + E484K + N501Y",
-                "rx": "CP(Low Titer)",
+                "rx": "CP_low_titer",
                 "samples": 17,
                 "s_fold": 5,
                 "i_fold": 6,
@@ -385,7 +435,7 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Wu21[^Wu21]",
-                "median": "2.7"
+                "median": 2.7
             }
         ]
     },
@@ -395,12 +445,32 @@
             {
                 "variant": "L452R",
                 "rx": "CP",
+                "samples": 6,
+                "s_fold": 4,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "Greaney21c[^Greaney21c]",
+                "median": "2.2"
+            },
+            {
+                "variant": "L452R",
+                "rx": "CP",
                 "samples": 2,
                 "s_fold": 0,
                 "i_fold": 1,
                 "r_fold": 1,
                 "reference": "Liu21[^Liu21]",
                 "median": "9.9"
+            },
+            {
+                "variant": "L452R",
+                "rx": "mRNA-1273",
+                "samples": 6,
+                "s_fold": 5,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Greaney21c[^Greaney21c]",
+                "median": "2.3"
             }
         ]
     },
@@ -460,7 +530,7 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Kuzmina21[^Kuzmina21]",
-                "median": "1.1"
+                "median": 1.1
             },
             {
                 "variant": "N501Y",
@@ -495,22 +565,12 @@
             {
                 "variant": "N501Y",
                 "rx": "BNT162b2",
-                "samples": 3,
-                "s_fold": 3,
+                "samples": 11,
+                "s_fold": 11,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Xie21[^Xie21]",
-                "median": "0.5"
-            },
-            {
-                "variant": "N501Y",
-                "rx": "BNT162b2",
-                "samples": 5,
-                "s_fold": 5,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Xie21[^Xie21]",
-                "median": "0.5"
+                "median": 0.5
             },
             {
                 "variant": "N501Y",
@@ -584,23 +644,23 @@
             },
             {
                 "variant": "N501Y",
-                "rx": "Mild",
-                "samples": 16,
-                "s_fold": 16,
-                "i_fold": 0,
+                "rx": "CP_mild",
+                "samples": 18,
+                "s_fold": 17,
+                "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Rees-Spear21[^Rees-Spear21]",
-                "median": "<3.0"
+                "median": 3.0
             },
             {
                 "variant": "N501Y",
-                "rx": "Severe",
+                "rx": "CP_severe",
                 "samples": 18,
                 "s_fold": 18,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Rees-Spear21[^Rees-Spear21]",
-                "median": "<3.0"
+                "median": 3.0
             },
             {
                 "variant": "N501Y",
@@ -650,7 +710,7 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Wu21[^Wu21]",
-                "median": "0.9"
+                "median": 0.9
             }
         ]
     },
@@ -769,23 +829,23 @@
             },
             {
                 "variant": "∆69/70",
-                "rx": "Mild",
+                "rx": "CP_mild",
                 "samples": 18,
                 "s_fold": 18,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Rees-Spear21[^Rees-Spear21]",
-                "median": "<3.0"
+                "median": 3.0
             },
             {
                 "variant": "∆69/70",
-                "rx": "Severe",
+                "rx": "CP_severe",
                 "samples": 18,
                 "s_fold": 18,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Rees-Spear21[^Rees-Spear21]",
-                "median": "<3.0"
+                "median": 3.0
             },
             {
                 "variant": "∆69/70",
@@ -839,7 +899,7 @@
         "assays": [
             {
                 "variant": "∆69/70 + N501Y + A570D",
-                "rx": "BNT162b2_1ds",
+                "rx": "BNT_1ds",
                 "samples": 15,
                 "s_fold": 15,
                 "i_fold": 0,

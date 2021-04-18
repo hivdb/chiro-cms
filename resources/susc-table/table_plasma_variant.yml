@@ -15,7 +15,7 @@
     i_fold: 0
     r_fold: 0
     reference: Supasa21*[^Supasa21]
-    median: '2.1'
+    median: 2.1
   - variant: B.1.1.7
     rx: BBIBP-CorV
     samples: 19
@@ -50,12 +50,20 @@
     median: '1.9'
   - variant: B.1.1.7
     rx: BNT162b2
+    samples: 21
+    s_fold: 18
+    i_fold: 3
+    r_fold: 0
+    reference: Collier21[^Collier21]
+    median: '2'
+  - variant: B.1.1.7
+    rx: BNT162b2
     samples: 22
     s_fold: 22
     i_fold: 0
     r_fold: 0
     reference: Garcia-Beltran21[^Garcia-Beltran21]
-    median: '2.3'
+    median: 2.3
   - variant: B.1.1.7
     rx: BNT162b2
     samples: 15
@@ -71,7 +79,7 @@
     i_fold: 0
     r_fold: 0
     reference: Kuzmina21[^Kuzmina21]
-    median: '1.0'
+    median: 1.0
   - variant: B.1.1.7
     rx: BNT162b2
     samples: 26
@@ -103,7 +111,7 @@
     i_fold: 0
     r_fold: 0
     reference: Skelly21[^Skelly21]
-    median: '2.0'
+    median: 2.0
   - variant: B.1.1.7
     rx: BNT162b2
     samples: 25
@@ -111,7 +119,7 @@
     i_fold: 25
     r_fold: 0
     reference: Supasa21*[^Supasa21]
-    median: '3.3'
+    median: 3.3
   - variant: B.1.1.7
     rx: BNT162b2
     samples: 10
@@ -143,9 +151,9 @@
     i_fold: 0
     r_fold: 0
     reference: Zuckerman21*[^Zuckerman21]
-    median: '2.0'
+    median: 2.0
   - variant: B.1.1.7
-    rx: BNT162b2_1ds
+    rx: BNT_1ds
     samples: 37
     s_fold: 28
     i_fold: 7
@@ -153,15 +161,7 @@
     reference: Collier21[^Collier21]
     median: '1.6'
   - variant: B.1.1.7
-    rx: BNT162b2_2ds
-    samples: 21
-    s_fold: 18
-    i_fold: 3
-    r_fold: 0
-    reference: Collier21[^Collier21]
-    median: '2'
-  - variant: B.1.1.7
-    rx: BNT162b2_W2
+    rx: BNT_W2
     samples: 15
     s_fold: 8
     i_fold: 7
@@ -169,7 +169,7 @@
     reference: Planas21[^Planas21]
     median: '2.2'
   - variant: B.1.1.7
-    rx: BNT162b2_W3
+    rx: BNT_W3
     samples: 16
     s_fold: 11
     i_fold: 4
@@ -177,7 +177,7 @@
     reference: Planas21[^Planas21]
     median: '2.5'
   - variant: B.1.1.7
-    rx: BNT162b2_W4
+    rx: BNT_W4
     samples: 10
     s_fold: 8
     i_fold: 2
@@ -185,7 +185,7 @@
     reference: Planas21[^Planas21]
     median: '0.9'
   - variant: B.1.1.7
-    rx: BNT162b2_W5
+    rx: BNT_W5
     samples: 13
     s_fold: 13
     i_fold: 0
@@ -193,7 +193,7 @@
     reference: Planas21[^Planas21]
     median: '0.9'
   - variant: B.1.1.7
-    rx: BNT162b2_W6
+    rx: BNT_W6
     samples: 13
     s_fold: 13
     i_fold: 0
@@ -201,7 +201,7 @@
     reference: Planas21[^Planas21]
     median: '0.3'
   - variant: B.1.1.7
-    rx: BNT162b2_infected
+    rx: BNT_infected
     samples: 5
     s_fold: 4
     i_fold: 1
@@ -209,7 +209,7 @@
     reference: McCallum21b[^McCallum21b]
     median: '1.6'
   - variant: B.1.1.7
-    rx: BNT162b2_one_dose
+    rx: BNT_sd
     samples: 5
     s_fold: 0
     i_fold: 0
@@ -258,14 +258,6 @@
     median: '0.6'
   - variant: B.1.1.7
     rx: CP
-    samples: 30
-    s_fold: 27
-    i_fold: 3
-    r_fold: 0
-    reference: Faulkner21*[^Faulkner21]
-    median: '1.6'
-  - variant: B.1.1.7
-    rx: CP
     samples: 9
     s_fold: 8
     i_fold: 1
@@ -274,20 +266,12 @@
     median: '1.2'
   - variant: B.1.1.7
     rx: CP
-    samples: 19
-    s_fold: 13
-    i_fold: 5
-    r_fold: 1
-    reference: Hu21[^Hu21]
-    median: '2.2'
-  - variant: B.1.1.7
-    rx: CP
     samples: 10
     s_fold: 10
     i_fold: 0
     r_fold: 0
     reference: Kuzmina21[^Kuzmina21]
-    median: '1.5'
+    median: 1.5
   - variant: B.1.1.7
     rx: CP
     samples: 7
@@ -296,6 +280,14 @@
     r_fold: 0
     reference: Marot21*[^Marot21]
     median: '1'
+  - variant: B.1.1.7
+    rx: CP
+    samples: 9
+    s_fold: 6
+    i_fold: 3
+    r_fold: 0
+    reference: McCallum21b[^McCallum21b]
+    median: '2'
   - variant: B.1.1.7
     rx: CP
     samples: 15
@@ -319,7 +311,7 @@
     i_fold: 0
     r_fold: 0
     reference: Supasa21*[^Supasa21]
-    median: '2.9'
+    median: 2.9
   - variant: B.1.1.7
     rx: CP
     samples: 8
@@ -369,7 +361,15 @@
     reference: Widera21*[^Widera21]
     median: '8'
   - variant: B.1.1.7
-    rx: CP(8M)
+    rx: CP_1M
+    samples: 19
+    s_fold: 13
+    i_fold: 5
+    r_fold: 1
+    reference: Hu21[^Hu21]
+    median: '2.2'
+  - variant: B.1.1.7
+    rx: CP_8M
     samples: 19
     s_fold: 11
     i_fold: 8
@@ -401,6 +401,22 @@
     reference: Planas21[^Planas21]
     median: '0.9'
   - variant: B.1.1.7
+    rx: CP_Mild
+    samples: 10
+    s_fold: 9
+    i_fold: 1
+    r_fold: 0
+    reference: Faulkner21*[^Faulkner21]
+    median: '1'
+  - variant: B.1.1.7
+    rx: CP_Patient
+    samples: 20
+    s_fold: 18
+    i_fold: 2
+    r_fold: 0
+    reference: Faulkner21*[^Faulkner21]
+    median: '1.9'
+  - variant: B.1.1.7
     rx: CP_acute
     samples: 16
     s_fold: 15
@@ -408,6 +424,22 @@
     r_fold: 0
     reference: Edara21*[^Edara21]
     median: '0.9'
+  - variant: B.1.1.7
+    rx: CP_mild
+    samples: 18
+    s_fold: 14
+    i_fold: 3
+    r_fold: 1
+    reference: Rees-Spear21[^Rees-Spear21]
+    median: 3.0
+  - variant: B.1.1.7
+    rx: CP_severe
+    samples: 18
+    s_fold: 15
+    i_fold: 2
+    r_fold: 1
+    reference: Rees-Spear21[^Rees-Spear21]
+    median: 3.0
   - variant: B.1.1.7
     rx: CoronaVac
     samples: 22
@@ -433,14 +465,6 @@
     reference: Tang21*[^Tang21]
     median: '2.4'
   - variant: B.1.1.7
-    rx: Mild
-    samples: 13
-    s_fold: 13
-    i_fold: 0
-    r_fold: 0
-    reference: Rees-Spear21[^Rees-Spear21]
-    median: <3.0
-  - variant: B.1.1.7
     rx: NVX-CoV
     samples: 28
     s_fold: 20
@@ -449,13 +473,13 @@
     reference: Shen21[^Shen21]
     median: '2.2'
   - variant: B.1.1.7
-    rx: Severe
-    samples: 13
-    s_fold: 13
+    rx: Sputnik V
+    samples: 12
+    s_fold: 12
     i_fold: 0
     r_fold: 0
-    reference: Rees-Spear21[^Rees-Spear21]
-    median: <3.0
+    reference: Ikegame21[^Ikegame21]
+    median: '0.6'
   - variant: B.1.1.7
     rx: mRNA-1273
     samples: 14
@@ -561,7 +585,7 @@
     i_fold: 10
     r_fold: 0
     reference: Kuzmina21[^Kuzmina21]
-    median: '6.8'
+    median: 6.8
   - variant: B.1.351
     rx: BNT162b2
     samples: 20
@@ -593,7 +617,7 @@
     i_fold: 25
     r_fold: 0
     reference: Skelly21[^Skelly21]
-    median: '5.0'
+    median: 5.0
   - variant: B.1.351
     rx: BNT162b2
     samples: 5
@@ -635,7 +659,7 @@
     reference: Zhou21b*[^Zhou21b]
     median: '7.5'
   - variant: B.1.351
-    rx: BNT162b2_W2
+    rx: BNT_W2
     samples: 15
     s_fold: 6
     i_fold: 7
@@ -643,7 +667,7 @@
     reference: Planas21[^Planas21]
     median: '3.6'
   - variant: B.1.351
-    rx: BNT162b2_W3
+    rx: BNT_W3
     samples: 16
     s_fold: 4
     i_fold: 6
@@ -651,7 +675,7 @@
     reference: Planas21[^Planas21]
     median: '6.2'
   - variant: B.1.351
-    rx: BNT162b2_W4
+    rx: BNT_W4
     samples: 10
     s_fold: 3
     i_fold: 6
@@ -659,7 +683,7 @@
     reference: Planas21[^Planas21]
     median: '3.8'
   - variant: B.1.351
-    rx: BNT162b2_W5
+    rx: BNT_W5
     samples: 13
     s_fold: 3
     i_fold: 3
@@ -667,7 +691,7 @@
     reference: Planas21[^Planas21]
     median: '11'
   - variant: B.1.351
-    rx: BNT162b2_W6
+    rx: BNT_W6
     samples: 13
     s_fold: 2
     i_fold: 6
@@ -675,7 +699,7 @@
     reference: Planas21[^Planas21]
     median: '7.2'
   - variant: B.1.351
-    rx: BNT162b2_infected
+    rx: BNT_infected
     samples: 5
     s_fold: 3
     i_fold: 2
@@ -683,7 +707,7 @@
     reference: McCallum21b[^McCallum21b]
     median: '2.1'
   - variant: B.1.351
-    rx: BNT162b2_one_dose
+    rx: BNT_sd
     samples: 10
     s_fold: 0
     i_fold: 0
@@ -700,20 +724,20 @@
     median: '10'
   - variant: B.1.351
     rx: CP
+    samples: 13
+    s_fold: 0
+    i_fold: 9
+    r_fold: 4
+    reference: Cele21*[^Cele21]
+    median: '8.4'
+  - variant: B.1.351
+    rx: CP
     samples: 19
     s_fold: 9
     i_fold: 7
     r_fold: 3
     reference: Chen21*[^Chen21]
     median: '3.3'
-  - variant: B.1.351
-    rx: CP
-    samples: 21
-    s_fold: 1
-    i_fold: 11
-    r_fold: 9
-    reference: Faulkner21*[^Faulkner21]
-    median: '9.3'
   - variant: B.1.351
     rx: CP
     samples: 9
@@ -724,20 +748,12 @@
     median: '3.6'
   - variant: B.1.351
     rx: CP
-    samples: 19
-    s_fold: 4
-    i_fold: 9
-    r_fold: 6
-    reference: Hu21[^Hu21]
-    median: '4.8'
-  - variant: B.1.351
-    rx: CP
     samples: 10
     s_fold: 0
     i_fold: 10
     r_fold: 0
     reference: Kuzmina21[^Kuzmina21]
-    median: '6.9'
+    median: 6.9
   - variant: B.1.351
     rx: CP
     samples: 2
@@ -746,6 +762,14 @@
     r_fold: 0
     reference: Marot21*[^Marot21]
     median: '6'
+  - variant: B.1.351
+    rx: CP
+    samples: 9
+    s_fold: 1
+    i_fold: 5
+    r_fold: 3
+    reference: McCallum21b[^McCallum21b]
+    median: '4.6'
   - variant: B.1.351
     rx: CP
     samples: 36
@@ -835,29 +859,21 @@
     reference: Zhou21b*[^Zhou21b]
     median: '14'
   - variant: B.1.351
-    rx: CP(8M)
+    rx: CP_1M
+    samples: 19
+    s_fold: 4
+    i_fold: 9
+    r_fold: 6
+    reference: Hu21[^Hu21]
+    median: '4.8'
+  - variant: B.1.351
+    rx: CP_8M
     samples: 19
     s_fold: 5
     i_fold: 9
     r_fold: 5
     reference: Hu21[^Hu21]
     median: '6'
-  - variant: B.1.351
-    rx: CP(High Titer)
-    samples: 22
-    s_fold: 1
-    i_fold: 7
-    r_fold: 14
-    reference: Wibmer21[^Wibmer21]
-    median: '14'
-  - variant: B.1.351
-    rx: CP(Low Titer)
-    samples: 13
-    s_fold: 4
-    i_fold: 2
-    r_fold: 7
-    reference: Wibmer21[^Wibmer21]
-    median: '11'
   - variant: B.1.351
     rx: CP_M3
     samples: 28
@@ -883,6 +899,38 @@
     reference: Planas21[^Planas21]
     median: '2.6'
   - variant: B.1.351
+    rx: CP_Mild
+    samples: 1
+    s_fold: 0
+    i_fold: 1
+    r_fold: 0
+    reference: Faulkner21*[^Faulkner21]
+    median: '4.8'
+  - variant: B.1.351
+    rx: CP_Patient
+    samples: 20
+    s_fold: 1
+    i_fold: 10
+    r_fold: 9
+    reference: Faulkner21*[^Faulkner21]
+    median: '9.5'
+  - variant: B.1.351
+    rx: CP_high_titer
+    samples: 22
+    s_fold: 1
+    i_fold: 7
+    r_fold: 14
+    reference: Wibmer21[^Wibmer21]
+    median: '14'
+  - variant: B.1.351
+    rx: CP_low_titer
+    samples: 13
+    s_fold: 4
+    i_fold: 2
+    r_fold: 7
+    reference: Wibmer21[^Wibmer21]
+    median: '11'
+  - variant: B.1.351
     rx: CoronaVac
     samples: 22
     s_fold: 5
@@ -907,13 +955,21 @@
     reference: Tang21*[^Tang21]
     median: '6.5'
   - variant: B.1.351
-    rx: NVV
+    rx: NVX-CoV
     samples: 22
     s_fold: 0
     i_fold: 7
     r_fold: 15
     reference: Shen21b[^Shen21b]
     median: '13'
+  - variant: B.1.351
+    rx: Sputnik V
+    samples: 12
+    s_fold: 3
+    i_fold: 6
+    r_fold: 3
+    reference: Ikegame21[^Ikegame21]
+    median: '6.2'
   - variant: B.1.351
     rx: mRNA-1273
     samples: 26
@@ -963,7 +1019,7 @@
     i_fold: 0
     r_fold: 0
     reference: Garcia-Beltran21[^Garcia-Beltran21]
-    median: '2.9'
+    median: 2.9
   - variant: B.1.427/9
     rx: BNT162b2
     samples: 13
@@ -973,7 +1029,7 @@
     reference: McCallum21b[^McCallum21b]
     median: '2.8'
   - variant: B.1.427/9
-    rx: BNT162b2_infected
+    rx: BNT_infected
     samples: 5
     s_fold: 3
     i_fold: 2
@@ -988,6 +1044,14 @@
     r_fold: 1
     reference: Deng21[^Deng21]
     median: '4'
+  - variant: B.1.427/9
+    rx: CP
+    samples: 9
+    s_fold: 2
+    i_fold: 5
+    r_fold: 2
+    reference: McCallum21b[^McCallum21b]
+    median: '3.7'
   - variant: B.1.427/9
     rx: CP
     samples: 14
@@ -1013,7 +1077,7 @@
     reference: Tang21[^Tang21]
     median: '1.5'
   - variant: B.1.427/9
-    rx: NVV
+    rx: NVX-CoV
     samples: 23
     s_fold: 15
     i_fold: 8
@@ -1085,7 +1149,7 @@
     i_fold: 0
     r_fold: 22
     reference: Garcia-Beltran21[^Garcia-Beltran21]
-    median: '15.1'
+    median: 15.1
   - variant: P.1
     rx: BNT162b2
     samples: 15
@@ -1111,7 +1175,7 @@
     reference: Wang21d[^Wang21d]
     median: '1.9'
   - variant: P.1
-    rx: BNT162b2_infected
+    rx: BNT_infected
     samples: 5
     s_fold: 4
     i_fold: 1
@@ -1142,6 +1206,14 @@
     r_fold: 1
     reference: Hoffmann21[^Hoffmann21]
     median: '6.1'
+  - variant: P.1
+    rx: CP
+    samples: 9
+    s_fold: 2
+    i_fold: 6
+    r_fold: 1
+    reference: McCallum21b[^McCallum21b]
+    median: '4'
   - variant: P.1
     rx: CP
     samples: 7

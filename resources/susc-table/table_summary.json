@@ -8,15 +8,15 @@
     },
     {
         "variant": "E484K",
-        "cp": 88,
-        "vp": 57,
+        "cp": 93,
+        "vp": 75,
         "phase3": 58,
         "structure": 19
     },
     {
         "variant": "K417N",
-        "cp": 63,
-        "vp": 71,
+        "cp": 69,
+        "vp": 77,
         "phase3": 38,
         "structure": 17
     },
@@ -29,49 +29,49 @@
     },
     {
         "variant": "L452R",
-        "cp": 2,
-        "vp": 0,
+        "cp": 8,
+        "vp": 6,
         "phase3": 14,
         "structure": 5
     },
     {
         "variant": "Other individual mutations",
-        "cp": 553,
-        "vp": 446,
-        "phase3": 593,
+        "cp": 563,
+        "vp": 470,
+        "phase3": 591,
         "structure": 495
     },
     {
         "variant": "All individual mutations",
-        "cp": 878,
-        "vp": 682,
-        "phase3": 744,
+        "cp": 905,
+        "vp": 736,
+        "phase3": 742,
         "structure": 557
     },
     {
         "variant": "B.1.1.7",
-        "cp": 475,
-        "vp": 611,
+        "cp": 484,
+        "vp": 623,
         "phase3": 67,
         "structure": 33
     },
     {
         "variant": "B.1.351",
-        "cp": 423,
-        "vp": 418,
+        "cp": 445,
+        "vp": 430,
         "phase3": 61,
         "structure": 21
     },
     {
         "variant": "P.1",
-        "cp": 106,
+        "cp": 115,
         "vp": 144,
         "phase3": 25,
         "structure": 5
     },
     {
         "variant": "B.1.427/9",
-        "cp": 46,
+        "cp": 55,
         "vp": 115,
         "phase3": 9,
         "structure": 3
@@ -85,16 +85,16 @@
     },
     {
         "variant": "Other combinations of mutations",
-        "cp": 581,
-        "vp": 651,
-        "phase3": 164,
+        "cp": 600,
+        "vp": 657,
+        "phase3": 166,
         "structure": 162
     },
     {
         "variant": "All combinations of mutations",
-        "cp": 1631,
-        "vp": 1947,
-        "phase3": 338,
+        "cp": 1699,
+        "vp": 1977,
+        "phase3": 340,
         "structure": 226
     }
 ]
