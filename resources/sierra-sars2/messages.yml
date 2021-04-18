@@ -1,6 +1,9 @@
 pattern-analysis-form-title: >- # Warning: title doesn't support markdown
   SARS-CoV-2 Mutations Analysis
 
+pattern-analysis-report-title: >- # Warning: title doesn't support markdown
+  SARS-CoV-2 Mutations Analysis Report
+
 pattern-analysis-form-desc: |-
   Mutations of each SARS-CoV-2 gene, Spike, RdRP, nsp1-10 (include PLpro and
   3CLpro), nsp13-16, ORF3a, E, M, ORF6, ORF7a, ORF8, N and ORF10, can be
@@ -23,6 +26,9 @@ pattern-analysis-form-desc: |-
 sequence-analysis-form-title: >- # Warning: title doesn't support markdown
   SARS-CoV-2 Sequence Analysis
 
+sequence-analysis-report-title: >- # Warning: title doesn't support markdown
+  SARS-CoV-2 Sequence Analysis Report
+
 sequence-analysis-form-desc: |-
   SARS-CoV-2 Sequences can be entered as plain text if just one sequence is
   entered.  Sequences must be entered using the FASTA format if multiple
@@ -32,6 +38,9 @@ sequence-analysis-form-desc: |-
 
 seqreads-analysis-form-title: >- # Warning: title doesn't support markdown
   SARS-CoV-2 Sequence Reads (NGS) Analysis
+
+seqreads-analysis-report-title: >- # Warning: title doesn't support markdown
+  SARS-CoV-2 Sequence Reads (NGS) Analysis Report
 
 seqreads-analysis-form-desc: |-
   SARS-CoV-2 Sequence Reads of each SARS-CoV-2 gene, Spike, RdRP, nsp1-10
