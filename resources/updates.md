@@ -78,7 +78,8 @@ Instruction:
 
 ## Database Entries
 ### April 2021
-### April 2021
+- April 19
+    - Vandyck K, Abdelnabi R, et int., and Neyts J. [“ALG-097111, a potent and selective SARS-CoV-2 3-chymotrypsin-like cysteine protease inhibitor exhibits in vivo efficacy in a Syrian Hamster model.”](/search/?article=Vandyck21) _Biochemical and Biophysical Research Communications_, 2021. [doi.org/10.1016/j.bbrc.2021.03.096](https://doi.org/10.1016/j.bbrc.2021.03.096). \[[PubMed33813272](https://www.ncbi.nlm.nih.gov/pubmed/33813272/)\] \[[PMC7997389](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7997389/)\]
 - April 11
     - Chen L, Zody MC, et int., and Kreiswirth BN. [“Emergence of multiple SARS-CoV-2 antibody escape variants in an immunocompromised host undergoing convalescent plasma treatment.”](/search/?article=Chen21b) _medRxiv_, 2021. [doi.org/10.1101/2021.04.08.21254791](https://doi.org/10.1101/2021.04.08.21254791).
     - Greaney AJ, Starr TN, et int., and Bloom JD. [“Mutational escape from the polyclonal antibody response to SARS-CoV-2 infection is largely shaped by a single class of antibodies.”](/search/?article=Greaney21b) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.17.435863](https://doi.org/10.1101/2021.03.17.435863). \[[PubMed33758856](https://www.ncbi.nlm.nih.gov/pubmed/33758856/)\] \[[PMC7987015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7987015/)\]
@@ -1197,6 +1198,15 @@ Instruction:
 
 ## Clinical Trials
 ### April 2021
+- April 15
+    - [7 clinical trials were added.](/clinical-trials/?fromDate=2021-04-15)
+    - EUCTR2020-003369-20-IE
+    - EUCTR2020-005315-44-DE
+    - EUCTR2021-000864-32-NL
+    - NCT04840459
+    - NCT04842435
+    - NCT04843761
+    - NCT04843787
 - April 08
     - [7 clinical trials were added.](/clinical-trials/?fromDate=2021-04-08)
     - NCT04834089

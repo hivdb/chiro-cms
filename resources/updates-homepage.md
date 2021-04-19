@@ -22,6 +22,10 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Apr 19)
+Vandyck K, Abdelnabi R, et int., and Neyts J. [“ALG-097111, a potent and selective SARS-CoV-2 3-chymotrypsin-like cysteine protease inhibitor exhibits in vivo efficacy in a Syrian Hamster model.”](/search/?article=Vandyck21) _Biochemical and Biophysical Research Communications_, 2021. [doi.org/10.1016/j.bbrc.2021.03.096](https://doi.org/10.1016/j.bbrc.2021.03.096). \[[PubMed33813272](https://www.ncbi.nlm.nih.gov/pubmed/33813272/)\] \[[PMC7997389](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7997389/)\]
+### [Clinical Trials (Apr 15)](/page/updates/#clinical.trials)
+[7 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-04-15)
 ### Database Entries (Apr 11)
 Maisonnasse P, Aldon Y, et int., and Grand RL. [“COVA1-18 neutralizing antibody protects against SARS-CoV-2 in three preclinical models.”](/search/?article=Maisonnasse21) _Research Square_, 2021. [doi.org/10.21203/rs.3.rs-235272/v1](https://doi.org/10.21203/rs.3.rs-235272/v1). \[[PubMed33619476](https://www.ncbi.nlm.nih.gov/pubmed/33619476/)\] \[[PMC7899470](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7899470/)\]
 ### Database Entries (Apr 11)
