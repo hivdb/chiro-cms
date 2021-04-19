@@ -26,10 +26,20 @@
     fold: '1.4'
     reference: Wang21b[^Wang21b]
   - variant: E484K
+    rx: BRII-196
+    mab_class: ''
+    fold: '1.4'
+    reference: Wang21f[^Wang21f]
+  - variant: E484K
     rx: BRII-198
     mab_class: ''
     fold: '2.5'
     reference: Wang21b[^Wang21b]
+  - variant: E484K
+    rx: BRII-198
+    mab_class: ''
+    fold: '2.2'
+    reference: Wang21f[^Wang21f]
   - variant: E484K
     rx: Bamlanivimab/Etesevimab
     mab_class: ''
@@ -265,11 +275,6 @@
     mab_class: RBM Class I
     fold: '3.5'
     reference: Wang21b[^Wang21b]
-  - variant: E484K
-    rx: P2C-1F11
-    mab_class: RBM Class I
-    fold: '1.4'
-    reference: Wang21f[^Wang21f]
   - variant: E484K
     rx: S2E12
     mab_class: RBM Class I
@@ -527,10 +532,20 @@
     fold: '1.8'
     reference: Wang21b[^Wang21b]
   - variant: K417N
+    rx: BRII-196
+    mab_class: ''
+    fold: '1.6'
+    reference: Wang21f[^Wang21f]
+  - variant: K417N
     rx: BRII-198
     mab_class: ''
     fold: '0.2'
     reference: Wang21b[^Wang21b]
+  - variant: K417N
+    rx: BRII-198
+    mab_class: ''
+    fold: '0.4'
+    reference: Wang21f[^Wang21f]
   - variant: K417N
     rx: Bamlanivimab/Etesevimab
     mab_class: ''
@@ -702,11 +717,6 @@
     fold: '&gt;100'
     reference: Wang21e[^Wang21e]
   - variant: K417N
-    rx: P2C-1F11
-    mab_class: RBM Class I
-    fold: '1.6'
-    reference: Wang21f[^Wang21f]
-  - variant: K417N
     rx: S2E12
     mab_class: RBM Class I
     fold: '0.2'
@@ -773,6 +783,16 @@
     reference: Wang21[^Wang21]
 - variant: K417N + E484K + N501Y
   assays:
+  - variant: K417N + E484K + N501Y
+    rx: BRII-196
+    mab_class: ''
+    fold: '0.5'
+    reference: Wang21f[^Wang21f]
+  - variant: K417N + E484K + N501Y
+    rx: BRII-198
+    mab_class: ''
+    fold: '3'
+    reference: Wang21f[^Wang21f]
   - variant: K417N + E484K + N501Y
     rx: Bamlanivimab/Etesevimab
     mab_class: ''
@@ -889,11 +909,6 @@
     fold: '&gt;100'
     reference: Wang21e[^Wang21e]
   - variant: K417N + E484K + N501Y
-    rx: P2C-1F11
-    mab_class: RBM Class I
-    fold: '0.5'
-    reference: Wang21f[^Wang21f]
-  - variant: K417N + E484K + N501Y
     rx: S2E12
     mab_class: RBM Class I
     fold: '0.5'
@@ -945,6 +960,11 @@
     reference: Collier21[^Collier21]
 - variant: L452R
   assays:
+  - variant: L452R
+    rx: BRII-196
+    mab_class: ''
+    fold: '1.4'
+    reference: Li20h[^Li20h]
   - variant: L452R
     rx: Bamlanivimab/Etesevimab
     mab_class: ''
@@ -1021,11 +1041,6 @@
     fold: '0.6'
     reference: Wang21e[^Wang21e]
   - variant: L452R
-    rx: P2C-1F11
-    mab_class: RBM Class I
-    fold: '1.4'
-    reference: Li20h[^Li20h]
-  - variant: L452R
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '&gt;100'
@@ -1042,6 +1057,21 @@
     reference: Li20h[^Li20h]
 - variant: N439K
   assays:
+  - variant: N439K
+    rx: BRII-196
+    mab_class: ''
+    fold: '1'
+    reference: Li20h[^Li20h]
+  - variant: N439K
+    rx: BRII-196
+    mab_class: ''
+    fold: '1'
+    reference: Wang21f[^Wang21f]
+  - variant: N439K
+    rx: BRII-198
+    mab_class: ''
+    fold: '1'
+    reference: Wang21f[^Wang21f]
   - variant: N439K
     rx: Casirivimab/Imdevimab
     mab_class: ''
@@ -1163,16 +1193,6 @@
     fold: '0.4'
     reference: Wang21f[^Wang21f]
   - variant: N439K
-    rx: P2C-1F11
-    mab_class: RBM Class I
-    fold: '1'
-    reference: Li20h[^Li20h]
-  - variant: N439K
-    rx: P2C-1F11
-    mab_class: RBM Class I
-    fold: '1'
-    reference: Wang21f[^Wang21f]
-  - variant: N439K
     rx: S2E12
     mab_class: RBM Class I
     fold: '0.9'
@@ -1240,10 +1260,20 @@
     fold: '0.7'
     reference: Wang21b[^Wang21b]
   - variant: N501Y
+    rx: BRII-196
+    mab_class: ''
+    fold: '1'
+    reference: Wang21f[^Wang21f]
+  - variant: N501Y
     rx: BRII-198
     mab_class: ''
     fold: '1'
     reference: Wang21b[^Wang21b]
+  - variant: N501Y
+    rx: BRII-198
+    mab_class: ''
+    fold: '2.6'
+    reference: Wang21f[^Wang21f]
   - variant: N501Y
     rx: Bamlanivimab/Etesevimab
     mab_class: ''
@@ -1475,11 +1505,6 @@
     fold: '5'
     reference: Yao21[^Yao21]
   - variant: N501Y
-    rx: P2C-1F11
-    mab_class: RBM Class I
-    fold: '1'
-    reference: Wang21f[^Wang21f]
-  - variant: N501Y
     rx: S2E12
     mab_class: RBM Class I
     fold: '1.1'
@@ -1567,6 +1592,16 @@
 - variant: S494P
   assays:
   - variant: S494P
+    rx: BRII-196
+    mab_class: ''
+    fold: '0.7'
+    reference: Wang21f[^Wang21f]
+  - variant: S494P
+    rx: BRII-198
+    mab_class: ''
+    fold: '1.6'
+    reference: Wang21f[^Wang21f]
+  - variant: S494P
     rx: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '1'
@@ -1637,11 +1672,6 @@
     fold: '0.6'
     reference: Wang21f[^Wang21f]
   - variant: S494P
-    rx: P2C-1F11
-    mab_class: RBM Class I
-    fold: '0.7'
-    reference: Wang21f[^Wang21f]
-  - variant: S494P
     rx: S2E12
     mab_class: RBM Class I
     fold: '0.5'
@@ -1678,6 +1708,16 @@
     reference: Tortorici20[^Tortorici20]
 - variant: Y453F
   assays:
+  - variant: Y453F
+    rx: BRII-196
+    mab_class: ''
+    fold: '1'
+    reference: Wang21f[^Wang21f]
+  - variant: Y453F
+    rx: BRII-198
+    mab_class: ''
+    fold: '1.5'
+    reference: Wang21f[^Wang21f]
   - variant: Y453F
     rx: Casirivimab/Imdevimab
     mab_class: ''
@@ -1774,11 +1814,6 @@
     fold: '0.6'
     reference: Wang21f[^Wang21f]
   - variant: Y453F
-    rx: P2C-1F11
-    mab_class: RBM Class I
-    fold: '1'
-    reference: Wang21f[^Wang21f]
-  - variant: Y453F
     rx: S2E12
     mab_class: RBM Class I
     fold: '1.6'
@@ -1826,10 +1861,20 @@
     fold: '0.8'
     reference: Wang21b[^Wang21b]
   - variant: ∆144
+    rx: BRII-196
+    mab_class: ''
+    fold: '0.8'
+    reference: Wang21f[^Wang21f]
+  - variant: ∆144
     rx: BRII-198
     mab_class: ''
     fold: '0.7'
     reference: Wang21b[^Wang21b]
+  - variant: ∆144
+    rx: BRII-198
+    mab_class: ''
+    fold: '0.8'
+    reference: Wang21f[^Wang21f]
   - variant: ∆144
     rx: 4A8
     mab_class: NTD
@@ -1906,11 +1951,6 @@
     fold: '0.6'
     reference: Wang21f[^Wang21f]
   - variant: ∆144
-    rx: P2C-1F11
-    mab_class: RBM Class I
-    fold: '0.8'
-    reference: Wang21f[^Wang21f]
-  - variant: ∆144
     rx: Tixagevimab
     mab_class: RBM Class I
     fold: '1.1'
@@ -1968,10 +2008,20 @@
     fold: '0.9'
     reference: Wang21b[^Wang21b]
   - variant: ∆69/70
+    rx: BRII-196
+    mab_class: ''
+    fold: '1'
+    reference: Wang21f[^Wang21f]
+  - variant: ∆69/70
     rx: BRII-198
     mab_class: ''
     fold: '0.9'
     reference: Wang21b[^Wang21b]
+  - variant: ∆69/70
+    rx: BRII-198
+    mab_class: ''
+    fold: '2.7'
+    reference: Wang21f[^Wang21f]
   - variant: ∆69/70
     rx: 4A8
     mab_class: NTD
@@ -2086,11 +2136,6 @@
     rx: Etesevimab
     mab_class: RBM Class I
     fold: '0.7'
-    reference: Wang21f[^Wang21f]
-  - variant: ∆69/70
-    rx: P2C-1F11
-    mab_class: RBM Class I
-    fold: '1'
     reference: Wang21f[^Wang21f]
   - variant: ∆69/70
     rx: Tixagevimab

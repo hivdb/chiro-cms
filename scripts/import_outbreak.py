@@ -39,8 +39,25 @@ def get_datetime_obj(datetime_str):
     return datetime.strptime(datetime_str, '%Y-%m-%d')
 
 
-START_DATE = '2020-07-01'
-START_DATE = get_datetime_obj(START_DATE)
+START_DATE = None
+KEY_DATE = None
+
+
+def get_start_date():
+    global START_DATE
+    global KEY_DATE
+    TODAY = datetime.today()
+    if TODAY.day < 15:
+        START_DATE = '2020-07-01'
+        KEY_DATE = '01'
+    else:
+        START_DATE = '2020-07-15'
+        KEY_DATE = '15'
+    START_DATE = get_datetime_obj(START_DATE)
+
+
+get_start_date()
+
 
 FREQ_CALL_NUMBER = 5
 FREQ_WAIT_SECONDS = 1
@@ -177,13 +194,15 @@ def get_mutation_prevalence():
             if get_datetime_obj(date) < START_DATE:
                 continue
 
-            if not date.endswith('01'):
+            if not date.endswith(KEY_DATE):
                 continue
 
             proportion = get_proportion(
                 cummulative_lineage_count,
                 cummulative_total_count
             )
+
+            date = date[:7]
 
             prevalence[name].append({
                 'date': date,
@@ -287,13 +306,15 @@ def get_variant_global_prevalence():
             if get_datetime_obj(date) < START_DATE:
                 continue
 
-            if not date.endswith('01'):
+            if not date.endswith(KEY_DATE):
                 continue
 
             proportion = get_proportion(
                 cummulative_lineage_count,
                 cummulative_total_count
             )
+
+            date = date[:7]
 
             prevalence[variant].append({
                 'date': date,
@@ -306,11 +327,11 @@ def get_variant_global_prevalence():
 
 def process_variants(save_dir):
 
-    prevalence = get_variant_global_prevalence()
-    save_path = save_dir / 'aapcnt-variants.yml'
-    with open(save_path, 'w') as fp:
-        yaml.dump(prevalence, fp)
-        print('Updated {}'.format(save_path))
+    # prevalence = get_variant_global_prevalence()
+    # save_path = save_dir / 'aapcnt-variants.yml'
+    # with open(save_path, 'w') as fp:
+    #     yaml.dump(prevalence, fp)
+    #     print('Updated {}'.format(save_path))
 
     save_path = save_dir / 'variants-mutations.yml'
     mutations = get_variant_mutations()
@@ -325,7 +346,7 @@ def import_outbreak():
 
     get_version()
 
-    process_mutations(RESULTS_DIR)
+    # process_mutations(RESULTS_DIR)
 
     process_variants(RESULTS_DIR)
 

@@ -23,6 +23,10 @@ Instruction:
 
 -->
 ### Database Entries (Apr 19)
+Greaney AJ, Loes AN, et int., and Bloom JD. “The SARS-CoV-2 mRNA-1273 vaccine elicits more RBD-focused neutralization, but with broader antibody binding within the RBD.” _bioRxiv_, 2021. [doi.org/10.1101/2021.04.14.439844](https://doi.org/10.1101/2021.04.14.439844).
+### Database Entries (Apr 19)
+Ikegame S, Siddiquey MNA, et int., and Lee B. “Qualitatively distinct modes of Sputnik V vaccine-neutralization escape by SARS-CoV-2 Spike variants.” _medRxiv_, 2021. [doi.org/10.1101/2021.03.31.21254660](https://doi.org/10.1101/2021.03.31.21254660). \[[PubMed33821288](https://www.ncbi.nlm.nih.gov/pubmed/33821288/)\] \[[PMC8020991](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8020991/)\]
+### Database Entries (Apr 19)
 Vandyck K, Abdelnabi R, et int., and Neyts J. [“ALG-097111, a potent and selective SARS-CoV-2 3-chymotrypsin-like cysteine protease inhibitor exhibits in vivo efficacy in a Syrian Hamster model.”](/search/?article=Vandyck21) _Biochemical and Biophysical Research Communications_, 2021. [doi.org/10.1016/j.bbrc.2021.03.096](https://doi.org/10.1016/j.bbrc.2021.03.096). \[[PubMed33813272](https://www.ncbi.nlm.nih.gov/pubmed/33813272/)\] \[[PMC7997389](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7997389/)\]
 ### [Clinical Trials (Apr 15)](/page/updates/#clinical.trials)
 [7 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-04-15)

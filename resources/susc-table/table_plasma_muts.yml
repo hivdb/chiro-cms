@@ -3,8 +3,8 @@
   - variant: E484K
     rx: BNT162b2
     samples: 5
-    s_fold: 2
-    i_fold: 3
+    s_fold: 1
+    i_fold: 4
     r_fold: 0
     reference: Jangra21[^Jangra21]
     median: '4.3'
@@ -19,8 +19,8 @@
   - variant: E484K
     rx: BNT162b2
     samples: 5
-    s_fold: 1
-    i_fold: 4
+    s_fold: 0
+    i_fold: 5
     r_fold: 0
     reference: Tada21[^Tada21]
     median: '4.3'
@@ -52,15 +52,15 @@
     rx: CP
     samples: 5
     s_fold: 1
-    i_fold: 2
-    r_fold: 2
+    i_fold: 1
+    r_fold: 3
     reference: Greaney21c[^Greaney21c]
     median: '10'
   - variant: E484K
     rx: CP
     samples: 30
-    s_fold: 17
-    i_fold: 10
+    s_fold: 16
+    i_fold: 11
     r_fold: 3
     reference: Jangra21[^Jangra21]
     median: '2.7'
@@ -99,8 +99,8 @@
   - variant: E484K
     rx: mRNA-1273
     samples: 6
-    s_fold: 4
-    i_fold: 2
+    s_fold: 2
+    i_fold: 4
     r_fold: 0
     reference: Greaney21c[^Greaney21c]
     median: '3'
@@ -115,8 +115,8 @@
   - variant: E484K
     rx: mRNA-1273
     samples: 12
-    s_fold: 8
-    i_fold: 4
+    s_fold: 7
+    i_fold: 5
     r_fold: 0
     reference: Wang21b[^Wang21b]
     median: '2.7'
@@ -159,8 +159,8 @@
   - variant: K417N
     rx: BNT162b2
     samples: 24
-    s_fold: 23
-    i_fold: 1
+    s_fold: 22
+    i_fold: 2
     r_fold: 0
     reference: Chen21[^Chen21]
     median: '0.9'
@@ -305,8 +305,8 @@
   - variant: K417N + E484K + N501Y
     rx: CP_6M
     samples: 45
-    s_fold: 37
-    i_fold: 6
+    s_fold: 36
+    i_fold: 7
     r_fold: 2
     reference: Wang21[^Wang21]
     median: '1.9'
@@ -463,8 +463,8 @@
   - variant: N501Y
     rx: CP
     samples: 15
-    s_fold: 11
-    i_fold: 4
+    s_fold: 10
+    i_fold: 5
     r_fold: 0
     reference: Shen21[^Shen21]
     median: '2.2'
@@ -503,16 +503,16 @@
   - variant: N501Y
     rx: CP_mild
     samples: 18
-    s_fold: 17
-    i_fold: 1
+    s_fold: 0
+    i_fold: 18
     r_fold: 0
     reference: Rees-Spear21[^Rees-Spear21]
     median: 3.0
   - variant: N501Y
     rx: CP_severe
     samples: 18
-    s_fold: 18
-    i_fold: 0
+    s_fold: 0
+    i_fold: 18
     r_fold: 0
     reference: Rees-Spear21[^Rees-Spear21]
     median: 3.0
@@ -569,8 +569,8 @@
   - variant: Y453F
     rx: CP
     samples: 14
-    s_fold: 10
-    i_fold: 4
+    s_fold: 9
+    i_fold: 5
     r_fold: 0
     reference: Hoffmann21b[^Hoffmann21b]
     median: '1.9'
@@ -645,16 +645,16 @@
   - variant: ∆69/70
     rx: CP_mild
     samples: 18
-    s_fold: 18
-    i_fold: 0
+    s_fold: 0
+    i_fold: 18
     r_fold: 0
     reference: Rees-Spear21[^Rees-Spear21]
     median: 3.0
   - variant: ∆69/70
     rx: CP_severe
     samples: 18
-    s_fold: 18
-    i_fold: 0
+    s_fold: 0
+    i_fold: 18
     r_fold: 0
     reference: Rees-Spear21[^Rees-Spear21]
     median: 3.0
@@ -705,8 +705,8 @@
   - variant: ∆69/70 + N501Y + A570D
     rx: CP
     samples: 10
-    s_fold: 10
-    i_fold: 0
+    s_fold: 9
+    i_fold: 1
     r_fold: 0
     reference: Collier21[^Collier21]
     median: '0.8'
