@@ -107,4 +107,8 @@ sequenceExamples:
     title: N.9 (N=1)
   - url: downloads/fasta-examples/a-voi-v2.fas
     title: A.VOI.V2 (N=1)
-seqReadsExamples: []
+seqReadsExamples:
+  - url: downloads/codfreq-examples/B.1.1.7_CAMC-C471A4_ERR5026962.codfreq
+    title: B.1.1.7 (N=1)
+  - url: downloads/codfreq-examples/B.1.351_KRISP-K005325_SRR13620320.codfreq
+    title: B.1.351 (N=1)
