@@ -601,6 +601,13 @@
                 "variant": "B.1.1.7",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
+                "fold": "1.2",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
                 "fold": "0.6",
                 "reference": "Wang21e[^Wang21e]"
             },
@@ -1012,6 +1019,13 @@
                 "variant": "B.1.351",
                 "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
+                "fold": "1",
+                "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Vir-7831",
+                "mab_class": "RBD Core Cluster I",
                 "fold": "0.5",
                 "reference": "Wang21f[^Wang21f]"
             },
@@ -1175,6 +1189,13 @@
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
                 "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Wang21b[^Wang21b]"
             },
             {
                 "variant": "B.1.351",
