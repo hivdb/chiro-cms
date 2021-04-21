@@ -188,6 +188,13 @@
                 "variant": "B.1.1.7",
                 "rx": "Cilgavimab/Tixagevimab",
                 "mab_class": "",
+                "fold": "0.8",
+                "reference": "Supasa21*[^Supasa21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Cilgavimab/Tixagevimab",
+                "mab_class": "",
                 "fold": "1",
                 "reference": "Wang21b*[^Wang21b]"
             },
@@ -893,6 +900,13 @@
                 "variant": "B.1.351",
                 "rx": "Cilgavimab/Tixagevimab",
                 "mab_class": "",
+                "fold": "1.4",
+                "reference": "Zhou21b*[^Zhou21b]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Cilgavimab/Tixagevimab",
+                "mab_class": "",
                 "fold": "12",
                 "reference": "Wang21b*[^Wang21b]"
             },
@@ -1456,6 +1470,13 @@
                 "mab_class": "",
                 "fold": "1",
                 "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "P.1",
+                "rx": "Cilgavimab/Tixagevimab",
+                "mab_class": "",
+                "fold": "0.7",
+                "reference": "Dejnirattisai21*[^Dejnirattisai21]"
             },
             {
                 "variant": "P.1",
