@@ -7,9 +7,7 @@ positions:
     color: '#a0a0a0'
 - name: RdRP:P323F  # ORF1ab:L4715F
   pos: 14407
-  <<: &non-spike
-    stroke: '#e0e0e0'
-    color: '#a0a0a0'
+  <<: *non-spike
 - name: A67V
   pos: 21761
 - name: HV69-70del
