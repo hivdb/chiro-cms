@@ -438,12 +438,12 @@
     median: '1.5'
   - variant: N501Y
     rx: BNT162b2
-    samples: 11
-    s_fold: 11
+    samples: 20
+    s_fold: 20
     i_fold: 0
     r_fold: 0
     reference: Xie21[^Xie21]
-    median: 0.5
+    median: '0.8'
   - variant: N501Y
     rx: BNT162b2
     samples: 20
@@ -493,6 +493,22 @@
     reference: Wang21f[^Wang21f]
     median: '0.8'
   - variant: N501Y
+    rx: CP_Mild
+    samples: 18
+    s_fold: 16
+    i_fold: 2
+    r_fold: 0
+    reference: Rees-Spear21[^Rees-Spear21]
+    median: '1.2'
+  - variant: N501Y
+    rx: CP_Severe
+    samples: 18
+    s_fold: 18
+    i_fold: 0
+    r_fold: 0
+    reference: Rees-Spear21[^Rees-Spear21]
+    median: '1.2'
+  - variant: N501Y
     rx: CP_acute
     samples: 16
     s_fold: 16
@@ -500,22 +516,6 @@
     r_fold: 0
     reference: Edara21[^Edara21]
     median: '0.7'
-  - variant: N501Y
-    rx: CP_mild
-    samples: 18
-    s_fold: 0
-    i_fold: 18
-    r_fold: 0
-    reference: Rees-Spear21[^Rees-Spear21]
-    median: 3.0
-  - variant: N501Y
-    rx: CP_severe
-    samples: 18
-    s_fold: 0
-    i_fold: 18
-    r_fold: 0
-    reference: Rees-Spear21[^Rees-Spear21]
-    median: 3.0
   - variant: N501Y
     rx: mRNA-1273
     samples: 14
@@ -643,21 +643,21 @@
     reference: Wang21b[^Wang21b]
     median: '1.1'
   - variant: ∆69/70
-    rx: CP_mild
+    rx: CP_Mild
     samples: 18
-    s_fold: 0
-    i_fold: 18
+    s_fold: 18
+    i_fold: 0
     r_fold: 0
     reference: Rees-Spear21[^Rees-Spear21]
-    median: 3.0
+    median: '0.8'
   - variant: ∆69/70
-    rx: CP_severe
+    rx: CP_Severe
     samples: 18
-    s_fold: 0
-    i_fold: 18
+    s_fold: 18
+    i_fold: 0
     r_fold: 0
     reference: Rees-Spear21[^Rees-Spear21]
-    median: 3.0
+    median: '0.8'
   - variant: ∆69/70
     rx: mRNA-1273
     samples: 12

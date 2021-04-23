@@ -101,6 +101,16 @@
     fold: '1.3'
     reference: Wang21b*[^Wang21b]
   - variant: B.1.1.7
+    rx: COVOX-384
+    mab_class: ''
+    fold: '0.7'
+    reference: Chen21*[^Chen21]
+  - variant: B.1.1.7
+    rx: COVOX-40
+    mab_class: ''
+    fold: '0.9'
+    reference: Chen21*[^Chen21]
+  - variant: B.1.1.7
     rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '0.9'
@@ -146,15 +156,55 @@
     fold: '1.6'
     reference: Shen21[^Shen21]
   - variant: B.1.1.7
+    rx: DH1043
+    mab_class: ''
+    fold: '1.3'
+    reference: Shen21[^Shen21]
+  - variant: B.1.1.7
+    rx: H4
+    mab_class: ''
+    fold: '4.7'
+    reference: Shen21[^Shen21]
+  - variant: B.1.1.7
+    rx: P5A-1B9
+    mab_class: ''
+    fold: '1.1'
+    reference: Wang21f[^Wang21f]
+  - variant: B.1.1.7
     rx: S2E11
     mab_class: ''
     fold: '0.6'
+    reference: Collier21[^Collier21]
+  - variant: B.1.1.7
+    rx: S2E13
+    mab_class: ''
+    fold: '2.3'
     reference: Collier21[^Collier21]
   - variant: B.1.1.7
     rx: Vir-7831/S2E12
     mab_class: ''
     fold: '0.7'
     reference: Chen21*[^Chen21]
+  - variant: B.1.1.7
+    rx: 2-17
+    mab_class: NTD
+    fold: '&gt;100'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.1.7
+    rx: 2-17
+    mab_class: NTD
+    fold: '43'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.1.7
+    rx: 4-8
+    mab_class: NTD
+    fold: '&gt;100'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.1.7
+    rx: 4-8
+    mab_class: NTD
+    fold: '&gt;100'
+    reference: Wang21b*[^Wang21b]
   - variant: B.1.1.7
     rx: 4A8
     mab_class: NTD
@@ -174,6 +224,21 @@
     rx: 5-24
     mab_class: NTD
     fold: '&gt;100'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.1.7
+    rx: S2M28
+    mab_class: NTD
+    fold: '41'
+    reference: Collier21[^Collier21]
+  - variant: B.1.1.7
+    rx: 2-43
+    mab_class: RBD Core Cluster I
+    fold: '4.1'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.1.7
+    rx: 2-43
+    mab_class: RBD Core Cluster I
+    fold: '2.3'
     reference: Wang21b*[^Wang21b]
   - variant: B.1.1.7
     rx: C135
@@ -608,6 +673,11 @@
     fold: '&gt;100'
     reference: Wang21b*[^Wang21b]
   - variant: B.1.351
+    rx: COVOX-40
+    mab_class: ''
+    fold: '11'
+    reference: Chen21*[^Chen21]
+  - variant: B.1.351
     rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '0.6'
@@ -653,6 +723,26 @@
     fold: '0.6'
     reference: Chen21*[^Chen21]
   - variant: B.1.351
+    rx: 2-17
+    mab_class: NTD
+    fold: '&gt;100'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.351
+    rx: 2-17
+    mab_class: NTD
+    fold: '&gt;100'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.351
+    rx: 4-8
+    mab_class: NTD
+    fold: '&gt;100'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.351
+    rx: 4-8
+    mab_class: NTD
+    fold: '&gt;100'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.351
     rx: 4A8
     mab_class: NTD
     fold: '&gt;100'
@@ -670,6 +760,16 @@
   - variant: B.1.351
     rx: 5-24
     mab_class: NTD
+    fold: '&gt;100'
+    reference: Wang21b*[^Wang21b]
+  - variant: B.1.351
+    rx: 2-43
+    mab_class: RBD Core Cluster I
+    fold: '&gt;100'
+    reference: Wang21b[^Wang21b]
+  - variant: B.1.351
+    rx: 2-43
+    mab_class: RBD Core Cluster I
     fold: '&gt;100'
     reference: Wang21b*[^Wang21b]
   - variant: B.1.351
@@ -1048,6 +1148,11 @@
     mab_class: ''
     fold: '0.7'
     reference: Dejnirattisai21*[^Dejnirattisai21]
+  - variant: P.1
+    rx: 4-8
+    mab_class: NTD
+    fold: '0.2'
+    reference: Wang21d[^Wang21d]
   - variant: P.1
     rx: 4A8
     mab_class: NTD

@@ -16,11 +16,21 @@
                 "variant": "B.1.1.7",
                 "rx": "AZD1222",
                 "samples": 10,
-                "s_fold": 10,
-                "i_fold": 0,
+                "s_fold": 9,
+                "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Supasa21*[^Supasa21]",
-                "median": 2.1
+                "median": "1.8"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "AZD_14d",
+                "samples": 15,
+                "s_fold": 13,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "Supasa21*[^Supasa21]",
+                "median": "2.2"
             },
             {
                 "variant": "B.1.1.7",
@@ -135,22 +145,22 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 25,
-                "s_fold": 25,
-                "i_fold": 0,
+                "samples": 24,
+                "s_fold": 17,
+                "i_fold": 7,
                 "r_fold": 0,
-                "reference": "Skelly21[^Skelly21]",
-                "median": 2.0
+                "reference": "Skelly21*[^Skelly21]",
+                "median": "2.2"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 25,
-                "s_fold": 0,
-                "i_fold": 25,
+                "samples": 24,
+                "s_fold": 10,
+                "i_fold": 14,
                 "r_fold": 0,
                 "reference": "Supasa21*[^Supasa21]",
-                "median": 3.3
+                "median": "3.3"
             },
             {
                 "variant": "B.1.1.7",
@@ -181,16 +191,6 @@
                 "r_fold": 1,
                 "reference": "Widera21*[^Widera21]",
                 "median": "8"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "BNT162b2",
-                "samples": 18,
-                "s_fold": 18,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Zuckerman21*[^Zuckerman21]",
-                "median": 2.0
             },
             {
                 "variant": "B.1.1.7",
@@ -261,16 +261,6 @@
                 "r_fold": 0,
                 "reference": "McCallum21b[^McCallum21b]",
                 "median": "1.6"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "BNT_sd",
-                "samples": 5,
-                "s_fold": 0,
-                "i_fold": 0,
-                "r_fold": 5,
-                "reference": "Skelly21*[^Skelly21]",
-                "median": "67"
             },
             {
                 "variant": "B.1.1.7",
@@ -375,22 +365,22 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
-                "samples": 9,
-                "s_fold": 3,
+                "samples": 11,
+                "s_fold": 7,
                 "i_fold": 3,
-                "r_fold": 3,
-                "reference": "Skelly21[^Skelly21]",
-                "median": "3.4"
+                "r_fold": 1,
+                "reference": "Skelly21*[^Skelly21]",
+                "median": "2.8"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
                 "samples": 34,
-                "s_fold": 34,
-                "i_fold": 0,
+                "s_fold": 20,
+                "i_fold": 14,
                 "r_fold": 0,
                 "reference": "Supasa21*[^Supasa21]",
-                "median": 2.9
+                "median": "2.5"
             },
             {
                 "variant": "B.1.1.7",
@@ -514,6 +504,16 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "CP_Mild",
+                "samples": 18,
+                "s_fold": 13,
+                "i_fold": 4,
+                "r_fold": 1,
+                "reference": "Rees-Spear21[^Rees-Spear21]",
+                "median": "2"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "CP_Patient",
                 "samples": 20,
                 "s_fold": 17,
@@ -524,6 +524,16 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "CP_Severe",
+                "samples": 18,
+                "s_fold": 13,
+                "i_fold": 4,
+                "r_fold": 1,
+                "reference": "Rees-Spear21[^Rees-Spear21]",
+                "median": "2.4"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "CP_acute",
                 "samples": 16,
                 "s_fold": 15,
@@ -531,26 +541,6 @@
                 "r_fold": 0,
                 "reference": "Edara21*[^Edara21]",
                 "median": "0.9"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "CP_mild",
-                "samples": 18,
-                "s_fold": 0,
-                "i_fold": 17,
-                "r_fold": 1,
-                "reference": "Rees-Spear21[^Rees-Spear21]",
-                "median": 3.0
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "CP_severe",
-                "samples": 18,
-                "s_fold": 0,
-                "i_fold": 17,
-                "r_fold": 1,
-                "reference": "Rees-Spear21[^Rees-Spear21]",
-                "median": 3.0
             },
             {
                 "variant": "B.1.1.7",
@@ -770,12 +760,12 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 25,
-                "s_fold": 0,
-                "i_fold": 25,
-                "r_fold": 0,
-                "reference": "Skelly21[^Skelly21]",
-                "median": 5.0
+                "samples": 23,
+                "s_fold": 4,
+                "i_fold": 15,
+                "r_fold": 4,
+                "reference": "Skelly21*[^Skelly21]",
+                "median": "5.4"
             },
             {
                 "variant": "B.1.351",
@@ -889,16 +879,6 @@
             },
             {
                 "variant": "B.1.351",
-                "rx": "BNT_sd",
-                "samples": 10,
-                "s_fold": 0,
-                "i_fold": 0,
-                "r_fold": 10,
-                "reference": "Skelly21*[^Skelly21]",
-                "median": "60"
-            },
-            {
-                "variant": "B.1.351",
                 "rx": "CP",
                 "samples": 7,
                 "s_fold": 3,
@@ -990,12 +970,12 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
-                "samples": 9,
+                "samples": 5,
                 "s_fold": 1,
-                "i_fold": 1,
-                "r_fold": 7,
-                "reference": "Skelly21[^Skelly21]",
-                "median": "57"
+                "i_fold": 0,
+                "r_fold": 4,
+                "reference": "Skelly21*[^Skelly21]",
+                "median": "11"
             },
             {
                 "variant": "B.1.351",
