@@ -25,7 +25,7 @@
   - [Avanzato VA, Matson MJ, et int., and Munster VJ.](#sec_avanzato20)
   - [Bazykin G, Stanevich O, et int., and Lioznov D.](#sec_bazykin20)
   - [Khatamzas E, Rehn A, et int., and Antwerpen M.](#sec_khatamzas20)
-  - [Chen L, Zody CM, et int., and Kreiswirth BN.](#sec_chen21c)
+  - [Chen L, Zody CM, et int., and Kreiswirth BN.](#sec_chen21b)
 [/toc]
 
 <div style="clear: both; height: 0;" />
@@ -423,7 +423,7 @@ a-voi-v2
 <div class="figure-caption">
 
 ### [B.1.1.1 sublineage in Peru and Chile](#sec_b-1-1-1-sub)
-Romero PE, Davila-Barclay A, et int., and Tsukayama P. “Novel sublineage within B.1.1.1 currently expanding in Peru and Chile, with a convergent deletion in the ORF1a gene (Δ3675-3677) and a novel deletion in the Spike gene (Δ246-252, G75V, T76I, L452Q, F490S, T859N).” Virological.org, 2021. [^Romero]
+Romero PE, Davila-Barclay A, et int., and Tsukayama P. “Novel sublineage within B.1.1.1 currently expanding in Peru and Chile, with a convergent deletion in the ORF1a gene (Δ3675-3677) and a novel deletion in the Spike gene (Δ246-252, G75V, T76I, L452Q, F490S, T859N).” Virological.org, 2021. [^Romero21]
 
 </div>
 
@@ -569,13 +569,13 @@ khatamzas20
 </section>
 
 <!-- Chen L -->
-<section id="sec_chen21c" class="figure-section compact">
+<section id="sec_chen21b" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [Chen L, Zody CM, et int., and Kreiswirth BN.](#sec_chen21c)
+### [Chen L, Zody CM, et int., and Kreiswirth BN.](#sec_chen21b)
 
-Chen L, Zody CM, et int., and Kreiswirth BN. “Emergence of multiple SARS-CoV-2 antibody escape variants in an immunocompromised host undergoing convalescent plasma treatment.” _medRxiv_, 2021. [doi.org/10.1101/2021.04.08.21254791](https://doi.org/10.1101/2021.04.08.21254791). [^Chen21c]
+Chen L, Zody CM, et int., and Kreiswirth BN. “Emergence of multiple SARS-CoV-2 antibody escape variants in an immunocompromised host undergoing convalescent plasma treatment.” _medRxiv_, 2021. [doi.org/10.1101/2021.04.08.21254791](https://doi.org/10.1101/2021.04.08.21254791). [^Chen21b]
 
 </div>
 
@@ -583,7 +583,7 @@ Chen L, Zody CM, et int., and Kreiswirth BN. “Emergence of multiple SARS-CoV-2
 <div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
-chen21c
+chen21b
 [/genomemap]
 
 </div>

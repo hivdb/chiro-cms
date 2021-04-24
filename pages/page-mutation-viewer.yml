@@ -166,9 +166,9 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/prolonged-infections/khatamzas20.yml
     <<: *common-props
-  chen21c:
-    name: chen21c
+  chen21b:
+    name: chen21b
     height: 240
     positionGroups:
-    - _resource: mutation-viewer/position-groups/prolonged-infections/chen21c.yml
+    - _resource: mutation-viewer/position-groups/prolonged-infections/chen21b.yml
     <<: *common-props
