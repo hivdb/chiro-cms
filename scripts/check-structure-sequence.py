@@ -687,9 +687,11 @@ def show_error_sequences(sequences, mab2Seq):
             # print(vl)
             # print(base_line['VL'] in vl)
         if base_line['CDRH3'] not in cdrh3:
-            print('Seq Error CDRH3:', name, base_line['CDRH3'])
+            print('Seq Error CDRH3:', name)
+            print(base_line['CDRH3'])
         if base_line['CDRL3'] not in cdrl3:
-            print('Seq Error CDRL3:', name, base_line['CDRL3'])
+            print('Seq Error CDRL3:', name)
+            print(base_line['CDRL3'])
 
 
 @click.command()

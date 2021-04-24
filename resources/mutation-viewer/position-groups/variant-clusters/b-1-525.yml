@@ -30,10 +30,10 @@ positions:
   pos: 26766
   <<: *non-spike
 - name: ORF6:F2del
-  label: ORF6:F2∆
+  label: ORF6:F2Δ
   pos: 27205
 - name: N:D3del
-  label: N:D3∆
+  label: N:D3Δ
   pos: 28280
   <<: *non-spike
 - name: N:A12G

@@ -5,10 +5,10 @@ positions:
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: PLpro:T181I
+- name: PL:T181I
   pos: 3260
   <<: *non-spike
-- name: PLpro:A256V
+- name: PL:A256V
   pos: 3485
   <<: *non-spike
 - name: 3CL:L89F    # ORF1a:L3352F

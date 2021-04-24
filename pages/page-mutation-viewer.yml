@@ -124,6 +124,12 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-427.yml
     <<: *common-props
+  b-1-1-1-sub:
+    name: b-1-1-1-sub
+    height: 225
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-1-sub.yml
+    <<: *common-props
   kemp21:
     name: kemp21
     height: 200

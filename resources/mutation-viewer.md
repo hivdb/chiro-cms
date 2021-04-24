@@ -9,7 +9,7 @@
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
   - [B.1.x](#sec_b-1-x)
   - [P.3, aka PHL-B.1.1.28](#sec_phl-b-1-1-28)
-  - [EPI_ISL_1360318, S:E484Q+L452R (India)](#sec_e484q)
+  - [B.1.617 with S:E484Q, aka S:E484Q+L452R (India)](#sec_e484q)
   - [B.1.258, aka N439K](#sec_n439k)
   - [B.1.1.298, aka Cluster 5](#sec_cluster5)
   - [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](#sec_coh-20g-501y)
@@ -17,6 +17,7 @@
   - [P.2, evolved from B.1.1.28](#sec_p-2)
   - [N.9](#sec_n9)
   - [A.VOI.V2](#sec_a-voi-v2)
+  - [B.1.1.1 sublineage in Peru and Chile](#sec_b-1-1-1-sub)
 - [Prolonged Infections](#prolonged.infections)
   - [Kemp S, Harvey W, et int., and Gupta RK.](#sec_kemp21)
   - [McCarthy KR, Rennick LJ, et int., and Duprex WP.](#sec_mccarthy20)
@@ -40,6 +41,8 @@
 
 Rambaut A, Loman N, et int., and Volz E. “Preliminary genomic characterisation of an emergent SARS-CoV-2 lineage in the UK defined by a novel set of spike mutations.” Virological.org, 2020. [^Rambaut20]
 
+[Outbreak.info B.1.1.7 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.1.7) [^Outbreak20]
+
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
@@ -59,7 +62,7 @@ b-1-1-7
 
 ### [B.1.1.7 with S:E484K](#sec_b-1-1-7-484k)
 
-Latif AA, Mullen JL, et int., and the Center for Viral Systems Biology. “B.1.1.7 Lineage with S:E484K Report.” _outbreak.info_, 2021. [Available at](https://outbreak.info/situation-reports?pango=B.1.1.7&muts=S%3AE484K)
+[B.1.1.7 Lineage with S:E484K Report](https://outbreak.info/situation-reports?pango=B.1.1.7&muts=S%3AE484K) [^Outbreak20]
 
 </div>
 
@@ -82,6 +85,8 @@ b-1-1-7-484k
 
 Tegally H, Wilkinson E, et int., and Oliveira T. “Detection of a SARS-CoV-2 variant of concern in South Africa.” _nature_, 2020. [doi.org/10.1038/s41586-021-03402-9](https://doi.org/10.1038/s41586-021-03402-9). [^Tegally21]
 
+[Outbreak.info B.1.351 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.351) [^Outbreak20]
+
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
@@ -103,6 +108,8 @@ b-1-351
 
 Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
 
+[Outbreak.info P.1 Lineage Report](https://outbreak.info/situation-reports?pango=P.1) [^Outbreak20]
+
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
@@ -122,7 +129,7 @@ p-1
 
 ### [B.1.525](#sec_b-1-525)
 
-Latif AA, Mullen JL, et int., and the Center for Viral Systems Biology. “B.1.525 Lineage Report.” _outbreak.info_, 2021. [Available at](https://outbreak.info/situation-reports?pango=B.1.525)
+[Outbreak.info B.1.525 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.525) [^Outbreak20]
 
 </div>
 
@@ -145,6 +152,8 @@ b-1-525
 
 West A, Barnes C, et int., and Bjorkman P. “SARS-CoV-2 lineage B.1.526 emerging in the New York region detected by software utility created to query the spike mutational landscape.” _bioRxiv_, 2020. [doi.org/10.1101/2021.02.14.431043](https://doi.org/10.1101/2021.02.14.431043). [^West21]
 
+[Outbreak.info B.1.526 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.526) [^Outbreak20]
+
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
@@ -166,6 +175,9 @@ b-1-526
 
 Deng X, Garcia-Knight MA, et int., and Chiu CY. “Transmission, infectivity, and antibody neutralization of an emerging SARS-CoV-2 variant in California carrying a L452R spike protein mutation.” _medRxiv_, 2021. [doi.org/10.1101/2021.03.07.21252647](https://doi.org/10.1101/2021.03.07.21252647).[^Deng21]
 
+[Outbreak.info B.1.427 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.427) [^Outbreak20]
+
+[Outbreak.info B.1.429 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.429) [^Outbreak20]
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
@@ -212,6 +224,8 @@ b-1-x
 Tablizo FA, Kim KM, et int., and Saloma CP. “Genome sequencing and analysis of an emergent SARS-CoV-2 variant characterized by multiple spike protein mutations detected from the Central Visayas Region of the Philippines.” _bioRxiv_, 2021. [doi.org/10.1101/2021.03.03.21252812](https://doi.org/10.1101/2021.03.03.21252812
 ). [^Tablizo21]
 
+[Outbreak.info P.3 Lineage Report](https://outbreak.info/situation-reports?pango=P.3) [^Outbreak20]
+
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
@@ -229,11 +243,15 @@ phl-b-1-1-28
 
 <div class="figure-caption">
 
-### [EPI_ISL_1360318, S:E484Q+L452R (India)](#sec_e484q)
+### [B.1.617 with S:E484Q, aka S:E484Q+L452R (India)](#sec_e484q)
 
 INSACOG. “Genome Sequencing by INSACOG shows variants of concern and a Novel variant in India
 ” _INSACOG_, 2021. [Link](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1707177
 ). This variant has no Pango lineage. (Mar 29, 2021)
+
+[Outbreak.info B.1.617 Lineage with S:E484Q Report](https://outbreak.info/situation-reports?pango=B.1.617&muts=S%3AE484Q) [^Outbreak20]
+
+[Outbreak.info B.1.617 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617) [^Outbreak20]
 
 </div>
 
@@ -256,6 +274,8 @@ e484q
 
 Thomson EC, Rosen LE, et int., and Snell G. “Circulating SARS-CoV-2 spike N439K variants maintain fitness while evading antibody-mediated immunity.” _Cell_, 2021. [doi.org/10.1016/j.cell.2021.01.037](https://doi.org/10.1016/j.cell.2021.01.037). [^Thomson21]
 
+[Outbreak.info B.1.258 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.258) [^Outbreak20]
+
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
@@ -275,6 +295,8 @@ n439k
 
 ### [B.1.1.298, aka Cluster 5](#sec_cluster5)
 Lassaunière R, Fonager J, et int., and Fomsgaard A. “SARS-CoV-2 spike mutations arising in Danish mink and their spread to humans.” Statens Serum Institut, 2020. [^Lassauniere20]
+
+[Outbreak.info B.1.1.298 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.1.298) [^Outbreak20]
 
 </div>
 
@@ -338,6 +360,8 @@ coh-20g-677h
 ### [P.2, evolved from B.1.1.28](#sec_p-2)
 Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
 
+[Outbreak.info P.2 Lineage Report](https://outbreak.info/situation-reports?pango=P.2) [^Outbreak20]
+
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
@@ -357,6 +381,9 @@ p-2
 
 ### [N.9](#sec_n9)
 Resende PC, Graf T, et int., and Siqueira MM. “A potential SARS-CoV-2 variant of interest (VOI) harboring mutation E484K in the Spike protein was identified within lineage B.1.1.33 circulating in Brazil.” _biorxiv_, 2021. [doi.org/10.1101/2021.03.12.434969](https://doi.org/10.1101/2021.03.12.434969) [^Resende21]
+
+[Outbreak.info N.9 Lineage Report](https://outbreak.info/situation-reports?pango=N.9) [^Outbreak20]
+
 
 </div>
 
@@ -389,6 +416,28 @@ a-voi-v2
 </div>
 
 </section>
+
+<!-- B.1.1.1 sublineage -->
+<section id="sec_b-1-1-1-sub" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.1.1 sublineage in Peru and Chile](#sec_b-1-1-1-sub)
+Romero PE, Davila-Barclay A, et int., and Tsukayama P. “Novel sublineage within B.1.1.1 currently expanding in Peru and Chile, with a convergent deletion in the ORF1a gene (Δ3675-3677) and a novel deletion in the Spike gene (Δ246-252, G75V, T76I, L452Q, F490S, T859N).” Virological.org, 2021. [^Romero]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-1-1-sub
+[/genomemap]
+
+</div>
+
+</section>
+
+
 
 ## Prolonged Infections
 
