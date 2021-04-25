@@ -1,16 +1,16 @@
 [
     {
         "variant": "N501Y",
-        "cp": 148,
+        "cp": 159,
         "vp": 125,
         "phase3": 53,
         "structure": 27
     },
     {
         "variant": "E484K",
-        "cp": 93,
+        "cp": 109,
         "vp": 75,
-        "phase3": 60,
+        "phase3": 63,
         "structure": 22
     },
     {
@@ -29,43 +29,43 @@
     },
     {
         "variant": "L452R",
-        "cp": 8,
+        "cp": 20,
         "vp": 6,
         "phase3": 15,
         "structure": 5
     },
     {
         "variant": "Other individual mutations",
-        "cp": 563,
+        "cp": 656,
         "vp": 470,
         "phase3": 688,
         "structure": 558
     },
     {
         "variant": "All individual mutations",
-        "cp": 905,
+        "cp": 1037,
         "vp": 745,
-        "phase3": 848,
+        "phase3": 851,
         "structure": 635
     },
     {
         "variant": "B.1.1.7",
-        "cp": 486,
-        "vp": 613,
+        "cp": 495,
+        "vp": 633,
         "phase3": 70,
         "structure": 45
     },
     {
         "variant": "B.1.351",
-        "cp": 441,
-        "vp": 418,
+        "cp": 446,
+        "vp": 437,
         "phase3": 64,
         "structure": 27
     },
     {
         "variant": "P.1",
-        "cp": 115,
-        "vp": 144,
+        "cp": 121,
+        "vp": 153,
         "phase3": 28,
         "structure": 5
     },
@@ -78,23 +78,23 @@
     },
     {
         "variant": "B.1.526",
-        "cp": 0,
-        "vp": 0,
-        "phase3": 3,
+        "cp": 25,
+        "vp": 20,
+        "phase3": 6,
         "structure": 0
     },
     {
         "variant": "Other combinations of mutations",
-        "cp": 600,
-        "vp": 639,
-        "phase3": 190,
+        "cp": 699,
+        "vp": 659,
+        "phase3": 193,
         "structure": 178
     },
     {
         "variant": "All combinations of mutations",
-        "cp": 1697,
-        "vp": 1937,
-        "phase3": 373,
+        "cp": 1841,
+        "vp": 2025,
+        "phase3": 379,
         "structure": 260
     }
 ]

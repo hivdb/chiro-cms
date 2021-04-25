@@ -1545,6 +1545,27 @@
             },
             {
                 "variant": "B.1.526",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "1.3",
+                "reference": "Zhou21c[^Zhou21c]"
+            },
+            {
+                "variant": "B.1.526",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1.1",
+                "reference": "Zhou21c[^Zhou21c]"
+            },
+            {
+                "variant": "B.1.526",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "12",
+                "reference": "Zhou21c[^Zhou21c]"
+            },
+            {
+                "variant": "B.1.526",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",

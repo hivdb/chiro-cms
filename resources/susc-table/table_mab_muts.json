@@ -123,6 +123,13 @@
             },
             {
                 "variant": "E484K",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "2",
+                "reference": "Zhou21c[^Zhou21c]"
+            },
+            {
+                "variant": "E484K",
                 "rx": "Cilgavimab/Tixagevimab",
                 "mab_class": "",
                 "fold": "1.4",
@@ -265,6 +272,13 @@
                 "variant": "E484K",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
+                "fold": "0.9",
+                "reference": "Zhou21c[^Zhou21c]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
                 "fold": "0.2",
                 "reference": "Wang21e[^Wang21e]"
             },
@@ -379,6 +393,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "30",
                 "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "11",
+                "reference": "Zhou21c[^Zhou21c]"
             },
             {
                 "variant": "E484K",
@@ -1765,15 +1786,15 @@
                 "variant": "N439K",
                 "rx": "B38",
                 "mab_class": "RBM Class I",
-                "fold": "1.9",
-                "reference": "Li20h[^Li20h]"
+                "fold": "0.6",
+                "reference": "Shen21[^Shen21]"
             },
             {
                 "variant": "N439K",
                 "rx": "B38",
                 "mab_class": "RBM Class I",
-                "fold": "0.6",
-                "reference": "Shen21[^Shen21]"
+                "fold": "1.9",
+                "reference": "Li20h[^Li20h]"
             },
             {
                 "variant": "N439K",

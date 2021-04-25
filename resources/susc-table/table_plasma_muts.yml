@@ -89,6 +89,30 @@
     reference: Wang21f[^Wang21f]
     median: '1.1'
   - variant: E484K
+    rx: CP
+    samples: 6
+    s_fold: 0
+    i_fold: 6
+    r_fold: 0
+    reference: Zhou21c[^Zhou21c]
+    median: 3.3
+  - variant: E484K
+    rx: CP_high_titer
+    samples: 8
+    s_fold: 1
+    i_fold: 6
+    r_fold: 1
+    reference: Alenquer21[^Alenquer21]
+    median: '6.7'
+  - variant: E484K
+    rx: CP_medium_titer
+    samples: 2
+    s_fold: 1
+    i_fold: 0
+    r_fold: 1
+    reference: Alenquer21[^Alenquer21]
+    median: '6.4'
+  - variant: E484K
     rx: Sputnik V
     samples: 12
     s_fold: 7
@@ -312,6 +336,14 @@
     median: '1.9'
   - variant: K417N + E484K + N501Y
     rx: CP_high_titer
+    samples: 2
+    s_fold: 0
+    i_fold: 0
+    r_fold: 2
+    reference: Alenquer21[^Alenquer21]
+    median: '29'
+  - variant: K417N + E484K + N501Y
+    rx: CP_high_titer
     samples: 20
     s_fold: 6
     i_fold: 5
@@ -326,6 +358,14 @@
     r_fold: 6
     reference: Wibmer21[^Wibmer21]
     median: '6.8'
+  - variant: K417N + E484K + N501Y
+    rx: CP_medium_titer
+    samples: 1
+    s_fold: 0
+    i_fold: 0
+    r_fold: 1
+    reference: Alenquer21[^Alenquer21]
+    median: '21'
   - variant: K417N + E484K + N501Y
     rx: mRNA-1273
     samples: 11
@@ -361,6 +401,30 @@
     reference: Liu21[^Liu21]
     median: '9.9'
   - variant: L452R
+    rx: CP_high_titer
+    samples: 8
+    s_fold: 5
+    i_fold: 3
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '2.8'
+  - variant: L452R
+    rx: CP_low_titer
+    samples: 1
+    s_fold: 1
+    i_fold: 0
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '1.5'
+  - variant: L452R
+    rx: CP_medium_titer
+    samples: 3
+    s_fold: 1
+    i_fold: 2
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '3.5'
+  - variant: L452R
     rx: mRNA-1273
     samples: 6
     s_fold: 5
@@ -386,6 +450,30 @@
     r_fold: 0
     reference: Shen21[^Shen21]
     median: '1.1'
+  - variant: N439K
+    rx: CP_high_titer
+    samples: 4
+    s_fold: 1
+    i_fold: 2
+    r_fold: 1
+    reference: Alenquer21[^Alenquer21]
+    median: '6.1'
+  - variant: N439K
+    rx: CP_low_titer
+    samples: 4
+    s_fold: 4
+    i_fold: 0
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '1.8'
+  - variant: N439K
+    rx: CP_medium_titer
+    samples: 3
+    s_fold: 1
+    i_fold: 2
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '3.5'
   - variant: N439K
     rx: mRNA-1273
     samples: 11
@@ -516,6 +604,30 @@
     r_fold: 0
     reference: Edara21[^Edara21]
     median: '0.7'
+  - variant: N501Y
+    rx: CP_high_titer
+    samples: 4
+    s_fold: 3
+    i_fold: 1
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '2.3'
+  - variant: N501Y
+    rx: CP_low_titer
+    samples: 4
+    s_fold: 3
+    i_fold: 1
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '2.6'
+  - variant: N501Y
+    rx: CP_medium_titer
+    samples: 3
+    s_fold: 2
+    i_fold: 1
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '2.9'
   - variant: N501Y
     rx: mRNA-1273
     samples: 14
@@ -685,6 +797,30 @@
     reference: Shen21[^Shen21]
     median: '0.8'
   - variant: ∆69/70 + N501Y
+    rx: CP_high_titer
+    samples: 4
+    s_fold: 3
+    i_fold: 1
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '2.3'
+  - variant: ∆69/70 + N501Y
+    rx: CP_low_titer
+    samples: 5
+    s_fold: 5
+    i_fold: 0
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '1'
+  - variant: ∆69/70 + N501Y
+    rx: CP_medium_titer
+    samples: 3
+    s_fold: 3
+    i_fold: 0
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '1.7'
+  - variant: ∆69/70 + N501Y
     rx: mRNA-1273
     samples: 11
     s_fold: 11
@@ -720,6 +856,30 @@
     r_fold: 0
     reference: Shen21[^Shen21]
     median: '1.7'
+  - variant: ∆69/70 + N501Y + Y453F
+    rx: CP_high_titer
+    samples: 4
+    s_fold: 4
+    i_fold: 0
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '0.4'
+  - variant: ∆69/70 + N501Y + Y453F
+    rx: CP_low_titer
+    samples: 5
+    s_fold: 5
+    i_fold: 0
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '0.8'
+  - variant: ∆69/70 + N501Y + Y453F
+    rx: CP_medium_titer
+    samples: 3
+    s_fold: 3
+    i_fold: 0
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '0.6'
   - variant: ∆69/70 + N501Y + Y453F
     rx: mRNA-1273
     samples: 11

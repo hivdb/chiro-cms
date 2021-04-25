@@ -34,6 +34,14 @@
     median: '0.9'
   - variant: B.1.1.7
     rx: BNT162b2
+    samples: 10
+    s_fold: 10
+    i_fold: 0
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '1.6'
+  - variant: B.1.1.7
+    rx: BNT162b2
     samples: 8
     s_fold: 8
     i_fold: 0
@@ -152,6 +160,14 @@
     r_fold: 1
     reference: Widera21*[^Widera21]
     median: '8'
+  - variant: B.1.1.7
+    rx: BNT162b2
+    samples: 5
+    s_fold: 5
+    i_fold: 0
+    r_fold: 0
+    reference: Zhou21c[^Zhou21c]
+    median: 1.0
   - variant: B.1.1.7
     rx: BNT_1ds
     samples: 37
@@ -433,6 +449,30 @@
     reference: Edara21*[^Edara21]
     median: '0.9'
   - variant: B.1.1.7
+    rx: CP_high_titer
+    samples: 4
+    s_fold: 3
+    i_fold: 1
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '1.7'
+  - variant: B.1.1.7
+    rx: CP_low_titer
+    samples: 2
+    s_fold: 2
+    i_fold: 0
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '1.2'
+  - variant: B.1.1.7
+    rx: CP_medium_titer
+    samples: 3
+    s_fold: 2
+    i_fold: 1
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '2.3'
+  - variant: B.1.1.7
     rx: CoronaVac
     samples: 22
     s_fold: 12
@@ -520,6 +560,14 @@
     r_fold: 0
     reference: Wu21[^Wu21]
     median: '1.2'
+  - variant: B.1.1.7
+    rx: mRNA-1273
+    samples: 5
+    s_fold: 5
+    i_fold: 0
+    r_fold: 0
+    reference: Zhou21c[^Zhou21c]
+    median: 1.4
 - variant: B.1.351
   assays:
   - variant: B.1.351
@@ -546,6 +594,14 @@
     r_fold: 13
     reference: Wang21g[^Wang21g]
     median: '4.2'
+  - variant: B.1.351
+    rx: BNT162b2
+    samples: 9
+    s_fold: 1
+    i_fold: 8
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '4.1'
   - variant: B.1.351
     rx: BNT162b2
     samples: 6
@@ -650,6 +706,14 @@
     r_fold: 9
     reference: Zhou21b*[^Zhou21b]
     median: '7.5'
+  - variant: B.1.351
+    rx: BNT162b2
+    samples: 5
+    s_fold: 0
+    i_fold: 5
+    r_fold: 0
+    reference: Zhou21c[^Zhou21c]
+    median: 3.6
   - variant: B.1.351
     rx: BNT_W2
     samples: 15
@@ -900,6 +964,14 @@
     median: '9.5'
   - variant: B.1.351
     rx: CP_high_titer
+    samples: 4
+    s_fold: 2
+    i_fold: 1
+    r_fold: 1
+    reference: Alenquer21[^Alenquer21]
+    median: '3.2'
+  - variant: B.1.351
+    rx: CP_high_titer
     samples: 22
     s_fold: 1
     i_fold: 7
@@ -914,6 +986,14 @@
     r_fold: 7
     reference: Wibmer21[^Wibmer21]
     median: '11'
+  - variant: B.1.351
+    rx: CP_medium_titer
+    samples: 1
+    s_fold: 0
+    i_fold: 0
+    r_fold: 1
+    reference: Alenquer21[^Alenquer21]
+    median: '15'
   - variant: B.1.351
     rx: CoronaVac
     samples: 22
@@ -986,6 +1066,14 @@
     r_fold: 0
     reference: Wu21[^Wu21]
     median: '6.9'
+  - variant: B.1.351
+    rx: mRNA-1273
+    samples: 5
+    s_fold: 0
+    i_fold: 5
+    r_fold: 0
+    reference: Zhou21c[^Zhou21c]
+    median: 3.9
 - variant: B.1.427/9
   assays:
   - variant: B.1.427/9
@@ -1100,6 +1188,64 @@
     r_fold: 0
     reference: Shen21b[^Shen21b]
     median: '2.3'
+- variant: B.1.526
+  assays:
+  - variant: B.1.526
+    rx: BNT162b2
+    samples: 4
+    s_fold: 0
+    i_fold: 4
+    r_fold: 0
+    reference: West21[^West21]
+    median: '4.8'
+  - variant: B.1.526
+    rx: BNT162b2
+    samples: 5
+    s_fold: 0
+    i_fold: 5
+    r_fold: 0
+    reference: Zhou21c[^Zhou21c]
+    median: 3.3
+  - variant: B.1.526
+    rx: CP
+    samples: 6
+    s_fold: 6
+    i_fold: 0
+    r_fold: 0
+    reference: Zhou21c[^Zhou21c]
+    median: 0.9
+  - variant: B.1.526
+    rx: CP_1.3M
+    samples: 10
+    s_fold: 1
+    i_fold: 7
+    r_fold: 2
+    reference: West21[^West21]
+    median: '5.4'
+  - variant: B.1.526
+    rx: CP_6M
+    samples: 9
+    s_fold: 3
+    i_fold: 5
+    r_fold: 1
+    reference: West21[^West21]
+    median: '5.2'
+  - variant: B.1.526
+    rx: mRNA-1273
+    samples: 6
+    s_fold: 0
+    i_fold: 6
+    r_fold: 0
+    reference: West21[^West21]
+    median: '4.8'
+  - variant: B.1.526
+    rx: mRNA-1273
+    samples: 5
+    s_fold: 0
+    i_fold: 5
+    r_fold: 0
+    reference: Zhou21c[^Zhou21c]
+    median: 3.9
 - variant: P.1
   assays:
   - variant: P.1
@@ -1110,6 +1256,14 @@
     r_fold: 1
     reference: Dejnirattisai21*[^Dejnirattisai21]
     median: '2.7'
+  - variant: P.1
+    rx: BNT162b2
+    samples: 9
+    s_fold: 3
+    i_fold: 6
+    r_fold: 0
+    reference: Alenquer21[^Alenquer21]
+    median: '3.6'
   - variant: P.1
     rx: BNT162b2
     samples: 15
@@ -1222,6 +1376,22 @@
     r_fold: 0
     reference: Wang21f[^Wang21f]
     median: '2.0'
+  - variant: P.1
+    rx: CP_high_titer
+    samples: 4
+    s_fold: 0
+    i_fold: 3
+    r_fold: 1
+    reference: Alenquer21[^Alenquer21]
+    median: '5.8'
+  - variant: P.1
+    rx: CP_medium_titer
+    samples: 2
+    s_fold: 0
+    i_fold: 0
+    r_fold: 2
+    reference: Alenquer21[^Alenquer21]
+    median: '27'
   - variant: P.1
     rx: IVIG
     samples: 6
