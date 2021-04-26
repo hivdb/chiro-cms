@@ -110,3 +110,6 @@ sequenceExamples:
 seqReadsExamples:
   - downloads/codfreq-examples/B.1.1.7_CAMC-C471A4_ERR5026962.codfreq
   - downloads/codfreq-examples/B.1.351_KRISP-K005325_SRR13620320.codfreq
+outbreakInfo:
+  lineages:
+    _resource: sierra-sars2/outbreak.info/lineages.json
