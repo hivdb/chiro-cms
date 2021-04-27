@@ -693,6 +693,25 @@ def show_error_sequences(sequences, mab2Seq):
             print('Seq Error CDRL3:', name)
             print(base_line['CDRL3'])
 
+        hv_gene = base_line['Heavy V Gene'].strip()
+        hj_gene = base_line['Heavy J Gene'].strip()
+        lv_gene = base_line['Light V Gene'].strip()
+        lj_gene = base_line['Light J Gene'].strip()
+        if hv_gene != item[
+            'IGHV (% Somatic hypermutation)'].split('*')[0].strip():
+            print('Seq Error HV gene', name)
+            print(hv_gene, item['IGHV (% Somatic hypermutation)'])
+        if hj_gene != item['IGHJ'].split('*')[0].strip():
+            print('Seq Error HJ gene', name)
+            print(hj_gene)
+        if lv_gene != item[
+            'IGLV (% Somatic hypermutation)'].split('*')[0].strip():
+            print('Seq Error LV gene', name)
+            print(lv_gene, item['IGLV (% Somatic hypermutation)'])
+        if lj_gene != item['IGLJ'].split('*')[0].strip():
+            print('Seq Error LJ gene', name)
+            print(lj_gene)
+
 
 @click.command()
 @click.argument('folder_path', type=click.Path(exists=True))
