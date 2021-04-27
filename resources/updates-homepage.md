@@ -22,6 +22,22 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+
+### Database Entries (Apr 26)
+Gaborit B, Dailly E, et int., and Raffi F. [“Pharmacokinetics and safety of XAV-19, a swine glyco-humanized polyclonal anti-SARS-CoV-2 antibody, for COVID-19-related moderate pneumonia: a randomized, double-blind, placebo-controlled, phase IIa study.”](/search/?article=Gaborit21) _medRxiv_, 2021. [doi.org/10.1101/2021.04.15.21255549](https://doi.org/10.1101/2021.04.15.21255549).
+### Database Entries (Apr 26)
+Gunst JD, Staerke NB, et int., and Søgaard OS. [“Efficacy of the TMPRSS2 inhibitor camostat mesilate in patients hospitalized with Covid-19-a double-blind randomized controlled trial.”](/search/?article=Gunst21) _EClinicalMedicine_, 2021. [doi.org/10.1016/j.eclinm.2021.100849](https://doi.org/10.1016/j.eclinm.2021.100849).
+### Database Entries (Apr 26)
+Lopardo G, Belloso WH, et int., and Goldbaum F. [“RBD-specific polyclonal F(ab´)2 fragments of equine antibodies in patients with moderate to severe COVID-19 disease: A randomized, multicenter, double-blind, placebo-controlled, adaptive phase 2/3 clinical trial.”](/search/?article=Lopardo21) _EClinicalMedicine_, 2021. [doi.org/10.1016/j.eclinm.2021.100843](https://doi.org/10.1016/j.eclinm.2021.100843). \[[PubMed33870149](https://www.ncbi.nlm.nih.gov/pubmed/33870149/)\] \[[PMC8037439](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8037439/)\]
+### Database Entries (Apr 26)
+Qiao J, Li Y, et int., and Yang S. [“SARS-CoV-2 Mpro inhibitors with antiviral activity in a transgenic mouse model.”](/search/?article=Qiao21) _Science_, 2021. [doi.org/10.1126/science.abf1611](https://doi.org/10.1126/science.abf1611). \[[PubMed33602867](https://www.ncbi.nlm.nih.gov/pubmed/33602867/)\]
+### Database Entries (Apr 26)
+Rossignol J, Bardin MC, et int., and Brechot C. [“Early treatment with nitazoxanide prevents worsening of mild and moderate COVID-19 and subsequent hospitalization.”](/search/?article=Rossignol21) _medRxiv_, 2021. [doi.org/10.1101/2021.04.19.21255441](https://doi.org/10.1101/2021.04.19.21255441).
+### Database Entries (Apr 26)
+Silva M, Espejo A, et int., and Enriquez D. [“Efficacy of Nitazoxanide in reducing the viral load in COVID-19 patients. Randomized, placebo-controlled, single-blinded, parallel group, pilot study.”](/search/?article=Silva21) _medRxiv_, 2021. [doi.org/10.1101/2021.03.03.21252509](https://doi.org/10.1101/2021.03.03.21252509).
+### [Clinical Trials (Apr 22)](/page/updates/#clinical.trials)
+[2 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-04-22)
+
 ### Database Entries (Apr 19)
 Greaney AJ, Loes AN, et int., and Bloom JD. “The SARS-CoV-2 mRNA-1273 vaccine elicits more RBD-focused neutralization, but with broader antibody binding within the RBD.” _bioRxiv_, 2021. [doi.org/10.1101/2021.04.14.439844](https://doi.org/10.1101/2021.04.14.439844).
 ### Database Entries (Apr 19)
@@ -93,13 +109,3 @@ Resende PC, Gräf T, et int., and Siqueira MM. [“A potential SARS-CoV-2 varian
 Supasa P, Zhou D, et int., and Screaton GR. [“Reduced neutralization of SARS-CoV-2 B.1.1.7 variant by convalescent and vaccine sera.”](/search/?article=Supasa21) _Cell_, 2021. [doi.org/10.1016/j.cell.2021.02.033](https://doi.org/10.1016/j.cell.2021.02.033).
 ### Database Entries (Mar 18)
 Zhou D, Dejnirattisai W, et int., and Screaton GR. [“Evidence of escape of SARS-CoV-2 variant B.1.351 from natural and vaccine-induced sera.”](/search/?article=Zhou21b) _Cell_, 2021. [doi.org/10.1016/j.cell.2021.02.037](https://doi.org/10.1016/j.cell.2021.02.037). \[[PubMed33730597](https://www.ncbi.nlm.nih.gov/pubmed/33730597/)\]
-### Database Entries (Mar 14)
-Cathcart AL, Havenar-Daughton C, et int., and Hebner CM. [“The dual function monoclonal antibodies VIR-7831 and VIR-7832 demonstrate potent in vitro and in vivo activity against SARS-CoV-2.”](/search/?article=Cathcart21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.09.434607](https://doi.org/10.1101/2021.03.09.434607).
-### Database Entries (Mar 14)
-Copin R, Baum A, et int., and Kyratsous CA. [“In vitro and in vivo preclinical studies predict REGEN-COV protection against emergence of viral escape in humans.”](/search/?article=Copin21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.10.434834](https://doi.org/10.1101/2021.03.10.434834).
-### Database Entries (Mar 14)
-Deng X, Garcia-Knight MA, et int., and Chiu CY. [“Transmission, infectivity, and antibody neutralization of an emerging SARS-CoV-2 variant in California carrying a L452R spike protein mutation.”](/search/?article=Deng21) _medRxiv_, 2021. [doi.org/10.1101/2021.03.07.21252647](https://doi.org/10.1101/2021.03.07.21252647).
-### Database Entries (Mar 14)
-Wang R, Zhang Q, et int., and Zhang L. [“Spike mutations in SARS-CoV-2 variants confer resistance to antibody neutralization.”](/search/?article=Wang21f) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.09.434497](https://doi.org/10.1101/2021.03.09.434497).
-### Database Entries (Mar 14)
-Widera M, Wilhelm A, et int., and Ciesek S. [“Bamlanivimab does not neutralize two SARS-CoV-2 variants carrying E484K in vitro.”](/search/?article=Widera21) _medRxiv_, 2021. [doi.org/10.1101/2021.02.24.21252372](https://doi.org/10.1101/2021.02.24.21252372).

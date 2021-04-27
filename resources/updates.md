@@ -78,6 +78,13 @@ Instruction:
 
 ## Database Entries
 ### April 2021
+- April 26
+    - Gaborit B, Dailly E, et int., and Raffi F. [“Pharmacokinetics and safety of XAV-19, a swine glyco-humanized polyclonal anti-SARS-CoV-2 antibody, for COVID-19-related moderate pneumonia: a randomized, double-blind, placebo-controlled, phase IIa study.”](/search/?article=Gaborit21) _medRxiv_, 2021. [doi.org/10.1101/2021.04.15.21255549](https://doi.org/10.1101/2021.04.15.21255549).
+    - Gunst JD, Staerke NB, et int., and Søgaard OS. [“Efficacy of the TMPRSS2 inhibitor camostat mesilate in patients hospitalized with Covid-19-a double-blind randomized controlled trial.”](/search/?article=Gunst21) _EClinicalMedicine_, 2021. [doi.org/10.1016/j.eclinm.2021.100849](https://doi.org/10.1016/j.eclinm.2021.100849).
+    - Lopardo G, Belloso WH, et int., and Goldbaum F. [“RBD-specific polyclonal F(ab´)2 fragments of equine antibodies in patients with moderate to severe COVID-19 disease: A randomized, multicenter, double-blind, placebo-controlled, adaptive phase 2/3 clinical trial.”](/search/?article=Lopardo21) _EClinicalMedicine_, 2021. [doi.org/10.1016/j.eclinm.2021.100843](https://doi.org/10.1016/j.eclinm.2021.100843). \[[PubMed33870149](https://www.ncbi.nlm.nih.gov/pubmed/33870149/)\] \[[PMC8037439](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8037439/)\]
+    - Qiao J, Li Y, et int., and Yang S. [“SARS-CoV-2 Mpro inhibitors with antiviral activity in a transgenic mouse model.”](/search/?article=Qiao21) _Science_, 2021. [doi.org/10.1126/science.abf1611](https://doi.org/10.1126/science.abf1611). \[[PubMed33602867](https://www.ncbi.nlm.nih.gov/pubmed/33602867/)\]
+    - Rossignol J, Bardin MC, et int., and Brechot C. [“Early treatment with nitazoxanide prevents worsening of mild and moderate COVID-19 and subsequent hospitalization.”](/search/?article=Rossignol21) _medRxiv_, 2021. [doi.org/10.1101/2021.04.19.21255441](https://doi.org/10.1101/2021.04.19.21255441).
+    - Silva M, Espejo A, et int., and Enriquez D. [“Efficacy of Nitazoxanide in reducing the viral load in COVID-19 patients. Randomized, placebo-controlled, single-blinded, parallel group, pilot study.”](/search/?article=Silva21) _medRxiv_, 2021. [doi.org/10.1101/2021.03.03.21252509](https://doi.org/10.1101/2021.03.03.21252509).
 - April 19
     - Vandyck K, Abdelnabi R, et int., and Neyts J. [“ALG-097111, a potent and selective SARS-CoV-2 3-chymotrypsin-like cysteine protease inhibitor exhibits in vivo efficacy in a Syrian Hamster model.”](/search/?article=Vandyck21) _Biochemical and Biophysical Research Communications_, 2021. [doi.org/10.1016/j.bbrc.2021.03.096](https://doi.org/10.1016/j.bbrc.2021.03.096). \[[PubMed33813272](https://www.ncbi.nlm.nih.gov/pubmed/33813272/)\] \[[PMC7997389](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7997389/)\]
 - April 11
@@ -966,6 +973,8 @@ Instruction:
 (Studies in CoV-RDB originally published as preprints)
 
 ### April 2021
+April 26
+    - Jagannathan P, Andrews JR, et int., and Singh U. [“Peginterferon Lambda-1a for treatment of outpatients with uncomplicated COVID-19: a randomized placebo-controlled trial.”](/search/?article=Jagannathan20) _Nature Communications_, 2021. [doi.org/10.1038/s41467-021-22177-1](https://doi.org/10.1038/s41467-021-22177-1). \[[PubMed33785743](https://www.ncbi.nlm.nih.gov/pubmed/33785743/)\] \[[PMC8009873](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8009873/)\]
 - April 13
     - Moyo-Gwete T, Madzivhandila M, et int., and Moore PL. [“Cross-Reactive Neutralizing Antibody Responses Elicited by SARS-CoV-2 501Y.V2 (B.1.351).”](/search/?article=Moyo-Gwete21) _New England Journal of Medicine_, 2021. [doi.org/10.1056/nejmc2104192](https://doi.org/10.1056/nejmc2104192). \[[PubMed33826816](https://www.ncbi.nlm.nih.gov/pubmed/33826816/)\]
 - April 6
@@ -1198,11 +1207,16 @@ Instruction:
 
 ## Clinical Trials
 ### April 2021
+- April 22
+    - [2 clinical trials were added.](/clinical-trials/?fromDate=2021-04-22)
+    - NCT04847141
+    - NCT04847661
 - April 15
-    - [7 clinical trials were added.](/clinical-trials/?fromDate=2021-04-15)
+    - [8 clinical trials were added.](/clinical-trials/?fromDate=2021-04-15)
     - EUCTR2020-003369-20-IE
     - EUCTR2020-005315-44-DE
     - EUCTR2021-000864-32-NL
+    - NCT04784559
     - NCT04840459
     - NCT04842435
     - NCT04843761
