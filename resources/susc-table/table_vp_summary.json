@@ -25,6 +25,17 @@
                 "vp_num_r_fold": 3
             },
             {
+                "name": "BBV152",
+                "vp_studies": 1,
+                "vp_samples": 28,
+                "vp_s_fold": "100%",
+                "vp_i_fold": 0,
+                "vp_r_fold": 0,
+                "vp_num_s_fold": 28,
+                "vp_num_i_fold": 0,
+                "vp_num_r_fold": 0
+            },
+            {
                 "name": "BNT162b2",
                 "vp_studies": 16,
                 "vp_samples": 383,
@@ -263,6 +274,22 @@
                 "vp_num_s_fold": 35,
                 "vp_num_i_fold": 10,
                 "vp_num_r_fold": 4
+            }
+        ]
+    },
+    {
+        "variant": "B.1.617",
+        "vaccine": [
+            {
+                "name": "BBV152",
+                "vp_studies": 1,
+                "vp_samples": 28,
+                "vp_s_fold": "93%",
+                "vp_i_fold": "7%",
+                "vp_r_fold": 0,
+                "vp_num_s_fold": 26,
+                "vp_num_i_fold": 2,
+                "vp_num_r_fold": 0
             }
         ]
     },

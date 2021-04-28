@@ -44,6 +44,16 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "BBV152",
+                "samples": 28,
+                "s_fold": 28,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Yadav21*[^Yadav21]",
+                "median": "1.3"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 10,
@@ -846,6 +856,21 @@
                 "r_fold": 0,
                 "reference": "Zhou21c[^Zhou21c]",
                 "median": 3.9
+            }
+        ]
+    },
+    {
+        "variant": "B.1.617",
+        "assays": [
+            {
+                "variant": "B.1.617",
+                "rx": "BBV152",
+                "samples": 28,
+                "s_fold": 26,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "Yadav21[^Yadav21]",
+                "median": "1.7"
             }
         ]
     },
