@@ -1,11 +1,11 @@
 name: p-1
 positions:
-- name: PL:S370L     # ORF1a:S1188L
+- name: PLpro:S370L     # ORF1a:S1188L
   pos: 3827
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: PL:K977Q     # ORF1a:K1795Q
+- name: PLpro:K977Q     # ORF1a:K1795Q
   pos: 5648
   <<: *non-spike
 - name: nsp6:SGF106-108del  # ORF1ab:SGF3675-3677del

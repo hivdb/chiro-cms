@@ -1,6 +1,6 @@
 name: phl-b-1-1-28
 positions:
-- name: PL:D736G  # ORF1ab:D1554G
+- name: PLpro:D736G  # ORF1ab:D1554G
   pos: 4925
   <<: &non-spike
     stroke: '#e0e0e0'

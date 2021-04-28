@@ -11,16 +11,16 @@ positions:
 - name: nsp2:A360V
   pos: 1883
   <<: *non-spike
-- name: PL:P395L # nsp3:P395L
+- name: PLpro:P395L # nsp3:P395L
   pos: 3902
   <<: *non-spike
-- name: PL:D821E # nsp3:D821E
+- name: PLpro:D821E # nsp3:D821E
   pos: 5180
   <<: *non-spike
-- name: PL:T1465I # nsp3:T1465I
+- name: PLpro:T1465I # nsp3:T1465I
   pos: 7112
   <<: *non-spike
-- name: PL:N1552K # nsp3:N1552K
+- name: PLpro:N1552K # nsp3:N1552K
   pos: 7373
   <<: *non-spike
 - name: nsp6:M86I

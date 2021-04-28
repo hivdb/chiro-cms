@@ -1,6 +1,6 @@
 name: e484q
 positions:
-- name: nsp3:T749I
+- name: PLpro:T749I
   pos: 4964
   <<: &non-spike
     stroke: '#e0e0e0'

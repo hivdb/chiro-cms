@@ -1,14 +1,14 @@
 name: b-1-1-7
 positions:
-- name: nsp3:T428I  # ORF1a:T1246I
+- name: PLpro:T428I  # ORF1a:T1246I
   pos: 4001
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: PL:P1469S # ORF1a:P2287S
+- name: PLpro:P1469S # ORF1a:P2287S
   pos: 7124
   <<: *non-spike
-- name: PL:F1569V # ORF1a:F2387V
+- name: PLpro:F1569V # ORF1a:F2387V
   pos: 7424
   <<: *non-spike
 - name: nsp4:L438P # ORF1a:L3201P

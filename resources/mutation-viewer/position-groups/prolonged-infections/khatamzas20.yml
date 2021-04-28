@@ -12,16 +12,16 @@ positions:
 - name: nsp2:K489E # ORF1a:K669E
   pos: 2270
   <<: *non-spike
-- name: PL:G282V   # ORF1a:G1100V
+- name: PLpro:G282V   # ORF1a:G1100V
   pos: 3563
   <<: *non-spike
-- name: PL:T504I   # ORF1a:T1322I
+- name: PLpro:T504I   # ORF1a:T1322I
   pos: 4229
   <<: *non-spike
-- name: PL:I508V   # ORF1a:I1326V
+- name: PLpro:I508V   # ORF1a:I1326V
   pos: 4241
   <<: *non-spike
-- name: PL:T820I   # ORF1a:T1638I
+- name: PLpro:T820I   # ORF1a:T1638I
   pos: 5177
   <<: *non-spike
 - name: nsp4:N396S # ORF1a:N3159S

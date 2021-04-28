@@ -1,6 +1,6 @@
 name: n9
 positions:
-- name: nsp3:A1711V # ORF1a:A2529V
+- name: PLpro:A1711V # ORF1a:A2529V
   pos: 7851
   <<: &non-spike
     stroke: '#e0e0e0'

@@ -5,7 +5,7 @@ positions:
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: PL:K837N   # ORF1ab:K1655N
+- name: PLpro:K837N   # ORF1ab:K1655N
   pos: 5228
   <<: *non-spike
 - name: nsp4:H26Y  # ORF1ab:H2799Y

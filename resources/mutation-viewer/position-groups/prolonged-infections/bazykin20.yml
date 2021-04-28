@@ -1,11 +1,11 @@
 name: bazykin20
 positions:
-- name: nsp3:T504A
+- name: PLpro:T504A
   pos: 4229
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: nsp3:D821N
+- name: PLpro:D821N
   pos: 5180
   <<: *non-spike
 - name: nsp4:T295I
