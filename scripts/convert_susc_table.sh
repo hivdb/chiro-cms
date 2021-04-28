@@ -1,8 +1,10 @@
 #!/bin/sh
 
-cp ../covid-drdb-reports/report_tables/*.json ./resources/susc-table/
-
 FOLDER=./resources/susc-table
+rm -rf "$FOLDER"/*
+
+cp ../covid-drdb-reports/report_tables/*.json "$FOLDER"
+
 
 for f in "$FOLDER"/*.json ; do
     pipenv run python ./scripts/convert_susc_table.py "$f" "$f"

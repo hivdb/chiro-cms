@@ -1,0 +1,145 @@
+[
+    {
+        "variant": "B.1.1.7",
+        "cp_studies": 21,
+        "cp_samples": 495,
+        "cp_s_fold": "81%",
+        "cp_i_fold": "17%",
+        "cp_r_fold": "2%",
+        "cp_num_s_fold": 399,
+        "cp_num_i_fold": 83,
+        "cp_num_r_fold": 13
+    },
+    {
+        "variant": "B.1.351",
+        "cp_studies": 22,
+        "cp_samples": 446,
+        "cp_s_fold": "28%",
+        "cp_i_fold": "38%",
+        "cp_r_fold": "34%",
+        "cp_num_s_fold": 124,
+        "cp_num_i_fold": 171,
+        "cp_num_r_fold": 151
+    },
+    {
+        "variant": "P.1",
+        "cp_studies": 8,
+        "cp_samples": 121,
+        "cp_s_fold": "48%",
+        "cp_i_fold": "43%",
+        "cp_r_fold": "9%",
+        "cp_num_s_fold": 58,
+        "cp_num_i_fold": 52,
+        "cp_num_r_fold": 11
+    },
+    {
+        "variant": "B.1.526",
+        "cp_studies": 2,
+        "cp_samples": 25,
+        "cp_s_fold": "40%",
+        "cp_i_fold": "48%",
+        "cp_r_fold": "12%",
+        "cp_num_s_fold": 10,
+        "cp_num_i_fold": 12,
+        "cp_num_r_fold": 3
+    },
+    {
+        "variant": "B.1.427/9",
+        "cp_studies": 4,
+        "cp_samples": 55,
+        "cp_s_fold": "49%",
+        "cp_i_fold": "45%",
+        "cp_r_fold": "6%",
+        "cp_num_s_fold": 27,
+        "cp_num_i_fold": 25,
+        "cp_num_r_fold": 3
+    },
+    {
+        "variant": "N501Y",
+        "cp_studies": 7,
+        "cp_samples": 159,
+        "cp_s_fold": "92%",
+        "cp_i_fold": "8%",
+        "cp_r_fold": 0,
+        "cp_num_s_fold": 147,
+        "cp_num_i_fold": 12,
+        "cp_num_r_fold": 0
+    },
+    {
+        "variant": "E484K",
+        "cp_studies": 8,
+        "cp_samples": 109,
+        "cp_s_fold": "54%",
+        "cp_i_fold": "35%",
+        "cp_r_fold": "11%",
+        "cp_num_s_fold": 59,
+        "cp_num_i_fold": 38,
+        "cp_num_r_fold": 12
+    },
+    {
+        "variant": "K417N",
+        "cp_studies": 4,
+        "cp_samples": 69,
+        "cp_s_fold": "97%",
+        "cp_i_fold": "3%",
+        "cp_r_fold": 0,
+        "cp_num_s_fold": 67,
+        "cp_num_i_fold": 2,
+        "cp_num_r_fold": 0
+    },
+    {
+        "variant": "L452R",
+        "cp_studies": 3,
+        "cp_samples": 20,
+        "cp_s_fold": "55%",
+        "cp_i_fold": "40%",
+        "cp_r_fold": "5%",
+        "cp_num_s_fold": 11,
+        "cp_num_i_fold": 8,
+        "cp_num_r_fold": 1
+    },
+    {
+        "variant": "N439K",
+        "cp_studies": 2,
+        "cp_samples": 14,
+        "cp_s_fold": "64%",
+        "cp_i_fold": "29%",
+        "cp_r_fold": "7%",
+        "cp_num_s_fold": 9,
+        "cp_num_i_fold": 4,
+        "cp_num_r_fold": 1
+    },
+    {
+        "variant": "Y453F",
+        "cp_studies": 1,
+        "cp_samples": 14,
+        "cp_s_fold": "64%",
+        "cp_i_fold": "36%",
+        "cp_r_fold": 0,
+        "cp_num_s_fold": 9,
+        "cp_num_i_fold": 5,
+        "cp_num_r_fold": 0
+    },
+    {
+        "variant": "∆69/70",
+        "cp_studies": 4,
+        "cp_samples": 77,
+        "cp_s_fold": "100%",
+        "cp_i_fold": 0,
+        "cp_r_fold": 0,
+        "cp_num_s_fold": 77,
+        "cp_num_i_fold": 0,
+        "cp_num_r_fold": 0
+    },
+    {
+        "variant": "∆144",
+        "cp_studies": 1,
+        "cp_samples": 20,
+        "cp_s_fold": "90%",
+        "cp_i_fold": "10%",
+        "cp_r_fold": 0,
+        "cp_num_s_fold": 18,
+        "cp_num_i_fold": 2,
+        "cp_num_r_fold": 0
+    }
+]

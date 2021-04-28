@@ -1,0 +1,36 @@
+---
+pageTitle: Susceptibility studies
+introHeader: |-
+  Susceptibility individual studies
+toc: false
+tocFloat: none
+escapeHtml: false
+content:
+  _resource: susceptibility-data/vp-variants.md
+tables:
+  table_vp_variants:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: variant
+      label: Spike
+    - name: assays.rx
+      label: Plasma
+      multiCells: true
+    - name: assays.s_fold
+      label: "S\n(&lt;3-fold)"
+      multiCells: true
+    - name: assays.i_fold
+      label: "I\n(3-9-fold)"
+      multiCells: true
+    - name: assays.r_fold
+      label: "R\n(&gt;10-fold)"
+      multiCells: true
+    - name: assays.median
+      label: Median Fold
+      multiCells: true
+    - name: assays.reference
+      label: "Reference"
+      multiCells: true
+    data:
+      _resource: susc-table/table_vp_variants.yml

@@ -77,26 +77,33 @@ tables:
     - name: cp_r_fold
       label: "CP\n&gt;10-fold (R)\n(%)"
     data:
-      _resource: susc-table/table_plasma.yml
+      _resource: susc-table/table_cp_summary.yml
   table_vp:
     tableScrollStyle:
       max-height: none
     columnDefs:
     - name: variant
       label: " "
-    - name: vac_studies
+    - name: vaccine.name
+      label: vaccine
+      multiCells: true
+    - name: vaccine.vp_studies
       label: "Vaccine\nStudies\n&#35;"
-    - name: vac_samples
+      multiCells: true
+    - name: vaccine.vp_samples
       label: "Vaccine\nSamples\n&#35;"
-    - name: vac_s_fold
+      multiCells: true
+    - name: vaccine.vp_s_fold
       label: "Vaccine\n&lt;3-fold (S)\n(%)"
-    - name: vac_i_fold
+      multiCells: true
+    - name: vaccine.vp_i_fold
       label: "Vaccine\n3-9-fold (I)\n(%)"
-    - name: vac_r_fold
+      multiCells: true
+    - name: vaccine.vp_r_fold
       label: "Vaccine\n&gt;10-fold (R)\n(%)"
+      multiCells: true
     data:
-      _resource: susc-table/table_plasma.yml
-
+      _resource: susc-table/table_vp_summary.yml
   table_summary:
     tableScrollStyle:
       max-height: none

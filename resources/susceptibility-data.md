@@ -2,17 +2,20 @@
 
 - [Summaries](#summaries)
   - [Table 1: Virus Variants and Spike Mutations vs Monoclonal Antibodies](#table.1.virus.variants.and.spike.mutations.vs.monoclonal.antibodies)
-  - [Table 2: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons](#table.2.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons)
+  - [Table 2: Virus Variants and Spike Mutations vs Convalescent Plasma](#table.2.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons)
+  - [Table 3: Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons](/page/susceptibility-data/#table.3.virus.variants.and.spike.mutations.vs.plasma.from.vaccinated.persons)
   - [Figure: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons](#figure.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons)
 - Raw data
   - [Spike variants and mutation combinations / monoclonal antibodies neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-mab-neutralization)
   - [Spike variants and mutation combinations / plasma neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-plasma-neutralization)
   - [Spike mutations _in vitro_ selection](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-mutation-invitro-selection-cp-and-mab)
 - Individual study details
-  - [Table S1: Neutralizing Sensitivity of Variants to Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-data/plasma-variant/)
-  - [Table S2: Neutralizing Sensitivity of Variants to Monoclonal Antibodies](/page/susceptibility-data/mab-variant/)
-  - [Table S3: Neutralizing Sensitivity of Spike Mutations to Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-data/plasma-mutations/)
-  - [Table S4: Neutralizing Sensitivity of Spike Mutations to Monoclonal Antibodies](/page/susceptibility-data/mab-mutations/)
+  - [Table S1: Neutralizing Sensitivity of Variants to Monoclonal Antibodies](/page/susceptibility-data/mab-variants/)
+  - [Table S2: Neutralizing Sensitivity of Spike Mutations to Monoclonal Antibodies](/page/susceptibility-data/mab-mutations/)
+  - [Table S3: Neutralizing Sensitivity of Variants to Convalescent Plasma](/page/susceptibility-data/cp-variants/)
+  - [Table S4: Neutralizing Sensitivity of Spike Mutations to Convalescent Plasma](/page/susceptibility-data/cp-mutations/)
+  - [Table S5: Neutralizing Sensitivity of Variants to Plasma from Vaccinated Persons](/page/susceptibility-data/vp-variants/)
+  - [Table S6: Neutralizing Sensitivity of Spike Mutations to Plasma from Vaccinated Persons](/page/susceptibility-data/vp-mutations/)
 
 [/toc]
 
@@ -63,19 +66,21 @@ The color scheme indicates the fold-reduction in neutralization: <span style="pa
 
 
 
-### Table 2: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons
+### Table 2: Virus Variants and Spike Mutations vs Convalescent Plasma
 
-[table compact]
+[table compact,lastCompact]
 table_cp
 [/table]
+
+- Convalescent plasma in all studies is presumed likely to have been obtained from persons infected with spike variants lacking mutations associated with reduced neutralization susceptibility.
+- **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.429/B.1.427**: S13I, W152C, L452R, D614G.
+
+### Table 3: Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons
 
 [table compact,lastCompact]
 table_vp
 [/table]
 
-
-
-- Convalescent plasma in all studies is presumed likely to have been obtained from persons infected with spike variants lacking mutations associated with reduced neutralization susceptibility.
 - **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.429/B.1.427**: S13I, W152C, L452R, D614G.
 
 
