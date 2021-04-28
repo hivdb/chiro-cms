@@ -9,7 +9,7 @@
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
   - [B.1.x](#sec_b-1-x)
   - [P.3, aka PHL-B.1.1.28](#sec_phl-b-1-1-28)
-  - [B.1.617 with S:E484Q, aka S:E484Q+L452R (India)](#sec_e484q)
+  - [B.1.617, S:E484Q+L452R (India)](#sec_b-1-617)
   - [B.1.258, aka N439K](#sec_n439k)
   - [B.1.1.298, aka Cluster 5](#sec_cluster5)
   - [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](#sec_coh-20g-501y)
@@ -238,12 +238,12 @@ phl-b-1-1-28
 
 </section>
 
-<!-- India E484Q -->
-<section id="sec_e484q" class="figure-section compact">
+<!-- B.1.617 -->
+<section id="sec_b-1-617" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.617 with S:E484Q, aka S:E484Q+L452R (India)](#sec_e484q)
+### [B.1.617, S:E484Q+L452R (India)](#sec_b-1-617)
 
 INSACOG. “Genome Sequencing by INSACOG shows variants of concern and a Novel variant in India
 ” _INSACOG_, 2021. [Link](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1707177
@@ -258,7 +258,7 @@ INSACOG. “Genome Sequencing by INSACOG shows variants of concern and a Novel v
 <div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
-e484q
+b-1-617
 [/genomemap]
 
 </div>

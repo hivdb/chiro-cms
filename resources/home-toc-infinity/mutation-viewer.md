@@ -8,7 +8,7 @@
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](/page/mutation-viewer/#sec_b-1-429)
   - [B.1.x](/page/mutation-viewer/#sec_b-1-x)
   - [P.3, aka PHL-B.1.1.28](/page/mutation-viewer/#sec_phl-b-1-1-28)
-  - [EPI_ISL_1360318, S:E484Q+L452R (India)](/page/mutation-viewer/#sec_e484q)
+  - [B.1.617, S:E484Q+L452R (India)](/page/mutation-viewer/#sec_b-1-617)
   - [B.1.258, aka N439K](/page/mutation-viewer/#sec_n439k)
   - [B.1.1.298, aka Cluster 5](/page/mutation-viewer/#sec_cluster5)
   - [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](/page/mutation-viewer/#sec_coh-20g-501y)
