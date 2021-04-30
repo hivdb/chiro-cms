@@ -1,5 +1,5 @@
 species: SARS2
-drdbVersion: "20210425"
+drdbVersion: "20210430"
 cmtVersion: "20210422"
 allGenes: &allGenes [
   nsp1, nsp2, PLpro, nsp4, _3CLpro, nsp6, nsp7, nsp8, nsp9,
