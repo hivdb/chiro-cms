@@ -46,15 +46,21 @@ seqreads-analysis-form-desc: |-
   SARS-CoV-2 Sequence Reads of each SARS-CoV-2 gene, Spike, RdRP, nsp1-10
   (include PLpro and 3CLpro), nsp13-16, ORF3a, E, M, ORF6, ORF7a, ORF8, N and
   ORF10, can be submittted in the form of [codon frequency tables (CodFreq
-  files)][codfreq] or [AAVF files][aavf] described by the [Winnipeg
-  Consensus][winnipeg-paper].
+  files)][codfreq].
 
-  [codfreq]: https://hivdb.stanford.edu/page/hivdb-ngs-release-notes/#codon.frequency.table
-  [aavf]: https://github.com/winhiv/aavf-spec
-  [winnipeg-paper]: https://doi.org/10.1002/jia2.25193
+  We provide a pipeline for directly aligning FASTQ files and generate CodFreq
+  tables from their results. To use this pipeline, just add the .fastq or
+  .fastq.gz files to the below input form. By clicking the "Analyze" button,
+  the program will automatically start the FASTQ pipeline, upload your FASTQ
+  files to our server, and retrieve the CodFreq tables when the analyses are
+  complete.
+
+  For submitted FASTQ files, please note that these files will be stored for
+  two weeks for quality control purposes in the event that questions arise
+  regarding the manner in which the codon frequency file is produced.
 
 seqreads-analysis-form-placeholder: >-
-  Drag and drop CodFreq/AAVF files here
+  Drag and drop FASTQ/CodFreq files here
 
 no-mab-susc-result: >-
   No mAb susceptibility data are available. All mAbs expected to be active.
