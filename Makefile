@@ -25,10 +25,13 @@ _fast-build:
 
 local/timestamp/%:
 	@mkdir -p $$(dirname $@)
+	@rm $$(dirname $@)/* 2>/dev/null || true
 	touch $@
 
 resources/sierra-sars2/outbreak.info/lineages.json: % : local/timestamp/%.$(shell date +"%Y%m%d")
-	curl -sSL -o "resources/sierra-sars2/outbreak.info/lineages.json" "https://api.outbreak.info/genomics/lineage?name=*"
+	@mkdir -p local/
+	curl -sSL -o "local/lineages.json" "https://api.outbreak.info/genomics/lineage?name=*"
+	python3.9 -m "json.tool" --indent=2 local/lineages.json > resources/sierra-sars2/outbreak.info/lineages.json
 	@test "$$(jq .success resources/sierra-sars2/outbreak.info/lineages.json)" = "true" || (echo "success != true" && false)
 
 build: $(shell find . -type f -not -path "./.git*" -a -not -path "*.swp" -a -not -path "*.swo" -a -not -path "*/.DS_Store" -a -not -path "*/.gradle/*" -a -not -path "*/build/*" -a -not -path "*.log" -a -not -path "*/local/*" | sed 's#\([| ]\)#\\\1#g') build.py build_plugins/*.py resources/sierra-sars2/outbreak.info/lineages.json
