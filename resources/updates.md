@@ -77,6 +77,10 @@ Instruction:
     - [Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients]($$CMS_PREFIX$$downloads/press-release/Regeneron20200930.pdf)
 
 ## Database Entries
+### May 2021
+- May 05
+    - Ryu D, Song R, et int., and Lee S. [“Therapeutic effect of CT-P59 against SARS-CoV-2 South African variant.”](/search/?article=Lee21) _bioRxiv_, 2021. [doi.org/10.1101/2021.04.27.441707](https://doi.org/10.1101/2021.04.27.441707).
+    - Lenze EJ, Mattar C, et int., and Reiersen AM. [“Fluvoxamine vs Placebo and Clinical Deterioration in Outpatients With Symptomatic COVID-19.”](/search/?article=Lenze20) _JAMA_, 2020. [doi.org/10.1001/jama.2020.22760](https://doi.org/10.1001/jama.2020.22760). \[[PubMed33180097](https://www.ncbi.nlm.nih.gov/pubmed/33180097/)\] \[[PMC7662481](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7662481/)\]
 ### April 2021
 - April 26
     - Gaborit B, Dailly E, et int., and Raffi F. [“Pharmacokinetics and safety of XAV-19, a swine glyco-humanized polyclonal anti-SARS-CoV-2 antibody, for COVID-19-related moderate pneumonia: a randomized, double-blind, placebo-controlled, phase IIa study.”](/search/?article=Gaborit21) _medRxiv_, 2021. [doi.org/10.1101/2021.04.15.21255549](https://doi.org/10.1101/2021.04.15.21255549).
@@ -1207,6 +1211,14 @@ April 26
 
 ## Clinical Trials
 ### April 2021
+- April 29
+    - [6 clinical trials were added.](/clinical-trials/?fromDate=2021-04-29)
+    - NCT04252885
+    - NCT04319900
+    - NCT04858425
+    - NCT04859244
+    - NCT04859517
+    - NCT04860518
 - April 22
     - [2 clinical trials were added.](/clinical-trials/?fromDate=2021-04-22)
     - NCT04847141

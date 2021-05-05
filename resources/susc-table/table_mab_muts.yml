@@ -91,6 +91,26 @@
     fold: '2'
     reference: Zhou21c[^Zhou21c]
   - variant: E484K
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '1.6'
+    reference: Chen21[^Chen21]
+  - variant: E484K
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '2'
+    reference: Dong21[^Dong21]
+  - variant: E484K
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '0.8'
+    reference: Wang21[^Wang21]
+  - variant: E484K
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '1.4'
+    reference: Wang21b[^Wang21b]
+  - variant: E484K
     rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '1.4'
@@ -105,6 +125,26 @@
     mab_class: ''
     fold: '15'
     reference: Baum20[^Baum20]
+  - variant: E484K
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '2'
+    reference: Dong21[^Dong21]
+  - variant: E484K
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '4.6'
+    reference: Chen21[^Chen21]
+  - variant: E484K
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '8.1'
+    reference: Wang21b[^Wang21b]
+  - variant: E484K
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '11'
+    reference: Wang21[^Wang21]
   - variant: E484K
     rx: Vir-7831/S2E12
     mab_class: ''
@@ -231,6 +271,11 @@
     fold: '1'
     reference: Wang21b[^Wang21b]
   - variant: E484K
+    rx: H014
+    mab_class: RBD Core Cluster II
+    fold: '1.5'
+    reference: Li21c[^Li21c]
+  - variant: E484K
     rx: COVA2-39
     mab_class: RBM Class I
     fold: '&gt;100'
@@ -311,6 +356,11 @@
     fold: '3.5'
     reference: Wang21b[^Wang21b]
   - variant: E484K
+    rx: P2C-1F11
+    mab_class: RBM Class I
+    fold: '1.2'
+    reference: Li21c[^Li21c]
+  - variant: E484K
     rx: S2E12
     mab_class: RBM Class I
     fold: '4.4'
@@ -320,26 +370,6 @@
     mab_class: RBM Class I
     fold: '3.6'
     reference: Tortorici20[^Tortorici20]
-  - variant: E484K
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '2'
-    reference: Dong21[^Dong21]
-  - variant: E484K
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '4.6'
-    reference: Chen21[^Chen21]
-  - variant: E484K
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '8.1'
-    reference: Wang21b[^Wang21b]
-  - variant: E484K
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '11'
-    reference: Wang21[^Wang21]
   - variant: E484K
     rx: Bamlanivimab
     mab_class: RBM Class II
@@ -376,25 +406,10 @@
     fold: '&gt;100'
     reference: Yuan21[^Yuan21]
   - variant: E484K
-    rx: Cilgavimab
+    rx: P2B-2F6
     mab_class: RBM Class II
-    fold: '1.6'
-    reference: Chen21[^Chen21]
-  - variant: E484K
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '2'
-    reference: Dong21[^Dong21]
-  - variant: E484K
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '0.8'
-    reference: Wang21[^Wang21]
-  - variant: E484K
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '1.4'
-    reference: Wang21b[^Wang21b]
+    fold: '19'
+    reference: Li21c[^Li21c]
   - variant: E484K
     rx: 2-4
     mab_class: RBM Class III
@@ -428,9 +443,19 @@
     fold: '4.1'
     reference: Chen21[^Chen21]
   - variant: E484K + N501Y
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '1.9'
+    reference: Chen21[^Chen21]
+  - variant: E484K + N501Y
     rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '2'
+    reference: Chen21[^Chen21]
+  - variant: E484K + N501Y
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '12'
     reference: Chen21[^Chen21]
   - variant: E484K + N501Y
     rx: Vir-7831/S2E12
@@ -443,20 +468,25 @@
     fold: '5.4'
     reference: Chen21[^Chen21]
   - variant: E484K + N501Y
+    rx: H014
+    mab_class: RBD Core Cluster II
+    fold: '1.2'
+    reference: Li21c[^Li21c]
+  - variant: E484K + N501Y
+    rx: P2C-1F11
+    mab_class: RBM Class I
+    fold: '1'
+    reference: Li21c[^Li21c]
+  - variant: E484K + N501Y
     rx: S2E12
     mab_class: RBM Class I
     fold: '6'
     reference: Chen21[^Chen21]
   - variant: E484K + N501Y
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '12'
-    reference: Chen21[^Chen21]
-  - variant: E484K + N501Y
-    rx: Cilgavimab
+    rx: P2B-2F6
     mab_class: RBM Class II
-    fold: '1.9'
-    reference: Chen21[^Chen21]
+    fold: '23'
+    reference: Li21c[^Li21c]
 - variant: F490S
   assays:
   - variant: F490S
@@ -617,6 +647,21 @@
     fold: '0.8'
     reference: Wang21[^Wang21]
   - variant: K417N
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '0.6'
+    reference: Chen21[^Chen21]
+  - variant: K417N
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '0.7'
+    reference: Wang21[^Wang21]
+  - variant: K417N
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '0.6'
+    reference: Wang21b[^Wang21b]
+  - variant: K417N
     rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '0.5'
@@ -631,6 +676,21 @@
     mab_class: ''
     fold: '0.6'
     reference: Wang21f[^Wang21f]
+  - variant: K417N
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '0.2'
+    reference: Chen21[^Chen21]
+  - variant: K417N
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '0.3'
+    reference: Wang21[^Wang21]
+  - variant: K417N
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '0.4'
+    reference: Wang21b[^Wang21b]
   - variant: K417N
     rx: Vir-7831/S2E12
     mab_class: ''
@@ -727,6 +787,11 @@
     fold: '0.3'
     reference: Wang21b[^Wang21b]
   - variant: K417N
+    rx: H014
+    mab_class: RBD Core Cluster II
+    fold: '1.5'
+    reference: Li21c[^Li21c]
+  - variant: K417N
     rx: CC12.1
     mab_class: RBM Class I
     fold: '&gt;100'
@@ -787,25 +852,15 @@
     fold: '&gt;100'
     reference: Wang21e[^Wang21e]
   - variant: K417N
+    rx: P2C-1F11
+    mab_class: RBM Class I
+    fold: '2.3'
+    reference: Li21c[^Li21c]
+  - variant: K417N
     rx: S2E12
     mab_class: RBM Class I
     fold: '0.2'
     reference: Chen21[^Chen21]
-  - variant: K417N
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '0.2'
-    reference: Chen21[^Chen21]
-  - variant: K417N
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '0.3'
-    reference: Wang21[^Wang21]
-  - variant: K417N
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '0.4'
-    reference: Wang21b[^Wang21b]
   - variant: K417N
     rx: BD-368-2
     mab_class: RBM Class II
@@ -827,20 +882,10 @@
     fold: '0.8'
     reference: Wang21b[^Wang21b]
   - variant: K417N
-    rx: Cilgavimab
+    rx: P2B-2F6
     mab_class: RBM Class II
-    fold: '0.6'
-    reference: Chen21[^Chen21]
-  - variant: K417N
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '0.7'
-    reference: Wang21[^Wang21]
-  - variant: K417N
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '0.6'
-    reference: Wang21b[^Wang21b]
+    fold: '1.5'
+    reference: Li21c[^Li21c]
   - variant: K417N
     rx: 2-4
     mab_class: RBM Class III
@@ -889,6 +934,16 @@
     fold: '0.7'
     reference: Wang21[^Wang21]
   - variant: K417N + E484K + N501Y
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '0.6'
+    reference: Chen21[^Chen21]
+  - variant: K417N + E484K + N501Y
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '0.6'
+    reference: Wang21[^Wang21]
+  - variant: K417N + E484K + N501Y
     rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '1'
@@ -899,10 +954,15 @@
     fold: '0.8'
     reference: Wang21[^Wang21]
   - variant: K417N + E484K + N501Y
-    rx: S2E11
+    rx: Tixagevimab
     mab_class: ''
-    fold: '0.6'
-    reference: Collier21[^Collier21]
+    fold: '3.6'
+    reference: Chen21[^Chen21]
+  - variant: K417N + E484K + N501Y
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '4'
+    reference: Wang21[^Wang21]
   - variant: K417N + E484K + N501Y
     rx: Vir-7831/S2E12
     mab_class: ''
@@ -936,23 +996,23 @@
   - variant: K417N + E484K + N501Y
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.7'
-    reference: Wang21f[^Wang21f]
-  - variant: K417N + E484K + N501Y
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
     fold: '0.2'
     reference: Wang21[^Wang21]
   - variant: K417N + E484K + N501Y
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.4'
-    reference: Wang21e[^Wang21e]
+    fold: '0.7'
+    reference: Wang21f[^Wang21f]
   - variant: K417N + E484K + N501Y
     rx: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1'
     reference: Yao21[^Yao21]
+  - variant: K417N + E484K + N501Y
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.4'
+    reference: Wang21e[^Wang21e]
   - variant: K417N + E484K + N501Y
     rx: Vir-7831
     mab_class: RBD Core Cluster I
@@ -964,10 +1024,15 @@
     fold: '0.8'
     reference: Wang21f[^Wang21f]
   - variant: K417N + E484K + N501Y
-    rx: S2X35
+    rx: H014
     mab_class: RBD Core Cluster II
-    fold: '1.3'
-    reference: Collier21[^Collier21]
+    fold: '0.8'
+    reference: Li21c[^Li21c]
+  - variant: K417N + E484K + N501Y
+    rx: Casirivimab
+    mab_class: RBM Class I
+    fold: '&gt;100'
+    reference: Wang21[^Wang21]
   - variant: K417N + E484K + N501Y
     rx: Casirivimab
     mab_class: RBM Class I
@@ -977,22 +1042,22 @@
     rx: Casirivimab
     mab_class: RBM Class I
     fold: '&gt;100'
-    reference: Wang21[^Wang21]
+    reference: Yao21[^Yao21]
   - variant: K417N + E484K + N501Y
     rx: Casirivimab
     mab_class: RBM Class I
     fold: '&gt;100'
     reference: Wang21e[^Wang21e]
-  - variant: K417N + E484K + N501Y
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Yao21[^Yao21]
   - variant: K417N + E484K + N501Y
     rx: Etesevimab
     mab_class: RBM Class I
     fold: '&gt;100'
     reference: Wang21e[^Wang21e]
+  - variant: K417N + E484K + N501Y
+    rx: P2C-1F11
+    mab_class: RBM Class I
+    fold: '0.4'
+    reference: Li21c[^Li21c]
   - variant: K417N + E484K + N501Y
     rx: S2E12
     mab_class: RBM Class I
@@ -1009,30 +1074,15 @@
     fold: '&gt;100'
     reference: Collier21[^Collier21]
   - variant: K417N + E484K + N501Y
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '3.6'
-    reference: Chen21[^Chen21]
-  - variant: K417N + E484K + N501Y
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '4'
-    reference: Wang21[^Wang21]
-  - variant: K417N + E484K + N501Y
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '&gt;100'
     reference: Wang21e[^Wang21e]
   - variant: K417N + E484K + N501Y
-    rx: Cilgavimab
+    rx: P2B-2F6
     mab_class: RBM Class II
-    fold: '0.6'
-    reference: Chen21[^Chen21]
-  - variant: K417N + E484K + N501Y
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '0.6'
-    reference: Wang21[^Wang21]
+    fold: '53'
+    reference: Li21c[^Li21c]
   - variant: K417N + E484K + N501Y
     rx: C144
     mab_class: RBM Class III
@@ -1260,13 +1310,13 @@
   - variant: N439K
     rx: B38
     mab_class: RBM Class I
-    fold: '0.6'
-    reference: Shen21[^Shen21]
+    fold: '1.9'
+    reference: Li20h[^Li20h]
   - variant: N439K
     rx: B38
     mab_class: RBM Class I
-    fold: '1.9'
-    reference: Li20h[^Li20h]
+    fold: '0.6'
+    reference: Shen21[^Shen21]
   - variant: N439K
     rx: Casirivimab
     mab_class: RBM Class I
@@ -1430,6 +1480,21 @@
     fold: '0.8'
     reference: Wang21[^Wang21]
   - variant: N501Y
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '1'
+    reference: Chen21[^Chen21]
+  - variant: N501Y
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '1'
+    reference: Wang21[^Wang21]
+  - variant: N501Y
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '1.3'
+    reference: Wang21b[^Wang21b]
+  - variant: N501Y
     rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '1.2'
@@ -1459,6 +1524,21 @@
     mab_class: ''
     fold: '1.2'
     reference: Wang21f[^Wang21f]
+  - variant: N501Y
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '1.1'
+    reference: Chen21[^Chen21]
+  - variant: N501Y
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '1'
+    reference: Wang21[^Wang21]
+  - variant: N501Y
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '1.7'
+    reference: Wang21b[^Wang21b]
   - variant: N501Y
     rx: Vir-7831/S2E12
     mab_class: ''
@@ -1585,6 +1665,11 @@
     fold: '0.5'
     reference: Shen21[^Shen21]
   - variant: N501Y
+    rx: H014
+    mab_class: RBD Core Cluster II
+    fold: '1.5'
+    reference: Li21c[^Li21c]
+  - variant: N501Y
     rx: B38
     mab_class: RBM Class I
     fold: '2.2'
@@ -1665,25 +1750,15 @@
     fold: '5'
     reference: Yao21[^Yao21]
   - variant: N501Y
+    rx: P2C-1F11
+    mab_class: RBM Class I
+    fold: '1'
+    reference: Li21c[^Li21c]
+  - variant: N501Y
     rx: S2E12
     mab_class: RBM Class I
     fold: '1.1'
     reference: Chen21[^Chen21]
-  - variant: N501Y
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '1.1'
-    reference: Chen21[^Chen21]
-  - variant: N501Y
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '1'
-    reference: Wang21[^Wang21]
-  - variant: N501Y
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '1.7'
-    reference: Wang21b[^Wang21b]
   - variant: N501Y
     rx: BD-368-2
     mab_class: RBM Class II
@@ -1715,25 +1790,15 @@
     fold: '0.8'
     reference: Weisblum20[^Weisblum20]
   - variant: N501Y
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '1'
-    reference: Chen21[^Chen21]
-  - variant: N501Y
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '1'
-    reference: Wang21[^Wang21]
-  - variant: N501Y
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '1.3'
-    reference: Wang21b[^Wang21b]
-  - variant: N501Y
     rx: P2B-2F6
     mab_class: RBM Class II
     fold: '0.6'
     reference: Shen21[^Shen21]
+  - variant: N501Y
+    rx: P2B-2F6
+    mab_class: RBM Class II
+    fold: '0.4'
+    reference: Li21c[^Li21c]
   - variant: N501Y
     rx: 2-4
     mab_class: RBM Class III
@@ -2046,10 +2111,20 @@
     fold: '0.8'
     reference: Wang21f[^Wang21f]
   - variant: ∆144
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '1'
+    reference: Wang21b[^Wang21b]
+  - variant: ∆144
     rx: P5A-1B9
     mab_class: ''
     fold: '1.4'
     reference: Wang21f[^Wang21f]
+  - variant: ∆144
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '1.1'
+    reference: Wang21b[^Wang21b]
   - variant: ∆144
     rx: 2-17
     mab_class: NTD
@@ -2151,11 +2226,6 @@
     fold: '0.6'
     reference: Wang21f[^Wang21f]
   - variant: ∆144
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '1.1'
-    reference: Wang21b[^Wang21b]
-  - variant: ∆144
     rx: BD-368-2
     mab_class: RBM Class II
     fold: '1.4'
@@ -2169,11 +2239,6 @@
     rx: C121
     mab_class: RBM Class II
     fold: '0.6'
-    reference: Wang21b[^Wang21b]
-  - variant: ∆144
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '1'
     reference: Wang21b[^Wang21b]
   - variant: ∆144
     rx: 2-4
@@ -2223,10 +2288,20 @@
     fold: '2.7'
     reference: Wang21f[^Wang21f]
   - variant: ∆69/70
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '1.3'
+    reference: Wang21b[^Wang21b]
+  - variant: ∆69/70
     rx: P5A-1B9
     mab_class: ''
     fold: '1.7'
     reference: Wang21f[^Wang21f]
+  - variant: ∆69/70
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '1'
+    reference: Wang21b[^Wang21b]
   - variant: ∆69/70
     rx: 2-17
     mab_class: NTD
@@ -2358,11 +2433,6 @@
     fold: '0.6'
     reference: Wang21e[^Wang21e]
   - variant: ∆69/70
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '1'
-    reference: Wang21b[^Wang21b]
-  - variant: ∆69/70
     rx: BD-368-2
     mab_class: RBM Class II
     fold: '0.5'
@@ -2381,11 +2451,6 @@
     rx: C121
     mab_class: RBM Class II
     fold: '0.6'
-    reference: Wang21b[^Wang21b]
-  - variant: ∆69/70
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '1.3'
     reference: Wang21b[^Wang21b]
   - variant: ∆69/70
     rx: 2-4
@@ -2410,6 +2475,11 @@
     fold: '1.1'
     reference: Chen21[^Chen21]
   - variant: ∆69/70 + N501Y
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '0.7'
+    reference: Chen21[^Chen21]
+  - variant: ∆69/70 + N501Y
     rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '1.4'
@@ -2429,6 +2499,11 @@
     mab_class: ''
     fold: '1.5'
     reference: Shen21[^Shen21]
+  - variant: ∆69/70 + N501Y
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '0.9'
+    reference: Chen21[^Chen21]
   - variant: ∆69/70 + N501Y
     rx: Vir-7831/S2E12
     mab_class: ''
@@ -2490,11 +2565,6 @@
     fold: '0.8'
     reference: Chen21[^Chen21]
   - variant: ∆69/70 + N501Y
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '0.9'
-    reference: Chen21[^Chen21]
-  - variant: ∆69/70 + N501Y
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '1'
@@ -2504,11 +2574,6 @@
     mab_class: RBM Class II
     fold: '1.8'
     reference: Wang21e[^Wang21e]
-  - variant: ∆69/70 + N501Y
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '0.7'
-    reference: Chen21[^Chen21]
   - variant: ∆69/70 + N501Y
     rx: P2B-2F6
     mab_class: RBM Class II

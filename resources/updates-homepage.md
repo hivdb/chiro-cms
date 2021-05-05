@@ -23,6 +23,14 @@ Instruction:
 
 -->
 
+### Database Entries (May 05)
+Ryu D, Song R, et int., and Lee S. [“Therapeutic effect of CT-P59 against SARS-CoV-2 South African variant.”](/search/?article=Lee21) _bioRxiv_, 2021. [doi.org/10.1101/2021.04.27.441707](https://doi.org/10.1101/2021.04.27.441707).
+### Database Entries (May 05)
+Lenze EJ, Mattar C, et int., and Reiersen AM. [“Fluvoxamine vs Placebo and Clinical Deterioration in Outpatients With Symptomatic COVID-19.”](/search/?article=Lenze20) _JAMA_, 2020. [doi.org/10.1001/jama.2020.22760](https://doi.org/10.1001/jama.2020.22760). \[[PubMed33180097](https://www.ncbi.nlm.nih.gov/pubmed/33180097/)\] \[[PMC7662481](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7662481/)\]
+
+### [Clinical Trials (Apr 29)](/page/updates/#clinical.trials)
+[6 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-04-29)
+
 ### Database Entries (Apr 26)
 Gaborit B, Dailly E, et int., and Raffi F. [“Pharmacokinetics and safety of XAV-19, a swine glyco-humanized polyclonal anti-SARS-CoV-2 antibody, for COVID-19-related moderate pneumonia: a randomized, double-blind, placebo-controlled, phase IIa study.”](/search/?article=Gaborit21) _medRxiv_, 2021. [doi.org/10.1101/2021.04.15.21255549](https://doi.org/10.1101/2021.04.15.21255549).
 ### Database Entries (Apr 26)

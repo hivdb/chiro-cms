@@ -5,6 +5,16 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 25,
+                "s_fold": 25,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Bates21*[^Bates21]",
+                "median": "0.8"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP",
                 "samples": 5,
                 "s_fold": 5,
                 "i_fold": 0,
@@ -70,6 +80,16 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Kuzmina21[^Kuzmina21]",
+                "median": 1.5
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Leier21*[^Leier21]",
                 "median": 1.5
             },
             {
@@ -337,6 +357,16 @@
     {
         "variant": "B.1.351",
         "assays": [
+            {
+                "variant": "B.1.351",
+                "rx": "CP",
+                "samples": 23,
+                "s_fold": 22,
+                "i_fold": 0,
+                "r_fold": 1,
+                "reference": "Bates21*[^Bates21]",
+                "median": "0.3"
+            },
             {
                 "variant": "B.1.351",
                 "rx": "CP",
@@ -775,6 +805,16 @@
             {
                 "variant": "P.1",
                 "rx": "CP",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Leier21*[^Leier21]",
+                "median": 1.2
+            },
+            {
+                "variant": "P.1",
+                "rx": "CP",
                 "samples": 9,
                 "s_fold": 2,
                 "i_fold": 6,
@@ -811,6 +851,16 @@
                 "r_fold": 0,
                 "reference": "Wang21f[^Wang21f]",
                 "median": "2.0"
+            },
+            {
+                "variant": "P.1",
+                "rx": "CP",
+                "samples": 19,
+                "s_fold": 2,
+                "i_fold": 9,
+                "r_fold": 8,
+                "reference": "deSouza21[^deSouza21]",
+                "median": "6.4"
             },
             {
                 "variant": "P.1",

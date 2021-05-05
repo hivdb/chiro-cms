@@ -65,6 +65,16 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "samples": 50,
+                "s_fold": 29,
+                "i_fold": 21,
+                "r_fold": 0,
+                "reference": "Bates21*[^Bates21]",
+                "median": "2.4"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
                 "samples": 8,
                 "s_fold": 8,
                 "i_fold": 0,
@@ -135,6 +145,26 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "samples": 20,
+                "s_fold": 20,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Leier21*[^Leier21]",
+                "median": 2.6
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 6,
+                "s_fold": 6,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Mallm21*[^Mallm21]",
+                "median": "1.0"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
                 "samples": 26,
                 "s_fold": 16,
                 "i_fold": 10,
@@ -161,6 +191,16 @@
                 "r_fold": 0,
                 "reference": "Muik21[^Muik21]",
                 "median": "1.3"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 13,
+                "s_fold": 13,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Planas21[^Planas21]",
+                "median": "0.3"
             },
             {
                 "variant": "B.1.1.7",
@@ -274,13 +314,13 @@
             },
             {
                 "variant": "B.1.1.7",
-                "rx": "BNT_W6",
-                "samples": 13,
-                "s_fold": 13,
+                "rx": "BNT_infected",
+                "samples": 10,
+                "s_fold": 10,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Planas21[^Planas21]",
-                "median": "0.3"
+                "reference": "Leier21*[^Leier21]",
+                "median": 1.8
             },
             {
                 "variant": "B.1.1.7",
@@ -440,6 +480,16 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 43,
+                "s_fold": 5,
+                "i_fold": 16,
+                "r_fold": 22,
+                "reference": "Bates21*[^Bates21]",
+                "median": "11"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
                 "samples": 6,
                 "s_fold": 1,
                 "i_fold": 3,
@@ -481,11 +531,31 @@
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "samples": 20,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 20,
+                "reference": "Leier21*[^Leier21]",
+                "median": 11.2
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 20,
                 "s_fold": 15,
                 "i_fold": 5,
                 "r_fold": 0,
                 "reference": "Liu21b[^Liu21b]",
                 "median": "2"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 6,
+                "s_fold": 1,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Mallm21*[^Mallm21]",
+                "median": "4.7"
             },
             {
                 "variant": "B.1.351",
@@ -506,6 +576,16 @@
                 "r_fold": 1,
                 "reference": "McCallum21b[^McCallum21b]",
                 "median": "4"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 13,
+                "s_fold": 2,
+                "i_fold": 6,
+                "r_fold": 5,
+                "reference": "Planas21[^Planas21]",
+                "median": "7.2"
             },
             {
                 "variant": "B.1.351",
@@ -619,13 +699,13 @@
             },
             {
                 "variant": "B.1.351",
-                "rx": "BNT_W6",
-                "samples": 13,
-                "s_fold": 2,
-                "i_fold": 6,
-                "r_fold": 5,
-                "reference": "Planas21[^Planas21]",
-                "median": "7.2"
+                "rx": "BNT_infected",
+                "samples": 10,
+                "s_fold": 0,
+                "i_fold": 10,
+                "r_fold": 0,
+                "reference": "Leier21*[^Leier21]",
+                "median": 6.1
             },
             {
                 "variant": "B.1.351",
@@ -646,6 +726,56 @@
                 "r_fold": 16,
                 "reference": "Wang21g[^Wang21g]",
                 "median": "4.9"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Mod_211_mice",
+                "samples": 8,
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wu21b[^Wu21b]",
+                "median": "0.9"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Mod_351_mice",
+                "samples": 8,
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wu21b[^Wu21b]",
+                "median": "0.3"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Mod_mice",
+                "samples": 8,
+                "s_fold": 7,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Wu21b[^Wu21b]",
+                "median": "2.1"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Mod_mice_2nd",
+                "samples": 5,
+                "s_fold": 0,
+                "i_fold": 4,
+                "r_fold": 1,
+                "reference": "Wu21b[^Wu21b]",
+                "median": "6.6"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Mod_mice_3rd",
+                "samples": 5,
+                "s_fold": 4,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Wu21b[^Wu21b]",
+                "median": "1.1"
             },
             {
                 "variant": "B.1.351",
@@ -761,6 +891,36 @@
                 "r_fold": 0,
                 "reference": "McCallum21b[^McCallum21b]",
                 "median": "2.9"
+            },
+            {
+                "variant": "B.1.427/9",
+                "rx": "Mod_211_mice",
+                "samples": 8,
+                "s_fold": 0,
+                "i_fold": 8,
+                "r_fold": 0,
+                "reference": "Wu21b[^Wu21b]",
+                "median": 3.5
+            },
+            {
+                "variant": "B.1.427/9",
+                "rx": "Mod_351_mice",
+                "samples": 8,
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wu21b[^Wu21b]",
+                "median": 1.5
+            },
+            {
+                "variant": "B.1.427/9",
+                "rx": "Mod_mice",
+                "samples": 8,
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wu21b[^Wu21b]",
+                "median": 2.3
             },
             {
                 "variant": "B.1.427/9",
@@ -940,6 +1100,16 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
+                "samples": 20,
+                "s_fold": 0,
+                "i_fold": 20,
+                "r_fold": 0,
+                "reference": "Leier21*[^Leier21]",
+                "median": 3.3
+            },
+            {
+                "variant": "P.1",
+                "rx": "BNT162b2",
                 "samples": 13,
                 "s_fold": 12,
                 "i_fold": 1,
@@ -960,12 +1130,62 @@
             {
                 "variant": "P.1",
                 "rx": "BNT_infected",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Leier21*[^Leier21]",
+                "median": 2.6
+            },
+            {
+                "variant": "P.1",
+                "rx": "BNT_infected",
                 "samples": 5,
                 "s_fold": 4,
                 "i_fold": 1,
                 "r_fold": 0,
                 "reference": "McCallum21b[^McCallum21b]",
                 "median": "1"
+            },
+            {
+                "variant": "P.1",
+                "rx": "CoronaVac",
+                "samples": 6,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 6,
+                "reference": "deSouza21[^deSouza21]",
+                "median": "5"
+            },
+            {
+                "variant": "P.1",
+                "rx": "Mod_211_mice",
+                "samples": 8,
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wu21b[^Wu21b]",
+                "median": 1.4
+            },
+            {
+                "variant": "P.1",
+                "rx": "Mod_351_mice",
+                "samples": 8,
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wu21b[^Wu21b]",
+                "median": 0.8
+            },
+            {
+                "variant": "P.1",
+                "rx": "Mod_mice",
+                "samples": 8,
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wu21b[^Wu21b]",
+                "median": 1.9
             },
             {
                 "variant": "P.1",

@@ -35,6 +35,16 @@
             {
                 "variant": "E484K",
                 "rx": "CP",
+                "samples": 15,
+                "s_fold": 12,
+                "i_fold": 3,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
+            },
+            {
+                "variant": "E484K",
+                "rx": "CP",
                 "samples": 10,
                 "s_fold": 10,
                 "i_fold": 0,
@@ -74,6 +84,46 @@
             },
             {
                 "variant": "E484K",
+                "rx": "CP_2M",
+                "samples": 10,
+                "s_fold": 7,
+                "i_fold": 3,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
+            },
+            {
+                "variant": "E484K",
+                "rx": "CP_5M",
+                "samples": 10,
+                "s_fold": 8,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
+            },
+            {
+                "variant": "E484K",
+                "rx": "CP_8M",
+                "samples": 10,
+                "s_fold": 8,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
+            },
+            {
+                "variant": "E484K",
+                "rx": "CP_RBD_Immu",
+                "samples": 3,
+                "s_fold": 1,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "4"
+            },
+            {
+                "variant": "E484K",
                 "rx": "CP_high_titer",
                 "samples": 8,
                 "s_fold": 1,
@@ -106,6 +156,56 @@
                 "r_fold": 3,
                 "reference": "Chen21[^Chen21]",
                 "median": "5.7"
+            },
+            {
+                "variant": "E484K + N501Y",
+                "rx": "CP",
+                "samples": 15,
+                "s_fold": 5,
+                "i_fold": 9,
+                "r_fold": 1,
+                "reference": "Li21c[^Li21c]",
+                "median": "4"
+            },
+            {
+                "variant": "E484K + N501Y",
+                "rx": "CP_2M",
+                "samples": 10,
+                "s_fold": 1,
+                "i_fold": 8,
+                "r_fold": 1,
+                "reference": "Li21c[^Li21c]",
+                "median": "6"
+            },
+            {
+                "variant": "E484K + N501Y",
+                "rx": "CP_5M",
+                "samples": 10,
+                "s_fold": 1,
+                "i_fold": 9,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "4"
+            },
+            {
+                "variant": "E484K + N501Y",
+                "rx": "CP_8M",
+                "samples": 10,
+                "s_fold": 3,
+                "i_fold": 7,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "4"
+            },
+            {
+                "variant": "E484K + N501Y",
+                "rx": "CP_RBD_Immu",
+                "samples": 3,
+                "s_fold": 1,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "4"
             }
         ]
     },
@@ -135,6 +235,16 @@
             {
                 "variant": "K417N",
                 "rx": "CP",
+                "samples": 15,
+                "s_fold": 15,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "0.5"
+            },
+            {
+                "variant": "K417N",
+                "rx": "CP",
                 "samples": 20,
                 "s_fold": 20,
                 "i_fold": 0,
@@ -151,6 +261,46 @@
                 "r_fold": 0,
                 "reference": "Wang21f[^Wang21f]",
                 "median": "0.5"
+            },
+            {
+                "variant": "K417N",
+                "rx": "CP_2M",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
+            },
+            {
+                "variant": "K417N",
+                "rx": "CP_5M",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
+            },
+            {
+                "variant": "K417N",
+                "rx": "CP_8M",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
+            },
+            {
+                "variant": "K417N",
+                "rx": "CP_RBD_Immu",
+                "samples": 3,
+                "s_fold": 3,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
             }
         ]
     },
@@ -166,6 +316,16 @@
                 "r_fold": 2,
                 "reference": "Chen21[^Chen21]",
                 "median": "2.6"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "CP",
+                "samples": 15,
+                "s_fold": 5,
+                "i_fold": 8,
+                "r_fold": 2,
+                "reference": "Li21c[^Li21c]",
+                "median": "4"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -189,6 +349,26 @@
             },
             {
                 "variant": "K417N + E484K + N501Y",
+                "rx": "CP_2M",
+                "samples": 10,
+                "s_fold": 3,
+                "i_fold": 7,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "4"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "CP_5M",
+                "samples": 10,
+                "s_fold": 7,
+                "i_fold": 3,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
                 "rx": "CP_6M",
                 "samples": 45,
                 "s_fold": 36,
@@ -196,6 +376,26 @@
                 "r_fold": 2,
                 "reference": "Wang21[^Wang21]",
                 "median": "1.9"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "CP_8M",
+                "samples": 10,
+                "s_fold": 9,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "CP_RBD_Immu",
+                "samples": 3,
+                "s_fold": 3,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -356,6 +556,16 @@
                 "variant": "N501Y",
                 "rx": "CP",
                 "samples": 15,
+                "s_fold": 13,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "CP",
+                "samples": 15,
                 "s_fold": 10,
                 "i_fold": 5,
                 "r_fold": 0,
@@ -394,6 +604,36 @@
             },
             {
                 "variant": "N501Y",
+                "rx": "CP_2M",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "CP_5M",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "CP_8M",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
+            },
+            {
+                "variant": "N501Y",
                 "rx": "CP_Mild",
                 "samples": 18,
                 "s_fold": 16,
@@ -401,6 +641,16 @@
                 "r_fold": 0,
                 "reference": "Rees-Spear21[^Rees-Spear21]",
                 "median": "1.2"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "CP_RBD_Immu",
+                "samples": 3,
+                "s_fold": 3,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Li21c[^Li21c]",
+                "median": "1"
             },
             {
                 "variant": "N501Y",
