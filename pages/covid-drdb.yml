@@ -1,1 +1,11 @@
-drdbVersion: "20210505-slim"
+drdbVersion: "20210506-slim"
+mutationDefaultGene: S
+geneReferences:
+  _resource: sierra-sars2/gene-references.yml
+geneSynonyms:
+  PL: PLpro
+  nsp3: PLpro
+  3CL: _3CLpro
+  3CLpro: _3CLpro
+  nsp5: _3CLpro
+  Spike: S
