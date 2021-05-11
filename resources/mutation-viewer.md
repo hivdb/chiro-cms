@@ -9,7 +9,8 @@
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
   - [B.1.x](#sec_b-1-x)
   - [P.3, aka PHL-B.1.1.28](#sec_phl-b-1-1-28)
-  - [B.1.617.1, S:E484Q+L452R (India)](#sec_b-1-617)
+  - [B.1.617.1, aka B.1.617, S:E484Q+L452R (India)](#sec_b-1-617)
+  - [B.1.620](#sec_b-1-620)
   - [B.1.258, aka N439K](#sec_n439k)
   - [B.1.1.298, aka Cluster 5](#sec_cluster5)
   - [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](#sec_coh-20g-501y)
@@ -259,6 +260,30 @@ INSACOG. “Genome Sequencing by INSACOG shows variants of concern and a Novel v
 
 [genomemap]
 b-1-617
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.620 -->
+<section id="sec_b-1-620" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.620](#sec_b-1-620)
+
+Dudas G, Hong SL, et int., and Baele G. “Travel-driven emergence and spread of SARS-CoV-2 lineage B.1.620 with multiple VOC-like mutations and deletions in Europe.” _medRxiv_, 2021. [doi.org/10.1101/2021.05.04.21256637](https://doi.org/10.1101/2021.05.04.21256637). [^Dudas21]
+
+[Outbreak.info B.1.620 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.620) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-620
 [/genomemap]
 
 </div>
