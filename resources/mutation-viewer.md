@@ -11,6 +11,7 @@
   - [P.3, aka PHL-B.1.1.28](#sec_phl-b-1-1-28)
   - [B.1.617.1, aka B.1.617, S:E484Q+L452R (India)](#sec_b-1-617)
   - [B.1.620](#sec_b-1-620)
+  - [B.1.621](#sec_b-1-621)
   - [B.1.258, aka N439K](#sec_n439k)
   - [B.1.1.298, aka Cluster 5](#sec_cluster5)
   - [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](#sec_coh-20g-501y)
@@ -284,6 +285,30 @@ Dudas G, Hong SL, et int., and Baele G. “Travel-driven emergence and spread of
 
 [genomemap]
 b-1-620
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.621 -->
+<section id="sec_b-1-621" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.621](#sec_b-1-621)
+
+Laito-Donato K, Franco-Munoz C, et int., and Mercado-Reyes M. “Characterization of the emerging B.1.621 variant of interest of SARS-CoV-2.” _medRxiv_, 2021. [doi.org/10.1101/2021.05.08.21256619](https://doi.org/10.1101/2021.05.08.21256619). [^Laito-Donato21]
+
+[Outbreak.info B.1.621 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.621) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-621
 [/genomemap]
 
 </div>
