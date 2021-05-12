@@ -2,6 +2,14 @@
   assays:
   - variant: E484K
     rx: BNT162b2
+    samples: 10
+    s_fold: 6
+    i_fold: 1
+    r_fold: 3
+    reference: Ferreira21[^Ferreira21]
+    median: '2.6'
+  - variant: E484K
+    rx: BNT162b2
     samples: 5
     s_fold: 1
     i_fold: 4
@@ -208,6 +216,14 @@
     median: 2.7
 - variant: L452R
   assays:
+  - variant: L452R
+    rx: BNT162b2
+    samples: 10
+    s_fold: 5
+    i_fold: 5
+    r_fold: 0
+    reference: Ferreira21[^Ferreira21]
+    median: '2.3'
   - variant: L452R
     rx: mRNA-1273
     samples: 6

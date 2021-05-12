@@ -926,6 +926,13 @@
             },
             {
                 "variant": "B.1.351",
+                "rx": "Bamlanivimab + Etesevimab",
+                "mab_class": "",
+                "fold": "&gt;100",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
+            },
+            {
+                "variant": "B.1.351",
                 "rx": "Bamlanivimab/Etesevimab",
                 "mab_class": "",
                 "fold": "45",
@@ -1035,6 +1042,13 @@
                 "mab_class": "",
                 "fold": "12",
                 "reference": "Wang21b*[^Wang21b]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "REGN-COV",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
             },
             {
                 "variant": "B.1.351",
@@ -1208,6 +1222,13 @@
                 "variant": "B.1.351",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
+                "fold": "1",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
                 "fold": "2.3",
                 "reference": "Tada21b[^Tada21b]"
             },
@@ -1313,6 +1334,13 @@
                 "variant": "B.1.351",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
+                "fold": "4.1",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
                 "fold": "45",
                 "reference": "Copin21[^Copin21]"
             },
@@ -1370,6 +1398,13 @@
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
                 "fold": "&gt;100",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "&gt;100",
                 "reference": "Wang21b[^Wang21b]"
             },
             {
@@ -1420,6 +1455,13 @@
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
                 "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
             },
             {
                 "variant": "B.1.351",
@@ -1626,6 +1668,53 @@
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
                 "reference": "FDA21[^FDA21]"
+            }
+        ]
+    },
+    {
+        "variant": "B.1.617",
+        "assays": [
+            {
+                "variant": "B.1.617",
+                "rx": "Bamlanivimab + Etesevimab",
+                "mab_class": "",
+                "fold": "5",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
+            },
+            {
+                "variant": "B.1.617",
+                "rx": "REGN-COV",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
+            },
+            {
+                "variant": "B.1.617",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
+            },
+            {
+                "variant": "B.1.617",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "4.1",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
+            },
+            {
+                "variant": "B.1.617",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.8",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
+            },
+            {
+                "variant": "B.1.617",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
             }
         ]
     },

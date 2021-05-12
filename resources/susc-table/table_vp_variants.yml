@@ -146,6 +146,14 @@
     median: '1.1'
   - variant: B.1.1.7
     rx: BNT162b2
+    samples: 16
+    s_fold: 0
+    i_fold: 16
+    r_fold: 0
+    reference: Monin-Aldama21[^Monin-Aldama21]
+    median: 3.4
+  - variant: B.1.1.7
+    rx: BNT162b2
     samples: 40
     s_fold: 40
     i_fold: 0
@@ -168,6 +176,14 @@
     r_fold: 0
     reference: Skelly21*[^Skelly21]
     median: '2.2'
+  - variant: B.1.1.7
+    rx: BNT162b2
+    samples: 5
+    s_fold: 5
+    i_fold: 0
+    r_fold: 0
+    reference: Stankov21[^Stankov21]
+    median: '1.1'
   - variant: B.1.1.7
     rx: BNT162b2
     samples: 24
@@ -216,6 +232,14 @@
     r_fold: 2
     reference: Collier21[^Collier21]
     median: '1.6'
+  - variant: B.1.1.7
+    rx: BNT_1st_dose
+    samples: 14
+    s_fold: 0
+    i_fold: 14
+    r_fold: 0
+    reference: Stankov21[^Stankov21]
+    median: 3.1
   - variant: B.1.1.7
     rx: BNT_W2
     samples: 15
@@ -272,6 +296,14 @@
     r_fold: 9
     reference: Wang21g[^Wang21g]
     median: '1.6'
+  - variant: B.1.1.7
+    rx: MVC-COV1901
+    samples: 45
+    s_fold: 44
+    i_fold: 1
+    r_fold: 0
+    reference: Lien21[^Lien21]
+    median: '1.7'
   - variant: B.1.1.7
     rx: NVX-CoV
     samples: 28
@@ -412,6 +444,14 @@
     median: '5'
   - variant: B.1.351
     rx: BNT162b2
+    samples: 15
+    s_fold: 1
+    i_fold: 8
+    r_fold: 6
+    reference: Hoffmann21c[^Hoffmann21c]
+    median: '7.6'
+  - variant: B.1.351
+    rx: BNT162b2
     samples: 10
     s_fold: 0
     i_fold: 10
@@ -477,6 +517,14 @@
   - variant: B.1.351
     rx: BNT162b2
     samples: 5
+    s_fold: 3
+    i_fold: 2
+    r_fold: 0
+    reference: Stankov21[^Stankov21]
+    median: '2.2'
+  - variant: B.1.351
+    rx: BNT162b2
+    samples: 5
     s_fold: 2
     i_fold: 3
     r_fold: 0
@@ -522,6 +570,14 @@
     r_fold: 0
     reference: Zhou21c[^Zhou21c]
     median: 3.6
+  - variant: B.1.351
+    rx: BNT_1st_dose
+    samples: 14
+    s_fold: 0
+    i_fold: 14
+    r_fold: 0
+    reference: Stankov21[^Stankov21]
+    median: 3.1
   - variant: B.1.351
     rx: BNT_W2
     samples: 15
@@ -579,6 +635,14 @@
     reference: Wang21g[^Wang21g]
     median: '4.9'
   - variant: B.1.351
+    rx: MVC-COV1901
+    samples: 45
+    s_fold: 4
+    i_fold: 28
+    r_fold: 13
+    reference: Lien21[^Lien21]
+    median: '6.4'
+  - variant: B.1.351
     rx: Mod_211_mice
     samples: 8
     s_fold: 8
@@ -634,6 +698,38 @@
     r_fold: 3
     reference: Ikegame21[^Ikegame21]
     median: '6.2'
+  - variant: B.1.351
+    rx: mRNA-1273
+    samples: 10
+    s_fold: 8
+    i_fold: 2
+    r_fold: 0
+    reference: Goel21[^Goel21]
+    median: '1.5'
+  - variant: B.1.351
+    rx: mRNA-1273
+    samples: 4
+    s_fold: 2
+    i_fold: 2
+    r_fold: 0
+    reference: Goel21[^Goel21]
+    median: '3.4'
+  - variant: B.1.351
+    rx: mRNA-1273
+    samples: 7
+    s_fold: 6
+    i_fold: 1
+    r_fold: 0
+    reference: Goel21[^Goel21]
+    median: '1.4'
+  - variant: B.1.351
+    rx: mRNA-1273
+    samples: 26
+    s_fold: 12
+    i_fold: 14
+    r_fold: 0
+    reference: Goel21[^Goel21]
+    median: '3.4'
   - variant: B.1.351
     rx: mRNA-1273
     samples: 26
@@ -809,6 +905,14 @@
 - variant: B.1.617
   assays:
   - variant: B.1.617
+    rx: ''
+    samples: 10
+    s_fold: 0
+    i_fold: 9
+    r_fold: 1
+    reference: Edara21c[^Edara21c]
+    median: '6.4'
+  - variant: B.1.617
     rx: BBV152
     samples: 28
     s_fold: 26
@@ -816,6 +920,22 @@
     r_fold: 0
     reference: Yadav21[^Yadav21]
     median: '1.7'
+  - variant: B.1.617
+    rx: BNT162b2
+    samples: 15
+    s_fold: 11
+    i_fold: 4
+    r_fold: 0
+    reference: Hoffmann21c[^Hoffmann21c]
+    median: '2.1'
+  - variant: B.1.617
+    rx: mRNA-1273
+    samples: 15
+    s_fold: 0
+    i_fold: 12
+    r_fold: 3
+    reference: Edara21c[^Edara21c]
+    median: '6.4'
 - variant: P.1
   assays:
   - variant: P.1
@@ -884,12 +1004,28 @@
     median: '1.9'
   - variant: P.1
     rx: BNT162b2
+    samples: 5
+    s_fold: 3
+    i_fold: 2
+    r_fold: 0
+    reference: Stankov21[^Stankov21]
+    median: '1.3'
+  - variant: P.1
+    rx: BNT162b2
     samples: 10
     s_fold: 8
     i_fold: 1
     r_fold: 1
     reference: Wang21d[^Wang21d]
     median: '1.9'
+  - variant: P.1
+    rx: BNT_1st_dose
+    samples: 14
+    s_fold: 0
+    i_fold: 14
+    r_fold: 0
+    reference: Stankov21[^Stankov21]
+    median: 3.1
   - variant: P.1
     rx: BNT_infected
     samples: 10
