@@ -21,10 +21,10 @@ tables:
       label: "S\n(&lt;3-fold)"
       multiCells: true
     - name: assays.i_fold
-      label: "I\n(3-9-fold)"
+      label: "I\n(3-10-fold)"
       multiCells: true
     - name: assays.r_fold
-      label: "R\n(&gt;10-fold)"
+      label: "R\n(&gt;=10-fold)"
       multiCells: true
     - name: assays.median
       label: Median Fold

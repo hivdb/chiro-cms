@@ -73,9 +73,9 @@ tables:
     - name: cp_s_fold
       label: "CP\n&lt;3-fold (S)\n(%)"
     - name: cp_i_fold
-      label: "CP\n3-9-fold (I)\n(%)"
+      label: "CP\n3-10-fold (I)\n(%)"
     - name: cp_r_fold
-      label: "CP\n&gt;10-fold (R)\n(%)"
+      label: "CP\n&gt;=10-fold (R)\n(%)"
     data:
       _resource: susc-table/table_cp_summary.yml
   table_vp:
@@ -97,10 +97,10 @@ tables:
       label: "Vaccine\n&lt;3-fold (S)\n(%)"
       multiCells: true
     - name: vaccine.vp_i_fold
-      label: "Vaccine\n3-9-fold (I)\n(%)"
+      label: "Vaccine\n3-10-fold (I)\n(%)"
       multiCells: true
     - name: vaccine.vp_r_fold
-      label: "Vaccine\n&gt;10-fold (R)\n(%)"
+      label: "Vaccine\n&gt;=10-fold (R)\n(%)"
       multiCells: true
     data:
       _resource: susc-table/table_vp_summary.yml
