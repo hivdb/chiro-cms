@@ -22,6 +22,38 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (May 13)
+Betton M, Livrozet M, et int., and Hulot J. [“Sera neutralizing activities against SARS-CoV-2 and multiple variants six month after hospitalization for COVID-19.”](/search-drdb/?article=Betton21) _Clinical Infectious Diseases_, 2021. [doi.org/10.1093/cid/ciab308](https://doi.org/10.1093/cid/ciab308). \[[PubMed33851216](https://www.ncbi.nlm.nih.gov/pubmed/33851216/)\] \[[PMC8083257](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8083257/)\]
+### Database Entries (May 13)
+Dudas G, Hong SL, et int., and Baele G. [“Travel-driven emergence and spread of SARS-CoV-2 lineage B.1.620 with multiple VOC-like mutations and deletions in Europe.”](/search-drdb/?article=Dudas21) _medRxiv_, 2021. [doi.org/10.1101/2021.05.04.21256637](https://doi.org/10.1101/2021.05.04.21256637).
+### Database Entries (May 13)
+Edara VV, Norwood C, et int., and Suthar MS. [“Infection- and vaccine-induced antibody binding and neutralization of the B.1.351 SARS-CoV-2 variant.”](/search-drdb/?article=Edara21b) _Cell Host & Microbe_, 2021. [doi.org/10.1016/j.chom.2021.03.009](https://doi.org/10.1016/j.chom.2021.03.009). \[[PubMed33798491](https://www.ncbi.nlm.nih.gov/pubmed/33798491/)\] \[[PMC7980225](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7980225/)\]
+### Database Entries (May 13)
+Edara V, Lai L, et int., and Suthar MS. [“Infection and vaccine-induced neutralizing antibody responses to the SARS-CoV-2 B.1.617.1 variant.”](/search-drdb/?article=Edara21c) _bioRxiv_, 2021. [doi.org/10.1101/2021.05.09.443299](https://doi.org/10.1101/2021.05.09.443299).
+### Database Entries (May 13)
+Ferreira I, Datir R, et int., and Gupta RK. [“SARS-CoV-2 B.1.617 emergence and sensitivity to vaccine-elicited antibodies.”](/search-drdb/?article=Ferreira21) _bioRxiv_, 2021. [doi.org/10.1101/2021.05.08.443253](https://doi.org/10.1101/2021.05.08.443253).
+### Database Entries (May 13)
+Goel RR, Apostolidis SA, et int., and Wherry EJ. [“Distinct antibody and memory B cell responses in SARS-CoV-2 naïve and recovered individuals following mRNA vaccination.”](/search-drdb/?article=Goel21) _Science Immunology_, 2021. [doi.org/10.1126/sciimmunol.abi6950](https://doi.org/10.1126/sciimmunol.abi6950). \[[PubMed33858945](https://www.ncbi.nlm.nih.gov/pubmed/33858945/)\]
+### Database Entries (May 13)
+Hoffmann M, Hofmann-Winkler H, et int., and Pöhlmann S. [“SARS-CoV-2 variant B.1.617 is resistant to Bamlanivimab and evades antibodies induced by infection and vaccination.”](/search-drdb/?article=Hoffmann21c) _bioRxiv_, 2021. [doi.org/10.1101/2021.05.04.442663](https://doi.org/10.1101/2021.05.04.442663).
+### Database Entries (May 13)
+Jalkanen P, Kolehmainen P, et int., and Julkunen I. [“COVID-19 mRNA vaccine induced antibody responses and neutralizing antibodies against three SARS-CoV-2 variants.”](/search-drdb/?article=Jalkanen21) _Research Square_, 2021. [doi.org/10.21203/rs.3.rs-343388/v1](https://doi.org/10.21203/rs.3.rs-343388/v1).
+### Database Entries (May 13)
+Laiton-Donato K, Franco-Muñoz C, et int., and Mercado-Reyes M. [“Characterization of the emerging B.1.621 variant of interest of SARS-CoV-2.”](/search-drdb/?article=Laiton-Donato21) _medRxiv_, 2021. [doi.org/10.1101/2021.05.08.21256619](https://doi.org/10.1101/2021.05.08.21256619).
+### Database Entries (May 13)
+Li R, Ma X, et int., and Zhang H. [“Differential efficiencies to neutralize the novel mutants B.1.1.7 and 501Y.V2 by collected sera from convalescent COVID-19 patients and RBD nanoparticle-vaccinated rhesus macaques.”](/search-drdb/?article=Li21d) _Cellular & Molecular Immunology_, 2021. [doi.org/10.1038/s41423-021-00641-8](https://doi.org/10.1038/s41423-021-00641-8). \[[PubMed33580167](https://www.ncbi.nlm.nih.gov/pubmed/33580167/)\] \[[PMC7880638](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7880638/)\]
+### Database Entries (May 13)
+Lien C, Kuo T, et int., and Chen C. [“Evaluating the neutralizing ability of a CpG-adjuvanted S-2P subunit vaccine against SARS-CoV-2 Variants of Concern.”](/search-drdb/?article=Lien21) _medRxiv_, 2021. [doi.org/10.1101/2021.03.19.21254000](https://doi.org/10.1101/2021.03.19.21254000).
+### Database Entries (May 13)
+Monin-Aldama L, Laing AG, et int., and Irshad S. [“Interim results of the safety and immune-efficacy of 1 versus 2 doses of COVID-19 vaccine BNT162b2 for cancer patients in the context of the UK vaccine priority guidelines.”](/search-drdb/?article=Monin-Aldama21) _medRxiv_, 2021. [doi.org/10.1101/2021.03.17.21253131](https://doi.org/10.1101/2021.03.17.21253131).
+### Database Entries (May 13)
+Sapkal GN, Yadav PD, et int., and Bhargava B. [“Inactivated COVID-19 vaccine BBV152/COVAXIN effectively neutralizes recently emerged B.1.1.7 variant of SARS-CoV-2.”](/search-drdb/?article=Sapkal21b) _Journal of Travel Medicine_, 2021. [doi.org/10.1093/jtm/taab051](https://doi.org/10.1093/jtm/taab051). \[[PubMed33772577](https://www.ncbi.nlm.nih.gov/pubmed/33772577/)\] \[[PMC8083765](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8083765/)\]
+### Database Entries (May 13)
+Stankov MV, Cossmann A, et int., and Behrens GM. [“Humoral and cellular immune responses against SARS-CoV-2 variants and human coronaviruses after single BNT162b2 vaccination.”](/search-drdb/?article=Stankov21) _medRxiv_, 2021. [doi.org/10.1101/2021.04.16.21255412](https://doi.org/10.1101/2021.04.16.21255412).
+### Database Entries (May 13)
+Virtanen J, Uusitalo R, et int., and Vapalahti O. [“Reduced neutralization of B.1.351 variant SARS-CoV-2 by convalescent sera of COVID-19 patients.”](/search-drdb/?article=Virtanen21) _Research Square_, 2021. [doi.org/10.21203/rs.3.rs-279522/v1](https://doi.org/10.21203/rs.3.rs-279522/v1).
+### Database Entries (May 13)
+Weigang S, Fuchs J, et int., and Kochs G. [“Within-host evolution of SARS-CoV-2 in an immunosuppressed COVID-19 patient: a source of immune escape variants.”](/search-drdb/?article=Weigang21) _medRxiv_, 2021. [doi.org/10.1101/2021.04.30.21256244](https://doi.org/10.1101/2021.04.30.21256244).
 
 ### Database Entries (May 05)
 Ryu D, Song R, et int., and Lee S. [“Therapeutic effect of CT-P59 against SARS-CoV-2 South African variant.”](/search/?article=Lee21) _bioRxiv_, 2021. [doi.org/10.1101/2021.04.27.441707](https://doi.org/10.1101/2021.04.27.441707).
