@@ -1,6 +1,6 @@
 [toc]
 
-- [Summaries](#summaries)
+- [Summaries](/page/susceptibility-data/#summaries)
   - [Table 1: Virus Variants and Spike Mutations vs Monoclonal Antibodies](/page/susceptibility-data/#table.1.virus.variants.and.spike.mutations.vs.monoclonal.antibodies)
   - [Table 2: Virus Variants and Spike Mutations vs Convalescent Plasma](/page/susceptibility-data/#table.2.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons)
   - [Table 3: Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons](/page/susceptibility-data/#table.3.virus.variants.and.spike.mutations.vs.plasma.from.vaccinated.persons)
@@ -16,6 +16,7 @@
   - **Table S4: Neutralizing Sensitivity of Spike Mutations to Convalescent Plasma**
   - [Table S5: Neutralizing Sensitivity of Variants to Plasma from Vaccinated Persons](/page/susceptibility-data/vp-variants/)
   - [Table S6: Neutralizing Sensitivity of Spike Mutations to Plasma from Vaccinated Persons](/page/susceptibility-data/vp-mutations/)
+- [References](/page/susceptibility-data/#references)
 [/toc]
 
 ## Table S4: Neutralizing Sensitivity of Spike Mutations to Convalescent Plasma

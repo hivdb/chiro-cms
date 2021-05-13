@@ -3,35 +3,35 @@
   "results": [
     {
       "name": "b.1.1.7",
-      "total_count": 588595
+      "total_count": 588612
     },
     {
       "name": "b.1.2",
-      "total_count": 77275
+      "total_count": 77274
     },
     {
       "name": "b.1",
-      "total_count": 70531
+      "total_count": 70533
     },
     {
       "name": "b.1.177",
       "total_count": 67396
     },
     {
-      "name": "b.1.1",
-      "total_count": 43021
+      "name": "none",
+      "total_count": 65190
     },
     {
-      "name": "none",
-      "total_count": 37341
+      "name": "b.1.1",
+      "total_count": 43022
     },
     {
       "name": "b.1.429",
-      "total_count": 26715
+      "total_count": 26716
     },
     {
       "name": "b.1.160",
-      "total_count": 21787
+      "total_count": 21788
     },
     {
       "name": "b.1.1.214",
@@ -39,11 +39,11 @@
     },
     {
       "name": "b.1.526",
-      "total_count": 16170
+      "total_count": 16169
     },
     {
       "name": "b.1.351",
-      "total_count": 15091
+      "total_count": 15093
     },
     {
       "name": "b.1.1.519",
@@ -59,7 +59,7 @@
     },
     {
       "name": "b.1.221",
-      "total_count": 12433
+      "total_count": 12437
     },
     {
       "name": "d.2",
@@ -67,15 +67,15 @@
     },
     {
       "name": "b.1.258",
-      "total_count": 12123
+      "total_count": 12125
     },
     {
       "name": "b.1.427",
-      "total_count": 11820
+      "total_count": 11821
     },
     {
       "name": "b.1.243",
-      "total_count": 9808
+      "total_count": 9807
     },
     {
       "name": "b.1.1.284",
@@ -91,11 +91,11 @@
     },
     {
       "name": "b.1.258.17",
-      "total_count": 6493
+      "total_count": 6494
     },
     {
       "name": "b.1.526.2",
-      "total_count": 6246
+      "total_count": 6244
     },
     {
       "name": "b.1.526.1",
@@ -115,7 +115,7 @@
     },
     {
       "name": "b.1.177.86",
-      "total_count": 5169
+      "total_count": 5170
     },
     {
       "name": "b.1.1.37",
@@ -203,7 +203,7 @@
     },
     {
       "name": "b.1.617.2",
-      "total_count": 2492
+      "total_count": 2494
     },
     {
       "name": "b.1.311",
@@ -231,7 +231,7 @@
     },
     {
       "name": "b.1.1.434",
-      "total_count": 2089
+      "total_count": 2088
     },
     {
       "name": "b.1.617.1",
@@ -799,7 +799,7 @@
     },
     {
       "name": "b.1.36.16",
-      "total_count": 554
+      "total_count": 555
     },
     {
       "name": "b.1.391",
@@ -906,11 +906,11 @@
       "total_count": 489
     },
     {
-      "name": "b.1.127",
-      "total_count": 487
+      "name": "b.1.524",
+      "total_count": 488
     },
     {
-      "name": "b.1.524",
+      "name": "b.1.127",
       "total_count": 487
     },
     {
@@ -1010,12 +1010,12 @@
       "total_count": 399
     },
     {
-      "name": "b.1.1.121",
+      "name": "a.27",
       "total_count": 392
     },
     {
-      "name": "a.27",
-      "total_count": 391
+      "name": "b.1.1.121",
+      "total_count": 392
     },
     {
       "name": "b.1.1.141",

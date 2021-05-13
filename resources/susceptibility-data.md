@@ -16,6 +16,7 @@
   - [Table S4: Neutralizing Sensitivity of Spike Mutations to Convalescent Plasma](/page/susceptibility-data/cp-mutations/)
   - [Table S5: Neutralizing Sensitivity of Variants to Plasma from Vaccinated Persons](/page/susceptibility-data/vp-variants/)
   - [Table S6: Neutralizing Sensitivity of Spike Mutations to Plasma from Vaccinated Persons](/page/susceptibility-data/vp-mutations/)
+- [References](#references)
 
 [/toc]
 
@@ -64,7 +65,7 @@ table_vp
 
 <div class="figure-caption">
 
-Studies:
+## References
 
 - **Alenquer21**: [^Alenquer21#inline]
 - **Andreano20b**: [^Andreano20b#inline]
