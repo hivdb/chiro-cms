@@ -19,6 +19,7 @@
   - [P.2, evolved from B.1.1.28](#sec_p-2)
   - [N.9](#sec_n9)
   - [A.VOI.V2](#sec_a-voi-v2)
+  - [A.27](#sec_a-27)
   - [B.1.1.1 sublineage in Peru and Chile](#sec_b-1-1-1-sub)
 - [Prolonged Infections](#prolonged.infections)
   - [Kemp S, Harvey W, et int., and Gupta RK.](#sec_kemp21)
@@ -461,6 +462,29 @@ Oliveira T, Lutucuta S, et int., and Lessells RJ. “A novel variant of interest
 
 [genomemap]
 a-voi-v2
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- A.27 -->
+<section id="sec_a-27" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [A.27](#sec_a-27)
+Calvignac-Spencer S, Budt, M, et int., and Holzer M. “Emergence of SARS-CoV-2 lineage A.27 in Germany, expressing viral spike proteins with several amino acid replacements of interest, including L18F, L452R, and N501Y in the absence of D614G.” Virological.org, 2021. [^Calvignac-Spencer21]
+
+[Outbreak.info A.27 Lineage Report](https://outbreak.info/situation-reports?pango=A.27) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+a-27
 [/genomemap]
 
 </div>

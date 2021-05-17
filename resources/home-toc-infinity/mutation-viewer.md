@@ -18,6 +18,8 @@
   - [P.2, evolved from B.1.1.28](/page/mutation-viewer/#sec_p-2)
   - [N.9](/page/mutation-viewer/#sec_n9)
   - [A.VOI.V2](/page/mutation-viewer/#sec_a-voi-v2)
+  - [A.27](/page/mutation-viewer/#sec_a-27)
+  - [B.1.1.1 sublineage in Peru and Chile](/page/mutation-viewer/#sec_b-1-1-1-sub)
 - [Prolonged Infections](/page/mutation-viewer/#prolonged.infections)
   - [Kemp S, Harvey W, et int., and Gupta RK.](/page/mutation-viewer/#sec_kemp21)
   - [McCarthy KR, Rennick LJ, et int., and Duprex WP.](/page/mutation-viewer/#sec_mccarthy20)

@@ -1,0 +1,56 @@
+name: A.27
+positions:
+- name: nsp2:P106L #ORF1a:P286L
+  pos: 1121
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: nsp4:D217G #ORF1a:D2980G
+  pos: 9203
+  <<: *non-spike
+- name: nsp6:N82S #ORF1:N3651S
+  pos: 11216
+  <<: *non-spike
+- name: L18F
+  pos: 21614
+- name: L452R
+  pos: 22917
+- name: N501Y
+  pos: 23063
+- name: A653V
+  pos: 23519
+- name: H655Y
+  pos: 23525
+- name: D796Y
+  pos: 23948
+- name: G1219V
+  pos: 25217
+- name: ORF3a:V50A
+  pos: 25540
+  <<: *non-spike
+- name: ORF3a:258del
+  label: ORF3a:258Δ
+  pos: 26164
+  <<: *non-spike
+- name: ORF3a:259del
+  label: ORF3a:259Δ
+  pos: 26167
+  <<: *non-spike
+- name: ORF6:63del
+  label: ORF6:63Δ
+  pos: 27388
+  <<: *non-spike
+- name: ORF8:L84S
+  pos: 28143
+  <<: *non-spike
+- name: ORF8:119del
+  label: ORF8:119Δ
+  pos: 28248
+  <<: *non-spike
+- name: ORF8:120del
+  label: ORF8:120Δ
+  pos: 28251
+  <<: *non-spike
+- name: N:S202N
+  pos: 28877
+  <<: *non-spike
