@@ -8,7 +8,8 @@
 - Raw data
   - [Spike variants and mutation combinations / monoclonal antibodies neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-mab-neutralization)
   - [Spike variants and mutation combinations / plasma neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-plasma-neutralization)
-  - [Spike mutations _in vitro_ selection](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-mutation-invitro-selection-cp-and-mab)
+  - [Spike mutations _in vitro_ selection](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-mutation-invitro-selection)
+  - [Spike mutations _in vivo_ selection](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-mutation-invivo-selection)
 - Individual study details
   - [Table S1: Neutralizing Sensitivity of Variants to Monoclonal Antibodies](/page/susceptibility-data/mab-variants/)
   - [Table S2: Neutralizing Sensitivity of Spike Mutations to Monoclonal Antibodies](/page/susceptibility-data/mab-mutations/)

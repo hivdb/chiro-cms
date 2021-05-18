@@ -196,3 +196,9 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/prolonged-infections/chen21b.yml
     <<: *common-props
+  focosi21b:
+    name: focosi21b
+    height: 200
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/prolonged-infections/focosi21b.yml
+    <<: *common-props

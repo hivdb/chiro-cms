@@ -1,0 +1,29 @@
+name: focosi21b
+genbank: MZ157275.1
+positions:
+- name: HV69-70del
+  label: HV69-70Δ
+  pos: 21767
+- name: Y144del
+  label: Y144Δ
+  pos: 21992
+- name: T415A
+  pos: 22805
+- name: Q493R
+  pos: 23039
+- name: N501Y
+  pos: 23063
+- name: A570D
+  pos: 23270
+- name: D614G
+  pos: 23402
+- name: P681H
+  pos: 23603
+- name: T716I
+  pos: 23708
+- name: V991I
+  pos: 24533
+- name: S982A
+  pos: 24506
+- name: D1118H
+  pos: 24914

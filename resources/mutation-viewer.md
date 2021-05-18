@@ -30,6 +30,7 @@
   - [Bazykin G, Stanevich O, et int., and Lioznov D.](#sec_bazykin20)
   - [Khatamzas E, Rehn A, et int., and Antwerpen M.](#sec_khatamzas20)
   - [Chen L, Zody CM, et int., and Kreiswirth BN.](#sec_chen21b)
+  - [Focosi D, Novazzi F, et int., and Maggi F.](#sec_focosi21b)
 [/toc]
 
 <div style="clear: both; height: 0;" />
@@ -374,7 +375,7 @@ cluster5
 
 ### [R.1](#sec_r-1)
 Nagano K, Tani-Sassa C, et int., and Tohda S. “SARS-CoV-2 R.1 lineage variants prevailed in Tokyo in March 2021
-.” _medRxiv_, 2021. [^Nagano21]
+.” _medRxiv_, 2021. [doi.org/10.1101/2021.05.11.21257004](https://doi.org/10.1101/2021.05.11.21257004)[^Nagano21]
 
 [Outbreak.info R.1 Lineage Report](https://outbreak.info/situation-reports?pango=R.1) [^Outbreak20]
 
@@ -687,6 +688,29 @@ Chen L, Zody CM, et int., and Kreiswirth BN. “Emergence of multiple SARS-CoV-2
 
 [genomemap]
 chen21b
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- Focosi21b -->
+<section id="sec_focosi21b" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [Focosi D, Novazzi F, et int., and Maggi F.](#sec_focosi21b)
+
+Focosi D, Novazzi F, et int., and Maggi F. “Emergence of SARS-CoV-2 Spike Escape Mutation Q493r After Bamlanivimab/Etesevimab Treatment for COVID-19.” _Research Square_, 2021. [doi.org/10.21203/rs.3.rs-524959/v1
+](https://doi.org/10.21203/rs.3.rs-524959/v1). [^Focosi21b]
+
+</div>
+
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+focosi21b
 [/genomemap]
 
 </div>
