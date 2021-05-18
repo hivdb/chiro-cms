@@ -35,7 +35,6 @@ positions:
 - name: ORF3a:104ins
   pos: 25702
   <<: *non-spike
-- name: ORF3a:104ins
 - name: ORF3a:G172V
   pos: 25906
   <<: *non-spike
