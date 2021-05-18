@@ -9,11 +9,12 @@
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
   - [B.1.x](#sec_b-1-x)
   - [P.3, aka PHL-B.1.1.28](#sec_phl-b-1-1-28)
-  - [B.1.617.1, aka B.1.617, S:E484Q+L452R (India)](#sec_b-1-617)
+  - [B.1.617(India)](#sec_b-1-617)
   - [B.1.620](#sec_b-1-620)
   - [B.1.621](#sec_b-1-621)
   - [B.1.258, aka N439K](#sec_n439k)
   - [B.1.1.298, aka Cluster 5](#sec_cluster5)
+  - [R.1](#sec_r-1)
   - [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](#sec_coh-20g-501y)
   <!-- - [COH.20G/677H, EPI_ISL_826463](#sec_coh-20g-677h) -->
   - [P.2, evolved from B.1.1.28](#sec_p-2)
@@ -246,15 +247,20 @@ phl-b-1-1-28
 
 <div class="figure-caption">
 
-### [B.1.617.1, S:E484Q+L452R (India)](#sec_b-1-617)
+### [B.1.617(India)](#sec_b-1-617)
 
 INSACOG. “Genome Sequencing by INSACOG shows variants of concern and a Novel variant in India
 ” _INSACOG_, 2021. [Link](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1707177
 ). This variant has no Pango lineage. (Mar 29, 2021)
 
-[Outbreak.info B.1.617.1 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.1) [^Outbreak20]
 
 [Outbreak.info B.1.617 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617) [^Outbreak20]
+
+[Outbreak.info B.1.617.1 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.1) [^Outbreak20]
+
+[Outbreak.info B.1.617.2 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.2) [^Outbreak20]
+
+[Outbreak.info B.1.617.3 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.3) [^Outbreak20]
 
 </div>
 
@@ -355,6 +361,29 @@ Lassaunière R, Fonager J, et int., and Fomsgaard A. “SARS-CoV-2 spike mutatio
 
 [genomemap]
 cluster5
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- R1 -->
+<section id="sec_r-1" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [R.1](#sec_r-1)
+Nagano K, Tani-Sassa C, et int., and Tohda S. “SARS-CoV-2 R.1 lineage variants prevailed in Tokyo in March 2021
+.” _medRxiv_, 2021. [^Nagano21]
+
+[Outbreak.info R.1 Lineage Report](https://outbreak.info/situation-reports?pango=R.1) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+r-1
 [/genomemap]
 
 </div>

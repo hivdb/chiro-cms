@@ -1,4 +1,5 @@
-name: b-1-525
+name: B.1.525
+CDC: VOI
 positions:
 - name: PLpro:T1189I # ORFa: T2007I
   pos: 6284
@@ -32,6 +33,7 @@ positions:
 - name: ORF6:F2del
   label: ORF6:F2Δ
   pos: 27205
+  <<: *non-spike
 - name: N:D3del
   label: N:D3Δ
   pos: 28280

@@ -88,6 +88,12 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-x.yml
     <<: *common-props
+  r-1:
+    name: r-1
+    height: 200
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/r-1.yml
+    <<: *common-props
   n9:
     name: n9
     height: 200
