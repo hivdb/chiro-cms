@@ -1,5 +1,6 @@
 name: B.1.429
 CDC: VOC
+WHO: VOI
 positions:
 - name: nsp2:T85I # ORF1ab:T265I
   pos: 1059

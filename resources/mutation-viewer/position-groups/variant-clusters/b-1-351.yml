@@ -1,5 +1,6 @@
 name: B.1.351
 CDC: VOC
+WHO: VOC
 positions:
 - name: nsp2:T85I  # ORF1ab:T265I
   pos: 1058

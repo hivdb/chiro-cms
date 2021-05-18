@@ -1,5 +1,6 @@
 name: B.1.526
 CDC: VOI
+WHO: VOI
 positions:
 - name: nsp6:SGF106-108del  # ORF1ab:SGF3675-3677del
   label: nsp6:SGF106-108Δ
