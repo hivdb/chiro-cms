@@ -39,6 +39,9 @@ sequence-analysis-form-desc: |-
 seqreads-analysis-form-title: >- # Warning: title doesn't support markdown
   SARS-CoV-2 Sequence Reads (NGS) Analysis
 
+ngs2codfreq-form-title: >- # Warning: title doesn't support markdown
+  SARS-CoV-2 NGS Pipeline
+
 seqreads-analysis-report-title: >- # Warning: title doesn't support markdown
   SARS-CoV-2 Sequence Reads (NGS) Analysis Report
 
@@ -59,8 +62,16 @@ seqreads-analysis-form-desc: |-
   two weeks for quality control purposes in the event that questions arise
   regarding the manner in which the codon frequency file is produced.
 
+ngs2codfreq-form-desc: |-
+  SARS-CoV-2 NGS Pipeline converts FASTQ files into codon frequency tables
+  (CodFreq files). The pipeline first aligns FASTQ files using MINIMAP2. It
+  then extracts codon frequency tables from the output SAM files.
+
 seqreads-analysis-form-placeholder: >-
-  Drag and drop FASTQ/CodFreq files here
+  Drag and drop CodFreq files
+
+ngs2codfreq-placeholder: >-
+  Drag and drop FASTQ files
 
 no-mab-susc-result: >-
   No mAb susceptibility data are available. All mAbs expected to be active.
