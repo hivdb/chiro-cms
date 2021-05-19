@@ -13,10 +13,10 @@ positions:
 - name: RdRP:P323L # ORF1b:P314L
   pos: 14408
   <<: *non-spike
-- name: helicase:P53L  # ORF1b:P976L
+- name: nsp13:P53L  # ORF1b:P976L
   pos: 16394
   <<: *non-spike
-- name: helicase:D260Y  # ORF1b:D1183Y
+- name: nsp13:D260Y  # ORF1b:D1183Y
   pos: 17014
   <<: *non-spike
 - name: S13I

@@ -5,7 +5,7 @@ positions:
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: helicase:G439R # ORF1b:G1362R
+- name: nsp13:G439R # ORF1b:G1362R
   pos: 17551
   <<: *non-spike
 - name: nsp14:P412H # ORF1b:P1936H

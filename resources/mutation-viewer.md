@@ -21,6 +21,7 @@
   - [N.9](#sec_n9)
   - [A.VOI.V2](#sec_a-voi-v2)
   - [A.27](#sec_a-27)
+  - [AV.1](#sec_av-1)
   - [B.1.1.1 sublineage in Peru and Chile](#sec_b-1-1-1-sub)
 - [Prolonged Infections](#prolonged.infections)
   - [Kemp S, Harvey W, et int., and Gupta RK.](#sec_kemp21)
@@ -505,7 +506,7 @@ a-voi-v2
 <div class="figure-caption">
 
 ### [A.27](#sec_a-27)
-Calvignac-Spencer S, Budt, M, et int., and Holzer M. “Emergence of SARS-CoV-2 lineage A.27 in Germany, expressing viral spike proteins with several amino acid replacements of interest, including L18F, L452R, and N501Y in the absence of D614G.” Virological.org, 2021. [^Calvignac-Spencer21]
+Calvignac-Spencer S, Budt M, et int., and Holzer M. “Emergence of SARS-CoV-2 lineage A.27 in Germany, expressing viral spike proteins with several amino acid replacements of interest, including L18F, L452R, and N501Y in the absence of D614G.” Virological.org, 2021. [^Calvignac-Spencer21]
 
 [Outbreak.info A.27 Lineage Report](https://outbreak.info/situation-reports?pango=A.27) [^Outbreak20]
 
@@ -515,6 +516,29 @@ Calvignac-Spencer S, Budt, M, et int., and Holzer M. “Emergence of SARS-CoV-2 
 
 [genomemap]
 a-27
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- AV.1 -->
+<section id="sec_av-1" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [AV.1](#sec_av-1)
+Hsu S, Parker MD, et int., and de Silva TI. “Detection of Spike Mutations; D80G, T95I, G142D, △144, N439K, E484K, P681H, I1130V, and D1139H, in B.1.1.482 Lineage (AV.1) Samples from South Yorkshire, UK.” Virological.org, 2021. [^Hsu21]
+
+[Outbreak.info AV.1 Lineage Report](https://outbreak.info/situation-reports?pango=AV.1) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+av-1
 [/genomemap]
 
 </div>

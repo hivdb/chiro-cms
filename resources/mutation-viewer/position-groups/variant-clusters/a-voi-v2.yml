@@ -32,16 +32,16 @@ positions:
 - name: RdRP:T739I
   pos: 15656
   <<: *non-spike
-- name: helicase:V365F
+- name: nsp13:V365F
   pos: 17329
   <<: *non-spike
-- name: helicase:F499L
+- name: nsp13:F499L
   pos: 17731
   <<: *non-spike
-- name: 3'-to-5' exonuclease:V290F
+- name: nsp14:V290F
   pos: 18907
   <<: *non-spike
-- name: endoRNAse:V139F
+- name: nsp15:V139F
   pos: 20035
   <<: *non-spike
 - name: D80Y

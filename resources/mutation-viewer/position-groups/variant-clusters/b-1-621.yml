@@ -14,7 +14,7 @@ positions:
 - name: RdRP:P323L
   pos: 14407
   <<: *non-spike
-- name: Helicase:P419S # ORF1ab:P5743S
+- name: nsp13:P419S # ORF1ab:P5743S
   pos: 17492
   <<: *non-spike
 - name: ORF3a:Q57H
