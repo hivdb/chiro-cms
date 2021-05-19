@@ -63,9 +63,29 @@ seqreads-analysis-form-desc: |-
   regarding the manner in which the codon frequency file is produced.
 
 ngs2codfreq-form-desc: |-
-  SARS-CoV-2 NGS Pipeline converts FASTQ files into codon frequency tables
-  (CodFreq files). The pipeline first aligns FASTQ files using MINIMAP2. It
+  SARS-CoV-2 NGS Pipeline **converts FASTQ files into codon frequency tables
+  (CodFreq files)**. The pipeline first aligns FASTQ files using MINIMAP2. It
   then extracts codon frequency tables from the output SAM files.
+
+codfreq-example: |-
+  **Convert Fastq => Codon Frequency File**
+
+  Minimal example of a CodFreq file:
+  
+  | gene | position | totalReads | codon | reads |
+  |------|----------|------------|-------|-------|
+  | S    | 1        | 1247       | ATG   | 1226  |
+  | S    | 1        | 1247       | ATT   | 9     |
+  | S    | 1        | 1247       | CTG   | 4     |
+  | S    | 1        | 1247       | AGG   | 3     |
+  | S    | 1        | 1247       | TTG   | 3     |
+  | S    | 1        | 1247       | TTT   | 2     |
+  | S    | 2        | 1248       | TTT   | 1241  |
+  | S    | 2        | 1248       | TGT   | 3     |
+  | S    | 2        | 1248       | GTT   | 1     |
+  | S    | 2        | 1248       | TAT   | 1     |
+  | S    | 2        | 1248       | TTA   | 1     |
+  | S    | 2        | 1248       | TTG   | 1     |
 
 seqreads-analysis-form-placeholder: >-
   Drag and drop CodFreq files
