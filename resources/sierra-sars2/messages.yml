@@ -68,7 +68,6 @@ ngs2codfreq-form-desc: |-
   then extracts codon frequency tables from the output SAM files.
 
 codfreq-example: |-
-  **Convert Fastq => Codon Frequency File**
 
   Minimal example of a CodFreq file:
   
@@ -91,7 +90,7 @@ seqreads-analysis-form-placeholder: >-
   Drag and drop CodFreq files
 
 ngs2codfreq-placeholder: >-
-  Drag and drop FASTQ files
+  Convert FASTQ => CodFreq Files
 
 no-mab-susc-result: >-
   No mAb susceptibility data are available. All mAbs expected to be active.
