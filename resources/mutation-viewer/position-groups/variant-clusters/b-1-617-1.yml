@@ -1,0 +1,49 @@
+name: B.1.617.1
+CDC: VOI
+WHO: VOC
+positions:
+- name: PLpro:T749I # ORF1a:T1567I
+  pos: 4964
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: nsp6:T77A # ORF1a:T3646A
+  pos: 11201
+  <<: *non-spike
+- name: RdRP:P323L
+  pos: 14408
+  <<: *non-spike
+- name: nsp13:M429I # ORF1b:M1352I
+  pos: 17521
+  <<: *non-spike
+- name: nsp15:K259R # ORF1b:K2310R
+  pos: 20398
+  <<: *non-spike
+- name: T95I
+  pos: 21845
+- name: G142D
+  pos: 21986
+- name: E154K
+  pos: 22022
+- name: L452R
+  pos: 22917
+- name: E484Q
+  pos: 23012
+- name: D614G
+  pos: 23402
+- name: P681R
+  pos: 23603
+- name: Q1071H
+  pos: 24775
+- name: ORF3:S26L
+  pos: 25468
+  <<: *non-spike
+- name: ORF7a:V82A
+  pos: 27637
+  <<: *non-spike
+- name: N:R203M
+  pos: 28880
+  <<: *non-spike
+- name: N:377Y
+  pos: 29402
+  <<: *non-spike

@@ -9,7 +9,10 @@
   - [B.1.429/B.1.427, aka CAL.20C/S:452R](#sec_b-1-429)
   - [B.1.x](#sec_b-1-x)
   - [P.3, aka PHL-B.1.1.28](#sec_phl-b-1-1-28)
-  - [B.1.617(India)](#sec_b-1-617)
+  - [B.1.617](#sec_b-1-617)
+  - [B.1.617.1](#sec_b-1-617-1)
+  - [B.1.617.2](#sec_b-1-617-2)
+  - [B.1.617.3](#sec_b-1-617-3)
   - [B.1.620](#sec_b-1-620)
   - [B.1.621](#sec_b-1-621)
   - [B.1.258, aka N439K](#sec_n439k)
@@ -249,18 +252,70 @@ phl-b-1-1-28
 
 <div class="figure-caption">
 
-### [B.1.617(India)](#sec_b-1-617)
-
-INSACOG. “Genome Sequencing by INSACOG shows variants of concern and a Novel variant in India
-” _INSACOG_, 2021. [Link](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1707177
-). This variant has no Pango lineage. (Mar 29, 2021)
-
+### [B.1.617](#sec_b-1-617)
 
 [Outbreak.info B.1.617 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617) [^Outbreak20]
 
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-617
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- B.1.617.1 -->
+<section id="sec_b-1-617-1" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.617.1](#sec_b-1-617-1)
+
 [Outbreak.info B.1.617.1 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.1) [^Outbreak20]
 
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-617-1
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- B.1.617.2 -->
+<section id="sec_b-1-617-2" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.617.2](#sec_b-1-617-2)
+
 [Outbreak.info B.1.617.2 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.2) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-617-2
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- B.1.617.3 -->
+<section id="sec_b-1-617-3" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.617.3](#sec_b-1-617-3)
 
 [Outbreak.info B.1.617.3 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.3) [^Outbreak20]
 
@@ -269,7 +324,7 @@ INSACOG. “Genome Sequencing by INSACOG shows variants of concern and a Novel v
 <div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
-b-1-617
+b-1-617-3
 [/genomemap]
 
 </div>

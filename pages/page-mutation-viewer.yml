@@ -112,6 +112,24 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617.yml
     <<: *common-props
+  b-1-617-1:
+    name: b-1-617-1
+    height: 200
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-1.yml
+    <<: *common-props
+  b-1-617-2:
+    name: b-1-617-2
+    height: 200
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-2.yml
+    <<: *common-props
+  b-1-617-3:
+    name: b-1-617-3
+    height: 200
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-3.yml
+    <<: *common-props
   b-1-620:
     name: b-1-620
     height: 200
