@@ -53,10 +53,11 @@ seqreads-analysis-form-desc: |-
 
   We provide a pipeline for directly aligning FASTQ files and generating
   CodFreq tables from the MINIMAP2 alignments. To use this pipeline, just add
-  the .fastq or .fastq.gz files to the below input form. By clicking the
-  "Analyze" button, the program will automatically start the FASTQ pipeline,
-  upload your FASTQ files to our server, and retrieve the CodFreq tables when
-  the analyses are complete.
+  the .fastq or .fastq.gz files to the below input form. By clicking the "Start
+  process" button, the program will automatically start the FASTQ pipeline,
+  upload your FASTQ files to our server. Once the pipeline is finished, buttons
+  for downloading the CodFreq tables or directly running the analysis will
+  appear.
 
   For submitted FASTQ files, please note that these files will be stored for
   two weeks for quality control purposes in the event that questions arise
