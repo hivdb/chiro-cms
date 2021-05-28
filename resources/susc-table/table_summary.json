@@ -1,100 +1,100 @@
 [
     {
         "variant": "N501Y",
-        "cp": 207,
+        "cp": 221,
         "vp": 125,
-        "phase3": 53,
-        "structure": 30
+        "phase3": 58,
+        "structure": 32
     },
     {
         "variant": "E484K",
-        "cp": 157,
-        "vp": 85,
-        "phase3": 63,
-        "structure": 25
+        "cp": 179,
+        "vp": 94,
+        "phase3": 71,
+        "structure": 26
     },
     {
         "variant": "K417N",
-        "cp": 117,
+        "cp": 131,
         "vp": 77,
-        "phase3": 40,
-        "structure": 25
+        "phase3": 45,
+        "structure": 26
     },
     {
         "variant": "K417T",
-        "cp": 24,
+        "cp": 29,
         "vp": 0,
-        "phase3": 5,
+        "phase3": 6,
         "structure": 3
     },
     {
         "variant": "L452R",
-        "cp": 20,
-        "vp": 16,
-        "phase3": 15,
-        "structure": 5
+        "cp": 42,
+        "vp": 25,
+        "phase3": 21,
+        "structure": 6
     },
     {
         "variant": "Other individual mutations",
-        "cp": 658,
-        "vp": 527,
-        "phase3": 690,
-        "structure": 578
+        "cp": 737,
+        "vp": 556,
+        "phase3": 761,
+        "structure": 589
     },
     {
         "variant": "All individual mutations",
-        "cp": 1039,
-        "vp": 822,
-        "phase3": 853,
-        "structure": 655
+        "cp": 1154,
+        "vp": 851,
+        "phase3": 935,
+        "structure": 671
     },
     {
         "variant": "B.1.1.7",
-        "cp": 688,
-        "vp": 827,
-        "phase3": 73,
-        "structure": 42
+        "cp": 778,
+        "vp": 987,
+        "phase3": 77,
+        "structure": 47
     },
     {
         "variant": "B.1.351",
-        "cp": 649,
-        "vp": 676,
-        "phase3": 74,
-        "structure": 31
+        "cp": 682,
+        "vp": 694,
+        "phase3": 78,
+        "structure": 34
     },
     {
         "variant": "P.1",
-        "cp": 260,
-        "vp": 234,
-        "phase3": 28,
-        "structure": 5
+        "cp": 265,
+        "vp": 253,
+        "phase3": 30,
+        "structure": 8
     },
     {
         "variant": "B.1.427/9",
-        "cp": 55,
-        "vp": 139,
-        "phase3": 9,
-        "structure": 3
+        "cp": 60,
+        "vp": 183,
+        "phase3": 10,
+        "structure": 7
     },
     {
         "variant": "B.1.526",
-        "cp": 25,
-        "vp": 20,
-        "phase3": 6,
-        "structure": 0
+        "cp": 30,
+        "vp": 85,
+        "phase3": 7,
+        "structure": 1
     },
     {
         "variant": "Other combinations of mutations",
-        "cp": 1263,
-        "vp": 791,
-        "phase3": 199,
-        "structure": 220
+        "cp": 1423,
+        "vp": 1002,
+        "phase3": 250,
+        "structure": 218
     },
     {
         "variant": "All combinations of mutations",
-        "cp": 3036,
-        "vp": 2695,
-        "phase3": 398,
-        "structure": 309
+        "cp": 3352,
+        "vp": 3221,
+        "phase3": 468,
+        "structure": 323
     }
 ]

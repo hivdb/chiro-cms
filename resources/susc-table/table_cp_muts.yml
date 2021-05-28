@@ -42,6 +42,14 @@
     median: '1.6'
   - variant: E484K
     rx: CP
+    samples: 8
+    s_fold: 8
+    i_fold: 0
+    r_fold: 0
+    reference: Tada21c[^Tada21c]
+    median: 2.1
+  - variant: E484K
+    rx: CP
     samples: 20
     s_fold: 6
     i_fold: 12
@@ -56,6 +64,22 @@
     r_fold: 0
     reference: Wang21f[^Wang21f]
     median: '1.1'
+  - variant: E484K
+    rx: CP
+    samples: 9
+    s_fold: 7
+    i_fold: 2
+    r_fold: 0
+    reference: Yi21[^Yi21]
+    median: '2.5'
+  - variant: E484K
+    rx: CP
+    samples: 5
+    s_fold: 5
+    i_fold: 0
+    r_fold: 0
+    reference: Zhang21c[^Zhang21c]
+    median: 1.9
   - variant: E484K
     rx: CP
     samples: 6
@@ -205,6 +229,22 @@
     reference: Wang21f[^Wang21f]
     median: '0.5'
   - variant: K417N
+    rx: CP
+    samples: 9
+    s_fold: 9
+    i_fold: 0
+    r_fold: 0
+    reference: Yi21[^Yi21]
+    median: '1.9'
+  - variant: K417N
+    rx: CP
+    samples: 5
+    s_fold: 5
+    i_fold: 0
+    r_fold: 0
+    reference: Zhang21c[^Zhang21c]
+    median: 0.6
+  - variant: K417N
     rx: CP_2M
     samples: 10
     s_fold: 10
@@ -262,6 +302,14 @@
     r_fold: 0
     reference: Wang21f[^Wang21f]
     median: '1'
+  - variant: K417N + E484K + N501Y
+    rx: CP
+    samples: 9
+    s_fold: 2
+    i_fold: 7
+    r_fold: 0
+    reference: Yi21[^Yi21]
+    median: '5.1'
   - variant: K417N + E484K + N501Y
     rx: CP_1M
     samples: 45
@@ -336,12 +384,12 @@
     median: '6.8'
   - variant: K417N + E484K + N501Y
     rx: CP_medium_titer
-    samples: 1
+    samples: 2
     s_fold: 0
     i_fold: 0
-    r_fold: 1
+    r_fold: 2
     reference: Alenquer21[^Alenquer21]
-    median: '21'
+    median: '20'
 - variant: L452R
   assays:
   - variant: L452R
@@ -360,6 +408,30 @@
     r_fold: 1
     reference: Liu21[^Liu21]
     median: '9.9'
+  - variant: L452R
+    rx: CP
+    samples: 8
+    s_fold: 8
+    i_fold: 0
+    r_fold: 0
+    reference: Tada21c[^Tada21c]
+    median: 2.5
+  - variant: L452R
+    rx: CP
+    samples: 9
+    s_fold: 7
+    i_fold: 2
+    r_fold: 0
+    reference: Yi21[^Yi21]
+    median: '2.3'
+  - variant: L452R
+    rx: CP
+    samples: 5
+    s_fold: 5
+    i_fold: 0
+    r_fold: 0
+    reference: Zhang21c[^Zhang21c]
+    median: 0.7
   - variant: L452R
     rx: CP_high_titer
     samples: 8
@@ -469,6 +541,22 @@
     reference: Wang21f[^Wang21f]
     median: '0.8'
   - variant: N501Y
+    rx: CP
+    samples: 9
+    s_fold: 8
+    i_fold: 1
+    r_fold: 0
+    reference: Yi21[^Yi21]
+    median: '1.6'
+  - variant: N501Y
+    rx: CP
+    samples: 5
+    s_fold: 5
+    i_fold: 0
+    r_fold: 0
+    reference: Zhang21c[^Zhang21c]
+    median: 1.3
+  - variant: N501Y
     rx: CP_2M
     samples: 10
     s_fold: 10
@@ -558,6 +646,14 @@
     r_fold: 0
     reference: Hoffmann21b[^Hoffmann21b]
     median: '1.9'
+  - variant: Y453F
+    rx: CP
+    samples: 5
+    s_fold: 5
+    i_fold: 0
+    r_fold: 0
+    reference: Zhang21c[^Zhang21c]
+    median: 1.1
 - variant: ∆144
   assays:
   - variant: ∆144

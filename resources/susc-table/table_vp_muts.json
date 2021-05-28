@@ -45,6 +45,16 @@
             {
                 "variant": "E484K",
                 "rx": "BNT162b2",
+                "samples": 9,
+                "s_fold": 9,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Tada21c[^Tada21c]",
+                "median": 2.4
+            },
+            {
+                "variant": "E484K",
+                "rx": "BNT162b2",
                 "samples": 4,
                 "s_fold": 3,
                 "i_fold": 1,
@@ -291,6 +301,16 @@
                 "r_fold": 0,
                 "reference": "Ferreira21[^Ferreira21]",
                 "median": "2.3"
+            },
+            {
+                "variant": "L452R",
+                "rx": "BNT162b2",
+                "samples": 9,
+                "s_fold": 0,
+                "i_fold": 9,
+                "r_fold": 0,
+                "reference": "Tada21c[^Tada21c]",
+                "median": 3.0
             },
             {
                 "variant": "L452R",
