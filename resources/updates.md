@@ -78,6 +78,21 @@ Instruction:
 
 ## Database Entries
 ### May 2021
+- May 28
+    - Focosi D, Novazzi F, et int., and Maggi F. [“Emergence of SARS-CoV-2 Spike Escape Mutation Q493r After Bamlanivimab/Etesevimab Treatment for COVID-19.”](/search-drdb/?article=Focosi21b) _Research Square_, 2021. [doi.org/10.21203/rs.3.rs-524959/v1](https://doi.org/10.21203/rs.3.rs-524959/v1).
+    - Gonzalez C, Saade C, et int., and Pozzetto B. [“Live virus neutralisation testing in convalescent patients and subjects vaccinated against 19A, 20B, 20I/501Y.V1 and 20H/501Y.V2 isolates of SARS-CoV-2.”](/search-drdb/?article=Gonzalez21) _medRxiv_, 2021. [doi.org/10.1101/2021.05.11.21256578](https://doi.org/10.1101/2021.05.11.21256578).
+    - Hayashi T, Yaegashi N, and Konishi I. [“Neutralizing response against E484K variant after original SARS-CoV-2 infection.”](/search-drdb/?article=Hayashi21) _medRxiv_, 2021. [doi.org/10.1101/2021.05.07.21256803](https://doi.org/10.1101/2021.05.07.21256803).
+    - Horspool AM, Ye C, et int., and Damron FH. [“SARS-CoV-2 B.1.1.7 and B.1.351 variants of concern induce lethal disease in K18-hACE2 transgenic mice despite convalescent plasma therapy.”](/search-drdb/?article=Horspool21) _bioRxiv_, 2021. [doi.org/10.1101/2021.05.05.442784](https://doi.org/10.1101/2021.05.05.442784). \[[PubMed33972945](https://www.ncbi.nlm.nih.gov/pubmed/33972945/)\] \[[PMC8109207](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8109207/)\]
+    - Liu Y, Liu J, et int., and Shi P. [“BNT162b2-Elicited Neutralization against New SARS-CoV-2 Spike Variants.”](/search-drdb/?article=Liu21d) _New England Journal of Medicine_, 2021. [doi.org/10.1056/nejmc2106083](https://doi.org/10.1056/nejmc2106083). \[[PubMed33979486](https://www.ncbi.nlm.nih.gov/pubmed/33979486/)\] \[[PMC8133696](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8133696/)\]
+    - Makdasi E, Zvi A, et int., and Rosenfeld R. [“The neutralization potency of anti-SARS-CoV-2 therapeutic human monoclonal antibodies is retained against novel viral variants.”](/search-drdb/?article=Makdasi21) _bioRxiv_, 2021. [doi.org/10.1101/2021.04.01.438035](https://doi.org/10.1101/2021.04.01.438035).
+    - Muecksch F, Weisblum Y, et int., and Bieniasz PD. [“Development of potency, breadth and resilience to viral escape mutations in SARS-CoV-2 neutralizing antibodies.”](/search-drdb/?article=Muecksch21) _bioRxiv_, 2021. [doi.org/10.1101/2021.03.07.434227](https://doi.org/10.1101/2021.03.07.434227). \[[PubMed33758864](https://www.ncbi.nlm.nih.gov/pubmed/33758864/)\] \[[PMC7987023](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7987023/)\]
+    - Nagano K, Tani-Sassa C, et int., and Tohda S. [“SARS-CoV-2 R.1 lineage variants prevailed in Tokyo in March 2021.”](/search-drdb/?article=Nagano21) _medRxiv_, 2021. [doi.org/10.1101/2021.05.11.21257004](https://doi.org/10.1101/2021.05.11.21257004).
+    - Pegu A, O’Connell S, et int., and Doria-Rose NA. [“Durability of mRNA-1273-induced antibodies against SARS-CoV-2 variants.”](/search-drdb/?article=Pegu21) _bioRxiv_, 2021. [doi.org/10.1101/2021.05.13.444010](https://doi.org/10.1101/2021.05.13.444010). \[[PubMed34031659](https://www.ncbi.nlm.nih.gov/pubmed/34031659/)\] \[[PMC8142657](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8142657/)\]
+    - Shi P, Liu J, et int., and Dormitzer P. [“Neutralization of SARS-CoV-2 variants B.1.617.1 and B.1.525 by BNT162b2-elicited sera.”](/search-drdb/?article=Shi21) _Research Square_, 2021. [doi.org/10.21203/rs.3.rs-540721/v1](https://doi.org/10.21203/rs.3.rs-540721/v1).
+    - Tada T, Zhou H, et int., and Landau NR. [“The Spike Proteins of SARS-CoV-2 B.1.617 and B.1.618 Variants Identified in India Provide Partial Resistance to Vaccine-elicited and Therapeutic Monoclonal Antibodies.”](/search-drdb/?article=Tada21c) _bioRxiv_, 2021. [doi.org/10.1101/2021.05.14.444076](https://doi.org/10.1101/2021.05.14.444076).
+    - Yi C, Sun X, et int., and Sun B. [“Comprehensive Mapping of Binding Hot Spots of SARS-CoV-2 RBD-specific Neutralizing Antibodies for Tracking Immune Escape Variants.”](/search-drdb/?article=Yi21) _Research Square_, 2021. [doi.org/10.21203/rs.3.rs-497595/v1](https://doi.org/10.21203/rs.3.rs-497595/v1).
+    - Zhang L, Cui Z, et int., and Wang Y. [“Comparison of 10 emerging SARS-CoV-2 Variants: infectivity, animal tropism, and antibody neutralization.”](/search-drdb/?article=Zhang21c) _Research Square_, 2021. [doi.org/10.21203/rs.3.rs-492659/v1](https://doi.org/10.21203/rs.3.rs-492659/v1).
+    - Updated: Deng X, Garcia-Knight MA, et int., and Chiu CY. [“Transmission, infectivity, and neutralization of a spike L452R SARS-CoV-2 variant.”](/search-drdb/?article=Deng21) _Cell_, 2021. [doi.org/10.1016/j.cell.2021.04.025](https://doi.org/10.1016/j.cell.2021.04.025). \[[PubMed33991487](https://www.ncbi.nlm.nih.gov/pubmed/33991487/)\] \[[PMC8057738](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8057738/)\]
 - May 13
     - Betton M, Livrozet M, et int., and Hulot J. [“Sera neutralizing activities against SARS-CoV-2 and multiple variants six month after hospitalization for COVID-19.”](/search-drdb/?article=Betton21) _Clinical Infectious Diseases_, 2021. [doi.org/10.1093/cid/ciab308](https://doi.org/10.1093/cid/ciab308). \[[PubMed33851216](https://www.ncbi.nlm.nih.gov/pubmed/33851216/)\] \[[PMC8083257](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8083257/)\]
     - Dudas G, Hong SL, et int., and Baele G. [“Travel-driven emergence and spread of SARS-CoV-2 lineage B.1.620 with multiple VOC-like mutations and deletions in Europe.”](/search-drdb/?article=Dudas21) _medRxiv_, 2021. [doi.org/10.1101/2021.05.04.21256637](https://doi.org/10.1101/2021.05.04.21256637).
@@ -1233,6 +1248,30 @@ April 26
 <!-- start of clinical trials -->
 
 ## Clinical Trials
+### May 2021
+- May 28
+    - [12 clinical trials were added.](/clinical-trials/?fromDate=2021-05-28)
+    - NCT04885530
+    - NCT04886362
+    - NCT04889040
+    - NCT04890626
+    - NCT04891172
+    - NCT04891250
+    - NCT04894474
+    - NCT04894721
+    - NCT04900428
+    - NCT04901676
+    - NCT04901689
+    - NCT04906694
+- May 13
+    - [7 clinical trials were added.](/clinical-trials/?fromDate=2021-05-13)
+    - NCT04870164
+    - NCT04870333
+    - NCT04871633
+    - NCT04877769
+    - NCT04880642
+    - NCT04883138
+    - NCT04884295
 ### April 2021
 - April 29
     - [6 clinical trials were added.](/clinical-trials/?fromDate=2021-04-29)
