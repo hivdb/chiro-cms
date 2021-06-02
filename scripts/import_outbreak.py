@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import requests
 import click
 import ruamel.yaml
@@ -13,26 +14,38 @@ from operator import itemgetter
 yaml = ruamel.yaml.YAML()
 
 BASE_DIR = Path(__file__).absolute().parent.parent
-
 RESULTS_DIR = BASE_DIR / 'resources' / 'outbreak-aapcnt'
+
 
 API_MAIN = 'https://api.outbreak.info'
 API_VERSION = API_MAIN + '/genomics/metadata'
 
 API_ALL_MUTATIONS = API_MAIN + '/genomics/mutations?name=*'
 API_GLOBAL_PREVALENCE_MUTATION = API_MAIN + \
-        "/genomics/global-prevalence?&mutations={mutation}"
+    "/genomics/global-prevalence?&mutations={mutation}"
 
-API_ALL_VARIANTS = API_MAIN + '/genomics/mutations-by-lineage'
-API_GLOBAL_PREVALENCE_VARIANT = API_MAIN + \
-        "/genomics/global-prevalence?" + \
-        "pangolin_lineage={variant}"
-# API_GLOBAL_PREVALENCE_VARIANT = API_MAIN + \
-#         "/genomics/global-prevalence?" + \
-#         "cumulative=true&pangolin_lineage={variant}"
+API_ALL_VARIANTS = API_MAIN + '/genomics/lineage?name=*'
+# API_ALL_VARIANTS = API_MAIN + '/genomics/mutations-by-lineage'
 API_VARIANT_MUTATIONS = API_MAIN + \
-        "/genomics/lineage-mutations?pangolin_lineage={variant}&frequency=0.75"
-# TODO: timestamp clean cache
+    "/genomics/lineage-mutations?pangolin_lineage={variant}&frequency=0.75"
+API_GLOBAL_PREVALENCE_VARIANT = API_MAIN + \
+    "/genomics/global-prevalence?" + \
+    "pangolin_lineage={variant}"
+# API_GLOBAL_PREVALENCE_VARIANT = API_MAIN + \
+#     "/genomics/global-prevalence?" + \
+#     "cumulative=true&pangolin_lineage={variant}"
+
+API_ALL_LOCATIONS = API_MAIN + \
+    "/genomics/location?name=*"
+API_VARIANT_GEOLOCATION = API_MAIN + \
+    "/genomics/lineage-by-sub-admin-most-recent?" + \
+    "pangolin_lineage={variant}&detected=true"
+API_VARIANT_USA_GEOLOCATION = API_MAIN + \
+    "/genomics/lineage-by-sub-admin-most-recent?" + \
+    "pangolin_lineage={variant}&detected=true&location_id=USA"
+API_VARIANT_LOCATION_PREV = API_MAIN + \
+    "/genomics/prevalence-by-location?" + \
+    "pangolin_lineage={variant}&location_id={location_id}&cumulative=true"
 
 
 def get_datetime_obj(datetime_str):
@@ -213,15 +226,6 @@ def get_mutation_prevalence():
     return prevalence
 
 
-def process_mutations(save_dir):
-
-    prevalence = get_mutation_prevalence()
-    save_path = save_dir / 'aapcnt-mutations.yml'
-    with open(save_path, 'w') as fp:
-        yaml.dump(prevalence, fp)
-        print('Updated {}'.format(save_path))
-
-
 @lru_cache(maxsize=32)
 def get_all_variants():
     resp = query_api(API_ALL_VARIANTS)
@@ -229,7 +233,7 @@ def get_all_variants():
     variants = resp['results']
     print('All variants:', len(variants))
 
-    variants_names = [i['pangolin_lineage'] for i in variants]
+    variants_names = [i['name'] for i in variants]
 
     return variants_names
 
@@ -284,7 +288,9 @@ def get_variant_global_prevalence():
     prevalence = defaultdict(list)
 
     all_variants = get_all_variants()
+
     estimate_runtime(all_variants)
+
     for variant in all_variants:
         query = API_GLOBAL_PREVALENCE_VARIANT.format(variant=variant)
 
@@ -314,10 +320,10 @@ def get_variant_global_prevalence():
                 cummulative_total_count
             )
 
-            date = date[:7]
+            year_month = date[:7]
 
             prevalence[variant].append({
-                'date': date,
+                'date': year_month,
                 'prevalence': proportion
             })
 
@@ -325,18 +331,86 @@ def get_variant_global_prevalence():
     return prevalence
 
 
-def process_variants(save_dir):
+@lru_cache(maxsize=32)
+def get_all_locations():
+    resp = query_api(API_ALL_LOCATIONS)
 
-    # prevalence = get_variant_global_prevalence()
-    # save_path = save_dir / 'aapcnt-variants.yml'
-    # with open(save_path, 'w') as fp:
-    #     yaml.dump(prevalence, fp)
-    #     print('Updated {}'.format(save_path))
+    locations = resp['results']
+    print('All locations:', len(locations))
+
+    return locations
+
+
+def get_variant_location_prevalence():
+    prevalence = defaultdict(list)
+
+    all_variants = get_all_variants()
+
+    estimate_runtime(all_variants)
+
+    for variant in all_variants:
+        query = API_VARIANT_GEOLOCATION.format(variant=variant)
+
+        resp = query_api(query)
+        results = resp['results']
+        locations = results.get('name', [])
+
+        variant_name = variant.upper()
+
+        for loc in locations:
+            query = API_VARIANT_LOCATION_PREV.format(
+                variant=variant,
+                location=loc
+                )
+            resp = query_api(query)
+            results = resp['results']
+            total_count = results['total_count']
+            lineage_count = results['lineage_count']
+            proportion = get_proportion(
+                lineage_count,
+                total_count
+            )
+
+            prevalence[variant_name].append({
+                'location': loc,
+                'prevalence': proportion
+            })
+
+    prevalence = filter_timepoints(prevalence)
+    return prevalence
+
+
+def collect_variant_mutations(save_dir):
 
     save_path = save_dir / 'variants-mutations.yml'
     mutations = get_variant_mutations()
     with open(save_path, 'w') as fp:
         yaml.dump(mutations, fp)
+        print('Updated {}'.format(save_path))
+
+
+def collect_variant_time_prevalence(save_dir):
+    prevalence = get_variant_global_prevalence()
+    save_path = save_dir / 'aapcnt-variants.yml'
+    with open(save_path, 'w') as fp:
+        yaml.dump(prevalence, fp)
+        print('Updated {}'.format(save_path))
+
+
+def collect_variant_location_prevalence(save_dir):
+    prevalence = get_variant_location_prevalence()
+    save_path = save_dir / 'aapcnt-loc-variants.yml'
+    with open(save_path, 'w') as fp:
+        yaml.dump(prevalence, fp)
+        print('Updated {}'.format(save_path))
+
+
+def collect_mutation_time_prevalence(save_dir):
+
+    prevalence = get_mutation_prevalence()
+    save_path = save_dir / 'aapcnt-mutations.yml'
+    with open(save_path, 'w') as fp:
+        yaml.dump(prevalence, fp)
         print('Updated {}'.format(save_path))
 
 
@@ -346,9 +420,13 @@ def import_outbreak():
 
     get_version()
 
-    # process_mutations(RESULTS_DIR)
+    collect_variant_mutations(RESULTS_DIR)
 
-    process_variants(RESULTS_DIR)
+    # collect_variant_time_prevalence(RESULTS_DIR)
+
+    # collect_variant_location_prevalence(RESULTS_DIR)
+
+    # collect_mutation_time_prevalence(RESULTS_DIR)
 
 
 if __name__ == '__main__':
