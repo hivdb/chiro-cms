@@ -23,6 +23,15 @@ pattern-analysis-form-desc: |-
   - a deletion: nsp6:S106del
   - an insertion: nsp6:34ins
 
+pattern-analysis-prefill-label: >- # Warning: title doesn't support markdown
+  Select pre-populate Spike mutations:
+
+pattern-analysis-input-label: >-
+  Enter/paste mutations:
+
+pattern-analysis-input-placeholder: >-
+  Enter/paste mutations
+
 sequence-analysis-form-title: >- # Warning: title doesn't support markdown
   SARS-CoV-2 Sequence Analysis
 
