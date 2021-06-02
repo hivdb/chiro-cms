@@ -1,5 +1,5 @@
 species: SARS2
-drdbVersion: "20210519-slim"
+drdbVersion: "20210531-slim"
 cmtVersion: "20210501"
 allGenes: &allGenes [
   nsp1, nsp2, PLpro, nsp4, _3CLpro, nsp6, nsp7, nsp8, nsp9,
@@ -47,6 +47,8 @@ geneValidatorDefs:
 mutationDefaultGene: S
 mutationSuggestions:
   _resource: sierra-sars2/mutation-suggestions.yml
+mutationPrefills:
+  _resource: sierra-sars2/mutation-prefills.yml
 seqReadsDefaultParams:
   strain: SARS2
   minPrevalence: 0.1  # 10%
