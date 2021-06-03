@@ -3,6 +3,7 @@ import requests
 import click
 import ruamel.yaml
 from pathlib import Path
+import simplejson
 import time
 from datetime import datetime
 from collections import defaultdict
@@ -15,6 +16,9 @@ yaml = ruamel.yaml.YAML()
 
 BASE_DIR = Path(__file__).absolute().parent.parent
 RESULTS_DIR = BASE_DIR / 'resources' / 'outbreak-aapcnt'
+
+FILE_CACHE_PATH = Path('/tmp') / 'py_file_cache'
+FILE_CACHE_PATH.mkdir(exist_ok=True)
 
 
 API_MAIN = 'https://api.outbreak.info'
@@ -39,13 +43,16 @@ API_ALL_LOCATIONS = API_MAIN + \
     "/genomics/location?name=*"
 API_VARIANT_GEOLOCATION = API_MAIN + \
     "/genomics/lineage-by-sub-admin-most-recent?" + \
-    "pangolin_lineage={variant}&detected=true"
+    "pangolin_lineage={variant}"
+# API_VARIANT_GEOLOCATION = API_MAIN + \
+#     "/genomics/lineage-by-sub-admin-most-recent?" + \
+#     "pangolin_lineage={variant}&detected=true"
 API_VARIANT_USA_GEOLOCATION = API_MAIN + \
     "/genomics/lineage-by-sub-admin-most-recent?" + \
     "pangolin_lineage={variant}&detected=true&location_id=USA"
-API_VARIANT_LOCATION_PREV = API_MAIN + \
-    "/genomics/prevalence-by-location?" + \
-    "pangolin_lineage={variant}&location_id={location_id}&cumulative=true"
+# API_VARIANT_LOCATION_PREV = API_MAIN + \
+#     "/genomics/prevalence-by-location?" + \
+#     "pangolin_lineage={variant}&location_id={location_id}&cumulative=true"
 
 
 def get_datetime_obj(datetime_str):
@@ -92,7 +99,12 @@ def freq_control(func):
 @freq_control
 def query_api(api):
     resp = requests.get(api)
-    resp = resp.json()
+    try:
+        resp = resp.json()
+    except simplejson.errors.JSONDecodeError as e:
+        print(api)
+        print(resp.text)
+        raise e
     return resp
 
 
@@ -116,6 +128,47 @@ def round_number(float_number):
     elif float_number == 0:
         return 0
     return Decimal(str(float_number)).quantize(Decimal('1.00'))
+
+
+def map_with_skip(map_list, skip_list, operator):
+    for rec in map_list:
+        if rec in skip_list:
+            continue
+        result = operator(rec)
+
+        yield rec, result
+
+
+def file_cache(file_name):
+    def wrapper(func):
+        def wrapper2(*args, **kwargs):
+            file_path = FILE_CACHE_PATH / file_name
+            if file_path.exists():
+                result = yaml.load(open(file_path))
+            else:
+                result = func(*args, **kwargs)
+                with open(file_path, 'w') as fp:
+                    yaml.dump(result, fp)
+
+            return result
+
+        return wrapper2
+
+    return wrapper
+
+
+def load_progress(progress_file_path):
+    progress_path = FILE_CACHE_PATH / progress_file_path
+    if not progress_path.exists():
+        return None
+    with open(progress_path) as fp:
+        return yaml.load(fp)
+
+
+def dump_progress(progress_list, progress_file_path):
+    progress_path = FILE_CACHE_PATH / progress_file_path
+    with open(progress_path, 'w') as fp:
+        yaml.dump(progress_list, fp)
 
 
 def get_proportion(numerator, denominator):
@@ -226,7 +279,7 @@ def get_mutation_prevalence():
     return prevalence
 
 
-@lru_cache(maxsize=32)
+@file_cache('all_variants')
 def get_all_variants():
     resp = query_api(API_ALL_VARIANTS)
 
@@ -239,21 +292,26 @@ def get_all_variants():
 
 
 def get_variant_mutations():
-    mutations = {}
-
     all_variants = get_all_variants()
+    variants = [i.upper() for i in all_variants]
     estimate_runtime(all_variants)
 
-    for variant in all_variants:
-        variant = variant.upper()
+    processed_list = load_progress('processed_list') or []
+    mutations = load_progress('variant_mutation_list') or {}
 
+    def operator(variant):
         query = API_VARIANT_MUTATIONS.format(variant=variant)
         resp = query_api(query)
+
+        return resp
+
+    for variant, rec in map_with_skip(variants, processed_list, operator):
+        print(variant)
 
         mutations[variant] = []
 
         variant_mutations = defaultdict(list)
-        for mut in resp['results']:
+        for mut in rec['results']:
             gene = mut['gene']
             variant_mutations[gene].append({
                 'gene': mut['gene'],
@@ -273,6 +331,10 @@ def get_variant_mutations():
                 mutations[variant].append(mut['mutation'])
 
         mutations[variant] = ', '.join(mutations[variant])
+        dump_progress(mutations, 'variant_mutation_list')
+
+        processed_list.append(variant)
+        dump_progress(processed_list, 'processed_list')
 
     records = []
     for variant, mut_list in mutations.items():
@@ -285,17 +347,24 @@ def get_variant_mutations():
 
 
 def get_variant_global_prevalence():
-    prevalence = defaultdict(list)
-
     all_variants = get_all_variants()
-
+    variants = [i.upper() for i in all_variants]
     estimate_runtime(all_variants)
 
-    for variant in all_variants:
-        query = API_GLOBAL_PREVALENCE_VARIANT.format(variant=variant)
+    processed_list = load_progress('processed_list_var_tp_prev') or []
+    prevalence = load_progress('variant_tp_prev') or {}
+    prevalence = defaultdict(list, prevalence)
 
+    def operator(variant):
+        query = API_GLOBAL_PREVALENCE_VARIANT.format(variant=variant)
         resp = query_api(query)
-        timepoints = resp['results']
+
+        return resp
+
+    for variant, rec in map_with_skip(variants, processed_list, operator):
+        print(variant)
+
+        timepoints = rec['results']
 
         variant = variant.upper()
 
@@ -327,11 +396,16 @@ def get_variant_global_prevalence():
                 'prevalence': proportion
             })
 
+        dump_progress(dict(prevalence), 'variant_tp_prev')
+
+        processed_list.append(variant)
+        dump_progress(processed_list, 'processed_list_var_tp_prev')
+
     prevalence = filter_timepoints(prevalence)
     return prevalence
 
 
-@lru_cache(maxsize=32)
+@file_cache('locations')
 def get_all_locations():
     resp = query_api(API_ALL_LOCATIONS)
 
@@ -342,46 +416,44 @@ def get_all_locations():
 
 
 def get_variant_location_prevalence():
-    prevalence = defaultdict(list)
-
     all_variants = get_all_variants()
-
+    variants = [i.upper() for i in all_variants]
     estimate_runtime(all_variants)
 
-    for variant in all_variants:
+    processed_list = load_progress('processed_list_var_loc_prev') or []
+    prevalence = load_progress('variant_loc_prev') or {}
+    prevalence = defaultdict(list, prevalence)
+
+    def operator(variant):
         query = API_VARIANT_GEOLOCATION.format(variant=variant)
-
         resp = query_api(query)
-        results = resp['results']
-        locations = results.get('name', [])
 
-        variant_name = variant.upper()
+        return resp
 
-        for loc in locations:
-            query = API_VARIANT_LOCATION_PREV.format(
-                variant=variant,
-                location=loc
-                )
-            resp = query_api(query)
-            results = resp['results']
-            total_count = results['total_count']
-            lineage_count = results['lineage_count']
-            proportion = get_proportion(
-                lineage_count,
-                total_count
-            )
+    for variant, rec in map_with_skip(variants, processed_list, operator):
+        variant = variant.upper()
+        print(variant)
 
-            prevalence[variant_name].append({
-                'location': loc,
+        results = rec['results']
+        for loc in results:
+            proportion = loc['proportion'] * 100
+            proportion = str(round_number(proportion))
+
+            location = loc['name']
+            prevalence[variant].append({
+                'location': location,
                 'prevalence': proportion
             })
 
-    prevalence = filter_timepoints(prevalence)
-    return prevalence
+        dump_progress(dict(prevalence), 'variant_loc_prev')
+
+        processed_list.append(variant)
+        dump_progress(processed_list, 'processed_list_var_loc_prev')
+
+    return dict(prevalence)
 
 
 def collect_variant_mutations(save_dir):
-
     save_path = save_dir / 'variants-mutations.yml'
     mutations = get_variant_mutations()
     with open(save_path, 'w') as fp:
@@ -422,9 +494,9 @@ def import_outbreak():
 
     collect_variant_mutations(RESULTS_DIR)
 
-    # collect_variant_time_prevalence(RESULTS_DIR)
+    collect_variant_time_prevalence(RESULTS_DIR)
 
-    # collect_variant_location_prevalence(RESULTS_DIR)
+    collect_variant_location_prevalence(RESULTS_DIR)
 
     # collect_mutation_time_prevalence(RESULTS_DIR)
 
