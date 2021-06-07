@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 import requests
 import click
+import csv
 import ruamel.yaml
 from pathlib import Path
 import simplejson
 import time
 from datetime import datetime
 from collections import defaultdict
-from functools import lru_cache
+import re
 import decimal
 from decimal import Decimal
 from operator import itemgetter
@@ -171,6 +172,18 @@ def dump_progress(progress_list, progress_file_path):
         yaml.dump(progress_list, fp)
 
 
+def dump_csv(file_path, records, headers=[]):
+    if not records:
+        return
+    if not headers and records:
+        headers = records[0].keys()
+
+    with open(file_path, 'w', encoding='utf-8-sig') as fd:
+        writer = csv.DictWriter(fd, fieldnames=headers)
+        writer.writeheader()
+        writer.writerows(records)
+
+
 def get_proportion(numerator, denominator):
     proportion = round_number(
                 numerator / denominator * 100)
@@ -248,6 +261,7 @@ def get_mutation_prevalence():
 
     for mutation, rec in \
             map_with_skip(all_spike_mutations, processed_list, operator):
+        print(mutation)
         mutation = mutation.upper()
 
         cummulative_lineage_count = 0
@@ -477,6 +491,11 @@ def collect_variant_time_prevalence(save_dir):
         yaml.dump(prevalence, fp)
         print('Updated {}'.format(save_path))
 
+    dump_csv(
+        RESULTS_DIR / 'aapcnt-variants.csv',
+        prevalence
+    )
+
 
 def collect_variant_location_prevalence(save_dir):
     prevalence = get_variant_location_prevalence()
@@ -492,6 +511,33 @@ def collect_mutation_time_prevalence(save_dir):
     with open(save_path, 'w') as fp:
         yaml.dump(prevalence, fp)
         print('Updated {}'.format(save_path))
+
+    headers = list(prevalence[0].keys())
+    headers.insert(0, 'Mut')
+    headers.insert(0, 'Pos')
+    headers.insert(0, 'Ref')
+    headers.insert(0, 'Gene')
+
+    for rec in prevalence:
+        mutation = rec['name']
+        gene, mutation = mutation.split(':', 1)
+
+        if 'DEL' in mutation.upper():
+            ref = ''
+            pos = re.search(r'(\d+)', mutation).group()
+            mut = 'del'
+        else:
+            ref, pos, mut = re.split(r'(\d+)', mutation)
+
+        rec['Gene'] = gene
+        rec['Ref'] = ref
+        rec['Pos'] = pos
+        rec['Mut'] = mut
+    dump_csv(
+        RESULTS_DIR / 'aapcnt-mutations.csv',
+        prevalence,
+        headers,
+    )
 
 
 @click.command()
