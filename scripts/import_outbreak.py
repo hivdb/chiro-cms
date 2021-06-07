@@ -207,7 +207,7 @@ def get_version():
     print('Build at: ' + date)
 
 
-@lru_cache(maxsize=32)
+@file_cache('mutations')
 def get_all_mutations():
     resp = query_api(API_ALL_MUTATIONS)
 
@@ -232,23 +232,27 @@ def get_all_spike_mutations():
 
 
 def get_mutation_prevalence():
-    prevalence = defaultdict(list)
-
     all_spike_mutations = get_all_spike_mutations()
-
+    all_spike_mutations = [m['name'] for m in all_spike_mutations]
     estimate_runtime(all_spike_mutations)
 
-    for mut in all_spike_mutations:
-        name = mut['name']
-        query = API_GLOBAL_PREVALENCE_MUTATION.format(mutation=name)
+    processed_list = load_progress('processed_list_mut_tp_prev') or []
+    prevalence = load_progress('mutation_tp_prev') or {}
+    prevalence = defaultdict(list, prevalence)
 
+    def operator(mutation):
+        query = API_GLOBAL_PREVALENCE_MUTATION.format(mutation=mutation)
         resp = query_api(query)
-        timepoints = resp['results']
 
-        name = name.upper()
+        return resp
+
+    for mutation, rec in \
+            map_with_skip(all_spike_mutations, processed_list, operator):
+        mutation = mutation.upper()
 
         cummulative_lineage_count = 0
         cummulative_total_count = 0
+        timepoints = rec['results']
 
         for tp in timepoints:
             date = tp['date']
@@ -268,12 +272,17 @@ def get_mutation_prevalence():
                 cummulative_total_count
             )
 
-            date = date[:7]
+            year_month = date[:7]
 
-            prevalence[name].append({
-                'date': date,
+            prevalence[mutation].append({
+                'date': year_month,
                 'prevalence': proportion
             })
+
+        dump_progress(dict(prevalence), 'mutation_tp_prev')
+
+        processed_list.append(mutation)
+        dump_progress(processed_list, 'processed_list_mut_tp_prev')
 
     prevalence = filter_timepoints(prevalence)
     return prevalence
@@ -478,7 +487,6 @@ def collect_variant_location_prevalence(save_dir):
 
 
 def collect_mutation_time_prevalence(save_dir):
-
     prevalence = get_mutation_prevalence()
     save_path = save_dir / 'aapcnt-mutations.yml'
     with open(save_path, 'w') as fp:
@@ -498,7 +506,7 @@ def import_outbreak():
 
     collect_variant_location_prevalence(RESULTS_DIR)
 
-    # collect_mutation_time_prevalence(RESULTS_DIR)
+    collect_mutation_time_prevalence(RESULTS_DIR)
 
 
 if __name__ == '__main__':
