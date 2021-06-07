@@ -26,7 +26,7 @@
   - [AV.1](/page/mutation-viewer/#sec_av-1)
   - [B.1.1.1 sublineage in Peru and Chile](/page/mutation-viewer/#sec_b-1-1-1-sub)
 - [Prolonged Infections](/page/mutation-viewer/#prolonged.infections)
-  - [Kemp S, Harvey W, et int., and Gupta RK.](/page/mutation-viewer/#sec_kemp21)
+  - [Kemp S, Collier DA, et int., and Gupta RK.](/page/mutation-viewer/#sec_kemp21)
   - [McCarthy KR, Rennick LJ, et int., and Duprex WP.](/page/mutation-viewer/#sec_mccarthy20)
   - [Choi B, Choudhary MC, et int., and Li JZ.](/page/mutation-viewer/#sec_choi20)
   - [Avanzato VA, Matson MJ, et int., and Munster VJ.](/page/mutation-viewer/#sec_avanzato20)

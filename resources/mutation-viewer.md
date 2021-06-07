@@ -27,7 +27,7 @@
   - [AV.1](#sec_av-1)
   - [B.1.1.1 sublineage in Peru and Chile](#sec_b-1-1-1-sub)
 - [Prolonged Infections](#prolonged.infections)
-  - [Kemp S, Harvey W, et int., and Gupta RK.](#sec_kemp21)
+  - [Kemp S, Collier DA, et int., and Gupta RK.](#sec_kemp21)
   - [McCarthy KR, Rennick LJ, et int., and Duprex WP.](#sec_mccarthy20)
   - [Choi B, Choudhary MC, et int., and Li JZ.](#sec_choi20)
   - [Avanzato VA, Matson MJ, et int., and Munster VJ.](#sec_avanzato20)
@@ -629,9 +629,9 @@ b-1-1-1-sub
 
 <div class="figure-caption">
 
-### [Kemp S, Harvey W, et int., and Gupta RK.](#sec_kemp21)
+### [Kemp S, Collier DA, et int., and Gupta RK.](#sec_kemp21)
 
-Kemp S, Harvey W, et int., and Gupta RK. “SARS-CoV-2 evolution during treatment of chronic infection.” _Nature_, 2021. [doi.org/10.1038/s41586-021-03291-y](https://doi.org/10.1038/s41586-021-03291-y).[^Kemp21] Other detected spike mutations during prolonged infections: S:Y200H, S:T240I, S:P330S
+Kemp S, Collier DA, et int., and Gupta RK. “SARS-CoV-2 evolution during treatment of chronic infection.” _Nature_, 2021. [doi.org/10.1038/s41586-021-03291-y](https://doi.org/10.1038/s41586-021-03291-y).[^Kemp21] Other detected spike mutations during prolonged infections: S:Y200H, S:T240I, S:P330S
 
 </div>
 
