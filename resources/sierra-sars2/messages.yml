@@ -80,7 +80,7 @@ ngs2codfreq-form-desc: |-
 codfreq-example: |-
 
   Minimal example of a CodFreq file:
-  
+
   | gene | position | totalReads | codon | reads |
   |------|----------|------------|-------|-------|
   | S    | 1        | 1247       | ATG   | 1226  |
@@ -203,7 +203,8 @@ mab-description-vir-7831: |-
   N343. It has been shown to elicit ADCC and ADCP in vitro and it has undergone
   Fc modifications to prolong its half-life. **VIR-7831** (aka Sotrovimab,
   GSK4182136) is developed based on S309, and is being studied in a phase II
-  trial.
+  trial. Sotrovimab is granted an emergence use authorization (EUA) by the FDA
+  on May 26, 2021.
 
   VIR-7831 is developed by VIR Biotechnology and GlaxoSmithKline.
 mab-description-cilgavimab: |-
@@ -211,7 +212,7 @@ mab-description-cilgavimab: |-
   antibody that binds RBD in the up and down configuration. It reduces weight
   loss and lung virus levels in a mouse prevention model. Tixagevimab and
   Cilgavimab bind to nonoverlapping RBD epitopes. Tixagevimab and Cilgavimab
-  (aka AZD7442) have begun phase III clinical trials. 
+  (aka AZD7442) have begun phase III clinical trials.
 
   Cilgavimab is developed by AstraZeneca.
 mab-description-tixagevimab: |-
@@ -220,14 +221,14 @@ mab-description-tixagevimab: |-
   lung virus levels in a mouse prevention model. It also reduces lung virus
   levels in rhesus macaques. Tixagevimab and Cilgavimab bind to nonoverlapping
   RBD epitopes. Tixagevimab and Cilgavimab (aka AZD7442) have begun phase III
-  clinical trials. 
+  clinical trials.
 
   Tixagevimab is developed by AstraZeneca.
 mab-description-cilgavimab+tixagevimab: |-
   **Cilgavimab and Tixagevimab** (aka AZD7447) is a comination of two
   ACE2-competing monoclonal antibodies that bind RBD in the up and down
   configuration.  Tixagevimab and Cilgavimab bind to nonoverlapping RBD
-  epitopes. This combination have begun phase III clinical trials. 
+  epitopes. This combination have begun phase III clinical trials.
 
   Cilgavimab and Tixagevimab are both developed by AstraZeneca.
 mab-description-c135: |-
@@ -243,7 +244,7 @@ mab-description-c144: |-
   up and down configurations.  C144 / C135 bind to non-overlapping epitopes.
   C144 uses its CDR(H)3 to bridge two neighboring RBDs and to stabilize spike
   in the closed state.
-  
+
   C144 is developed by The Rockefeller University.
 mab-description-brii-196: |-
   **BRII-196** is an investigational, neutralizing monoclonal antibody
