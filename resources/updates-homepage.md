@@ -22,6 +22,9 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### [Clinical Trials (Jun 07)](/page/updates/#clinical.trials)
+[5 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-06-07)
+
 ### Database Entries (May 28)
 Gonzalez C, Saade C, et int., and Pozzetto B. [“Live virus neutralisation testing in convalescent patients and subjects vaccinated against 19A, 20B, 20I/501Y.V1 and 20H/501Y.V2 isolates of SARS-CoV-2.”](/search-drdb/?article=Gonzalez21) _medRxiv_, 2021. [doi.org/10.1101/2021.05.11.21256578](https://doi.org/10.1101/2021.05.11.21256578).
 ### Database Entries (May 28)

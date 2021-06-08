@@ -1248,6 +1248,14 @@ April 26
 <!-- start of clinical trials -->
 
 ## Clinical Trials
+### June 2021
+- June 07
+    - [5 clinical trials were added.](/clinical-trials/?fromDate=2021-06-07)
+    - NCT04909853
+    - NCT04910269
+    - NCT04911777
+    - NCT04913675
+    - NCT04913779
 ### May 2021
 - May 28
     - [12 clinical trials were added.](/clinical-trials/?fromDate=2021-05-28)
