@@ -1370,11 +1370,6 @@
   - variant: N439K
     rx: Casirivimab/Imdevimab
     mab_class: ''
-    fold: '1'
-    reference: FDA21[^FDA21]
-  - variant: N439K
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
     fold: '1.7'
     reference: Starr21[^Starr21]
   - variant: N439K
@@ -2046,11 +2041,6 @@
     mab_class: ''
     fold: '1.1'
     reference: Copin21[^Copin21]
-  - variant: S494P
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
-    fold: '1'
-    reference: FDA21[^FDA21]
   - variant: S494P
     rx: P5A-1B9
     mab_class: ''

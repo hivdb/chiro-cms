@@ -294,6 +294,16 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "CP_M12",
+                "samples": 26,
+                "s_fold": 0,
+                "i_fold": 26,
+                "r_fold": 0,
+                "reference": "Planas21b*[^Planas21b]",
+                "median": 8.2
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "CP_M3",
                 "samples": 28,
                 "s_fold": 27,
@@ -311,6 +321,16 @@
                 "r_fold": 0,
                 "reference": "Planas21[^Planas21]",
                 "median": "0.9"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP_M6",
+                "samples": 25,
+                "s_fold": 25,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Planas21b*[^Planas21b]",
+                "median": 1.5
             },
             {
                 "variant": "B.1.1.7",
@@ -470,12 +490,12 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
-                "samples": 4,
-                "s_fold": 0,
-                "i_fold": 3,
-                "r_fold": 1,
+                "samples": 25,
+                "s_fold": 6,
+                "i_fold": 15,
+                "r_fold": 4,
                 "reference": "Edara21b*[^Edara21b]",
-                "median": "5.2"
+                "median": "5"
             },
             {
                 "variant": "B.1.351",
@@ -700,12 +720,12 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP_6M",
-                "samples": 4,
-                "s_fold": 2,
-                "i_fold": 2,
+                "samples": 22,
+                "s_fold": 18,
+                "i_fold": 4,
                 "r_fold": 0,
                 "reference": "Edara21b*[^Edara21b]",
-                "median": "2.8"
+                "median": "2"
             },
             {
                 "variant": "B.1.351",
@@ -746,6 +766,16 @@
                 "r_fold": 7,
                 "reference": "Planas21[^Planas21]",
                 "median": "3.8"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP_M6",
+                "samples": 25,
+                "s_fold": 0,
+                "i_fold": 25,
+                "r_fold": 0,
+                "reference": "Planas21b*[^Planas21b]",
+                "median": 5.5
             },
             {
                 "variant": "B.1.351",

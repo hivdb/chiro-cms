@@ -1,25 +1,25 @@
 [
     {
         "variant": "B.1.1.7",
-        "cp_studies": 29,
-        "cp_samples": 775,
-        "cp_s_fold": "86%",
-        "cp_i_fold": "12%",
+        "cp_studies": 30,
+        "cp_samples": 826,
+        "cp_s_fold": "84%",
+        "cp_i_fold": "14%",
         "cp_r_fold": "2%",
-        "cp_num_s_fold": 666,
-        "cp_num_i_fold": 92,
+        "cp_num_s_fold": 691,
+        "cp_num_i_fold": 118,
         "cp_num_r_fold": 17
     },
     {
         "variant": "B.1.351",
-        "cp_studies": 30,
-        "cp_samples": 682,
+        "cp_studies": 31,
+        "cp_samples": 746,
         "cp_s_fold": "27%",
-        "cp_i_fold": "48%",
-        "cp_r_fold": "25%",
-        "cp_num_s_fold": 181,
-        "cp_num_i_fold": 324,
-        "cp_num_r_fold": 177
+        "cp_i_fold": "49%",
+        "cp_r_fold": "24%",
+        "cp_num_s_fold": 203,
+        "cp_num_i_fold": 363,
+        "cp_num_r_fold": 180
     },
     {
         "variant": "P.1",
