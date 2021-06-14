@@ -430,8 +430,9 @@ cluster5
 <div class="figure-caption">
 
 ### [R.1](#sec_r-1)
-Nagano K, Tani-Sassa C, et int., and Tohda S. “SARS-CoV-2 R.1 lineage variants prevailed in Tokyo in March 2021
-.” _medRxiv_, 2021. [doi.org/10.1101/2021.05.11.21257004](https://doi.org/10.1101/2021.05.11.21257004)[^Nagano21]
+
+Hirotsu Y and Omata M. "Detection of R.1 lineage severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) with spike protein W152L/E484K/G769V mutations in Japan." _PLOS PATHOGENS_, 2021. [doi.org/10.1371/journal.ppat.1009619](https://doi.org/10.1371/journal.ppat.1009619) [^Hirotsu21]
+
 
 [Outbreak.info R.1 Lineage Report](https://outbreak.info/situation-reports?pango=R.1) [^Outbreak20]
 
