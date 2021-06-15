@@ -1,4 +1,4 @@
-- name: B.1.1.7
+- name: Alpha variant (B.1.1.7)
   mutations:
   - S:H69del
   - S:V70del
@@ -10,7 +10,7 @@
   - S:T716I
   - S:S982A
   - S:D1118H
-- name: B.1.351
+- name: Beta variant (B.1.351)
   mutations:
   - S:L18F
   - S:D80A
@@ -24,7 +24,7 @@
   - S:N501Y
   - S:D614G
   - S:A701V
-- name: P.1
+- name: Gamma variant (P.1)
   mutations:
   - S:L18F
   - S:T20N
@@ -38,7 +38,28 @@
   - S:H655Y
   - S:T1027I
   - S:V1176F
-- name: B.1.525
+- name: Delta variant (B.1.617.2)
+  mutations:
+  - S:T19R
+  - S:F157del
+  - S:R158del
+  - S:L452R
+  - S:T478K
+  - S:D614G
+  - S:P681R
+  - S:D950N
+- name: Epsilon variant (B.1.427/9)
+  mutations:
+  - S:S13I
+  - S:W152C
+  - S:L452R
+  - S:D614G
+- name: Zeta variant (P.2)
+  mutations:
+  - S:E484K
+  - S:D614G
+  - S:V1176F
+- name: Eta variant (B.1.525)
   mutations:
   - S:Q52R
   - S:A67V
@@ -49,29 +70,7 @@
   - S:D614G
   - S:Q677H
   - S:F888L
-- name: B.1.526
-  mutations:
-  - S:L5F
-  - S:T95I
-  - S:D253G
-  - S:E484K
-  - S:D614G
-  - S:A701V
-- name: B.1.427/9
-  mutations:
-  - S:S13I
-  - S:W152C
-  - S:L452R
-  - S:D614G
-- name: B.1.x
-  mutations:
-  - S:S494P
-  - S:N501Y
-  - S:D614G
-  - S:P681H
-  - S:K854N
-  - S:E1111K
-- name: P.3
+- name: Theta variant (P.3)
   mutations:
   - S:141del
   - S:142del
@@ -83,12 +82,15 @@
   - S:E1092K
   - S:H1101Y
   - S:V1176F
-- name: B.1.617
+- name: Iota variant (B.1.526)
   mutations:
-  - S:L452R
-  - S:E484Q
+  - S:L5F
+  - S:T95I
+  - S:D253G
+  - S:E484K
   - S:D614G
-- name: B.1.617.1
+  - S:A701V
+- name: Kappa variant (B.1.617.1)
   mutations:
   - S:T95I
   - S:G142D
@@ -98,16 +100,34 @@
   - S:D614G
   - S:P681R
   - S:Q1071H
-- name: B.1.617.2
+- name: Lambda variant (C.37)
   mutations:
-  - S:T19R
-  - S:F157del
-  - S:R158del
-  - S:L452R
-  - S:T478K
+  - S:G75V
+  - S:T76I
+  - S:R246del
+  - S:S247del
+  - S:Y248del
+  - S:L249del
+  - S:T250del
+  - S:P251del
+  - S:G252del
+  - S:L452Q
+  - S:F490S
   - S:D614G
-  - S:P681R
-  - S:D950N
+  - S:T859N
+- name: B.1.x
+  mutations:
+  - S:S494P
+  - S:N501Y
+  - S:D614G
+  - S:P681H
+  - S:K854N
+  - S:E1111K
+- name: B.1.617
+  mutations:
+  - S:L452R
+  - S:E484Q
+  - S:D614G
 - name: B.1.617.3
   mutations:
   - S:T19R
@@ -162,11 +182,6 @@
   - S:E484K
   - S:D614G
   - S:G769V
-- name: P.2
-  mutations:
-  - S:E484K
-  - S:D614G
-  - S:V1176F
 - name: N.9 (E484K only)
   mutations:
   - S:E484K
