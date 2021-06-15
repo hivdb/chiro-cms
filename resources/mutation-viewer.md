@@ -363,7 +363,7 @@ b-1-620
 
 ### [B.1.621](#sec_b-1-621)
 
-Laito-Donato K, Franco-Munoz C, et int., and Mercado-Reyes M. “Characterization of the emerging B.1.621 variant of interest of SARS-CoV-2.” _medRxiv_, 2021. [doi.org/10.1101/2021.05.08.21256619](https://doi.org/10.1101/2021.05.08.21256619). [^Laito-Donato21]
+Laiton-Donato K, Franco-Munoz C, et int., and Mercado-Reyes M. “Characterization of the emerging B.1.621 variant of interest of SARS-CoV-2.” _medRxiv_, 2021. [doi.org/10.1101/2021.05.08.21256619](https://doi.org/10.1101/2021.05.08.21256619). [^Laiton-Donato21]
 
 [Outbreak.info B.1.621 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.621) [^Outbreak20]
 
