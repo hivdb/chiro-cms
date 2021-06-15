@@ -13,7 +13,6 @@
   - [Kappa variant, aka B.1.617.1](#sec_kappa)
   - [Lambda variant, aka C.37, and B.1.1.1 sublineage in Peru and Chile](#sec_lambda)
   - [B.1.x](#sec_b-1-x)
-  - [B.1.617](#sec_b-1-617)
   - [B.1.617.3](#sec_b-1-617-3)
   - [B.1.620](#sec_b-1-620)
   - [B.1.621](#sec_b-1-621)
@@ -331,8 +330,7 @@ b-1-x
 
 </section>
 
-
-<!-- B.1.617 -->
+<!-- B.1.617
 <section id="sec_b-1-617" class="figure-section compact">
 
 <div class="figure-caption">
@@ -353,7 +351,7 @@ b-1-617
 
 </section>
 
-<!-- B.1.617.3 -->
+--><!-- B.1.617.3 -->
 <section id="sec_b-1-617-3" class="figure-section compact">
 
 <div class="figure-caption">
