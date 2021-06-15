@@ -22,9 +22,14 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Jun 12)
+Varona JF, Landete P, et int., and García-Sastre A. [“Plitidepsin has a positive therapeutic index in adult patients with COVID-19 requiring hospitalization.”](/search/?article=Varona21) _medRxiv_, 2021. [doi.org/10.1101/2021.05.25.21257505](https://doi.org/10.1101/2021.05.25.21257505). \[[PubMed34075384](https://www.ncbi.nlm.nih.gov/pubmed/34075384/)\] \[[PMC8168388](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8168388/)\]
+### Database Entries (Jun 12)
+Yu J, Lu X, et int., and Li L. [“Interferon‐α‐2b aerosol inhalation is associated with improved clinical outcomes in patients with coronavirus disease‐2019.”](/search/?article=Yu21) _British Journal of Clinical Pharmacology_, 2021. [doi.org/10.1111/bcp.14898](https://doi.org/10.1111/bcp.14898). \[[PubMed33982806](https://www.ncbi.nlm.nih.gov/pubmed/33982806/)\]
+### Database Entries (Jun 12)
+Planas D, Veyer D, et int., and Schwartz O. [“Reduced sensitivity of infectious SARS-CoV-2 variant B.1.617.2 to monoclonal antibodies and sera from convalescent and vaccinated individuals.”](/search-drdb/?article=Planas21b) _bioRxiv_, 2021. [doi.org/10.1101/2021.05.26.445838](https://doi.org/10.1101/2021.05.26.445838).
 ### [Clinical Trials (Jun 07)](/page/updates/#clinical.trials)
 [5 clinical trials from ClinicalTrials.gov and WHO ICTRP were added to the registry of Ongoing and Planned Clinical Trials of Antiviral Compounds.](/clinical-trials/?fromDate=2021-06-07)
-
 ### Database Entries (May 28)
 Gonzalez C, Saade C, et int., and Pozzetto B. [“Live virus neutralisation testing in convalescent patients and subjects vaccinated against 19A, 20B, 20I/501Y.V1 and 20H/501Y.V2 isolates of SARS-CoV-2.”](/search-drdb/?article=Gonzalez21) _medRxiv_, 2021. [doi.org/10.1101/2021.05.11.21256578](https://doi.org/10.1101/2021.05.11.21256578).
 ### Database Entries (May 28)

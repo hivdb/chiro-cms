@@ -77,6 +77,18 @@ Instruction:
     - [Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients]($$CMS_PREFIX$$downloads/press-release/Regeneron20200930.pdf)
 
 ## Database Entries
+### June 2021
+- June 15
+    - Hirotsu Y, and Omata M. [“Detection of R.1 lineage severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) with spike protein W152L/E484K/G769V mutations in Japan.”](/search-drdb/?article=Hirotsu21) _PLoS Pathogens_, 2021. [doi.org/10.1371/journal.ppat.1009619](https://doi.org/10.1371/journal.ppat.1009619). \[[PubMed34097716](https://www.ncbi.nlm.nih.gov/pubmed/34097716/)\]
+    - Liu J, Liu Y, et int., and Shi P. [“BNT162b2-elicited neutralization of B.1.617 and other SARS-CoV-2 variants.”](/search-drdb/?article=Liu21e) _Nature_, 2021. [doi.org/10.1038/s41586-021-03693-y](https://doi.org/10.1038/s41586-021-03693-y). \[[PubMed34111888](https://www.ncbi.nlm.nih.gov/pubmed/34111888/)\]
+    - Moore PL, Moyo-Gwete T, et int., and Gray G. [“Neutralizing antibodies elicited by the Ad26.COV2.S COVID-19 vaccine show reduced activity against 501Y.V2 (B.1.351), despite protection against severe disease by this variant.”](/search-drdb/?article=Moore21) _bioRxiv_, 2021. [doi.org/10.1101/2021.06.09.447722](https://doi.org/10.1101/2021.06.09.447722).
+    - Yadav PD, Sapkal GN, et int., and Bhargava B. [“Neutralization against B.1.351 and B.1.617.2 with sera of COVID-19 recovered cases and vaccinees of BBV152.”](/search-drdb/?article=Yadav21b) _bioRxiv_, 2021. [doi.org/10.1101/2021.06.05.447177](https://doi.org/10.1101/2021.06.05.447177).
+    - Updated: Brunaugh AD, Seo H, et int., and Smyth HDC. [“Development and evaluation of inhalable composite niclosamide-lysozyme particles: A broad-spectrum, patient-adaptable treatment for coronavirus infections and sequalae.”](/search/?article=Brunaugh20) _PLoS ONE_, 2021. [doi.org/10.1371/journal.pone.0246803](https://doi.org/10.1371/journal.pone.0246803). \[[PubMed33571320](https://www.ncbi.nlm.nih.gov/pubmed/33571320/)\] \[[PMC7877651](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7877651/)\]
+- June 12
+    - Planas D, Veyer D, et int., and Schwartz O. [“Reduced sensitivity of infectious SARS-CoV-2 variant B.1.617.2 to monoclonal antibodies and sera from convalescent and vaccinated individuals.”](/search-drdb/?article=Planas21b) _bioRxiv_, 2021. [doi.org/10.1101/2021.05.26.445838](https://doi.org/10.1101/2021.05.26.445838).
+    - Varona JF, Landete P, et int., and García-Sastre A. [“Plitidepsin has a positive therapeutic index in adult patients with COVID-19 requiring hospitalization.”](/search/?article=Varona21) _medRxiv_, 2021. [doi.org/10.1101/2021.05.25.21257505](https://doi.org/10.1101/2021.05.25.21257505). \[[PubMed34075384](https://www.ncbi.nlm.nih.gov/pubmed/34075384/)\] \[[PMC8168388](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8168388/)\]
+    - Yu J, Lu X, et int., and Li L. [“Interferon‐α‐2b aerosol inhalation is associated with improved clinical outcomes in patients with coronavirus disease‐2019.”](/search/?article=Yu21) _British Journal of Clinical Pharmacology_, 2021. [doi.org/10.1111/bcp.14898](https://doi.org/10.1111/bcp.14898). \[[PubMed33982806](https://www.ncbi.nlm.nih.gov/pubmed/33982806/)\]
+
 ### May 2021
 - May 28
     - Focosi D, Novazzi F, et int., and Maggi F. [“Emergence of SARS-CoV-2 Spike Escape Mutation Q493r After Bamlanivimab/Etesevimab Treatment for COVID-19.”](/search-drdb/?article=Focosi21b) _Research Square_, 2021. [doi.org/10.21203/rs.3.rs-524959/v1](https://doi.org/10.21203/rs.3.rs-524959/v1).
