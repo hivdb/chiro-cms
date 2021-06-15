@@ -11,6 +11,7 @@
   - [Theta variant, aka P.3, and PHL-B.1.1.28](#sec_theta)
   - [Iota variant, aka B.1.526](#sec_iota)
   - [Kappa variant, aka B.1.617.1](#sec_kappa)
+  - [Lambda variant, aka C.37, and B.1.1.1 sublineage in Peru and Chile](#sec_lambda)
   - [B.1.x](#sec_b-1-x)
   - [B.1.617](#sec_b-1-617)
   - [B.1.617.3](#sec_b-1-617-3)
@@ -25,7 +26,6 @@
   - [A.VOI.V2](#sec_a-voi-v2)
   - [A.27](#sec_a-27)
   - [AV.1](#sec_av-1)
-  - [C.37, aka WHO Lambda, B.1.1.1 sublineage in Peru and Chile](#sec_b-1-1-1-sub)
 - [Prolonged Infections](#prolonged.infections)
   - [Kemp S, Collier DA, et int., and Gupta RK.](#sec_kemp21)
   - [McCarthy KR, Rennick LJ, et int., and Duprex WP.](#sec_mccarthy20)
@@ -132,7 +132,7 @@ p-1
 </section>
 
 <!-- Delta variant -->
-<section id="sec_b-1-617-2" class="figure-section compact">
+<section id="sec_delta" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -288,6 +288,27 @@ b-1-617-1
 
 </section>
 
+<!-- Lambda variant -->
+<section id="sec_lambda" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [Lambda variant, aka C.37, and B.1.1.1 sublineage in Peru and Chile](#sec_lambda)
+Romero PE, Davila-Barclay A, et int., and Tsukayama P. “Novel sublineage within B.1.1.1 currently expanding in Peru and Chile, with a convergent deletion in the ORF1a gene (Δ3675-3677) and a novel deletion in the Spike gene (Δ246-252, G75V, T76I, L452Q, F490S, T859N).” Virological.org, 2021. [^Romero21]
+
+[Outbreak.info C.37 Lineage Report](https://outbreak.info/situation-reports?pango=C.37) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-1-1-sub
+[/genomemap]
+
+</div>
+
+</section>
 
 <!-- b-1-x -->
 <section id="sec_b-1-x" class="figure-section compact">
@@ -600,29 +621,6 @@ av-1
 </div>
 
 </section>
-
-<!-- B.1.1.1 sublineage -->
-<section id="sec_b-1-1-1-sub" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [C.37, aka WHO Lambda, B.1.1.1 sublineage in Peru and Chile](#sec_b-1-1-1-sub)
-Romero PE, Davila-Barclay A, et int., and Tsukayama P. “Novel sublineage within B.1.1.1 currently expanding in Peru and Chile, with a convergent deletion in the ORF1a gene (Δ3675-3677) and a novel deletion in the Spike gene (Δ246-252, G75V, T76I, L452Q, F490S, T859N).” Virological.org, 2021. [^Romero21]
-
-[Outbreak.info C.37 Lineage Report](https://outbreak.info/situation-reports?pango=C.37) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-b-1-1-1-sub
-[/genomemap]
-
-</div>
-
-</section>
-
 
 
 ## Prolonged Infections
