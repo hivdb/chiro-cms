@@ -1,17 +1,18 @@
 [toc]
 - [Variants with adaptive mutations](#variants.with.adaptive.mutations)
-  - [B.1.1.7, aka WHO Alpha, 501Y.V1 variant, 20I/501Y.V1, and UK COVID variant](#sec_b-1-1-7)
-  - [B.1.1.7 with S:E484K](#sec_b-1-1-7-484k)
-  - [B.1.351, aka WHO Beta, 501.V2 variant, 20C/501Y.V2, and South African COVID-19 variant](#sec_b-1-351)
-  - [P.1, aka WHO Gamma, B.1.1.28.1, 20J/501Y.V3 variant, and K417T/E484K/N501Y](#sec_p-1)
-  - [B.1.525, aka WHO Eta](#sec_b-1-525)
-  - [B.1.526, aka WHO Iota](#sec_b-1-526)
-  - [B.1.429/B.1.427, aka WHO Epsilon, CAL.20C/S:452R](#sec_b-1-429)
+  - [Alpha variant, aka B.1.1.7, 501Y.V1, 20I/501Y.V1, and UK COVID variant](#sec_alpha)
+  - [Alpha variant with S:E484K](#sec_alpha-484k)
+  - [Beta variant, aka B.1.351, 501Y.V2, 20C/501Y.V2, and South African COVID-19 variant](#sec_beta)
+  - [Gamma variant, aka P.1, B.1.1.28.1, 20J/501Y.V3, and K417T/E484K/N501Y](#sec_gamma)
+  - [Delta variant, aka B.1.617.2](#sec_delta)
+  - [Epsilon variant, aka B.1.427/B.1.429, and CAL.20C/S:452R](#sec_epsilon)
+  - [Zeta variant, aka P.2, evolved from B.1.1.28](#sec_zeta)
+  - [Eta variant, aka B.1.525](#sec_eta)
+  - [Theta variant, aka P.3, and PHL-B.1.1.28](#sec_theta)
+  - [Iota variant, aka B.1.526](#sec_iota)
+  - [Kappa variant, aka B.1.617.1](#sec_kappa)
   - [B.1.x](#sec_b-1-x)
-  - [P.3, aka WHO Theta, PHL-B.1.1.28](#sec_phl-b-1-1-28)
   - [B.1.617](#sec_b-1-617)
-  - [B.1.617.1, aka WHO Kappa](#sec_b-1-617-1)
-  - [B.1.617.2, aka WHO Delta](#sec_b-1-617-2)
   - [B.1.617.3](#sec_b-1-617-3)
   - [B.1.620](#sec_b-1-620)
   - [B.1.621](#sec_b-1-621)
@@ -20,7 +21,6 @@
   - [R.1](#sec_r-1)
   - [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](#sec_coh-20g-501y)
   <!-- - [COH.20G/677H, EPI_ISL_826463](#sec_coh-20g-677h) -->
-  - [P.2, aka WHO Zeta, evolved from B.1.1.28](#sec_p-2)
   - [N.9](#sec_n9)
   - [A.VOI.V2](#sec_a-voi-v2)
   - [A.27](#sec_a-27)
@@ -41,12 +41,12 @@
 
 ## Variants with adaptive mutations
 
-<!-- B.1.1.7 -->
-<section id="sec_b-1-1-7" class="figure-section compact">
+<!-- Alpha variant -->
+<section id="sec_alpha" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.1.7, aka WHO Alpha, 501Y.V1 variant, 20I/501Y.V1, and UK COVID variant](#sec_b-1-1-7)
+### [Alpha variant, aka B.1.1.7, 501Y.V1, 20I/501Y.V1, and UK COVID variant](#sec_alpha)
 
 Rambaut A, Loman N, et int., and Volz E. “Preliminary genomic characterisation of an emergent SARS-CoV-2 lineage in the UK defined by a novel set of spike mutations.” Virological.org, 2020. [^Rambaut20]
 
@@ -64,12 +64,12 @@ b-1-1-7
 
 </section>
 
-<!-- B.1.1.7 E484K-->
-<section id="sec_b-1-1-7-484k" class="figure-section compact">
+<!-- Alpha E484K-->
+<section id="sec_alpha-484k" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.1.7 with S:E484K](#sec_b-1-1-7-484k)
+### [Alpha variant with S:E484K](#sec_alpha-484k)
 
 [B.1.1.7 Lineage with S:E484K Report](https://outbreak.info/situation-reports?pango=B.1.1.7&muts=S%3AE484K) [^Outbreak20]
 
@@ -85,12 +85,12 @@ b-1-1-7-484k
 
 </section>
 
-<!-- B.1.351 -->
-<section id="sec_b-1-351" class="figure-section compact">
+<!-- Beta variant -->
+<section id="sec_beta" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.351, aka WHO Beta, 501.V2 variant, 20C/501Y.V2, and South African COVID-19 variant](#sec_b-1-351)
+### [Beta variant, aka B.1.351, 501Y.V2, 20C/501Y.V2, and South African COVID-19 variant](#sec_beta)
 
 Tegally H, Wilkinson E, et int., and Oliveira T. “Detection of a SARS-CoV-2 variant of concern in South Africa.” _nature_, 2020. [doi.org/10.1038/s41586-021-03402-9](https://doi.org/10.1038/s41586-021-03402-9). [^Tegally21]
 
@@ -108,12 +108,12 @@ b-1-351
 
 </section>
 
-<!-- P.1 -->
-<section id="sec_p-1" class="figure-section compact">
+<!-- Gamma variant -->
+<section id="sec_gamma" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [P.1, aka WHO Gamma, B.1.1.28.1, 20J/501Y.V3 variant, and K417T/E484K/N501Y](#sec_p-1)
+### [Gamma variant, aka P.1, B.1.1.28.1, 20J/501Y.V3 variant, and K417T/E484K/N501Y](#sec_gamma)
 
 Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
 
@@ -131,12 +131,80 @@ p-1
 
 </section>
 
-<!-- B.1.525 -->
-<section id="sec_b-1-525" class="figure-section compact">
+<!-- Delta variant -->
+<section id="sec_b-1-617-2" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.525, aka WHO Eta](#sec_b-1-525)
+### [Delta variant, aka B.1.617.2](#sec_delta)
+
+[Outbreak.info B.1.617.2 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.2) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-617-2
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- Epsilon variant -->
+<section id="sec_epsilon" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [Epsilon, aka B.1.427/B.1.429, and CAL.20C/S:452R](#sec_epsilon)
+
+Deng X, Garcia-Knight MA, et int., and Chiu CY. “Transmission, infectivity, and antibody neutralization of an emerging SARS-CoV-2 variant in California carrying a L452R spike protein mutation.” _medRxiv_, 2021. [doi.org/10.1101/2021.03.07.21252647](https://doi.org/10.1101/2021.03.07.21252647).[^Deng21]
+
+[Outbreak.info B.1.427 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.427) [^Outbreak20]
+
+[Outbreak.info B.1.429 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.429) [^Outbreak20]
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-429
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- Zeta variant -->
+<section id="sec_zeta" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [Zeta variant, aka P.2, evolved from B.1.1.28](#sec_zeta)
+Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
+
+[Outbreak.info P.2 Lineage Report](https://outbreak.info/situation-reports?pango=P.2) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+p-2
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- Eta variant -->
+<section id="sec_eta" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [Eta variant, aka B.1.525](#sec_eta)
 
 [Outbreak.info B.1.525 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.525) [^Outbreak20]
 
@@ -152,12 +220,36 @@ b-1-525
 
 </section>
 
-<!-- B.1.526 -->
-<section id="sec_b-1-526" class="figure-section compact">
+<!-- Theta variant -->
+<section id="sec_theta" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.526, aka WHO Iota](#sec_b-1-526)
+### [Theta variant, aka P.3, and PHL-B.1.1.28](#sec_theta)
+
+Tablizo FA, Kim KM, et int., and Saloma CP. “Genome sequencing and analysis of an emergent SARS-CoV-2 variant characterized by multiple spike protein mutations detected from the Central Visayas Region of the Philippines.” _bioRxiv_, 2021. [doi.org/10.1101/2021.03.03.21252812](https://doi.org/10.1101/2021.03.03.21252812
+). [^Tablizo21]
+
+[Outbreak.info P.3 Lineage Report](https://outbreak.info/situation-reports?pango=P.3) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+phl-b-1-1-28
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- Iota variant -->
+<section id="sec_iota" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [Iota variant, aka B.1.526](#sec_iota)
 
 West A, Barnes C, et int., and Bjorkman P. “SARS-CoV-2 lineage B.1.526 emerging in the New York region detected by software utility created to query the spike mutational landscape.” _bioRxiv_, 2020. [doi.org/10.1101/2021.02.14.431043](https://doi.org/10.1101/2021.02.14.431043). [^West21]
 
@@ -175,24 +267,21 @@ b-1-526
 
 </section>
 
-<!-- b-1-429 -->
-<section id="sec_b-1-429" class="figure-section compact">
+<!-- Kappa variant -->
+<section id="sec_kappa" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.429/B.1.427, aka WHO Epsilon, CAL.20C/S:452R](#sec_b-1-429)
+### [Kappa variant, aka B.1.617.1](#sec_kappa)
 
-Deng X, Garcia-Knight MA, et int., and Chiu CY. “Transmission, infectivity, and antibody neutralization of an emerging SARS-CoV-2 variant in California carrying a L452R spike protein mutation.” _medRxiv_, 2021. [doi.org/10.1101/2021.03.07.21252647](https://doi.org/10.1101/2021.03.07.21252647).[^Deng21]
+[Outbreak.info B.1.617.1 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.1) [^Outbreak20]
 
-[Outbreak.info B.1.427 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.427) [^Outbreak20]
-
-[Outbreak.info B.1.429 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.429) [^Outbreak20]
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
-b-1-429
+b-1-617-1
 [/genomemap]
 
 </div>
@@ -222,31 +311,6 @@ b-1-x
 </section>
 
 
-
-<!-- PHL-B.1.1.28 -->
-<section id="sec_phl-b-1-1-28" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [P.3, aka WHO Theta, PHL-B.1.1.28](#phl-b-1-1-28)
-
-Tablizo FA, Kim KM, et int., and Saloma CP. “Genome sequencing and analysis of an emergent SARS-CoV-2 variant characterized by multiple spike protein mutations detected from the Central Visayas Region of the Philippines.” _bioRxiv_, 2021. [doi.org/10.1101/2021.03.03.21252812](https://doi.org/10.1101/2021.03.03.21252812
-). [^Tablizo21]
-
-[Outbreak.info P.3 Lineage Report](https://outbreak.info/situation-reports?pango=P.3) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-phl-b-1-1-28
-[/genomemap]
-
-</div>
-
-</section>
-
 <!-- B.1.617 -->
 <section id="sec_b-1-617" class="figure-section compact">
 
@@ -262,48 +326,6 @@ phl-b-1-1-28
 
 [genomemap]
 b-1-617
-[/genomemap]
-
-</div>
-
-</section>
-
-<!-- B.1.617.1 -->
-<section id="sec_b-1-617-1" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [B.1.617.1, aka WHO Kappa](#sec_b-1-617-1)
-
-[Outbreak.info B.1.617.1 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.1) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-b-1-617-1
-[/genomemap]
-
-</div>
-
-</section>
-
-<!-- B.1.617.2 -->
-<section id="sec_b-1-617-2" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [B.1.617.2, aka WHO Delta](#sec_b-1-617-2)
-
-[Outbreak.info B.1.617.2 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.2) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-b-1-617-2
 [/genomemap]
 
 </div>
@@ -489,28 +511,6 @@ coh-20g-677h
 </div>
 
 </section> -->
-
-<!-- P.2 -->
-<section id="sec_p-2" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [P.2, aka WHO Zeta, evolved from B.1.1.28](#sec_p-2)
-Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
-
-[Outbreak.info P.2 Lineage Report](https://outbreak.info/situation-reports?pango=P.2) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-p-2
-[/genomemap]
-
-</div>
-
-</section>
 
 <!-- N.9 -->
 <section id="sec_n9" class="figure-section compact">
