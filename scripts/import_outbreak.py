@@ -69,10 +69,10 @@ def get_start_date():
     global KEY_DATE
     TODAY = datetime.today()
     if TODAY.day < 15:
-        START_DATE = '2020-07-01'
+        START_DATE = '2020-01-01'
         KEY_DATE = '01'
     else:
-        START_DATE = '2020-07-15'
+        START_DATE = '2020-01-01'
         KEY_DATE = '15'
     START_DATE = get_datetime_obj(START_DATE)
 
@@ -262,7 +262,6 @@ def get_mutation_prevalence():
     for mutation, rec in \
             map_with_skip(all_spike_mutations, processed_list, operator):
         print(mutation)
-        mutation = mutation.upper()
 
         cummulative_lineage_count = 0
         cummulative_total_count = 0
@@ -288,7 +287,8 @@ def get_mutation_prevalence():
 
             year_month = date[:7]
 
-            prevalence[mutation].append({
+            mutation_name = mutation.upper()
+            prevalence[mutation_name].append({
                 'date': year_month,
                 'prevalence': proportion
             })
