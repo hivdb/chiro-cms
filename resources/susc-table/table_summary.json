@@ -50,23 +50,23 @@
     },
     {
         "variant": "B.1.1.7",
-        "cp": 829,
-        "vp": 1028,
-        "phase3": 83,
-        "structure": 47
+        "cp": 901,
+        "vp": 1087,
+        "phase3": 103,
+        "structure": 58
     },
     {
         "variant": "B.1.351",
-        "cp": 746,
-        "vp": 769,
-        "phase3": 83,
-        "structure": 34
+        "cp": 965,
+        "vp": 1039,
+        "phase3": 94,
+        "structure": 42
     },
     {
         "variant": "P.1",
         "cp": 265,
         "vp": 277,
-        "phase3": 32,
+        "phase3": 33,
         "structure": 8
     },
     {
@@ -78,22 +78,22 @@
     },
     {
         "variant": "B.1.526",
-        "cp": 30,
-        "vp": 85,
-        "phase3": 8,
-        "structure": 1
+        "cp": 60,
+        "vp": 105,
+        "phase3": 12,
+        "structure": 2
     },
     {
         "variant": "Other combinations of mutations",
-        "cp": 1474,
-        "vp": 1043,
-        "phase3": 263,
-        "structure": 218
+        "cp": 1193,
+        "vp": 855,
+        "phase3": 227,
+        "structure": 198
     },
     {
         "variant": "All combinations of mutations",
-        "cp": 3518,
-        "vp": 3426,
+        "cp": 3558,
+        "vp": 3587,
         "phase3": 496,
         "structure": 323
     }

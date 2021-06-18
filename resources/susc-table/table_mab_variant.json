@@ -125,8 +125,22 @@
                 "variant": "B.1.1.7",
                 "rx": "COVOX-384",
                 "mab_class": "",
+                "fold": "1.1",
+                "reference": "Chen21[^Chen21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "COVOX-384",
+                "mab_class": "",
                 "fold": "0.7",
                 "reference": "Chen21*[^Chen21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "COVOX-40",
+                "mab_class": "",
+                "fold": "1.1",
+                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -153,6 +167,20 @@
                 "variant": "B.1.1.7",
                 "rx": "Casirivimab/Imdevimab",
                 "mab_class": "",
+                "fold": "1",
+                "reference": "Hoffmann21[^Hoffmann21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "Tada21c[^Tada21c]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
                 "fold": "0.6",
                 "reference": "Wang21b[^Wang21b]"
             },
@@ -162,6 +190,13 @@
                 "mab_class": "",
                 "fold": "1",
                 "reference": "Wang21b*[^Wang21b]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Cilgavimab",
+                "mab_class": "",
+                "fold": "0.7",
+                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -190,6 +225,13 @@
                 "mab_class": "",
                 "fold": "0.3",
                 "reference": "Wang21b*[^Wang21b]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Cilgavimab/Tixagevimab",
+                "mab_class": "",
+                "fold": "1.4",
+                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -228,9 +270,30 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "DH1041",
+                "mab_class": "",
+                "fold": "0.5",
+                "reference": "Shen21[^Shen21]"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "DH1043",
                 "mab_class": "",
                 "fold": "1.3",
+                "reference": "Shen21[^Shen21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "DH1043",
+                "mab_class": "",
+                "fold": "0.9",
+                "reference": "Shen21[^Shen21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "H4",
+                "mab_class": "",
+                "fold": "1.5",
                 "reference": "Shen21[^Shen21]"
             },
             {
@@ -239,6 +302,13 @@
                 "mab_class": "",
                 "fold": "4.7",
                 "reference": "Shen21[^Shen21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "JMB2002",
+                "mab_class": "",
+                "fold": "17",
+                "reference": "Gu21[^Gu21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -263,17 +333,17 @@
             },
             {
                 "variant": "B.1.1.7",
-                "rx": "REGN-COV2",
+                "rx": "S2E12/Sotrovimab",
                 "mab_class": "",
-                "fold": "1",
-                "reference": "Hoffmann21[^Hoffmann21]"
+                "fold": "1.1",
+                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "B.1.1.7",
-                "rx": "REGN-COV2",
+                "rx": "S2E12/Sotrovimab",
                 "mab_class": "",
-                "fold": "1",
-                "reference": "Tada21c[^Tada21c]"
+                "fold": "0.7",
+                "reference": "Chen21*[^Chen21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -281,6 +351,13 @@
                 "mab_class": "",
                 "fold": "0.5",
                 "reference": "Collier21[^Collier21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "S2X259",
+                "mab_class": "",
+                "fold": "1.1",
+                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -295,6 +372,13 @@
                 "mab_class": "",
                 "fold": "1",
                 "reference": "Chen21*[^Chen21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Tixagevimab",
+                "mab_class": "",
+                "fold": "0.9",
+                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -323,13 +407,6 @@
                 "mab_class": "",
                 "fold": "0.3",
                 "reference": "Wang21b*[^Wang21b]"
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "Vir-7831/S2E12",
-                "mab_class": "",
-                "fold": "0.7",
-                "reference": "Chen21*[^Chen21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -454,6 +531,13 @@
                 "variant": "B.1.1.7",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
+                "fold": "0.8",
+                "reference": "Tada21b[^Tada21b]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
                 "fold": "0.7",
                 "reference": "Tada21c[^Tada21c]"
             },
@@ -475,8 +559,22 @@
                 "variant": "B.1.1.7",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
+                "fold": "0.3",
+                "reference": "Wang21e[^Wang21e]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
                 "fold": "0.4",
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1",
+                "reference": "Yao21[^Yao21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -510,8 +608,22 @@
                 "variant": "B.1.1.7",
                 "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
+                "fold": "2.8",
+                "reference": "Chen21[^Chen21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Vir-7831",
+                "mab_class": "RBD Core Cluster I",
                 "fold": "2.3",
                 "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Vir-7831",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "2.2",
+                "reference": "Shen21[^Shen21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -599,10 +711,24 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "DH1047",
+                "mab_class": "RBD Core Cluster II",
+                "fold": "0.4",
+                "reference": "Shen21[^Shen21]"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "XAV-19",
                 "mab_class": "RBM",
                 "fold": "1",
                 "reference": "Vanhove21*[^Vanhove21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "B38",
+                "mab_class": "RBM Class I",
+                "fold": "1.2",
+                "reference": "Shen21[^Shen21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -671,6 +797,13 @@
                 "variant": "B.1.1.7",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
+                "fold": "1.1",
+                "reference": "Tada21b[^Tada21b]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
                 "fold": "1.3",
                 "reference": "Tada21c[^Tada21c]"
             },
@@ -694,6 +827,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "0.6",
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "1",
+                "reference": "Yao21[^Yao21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -734,8 +874,29 @@
                 "variant": "B.1.1.7",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
+                "fold": "3.2",
+                "reference": "Wang21e[^Wang21e]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
                 "fold": "4.9",
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "10",
+                "reference": "Yao21[^Yao21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "49",
+                "reference": "Zhang21c[^Zhang21c]"
             },
             {
                 "variant": "B.1.1.7",
@@ -764,6 +925,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "1.4",
                 "reference": "Lee21*[^Lee21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "S2E12",
+                "mab_class": "RBM Class I",
+                "fold": "0.8",
+                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "B.1.1.7",
@@ -811,6 +979,13 @@
                 "variant": "B.1.1.7",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
+                "fold": "1",
+                "reference": "Makdasi21[^Makdasi21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
                 "fold": "0.6",
                 "reference": "Wang21b[^Wang21b]"
             },
@@ -826,6 +1001,13 @@
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
                 "fold": "0.6",
+                "reference": "Wang21e[^Wang21e]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "1.8",
                 "reference": "Wang21e[^Wang21e]"
             },
             {
@@ -882,6 +1064,13 @@
                 "rx": "P2B-2F6",
                 "mab_class": "RBM Class II",
                 "fold": "1.1",
+                "reference": "Shen21[^Shen21]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "P2B-2F6",
+                "mab_class": "RBM Class II",
+                "fold": "0.5",
                 "reference": "Shen21[^Shen21]"
             },
             {
@@ -1010,17 +1199,17 @@
             },
             {
                 "variant": "B.1.351",
-                "rx": "Bamlanivimab + Etesevimab",
+                "rx": "Bamlanivimab/Etesevimab",
                 "mab_class": "",
-                "fold": "&gt;100",
-                "reference": "Hoffmann21c[^Hoffmann21c]"
+                "fold": "45",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "B.1.351",
                 "rx": "Bamlanivimab/Etesevimab",
                 "mab_class": "",
-                "fold": "45",
-                "reference": "FDA21[^FDA21]"
+                "fold": "&gt;100",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
             },
             {
                 "variant": "B.1.351",
@@ -1056,6 +1245,27 @@
                 "mab_class": "",
                 "fold": "1",
                 "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "Hoffmann21[^Hoffmann21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "Hoffmann21c[^Hoffmann21c]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "2.6",
+                "reference": "Tada21c[^Tada21c]"
             },
             {
                 "variant": "B.1.351",
@@ -1129,10 +1339,10 @@
             },
             {
                 "variant": "B.1.351",
-                "rx": "LY3853113",
+                "rx": "JMB2002",
                 "mab_class": "",
-                "fold": "0.7",
-                "reference": "Westendorf21[^Westendorf21]"
+                "fold": "2.8",
+                "reference": "Gu21[^Gu21]"
             },
             {
                 "variant": "B.1.351",
@@ -1143,24 +1353,10 @@
             },
             {
                 "variant": "B.1.351",
-                "rx": "REGN-COV",
+                "rx": "S2E12/Sotrovimab",
                 "mab_class": "",
-                "fold": "1",
-                "reference": "Hoffmann21c[^Hoffmann21c]"
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "REGN-COV2",
-                "mab_class": "",
-                "fold": "1",
-                "reference": "Hoffmann21[^Hoffmann21]"
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "REGN-COV2",
-                "mab_class": "",
-                "fold": "2.6",
-                "reference": "Tada21c[^Tada21c]"
+                "fold": "0.6",
+                "reference": "Chen21*[^Chen21]"
             },
             {
                 "variant": "B.1.351",
@@ -1196,13 +1392,6 @@
                 "mab_class": "",
                 "fold": "8.9",
                 "reference": "Zhou21b*[^Zhou21b]"
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "Vir-7831/S2E12",
-                "mab_class": "",
-                "fold": "0.6",
-                "reference": "Chen21*[^Chen21]"
             },
             {
                 "variant": "B.1.351",
@@ -1369,6 +1558,13 @@
                 "variant": "B.1.351",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
+                "fold": "0.3",
+                "reference": "Wang21e[^Wang21e]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
                 "fold": "0.5",
                 "reference": "Wang21f[^Wang21f]"
             },
@@ -1399,6 +1595,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.6",
                 "reference": "Cathcart21[^Cathcart21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Vir-7831",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.6",
+                "reference": "FDA21[^FDA21]"
             },
             {
                 "variant": "B.1.351",
@@ -1465,10 +1668,45 @@
             },
             {
                 "variant": "B.1.351",
+                "rx": "H014",
+                "mab_class": "RBD Core Cluster II",
+                "fold": "1.9",
+                "reference": "Li21c[^Li21c]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "H014",
+                "mab_class": "RBD Core Cluster II",
+                "fold": "0.3",
+                "reference": "Li21c[^Li21c]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "H014",
+                "mab_class": "RBD Core Cluster II",
+                "fold": "1",
+                "reference": "Li21c[^Li21c]"
+            },
+            {
+                "variant": "B.1.351",
                 "rx": "XAV-19",
                 "mab_class": "RBM",
                 "fold": "2",
                 "reference": "Vanhove21*[^Vanhove21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BRII-196",
+                "mab_class": "RBM Class I",
+                "fold": "1.5",
+                "reference": "Li21c[^Li21c]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BRII-196",
+                "mab_class": "RBM Class I",
+                "fold": "1",
+                "reference": "Li21c[^Li21c]"
             },
             {
                 "variant": "B.1.351",
@@ -1490,6 +1728,20 @@
                 "mab_class": "RBM Class I",
                 "fold": "0.5",
                 "reference": "Wang21b*[^Wang21b]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CV30",
+                "mab_class": "RBM Class I",
+                "fold": "24",
+                "reference": "Stamatatos21[^Stamatatos21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CV30",
+                "mab_class": "RBM Class I",
+                "fold": "15",
+                "reference": "Stamatatos21[^Stamatatos21]"
             },
             {
                 "variant": "B.1.351",
@@ -1593,6 +1845,13 @@
                 "variant": "B.1.351",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
+                "fold": "70",
+                "reference": "Zhang21c[^Zhang21c]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
                 "fold": "&gt;100",
                 "reference": "Planas21b*[^Planas21b]"
             },
@@ -1650,7 +1909,7 @@
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
-                "reference": "Wang21b[^Wang21b]"
+                "reference": "Makdasi21[^Makdasi21]"
             },
             {
                 "variant": "B.1.351",
@@ -1707,6 +1966,27 @@
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
                 "reference": "Wang21b*[^Wang21b]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "P2B-2F6",
+                "mab_class": "RBM Class II",
+                "fold": "23",
+                "reference": "Li21c[^Li21c]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "P2B-2F6",
+                "mab_class": "RBM Class II",
+                "fold": "29",
+                "reference": "Li21c[^Li21c]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "P2B-2F6",
+                "mab_class": "RBM Class II",
+                "fold": "53",
+                "reference": "Li21c[^Li21c]"
             },
             {
                 "variant": "B.1.351",
@@ -1881,9 +2161,23 @@
             },
             {
                 "variant": "B.1.526",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "0.8",
+                "reference": "Zhou21c[^Zhou21c]"
+            },
+            {
+                "variant": "B.1.526",
                 "rx": "LY3853113",
                 "mab_class": "",
                 "fold": "0.7",
+                "reference": "Westendorf21[^Westendorf21]"
+            },
+            {
+                "variant": "B.1.526",
+                "rx": "LY3853113",
+                "mab_class": "",
+                "fold": "0.4",
                 "reference": "Westendorf21[^Westendorf21]"
             },
             {
@@ -1895,10 +2189,24 @@
             },
             {
                 "variant": "B.1.526",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1",
+                "reference": "Zhou21c[^Zhou21c]"
+            },
+            {
+                "variant": "B.1.526",
                 "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.6",
                 "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "B.1.526",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.2",
+                "reference": "Zhou21c[^Zhou21c]"
             },
             {
                 "variant": "B.1.526",
@@ -1916,6 +2224,13 @@
             },
             {
                 "variant": "B.1.526",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "2.9",
+                "reference": "Zhang21c[^Zhang21c]"
+            },
+            {
+                "variant": "B.1.526",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
@@ -1924,56 +2239,103 @@
         ]
     },
     {
-        "variant": "B.1.617",
+        "variant": "B.1.617.1",
         "assays": [
             {
-                "variant": "B.1.617",
-                "rx": "Bamlanivimab + Etesevimab",
+                "variant": "B.1.617.1",
+                "rx": "Bamlanivimab/Etesevimab",
                 "mab_class": "",
                 "fold": "5",
                 "reference": "Hoffmann21c[^Hoffmann21c]"
             },
             {
-                "variant": "B.1.617",
-                "rx": "REGN-COV",
+                "variant": "B.1.617.1",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "B.1.617.1",
+                "rx": "Casirivimab/Imdevimab",
                 "mab_class": "",
                 "fold": "1",
                 "reference": "Hoffmann21c[^Hoffmann21c]"
             },
             {
-                "variant": "B.1.617",
+                "variant": "B.1.617.1",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1",
                 "reference": "Hoffmann21c[^Hoffmann21c]"
             },
             {
-                "variant": "B.1.617",
+                "variant": "B.1.617.1",
                 "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.7",
                 "reference": "FDA21[^FDA21]"
             },
             {
-                "variant": "B.1.617",
+                "variant": "B.1.617.1",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
                 "fold": "4.1",
                 "reference": "Hoffmann21c[^Hoffmann21c]"
             },
             {
-                "variant": "B.1.617",
+                "variant": "B.1.617.1",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
                 "fold": "0.8",
                 "reference": "Hoffmann21c[^Hoffmann21c]"
             },
             {
-                "variant": "B.1.617",
+                "variant": "B.1.617.1",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
                 "reference": "Hoffmann21c[^Hoffmann21c]"
+            }
+        ]
+    },
+    {
+        "variant": "B.1.617.2",
+        "assays": [
+            {
+                "variant": "B.1.617.2",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1",
+                "reference": "Planas21b[^Planas21b]"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "1",
+                "reference": "Planas21b[^Planas21b]"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "1",
+                "reference": "Planas21b[^Planas21b]"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Planas21b[^Planas21b]"
             }
         ]
     },
@@ -2031,6 +2393,13 @@
             },
             {
                 "variant": "P.1",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "Hoffmann21[^Hoffmann21]"
+            },
+            {
+                "variant": "P.1",
                 "rx": "Cilgavimab",
                 "mab_class": "",
                 "fold": "0.4",
@@ -2070,13 +2439,6 @@
                 "mab_class": "",
                 "fold": "0.9",
                 "reference": "Westendorf21[^Westendorf21]"
-            },
-            {
-                "variant": "P.1",
-                "rx": "REGN-COV2",
-                "mab_class": "",
-                "fold": "1",
-                "reference": "Hoffmann21[^Hoffmann21]"
             },
             {
                 "variant": "P.1",

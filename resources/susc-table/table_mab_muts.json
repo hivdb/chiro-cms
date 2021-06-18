@@ -104,6 +104,13 @@
                 "variant": "E484K",
                 "rx": "Casirivimab/Imdevimab",
                 "mab_class": "",
+                "fold": "0.5",
+                "reference": "Tada21c[^Tada21c]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
                 "fold": "1.5",
                 "reference": "Wang21[^Wang21]"
             },
@@ -158,6 +165,13 @@
             },
             {
                 "variant": "E484K",
+                "rx": "Imdevimab/REGN10989",
+                "mab_class": "",
+                "fold": "15",
+                "reference": "Baum20[^Baum20]"
+            },
+            {
+                "variant": "E484K",
                 "rx": "LY3853113",
                 "mab_class": "",
                 "fold": "0.6",
@@ -165,17 +179,10 @@
             },
             {
                 "variant": "E484K",
-                "rx": "REGN-COV2",
+                "rx": "S2E12/Sotrovimab",
                 "mab_class": "",
-                "fold": "0.5",
-                "reference": "Tada21c[^Tada21c]"
-            },
-            {
-                "variant": "E484K",
-                "rx": "REGN10989/Imdevimab",
-                "mab_class": "",
-                "fold": "15",
-                "reference": "Baum20[^Baum20]"
+                "fold": "6.9",
+                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "E484K",
@@ -211,13 +218,6 @@
                 "mab_class": "",
                 "fold": "11",
                 "reference": "Wang21[^Wang21]"
-            },
-            {
-                "variant": "E484K",
-                "rx": "Vir-7831/S2E12",
-                "mab_class": "",
-                "fold": "6.9",
-                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "E484K",
@@ -702,6 +702,13 @@
             },
             {
                 "variant": "E484K + N501Y",
+                "rx": "S2E12/Sotrovimab",
+                "mab_class": "",
+                "fold": "11",
+                "reference": "Chen21[^Chen21]"
+            },
+            {
+                "variant": "E484K + N501Y",
                 "rx": "S2X259",
                 "mab_class": "",
                 "fold": "2.2",
@@ -712,13 +719,6 @@
                 "rx": "Tixagevimab",
                 "mab_class": "",
                 "fold": "12",
-                "reference": "Chen21[^Chen21]"
-            },
-            {
-                "variant": "E484K + N501Y",
-                "rx": "Vir-7831/S2E12",
-                "mab_class": "",
-                "fold": "11",
                 "reference": "Chen21[^Chen21]"
             },
             {
@@ -777,16 +777,16 @@
             },
             {
                 "variant": "F490S",
-                "rx": "REGN10989/10934",
+                "rx": "Imdevimab/REGN10989",
                 "mab_class": "",
-                "fold": "51",
+                "fold": "5.4",
                 "reference": "Baum20[^Baum20]"
             },
             {
                 "variant": "F490S",
-                "rx": "REGN10989/Imdevimab",
+                "rx": "REGN10934/REGN10989",
                 "mab_class": "",
-                "fold": "5.4",
+                "fold": "51",
                 "reference": "Baum20[^Baum20]"
             },
             {
@@ -1041,6 +1041,13 @@
             },
             {
                 "variant": "K417N",
+                "rx": "S2E12/Sotrovimab",
+                "mab_class": "",
+                "fold": "0.2",
+                "reference": "Chen21[^Chen21]"
+            },
+            {
+                "variant": "K417N",
                 "rx": "S2X259",
                 "mab_class": "",
                 "fold": "0.9",
@@ -1066,13 +1073,6 @@
                 "mab_class": "",
                 "fold": "0.4",
                 "reference": "Wang21b[^Wang21b]"
-            },
-            {
-                "variant": "K417N",
-                "rx": "Vir-7831/S2E12",
-                "mab_class": "",
-                "fold": "0.2",
-                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "K417N",
@@ -1480,6 +1480,13 @@
             },
             {
                 "variant": "K417N + E484K + N501Y",
+                "rx": "S2E12/Sotrovimab",
+                "mab_class": "",
+                "fold": "0.9",
+                "reference": "Chen21[^Chen21]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
                 "rx": "S2H97",
                 "mab_class": "",
                 "fold": "0.5",
@@ -1512,13 +1519,6 @@
                 "mab_class": "",
                 "fold": "4",
                 "reference": "Wang21[^Wang21]"
-            },
-            {
-                "variant": "K417N + E484K + N501Y",
-                "rx": "Vir-7831/S2E12",
-                "mab_class": "",
-                "fold": "0.9",
-                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -1751,6 +1751,13 @@
             },
             {
                 "variant": "L452R",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "4",
+                "reference": "Tada21c[^Tada21c]"
+            },
+            {
+                "variant": "L452R",
                 "rx": "H4",
                 "mab_class": "",
                 "fold": "3.1",
@@ -1769,13 +1776,6 @@
                 "mab_class": "",
                 "fold": "0.7",
                 "reference": "Westendorf21[^Westendorf21]"
-            },
-            {
-                "variant": "L452R",
-                "rx": "REGN-COV2",
-                "mab_class": "",
-                "fold": "4",
-                "reference": "Tada21c[^Tada21c]"
             },
             {
                 "variant": "L452R",
@@ -2398,6 +2398,13 @@
             },
             {
                 "variant": "N501Y",
+                "rx": "S2E12/Sotrovimab",
+                "mab_class": "",
+                "fold": "1.9",
+                "reference": "Chen21[^Chen21]"
+            },
+            {
+                "variant": "N501Y",
                 "rx": "S2X259",
                 "mab_class": "",
                 "fold": "1",
@@ -2423,13 +2430,6 @@
                 "mab_class": "",
                 "fold": "1.7",
                 "reference": "Wang21b[^Wang21b]"
-            },
-            {
-                "variant": "N501Y",
-                "rx": "Vir-7831/S2E12",
-                "mab_class": "",
-                "fold": "1.9",
-                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "N501Y",
@@ -3045,6 +3045,13 @@
             },
             {
                 "variant": "Y453F",
+                "rx": "Imdevimab/REGN10989",
+                "mab_class": "",
+                "fold": "2",
+                "reference": "Baum20[^Baum20]"
+            },
+            {
+                "variant": "Y453F",
                 "rx": "LY3853113",
                 "mab_class": "",
                 "fold": "0.6",
@@ -3059,16 +3066,9 @@
             },
             {
                 "variant": "Y453F",
-                "rx": "REGN10989/10934",
+                "rx": "REGN10934/REGN10989",
                 "mab_class": "",
                 "fold": "4.3",
-                "reference": "Baum20[^Baum20]"
-            },
-            {
-                "variant": "Y453F",
-                "rx": "REGN10989/Imdevimab",
-                "mab_class": "",
-                "fold": "2",
                 "reference": "Baum20[^Baum20]"
             },
             {
@@ -3844,6 +3844,13 @@
             },
             {
                 "variant": "∆69/70 + N501Y",
+                "rx": "S2E12/Sotrovimab",
+                "mab_class": "",
+                "fold": "1.1",
+                "reference": "Chen21[^Chen21]"
+            },
+            {
+                "variant": "∆69/70 + N501Y",
                 "rx": "S2X259",
                 "mab_class": "",
                 "fold": "1.1",
@@ -3854,13 +3861,6 @@
                 "rx": "Tixagevimab",
                 "mab_class": "",
                 "fold": "0.9",
-                "reference": "Chen21[^Chen21]"
-            },
-            {
-                "variant": "∆69/70 + N501Y",
-                "rx": "Vir-7831/S2E12",
-                "mab_class": "",
-                "fold": "1.1",
                 "reference": "Chen21[^Chen21]"
             },
             {
