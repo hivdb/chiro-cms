@@ -410,6 +410,27 @@
             },
             {
                 "variant": "E484K",
+                "rx": "P22A-1D1",
+                "mab_class": "RBM",
+                "fold": "1.7",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "P5A-1D2",
+                "mab_class": "RBM",
+                "fold": "1.6",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "P5A-3C8",
+                "mab_class": "RBM",
+                "fold": "1",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "E484K",
                 "rx": "BRII-196",
                 "mab_class": "RBM Class I",
                 "fold": "1.2",
@@ -1213,6 +1234,13 @@
                 "mab_class": "RBD Core Cluster II",
                 "fold": "1.5",
                 "reference": "Li21c[^Li21c]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "P5A-3C8",
+                "mab_class": "RBM",
+                "fold": "25",
+                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "K417N",
@@ -2071,6 +2099,27 @@
             },
             {
                 "variant": "N439K",
+                "rx": "P22A-1D1",
+                "mab_class": "RBM",
+                "fold": "1",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "N439K",
+                "rx": "P5A-1D2",
+                "mab_class": "RBM",
+                "fold": "0.9",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "N439K",
+                "rx": "P5A-3C8",
+                "mab_class": "RBM",
+                "fold": "0.7",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "N439K",
                 "rx": "B38",
                 "mab_class": "RBM Class I",
                 "fold": "1.9",
@@ -2615,6 +2664,27 @@
             },
             {
                 "variant": "N501Y",
+                "rx": "P22A-1D1",
+                "mab_class": "RBM",
+                "fold": "7.1",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "P5A-1D2",
+                "mab_class": "RBM",
+                "fold": "1.2",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "P5A-3C8",
+                "mab_class": "RBM",
+                "fold": "1.8",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "N501Y",
                 "rx": "B38",
                 "mab_class": "RBM Class I",
                 "fold": "2.2",
@@ -2928,6 +2998,27 @@
             },
             {
                 "variant": "S494P",
+                "rx": "P22A-1D1",
+                "mab_class": "RBM",
+                "fold": "0.7",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "S494P",
+                "rx": "P5A-1D2",
+                "mab_class": "RBM",
+                "fold": "1.5",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "S494P",
+                "rx": "P5A-3C8",
+                "mab_class": "RBM",
+                "fold": "0.7",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "S494P",
                 "rx": "BRII-196",
                 "mab_class": "RBM Class I",
                 "fold": "0.7",
@@ -3125,6 +3216,27 @@
                 "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.1",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "Y453F",
+                "rx": "P22A-1D1",
+                "mab_class": "RBM",
+                "fold": "5",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "Y453F",
+                "rx": "P5A-1D2",
+                "mab_class": "RBM",
+                "fold": "4.1",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "Y453F",
+                "rx": "P5A-3C8",
+                "mab_class": "RBM",
+                "fold": "0.8",
                 "reference": "Wang21f[^Wang21f]"
             },
             {
@@ -3407,6 +3519,27 @@
             },
             {
                 "variant": "∆144",
+                "rx": "P22A-1D1",
+                "mab_class": "RBM",
+                "fold": "0.7",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "∆144",
+                "rx": "P5A-1D2",
+                "mab_class": "RBM",
+                "fold": "1",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "∆144",
+                "rx": "P5A-3C8",
+                "mab_class": "RBM",
+                "fold": "0.8",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "∆144",
                 "rx": "BRII-196",
                 "mab_class": "RBM Class I",
                 "fold": "0.8",
@@ -3661,6 +3794,27 @@
                 "mab_class": "RBD Core Cluster II",
                 "fold": "0.9",
                 "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "P22A-1D1",
+                "mab_class": "RBM",
+                "fold": "0.8",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "P5A-1D2",
+                "mab_class": "RBM",
+                "fold": "1",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "P5A-3C8",
+                "mab_class": "RBM",
+                "fold": "1.1",
+                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "∆69/70",

@@ -282,6 +282,17 @@
         "variant": "B.1.617.2",
         "vaccine": [
             {
+                "name": "AZD1222",
+                "vp_studies": 1,
+                "vp_samples": 25,
+                "vp_s_fold": "64%",
+                "vp_i_fold": "32%",
+                "vp_r_fold": "4%",
+                "vp_num_s_fold": 16,
+                "vp_num_i_fold": 8,
+                "vp_num_r_fold": 1
+            },
+            {
                 "name": "BBV152",
                 "vp_studies": 1,
                 "vp_samples": 28,
@@ -294,14 +305,14 @@
             },
             {
                 "name": "BNT162b2",
-                "vp_studies": 4,
-                "vp_samples": 65,
-                "vp_s_fold": "40%",
-                "vp_i_fold": "58%",
+                "vp_studies": 5,
+                "vp_samples": 90,
+                "vp_s_fold": "46%",
+                "vp_i_fold": "52%",
                 "vp_r_fold": "2%",
-                "vp_num_s_fold": 26,
-                "vp_num_i_fold": 38,
-                "vp_num_r_fold": 1
+                "vp_num_s_fold": 41,
+                "vp_num_i_fold": 47,
+                "vp_num_r_fold": 2
             },
             {
                 "name": "mRNA-1273",
@@ -386,14 +397,14 @@
         "vaccine": [
             {
                 "name": "AZD1222",
-                "vp_studies": 1,
-                "vp_samples": 12,
-                "vp_s_fold": 0,
-                "vp_i_fold": 0,
-                "vp_r_fold": "100%",
-                "vp_num_s_fold": 0,
-                "vp_num_i_fold": 0,
-                "vp_num_r_fold": 12
+                "vp_studies": 2,
+                "vp_samples": 37,
+                "vp_s_fold": "22%",
+                "vp_i_fold": "38%",
+                "vp_r_fold": "40%",
+                "vp_num_s_fold": 8,
+                "vp_num_i_fold": 14,
+                "vp_num_r_fold": 15
             },
             {
                 "name": "BBV152",
@@ -408,13 +419,13 @@
             },
             {
                 "name": "BNT162b2",
-                "vp_studies": 2,
-                "vp_samples": 56,
-                "vp_s_fold": "98%",
-                "vp_i_fold": "2%",
+                "vp_studies": 3,
+                "vp_samples": 81,
+                "vp_s_fold": "86%",
+                "vp_i_fold": "14%",
                 "vp_r_fold": 0,
-                "vp_num_s_fold": 55,
-                "vp_num_i_fold": 1,
+                "vp_num_s_fold": 70,
+                "vp_num_i_fold": 11,
                 "vp_num_r_fold": 0
             }
         ]

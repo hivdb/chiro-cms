@@ -866,6 +866,14 @@
   assays:
   - variant: B.1.617.1
     rx: CP
+    samples: 34
+    s_fold: 23
+    i_fold: 10
+    r_fold: 1
+    reference: Liu21f[^Liu21f]
+    median: '2.3'
+  - variant: B.1.617.1
+    rx: CP
     samples: 20
     s_fold: 15
     i_fold: 2
@@ -906,6 +914,14 @@
     r_fold: 0
     reference: Hoffmann21c[^Hoffmann21c]
     median: '2.1'
+  - variant: B.1.617.2
+    rx: CP
+    samples: 30
+    s_fold: 10
+    i_fold: 18
+    r_fold: 2
+    reference: Liu21f[^Liu21f]
+    median: '3.8'
 - variant: P.1
   assays:
   - variant: P.1

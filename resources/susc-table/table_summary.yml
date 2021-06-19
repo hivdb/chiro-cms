@@ -2,17 +2,17 @@
   cp: 221
   vp: 125
   phase3: 58
-  structure: 32
+  structure: 35
 - variant: E484K
   cp: 179
   vp: 94
   phase3: 71
-  structure: 26
+  structure: 30
 - variant: K417N
   cp: 131
   vp: 77
   phase3: 45
-  structure: 26
+  structure: 27
 - variant: K417T
   cp: 29
   vp: 0
@@ -22,27 +22,27 @@
   cp: 42
   vp: 25
   phase3: 21
-  structure: 6
+  structure: 7
 - variant: Other individual mutations
   cp: 737
-  vp: 556
+  vp: 605
   phase3: 785
-  structure: 589
+  structure: 665
 - variant: All individual mutations
   cp: 1154
-  vp: 851
+  vp: 900
   phase3: 959
-  structure: 671
+  structure: 756
 - variant: B.1.1.7
   cp: 901
   vp: 1087
   phase3: 103
-  structure: 58
+  structure: 61
 - variant: B.1.351
   cp: 965
   vp: 1039
   phase3: 94
-  structure: 42
+  structure: 44
 - variant: P.1
   cp: 265
   vp: 277
@@ -59,12 +59,12 @@
   phase3: 12
   structure: 2
 - variant: Other combinations of mutations
-  cp: 1193
-  vp: 855
-  phase3: 227
-  structure: 198
+  cp: 1257
+  vp: 955
+  phase3: 251
+  structure: 206
 - variant: All combinations of mutations
-  cp: 3558
-  vp: 3587
-  phase3: 496
-  structure: 323
+  cp: 3622
+  vp: 3687
+  phase3: 520
+  structure: 336

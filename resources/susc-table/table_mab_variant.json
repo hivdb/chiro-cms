@@ -718,6 +718,27 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "P22A-1D1",
+                "mab_class": "RBM",
+                "fold": "14",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "P5A-1D2",
+                "mab_class": "RBM",
+                "fold": "3.3",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "P5A-3C8",
+                "mab_class": "RBM",
+                "fold": "2.2",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "XAV-19",
                 "mab_class": "RBM",
                 "fold": "1",
@@ -1476,6 +1497,20 @@
                 "mab_class": "NTD",
                 "fold": "&gt;100",
                 "reference": "McCallum21[^McCallum21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CV2-75",
+                "mab_class": "RBD Core",
+                "fold": "2.4",
+                "reference": "Stamatatos21[^Stamatatos21]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CV2-75",
+                "mab_class": "RBD Core",
+                "fold": "1.5",
+                "reference": "Stamatatos21[^Stamatatos21]"
             },
             {
                 "variant": "B.1.351",
@@ -2243,6 +2278,13 @@
         "assays": [
             {
                 "variant": "B.1.617.1",
+                "rx": "ADG20",
+                "mab_class": "",
+                "fold": "2.5",
+                "reference": "Liu21f[^Liu21f]"
+            },
+            {
+                "variant": "B.1.617.1",
                 "rx": "Bamlanivimab/Etesevimab",
                 "mab_class": "",
                 "fold": "5",
@@ -2264,10 +2306,38 @@
             },
             {
                 "variant": "B.1.617.1",
+                "rx": "Cilgavimab",
+                "mab_class": "",
+                "fold": "5.1",
+                "reference": "Liu21f[^Liu21f]"
+            },
+            {
+                "variant": "B.1.617.1",
+                "rx": "Cilgavimab/Tixagevimab",
+                "mab_class": "",
+                "fold": "2",
+                "reference": "Liu21f[^Liu21f]"
+            },
+            {
+                "variant": "B.1.617.1",
+                "rx": "Tixagevimab",
+                "mab_class": "",
+                "fold": "0.7",
+                "reference": "Liu21f[^Liu21f]"
+            },
+            {
+                "variant": "B.1.617.1",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1",
                 "reference": "Hoffmann21c[^Hoffmann21c]"
+            },
+            {
+                "variant": "B.1.617.1",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1.5",
+                "reference": "Liu21f[^Liu21f]"
             },
             {
                 "variant": "B.1.617.1",
@@ -2285,6 +2355,13 @@
             },
             {
                 "variant": "B.1.617.1",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "5",
+                "reference": "Liu21f[^Liu21f]"
+            },
+            {
+                "variant": "B.1.617.1",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
                 "fold": "0.8",
@@ -2292,10 +2369,24 @@
             },
             {
                 "variant": "B.1.617.1",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.4",
+                "reference": "Liu21f[^Liu21f]"
+            },
+            {
+                "variant": "B.1.617.1",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
                 "reference": "Hoffmann21c[^Hoffmann21c]"
+            },
+            {
+                "variant": "B.1.617.1",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Liu21f[^Liu21f]"
             }
         ]
     },
@@ -2304,10 +2395,45 @@
         "assays": [
             {
                 "variant": "B.1.617.2",
+                "rx": "ADG20",
+                "mab_class": "",
+                "fold": "1.4",
+                "reference": "Liu21f[^Liu21f]"
+            },
+            {
+                "variant": "B.1.617.2",
                 "rx": "Casirivimab/Imdevimab",
                 "mab_class": "",
                 "fold": "1",
                 "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "Cilgavimab",
+                "mab_class": "",
+                "fold": "2.9",
+                "reference": "Liu21f[^Liu21f]"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "Cilgavimab/Tixagevimab",
+                "mab_class": "",
+                "fold": "0.6",
+                "reference": "Liu21f[^Liu21f]"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "Tixagevimab",
+                "mab_class": "",
+                "fold": "0.5",
+                "reference": "Liu21f[^Liu21f]"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.5",
+                "reference": "Liu21f[^Liu21f]"
             },
             {
                 "variant": "B.1.617.2",
@@ -2320,6 +2446,13 @@
                 "variant": "B.1.617.2",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
+                "fold": "0.6",
+                "reference": "Liu21f[^Liu21f]"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
                 "fold": "1",
                 "reference": "Planas21b[^Planas21b]"
             },
@@ -2327,8 +2460,22 @@
                 "variant": "B.1.617.2",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
+                "fold": "0.4",
+                "reference": "Liu21f[^Liu21f]"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
                 "fold": "1",
                 "reference": "Planas21b[^Planas21b]"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Liu21f[^Liu21f]"
             },
             {
                 "variant": "B.1.617.2",
