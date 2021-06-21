@@ -51,11 +51,11 @@ mutationPrefills:
   _resource: sierra-sars2/mutation-prefills.yml
 seqReadsDefaultParams:
   strain: SARS2
-  maxMixturePcnt: 0.0005 # ≤0.05%
+  maxMixtureRate: 0.0005 # ≤0.05%
   minPrevalence: 0.1  # ≥10%
   minCodonReads: 10
   minPositionReads: 1
-seqReadsMaxMixturePcnt:
+seqReadsMaxMixtureRate:
   - value: 0.0
     label: only cons
   - value: 0.0001
