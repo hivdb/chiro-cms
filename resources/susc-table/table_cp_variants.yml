@@ -866,47 +866,13 @@
   assays:
   - variant: B.1.617.1
     rx: CP
-    samples: 34
-    s_fold: 23
-    i_fold: 10
-    r_fold: 1
-    reference: Liu21f[^Liu21f]
-    median: '2.3'
-  - variant: B.1.617.1
-    rx: CP
-    samples: 20
-    s_fold: 15
-    i_fold: 2
-    r_fold: 3
-    reference: Yadav21b[^Yadav21b]
-    median: '1.6'
-  - variant: B.1.617.1
-    rx: CP_M12
-    samples: 26
-    s_fold: 0
-    i_fold: 0
-    r_fold: 26
-    reference: Planas21b[^Planas21b]
-    median: 40.6
-  - variant: B.1.617.1
-    rx: CP_M6
-    samples: 25
-    s_fold: 0
-    i_fold: 25
-    r_fold: 0
-    reference: Planas21b[^Planas21b]
-    median: 5.5
-- variant: B.1.617.2
-  assays:
-  - variant: B.1.617.2
-    rx: CP
     samples: 21
     s_fold: 3
     i_fold: 13
     r_fold: 5
     reference: Edara21c[^Edara21c]
     median: '6.7'
-  - variant: B.1.617.2
+  - variant: B.1.617.1
     rx: CP
     samples: 15
     s_fold: 14
@@ -914,7 +880,7 @@
     r_fold: 0
     reference: Hoffmann21c[^Hoffmann21c]
     median: '2.1'
-  - variant: B.1.617.2
+  - variant: B.1.617.1
     rx: CP
     samples: 30
     s_fold: 10
@@ -922,6 +888,40 @@
     r_fold: 2
     reference: Liu21f[^Liu21f]
     median: '3.8'
+- variant: B.1.617.2
+  assays:
+  - variant: B.1.617.2
+    rx: CP
+    samples: 34
+    s_fold: 23
+    i_fold: 10
+    r_fold: 1
+    reference: Liu21f[^Liu21f]
+    median: '2.3'
+  - variant: B.1.617.2
+    rx: CP
+    samples: 20
+    s_fold: 15
+    i_fold: 2
+    r_fold: 3
+    reference: Yadav21b[^Yadav21b]
+    median: '1.6'
+  - variant: B.1.617.2
+    rx: CP_M12
+    samples: 26
+    s_fold: 0
+    i_fold: 0
+    r_fold: 26
+    reference: Planas21b[^Planas21b]
+    median: 40.6
+  - variant: B.1.617.2
+    rx: CP_M6
+    samples: 25
+    s_fold: 0
+    i_fold: 25
+    r_fold: 0
+    reference: Planas21b[^Planas21b]
+    median: 5.5
 - variant: P.1
   assays:
   - variant: P.1
