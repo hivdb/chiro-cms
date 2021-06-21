@@ -794,3 +794,13 @@ focosi21b
 </div>
 
 </section>
+
+<div style="text-align: center;">
+
+[![Creative Commons
+License](CC-BY-SA_icon.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+</div>
