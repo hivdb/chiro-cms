@@ -22,6 +22,18 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Jun 22)
+Horby PW, Mafham M, et int., and Landray MJ. [“Casirivimab and imdevimab in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial.”](/search/?article=Horby21) _medRxiv_, 2021. [doi.org/10.1101/2021.06.15.21258542](https://doi.org/10.1101/2021.06.15.21258542).
+### Database Entries (Jun 22)
+Liu C, Ginn HM, et int., and Screaton GR. [“Reduced neutralization of SARS-CoV-2 B.1.617 by vaccine and convalescent serum.”](/search-drdb/?article=Liu21f) _Cell_, 2021. [doi.org/10.1016/j.cell.2021.06.020](https://doi.org/10.1016/j.cell.2021.06.020).
+### Database Entries (Jun 22)
+O’Brien MP, Forleo-Neto E, et int., and Weinreich DM. [“Subcutaneous REGEN-COV Antibody Combination in Early SARS-CoV-2 Infection.”](/search/?article=Obrien21) _medRxiv_, 2021. [doi.org/10.1101/2021.06.14.21258569](https://doi.org/10.1101/2021.06.14.21258569).
+### Database Entries (Jun 22)
+Walser M, Rothenberger S, et int., and Amstutz P. [“Highly potent anti-SARS-CoV-2 multi-DARPin therapeutic candidates.”](/search/?article=Walser20) _bioRxiv_, 2020. [doi.org/10.1101/2020.08.25.256339](https://doi.org/10.1101/2020.08.25.256339).
+### Database Entries (Jun 22)
+Zou J, Xie X, et int., and Shi P. [“The effect of SARS-CoV-2 D614G mutation on BNT162b2 vaccine-elicited neutralization.”](/search-drdb/?article=Zou21) _npj Vaccines_, 2021. [doi.org/10.1038/s41541-021-00313-8](https://doi.org/10.1038/s41541-021-00313-8). \[[PubMed33767200](https://www.ncbi.nlm.nih.gov/pubmed/33767200/)\] \[[PMC7994717](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7994717/)\]
+### Database Entries (Jun 15)
+Hirotsu Y, and Omata M. [“Detection of R.1 lineage severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) with spike protein W152L/E484K/G769V mutations in Japan.”](/search-drdb/?article=Hirotsu21) _PLOS Pathogens_, 2021. [doi.org/10.1371/journal.ppat.1009619](https://doi.org/10.1371/journal.ppat.1009619). \[[PubMed34097716](https://www.ncbi.nlm.nih.gov/pubmed/34097716/)\]
 ### Database Entries (Jun 12)
 Varona JF, Landete P, et int., and García-Sastre A. [“Plitidepsin has a positive therapeutic index in adult patients with COVID-19 requiring hospitalization.”](/search/?article=Varona21) _medRxiv_, 2021. [doi.org/10.1101/2021.05.25.21257505](https://doi.org/10.1101/2021.05.25.21257505). \[[PubMed34075384](https://www.ncbi.nlm.nih.gov/pubmed/34075384/)\] \[[PMC8168388](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8168388/)\]
 ### Database Entries (Jun 12)
