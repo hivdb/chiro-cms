@@ -14,3 +14,18 @@ geneSynonyms:
   3CLpro: _3CLpro
   nsp5: _3CLpro
   Spike: S
+convPlasmaOptions:
+  - name: pre-variant
+    label: Pre-variant infection
+    varNames:
+      - B
+      - B.1
+      - B.1.1
+  - name: Alpha
+    Label: Alpha (B.1.1.7) infection
+    varNames:
+      - Alpha
+  - name: Beta
+    Label: Beta (B.1.351) infection
+    varNames:
+      - Beta
