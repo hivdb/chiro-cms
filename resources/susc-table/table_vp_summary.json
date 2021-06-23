@@ -37,14 +37,14 @@
             },
             {
                 "name": "BNT162b2",
-                "vp_studies": 26,
-                "vp_samples": 466,
-                "vp_s_fold": "81%",
-                "vp_i_fold": "19%",
-                "vp_r_fold": 0,
-                "vp_num_s_fold": 376,
-                "vp_num_i_fold": 89,
-                "vp_num_r_fold": 1
+                "vp_studies": 27,
+                "vp_samples": 1002,
+                "vp_s_fold": "71%",
+                "vp_i_fold": "24%",
+                "vp_r_fold": "5%",
+                "vp_num_s_fold": 707,
+                "vp_num_i_fold": 237,
+                "vp_num_r_fold": 58
             },
             {
                 "name": "CoronaVac",
@@ -69,7 +69,7 @@
                 "vp_num_r_fold": 0
             },
             {
-                "name": "NVX-CoV",
+                "name": "NVX-CoV2373",
                 "vp_studies": 1,
                 "vp_samples": 28,
                 "vp_s_fold": "71%",
@@ -152,14 +152,14 @@
             },
             {
                 "name": "BNT162b2",
-                "vp_studies": 24,
-                "vp_samples": 437,
-                "vp_s_fold": "13%",
-                "vp_i_fold": "45%",
-                "vp_r_fold": "42%",
-                "vp_num_s_fold": 56,
-                "vp_num_i_fold": 195,
-                "vp_num_r_fold": 186
+                "vp_studies": 25,
+                "vp_samples": 971,
+                "vp_s_fold": "24%",
+                "vp_i_fold": "42%",
+                "vp_r_fold": "34%",
+                "vp_num_s_fold": 230,
+                "vp_num_i_fold": 409,
+                "vp_num_r_fold": 332
             },
             {
                 "name": "CoronaVac",
@@ -184,7 +184,7 @@
                 "vp_num_r_fold": 13
             },
             {
-                "name": "NVX-CoV",
+                "name": "NVX-CoV2373",
                 "vp_studies": 1,
                 "vp_samples": 22,
                 "vp_s_fold": 0,
@@ -297,11 +297,11 @@
                 "vp_studies": 1,
                 "vp_samples": 17,
                 "vp_s_fold": "76%",
-                "vp_i_fold": "24%",
-                "vp_r_fold": 0,
+                "vp_i_fold": "18%",
+                "vp_r_fold": "6%",
                 "vp_num_s_fold": 13,
-                "vp_num_i_fold": 4,
-                "vp_num_r_fold": 0
+                "vp_num_i_fold": 3,
+                "vp_num_r_fold": 1
             },
             {
                 "name": "BNT162b2",
@@ -358,7 +358,7 @@
                 "vp_num_r_fold": 0
             },
             {
-                "name": "NVX-CoV",
+                "name": "NVX-CoV2373",
                 "vp_studies": 1,
                 "vp_samples": 23,
                 "vp_s_fold": "61%",
@@ -408,14 +408,14 @@
             },
             {
                 "name": "BNT162b2",
-                "vp_studies": 5,
-                "vp_samples": 90,
-                "vp_s_fold": "46%",
-                "vp_i_fold": "52%",
-                "vp_r_fold": "2%",
-                "vp_num_s_fold": 41,
-                "vp_num_i_fold": 47,
-                "vp_num_r_fold": 2
+                "vp_studies": 6,
+                "vp_samples": 592,
+                "vp_s_fold": "30%",
+                "vp_i_fold": "46%",
+                "vp_r_fold": "24%",
+                "vp_num_s_fold": 179,
+                "vp_num_i_fold": 270,
+                "vp_num_r_fold": 143
             },
             {
                 "name": "mRNA-1273",

@@ -242,6 +242,14 @@
     median: '1.0'
   - variant: B.1.1.7
     rx: BNT162b2
+    samples: 536
+    s_fold: 331
+    i_fold: 148
+    r_fold: 57
+    reference: Wall21*[^Wall21]
+    median: '2.3'
+  - variant: B.1.1.7
+    rx: BNT162b2
     samples: 10
     s_fold: 9
     i_fold: 1
@@ -393,7 +401,7 @@
     reference: Pegu21*[^Pegu21]
     median: '1.1'
   - variant: B.1.1.7
-    rx: NVX-CoV
+    rx: NVX-CoV2373
     samples: 28
     s_fold: 20
     i_fold: 7
@@ -708,6 +716,14 @@
     median: 3.6
   - variant: B.1.351
     rx: BNT162b2
+    samples: 534
+    s_fold: 174
+    i_fold: 214
+    r_fold: 146
+    reference: Wall21[^Wall21]
+    median: '4.7'
+  - variant: B.1.351
+    rx: BNT162b2
     samples: 10
     s_fold: 3
     i_fold: 6
@@ -907,7 +923,7 @@
     reference: Wu21b[^Wu21b]
     median: '1.1'
   - variant: B.1.351
-    rx: NVX-CoV
+    rx: NVX-CoV2373
     samples: 22
     s_fold: 0
     i_fold: 7
@@ -1117,7 +1133,7 @@
     reference: Wu21b[^Wu21b]
     median: 2.3
   - variant: B.1.427/9
-    rx: NVX-CoV
+    rx: NVX-CoV2373
     samples: 23
     s_fold: 14
     i_fold: 9
@@ -1281,6 +1297,14 @@
     reference: Shi21[^Shi21]
     median: '4'
   - variant: B.1.617.1
+    rx: BNT162b2
+    samples: 502
+    s_fold: 138
+    i_fold: 223
+    r_fold: 141
+    reference: Wall21[^Wall21]
+    median: '5.6'
+  - variant: B.1.617.1
     rx: mRNA-1273
     samples: 15
     s_fold: 0
@@ -1310,8 +1334,8 @@
     rx: BBV152
     samples: 17
     s_fold: 13
-    i_fold: 4
-    r_fold: 0
+    i_fold: 3
+    r_fold: 1
     reference: Yadav21b[^Yadav21b]
     median: '1.4'
   - variant: B.1.617.2
