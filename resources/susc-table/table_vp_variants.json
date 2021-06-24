@@ -135,12 +135,12 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 22,
-                "s_fold": 22,
+                "samples": 30,
+                "s_fold": 30,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
-                "median": 2.3
+                "median": 2.1
             },
             {
                 "variant": "B.1.1.7",
@@ -535,12 +535,12 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
-                "samples": 4,
-                "s_fold": 4,
+                "samples": 35,
+                "s_fold": 35,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
-                "median": "2"
+                "median": 2.3
             },
             {
                 "variant": "B.1.1.7",
@@ -730,12 +730,12 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 66,
+                "samples": 90,
                 "s_fold": 0,
                 "i_fold": 0,
-                "r_fold": 66,
+                "r_fold": 90,
                 "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
-                "median": 93.6
+                "median": 41.2
             },
             {
                 "variant": "B.1.351",
@@ -1200,12 +1200,12 @@
             {
                 "variant": "B.1.351",
                 "rx": "mRNA-1273",
-                "samples": 5,
+                "samples": 105,
                 "s_fold": 0,
                 "i_fold": 0,
-                "r_fold": 5,
+                "r_fold": 105,
                 "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
-                "median": "43"
+                "median": 20.8
             },
             {
                 "variant": "B.1.351",
@@ -1345,12 +1345,12 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "BNT162b2",
-                "samples": 22,
-                "s_fold": 22,
+                "samples": 30,
+                "s_fold": 30,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
-                "median": 2.9
+                "median": 2.0
             },
             {
                 "variant": "B.1.427/9",
@@ -1445,12 +1445,12 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "mRNA-1273",
-                "samples": 4,
-                "s_fold": 3,
-                "i_fold": 1,
+                "samples": 35,
+                "s_fold": 35,
+                "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
-                "median": "2.6"
+                "median": 2.0
             },
             {
                 "variant": "B.1.427/9",
@@ -1775,12 +1775,12 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
-                "samples": 22,
+                "samples": 30,
                 "s_fold": 0,
-                "i_fold": 0,
-                "r_fold": 22,
+                "i_fold": 30,
+                "r_fold": 0,
                 "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
-                "median": 15.1
+                "median": 6.7
             },
             {
                 "variant": "P.1",
@@ -1915,12 +1915,12 @@
             {
                 "variant": "P.1",
                 "rx": "mRNA-1273",
-                "samples": 3,
+                "samples": 35,
                 "s_fold": 0,
-                "i_fold": 0,
-                "r_fold": 3,
+                "i_fold": 35,
+                "r_fold": 0,
                 "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
-                "median": "19"
+                "median": 4.5
             },
             {
                 "variant": "P.1",

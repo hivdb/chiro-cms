@@ -314,16 +314,6 @@
             },
             {
                 "variant": "B.1.1.7",
-                "rx": "CP_M12",
-                "samples": 26,
-                "s_fold": 0,
-                "i_fold": 26,
-                "r_fold": 0,
-                "reference": "Planas21b*[^Planas21b]",
-                "median": 8.2
-            },
-            {
-                "variant": "B.1.1.7",
                 "rx": "CP_M3",
                 "samples": 28,
                 "s_fold": 27,
@@ -1146,16 +1136,6 @@
                 "r_fold": 3,
                 "reference": "Yadav21b[^Yadav21b]",
                 "median": "1.6"
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "CP_M12",
-                "samples": 26,
-                "s_fold": 0,
-                "i_fold": 0,
-                "r_fold": 26,
-                "reference": "Planas21b[^Planas21b]",
-                "median": 40.6
             },
             {
                 "variant": "B.1.617.2",
