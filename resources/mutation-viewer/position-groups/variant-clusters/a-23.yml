@@ -1,0 +1,25 @@
+name: A.23
+positions:
+- name: nsp6:M86I #ORF1a:M3655I
+  pos: 11228
+  <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+- name: nsp6:L98F #ORF1a:L3667F
+  pos: 11264
+  <<: *non-spike
+- name: F157L
+  pos: 22031
+- name: V367F
+  pos: 22661
+- name: Q613H
+  pos: 23399
+- name: ORF8:L84S
+  pos: 28143
+  <<: *non-spike
+- name: ORF8:E92K
+  pos: 28167
+  <<: *non-spike
+- name: N:S202N
+  pos: 28877
+  <<: *non-spike

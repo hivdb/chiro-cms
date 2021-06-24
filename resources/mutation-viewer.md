@@ -23,6 +23,7 @@
   <!-- - [COH.20G/677H, EPI_ISL_826463](#sec_coh-20g-677h) -->
   - [N.9](#sec_n9)
   - [A.VOI.V2](#sec_a-voi-v2)
+  - [A.23](#sec_a-23)
   - [A.27](#sec_a-27)
   - [AV.1](#sec_av-1)
 - [Prolonged Infections](#prolonged.infections)
@@ -568,6 +569,27 @@ Oliveira T, Lutucuta S, et int., and Lessells RJ. “A novel variant of interest
 
 [genomemap]
 a-voi-v2
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- A.23 -->
+<section id="sec_a-23" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [A.23](#sec_a-23)
+
+[Outbreak.info A.23 Lineage Report](https://outbreak.info/situation-reports?pango=A.23) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+a-23
 [/genomemap]
 
 </div>

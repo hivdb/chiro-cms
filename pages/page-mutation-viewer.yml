@@ -76,6 +76,12 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/a-voi-v2.yml
     <<: *common-props
+  a-23:
+    name: a-23
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/a-23.yml
+    <<: *common-props
   a-27:
     name: a-27
     height: 200

@@ -22,6 +22,7 @@
   <!-- - [COH.20G/677H, EPI_ISL_826463](/page/mutation-viewer/#sec_coh-20g-677h) -->
   - [N.9](/page/mutation-viewer/#sec_n9)
   - [A.VOI.V2](/page/mutation-viewer/#sec_a-voi-v2)
+  - [A.23](/page/mutation-viewer/#sec_a-23)
   - [A.27](/page/mutation-viewer/#sec_a-27)
   - [AV.1](/page/mutation-viewer/#sec_av-1)
 - [Prolonged Infections](/page/mutation-viewer/#prolonged.infections)
