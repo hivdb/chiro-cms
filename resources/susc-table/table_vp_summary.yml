@@ -319,13 +319,13 @@
     vp_num_i_fold: 2
     vp_num_r_fold: 0
   - name: BNT162b2
-    vp_studies: 6
-    vp_samples: 592
-    vp_s_fold: 30%
-    vp_i_fold: 46%
-    vp_r_fold: 24%
-    vp_num_s_fold: 179
-    vp_num_i_fold: 270
+    vp_studies: 5
+    vp_samples: 572
+    vp_s_fold: 31%
+    vp_i_fold: 44%
+    vp_r_fold: 25%
+    vp_num_s_fold: 176
+    vp_num_i_fold: 253
     vp_num_r_fold: 143
   - name: mRNA-1273
     vp_studies: 1

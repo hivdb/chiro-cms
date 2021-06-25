@@ -1290,14 +1290,6 @@
     median: '2.7'
   - variant: B.1.617.1
     rx: BNT162b2
-    samples: 20
-    s_fold: 3
-    i_fold: 17
-    r_fold: 0
-    reference: Shi21[^Shi21]
-    median: '4'
-  - variant: B.1.617.1
-    rx: BNT162b2
     samples: 502
     s_fold: 138
     i_fold: 223
