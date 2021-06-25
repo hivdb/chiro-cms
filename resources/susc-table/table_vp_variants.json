@@ -1500,22 +1500,22 @@
             {
                 "variant": "B.1.526",
                 "rx": "BNT162b2",
-                "samples": 8,
-                "s_fold": 3,
-                "i_fold": 5,
+                "samples": 4,
+                "s_fold": 0,
+                "i_fold": 4,
                 "r_fold": 0,
                 "reference": "West21[^West21]",
-                "median": "3.4"
+                "median": "4.8"
             },
             {
                 "variant": "B.1.526",
                 "rx": "BNT162b2",
-                "samples": 10,
-                "s_fold": 5,
+                "samples": 5,
+                "s_fold": 0,
                 "i_fold": 5,
                 "r_fold": 0,
                 "reference": "Zhou21c[^Zhou21c]",
-                "median": 2.4
+                "median": 3.3
             },
             {
                 "variant": "B.1.526",
@@ -1540,22 +1540,22 @@
             {
                 "variant": "B.1.526",
                 "rx": "mRNA-1273",
-                "samples": 12,
-                "s_fold": 2,
-                "i_fold": 10,
+                "samples": 6,
+                "s_fold": 0,
+                "i_fold": 6,
                 "r_fold": 0,
                 "reference": "West21[^West21]",
-                "median": "4.2"
+                "median": "4.8"
             },
             {
                 "variant": "B.1.526",
                 "rx": "mRNA-1273",
-                "samples": 10,
-                "s_fold": 5,
+                "samples": 5,
+                "s_fold": 0,
                 "i_fold": 5,
                 "r_fold": 0,
                 "reference": "Zhou21c[^Zhou21c]",
-                "median": 2.75
+                "median": 3.9
             }
         ]
     },
