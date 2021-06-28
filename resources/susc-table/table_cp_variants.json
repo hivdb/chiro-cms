@@ -135,6 +135,16 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 12,
+                "s_fold": 12,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Mlcochova21*[^Mlcochova21]",
+                "median": 2.3
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP",
                 "samples": 30,
                 "s_fold": 28,
                 "i_fold": 2,
@@ -586,6 +596,16 @@
                 "r_fold": 3,
                 "reference": "McCallum21b[^McCallum21b]",
                 "median": "4.6"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP",
+                "samples": 12,
+                "s_fold": 0,
+                "i_fold": 12,
+                "r_fold": 0,
+                "reference": "Mlcochova21*[^Mlcochova21]",
+                "median": 8.4
             },
             {
                 "variant": "B.1.351",
@@ -1130,6 +1150,16 @@
             {
                 "variant": "B.1.617.2",
                 "rx": "CP",
+                "samples": 12,
+                "s_fold": 0,
+                "i_fold": 12,
+                "r_fold": 0,
+                "reference": "Mlcochova21[^Mlcochova21]",
+                "median": 6.1
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "CP",
                 "samples": 20,
                 "s_fold": 15,
                 "i_fold": 2,
@@ -1221,6 +1251,16 @@
                 "r_fold": 0,
                 "reference": "Stankov21[^Stankov21]",
                 "median": 1.0
+            },
+            {
+                "variant": "P.1",
+                "rx": "CP",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Tada21[^Tada21]",
+                "median": 1.8
             },
             {
                 "variant": "P.1",

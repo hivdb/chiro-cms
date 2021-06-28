@@ -36,8 +36,8 @@
                 "variant": "E484K",
                 "rx": "BNT162b2",
                 "samples": 5,
-                "s_fold": 0,
-                "i_fold": 5,
+                "s_fold": 1,
+                "i_fold": 4,
                 "r_fold": 0,
                 "reference": "Tada21[^Tada21]",
                 "median": "4.3"

@@ -275,6 +275,16 @@
             {
                 "variant": "K417N",
                 "rx": "CP",
+                "samples": 5,
+                "s_fold": 5,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Tada21[^Tada21]",
+                "median": "1.2"
+            },
+            {
+                "variant": "K417N",
+                "rx": "CP",
                 "samples": 20,
                 "s_fold": 20,
                 "i_fold": 0,
@@ -871,11 +881,11 @@
                 "variant": "∆69/70",
                 "rx": "CP",
                 "samples": 18,
-                "s_fold": 18,
-                "i_fold": 0,
+                "s_fold": 17,
+                "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Tada21[^Tada21]",
-                "median": "1"
+                "median": "0.9"
             },
             {
                 "variant": "∆69/70",
