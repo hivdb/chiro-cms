@@ -78,6 +78,11 @@ Instruction:
 
 ## Database Entries
 ### June 2021
+- June 28
+    - Mlcochova P, Kemp S, et int., and Agrawal A. [“SARS-CoV-2 B.1.617.2 Delta variant emergence and vaccine breakthrough.”](/search-drdb/?article=Mlcochova21) _Research Square_, 2021. [doi.org/10.21203/rs.3.rs-637724/v1](https://doi.org/10.21203/rs.3.rs-637724/v1).
+    - Wall EC, Wu M, et int., and Bauer DL. [“Neutralising antibody activity against SARS-CoV-2 VOCs B.1.617.2 and B.1.351 by BNT162b2 vaccination.”](/search-drdb/?article=Wall21) _The Lancet_, 2021. [doi.org/10.1016/s0140-6736(21)01290-3](https://doi.org/10.1016/s0140-6736(21)01290-3). \[[PubMed34090624](https://www.ncbi.nlm.nih.gov/pubmed/34090624/)\] \[[PMC8175044](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8175044/)\]
+    - Updated: Tada T, Dcosta BM, et int., and Landau NR. [“Convalescent-Phase Sera and Vaccine-Elicited Antibodies Largely Maintain Neutralizing Titer against Global SARS-CoV-2 Variant Spikes.”](/search-drdb/?article=Tada21) _mBio_, 2021. [doi.org/10.1128/mBio.00696-21](https://doi.org/10.1128/mBio.00696-21). \[[PubMed34060334](https://www.ncbi.nlm.nih.gov/pubmed/34060334/)\]
+    - Updated: Zuckerman N, Fleishon S, et int., and Zuckerman N. [“A Unique SARS-CoV-2 Spike Protein P681H Variant Detected in Israel.”](/search-drdb/?article=Zuckerman21) _Vaccines_, 2021. [doi.org/10.3390/vaccines9060616](https://doi.org/10.3390/vaccines9060616).
 - June 22
     - Horby PW, Mafham M, et int., and Landray MJ. [“Casirivimab and imdevimab in patients admitted to hospital with COVID-19 (RECOVERY): a randomised, controlled, open-label, platform trial.”](/search/?article=Horby21) _medRxiv_, 2021. [doi.org/10.1101/2021.06.15.21258542](https://doi.org/10.1101/2021.06.15.21258542).
     - Liu C, Ginn HM, et int., and Screaton GR. [“Reduced neutralization of SARS-CoV-2 B.1.617 by vaccine and convalescent serum.”](/search-drdb/?article=Liu21f) _Cell_, 2021. [doi.org/10.1016/j.cell.2021.06.020](https://doi.org/10.1016/j.cell.2021.06.020).
