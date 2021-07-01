@@ -22,3 +22,12 @@ positions:
 - name: N:A119S
   pos: 28628
   <<: *non-spike
+- name: N:R203K
+  pos: 28880
+  <<: *non-spike
+- name: N:G204R
+  pos: 28883
+  <<: *non-spike
+- name: N:M234I
+  pos: 28973
+  <<: *non-spike

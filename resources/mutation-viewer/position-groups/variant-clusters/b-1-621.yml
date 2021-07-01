@@ -8,25 +8,48 @@ positions:
 - name: PLpro:T720I  #ORF1ab:T1538I
   pos: 4877
   <<: *non-spike
+- name: nsp4:T491I # ORF1a:T3255I
+  pos: 10028
+  <<: *non-spike
 - name: nsp6:Q160R  #ORF1ab:Q3729R
   pos: 11450
   <<: *non-spike
 - name: RdRP:P323L
   pos: 14407
   <<: *non-spike
-- name: nsp13:P419S # ORF1ab:P5743S
+- name: nsp13:P419S # ORF1ab:P5743S, ORF1b:P1342S
   pos: 17492
   <<: *non-spike
+- name: T95I
+  pos: 21845
+- name: Y144S
+  pos: 21992
+- name: Y145N
+  pos: 21995
+# - name: N146ins
+#   pos: 21998
+- name: R346K
+  pos: 22598
+- name: E484K
+  pos: 23012
+- name: N501Y
+  pos: 23063
+- name: D614G
+  pos: 23402
+- name: P681H
+  pos: 23603
+- name: D950N
+  pos: 24410
 - name: ORF3a:Q57H
   pos: 25563
   <<: *non-spike
-- name: ORF3a:V256del
-  label: ORF3a:V256Δ
+- name: ORF3a:VN256-257del
+  label: ORF3a:VN256-257Δ
   pos: 26158
   <<: *non-spike
-- name: ORF3a:N257X
-  pos: 26161
-  <<: *non-spike
+# - name: ORF3a:N257X
+#   pos: 26161
+#   <<: *non-spike
 - name: ORF8:T11K
   pos: 27924
   <<: *non-spike
@@ -36,19 +59,6 @@ positions:
 - name: ORF8:S67F
   pos: 28092
   <<: *non-spike
-- name: T95I
-  pos: 21845
-- name: Y144T
-  pos: 21992
-- name: Y145S
-  pos: 21995
-- name: N146ins
-  pos: 21998
-- name: R346K
-  pos: 22598
-- name: E484K
-  pos: 23012
-- name: N501Y
-  pos: 23063
-- name: P681H
-  pos: 23603
+- name: N:T205I
+  pos: 28886
+  <<: *non-spike

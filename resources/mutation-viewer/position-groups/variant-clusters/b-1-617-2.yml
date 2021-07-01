@@ -2,16 +2,37 @@ name: B.1.617.2
 CDC: VOI
 WHO: VOC
 positions:
-- name: RdRP:P323L
-  pos: 14408
+- name: PLpro:A488S # ORF1a:A1306S
+  pos: 4181
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
+- name: PLpro:P1228L # ORF1a:P2046L
+  pos: 6401
+  <<: *non-spike
+- name: PLpro:P1469S # ORF1a:P2287S
+  pos: 7124
+  <<: *non-spike
+- name: nsp4:V167L # ORF1a:V2930L
+  pos: 9053
+  <<: *non-spike
+- name: nsp4:T492I # ORF1a:T3255I
+  pos: 10028
+  <<: *non-spike
+- name: nsp6:T77A # ORF1a:T3646A
+  pos: 11201
+  <<: *non-spike
+- name: RdRP:P323L
+  pos: 14408
+  <<: *non-spike
 - name: RdRP:G671S # ORF1b:G662S
   pos: 15452
   <<: *non-spike
 - name: nsp13:P77L # ORF1b:P1000L
   pos: 16465
+  <<: *non-spike
+- name: nsp14:A394V # ORF1b:A1918V
+  pos: 19219
   <<: *non-spike
 - name: T19R
   pos: 21617
@@ -40,9 +61,15 @@ positions:
 - name: ORF7a:T120I
   pos: 27637
   <<: *non-spike
+- name: ORF7b:T40I
+  pos: 27873
+  <<: *non-spike
 - name: ORF8:DF119-120del
   label: ORF8:DF119-120Δ
   pos: 28248
+  <<: *non-spike
+- name: N:D63G
+  pos: 28460
   <<: *non-spike
 - name: N:R203M
   pos: 28880

@@ -16,14 +16,14 @@ positions:
   label: nsp6:SGF106-108Δ
   pos: 11288
   <<: *non-spike
-- name: RdRP:P323L  # ORF1ab:P4715L
+- name: RdRP:P323L  # ORF1ab:P4715L, ORF1b:P314L
   pos: 14407
   <<: *non-spike
 - name: HV69-70del
   label: HV69-70Δ
   pos: 21767
-- name: Y144del
-  label: Y144Δ
+- name: YY144-145del
+  label: Y144-145Δ
   pos: 21992
 - name: E484K
   pos: 23012
@@ -53,6 +53,12 @@ positions:
   <<: *non-spike
 - name: N:D3L
   pos: 28280
+  <<: *non-spike
+- name: N:R203K
+  pos: 28880
+  <<: *non-spike
+- name: N:G204R
+  pos: 28883
   <<: *non-spike
 - name: N:S235F
   pos: 28977

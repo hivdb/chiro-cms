@@ -7,19 +7,23 @@ positions:
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
+- name: nsp6:SGF106-108del  # ORF1ab:SGF3675-3677del
+  label: nsp6:SGF106-108Δ
+  pos: 11288
+  <<: *non-spike
 - name: RdRP:P323F  # ORF1ab:L4715F
   pos: 14407
   <<: *non-spike
+- name: Q52R
+  pos: 21716
 - name: A67V
   pos: 21761
 - name: HV69-70del
   label: HV69-70Δ
   pos: 21767
-- name: Y144del
-  label: Y144Δ
+- name: Y144-145del
+  label: YY144-145Δ
   pos: 21992
-- name: Q52R
-  pos: 21716
 - name: E484K
   pos: 23012
 - name: D614G
@@ -28,11 +32,14 @@ positions:
   pos: 23591
 - name: F888L
   pos: 24224
+- name: E:L21F
+  pos: 26305
+  <<: *non-spike
 - name: M:I82T
   pos: 26766
   <<: *non-spike
-- name: ORF6:F2del
-  label: ORF6:F2Δ
+- name: ORF6:FH2-3del
+  label: ORF6:FH2-3Δ
   pos: 27205
   <<: *non-spike
 - name: N:D3del
@@ -45,6 +52,4 @@ positions:
 - name: N:T205I
   pos: 28887
   <<: *non-spike
-- name: E:L21F
-  pos: 26305
-  <<: *non-spike
+

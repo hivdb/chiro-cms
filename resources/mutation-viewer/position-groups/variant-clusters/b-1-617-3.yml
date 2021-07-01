@@ -2,14 +2,16 @@ name: B.1.617.3
 CDC: VOI
 WHO: VOC
 positions:
-- name: PLpro:A1526V # ORF1a:A2344V
-  pos: 7295
+# - name: PLpro:A1526V # ORF1a:A2344V
+#   pos: 7295
+#   <<: &non-spike
+#     stroke: '#e0e0e0'
+#     color: '#a0a0a0'
+- name: PLpro:T1830I # ORF1a:T2648I
+  pos: 8207
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: PLpro:T1830I # ORF1a:T2648I
-  pos: 8207
-  <<: *non-spike
 - name: 3CL:A194S # ORF1a:A3457S
   pos: 10634
   <<: *non-spike
@@ -21,8 +23,8 @@ positions:
   <<: *non-spike
 - name: T19R
   pos: 21617
-- name: G142D
-  pos: 21986
+# - name: G142D
+#   pos: 21986
 - name: L452R
   pos: 22917
 - name: E484Q

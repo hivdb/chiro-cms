@@ -34,6 +34,8 @@ tables:
       label: "CIL/TIX"
     - name: sot
       label: "SOT"
+    - name: reg
+      label: "REG"
     data:
       _resource: susc-table/table_mab.yml
   table_mab_non_eua:

@@ -1,10 +1,13 @@
 name: N.9
 positions:
-- name: PLpro:A1711V # ORF1a:A2529V
-  pos: 7851
+- name: PLpro:A54T # ORF1a:A872T
+  pos: 2879
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
+- name: PLpro:A1711V # ORF1a:A2529V
+  pos: 7851
+  <<: *non-spike
 - name: nsp6:F36L # ORF1a:F3605L
   pos: 11078
   <<: *non-spike

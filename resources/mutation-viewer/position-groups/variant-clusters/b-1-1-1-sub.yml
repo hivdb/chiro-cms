@@ -24,9 +24,9 @@ positions:
   label: nsp6:SGF106-108Δ
   pos: 11288
   <<: *non-spike
-- name: nsp6:K109R # ORF1a:K3678R
-  pos: 11297
-  <<: *non-spike
+# - name: nsp6:K109R # ORF1a:K3678R
+#   pos: 11297
+#   <<: *non-spike
 - name: RdRP:P323L  # ORF1ab:P4715L
   pos: 14407
   <<: *non-spike
@@ -34,9 +34,9 @@ positions:
   pos: 21785
 - name: T76I
   pos: 21788
-- name: RSYLTPG246-252del
-  label: RSYLTPG246-252Δ
-  pos: 22298
+- name: RSYLTPG247-253del
+  label: RSYLTPG247-253Δ
+  pos: 22301
 - name: L452Q
   pos: 22917
 - name: F490S
@@ -45,16 +45,16 @@ positions:
   pos: 23402
 - name: T859N
   pos: 24137
-- name: ORF9b:P10S
-  pos: 28311
-  <<: *non-spike
+# - name: ORF9b:P10S
+#   pos: 28311
+#   <<: *non-spike
 - name: N:P13L
   pos: 28310
   <<: *non-spike
 - name: N:R203K
   pos: 28880
   <<: *non-spike
-- name: N:R204G
+- name: N:G204R
   pos: 28883
   <<: *non-spike
 - name: N:R214C

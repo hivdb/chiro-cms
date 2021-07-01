@@ -10,12 +10,12 @@ positions:
 - name: PLpro:K837N   # ORF1ab:K1655N
   pos: 5228
   <<: *non-spike
-- name: nsp4:H26Y  # ORF1ab:H2799Y
-  pos: 8660
-  <<: *non-spike
-- name: nsp4:S137L # ORF1ab:S2900L
-  pos: 8963
-  <<: *non-spike
+# - name: nsp4:H26Y  # ORF1ab:H2799Y
+#   pos: 8660
+#   <<: *non-spike
+# - name: nsp4:S137L # ORF1ab:S2900L
+#   pos: 8963
+#   <<: *non-spike
 - name: 3CL:K90R   # ORF1ab:K3353R
   pos: 10322
   <<: *non-spike
@@ -23,26 +23,26 @@ positions:
   label: nsp6:SGF106-108Δ
   pos: 11288
   <<: *non-spike
-- name: RdRP:D135Y # ORF1ab:D4527Y
-  pos: 13843
-  <<: *non-spike
+# - name: RdRP:D135Y # ORF1ab:D4527Y
+#   pos: 13843
+#   <<: *non-spike
 - name: RdRP:P323L # ORF1ab:P4715L
   pos: 14407
   <<: *non-spike
-- name: nsp13:T588I # ORF1ab:T5912I
-  pos: 17998
-  <<: *non-spike
+# - name: nsp13:T588I # ORF1ab:T5912I
+#   pos: 17998
+#   <<: *non-spike
 - name: L18F
   pos: 21614
 - name: D80A
   pos: 21800
 - name: D215G
   pos: 22205
-- name: LAL242-244del
-  label: LAL242-244Δ
+- name: LAL241-243del
+  label: LAL241-243Δ
   pos: 22289
-- name: R246I
-  pos: 22298
+# - name: R246I
+#   pos: 22298
 - name: K417N
   pos: 22811
 - name: E484K

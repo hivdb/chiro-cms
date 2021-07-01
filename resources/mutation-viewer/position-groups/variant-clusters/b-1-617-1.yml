@@ -21,10 +21,10 @@ positions:
   <<: *non-spike
 - name: T95I
   pos: 21845
-- name: G142D
-  pos: 21986
-- name: E154K
-  pos: 22022
+# - name: G142D
+#   pos: 21986
+# - name: E154K
+#   pos: 22022
 - name: L452R
   pos: 22917
 - name: E484Q

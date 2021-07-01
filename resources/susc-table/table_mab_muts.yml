@@ -2211,6 +2211,13 @@
     mab_class: RBM Class III
     fold: '&gt;100'
     reference: Tortorici20[^Tortorici20]
+- variant: T478K
+  assays:
+  - variant: T478K
+    rx: C144
+    mab_class: RBM Class III
+    fold: '1.5'
+    reference: Muecksch21[^Muecksch21]
 - variant: Y453F
   assays:
   - variant: Y453F
