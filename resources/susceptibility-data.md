@@ -159,7 +159,6 @@ table_vp
 - **Wu21**: [^Wu21#inline]
 - **Wu21b**: [^Wu21b#inline]
 - **Xie21**: [^Xie21#inline]
-- **Xie21b**: [^Xie21b#inline]
 - **Yadav21**: [^Yadav21#inline]
 - **Yao21**: [^Yao21#inline]
 - **Yuan21**: [^Yuan21#inline]
