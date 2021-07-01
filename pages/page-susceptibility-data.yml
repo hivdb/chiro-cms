@@ -60,6 +60,8 @@ tables:
       label: JMB2002
     - name: ADG20
       label: ADG20
+    - name: Vir7832
+      label: Vir-7832
     data:
       _resource: susc-table/table_mab.yml
   table_cp:
