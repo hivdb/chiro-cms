@@ -18,6 +18,7 @@
   b_196_198: 0.4<sub>2</sub>
   JMB2002: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white">17<sub></sub></span>'
   ADG20: 1.4<sub></sub>
+  Vir7832: 2.5<sub></sub>
 - variant: B.1.351
   cas: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white">59<sub>11</sub></span>'
   ete: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white">&gt;100<sub>7</sub></span>'
@@ -38,6 +39,7 @@
   b_196_198: 1.0<sub>2</sub>
   JMB2002: 2.8<sub></sub>
   ADG20: 2.5<sub></sub>
+  Vir7832: 0.7<sub></sub>
 - variant: P.1
   cas: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white">&gt;100<sub>6</sub></span>'
   ete: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white">59<sub>2</sub></span>'
@@ -58,6 +60,7 @@
   b_196_198: '-'
   JMB2002: '-'
   ADG20: 2.2<sub></sub>
+  Vir7832: 0.4<sub></sub>
 - variant: B.1.617.2
   cas: 0.8<sub>2</sub>
   ete: 0.7<sub>2</sub>
@@ -78,6 +81,7 @@
   b_196_198: '-'
   JMB2002: '-'
   ADG20: 1.4<sub></sub>
+  Vir7832: '-'
 - variant: B.1.526
   cas: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white">12<sub></sub></span>'
   ete: 1.4<sub></sub>
@@ -98,6 +102,7 @@
   b_196_198: '-'
   JMB2002: '-'
   ADG20: '-'
+  Vir7832: '-'
 - variant: B.1.427/9
   cas: 1.3<sub></sub>
   ete: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#7fcbee;color:white">3.3<sub>2</sub></span>'
@@ -118,6 +123,7 @@
   b_196_198: '-'
   JMB2002: '-'
   ADG20: '-'
+  Vir7832: '-'
 - variant: B.1.617.1
   cas: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#7fcbee;color:white">4.6<sub>2</sub></span>'
   ete: 0.6<sub>2</sub>
@@ -138,6 +144,7 @@
   b_196_198: '-'
   JMB2002: '-'
   ADG20: 2.5<sub></sub>
+  Vir7832: '-'
 - variant: N501Y
   cas: 1<sub>9</sub>
   ete: 2.9<sub>7</sub>
@@ -158,6 +165,7 @@
   b_196_198: '-'
   JMB2002: '-'
   ADG20: '-'
+  Vir7832: '-'
 - variant: E484K
   cas: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white">13<sub>12</sub></span>'
   ete: 2.7<sub>6</sub>
@@ -178,6 +186,7 @@
   b_196_198: '-'
   JMB2002: '-'
   ADG20: '-'
+  Vir7832: '-'
 - variant: K417N
   cas: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#7fcbee;color:white">8.9<sub>7</sub></span>'
   ete: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white">&gt;100<sub>5</sub></span>'
@@ -198,6 +207,7 @@
   b_196_198: '-'
   JMB2002: '-'
   ADG20: '-'
+  Vir7832: '-'
 - variant: L452R
   cas: 1.2<sub>4</sub>
   ete: 0.9<sub>4</sub>
@@ -218,6 +228,7 @@
   b_196_198: '-'
   JMB2002: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white">42<sub></sub></span>'
   ADG20: '-'
+  Vir7832: '-'
 - variant: T478K
   cas: '-'
   ete: '-'
@@ -238,6 +249,7 @@
   b_196_198: '-'
   JMB2002: '-'
   ADG20: '-'
+  Vir7832: '-'
 - variant: N439K
   cas: 0.8<sub>4</sub>
   ete: 0.4<sub>3</sub>
@@ -258,6 +270,7 @@
   b_196_198: '-'
   JMB2002: '-'
   ADG20: '-'
+  Vir7832: '-'
 - variant: Y453F
   cas: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white">74<sub>6</sub></span>'
   ete: 1.4<sub>3</sub>
@@ -278,6 +291,7 @@
   b_196_198: '-'
   JMB2002: '-'
   ADG20: '-'
+  Vir7832: '-'
 - variant: F490S
   cas: 1<sub>2</sub>
   ete: 1.1<sub>2</sub>
@@ -298,6 +312,7 @@
   b_196_198: '-'
   JMB2002: '-'
   ADG20: '-'
+  Vir7832: '-'
 - variant: S494P
   cas: '<span style="padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#7fcbee;color:white">4.5<sub>3</sub></span>'
   ete: 0.6<sub>2</sub>
@@ -318,3 +333,4 @@
   b_196_198: '-'
   JMB2002: '-'
   ADG20: '-'
+  Vir7832: '-'

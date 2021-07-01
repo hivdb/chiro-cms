@@ -34,8 +34,8 @@
     median: '4.3'
   - variant: E484K
     rx: BNT162b2
-    samples: 9
-    s_fold: 9
+    samples: 6
+    s_fold: 6
     i_fold: 0
     r_fold: 0
     reference: Tada21c[^Tada21c]
@@ -72,6 +72,14 @@
     r_fold: 0
     reference: Greaney21c[^Greaney21c]
     median: '3'
+  - variant: E484K
+    rx: mRNA-1273
+    samples: 3
+    s_fold: 3
+    i_fold: 0
+    r_fold: 0
+    reference: Tada21c[^Tada21c]
+    median: 2.6
   - variant: E484K
     rx: mRNA-1273
     samples: 11
@@ -234,9 +242,9 @@
     median: '2.3'
   - variant: L452R
     rx: BNT162b2
-    samples: 9
+    samples: 6
     s_fold: 0
-    i_fold: 9
+    i_fold: 6
     r_fold: 0
     reference: Tada21c[^Tada21c]
     median: 3.0
@@ -248,6 +256,14 @@
     r_fold: 0
     reference: Greaney21c[^Greaney21c]
     median: '2.3'
+  - variant: L452R
+    rx: mRNA-1273
+    samples: 3
+    s_fold: 0
+    i_fold: 3
+    r_fold: 0
+    reference: Tada21c[^Tada21c]
+    median: 3.2
 - variant: N439K
   assays:
   - variant: N439K
@@ -439,7 +455,7 @@
 - variant: ∆69/70 + N501Y + A570D
   assays:
   - variant: ∆69/70 + N501Y + A570D
-    rx: BNT_1ds
+    rx: BNT162b2
     samples: 15
     s_fold: 15
     i_fold: 0

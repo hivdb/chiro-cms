@@ -424,6 +424,13 @@
             },
             {
                 "variant": "B.1.1.7",
+                "rx": "Vir-7832",
+                "mab_class": "",
+                "fold": "2.5",
+                "reference": "Cathcart21[^Cathcart21]"
+            },
+            {
+                "variant": "B.1.1.7",
                 "rx": "2-17",
                 "mab_class": "NTD",
                 "fold": "&gt;100",
@@ -1448,6 +1455,13 @@
                 "mab_class": "",
                 "fold": "8.9",
                 "reference": "Zhou21b*[^Zhou21b]"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "Vir-7832",
+                "mab_class": "",
+                "fold": "0.7",
+                "reference": "Cathcart21[^Cathcart21]"
             },
             {
                 "variant": "B.1.351",
@@ -2607,6 +2621,13 @@
                 "mab_class": "",
                 "fold": "8.8",
                 "reference": "Dejnirattisai21*[^Dejnirattisai21]"
+            },
+            {
+                "variant": "P.1",
+                "rx": "Vir-7832",
+                "mab_class": "",
+                "fold": "0.4",
+                "reference": "Cathcart21[^Cathcart21]"
             },
             {
                 "variant": "P.1",
