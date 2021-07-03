@@ -600,7 +600,7 @@
     s_fold: 15
     i_fold: 3
     r_fold: 2
-    reference: Yadav21b[^Yadav21b]
+    reference: Yadav21b*[^Yadav21b]
     median: '2.1'
   - variant: B.1.351
     rx: CP

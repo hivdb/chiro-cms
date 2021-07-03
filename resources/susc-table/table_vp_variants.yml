@@ -33,6 +33,54 @@
     reference: Supasa21*[^Supasa21]
     median: '1.9'
   - variant: B.1.1.7
+    rx: AZD1222
+    samples: 50
+    s_fold: 0
+    i_fold: 50
+    r_fold: 0
+    reference: Wall21b*[^Wall21b]
+    median: 7.2
+  - variant: B.1.1.7
+    rx: AZD1222
+    samples: 63
+    s_fold: 0
+    i_fold: 63
+    r_fold: 0
+    reference: Wall21b*[^Wall21b]
+    median: 4.2
+  - variant: B.1.1.7
+    rx: Ad26.COV2.S
+    samples: 25
+    s_fold: 25
+    i_fold: 0
+    r_fold: 0
+    reference: Alter21[^Alter21]
+    median: 1.7
+  - variant: B.1.1.7
+    rx: Ad26.COV2.S
+    samples: 25
+    s_fold: 25
+    i_fold: 0
+    r_fold: 0
+    reference: Alter21[^Alter21]
+    median: 2.8
+  - variant: B.1.1.7
+    rx: Ad26.COV2.S
+    samples: 25
+    s_fold: 25
+    i_fold: 0
+    r_fold: 0
+    reference: Alter21*[^Alter21]
+    median: 0.8
+  - variant: B.1.1.7
+    rx: Ad26.COV2.S
+    samples: 8
+    s_fold: 8
+    i_fold: 0
+    r_fold: 0
+    reference: Jongeneelen21[^Jongeneelen21]
+    median: '1'
+  - variant: B.1.1.7
     rx: BBIBP-CorV
     samples: 19
     s_fold: 16
@@ -329,6 +377,22 @@
     reference: Zhou21c[^Zhou21c]
     median: 1.0
   - variant: B.1.1.7
+    rx: BNT162b2
+    samples: 18
+    s_fold: 18
+    i_fold: 0
+    r_fold: 0
+    reference: Zuckerman21*[^Zuckerman21]
+    median: 2.0
+  - variant: B.1.1.7
+    rx: CoronaVac
+    samples: 75
+    s_fold: 52
+    i_fold: 21
+    r_fold: 2
+    reference: Acevedo21[^Acevedo21]
+    median: '2'
+  - variant: B.1.1.7
     rx: CoronaVac
     samples: 22
     s_fold: 12
@@ -468,12 +532,60 @@
     median: 12.7
   - variant: B.1.351
     rx: AZD1222
+    samples: 50
+    s_fold: 0
+    i_fold: 0
+    r_fold: 50
+    reference: Wall21b*[^Wall21b]
+    median: 28.2
+  - variant: B.1.351
+    rx: AZD1222
+    samples: 63
+    s_fold: 0
+    i_fold: 0
+    r_fold: 63
+    reference: Wall21b*[^Wall21b]
+    median: 10.0
+  - variant: B.1.351
+    rx: AZD1222
     samples: 18
     s_fold: 1
     i_fold: 12
     r_fold: 5
     reference: Zhou21b*[^Zhou21b]
     median: '7.8'
+  - variant: B.1.351
+    rx: Ad26.COV2.S
+    samples: 25
+    s_fold: 0
+    i_fold: 25
+    r_fold: 0
+    reference: Alter21[^Alter21]
+    median: 3.3
+  - variant: B.1.351
+    rx: Ad26.COV2.S
+    samples: 25
+    s_fold: 0
+    i_fold: 25
+    r_fold: 0
+    reference: Alter21[^Alter21]
+    median: 5.1
+  - variant: B.1.351
+    rx: Ad26.COV2.S
+    samples: 25
+    s_fold: 0
+    i_fold: 0
+    r_fold: 25
+    reference: Alter21*[^Alter21]
+    median: 11.0
+  - variant: B.1.351
+    rx: Ad26.COV2.S
+    samples: 8
+    s_fold: 4
+    i_fold: 1
+    r_fold: 3
+    reference: Jongeneelen21[^Jongeneelen21]
+    median: '3'
   - variant: B.1.351
     rx: Ad26.COV2.S
     samples: 27
@@ -504,7 +616,7 @@
     s_fold: 9
     i_fold: 7
     r_fold: 1
-    reference: Yadav21b[^Yadav21b]
+    reference: Yadav21b*[^Yadav21b]
     median: '2.5'
   - variant: B.1.351
     rx: BNT162b2
@@ -712,7 +824,7 @@
     s_fold: 122
     i_fold: 83
     r_fold: 115
-    reference: Wall21[^Wall21]
+    reference: Wall21*[^Wall21]
     median: '6.2'
   - variant: B.1.351
     rx: BNT162b2
@@ -720,7 +832,7 @@
     s_fold: 52
     i_fold: 131
     r_fold: 31
-    reference: Wall21[^Wall21]
+    reference: Wall21*[^Wall21]
     median: '4.5'
   - variant: B.1.351
     rx: BNT162b2
@@ -824,7 +936,7 @@
     s_fold: 16
     i_fold: 32
     r_fold: 12
-    reference: Pegu21[^Pegu21]
+    reference: Pegu21*[^Pegu21]
     median: '4.6'
   - variant: B.1.351
     rx: mRNA-1273
@@ -832,7 +944,7 @@
     s_fold: 0
     i_fold: 1
     r_fold: 3
-    reference: Pegu21[^Pegu21]
+    reference: Pegu21*[^Pegu21]
     median: '18'
   - variant: B.1.351
     rx: mRNA-1273
@@ -940,6 +1052,22 @@
     median: '0.3'
 - variant: B.1.427/9
   assays:
+  - variant: B.1.427/9
+    rx: Ad26.COV2.S
+    samples: 25
+    s_fold: 25
+    i_fold: 0
+    r_fold: 0
+    reference: Alter21[^Alter21]
+    median: 2.1
+  - variant: B.1.427/9
+    rx: Ad26.COV2.S
+    samples: 25
+    s_fold: 25
+    i_fold: 0
+    r_fold: 0
+    reference: Alter21[^Alter21]
+    median: 2.6
   - variant: B.1.427/9
     rx: BNT162b2
     samples: 3
@@ -1113,6 +1241,14 @@
     reference: Mlcochova21[^Mlcochova21]
     median: 5.7
   - variant: B.1.617.1
+    rx: Ad26.COV2.S
+    samples: 8
+    s_fold: 7
+    i_fold: 1
+    r_fold: 0
+    reference: Jongeneelen21[^Jongeneelen21]
+    median: '1.3'
+  - variant: B.1.617.1
     rx: BBV152
     samples: 28
     s_fold: 26
@@ -1219,6 +1355,30 @@
     reference: Planas21b[^Planas21b]
     median: 12.7
   - variant: B.1.617.2
+    rx: AZD1222
+    samples: 50
+    s_fold: 0
+    i_fold: 0
+    r_fold: 50
+    reference: Wall21b[^Wall21b]
+    median: 28.2
+  - variant: B.1.617.2
+    rx: AZD1222
+    samples: 63
+    s_fold: 0
+    i_fold: 0
+    r_fold: 63
+    reference: Wall21b[^Wall21b]
+    median: 10.0
+  - variant: B.1.617.2
+    rx: Ad26.COV2.S
+    samples: 8
+    s_fold: 7
+    i_fold: 1
+    r_fold: 0
+    reference: Jongeneelen21[^Jongeneelen21]
+    median: '1.6'
+  - variant: B.1.617.2
     rx: BBV152
     samples: 17
     s_fold: 13
@@ -1276,6 +1436,30 @@
     r_fold: 1
     reference: Dejnirattisai21*[^Dejnirattisai21]
     median: '2.7'
+  - variant: P.1
+    rx: Ad26.COV2.S
+    samples: 25
+    s_fold: 25
+    i_fold: 0
+    r_fold: 0
+    reference: Alter21[^Alter21]
+    median: 2.8
+  - variant: P.1
+    rx: Ad26.COV2.S
+    samples: 25
+    s_fold: 0
+    i_fold: 25
+    r_fold: 0
+    reference: Alter21[^Alter21]
+    median: 3.3
+  - variant: P.1
+    rx: Ad26.COV2.S
+    samples: 8
+    s_fold: 4
+    i_fold: 1
+    r_fold: 3
+    reference: Jongeneelen21[^Jongeneelen21]
+    median: '3.2'
   - variant: P.1
     rx: BNT162b2
     samples: 9
@@ -1364,6 +1548,14 @@
     r_fold: 1
     reference: Wang21d[^Wang21d]
     median: '1.9'
+  - variant: P.1
+    rx: CoronaVac
+    samples: 75
+    s_fold: 47
+    i_fold: 24
+    r_fold: 4
+    reference: Acevedo21[^Acevedo21]
+    median: '2.2'
   - variant: P.1
     rx: CoronaVac
     samples: 6
