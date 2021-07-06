@@ -699,11 +699,6 @@
     rx: Regdanvimab
     mab_class: RBM Class I
     fold: '1.4'
-    reference: Lee21*[^Lee21]
-  - variant: B.1.1.7
-    rx: Regdanvimab
-    mab_class: RBM Class I
-    fold: '1.4'
     reference: Ryu21*[^Ryu21]
   - variant: B.1.1.7
     rx: S2E12
@@ -1401,17 +1396,7 @@
     rx: Regdanvimab
     mab_class: RBM Class I
     fold: '33'
-    reference: Lee21[^Lee21]
-  - variant: B.1.351
-    rx: Regdanvimab
-    mab_class: RBM Class I
-    fold: '33'
     reference: Ryu21[^Ryu21]
-  - variant: B.1.351
-    rx: Regdanvimab
-    mab_class: RBM Class I
-    fold: '20'
-    reference: Lee21*[^Lee21]
   - variant: B.1.351
     rx: Regdanvimab
     mab_class: RBM Class I

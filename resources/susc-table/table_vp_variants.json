@@ -44,43 +44,23 @@
             },
             {
                 "variant": "B.1.1.7",
-                "rx": "AZD1222",
-                "samples": 50,
-                "s_fold": 0,
-                "i_fold": 50,
-                "r_fold": 0,
-                "reference": "Wall21b*[^Wall21b]",
-                "median": 7.2
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "AZD1222",
-                "samples": 63,
-                "s_fold": 0,
-                "i_fold": 63,
-                "r_fold": 0,
-                "reference": "Wall21b*[^Wall21b]",
-                "median": 4.2
+                "rx": "Ad26.COV2.S",
+                "samples": 19,
+                "s_fold": 17,
+                "i_fold": 0,
+                "r_fold": 2,
+                "reference": "Alter21[^Alter21]",
+                "median": "1.4"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "Ad26.COV2.S",
-                "samples": 25,
-                "s_fold": 25,
-                "i_fold": 0,
-                "r_fold": 0,
+                "samples": 20,
+                "s_fold": 13,
+                "i_fold": 6,
+                "r_fold": 1,
                 "reference": "Alter21[^Alter21]",
-                "median": 1.7
-            },
-            {
-                "variant": "B.1.1.7",
-                "rx": "Ad26.COV2.S",
-                "samples": 25,
-                "s_fold": 25,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Alter21[^Alter21]",
-                "median": 2.8
+                "median": "2.2"
             },
             {
                 "variant": "B.1.1.7",
@@ -670,26 +650,6 @@
             {
                 "variant": "B.1.351",
                 "rx": "AZD1222",
-                "samples": 50,
-                "s_fold": 0,
-                "i_fold": 0,
-                "r_fold": 50,
-                "reference": "Wall21b*[^Wall21b]",
-                "median": 28.2
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "AZD1222",
-                "samples": 63,
-                "s_fold": 0,
-                "i_fold": 0,
-                "r_fold": 63,
-                "reference": "Wall21b*[^Wall21b]",
-                "median": 10.0
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "AZD1222",
                 "samples": 18,
                 "s_fold": 1,
                 "i_fold": 12,
@@ -700,22 +660,22 @@
             {
                 "variant": "B.1.351",
                 "rx": "Ad26.COV2.S",
-                "samples": 25,
-                "s_fold": 0,
-                "i_fold": 25,
-                "r_fold": 0,
+                "samples": 19,
+                "s_fold": 6,
+                "i_fold": 5,
+                "r_fold": 8,
                 "reference": "Alter21[^Alter21]",
-                "median": 3.3
+                "median": "3.3"
             },
             {
                 "variant": "B.1.351",
                 "rx": "Ad26.COV2.S",
-                "samples": 25,
-                "s_fold": 0,
-                "i_fold": 25,
-                "r_fold": 0,
+                "samples": 20,
+                "s_fold": 5,
+                "i_fold": 11,
+                "r_fold": 4,
                 "reference": "Alter21[^Alter21]",
-                "median": 5.1
+                "median": "4.1"
             },
             {
                 "variant": "B.1.351",
@@ -1325,22 +1285,22 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "Ad26.COV2.S",
-                "samples": 25,
-                "s_fold": 25,
-                "i_fold": 0,
-                "r_fold": 0,
+                "samples": 19,
+                "s_fold": 12,
+                "i_fold": 2,
+                "r_fold": 5,
                 "reference": "Alter21[^Alter21]",
-                "median": 2.1
+                "median": "2.4"
             },
             {
                 "variant": "B.1.427/9",
                 "rx": "Ad26.COV2.S",
-                "samples": 25,
-                "s_fold": 25,
-                "i_fold": 0,
-                "r_fold": 0,
+                "samples": 20,
+                "s_fold": 12,
+                "i_fold": 5,
+                "r_fold": 3,
                 "reference": "Alter21[^Alter21]",
-                "median": 2.6
+                "median": "2.8"
             },
             {
                 "variant": "B.1.427/9",
@@ -1709,26 +1669,6 @@
             },
             {
                 "variant": "B.1.617.2",
-                "rx": "AZD1222",
-                "samples": 50,
-                "s_fold": 0,
-                "i_fold": 0,
-                "r_fold": 50,
-                "reference": "Wall21b[^Wall21b]",
-                "median": 28.2
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "AZD1222",
-                "samples": 63,
-                "s_fold": 0,
-                "i_fold": 0,
-                "r_fold": 63,
-                "reference": "Wall21b[^Wall21b]",
-                "median": 10.0
-            },
-            {
-                "variant": "B.1.617.2",
                 "rx": "Ad26.COV2.S",
                 "samples": 8,
                 "s_fold": 7,
@@ -1815,22 +1755,22 @@
             {
                 "variant": "P.1",
                 "rx": "Ad26.COV2.S",
-                "samples": 25,
-                "s_fold": 25,
-                "i_fold": 0,
-                "r_fold": 0,
+                "samples": 19,
+                "s_fold": 9,
+                "i_fold": 4,
+                "r_fold": 6,
                 "reference": "Alter21[^Alter21]",
-                "median": 2.8
+                "median": "2.9"
             },
             {
                 "variant": "P.1",
                 "rx": "Ad26.COV2.S",
-                "samples": 25,
-                "s_fold": 0,
-                "i_fold": 25,
-                "r_fold": 0,
+                "samples": 20,
+                "s_fold": 7,
+                "i_fold": 10,
+                "r_fold": 3,
                 "reference": "Alter21[^Alter21]",
-                "median": 3.3
+                "median": "4"
             },
             {
                 "variant": "P.1",
