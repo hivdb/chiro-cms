@@ -60,25 +60,7 @@ def get_datetime_obj(datetime_str):
     return datetime.strptime(datetime_str, '%Y-%m-%d')
 
 
-START_DATE = None
-KEY_DATE = None
-
-
-def get_start_date():
-    global START_DATE
-    global KEY_DATE
-    TODAY = datetime.today()
-    if TODAY.day < 15:
-        START_DATE = '2020-01-01'
-        KEY_DATE = '01'
-    else:
-        START_DATE = '2020-01-01'
-        KEY_DATE = '15'
-    START_DATE = get_datetime_obj(START_DATE)
-
-
-get_start_date()
-
+START_DATE = get_datetime_obj('2020-01-01')
 
 FREQ_CALL_NUMBER = 5
 FREQ_WAIT_SECONDS = 1
@@ -263,29 +245,28 @@ def get_mutation_prevalence():
             map_with_skip(all_spike_mutations, processed_list, operator):
         print(mutation)
 
-        cummulative_lineage_count = 0
-        cummulative_total_count = 0
         timepoints = rec['results']
+
+        timepoints_group = defaultdict(list)
 
         for tp in timepoints:
             date = tp['date']
-            lineage_count = tp['lineage_count']
-            cummulative_lineage_count += lineage_count
-            total_count = tp['total_count']
-            cummulative_total_count += total_count
-
+            year_month = date[:7]
             if get_datetime_obj(date) < START_DATE:
                 continue
 
-            if not date.endswith(KEY_DATE):
-                continue
+            timepoints_group[year_month].append(tp)
+
+        prev_list = []
+
+        for year_month, tp_list in timepoints_group.items():
+            lineage_count = sum(tp['lineage_count'] for tp in tp_list)
+            total_count = sum(tp['total_count'] for tp in tp_list)
 
             proportion = get_proportion(
-                cummulative_lineage_count,
-                cummulative_total_count
+                lineage_count,
+                total_count
             )
-
-            year_month = date[:7]
 
             mutation_name = mutation.upper()
             prevalence[mutation_name].append({
@@ -293,10 +274,15 @@ def get_mutation_prevalence():
                 'prevalence': proportion
             })
 
+            prev_list.append(proportion)
+
         dump_progress(dict(prevalence), 'mutation_tp_prev')
 
         processed_list.append(mutation)
         dump_progress(processed_list, 'processed_list_mut_tp_prev')
+
+        if all([float(p) < 0.1 for p in prev_list]):
+            break
 
     prevalence = filter_timepoints(prevalence)
     return prevalence
@@ -402,9 +388,6 @@ def get_variant_global_prevalence():
             cummulative_total_count += total_count
 
             if get_datetime_obj(date) < START_DATE:
-                continue
-
-            if not date.endswith(KEY_DATE):
                 continue
 
             proportion = get_proportion(
@@ -546,11 +529,11 @@ def import_outbreak():
 
     get_version()
 
-    collect_variant_mutations(RESULTS_DIR)
+    # collect_variant_mutations(RESULTS_DIR)
 
-    collect_variant_time_prevalence(RESULTS_DIR)
+    # collect_variant_time_prevalence(RESULTS_DIR)
 
-    collect_variant_location_prevalence(RESULTS_DIR)
+    # collect_variant_location_prevalence(RESULTS_DIR)
 
     collect_mutation_time_prevalence(RESULTS_DIR)
 
