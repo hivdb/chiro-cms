@@ -955,6 +955,11 @@
   - variant: B.1.351
     rx: Casirivimab/Imdevimab
     mab_class: ''
+    fold: '7.5'
+    reference: Tada21d[^Tada21d]
+  - variant: B.1.351
+    rx: Casirivimab/Imdevimab
+    mab_class: ''
     fold: '8.1'
     reference: Wang21b*[^Wang21b]
   - variant: B.1.351
@@ -1150,6 +1155,11 @@
   - variant: B.1.351
     rx: Imdevimab
     mab_class: RBD Core Cluster I
+    fold: '1'
+    reference: Rothenberger21[^Rothenberger21]
+  - variant: B.1.351
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
     fold: '2.3'
     reference: Tada21[^Tada21]
   - variant: B.1.351
@@ -1157,6 +1167,11 @@
     mab_class: RBD Core Cluster I
     fold: '1.5'
     reference: Tada21c[^Tada21c]
+  - variant: B.1.351
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '1.8'
+    reference: Tada21d[^Tada21d]
   - variant: B.1.351
     rx: Imdevimab
     mab_class: RBD Core Cluster I
@@ -1310,6 +1325,11 @@
   - variant: B.1.351
     rx: Casirivimab
     mab_class: RBM Class I
+    fold: '4.9'
+    reference: Rothenberger21[^Rothenberger21]
+  - variant: B.1.351
+    rx: Casirivimab
+    mab_class: RBM Class I
     fold: '45'
     reference: Copin21[^Copin21]
   - variant: B.1.351
@@ -1327,6 +1347,11 @@
     mab_class: RBM Class I
     fold: '16'
     reference: Tada21c[^Tada21c]
+  - variant: B.1.351
+    rx: Casirivimab
+    mab_class: RBM Class I
+    fold: '&gt;100'
+    reference: Tada21d[^Tada21d]
   - variant: B.1.351
     rx: Casirivimab
     mab_class: RBM Class I
@@ -1987,6 +2012,16 @@
     mab_class: RBM Class I
     fold: '&gt;100'
     reference: Dejnirattisai21*[^Dejnirattisai21]
+  - variant: P.1
+    rx: Regdanvimab
+    mab_class: RBM Class I
+    fold: '61'
+    reference: Ryu21b[^Ryu21b]
+  - variant: P.1
+    rx: Regdanvimab
+    mab_class: RBM Class I
+    fold: '&gt;100'
+    reference: Ryu21b*[^Ryu21b]
   - variant: P.1
     rx: Bamlanivimab
     mab_class: RBM Class II

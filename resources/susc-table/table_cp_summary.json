@@ -1,36 +1,36 @@
 [
     {
         "variant": "B.1.1.7",
-        "cp_studies": 33,
-        "cp_samples": 884,
+        "cp_studies": 34,
+        "cp_samples": 889,
         "cp_s_fold": "87%",
         "cp_i_fold": "11%",
         "cp_r_fold": "2%",
-        "cp_num_s_fold": 772,
+        "cp_num_s_fold": 777,
         "cp_num_i_fold": 95,
         "cp_num_r_fold": 17
     },
     {
         "variant": "B.1.351",
-        "cp_studies": 36,
-        "cp_samples": 977,
+        "cp_studies": 37,
+        "cp_samples": 985,
         "cp_s_fold": "32%",
         "cp_i_fold": "47%",
         "cp_r_fold": "21%",
-        "cp_num_s_fold": 312,
-        "cp_num_i_fold": 460,
-        "cp_num_r_fold": 205
+        "cp_num_s_fold": 314,
+        "cp_num_i_fold": 463,
+        "cp_num_r_fold": 208
     },
     {
         "variant": "P.1",
-        "cp_studies": 14,
-        "cp_samples": 275,
+        "cp_studies": 15,
+        "cp_samples": 306,
         "cp_s_fold": "71%",
-        "cp_i_fold": "22%",
-        "cp_r_fold": "7%",
-        "cp_num_s_fold": 195,
-        "cp_num_i_fold": 61,
-        "cp_num_r_fold": 19
+        "cp_i_fold": "20%",
+        "cp_r_fold": "9%",
+        "cp_num_s_fold": 218,
+        "cp_num_i_fold": 62,
+        "cp_num_r_fold": 26
     },
     {
         "variant": "B.1.617.2",
@@ -67,14 +67,14 @@
     },
     {
         "variant": "B.1.617.1",
-        "cp_studies": 3,
-        "cp_samples": 66,
-        "cp_s_fold": "41%",
-        "cp_i_fold": "48%",
-        "cp_r_fold": "11%",
-        "cp_num_s_fold": 27,
-        "cp_num_i_fold": 32,
-        "cp_num_r_fold": 7
+        "cp_studies": 4,
+        "cp_samples": 84,
+        "cp_s_fold": "45%",
+        "cp_i_fold": "42%",
+        "cp_r_fold": "13%",
+        "cp_num_s_fold": 38,
+        "cp_num_i_fold": 35,
+        "cp_num_r_fold": 11
     },
     {
         "variant": "N501Y",

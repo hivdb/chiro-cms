@@ -145,6 +145,16 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "CP",
+                "samples": 5,
+                "s_fold": 5,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Rondinone21*[^Rondinone21]",
+                "median": "1"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "CP",
                 "samples": 30,
                 "s_fold": 28,
                 "i_fold": 2,
@@ -680,6 +690,16 @@
             {
                 "variant": "B.1.351",
                 "rx": "CP",
+                "samples": 8,
+                "s_fold": 2,
+                "i_fold": 3,
+                "r_fold": 3,
+                "reference": "Tada21d[^Tada21d]",
+                "median": "4.5"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "CP",
                 "samples": 6,
                 "s_fold": 1,
                 "i_fold": 1,
@@ -1125,6 +1145,16 @@
             {
                 "variant": "B.1.617.1",
                 "rx": "CP",
+                "samples": 18,
+                "s_fold": 11,
+                "i_fold": 3,
+                "r_fold": 4,
+                "reference": "Hu21c[^Hu21c]",
+                "median": "2.7"
+            },
+            {
+                "variant": "B.1.617.1",
+                "rx": "CP",
                 "samples": 30,
                 "s_fold": 10,
                 "i_fold": 18,
@@ -1221,6 +1251,16 @@
                 "r_fold": 1,
                 "reference": "Hoffmann21[^Hoffmann21]",
                 "median": "6.1"
+            },
+            {
+                "variant": "P.1",
+                "rx": "CP",
+                "samples": 31,
+                "s_fold": 23,
+                "i_fold": 1,
+                "r_fold": 7,
+                "reference": "Imai21[^Imai21]",
+                "median": "2"
             },
             {
                 "variant": "P.1",

@@ -585,6 +585,13 @@
             },
             {
                 "variant": "E484K",
+                "rx": "Regdanvimab",
+                "mab_class": "RBM Class I",
+                "fold": "8.7",
+                "reference": "Ryu21b[^Ryu21b]"
+            },
+            {
+                "variant": "E484K",
                 "rx": "S2E12",
                 "mab_class": "RBM Class I",
                 "fold": "4.4",
@@ -798,6 +805,13 @@
             },
             {
                 "variant": "F490S",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "0",
+                "reference": "Tada21d[^Tada21d]"
+            },
+            {
+                "variant": "F490S",
                 "rx": "Imdevimab/REGN10989",
                 "mab_class": "",
                 "fold": "5.4",
@@ -833,6 +847,13 @@
             },
             {
                 "variant": "F490S",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "1.2",
+                "reference": "Tada21d[^Tada21d]"
+            },
+            {
+                "variant": "F490S",
                 "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.9",
@@ -858,6 +879,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "0.8",
                 "reference": "Rothenberger21[^Rothenberger21]"
+            },
+            {
+                "variant": "F490S",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.6",
+                "reference": "Tada21d[^Tada21d]"
             },
             {
                 "variant": "F490S",
@@ -2829,6 +2857,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "12",
                 "reference": "Zhang21c[^Zhang21c]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "Regdanvimab",
+                "mab_class": "RBM Class I",
+                "fold": "15",
+                "reference": "Ryu21b[^Ryu21b]"
             },
             {
                 "variant": "N501Y",

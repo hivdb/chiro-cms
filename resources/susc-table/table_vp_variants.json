@@ -225,6 +225,16 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
+                "samples": 15,
+                "s_fold": 14,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Lustig21[^Lustig21]",
+                "median": "2"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
                 "samples": 6,
                 "s_fold": 6,
                 "i_fold": 0,
@@ -511,6 +521,16 @@
                 "r_fold": 0,
                 "reference": "Ikegame21[^Ikegame21]",
                 "median": "0.6"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "mRNA-1273",
+                "samples": 8,
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Choi21[^Choi21]",
+                "median": "1.2"
             },
             {
                 "variant": "B.1.1.7",
@@ -860,6 +880,16 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 15,
+                "s_fold": 0,
+                "i_fold": 11,
+                "r_fold": 4,
+                "reference": "Lustig21[^Lustig21]",
+                "median": "7.8"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
                 "samples": 6,
                 "s_fold": 1,
                 "i_fold": 5,
@@ -990,6 +1020,16 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 15,
+                "s_fold": 9,
+                "i_fold": 6,
+                "r_fold": 0,
+                "reference": "Tada21d[^Tada21d]",
+                "median": "2.9"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
                 "samples": 320,
                 "s_fold": 122,
                 "i_fold": 83,
@@ -1110,6 +1150,16 @@
             {
                 "variant": "B.1.351",
                 "rx": "mRNA-1273",
+                "samples": 24,
+                "s_fold": 0,
+                "i_fold": 22,
+                "r_fold": 2,
+                "reference": "Choi21[^Choi21]",
+                "median": "6.9"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "mRNA-1273",
                 "samples": 19,
                 "s_fold": 5,
                 "i_fold": 14,
@@ -1186,6 +1236,16 @@
                 "r_fold": 0,
                 "reference": "Tada21c[^Tada21c]",
                 "median": 0.3
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "mRNA-1273",
+                "samples": 6,
+                "s_fold": 2,
+                "i_fold": 4,
+                "r_fold": 0,
+                "reference": "Tada21d[^Tada21d]",
+                "median": "4.0"
             },
             {
                 "variant": "B.1.351",
@@ -1356,6 +1416,16 @@
                 "variant": "B.1.427/9",
                 "rx": "mRNA-1273",
                 "samples": 8,
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Choi21[^Choi21]",
+                "median": "2.2"
+            },
+            {
+                "variant": "B.1.427/9",
+                "rx": "mRNA-1273",
+                "samples": 8,
                 "s_fold": 7,
                 "i_fold": 1,
                 "r_fold": 0,
@@ -1466,6 +1536,16 @@
                 "r_fold": 0,
                 "reference": "Zhou21c[^Zhou21c]",
                 "median": 3.3
+            },
+            {
+                "variant": "B.1.526",
+                "rx": "mRNA-1273",
+                "samples": 8,
+                "s_fold": 5,
+                "i_fold": 3,
+                "r_fold": 0,
+                "reference": "Choi21[^Choi21]",
+                "median": "2.6"
             },
             {
                 "variant": "B.1.526",
@@ -1614,6 +1694,36 @@
             },
             {
                 "variant": "B.1.617.1",
+                "rx": "ZF2001",
+                "samples": 8,
+                "s_fold": 3,
+                "i_fold": 0,
+                "r_fold": 5,
+                "reference": "Hu21c[^Hu21c]",
+                "median": "2.6"
+            },
+            {
+                "variant": "B.1.617.1",
+                "rx": "ZF2001",
+                "samples": 2,
+                "s_fold": 0,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "Hu21c[^Hu21c]",
+                "median": "4.2"
+            },
+            {
+                "variant": "B.1.617.1",
+                "rx": "mRNA-1273",
+                "samples": 16,
+                "s_fold": 3,
+                "i_fold": 13,
+                "r_fold": 0,
+                "reference": "Choi21[^Choi21]",
+                "median": "3.2"
+            },
+            {
+                "variant": "B.1.617.1",
                 "rx": "mRNA-1273",
                 "samples": 15,
                 "s_fold": 0,
@@ -1669,6 +1779,26 @@
             },
             {
                 "variant": "B.1.617.2",
+                "rx": "AZD1222",
+                "samples": 39,
+                "s_fold": 22,
+                "i_fold": 6,
+                "r_fold": 11,
+                "reference": "Sapkal21c[^Sapkal21c]",
+                "median": "2.6"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "AZD1222",
+                "samples": 47,
+                "s_fold": 30,
+                "i_fold": 10,
+                "r_fold": 7,
+                "reference": "Sapkal21c[^Sapkal21c]",
+                "median": "2.2"
+            },
+            {
+                "variant": "B.1.617.2",
                 "rx": "Ad26.COV2.S",
                 "samples": 8,
                 "s_fold": 7,
@@ -1710,6 +1840,16 @@
             {
                 "variant": "B.1.617.2",
                 "rx": "BNT162b2",
+                "samples": 38,
+                "s_fold": 28,
+                "i_fold": 9,
+                "r_fold": 1,
+                "reference": "Lustig21[^Lustig21]",
+                "median": "2"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 0,
                 "i_fold": 10,
@@ -1736,6 +1876,16 @@
                 "r_fold": 0,
                 "reference": "Planas21b[^Planas21b]",
                 "median": 1.7
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "mRNA-1273",
+                "samples": 8,
+                "s_fold": 7,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Choi21[^Choi21]",
+                "median": "2.1"
             }
         ]
     },
@@ -1835,12 +1985,32 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
+                "samples": 7,
+                "s_fold": 7,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Imai21[^Imai21]",
+                "median": "0.5"
+            },
+            {
+                "variant": "P.1",
+                "rx": "BNT162b2",
                 "samples": 30,
                 "s_fold": 10,
                 "i_fold": 20,
                 "r_fold": 0,
                 "reference": "Leier21*[^Leier21]",
                 "median": 3.3
+            },
+            {
+                "variant": "P.1",
+                "rx": "BNT162b2",
+                "samples": 15,
+                "s_fold": 10,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Lustig21*[^Lustig21]",
+                "median": "2"
             },
             {
                 "variant": "P.1",
@@ -1911,6 +2081,16 @@
                 "r_fold": 6,
                 "reference": "deSouza21*[^deSouza21]",
                 "median": "5"
+            },
+            {
+                "variant": "P.1",
+                "rx": "mRNA-1273",
+                "samples": 8,
+                "s_fold": 3,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Choi21[^Choi21]",
+                "median": "3.5"
             },
             {
                 "variant": "P.1",
