@@ -22,7 +22,23 @@ Instruction:
 7. Please do not delete this instruction.
 
 -->
+### Database Entries (Jul 19)
+Dougan M, Nirula A, et int., and Skovronsky DM. [“Bamlanivimab plus Etesevimab in Mild or Moderate Covid-19.”](/search/?article=Dougan21) _New England Journal of Medicine_, 2021. [doi.org/10.1056/nejmoa2102685](https://doi.org/10.1056/nejmoa2102685). \[[PubMed34260849](https://www.ncbi.nlm.nih.gov/pubmed/34260849/)\]
+### Database Entries (Jul 19)
+Fischer W, Eron JJ, et int., and Painter WP. [“Molnupiravir, an Oral Antiviral Treatment for COVID-19.”](/search/?article=Fischer21) _medRxiv_, 2021. [doi.org/10.1101/2021.06.17.21258639](https://doi.org/10.1101/2021.06.17.21258639). \[[PubMed34159342](https://www.ncbi.nlm.nih.gov/pubmed/34159342/)\] \[[PMC8219109](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8219109/)\]
+### Database Entries (Jul 19)
+Frazier L, Lubinski B, et int., and Whittaker G. [“Spike protein cleavage-activation mediated by the SARS-CoV-2 P681R mutation: a case-study from its first appearance in variant of interest (VOI) A.23.1 identified in Uganda.”](/search-drdb/?article=Frazier21) _bioRxiv : the preprint server for biology_, 2021. [doi.org/10.1101/2021.06.30.450632](https://doi.org/10.1101/2021.06.30.450632). \[[PubMed34230931](https://www.ncbi.nlm.nih.gov/pubmed/34230931/)\] \[[PMC8259907](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8259907/)\]
 
+### Database Entries (Jul 19)
+Lustig Y, Zuckerman N, et int., and Mandelboim M. [“Neutralising capacity against Delta (B.1.617.2) and other variants of concern following Comirnaty (BNT162b2, BioNTech/Pfizer) vaccination in health care workers, Israel.”](/search-drdb/?article=Lustig21) _Eurosurveillance_, 2021. [doi.org/10.2807/1560-7917.es.2021.26.26.2100557](https://doi.org/10.2807/1560-7917.es.2021.26.26.2100557). \[[PubMed34212838](https://www.ncbi.nlm.nih.gov/pubmed/34212838/)\]
+### Database Entries (Jul 19)
+Ryu D, Kang B, et int., and Lee S. [“Therapeutic efficacy of CT-P59 against P.1 variant of SARS-CoV-2.”](/search-drdb/?article=Ryu21b) _bioRxiv_, 2021. [doi.org/10.1101/2021.07.08.451696](https://doi.org/10.1101/2021.07.08.451696).
+### Database Entries (Jul 19)
+Sapkal GN, Yadav PD, et int., and Bhargava B. [“Neutralization Of Delta Variant With Sera Of Covishield Vaccinees And Covid-19 Recovered Vaccinated Individuals.”](/search-drdb/?article=Sapkal21c) __, 2021. [doi.org/10.1101/2021.07.01.450676](https://doi.org/10.1101/2021.07.01.450676).
+### Database Entries (Jul 19)
+Tada T0, Zhou H, et int., and Landau NR. [“Sars-Cov-2 Lambda Variant Remains Susceptible To Neutralization By Mrna Vaccine-Elicited Antibodies And Convalescent Serum.”](/search-drdb/?article=Tada21d) __, 2021. [doi.org/10.1101/2021.07.02.450959](https://doi.org/10.1101/2021.07.02.450959).
+### Database Entries (Jul 19)
+Weinreich DM, Sivapalasingam S, et int., and Yancopoulos GD. [“REGEN-COV Antibody Cocktail Clinical Outcomes Study in Covid-19 Outpatients.”](/search/?article=Weinreich21b) _medRxiv_, 2021. [doi.org/10.1101/2021.05.19.21257469](https://doi.org/10.1101/2021.05.19.21257469).
 ### Database Entries (Jul 09)
 Acevedo ML, Alonso-Palomares L, et int., and Soto-Rifo R. [“Infectivity and immune escape of the new SARS-CoV-2 variant of interest Lambda.”](/search-drdb/?article=Acevedo21) _medRxiv_, 2021. [doi.org/10.1101/2021.06.28.21259673](https://doi.org/10.1101/2021.06.28.21259673).
 ### Database Entries (Jul 09)
