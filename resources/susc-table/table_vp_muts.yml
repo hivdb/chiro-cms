@@ -2,20 +2,12 @@
   assays:
   - variant: E484K
     rx: BNT162b2
-    samples: 10
-    s_fold: 6
-    i_fold: 1
-    r_fold: 3
+    samples: 34
+    s_fold: 23
+    i_fold: 10
+    r_fold: 1
     reference: Ferreira21[^Ferreira21]
-    median: '2.6'
-  - variant: E484K
-    rx: BNT162b2
-    samples: 5
-    s_fold: 1
-    i_fold: 4
-    r_fold: 0
-    reference: Jangra21[^Jangra21]
-    median: '4.3'
+    median: '2.3'
   - variant: E484K
     rx: BNT162b2
     samples: 10
@@ -23,7 +15,7 @@
     i_fold: 10
     r_fold: 0
     reference: Kuzmina21[^Kuzmina21]
-    median: 3.4
+    median: 3.7
   - variant: E484K
     rx: BNT162b2
     samples: 5
@@ -34,12 +26,12 @@
     median: '4.3'
   - variant: E484K
     rx: BNT162b2
-    samples: 6
-    s_fold: 6
-    i_fold: 0
+    samples: 12
+    s_fold: 9
+    i_fold: 3
     r_fold: 0
     reference: Tada21c[^Tada21c]
-    median: 2.4
+    median: '2.6'
   - variant: E484K
     rx: BNT162b2
     samples: 4
@@ -58,28 +50,36 @@
     median: '2.8'
   - variant: E484K
     rx: Sputnik V
-    samples: 12
-    s_fold: 7
-    i_fold: 4
-    r_fold: 1
+    samples: 9
+    s_fold: 2
+    i_fold: 1
+    r_fold: 6
     reference: Ikegame21[^Ikegame21]
     median: '2.9'
   - variant: E484K
     rx: mRNA-1273
     samples: 6
-    s_fold: 2
-    i_fold: 4
+    s_fold: 4
+    i_fold: 2
     r_fold: 0
     reference: Greaney21c[^Greaney21c]
-    median: '3'
+    median: '2.8'
   - variant: E484K
     rx: mRNA-1273
-    samples: 3
-    s_fold: 3
-    i_fold: 0
+    samples: 66
+    s_fold: 56
+    i_fold: 10
+    r_fold: 0
+    reference: Pegu21[^Pegu21]
+    median: '1.8'
+  - variant: E484K
+    rx: mRNA-1273
+    samples: 6
+    s_fold: 5
+    i_fold: 1
     r_fold: 0
     reference: Tada21c[^Tada21c]
-    median: 2.6
+    median: '2.6'
   - variant: E484K
     rx: mRNA-1273
     samples: 11
@@ -109,19 +109,19 @@
   - variant: E484K + N501Y
     rx: BNT162b2
     samples: 10
-    s_fold: 0
-    i_fold: 10
-    r_fold: 0
-    reference: Kuzmina21[^Kuzmina21]
-    median: 3.8
-  - variant: E484K + N501Y
-    rx: BNT162b2
-    samples: 20
-    s_fold: 20
+    s_fold: 10
     i_fold: 0
     r_fold: 0
-    reference: Xie21b[^Xie21b]
-    median: '1'
+    reference: Kuzmina21[^Kuzmina21]
+    median: 1.1
+  - variant: E484K + N501Y
+    rx: ChAd-SARS-CoV-2
+    samples: 24
+    s_fold: 10
+    i_fold: 5
+    r_fold: 9
+    reference: Chen21[^Chen21]
+    median: '4.6'
 - variant: K417N
   assays:
   - variant: K417N
@@ -139,7 +139,7 @@
     i_fold: 0
     r_fold: 0
     reference: Kuzmina21[^Kuzmina21]
-    median: 1.1
+    median: 1.2
   - variant: K417N
     rx: BNT162b2
     samples: 4
@@ -156,6 +156,14 @@
     r_fold: 0
     reference: Wang21b[^Wang21b]
     median: '0.7'
+  - variant: K417N
+    rx: ChAd-SARS-CoV-2
+    samples: 24
+    s_fold: 24
+    i_fold: 0
+    r_fold: 0
+    reference: Chen21[^Chen21]
+    median: '0.6'
   - variant: K417N
     rx: mRNA-1273
     samples: 6
@@ -184,12 +192,12 @@
   assays:
   - variant: K417N + E484K + N501Y
     rx: AZD1222
-    samples: 13
-    s_fold: 1
+    samples: 25
+    s_fold: 2
     i_fold: 7
-    r_fold: 5
+    r_fold: 16
     reference: Madhi21[^Madhi21]
-    median: '6.6'
+    median: '5'
   - variant: K417N + E484K + N501Y
     rx: BNT162b2
     samples: 10
@@ -197,12 +205,12 @@
     i_fold: 10
     r_fold: 0
     reference: Kuzmina21[^Kuzmina21]
-    median: 4.5
+    median: 5.1
   - variant: K417N + E484K + N501Y
     rx: BNT162b2
     samples: 20
-    s_fold: 17
-    i_fold: 3
+    s_fold: 18
+    i_fold: 2
     r_fold: 0
     reference: Liu21b[^Liu21b]
     median: '2'
@@ -215,13 +223,21 @@
     reference: Wang21[^Wang21]
     median: '2.0'
   - variant: K417N + E484K + N501Y
+    rx: ChAd-SARS-CoV-2
+    samples: 24
+    s_fold: 5
+    i_fold: 9
+    r_fold: 10
+    reference: Chen21[^Chen21]
+    median: '8.1'
+  - variant: K417N + E484K + N501Y
     rx: mRNA-1273
     samples: 11
     s_fold: 11
     i_fold: 0
     r_fold: 0
     reference: Wang21[^Wang21]
-    median: '1.7'
+    median: '1.6'
   - variant: K417N + E484K + N501Y
     rx: mRNA-1273
     samples: 8
@@ -229,25 +245,25 @@
     i_fold: 0
     r_fold: 0
     reference: Wu21[^Wu21]
-    median: 2.7
+    median: 2.8
 - variant: L452R
   assays:
   - variant: L452R
     rx: BNT162b2
-    samples: 10
-    s_fold: 5
-    i_fold: 5
-    r_fold: 0
+    samples: 34
+    s_fold: 29
+    i_fold: 3
+    r_fold: 2
     reference: Ferreira21[^Ferreira21]
-    median: '2.3'
+    median: '1.7'
   - variant: L452R
     rx: BNT162b2
-    samples: 6
-    s_fold: 0
-    i_fold: 6
+    samples: 12
+    s_fold: 7
+    i_fold: 5
     r_fold: 0
     reference: Tada21c[^Tada21c]
-    median: 3.0
+    median: '2.9'
   - variant: L452R
     rx: mRNA-1273
     samples: 6
@@ -258,12 +274,12 @@
     median: '2.3'
   - variant: L452R
     rx: mRNA-1273
-    samples: 3
-    s_fold: 0
-    i_fold: 3
+    samples: 6
+    s_fold: 2
+    i_fold: 4
     r_fold: 0
     reference: Tada21c[^Tada21c]
-    median: 3.2
+    median: '3.4'
 - variant: N439K
   assays:
   - variant: N439K
@@ -274,6 +290,14 @@
     r_fold: 0
     reference: Wang21[^Wang21]
     median: '0.8'
+  - variant: N439K
+    rx: mRNA-1273
+    samples: 33
+    s_fold: 33
+    i_fold: 0
+    r_fold: 0
+    reference: Pegu21[^Pegu21]
+    median: '1.2'
   - variant: N439K
     rx: mRNA-1273
     samples: 11
@@ -325,22 +349,6 @@
     reference: Wang21b[^Wang21b]
     median: '1.5'
   - variant: N501Y
-    rx: BNT162b2
-    samples: 20
-    s_fold: 20
-    i_fold: 0
-    r_fold: 0
-    reference: Xie21[^Xie21]
-    median: '0.8'
-  - variant: N501Y
-    rx: BNT162b2
-    samples: 20
-    s_fold: 20
-    i_fold: 0
-    r_fold: 0
-    reference: Xie21b[^Xie21b]
-    median: '0.8'
-  - variant: N501Y
     rx: mRNA-1273
     samples: 14
     s_fold: 14
@@ -355,7 +363,7 @@
     i_fold: 0
     r_fold: 0
     reference: Shen21[^Shen21]
-    median: '0.8'
+    median: '0.7'
   - variant: N501Y
     rx: mRNA-1273
     samples: 11
@@ -390,6 +398,14 @@
     r_fold: 0
     reference: Wang21[^Wang21]
     median: '0.6'
+  - variant: Y453F
+    rx: mRNA-1273
+    samples: 33
+    s_fold: 33
+    i_fold: 0
+    r_fold: 0
+    reference: Pegu21[^Pegu21]
+    median: '1'
   - variant: Y453F
     rx: mRNA-1273
     samples: 11
@@ -428,6 +444,14 @@
     median: '1'
   - variant: ∆69/70
     rx: mRNA-1273
+    samples: 11
+    s_fold: 11
+    i_fold: 0
+    r_fold: 0
+    reference: Shen21[^Shen21]
+    median: '0.5'
+  - variant: ∆69/70
+    rx: mRNA-1273
     samples: 12
     s_fold: 12
     i_fold: 0
@@ -436,14 +460,6 @@
     median: '0.8'
 - variant: ∆69/70 + N501Y
   assays:
-  - variant: ∆69/70 + N501Y
-    rx: BNT162b2
-    samples: 20
-    s_fold: 20
-    i_fold: 0
-    r_fold: 0
-    reference: Xie21b[^Xie21b]
-    median: '0.8'
   - variant: ∆69/70 + N501Y
     rx: mRNA-1273
     samples: 11
@@ -456,8 +472,8 @@
   assays:
   - variant: ∆69/70 + N501Y + A570D
     rx: BNT162b2
-    samples: 15
-    s_fold: 15
+    samples: 18
+    s_fold: 18
     i_fold: 0
     r_fold: 0
     reference: Collier21[^Collier21]

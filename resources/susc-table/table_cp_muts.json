@@ -5,32 +5,22 @@
             {
                 "variant": "E484K",
                 "rx": "CP",
-                "samples": 4,
-                "s_fold": 1,
-                "i_fold": 1,
-                "r_fold": 2,
-                "reference": "Greaney21[^Greaney21]",
-                "median": "9.4"
-            },
-            {
-                "variant": "E484K",
-                "rx": "CP",
                 "samples": 5,
                 "s_fold": 1,
-                "i_fold": 1,
-                "r_fold": 3,
-                "reference": "Greaney21c[^Greaney21c]",
-                "median": "10"
+                "i_fold": 0,
+                "r_fold": 4,
+                "reference": "Greaney21[^Greaney21]",
+                "median": "13"
             },
             {
                 "variant": "E484K",
                 "rx": "CP",
-                "samples": 30,
-                "s_fold": 16,
-                "i_fold": 11,
-                "r_fold": 3,
-                "reference": "Jangra21[^Jangra21]",
-                "median": "2.7"
+                "samples": 6,
+                "s_fold": 1,
+                "i_fold": 1,
+                "r_fold": 4,
+                "reference": "Greaney21c[^Greaney21c]",
+                "median": "15"
             },
             {
                 "variant": "E484K",
@@ -45,6 +35,16 @@
             {
                 "variant": "E484K",
                 "rx": "CP",
+                "samples": 17,
+                "s_fold": 3,
+                "i_fold": 3,
+                "r_fold": 11,
+                "reference": "Liu21[^Liu21]",
+                "median": "13"
+            },
+            {
+                "variant": "E484K",
+                "rx": "CP",
                 "samples": 10,
                 "s_fold": 10,
                 "i_fold": 0,
@@ -55,12 +55,12 @@
             {
                 "variant": "E484K",
                 "rx": "CP",
-                "samples": 8,
-                "s_fold": 8,
-                "i_fold": 0,
+                "samples": 16,
+                "s_fold": 12,
+                "i_fold": 4,
                 "r_fold": 0,
                 "reference": "Tada21c[^Tada21c]",
-                "median": 2.1
+                "median": "2.7"
             },
             {
                 "variant": "E484K",
@@ -80,7 +80,17 @@
                 "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Wang21f[^Wang21f]",
-                "median": "1.1"
+                "median": "1.2"
+            },
+            {
+                "variant": "E484K",
+                "rx": "CP",
+                "samples": 4,
+                "s_fold": 1,
+                "i_fold": 3,
+                "r_fold": 0,
+                "reference": "Weisblum20[^Weisblum20]",
+                "median": "4.5"
             },
             {
                 "variant": "E484K",
@@ -106,11 +116,11 @@
                 "variant": "E484K",
                 "rx": "CP",
                 "samples": 6,
-                "s_fold": 0,
-                "i_fold": 6,
+                "s_fold": 1,
+                "i_fold": 5,
                 "r_fold": 0,
                 "reference": "Zhou21c[^Zhou21c]",
-                "median": 3.3
+                "median": "3.3"
             },
             {
                 "variant": "E484K",
@@ -164,13 +174,23 @@
             },
             {
                 "variant": "E484K",
+                "rx": "CP_low_titer",
+                "samples": 5,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 5,
+                "reference": "Alenquer21[^Alenquer21]",
+                "median": "2.5"
+            },
+            {
+                "variant": "E484K",
                 "rx": "CP_medium_titer",
-                "samples": 2,
+                "samples": 3,
                 "s_fold": 1,
                 "i_fold": 0,
-                "r_fold": 1,
+                "r_fold": 2,
                 "reference": "Alenquer21[^Alenquer21]",
-                "median": "6.4"
+                "median": "4"
             }
         ]
     },
@@ -181,9 +201,9 @@
                 "variant": "E484K + N501Y",
                 "rx": "CP",
                 "samples": 19,
-                "s_fold": 6,
-                "i_fold": 10,
-                "r_fold": 3,
+                "s_fold": 5,
+                "i_fold": 5,
+                "r_fold": 9,
                 "reference": "Chen21[^Chen21]",
                 "median": "5.7"
             },
@@ -372,8 +392,8 @@
                 "rx": "CP",
                 "samples": 19,
                 "s_fold": 12,
-                "i_fold": 5,
-                "r_fold": 2,
+                "i_fold": 3,
+                "r_fold": 4,
                 "reference": "Chen21[^Chen21]",
                 "median": "2.6"
             },
@@ -390,12 +410,12 @@
             {
                 "variant": "K417N + E484K + N501Y",
                 "rx": "CP",
-                "samples": 23,
-                "s_fold": 22,
+                "samples": 24,
+                "s_fold": 21,
                 "i_fold": 1,
-                "r_fold": 0,
+                "r_fold": 2,
                 "reference": "Wang21f[^Wang21f]",
-                "median": "1"
+                "median": "1.1"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -406,6 +426,16 @@
                 "r_fold": 0,
                 "reference": "Yi21[^Yi21]",
                 "median": "5.1"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "CP_1M",
+                "samples": 20,
+                "s_fold": 3,
+                "i_fold": 9,
+                "r_fold": 8,
+                "reference": "Hu21[^Hu21]",
+                "median": "5.2"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -440,12 +470,22 @@
             {
                 "variant": "K417N + E484K + N501Y",
                 "rx": "CP_6M",
-                "samples": 45,
-                "s_fold": 36,
+                "samples": 44,
+                "s_fold": 35,
                 "i_fold": 7,
                 "r_fold": 2,
                 "reference": "Wang21[^Wang21]",
                 "median": "1.9"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "CP_8M",
+                "samples": 17,
+                "s_fold": 1,
+                "i_fold": 1,
+                "r_fold": 15,
+                "reference": "Hu21[^Hu21]",
+                "median": "9.2"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -470,42 +510,52 @@
             {
                 "variant": "K417N + E484K + N501Y",
                 "rx": "CP_high_titer",
-                "samples": 2,
+                "samples": 4,
                 "s_fold": 0,
                 "i_fold": 0,
-                "r_fold": 2,
+                "r_fold": 4,
                 "reference": "Alenquer21[^Alenquer21]",
-                "median": "29"
+                "median": "23"
             },
             {
                 "variant": "K417N + E484K + N501Y",
                 "rx": "CP_high_titer",
-                "samples": 20,
-                "s_fold": 6,
-                "i_fold": 5,
-                "r_fold": 9,
+                "samples": 22,
+                "s_fold": 5,
+                "i_fold": 6,
+                "r_fold": 11,
                 "reference": "Wibmer21[^Wibmer21]",
-                "median": "6.6"
+                "median": "7.4"
             },
             {
                 "variant": "K417N + E484K + N501Y",
                 "rx": "CP_low_titer",
-                "samples": 17,
-                "s_fold": 5,
-                "i_fold": 6,
-                "r_fold": 6,
+                "samples": 5,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 5,
+                "reference": "Alenquer21[^Alenquer21]",
+                "median": "2.5"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "CP_low_titer",
+                "samples": 22,
+                "s_fold": 8,
+                "i_fold": 5,
+                "r_fold": 9,
                 "reference": "Wibmer21[^Wibmer21]",
-                "median": "6.8"
+                "median": "5.9"
             },
             {
                 "variant": "K417N + E484K + N501Y",
                 "rx": "CP_medium_titer",
-                "samples": 2,
+                "samples": 3,
                 "s_fold": 0,
                 "i_fold": 0,
-                "r_fold": 2,
+                "r_fold": 3,
                 "reference": "Alenquer21[^Alenquer21]",
-                "median": "20"
+                "median": "19"
             }
         ]
     },
@@ -525,22 +575,32 @@
             {
                 "variant": "L452R",
                 "rx": "CP",
-                "samples": 2,
-                "s_fold": 0,
+                "samples": 10,
+                "s_fold": 9,
                 "i_fold": 1,
-                "r_fold": 1,
-                "reference": "Liu21[^Liu21]",
-                "median": "9.9"
+                "r_fold": 0,
+                "reference": "Li20h[^Li20h]",
+                "median": "1.2"
             },
             {
                 "variant": "L452R",
                 "rx": "CP",
-                "samples": 8,
-                "s_fold": 8,
-                "i_fold": 0,
+                "samples": 3,
+                "s_fold": 0,
+                "i_fold": 1,
+                "r_fold": 2,
+                "reference": "Liu21[^Liu21]",
+                "median": "3.2"
+            },
+            {
+                "variant": "L452R",
+                "rx": "CP",
+                "samples": 16,
+                "s_fold": 11,
+                "i_fold": 5,
                 "r_fold": 0,
                 "reference": "Tada21c[^Tada21c]",
-                "median": 2.5
+                "median": "2.3"
             },
             {
                 "variant": "L452R",
@@ -575,12 +635,12 @@
             {
                 "variant": "L452R",
                 "rx": "CP_low_titer",
-                "samples": 1,
+                "samples": 5,
                 "s_fold": 1,
                 "i_fold": 0,
-                "r_fold": 0,
+                "r_fold": 4,
                 "reference": "Alenquer21[^Alenquer21]",
-                "median": "1.5"
+                "median": "2.4"
             },
             {
                 "variant": "L452R",
@@ -600,12 +660,22 @@
             {
                 "variant": "N439K",
                 "rx": "CP",
-                "samples": 3,
-                "s_fold": 3,
+                "samples": 10,
+                "s_fold": 10,
                 "i_fold": 0,
                 "r_fold": 0,
+                "reference": "Li20h[^Li20h]",
+                "median": "1.7"
+            },
+            {
+                "variant": "N439K",
+                "rx": "CP",
+                "samples": 15,
+                "s_fold": 14,
+                "i_fold": 1,
+                "r_fold": 0,
                 "reference": "Shen21[^Shen21]",
-                "median": "1.1"
+                "median": "1.5"
             },
             {
                 "variant": "N439K",
@@ -620,12 +690,12 @@
             {
                 "variant": "N439K",
                 "rx": "CP_low_titer",
-                "samples": 4,
-                "s_fold": 4,
+                "samples": 5,
+                "s_fold": 3,
                 "i_fold": 0,
-                "r_fold": 0,
+                "r_fold": 2,
                 "reference": "Alenquer21[^Alenquer21]",
-                "median": "1.8"
+                "median": "1.9"
             },
             {
                 "variant": "N439K",
@@ -666,8 +736,8 @@
                 "variant": "N501Y",
                 "rx": "CP",
                 "samples": 15,
-                "s_fold": 10,
-                "i_fold": 5,
+                "s_fold": 11,
+                "i_fold": 4,
                 "r_fold": 0,
                 "reference": "Shen21[^Shen21]",
                 "median": "2.2"
@@ -755,12 +825,12 @@
             {
                 "variant": "N501Y",
                 "rx": "CP_Mild",
-                "samples": 18,
-                "s_fold": 16,
-                "i_fold": 2,
-                "r_fold": 0,
+                "samples": 13,
+                "s_fold": 8,
+                "i_fold": 3,
+                "r_fold": 2,
                 "reference": "Rees-Spear21[^Rees-Spear21]",
-                "median": "1.2"
+                "median": "1"
             },
             {
                 "variant": "N501Y",
@@ -780,7 +850,7 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Rees-Spear21[^Rees-Spear21]",
-                "median": "1.2"
+                "median": "1.3"
             },
             {
                 "variant": "N501Y",
@@ -805,12 +875,12 @@
             {
                 "variant": "N501Y",
                 "rx": "CP_low_titer",
-                "samples": 4,
-                "s_fold": 3,
+                "samples": 5,
+                "s_fold": 1,
                 "i_fold": 1,
-                "r_fold": 0,
+                "r_fold": 3,
                 "reference": "Alenquer21[^Alenquer21]",
-                "median": "2.6"
+                "median": "2.5"
             },
             {
                 "variant": "N501Y",
@@ -831,11 +901,11 @@
                 "variant": "Y453F",
                 "rx": "CP",
                 "samples": 14,
-                "s_fold": 9,
+                "s_fold": 8,
                 "i_fold": 5,
-                "r_fold": 0,
+                "r_fold": 1,
                 "reference": "Hoffmann21b[^Hoffmann21b]",
-                "median": "1.9"
+                "median": "1.8"
             },
             {
                 "variant": "Y453F",
@@ -880,6 +950,16 @@
             {
                 "variant": "∆69/70",
                 "rx": "CP",
+                "samples": 15,
+                "s_fold": 15,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Shen21[^Shen21]",
+                "median": "0.9"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "CP",
                 "samples": 18,
                 "s_fold": 17,
                 "i_fold": 1,
@@ -900,12 +980,12 @@
             {
                 "variant": "∆69/70",
                 "rx": "CP_Mild",
-                "samples": 18,
-                "s_fold": 18,
+                "samples": 13,
+                "s_fold": 13,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Rees-Spear21[^Rees-Spear21]",
-                "median": "0.8"
+                "median": "0.9"
             },
             {
                 "variant": "∆69/70",
@@ -946,9 +1026,9 @@
                 "variant": "∆69/70 + N501Y",
                 "rx": "CP_low_titer",
                 "samples": 5,
-                "s_fold": 5,
+                "s_fold": 3,
                 "i_fold": 0,
-                "r_fold": 0,
+                "r_fold": 2,
                 "reference": "Alenquer21[^Alenquer21]",
                 "median": "1"
             },

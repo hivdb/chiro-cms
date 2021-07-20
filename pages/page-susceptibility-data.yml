@@ -124,3 +124,20 @@ tables:
       label: mAbs with high-resolution structure
     data:
       _resource: susc-table/table_summary.yml
+  table_ve:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: Vaccine
+      label: ""
+    - name: Variant.name
+      label: Variant
+      multiCells: true
+    - name: Variant.efficacy
+      label: Efficacy
+      multiCells: true
+    - name: Variant.reference
+      label: Reference
+      multiCells: true
+    data:
+      _resource: susc-table/table_vp_efficacy.yml

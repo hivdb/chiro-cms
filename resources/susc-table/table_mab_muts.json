@@ -60,6 +60,20 @@
             },
             {
                 "variant": "E484K",
+                "rx": "CC12.3",
+                "mab_class": "",
+                "fold": "2.9",
+                "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "COVOX-384",
+                "mab_class": "",
+                "fold": "&gt;100",
+                "reference": "Chen21[^Chen21]"
+            },
+            {
+                "variant": "E484K",
                 "rx": "COVOX-40",
                 "mab_class": "",
                 "fold": "1.6",
@@ -69,7 +83,14 @@
                 "variant": "E484K",
                 "rx": "CV05-163",
                 "mab_class": "",
-                "fold": "&gt;100",
+                "fold": "21",
+                "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "CV07-250",
+                "mab_class": "",
+                "fold": "6.3",
                 "reference": "Yuan21[^Yuan21]"
             },
             {
@@ -77,6 +98,13 @@
                 "rx": "CV07-270",
                 "mab_class": "",
                 "fold": "&gt;100",
+                "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "CV38-142",
+                "mab_class": "",
+                "fold": "0.7",
                 "reference": "Yuan21[^Yuan21]"
             },
             {
@@ -90,7 +118,7 @@
                 "variant": "E484K",
                 "rx": "Casirivimab/Imdevimab",
                 "mab_class": "",
-                "fold": "1.6",
+                "fold": "0.7",
                 "reference": "Copin21[^Copin21]"
             },
             {
@@ -112,6 +140,13 @@
                 "rx": "Casirivimab/Imdevimab",
                 "mab_class": "",
                 "fold": "1.5",
+                "reference": "Tada21c[^Tada21c]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "1.5",
                 "reference": "Wang21[^Wang21]"
             },
             {
@@ -123,17 +158,17 @@
             },
             {
                 "variant": "E484K",
-                "rx": "Cilgavimab",
+                "rx": "Casirivimab/Imdevimab",
                 "mab_class": "",
-                "fold": "1.6",
-                "reference": "Chen21[^Chen21]"
+                "fold": "4",
+                "reference": "Yuan21[^Yuan21]"
             },
             {
                 "variant": "E484K",
                 "rx": "Cilgavimab",
                 "mab_class": "",
-                "fold": "2",
-                "reference": "Dong21[^Dong21]"
+                "fold": "1.7",
+                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "E484K",
@@ -167,8 +202,15 @@
                 "variant": "E484K",
                 "rx": "Imdevimab/REGN10989",
                 "mab_class": "",
-                "fold": "15",
+                "fold": "16",
                 "reference": "Baum20[^Baum20]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "LY3853113",
+                "mab_class": "",
+                "fold": "0.7",
+                "reference": "Westendorf21[^Westendorf21]"
             },
             {
                 "variant": "E484K",
@@ -176,6 +218,20 @@
                 "mab_class": "",
                 "fold": "0.6",
                 "reference": "Westendorf21[^Westendorf21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "P5A-1B9",
+                "mab_class": "",
+                "fold": "&gt;100",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "REGN10934/REGN10989",
+                "mab_class": "",
+                "fold": "&gt;100",
+                "reference": "Baum20[^Baum20]"
             },
             {
                 "variant": "E484K",
@@ -195,14 +251,7 @@
                 "variant": "E484K",
                 "rx": "Tixagevimab",
                 "mab_class": "",
-                "fold": "2",
-                "reference": "Dong21[^Dong21]"
-            },
-            {
-                "variant": "E484K",
-                "rx": "Tixagevimab",
-                "mab_class": "",
-                "fold": "4.6",
+                "fold": "4.7",
                 "reference": "Chen21[^Chen21]"
             },
             {
@@ -232,13 +281,6 @@
                 "mab_class": "NTD",
                 "fold": "3.2",
                 "reference": "Wang21b[^Wang21b]"
-            },
-            {
-                "variant": "E484K",
-                "rx": "4A8",
-                "mab_class": "NTD",
-                "fold": "1",
-                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "E484K",
@@ -272,7 +314,21 @@
                 "variant": "E484K",
                 "rx": "C135",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "1.2",
+                "fold": "0.5",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "C135",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.3",
+                "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "C135",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "3.5",
                 "reference": "Weisblum20[^Weisblum20]"
             },
             {
@@ -286,7 +342,7 @@
                 "variant": "E484K",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "1.2",
+                "fold": "0.5",
                 "reference": "Copin21[^Copin21]"
             },
             {
@@ -321,6 +377,13 @@
                 "variant": "E484K",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
+                "fold": "1.4",
+                "reference": "Tada21c[^Tada21c]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
                 "fold": "0.7",
                 "reference": "Wang21[^Wang21]"
             },
@@ -349,15 +412,15 @@
                 "variant": "E484K",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "0.9",
-                "reference": "Zhou21c[^Zhou21c]"
+                "fold": "2.6",
+                "reference": "Yuan21[^Yuan21]"
             },
             {
                 "variant": "E484K",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "10",
-                "reference": "Yuan21[^Yuan21]"
+                "fold": "0.9",
+                "reference": "Zhou21c[^Zhou21c]"
             },
             {
                 "variant": "E484K",
@@ -400,6 +463,13 @@
                 "mab_class": "RBD Core Cluster II",
                 "fold": "1",
                 "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "COVA1-16",
+                "mab_class": "RBD Core Cluster II",
+                "fold": "1.8",
+                "reference": "Yuan21[^Yuan21]"
             },
             {
                 "variant": "E484K",
@@ -452,10 +522,31 @@
             },
             {
                 "variant": "E484K",
+                "rx": "CC12.1",
+                "mab_class": "RBM Class I",
+                "fold": "1.4",
+                "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "COVA2-04",
+                "mab_class": "RBM Class I",
+                "fold": "4.5",
+                "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "E484K",
                 "rx": "COVA2-39",
                 "mab_class": "RBM Class I",
                 "fold": "&gt;100",
                 "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "2.4",
+                "reference": "Copin21[^Copin21]"
             },
             {
                 "variant": "E484K",
@@ -482,7 +573,7 @@
                 "variant": "E484K",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "7.1",
+                "fold": "7.2",
                 "reference": "Wang21f[^Wang21f]"
             },
             {
@@ -496,13 +587,6 @@
                 "variant": "E484K",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "15",
-                "reference": "Copin21[^Copin21]"
-            },
-            {
-                "variant": "E484K",
-                "rx": "Casirivimab",
-                "mab_class": "RBM Class I",
                 "fold": "25",
                 "reference": "FDA21[^FDA21]"
             },
@@ -511,6 +595,13 @@
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
                 "fold": "22",
+                "reference": "Tada21c[^Tada21c]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "53",
                 "reference": "Tada21c[^Tada21c]"
             },
             {
@@ -531,7 +622,7 @@
                 "variant": "E484K",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "30",
+                "fold": "55",
                 "reference": "Yuan21[^Yuan21]"
             },
             {
@@ -601,8 +692,15 @@
                 "variant": "E484K",
                 "rx": "S2E12",
                 "mab_class": "RBM Class I",
-                "fold": "3.6",
+                "fold": "3.4",
                 "reference": "Tortorici20[^Tortorici20]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "BD-368-2",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "E484K",
@@ -651,6 +749,13 @@
                 "rx": "C121",
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "C121",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
                 "reference": "Yuan21[^Yuan21]"
             },
             {
@@ -679,7 +784,21 @@
                 "rx": "C144",
                 "mab_class": "RBM Class III",
                 "fold": "&gt;100",
+                "reference": "Muecksch21[^Muecksch21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "C144",
+                "mab_class": "RBM Class III",
+                "fold": "&gt;100",
                 "reference": "Wang21[^Wang21]"
+            },
+            {
+                "variant": "E484K",
+                "rx": "C144",
+                "mab_class": "RBM Class III",
+                "fold": "&gt;100",
+                "reference": "Weisblum20[^Weisblum20]"
             },
             {
                 "variant": "E484K",
@@ -707,6 +826,13 @@
     {
         "variant": "E484K + N501Y",
         "assays": [
+            {
+                "variant": "E484K + N501Y",
+                "rx": "COVOX-384",
+                "mab_class": "",
+                "fold": "&gt;100",
+                "reference": "Chen21[^Chen21]"
+            },
             {
                 "variant": "E484K + N501Y",
                 "rx": "COVOX-40",
@@ -814,14 +940,21 @@
                 "variant": "F490S",
                 "rx": "Imdevimab/REGN10989",
                 "mab_class": "",
-                "fold": "5.4",
+                "fold": "5.5",
                 "reference": "Baum20[^Baum20]"
+            },
+            {
+                "variant": "F490S",
+                "rx": "LY3853113",
+                "mab_class": "",
+                "fold": "2.1",
+                "reference": "Westendorf21[^Westendorf21]"
             },
             {
                 "variant": "F490S",
                 "rx": "REGN10934/REGN10989",
                 "mab_class": "",
-                "fold": "51",
+                "fold": "53",
                 "reference": "Baum20[^Baum20]"
             },
             {
@@ -829,6 +962,13 @@
                 "rx": "C135",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "1.2",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "F490S",
+                "rx": "C135",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.2",
                 "reference": "Weisblum20[^Weisblum20]"
             },
             {
@@ -931,16 +1071,30 @@
             },
             {
                 "variant": "F490S",
+                "rx": "C121",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "F490S",
                 "rx": "C144",
                 "mab_class": "RBM Class III",
-                "fold": "3.4",
+                "fold": "1.4",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "F490S",
+                "rx": "C144",
+                "mab_class": "RBM Class III",
+                "fold": "3.3",
                 "reference": "Muecksch21[^Muecksch21]"
             },
             {
                 "variant": "F490S",
                 "rx": "C144",
                 "mab_class": "RBM Class III",
-                "fold": "4.5",
+                "fold": "4.9",
                 "reference": "Weisblum20[^Weisblum20]"
             },
             {
@@ -1034,10 +1188,45 @@
             },
             {
                 "variant": "K417N",
+                "rx": "CV05-163",
+                "mab_class": "",
+                "fold": "0.6",
+                "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "CV07-250",
+                "mab_class": "",
+                "fold": "0.7",
+                "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "CV07-270",
+                "mab_class": "",
+                "fold": "0.8",
+                "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "CV38-142",
+                "mab_class": "",
+                "fold": "0.2",
+                "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "K417N",
                 "rx": "Casirivimab/Imdevimab",
                 "mab_class": "",
                 "fold": "0.8",
                 "reference": "Wang21[^Wang21]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "1.5",
+                "reference": "Yuan21[^Yuan21]"
             },
             {
                 "variant": "K417N",
@@ -1064,7 +1253,7 @@
                 "variant": "K417N",
                 "rx": "Cilgavimab/Tixagevimab",
                 "mab_class": "",
-                "fold": "0.5",
+                "fold": "0.6",
                 "reference": "Chen21[^Chen21]"
             },
             {
@@ -1073,6 +1262,13 @@
                 "mab_class": "",
                 "fold": "0.3",
                 "reference": "Wang21[^Wang21]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "LY3853113",
+                "mab_class": "",
+                "fold": "0.7",
+                "reference": "Westendorf21[^Westendorf21]"
             },
             {
                 "variant": "K417N",
@@ -1146,13 +1342,6 @@
             },
             {
                 "variant": "K417N",
-                "rx": "4A8",
-                "mab_class": "NTD",
-                "fold": "0.2",
-                "reference": "Wang21f[^Wang21f]"
-            },
-            {
-                "variant": "K417N",
                 "rx": "5-24",
                 "mab_class": "NTD",
                 "fold": "0.3",
@@ -1178,6 +1367,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.3",
                 "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "C135",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.1",
+                "reference": "Yuan21[^Yuan21]"
             },
             {
                 "variant": "K417N",
@@ -1223,6 +1419,13 @@
             },
             {
                 "variant": "K417N",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.6",
+                "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "K417N",
                 "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.7",
@@ -1258,10 +1461,31 @@
             },
             {
                 "variant": "K417N",
+                "rx": "COVA1-16",
+                "mab_class": "RBD Core Cluster II",
+                "fold": "0.3",
+                "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "K417N",
                 "rx": "H014",
                 "mab_class": "RBD Core Cluster II",
                 "fold": "1.5",
                 "reference": "Li21c[^Li21c]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "P22A-1D1",
+                "mab_class": "RBM",
+                "fold": "74",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "P5A-1D2",
+                "mab_class": "RBM",
+                "fold": "43",
+                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "K417N",
@@ -1302,7 +1526,14 @@
                 "variant": "K417N",
                 "rx": "COVA2-04",
                 "mab_class": "RBM Class I",
-                "fold": "&gt;100",
+                "fold": "7.4",
+                "reference": "Yuan21[^Yuan21]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "COVA2-39",
+                "mab_class": "RBM Class I",
+                "fold": "1.4",
                 "reference": "Yuan21[^Yuan21]"
             },
             {
@@ -1323,14 +1554,14 @@
                 "variant": "K417N",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "8.9",
+                "fold": "7",
                 "reference": "Wang21e[^Wang21e]"
             },
             {
                 "variant": "K417N",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "4.3",
+                "fold": "4.4",
                 "reference": "Wang21f[^Wang21f]"
             },
             {
@@ -1351,7 +1582,7 @@
                 "variant": "K417N",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "30",
+                "fold": "43",
                 "reference": "Yuan21[^Yuan21]"
             },
             {
@@ -1374,6 +1605,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "&gt;100",
                 "reference": "Wang21e[^Wang21e]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "49",
+                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "K417N",
@@ -1414,7 +1652,7 @@
                 "variant": "K417N",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
-                "fold": "0.2",
+                "fold": "0.4",
                 "reference": "Wang21e[^Wang21e]"
             },
             {
@@ -1423,6 +1661,13 @@
                 "mab_class": "RBM Class II",
                 "fold": "0.8",
                 "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "C121",
+                "mab_class": "RBM Class II",
+                "fold": "1",
+                "reference": "Yuan21[^Yuan21]"
             },
             {
                 "variant": "K417N",
@@ -1451,6 +1696,13 @@
                 "mab_class": "RBM Class III",
                 "fold": "0.5",
                 "reference": "Wang21[^Wang21]"
+            },
+            {
+                "variant": "K417N",
+                "rx": "C144",
+                "mab_class": "RBM Class III",
+                "fold": "2",
+                "reference": "Yuan21[^Yuan21]"
             }
         ]
     },
@@ -1477,6 +1729,13 @@
                 "mab_class": "",
                 "fold": "1",
                 "reference": "Wang21[^Wang21]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "COVOX-384",
+                "mab_class": "",
+                "fold": "&gt;100",
+                "reference": "Chen21[^Chen21]"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -1536,6 +1795,13 @@
             },
             {
                 "variant": "K417N + E484K + N501Y",
+                "rx": "P5A-1B9",
+                "mab_class": "",
+                "fold": "&gt;100",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
                 "rx": "S2E12/Sotrovimab",
                 "mab_class": "",
                 "fold": "0.9",
@@ -1575,13 +1841,6 @@
                 "mab_class": "",
                 "fold": "4",
                 "reference": "Wang21[^Wang21]"
-            },
-            {
-                "variant": "K417N + E484K + N501Y",
-                "rx": "4A8",
-                "mab_class": "NTD",
-                "fold": "0.6",
-                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -1636,7 +1895,7 @@
                 "variant": "K417N + E484K + N501Y",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "1",
+                "fold": "1.6",
                 "reference": "Yao21[^Yao21]"
             },
             {
@@ -1666,6 +1925,27 @@
                 "mab_class": "RBD Core Cluster II",
                 "fold": "0.8",
                 "reference": "Li21c[^Li21c]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "P22A-1D1",
+                "mab_class": "RBM",
+                "fold": "74",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "P5A-1D2",
+                "mab_class": "RBM",
+                "fold": "43",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "P5A-3C8",
+                "mab_class": "RBM",
+                "fold": "47",
+                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -1720,6 +2000,20 @@
                 "variant": "K417N + E484K + N501Y",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
+                "fold": "49",
+                "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "40",
+                "reference": "Yao21[^Yao21]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
                 "fold": "&gt;100",
                 "reference": "Yi21[^Yi21]"
             },
@@ -1743,6 +2037,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "&gt;100",
                 "reference": "Collier21[^Collier21]"
+            },
+            {
+                "variant": "K417N + E484K + N501Y",
+                "rx": "BD-368-2",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "K417N + E484K + N501Y",
@@ -1786,6 +2087,13 @@
         "assays": [
             {
                 "variant": "L452R",
+                "rx": "BD-368-2/BD-629",
+                "mab_class": "",
+                "fold": "19",
+                "reference": "Du20[^Du20]"
+            },
+            {
+                "variant": "L452R",
                 "rx": "Bamlanivimab/Etesevimab",
                 "mab_class": "",
                 "fold": "7.4",
@@ -1795,7 +2103,7 @@
                 "variant": "L452R",
                 "rx": "Casirivimab/Imdevimab",
                 "mab_class": "",
-                "fold": "1.2",
+                "fold": "0.9",
                 "reference": "Copin21[^Copin21]"
             },
             {
@@ -1814,6 +2122,13 @@
             },
             {
                 "variant": "L452R",
+                "rx": "Casirivimab/Imdevimab",
+                "mab_class": "",
+                "fold": "12",
+                "reference": "Tada21c[^Tada21c]"
+            },
+            {
+                "variant": "L452R",
                 "rx": "H4",
                 "mab_class": "",
                 "fold": "3.1",
@@ -1821,10 +2136,10 @@
             },
             {
                 "variant": "L452R",
-                "rx": "JMB2002",
+                "rx": "LY3853113",
                 "mab_class": "",
-                "fold": "42",
-                "reference": "Gu21[^Gu21]"
+                "fold": "0.7",
+                "reference": "Westendorf21[^Westendorf21]"
             },
             {
                 "variant": "L452R",
@@ -1858,7 +2173,21 @@
                 "variant": "L452R",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "5",
+                "fold": "0.7",
+                "reference": "Wang21e[^Wang21e]"
+            },
+            {
+                "variant": "L452R",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "5.3",
+                "reference": "Tada21c[^Tada21c]"
+            },
+            {
+                "variant": "L452R",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "3",
                 "reference": "Wang21e[^Wang21e]"
             },
             {
@@ -1886,7 +2215,7 @@
                 "variant": "L452R",
                 "rx": "BD-629",
                 "mab_class": "RBM Class I",
-                "fold": "3.3",
+                "fold": "&gt;100",
                 "reference": "Du20[^Du20]"
             },
             {
@@ -1900,7 +2229,7 @@
                 "variant": "L452R",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "1.3",
+                "fold": "1.1",
                 "reference": "Copin21[^Copin21]"
             },
             {
@@ -1909,6 +2238,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "1",
                 "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "L452R",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "0.8",
+                "reference": "Wang21e[^Wang21e]"
             },
             {
                 "variant": "L452R",
@@ -1926,6 +2262,13 @@
             },
             {
                 "variant": "L452R",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "24",
+                "reference": "Tada21c[^Tada21c]"
+            },
+            {
+                "variant": "L452R",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
                 "fold": "1",
@@ -1935,7 +2278,14 @@
                 "variant": "L452R",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
-                "fold": "0.6",
+                "fold": "0.7",
+                "reference": "Wang21e[^Wang21e]"
+            },
+            {
+                "variant": "L452R",
+                "rx": "Etesevimab",
+                "mab_class": "RBM Class I",
+                "fold": "2.1",
                 "reference": "Wang21e[^Wang21e]"
             },
             {
@@ -1954,10 +2304,24 @@
             },
             {
                 "variant": "L452R",
+                "rx": "BD-368-2",
+                "mab_class": "RBM Class II",
+                "fold": "3.3",
+                "reference": "Du20[^Du20]"
+            },
+            {
+                "variant": "L452R",
                 "rx": "Bamlanivimab",
                 "mab_class": "RBM Class II",
                 "fold": "&gt;100",
                 "reference": "FDA21[^FDA21]"
+            },
+            {
+                "variant": "L452R",
+                "rx": "Bamlanivimab",
+                "mab_class": "RBM Class II",
+                "fold": "&gt;100",
+                "reference": "Wang21e[^Wang21e]"
             },
             {
                 "variant": "L452R",
@@ -1989,7 +2353,7 @@
                 "variant": "N439K",
                 "rx": "Casirivimab/Imdevimab",
                 "mab_class": "",
-                "fold": "1.7",
+                "fold": "1.8",
                 "reference": "Starr21[^Starr21]"
             },
             {
@@ -2043,13 +2407,6 @@
             },
             {
                 "variant": "N439K",
-                "rx": "4A8",
-                "mab_class": "NTD",
-                "fold": "1",
-                "reference": "Wang21f[^Wang21f]"
-            },
-            {
-                "variant": "N439K",
                 "rx": "C135",
                 "mab_class": "RBD Core Cluster I",
                 "fold": "&gt;100",
@@ -2057,9 +2414,16 @@
             },
             {
                 "variant": "N439K",
+                "rx": "C135",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "33",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "N439K",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "4.9",
+                "fold": "5",
                 "reference": "Rothenberger21[^Rothenberger21]"
             },
             {
@@ -2101,7 +2465,7 @@
                 "variant": "N439K",
                 "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "0.9",
+                "fold": "1",
                 "reference": "Shen21[^Shen21]"
             },
             {
@@ -2241,7 +2605,7 @@
                 "variant": "N439K",
                 "rx": "BD-368-2",
                 "mab_class": "RBM Class II",
-                "fold": "2.3",
+                "fold": "2.2",
                 "reference": "Wang21f[^Wang21f]"
             },
             {
@@ -2255,7 +2619,14 @@
                 "variant": "N439K",
                 "rx": "C121",
                 "mab_class": "RBM Class II",
-                "fold": "2.3",
+                "fold": "2.4",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "N439K",
+                "rx": "C121",
+                "mab_class": "RBM Class II",
+                "fold": "0.9",
                 "reference": "Weisblum20[^Weisblum20]"
             },
             {
@@ -2269,14 +2640,14 @@
                 "variant": "N439K",
                 "rx": "P2B-2F6",
                 "mab_class": "RBM Class II",
-                "fold": "2.2",
+                "fold": "2.1",
                 "reference": "Shen21[^Shen21]"
             },
             {
                 "variant": "N439K",
                 "rx": "C144",
                 "mab_class": "RBM Class III",
-                "fold": "0.8",
+                "fold": "0.7",
                 "reference": "Muecksch21[^Muecksch21]"
             },
             {
@@ -2284,6 +2655,13 @@
                 "rx": "C144",
                 "mab_class": "RBM Class III",
                 "fold": "0.9",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "N439K",
+                "rx": "C144",
+                "mab_class": "RBM Class III",
+                "fold": "0.3",
                 "reference": "Weisblum20[^Weisblum20]"
             },
             {
@@ -2379,7 +2757,7 @@
                 "variant": "N501Y",
                 "rx": "Casirivimab/Imdevimab",
                 "mab_class": "",
-                "fold": "1.1",
+                "fold": "0.5",
                 "reference": "Copin21[^Copin21]"
             },
             {
@@ -2442,14 +2820,14 @@
                 "variant": "N501Y",
                 "rx": "DH1043",
                 "mab_class": "",
-                "fold": "1.8",
+                "fold": "1.9",
                 "reference": "Shen21[^Shen21]"
             },
             {
                 "variant": "N501Y",
                 "rx": "H4",
                 "mab_class": "",
-                "fold": "1.7",
+                "fold": "1.8",
                 "reference": "Shen21[^Shen21]"
             },
             {
@@ -2524,13 +2902,6 @@
             },
             {
                 "variant": "N501Y",
-                "rx": "4A8",
-                "mab_class": "NTD",
-                "fold": "1",
-                "reference": "Wang21f[^Wang21f]"
-            },
-            {
-                "variant": "N501Y",
                 "rx": "5-24",
                 "mab_class": "NTD",
                 "fold": "2.9",
@@ -2561,14 +2932,21 @@
                 "variant": "N501Y",
                 "rx": "C135",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "2.2",
+                "fold": "2.3",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "C135",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.3",
                 "reference": "Weisblum20[^Weisblum20]"
             },
             {
                 "variant": "N501Y",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "0.5",
+                "fold": "0.8",
                 "reference": "Copin21[^Copin21]"
             },
             {
@@ -2582,7 +2960,7 @@
                 "variant": "N501Y",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "1",
+                "fold": "0.2",
                 "reference": "Rothenberger21[^Rothenberger21]"
             },
             {
@@ -2617,14 +2995,14 @@
                 "variant": "N501Y",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "0.6",
+                "fold": "0.5",
                 "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "N501Y",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "1",
+                "fold": "16",
                 "reference": "Yao21[^Yao21]"
             },
             {
@@ -2750,7 +3128,7 @@
                 "variant": "N501Y",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "0.9",
+                "fold": "0.6",
                 "reference": "Copin21[^Copin21]"
             },
             {
@@ -2764,7 +3142,7 @@
                 "variant": "N501Y",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "1.1",
+                "fold": "0.5",
                 "reference": "Rothenberger21[^Rothenberger21]"
             },
             {
@@ -2806,7 +3184,7 @@
                 "variant": "N501Y",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "1",
+                "fold": "1.4",
                 "reference": "Yao21[^Yao21]"
             },
             {
@@ -2848,7 +3226,7 @@
                 "variant": "N501Y",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
-                "fold": "5",
+                "fold": "20",
                 "reference": "Yao21[^Yao21]"
             },
             {
@@ -2916,6 +3294,13 @@
             },
             {
                 "variant": "N501Y",
+                "rx": "C121",
+                "mab_class": "RBM Class II",
+                "fold": "0.3",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "N501Y",
                 "rx": "P2B-2F6",
                 "mab_class": "RBM Class II",
                 "fold": "0.4",
@@ -2953,7 +3338,14 @@
                 "variant": "N501Y",
                 "rx": "C144",
                 "mab_class": "RBM Class III",
-                "fold": "1.4",
+                "fold": "1.5",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "N501Y",
+                "rx": "C144",
+                "mab_class": "RBM Class III",
+                "fold": "0.4",
                 "reference": "Weisblum20[^Weisblum20]"
             }
         ]
@@ -2979,7 +3371,7 @@
                 "variant": "S494P",
                 "rx": "Casirivimab/Imdevimab",
                 "mab_class": "",
-                "fold": "1.1",
+                "fold": "0.9",
                 "reference": "Copin21[^Copin21]"
             },
             {
@@ -2991,10 +3383,24 @@
             },
             {
                 "variant": "S494P",
-                "rx": "4A8",
-                "mab_class": "NTD",
-                "fold": "0.9",
-                "reference": "Wang21f[^Wang21f]"
+                "rx": "S2E12/S2M11",
+                "mab_class": "",
+                "fold": "1.7",
+                "reference": "Tortorici20[^Tortorici20]"
+            },
+            {
+                "variant": "S494P",
+                "rx": "S2E12/Sotrovimab",
+                "mab_class": "",
+                "fold": "1.3",
+                "reference": "Tortorici20[^Tortorici20]"
+            },
+            {
+                "variant": "S494P",
+                "rx": "S2M11/Sotrovimab",
+                "mab_class": "",
+                "fold": "17",
+                "reference": "Tortorici20[^Tortorici20]"
             },
             {
                 "variant": "S494P",
@@ -3005,9 +3411,16 @@
             },
             {
                 "variant": "S494P",
+                "rx": "C135",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.1",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "S494P",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "1",
+                "fold": "1.2",
                 "reference": "Copin21[^Copin21]"
             },
             {
@@ -3070,7 +3483,7 @@
                 "variant": "S494P",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "4.5",
+                "fold": "4.8",
                 "reference": "Copin21[^Copin21]"
             },
             {
@@ -3126,7 +3539,14 @@
                 "variant": "S494P",
                 "rx": "C121",
                 "mab_class": "RBM Class II",
-                "fold": "27",
+                "fold": "35",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "S494P",
+                "rx": "C121",
+                "mab_class": "RBM Class II",
+                "fold": "13",
                 "reference": "Weisblum20[^Weisblum20]"
             },
             {
@@ -3140,7 +3560,14 @@
                 "variant": "S494P",
                 "rx": "C144",
                 "mab_class": "RBM Class III",
-                "fold": "45",
+                "fold": "61",
+                "reference": "Weisblum20[^Weisblum20]"
+            },
+            {
+                "variant": "S494P",
+                "rx": "C144",
+                "mab_class": "RBM Class III",
+                "fold": "17",
                 "reference": "Weisblum20[^Weisblum20]"
             },
             {
@@ -3192,6 +3619,13 @@
                 "variant": "Y453F",
                 "rx": "LY3853113",
                 "mab_class": "",
+                "fold": "0.7",
+                "reference": "Westendorf21[^Westendorf21]"
+            },
+            {
+                "variant": "Y453F",
+                "rx": "LY3853113",
+                "mab_class": "",
                 "fold": "0.6",
                 "reference": "Westendorf21[^Westendorf21]"
             },
@@ -3206,15 +3640,8 @@
                 "variant": "Y453F",
                 "rx": "REGN10934/REGN10989",
                 "mab_class": "",
-                "fold": "4.3",
+                "fold": "4.4",
                 "reference": "Baum20[^Baum20]"
-            },
-            {
-                "variant": "Y453F",
-                "rx": "4A8",
-                "mab_class": "NTD",
-                "fold": "0.7",
-                "reference": "Wang21f[^Wang21f]"
             },
             {
                 "variant": "Y453F",
@@ -3298,6 +3725,13 @@
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
                 "fold": "&gt;100",
+                "reference": "Baum20[^Baum20]"
+            },
+            {
+                "variant": "Y453F",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "&gt;100",
                 "reference": "FDA21[^FDA21]"
             },
             {
@@ -3332,7 +3766,7 @@
                 "variant": "Y453F",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "47",
+                "fold": "48",
                 "reference": "Wang21f[^Wang21f]"
             },
             {
@@ -3358,16 +3792,9 @@
             },
             {
                 "variant": "Y453F",
-                "rx": "S2E12",
-                "mab_class": "RBM Class I",
-                "fold": "1.6",
-                "reference": "Tortorici20[^Tortorici20]"
-            },
-            {
-                "variant": "Y453F",
                 "rx": "BD-368-2",
                 "mab_class": "RBM Class II",
-                "fold": "1.9",
+                "fold": "1.8",
                 "reference": "Wang21f[^Wang21f]"
             },
             {
@@ -3383,13 +3810,6 @@
                 "mab_class": "RBM Class III",
                 "fold": "1.1",
                 "reference": "Muecksch21[^Muecksch21]"
-            },
-            {
-                "variant": "Y453F",
-                "rx": "S2M11",
-                "mab_class": "RBM Class III",
-                "fold": "0.9",
-                "reference": "Tortorici20[^Tortorici20]"
             }
         ]
     },
@@ -3478,13 +3898,6 @@
                 "rx": "4A8",
                 "mab_class": "NTD",
                 "fold": "&gt;100",
-                "reference": "McCallum21[^McCallum21]"
-            },
-            {
-                "variant": "∆144",
-                "rx": "4A8",
-                "mab_class": "NTD",
-                "fold": "&gt;100",
                 "reference": "Wang21b[^Wang21b]"
             },
             {
@@ -3493,20 +3906,6 @@
                 "mab_class": "NTD",
                 "fold": "&gt;100",
                 "reference": "Wang21b[^Wang21b]"
-            },
-            {
-                "variant": "∆144",
-                "rx": "S2M28",
-                "mab_class": "NTD",
-                "fold": "&gt;100",
-                "reference": "McCallum21[^McCallum21]"
-            },
-            {
-                "variant": "∆144",
-                "rx": "S2X333",
-                "mab_class": "NTD",
-                "fold": "&gt;100",
-                "reference": "McCallum21[^McCallum21]"
             },
             {
                 "variant": "∆144",
@@ -3718,6 +4117,27 @@
             },
             {
                 "variant": "∆69/70",
+                "rx": "DH1041",
+                "mab_class": "",
+                "fold": "0.7",
+                "reference": "Shen21[^Shen21]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "DH1043",
+                "mab_class": "",
+                "fold": "1",
+                "reference": "Shen21[^Shen21]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "H4",
+                "mab_class": "",
+                "fold": "1.2",
+                "reference": "Shen21[^Shen21]"
+            },
+            {
+                "variant": "∆69/70",
                 "rx": "P5A-1B9",
                 "mab_class": "",
                 "fold": "1.7",
@@ -3753,13 +4173,6 @@
             },
             {
                 "variant": "∆69/70",
-                "rx": "4A8",
-                "mab_class": "NTD",
-                "fold": "0.7",
-                "reference": "Wang21f[^Wang21f]"
-            },
-            {
-                "variant": "∆69/70",
                 "rx": "5-24",
                 "mab_class": "NTD",
                 "fold": "0.9",
@@ -3778,6 +4191,13 @@
                 "mab_class": "RBD Core Cluster I",
                 "fold": "0.6",
                 "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "Imdevimab",
+                "mab_class": "RBD Core Cluster I",
+                "fold": "0.7",
+                "reference": "Rothenberger21[^Rothenberger21]"
             },
             {
                 "variant": "∆69/70",
@@ -3811,6 +4231,13 @@
                 "variant": "∆69/70",
                 "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
+                "fold": "0.4",
+                "reference": "Shen21[^Shen21]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "Vir-7831",
+                "mab_class": "RBD Core Cluster I",
                 "fold": "1.6",
                 "reference": "Wang21b[^Wang21b]"
             },
@@ -3832,7 +4259,7 @@
                 "variant": "∆69/70",
                 "rx": "COVA1-16",
                 "mab_class": "RBD Core Cluster II",
-                "fold": "0.8",
+                "fold": "1",
                 "reference": "Rees-Spear21[^Rees-Spear21]"
             },
             {
@@ -3841,6 +4268,13 @@
                 "mab_class": "RBD Core Cluster II",
                 "fold": "0.9",
                 "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "DH1047",
+                "mab_class": "RBD Core Cluster II",
+                "fold": "0.7",
+                "reference": "Shen21[^Shen21]"
             },
             {
                 "variant": "∆69/70",
@@ -3862,6 +4296,13 @@
                 "mab_class": "RBM",
                 "fold": "1.1",
                 "reference": "Wang21f[^Wang21f]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "B38",
+                "mab_class": "RBM Class I",
+                "fold": "0.7",
+                "reference": "Shen21[^Shen21]"
             },
             {
                 "variant": "∆69/70",
@@ -3897,6 +4338,13 @@
                 "mab_class": "RBM Class I",
                 "fold": "2.2",
                 "reference": "Kemp21[^Kemp21]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "Casirivimab",
+                "mab_class": "RBM Class I",
+                "fold": "1.1",
+                "reference": "Rothenberger21[^Rothenberger21]"
             },
             {
                 "variant": "∆69/70",
@@ -3951,7 +4399,7 @@
                 "variant": "∆69/70",
                 "rx": "BD-368-2",
                 "mab_class": "RBM Class II",
-                "fold": "0.5",
+                "fold": "2.1",
                 "reference": "Wang21f[^Wang21f]"
             },
             {
@@ -3974,6 +4422,13 @@
                 "mab_class": "RBM Class II",
                 "fold": "0.6",
                 "reference": "Wang21b[^Wang21b]"
+            },
+            {
+                "variant": "∆69/70",
+                "rx": "P2B-2F6",
+                "mab_class": "RBM Class II",
+                "fold": "1.4",
+                "reference": "Shen21[^Shen21]"
             },
             {
                 "variant": "∆69/70",
@@ -4047,7 +4502,7 @@
                 "variant": "∆69/70 + N501Y",
                 "rx": "S2E12/Sotrovimab",
                 "mab_class": "",
-                "fold": "1.1",
+                "fold": "1.2",
                 "reference": "Chen21[^Chen21]"
             },
             {
@@ -4075,7 +4530,7 @@
                 "variant": "∆69/70 + N501Y",
                 "rx": "Imdevimab",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "1",
+                "fold": "2.5",
                 "reference": "Yao21[^Yao21]"
             },
             {
@@ -4089,7 +4544,7 @@
                 "variant": "∆69/70 + N501Y",
                 "rx": "Vir-7831",
                 "mab_class": "RBD Core Cluster I",
-                "fold": "2.2",
+                "fold": "2.3",
                 "reference": "Shen21[^Shen21]"
             },
             {
@@ -4117,7 +4572,7 @@
                 "variant": "∆69/70 + N501Y",
                 "rx": "Casirivimab",
                 "mab_class": "RBM Class I",
-                "fold": "1",
+                "fold": "3.9",
                 "reference": "Yao21[^Yao21]"
             },
             {
@@ -4131,7 +4586,7 @@
                 "variant": "∆69/70 + N501Y",
                 "rx": "Etesevimab",
                 "mab_class": "RBM Class I",
-                "fold": "10",
+                "fold": "22",
                 "reference": "Yao21[^Yao21]"
             },
             {

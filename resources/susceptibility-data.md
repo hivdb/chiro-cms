@@ -4,6 +4,7 @@
   - [Table 1: Virus Variants and Spike Mutations vs Monoclonal Antibodies](#table.1.virus.variants.and.spike.mutations.vs.monoclonal.antibodies)
   - [Table 2: Virus Variants and Spike Mutations vs Convalescent Plasma](#table.2.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons)
   - [Table 3: Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons](#table.3.virus.variants.and.spike.mutations.vs.plasma.from.vaccinated.persons)
+  - [Table 4: Vaccine Efficacy at Preventing Symptomatic SARS-CoV-2 Infection With Variants](#table.4.vaccine.efficacy.at.preventing.symptomatic.sars-cov-2.infection.with.variants)
   - [Figure: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-data/figure/#figure.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons)
 - Raw data
   - [Spike variants and mutation combinations / monoclonal antibodies neutralization](https://hivdb.github.io/covid-drdb-reports/resistance-dt.html#spike-variants-and-mutation-combinations-mab-neutralization)
@@ -66,13 +67,27 @@ table_vp
 
 <div class="figure-caption">
 
+
+### Table 4: Vaccine Efficacy at Preventing Symptomatic SARS-CoV-2 Infection With Variants
+
+[table compact,lastCompact]
+table_ve
+[/table]
+
+<section>
+
+<div class="figure-caption">
+
+
 ## References
 
+- **Abu-Raddad21**: [^Abu-Raddad21#inline]
 - **Alenquer21**: [^Alenquer21#inline]
 - **Andreano20b**: [^Andreano20b#inline]
 - **Bates21**: [^Bates21#inline]
 - **Baum20**: [^Baum20#inline]
 - **Becker21**: [^Becker21#inline]
+- **Bernal21**: [^Bernal21#inline]
 - **Betton21**: [^Betton21#inline]
 - **Brown21**: [^Brown21#inline]
 - **Cathcart21**: [^Cathcart21#inline]
@@ -98,6 +113,8 @@ table_vp
 - **Greaney21**: [^Greaney21#inline]
 - **Greaney21c**: [^Greaney21c#inline]
 - **Gu21**: [^Gu21#inline]
+- **Haas21**: [^Haas21#inline]
+- **Heath21**: [^Heath21#inline]
 - **Hoffmann21**: [^Hoffmann21#inline]
 - **Hoffmann21b**: [^Hoffmann21b#inline]
 - **Hoffmann21c**: [^Hoffmann21c#inline]
@@ -106,6 +123,7 @@ table_vp
 - **Ikegame21**: [^Ikegame21#inline]
 - **Jangra21**: [^Jangra21#inline]
 - **Kemp21**: [^Kemp21#inline]
+- **Khoury21**: [^Khoury21#inline]
 - **Kuzmina21**: [^Kuzmina21#inline]
 - **Lee21**: [^Lee21#inline]
 - **Leier21**: [^Leier21#inline]
@@ -123,15 +141,20 @@ table_vp
 - **Monin-Aldama21**: [^Monin-Aldama21#inline]
 - **Moyo-Gwete21**: [^Moyo-Gwete21#inline]
 - **Muik21**: [^Muik21#inline]
+- **Ranzani21**: [^Ranzani21#inline]
 - **Planas21**: [^Planas21#inline]
+- **Polack20**: [^Polack20#inline]
 - **Rees-Spear21**: [^Rees-Spear21#inline]
 - **Rondinone21**: [^Rondinone21#inline]
 - **Rothenberger21**: [^Rothenberger21#inline]
+- **Sadoff21**: [^Sadoff21#inline]
 - **Sahin20**: [^Sahin20#inline]
 - **Sapkal21**: [^Sapkal21#inline]
 - **Sapkal21b**: [^Sapkal21b#inline]
+- **Sheikh21**: [^Sheikh21#inline]
 - **Shen21**: [^Shen21#inline]
 - **Shen21b**: [^Shen21b#inline]
+- **Shinde21**: [^Shinde21#inline]
 - **Skelly21**: [^Skelly21#inline]
 - **Stamatatos21**: [^Stamatatos21#inline]
 - **Stankov21**: [^Stankov21#inline]
@@ -144,6 +167,7 @@ table_vp
 - **Trinite21**: [^Trinite21#inline]
 - **Vanhove21**: [^Vanhove21#inline]
 - **Virtanen21**: [^Virtanen21#inline]
+- **Voysey20**: [^Voysey20#inline]
 - **Wang21**: [^Wang21#inline]
 - **Wang21b**: [^Wang21b#inline]
 - **Wang21d**: [^Wang21d#inline]

@@ -1,0 +1,88 @@
+- Vaccine: BNT162b2
+  Variant:
+  - name: Pre-variant
+    efficacy: 95% (Trial)
+    reference: Polack20
+  - name: Pre-variant
+    efficacy: 95% (TNCC)
+    reference: Khoury21
+  - name: Alpha
+    efficacy: 90% (TNCC)
+    reference: Abu-Raddad21
+  - name: Alpha
+    efficacy: 92% (TNCC)
+    reference: Sheikh21
+  - name: Alpha
+    efficacy: 93% (TNCC)
+    reference: Bernal21
+  - name: Alpha
+    efficacy: 97% (Cohort)
+    reference: Haas21
+  - name: Beta
+    efficacy: 75% (TNCC)
+    reference: Abu-Raddad21
+  - name: Delta
+    efficacy: 83% (TNCC)
+    reference: Sheikh21
+  - name: Delta
+    efficacy: 88% (TNCC)
+    reference: Bernal21
+- Vaccine: AZD1222
+  Variant:
+  - name: Pre-variant
+    efficacy: 70% (Trial)
+    reference: Khoury21
+  - name: Pre-variant
+    efficacy: 70% (Trial)
+    reference: Voysey20
+  - name: Alpha
+    efficacy: 70% (Trial)
+    reference: Emary21
+  - name: Alpha
+    efficacy: 66% (TNCC)
+    reference: Bernal21
+  - name: Alpha
+    efficacy: 81% (TNCC)
+    reference: Sheikh21
+  - name: Beta
+    efficacy: 10% (Trial)
+    reference: Madhi21
+  - name: Delta
+    efficacy: 60% (TNCC)
+    reference: Bernal21
+  - name: Delta
+    efficacy: 61% (TNCC)
+    reference: Sheikh21
+- Vaccine: NVX-CoV2373
+  Variant:
+  - name: Pre-variant
+    efficacy: 96% (Trial)
+    reference: Khoury21
+  - name: Pre-variant
+    efficacy: 96% (Trial)
+    reference: Heath21
+  - name: Alpha
+    efficacy: 86% (Trial)
+    reference: Heath21
+  - name: Beta
+    efficacy: 51% (Trial)
+    reference: Shinde21
+- Vaccine: Ad26.COV2.S
+  Variant:
+  - name: Pre-variant
+    efficacy: 72% (Trial)
+    reference: Khoury21
+  - name: Pre-variant
+    efficacy: 72% (Trial)
+    reference: Sadoff21
+  - name: Beta
+    efficacy: 64% (Trial)
+    reference: Sadoff21
+- Vaccine: CoronaVac
+  Variant:
+  - name: Pre-variant
+    efficacy: 51% (Trial)
+    reference: Khoury21
+  - name: Gamma
+    efficacy: 42% (TNCC)
+    reference: Ranzani21

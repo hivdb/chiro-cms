@@ -10,7 +10,7 @@
                 "i_fold": 23,
                 "r_fold": 23,
                 "reference": "Emary21*[^Emary21]",
-                "median": "8.7"
+                "median": "8.8"
             },
             {
                 "variant": "B.1.1.7",
@@ -25,12 +25,22 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "AZD1222",
-                "samples": 12,
-                "s_fold": 12,
+                "samples": 10,
+                "s_fold": 9,
+                "i_fold": 0,
+                "r_fold": 1,
+                "reference": "Planas21b*[^Planas21b]",
+                "median": "1.0"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "AZD1222",
+                "samples": 20,
+                "s_fold": 20,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Planas21b*[^Planas21b]",
-                "median": 1.1
+                "median": 0.8
             },
             {
                 "variant": "B.1.1.7",
@@ -99,7 +109,7 @@
                 "s_fold": 37,
                 "i_fold": 1,
                 "r_fold": 0,
-                "reference": "Sapkal21b*[^Sapkal21b]",
+                "reference": "Sapkal21b[^Sapkal21b]",
                 "median": "1.2"
             },
             {
@@ -110,7 +120,7 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Yadav21*[^Yadav21]",
-                "median": "1.3"
+                "median": "1.2"
             },
             {
                 "variant": "B.1.1.7",
@@ -121,6 +131,16 @@
                 "r_fold": 0,
                 "reference": "Alenquer21[^Alenquer21]",
                 "median": "1.6"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 1,
+                "s_fold": 1,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Alenquer21[^Alenquer21]",
+                "median": "1.3"
             },
             {
                 "variant": "B.1.1.7",
@@ -150,7 +170,7 @@
                 "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Brown21*[^Brown21]",
-                "median": "1.4"
+                "median": "1.5"
             },
             {
                 "variant": "B.1.1.7",
@@ -165,22 +185,22 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 52,
-                "s_fold": 43,
-                "i_fold": 7,
-                "r_fold": 2,
+                "samples": 92,
+                "s_fold": 73,
+                "i_fold": 15,
+                "r_fold": 4,
                 "reference": "Collier21[^Collier21]",
                 "median": "1"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 21,
-                "s_fold": 18,
-                "i_fold": 3,
+                "samples": 42,
+                "s_fold": 34,
+                "i_fold": 8,
                 "r_fold": 0,
                 "reference": "Collier21[^Collier21]",
-                "median": "2"
+                "median": "1.8"
             },
             {
                 "variant": "B.1.1.7",
@@ -210,7 +230,7 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Kuzmina21[^Kuzmina21]",
-                "median": 1.0
+                "median": "0.8"
             },
             {
                 "variant": "B.1.1.7",
@@ -219,8 +239,18 @@
                 "s_fold": 30,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Leier21*[^Leier21]",
+                "reference": "Leier21[^Leier21]",
                 "median": 2.6
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 20,
+                "s_fold": 20,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Liu21b[^Liu21b]",
+                "median": "1"
             },
             {
                 "variant": "B.1.1.7",
@@ -245,18 +275,28 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 26,
-                "s_fold": 16,
-                "i_fold": 10,
+                "samples": 29,
+                "s_fold": 29,
+                "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Marot21*[^Marot21]",
-                "median": "2"
+                "median": 1.6
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 18,
-                "s_fold": 16,
+                "samples": 29,
+                "s_fold": 29,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Marot21*[^Marot21]",
+                "median": 2.4
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 17,
+                "s_fold": 15,
                 "i_fold": 2,
                 "r_fold": 0,
                 "reference": "McCallum21b[^McCallum21b]",
@@ -276,11 +316,11 @@
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "samples": 16,
-                "s_fold": 0,
-                "i_fold": 16,
-                "r_fold": 0,
-                "reference": "Monin-Aldama21[^Monin-Aldama21]",
-                "median": 3.4
+                "s_fold": 8,
+                "i_fold": 7,
+                "r_fold": 1,
+                "reference": "Monin21[^Monin21]",
+                "median": "3.2"
             },
             {
                 "variant": "B.1.1.7",
@@ -295,62 +335,82 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 31,
-                "s_fold": 19,
-                "i_fold": 11,
-                "r_fold": 1,
+                "samples": 25,
+                "s_fold": 9,
+                "i_fold": 3,
+                "r_fold": 13,
                 "reference": "Planas21[^Planas21]",
-                "median": "2.3"
+                "median": "2.8"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "samples": 36,
-                "s_fold": 34,
-                "i_fold": 2,
-                "r_fold": 0,
+                "s_fold": 33,
+                "i_fold": 0,
+                "r_fold": 3,
                 "reference": "Planas21[^Planas21]",
                 "median": "0.6"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 29,
-                "s_fold": 29,
+                "samples": 27,
+                "s_fold": 27,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Planas21b*[^Planas21b]",
-                "median": 0.5
+                "median": "0.9"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 24,
-                "s_fold": 17,
-                "i_fold": 7,
+                "samples": 16,
+                "s_fold": 0,
+                "i_fold": 16,
                 "r_fold": 0,
-                "reference": "Skelly21*[^Skelly21]",
-                "median": "2.2"
+                "reference": "Planas21b*[^Planas21b]",
+                "median": 3.8
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 5,
-                "s_fold": 5,
+                "samples": 8,
+                "s_fold": 1,
+                "i_fold": 0,
+                "r_fold": 7,
+                "reference": "Skelly21[^Skelly21]",
+                "median": "2.8"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 25,
+                "s_fold": 16,
+                "i_fold": 8,
+                "r_fold": 1,
+                "reference": "Skelly21[^Skelly21]",
+                "median": "2.4"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 10,
+                "s_fold": 10,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Stankov21[^Stankov21]",
-                "median": "1.1"
+                "median": "1"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 14,
-                "s_fold": 0,
-                "i_fold": 14,
-                "r_fold": 0,
+                "samples": 9,
+                "s_fold": 6,
+                "i_fold": 0,
+                "r_fold": 3,
                 "reference": "Stankov21[^Stankov21]",
-                "median": 3.1
+                "median": "1.5"
             },
             {
                 "variant": "B.1.1.7",
@@ -375,42 +435,62 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 6,
-                "s_fold": 6,
+                "samples": 12,
+                "s_fold": 12,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Tada21c[^Tada21c]",
-                "median": 1.2
+                "median": "1.2"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 64,
+                "s_fold": 51,
+                "i_fold": 13,
+                "r_fold": 0,
+                "reference": "Trinite21[^Trinite21]",
+                "median": "1.6"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "BNT162b2",
+                "samples": 40,
+                "s_fold": 37,
+                "i_fold": 3,
+                "r_fold": 0,
+                "reference": "Turner21*[^Turner21]",
+                "median": "1.4"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
                 "samples": 32,
                 "s_fold": 26,
-                "i_fold": 6,
-                "r_fold": 0,
-                "reference": "Trinite21[^Trinite21]",
-                "median": "1.0"
+                "i_fold": 4,
+                "r_fold": 2,
+                "reference": "Turner21*[^Turner21]",
+                "median": "1.3"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 214,
+                "samples": 213,
                 "s_fold": 136,
                 "i_fold": 74,
-                "r_fold": 4,
+                "r_fold": 3,
                 "reference": "Wall21*[^Wall21]",
                 "median": "2.5"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 322,
-                "s_fold": 195,
-                "i_fold": 74,
-                "r_fold": 53,
+                "samples": 252,
+                "s_fold": 125,
+                "i_fold": 24,
+                "r_fold": 103,
                 "reference": "Wall21*[^Wall21]",
-                "median": "2"
+                "median": "3"
             },
             {
                 "variant": "B.1.1.7",
@@ -435,12 +515,12 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "BNT162b2",
-                "samples": 3,
-                "s_fold": 0,
-                "i_fold": 2,
-                "r_fold": 1,
+                "samples": 6,
+                "s_fold": 5,
+                "i_fold": 1,
+                "r_fold": 0,
                 "reference": "Widera21*[^Widera21]",
-                "median": "8"
+                "median": "1"
             },
             {
                 "variant": "B.1.1.7",
@@ -449,7 +529,7 @@
                 "s_fold": 20,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Xie21b[^Xie21b]",
+                "reference": "Xie21[^Xie21]",
                 "median": "0.8"
             },
             {
@@ -460,7 +540,7 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Zhou21c[^Zhou21c]",
-                "median": 1.0
+                "median": "0.9"
             },
             {
                 "variant": "B.1.1.7",
@@ -470,7 +550,17 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Zuckerman21*[^Zuckerman21]",
-                "median": 2.0
+                "median": 1.9
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "ChAd-SARS-CoV-2",
+                "samples": 24,
+                "s_fold": 23,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Chen21*[^Chen21]",
+                "median": "1.2"
             },
             {
                 "variant": "B.1.1.7",
@@ -496,8 +586,8 @@
                 "variant": "B.1.1.7",
                 "rx": "MVC-COV1901",
                 "samples": 45,
-                "s_fold": 44,
-                "i_fold": 1,
+                "s_fold": 41,
+                "i_fold": 4,
                 "r_fold": 0,
                 "reference": "Lien21[^Lien21]",
                 "median": "1.7"
@@ -515,12 +605,12 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "Sputnik V",
-                "samples": 12,
-                "s_fold": 12,
+                "samples": 9,
+                "s_fold": 9,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Ikegame21[^Ikegame21]",
-                "median": "0.6"
+                "median": "0.7"
             },
             {
                 "variant": "B.1.1.7",
@@ -555,22 +645,42 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
-                "samples": 12,
-                "s_fold": 9,
-                "i_fold": 3,
-                "r_fold": 0,
-                "reference": "Pegu21*[^Pegu21]",
-                "median": "1.3"
+                "samples": 72,
+                "s_fold": 63,
+                "i_fold": 8,
+                "r_fold": 1,
+                "reference": "Pegu21[^Pegu21]",
+                "median": "1.7"
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
-                "samples": 69,
+                "samples": 20,
+                "s_fold": 6,
+                "i_fold": 2,
+                "r_fold": 12,
+                "reference": "Pegu21[^Pegu21]",
+                "median": "2.9"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "mRNA-1273",
+                "samples": 72,
                 "s_fold": 64,
                 "i_fold": 5,
-                "r_fold": 0,
+                "r_fold": 3,
                 "reference": "Pegu21*[^Pegu21]",
                 "median": "1.1"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "mRNA-1273",
+                "samples": 16,
+                "s_fold": 7,
+                "i_fold": 3,
+                "r_fold": 6,
+                "reference": "Pegu21*[^Pegu21]",
+                "median": "2.9"
             },
             {
                 "variant": "B.1.1.7",
@@ -585,12 +695,12 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
-                "samples": 3,
-                "s_fold": 3,
+                "samples": 6,
+                "s_fold": 6,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Tada21c[^Tada21c]",
-                "median": 1.3
+                "median": "1.2"
             },
             {
                 "variant": "B.1.1.7",
@@ -615,6 +725,16 @@
             {
                 "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
+                "samples": 18,
+                "s_fold": 14,
+                "i_fold": 0,
+                "r_fold": 4,
+                "reference": "Widera21*[^Widera21]",
+                "median": "1"
+            },
+            {
+                "variant": "B.1.1.7",
+                "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 8,
                 "i_fold": 0,
@@ -630,17 +750,17 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Wu21[^Wu21]",
-                "median": 1.5
+                "median": 1.4
             },
             {
                 "variant": "B.1.1.7",
                 "rx": "mRNA-1273",
-                "samples": 5,
-                "s_fold": 5,
+                "samples": 3,
+                "s_fold": 3,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Zhou21c[^Zhou21c]",
-                "median": 1.4
+                "median": "1.3"
             }
         ]
     },
@@ -650,32 +770,42 @@
             {
                 "variant": "B.1.351",
                 "rx": "AZD1222",
-                "samples": 22,
-                "s_fold": 1,
+                "samples": 50,
+                "s_fold": 2,
                 "i_fold": 10,
-                "r_fold": 11,
+                "r_fold": 38,
                 "reference": "Madhi21[^Madhi21]",
-                "median": "8.6"
+                "median": "5.5"
             },
             {
                 "variant": "B.1.351",
                 "rx": "AZD1222",
-                "samples": 12,
-                "s_fold": 0,
+                "samples": 10,
+                "s_fold": 1,
                 "i_fold": 0,
-                "r_fold": 12,
+                "r_fold": 9,
                 "reference": "Planas21b*[^Planas21b]",
-                "median": 12.7
+                "median": "7.3"
             },
             {
                 "variant": "B.1.351",
                 "rx": "AZD1222",
-                "samples": 18,
+                "samples": 20,
+                "s_fold": 0,
+                "i_fold": 20,
+                "r_fold": 0,
+                "reference": "Planas21b*[^Planas21b]",
+                "median": 7.7
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "AZD1222",
+                "samples": 25,
                 "s_fold": 1,
                 "i_fold": 12,
-                "r_fold": 5,
+                "r_fold": 12,
                 "reference": "Zhou21b*[^Zhou21b]",
-                "median": "7.8"
+                "median": "7.4"
             },
             {
                 "variant": "B.1.351",
@@ -720,19 +850,19 @@
             {
                 "variant": "B.1.351",
                 "rx": "Ad26.COV2.S",
-                "samples": 27,
+                "samples": 26,
                 "s_fold": 2,
                 "i_fold": 3,
-                "r_fold": 22,
+                "r_fold": 21,
                 "reference": "Moore21[^Moore21]",
-                "median": "10"
+                "median": "2.6"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BBIBP-CorV",
-                "samples": 12,
-                "s_fold": 12,
-                "i_fold": 0,
+                "samples": 24,
+                "s_fold": 22,
+                "i_fold": 2,
                 "r_fold": 0,
                 "reference": "Huang21b*[^Huang21b]",
                 "median": "1.5"
@@ -745,56 +875,56 @@
                 "i_fold": 1,
                 "r_fold": 13,
                 "reference": "Wang21g[^Wang21g]",
-                "median": "4.2"
+                "median": "4.3"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BBV152",
                 "samples": 17,
                 "s_fold": 9,
-                "i_fold": 7,
-                "r_fold": 1,
+                "i_fold": 4,
+                "r_fold": 4,
                 "reference": "Yadav21b*[^Yadav21b]",
                 "median": "2.5"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 9,
-                "s_fold": 1,
-                "i_fold": 8,
-                "r_fold": 0,
+                "samples": 10,
+                "s_fold": 0,
+                "i_fold": 7,
+                "r_fold": 3,
                 "reference": "Alenquer21[^Alenquer21]",
-                "median": "4.1"
+                "median": "4"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 43,
+                "samples": 1,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 1,
+                "reference": "Alenquer21[^Alenquer21]",
+                "median": "1.3"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 50,
                 "s_fold": 5,
                 "i_fold": 16,
-                "r_fold": 22,
+                "r_fold": 29,
                 "reference": "Bates21*[^Bates21]",
-                "median": "11"
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "BNT162b2",
-                "samples": 6,
-                "s_fold": 1,
-                "i_fold": 3,
-                "r_fold": 2,
-                "reference": "Becker21*[^Becker21]",
-                "median": "5.6"
+                "median": "12"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "samples": 24,
                 "s_fold": 0,
-                "i_fold": 12,
-                "r_fold": 12,
-                "reference": "Chen21*[^Chen21]",
+                "i_fold": 10,
+                "r_fold": 14,
+                "reference": "Chen21[^Chen21]",
                 "median": "10"
             },
             {
@@ -810,19 +940,19 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 14,
-                "s_fold": 10,
-                "i_fold": 4,
-                "r_fold": 0,
+                "samples": 53,
+                "s_fold": 23,
+                "i_fold": 12,
+                "r_fold": 18,
                 "reference": "Goel21[^Goel21]",
-                "median": "2.4"
+                "median": "2"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 33,
+                "samples": 34,
                 "s_fold": 18,
-                "i_fold": 15,
+                "i_fold": 16,
                 "r_fold": 0,
                 "reference": "Goel21[^Goel21]",
                 "median": "2.8"
@@ -851,11 +981,11 @@
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "samples": 10,
-                "s_fold": 0,
-                "i_fold": 10,
-                "r_fold": 0,
+                "s_fold": 1,
+                "i_fold": 5,
+                "r_fold": 4,
                 "reference": "Kuzmina21[^Kuzmina21]",
-                "median": 6.8
+                "median": "8.2"
             },
             {
                 "variant": "B.1.351",
@@ -864,18 +994,18 @@
                 "s_fold": 0,
                 "i_fold": 10,
                 "r_fold": 20,
-                "reference": "Leier21*[^Leier21]",
-                "median": 11.2
+                "reference": "Leier21[^Leier21]",
+                "median": 11.1
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "samples": 20,
-                "s_fold": 15,
-                "i_fold": 5,
-                "r_fold": 0,
+                "s_fold": 12,
+                "i_fold": 7,
+                "r_fold": 1,
                 "reference": "Liu21b[^Liu21b]",
-                "median": "2"
+                "median": "2.7"
             },
             {
                 "variant": "B.1.351",
@@ -895,107 +1025,137 @@
                 "i_fold": 5,
                 "r_fold": 0,
                 "reference": "Mallm21*[^Mallm21]",
-                "median": "4.7"
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "BNT162b2",
-                "samples": 24,
-                "s_fold": 3,
-                "i_fold": 19,
-                "r_fold": 2,
-                "reference": "Marot21*[^Marot21]",
-                "median": "4"
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "BNT162b2",
-                "samples": 18,
-                "s_fold": 6,
-                "i_fold": 11,
-                "r_fold": 1,
-                "reference": "McCallum21b[^McCallum21b]",
-                "median": "3.4"
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "BNT162b2",
-                "samples": 31,
-                "s_fold": 10,
-                "i_fold": 13,
-                "r_fold": 8,
-                "reference": "Planas21[^Planas21]",
-                "median": "4"
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "BNT162b2",
-                "samples": 36,
-                "s_fold": 8,
-                "i_fold": 15,
-                "r_fold": 13,
-                "reference": "Planas21[^Planas21]",
-                "median": "5.8"
+                "median": "4.8"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "samples": 29,
                 "s_fold": 0,
-                "i_fold": 0,
-                "r_fold": 29,
-                "reference": "Planas21b*[^Planas21b]",
-                "median": 14.1
+                "i_fold": 29,
+                "r_fold": 0,
+                "reference": "Marot21*[^Marot21]",
+                "median": 3.7
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 23,
-                "s_fold": 4,
-                "i_fold": 15,
-                "r_fold": 4,
-                "reference": "Skelly21*[^Skelly21]",
+                "samples": 29,
+                "s_fold": 0,
+                "i_fold": 29,
+                "r_fold": 0,
+                "reference": "Marot21*[^Marot21]",
+                "median": 4.3
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 17,
+                "s_fold": 5,
+                "i_fold": 10,
+                "r_fold": 2,
+                "reference": "McCallum21b[^McCallum21b]",
+                "median": "3.7"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 36,
+                "s_fold": 5,
+                "i_fold": 13,
+                "r_fold": 18,
+                "reference": "Planas21[^Planas21]",
+                "median": "5.8"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 25,
+                "s_fold": 0,
+                "i_fold": 1,
+                "r_fold": 24,
+                "reference": "Planas21[^Planas21]",
                 "median": "5.4"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 18,
+                "samples": 27,
+                "s_fold": 1,
+                "i_fold": 9,
+                "r_fold": 17,
+                "reference": "Planas21b*[^Planas21b]",
+                "median": "12"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 16,
+                "s_fold": 0,
+                "i_fold": 16,
+                "r_fold": 0,
+                "reference": "Planas21b*[^Planas21b]",
+                "median": 6.7
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 25,
+                "s_fold": 4,
+                "i_fold": 15,
+                "r_fold": 6,
+                "reference": "Skelly21[^Skelly21]",
+                "median": "4.8"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 8,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 8,
+                "reference": "Skelly21[^Skelly21]",
+                "median": "2.9"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 22,
                 "s_fold": 7,
                 "i_fold": 6,
-                "r_fold": 5,
+                "r_fold": 9,
                 "reference": "Stamatatos21[^Stamatatos21]",
                 "median": "3.6"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 44,
+                "samples": 46,
                 "s_fold": 5,
                 "i_fold": 25,
-                "r_fold": 14,
+                "r_fold": 16,
                 "reference": "Stamatatos21[^Stamatatos21]",
-                "median": "6.5"
+                "median": "7.3"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 5,
-                "s_fold": 3,
-                "i_fold": 2,
+                "samples": 10,
+                "s_fold": 7,
+                "i_fold": 3,
                 "r_fold": 0,
                 "reference": "Stankov21[^Stankov21]",
-                "median": "2.2"
+                "median": "2"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 14,
-                "s_fold": 0,
-                "i_fold": 14,
-                "r_fold": 0,
+                "samples": 9,
+                "s_fold": 1,
+                "i_fold": 1,
+                "r_fold": 7,
                 "reference": "Stankov21[^Stankov21]",
-                "median": 3.1
+                "median": "1.5"
             },
             {
                 "variant": "B.1.351",
@@ -1010,12 +1170,12 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 6,
-                "s_fold": 0,
-                "i_fold": 6,
+                "samples": 12,
+                "s_fold": 3,
+                "i_fold": 9,
                 "r_fold": 0,
                 "reference": "Tada21c[^Tada21c]",
-                "median": 3.6
+                "median": "3.3"
             },
             {
                 "variant": "B.1.351",
@@ -1030,30 +1190,50 @@
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 320,
-                "s_fold": 122,
-                "i_fold": 83,
-                "r_fold": 115,
-                "reference": "Wall21*[^Wall21]",
-                "median": "6.2"
+                "samples": 40,
+                "s_fold": 10,
+                "i_fold": 25,
+                "r_fold": 5,
+                "reference": "Turner21[^Turner21]",
+                "median": "3.8"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 214,
-                "s_fold": 52,
-                "i_fold": 131,
-                "r_fold": 31,
+                "samples": 32,
+                "s_fold": 16,
+                "i_fold": 7,
+                "r_fold": 9,
+                "reference": "Turner21[^Turner21]",
+                "median": "2.6"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
+                "samples": 213,
+                "s_fold": 51,
+                "i_fold": 130,
+                "r_fold": 32,
                 "reference": "Wall21*[^Wall21]",
                 "median": "4.5"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
+                "samples": 251,
+                "s_fold": 53,
+                "i_fold": 38,
+                "r_fold": 160,
+                "reference": "Wall21*[^Wall21]",
+                "median": "9.5"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 3,
-                "i_fold": 6,
-                "r_fold": 1,
+                "i_fold": 5,
+                "r_fold": 2,
                 "reference": "Wang21b[^Wang21b]",
                 "median": "4"
             },
@@ -1062,40 +1242,50 @@
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 0,
-                "i_fold": 6,
-                "r_fold": 4,
+                "i_fold": 5,
+                "r_fold": 5,
                 "reference": "Wang21b*[^Wang21b]",
                 "median": "9.2"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 3,
+                "samples": 12,
                 "s_fold": 0,
-                "i_fold": 3,
-                "r_fold": 0,
+                "i_fold": 4,
+                "r_fold": 8,
                 "reference": "Widera21*[^Widera21]",
-                "median": "8"
+                "median": "6"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
-                "samples": 23,
+                "samples": 24,
                 "s_fold": 1,
                 "i_fold": 13,
-                "r_fold": 9,
+                "r_fold": 10,
                 "reference": "Zhou21b*[^Zhou21b]",
-                "median": "7.5"
+                "median": "7.6"
             },
             {
                 "variant": "B.1.351",
                 "rx": "BNT162b2",
                 "samples": 5,
-                "s_fold": 0,
-                "i_fold": 5,
+                "s_fold": 1,
+                "i_fold": 4,
                 "r_fold": 0,
                 "reference": "Zhou21c[^Zhou21c]",
-                "median": 3.6
+                "median": "3.3"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "ChAd-SARS-CoV-2",
+                "samples": 24,
+                "s_fold": 7,
+                "i_fold": 6,
+                "r_fold": 11,
+                "reference": "Chen21[^Chen21]",
+                "median": "8.6"
             },
             {
                 "variant": "B.1.351",
@@ -1112,36 +1302,46 @@
                 "rx": "MVC-COV1901",
                 "samples": 45,
                 "s_fold": 4,
-                "i_fold": 28,
-                "r_fold": 13,
+                "i_fold": 23,
+                "r_fold": 18,
                 "reference": "Lien21[^Lien21]",
-                "median": "6.4"
+                "median": "6.5"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "MVC-COV1901",
+                "samples": 36,
+                "s_fold": 26,
+                "i_fold": 10,
+                "r_fold": 0,
+                "reference": "Lien21[^Lien21]",
+                "median": 1.4
             },
             {
                 "variant": "B.1.351",
                 "rx": "NVX-CoV2373",
-                "samples": 22,
+                "samples": 23,
                 "s_fold": 0,
                 "i_fold": 7,
-                "r_fold": 15,
+                "r_fold": 16,
                 "reference": "Shen21b[^Shen21b]",
                 "median": "13"
             },
             {
                 "variant": "B.1.351",
                 "rx": "Sputnik V",
-                "samples": 12,
-                "s_fold": 3,
-                "i_fold": 6,
-                "r_fold": 3,
+                "samples": 9,
+                "s_fold": 1,
+                "i_fold": 2,
+                "r_fold": 6,
                 "reference": "Ikegame21[^Ikegame21]",
-                "median": "6.2"
+                "median": "2.9"
             },
             {
                 "variant": "B.1.351",
                 "rx": "ZF2001",
-                "samples": 12,
-                "s_fold": 12,
+                "samples": 24,
+                "s_fold": 24,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Huang21b*[^Huang21b]",
@@ -1180,22 +1380,42 @@
             {
                 "variant": "B.1.351",
                 "rx": "mRNA-1273",
-                "samples": 60,
-                "s_fold": 16,
-                "i_fold": 32,
-                "r_fold": 12,
-                "reference": "Pegu21*[^Pegu21]",
-                "median": "4.6"
+                "samples": 72,
+                "s_fold": 10,
+                "i_fold": 27,
+                "r_fold": 35,
+                "reference": "Pegu21[^Pegu21]",
+                "median": "8.1"
             },
             {
                 "variant": "B.1.351",
                 "rx": "mRNA-1273",
-                "samples": 4,
+                "samples": 20,
+                "s_fold": 1,
+                "i_fold": 1,
+                "r_fold": 18,
+                "reference": "Pegu21[^Pegu21]",
+                "median": "5.7"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "mRNA-1273",
+                "samples": 72,
+                "s_fold": 16,
+                "i_fold": 31,
+                "r_fold": 25,
+                "reference": "Pegu21*[^Pegu21]",
+                "median": "4.8"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "mRNA-1273",
+                "samples": 16,
                 "s_fold": 0,
                 "i_fold": 1,
-                "r_fold": 3,
+                "r_fold": 15,
                 "reference": "Pegu21*[^Pegu21]",
-                "median": "18"
+                "median": "5.6"
             },
             {
                 "variant": "B.1.351",
@@ -1230,12 +1450,12 @@
             {
                 "variant": "B.1.351",
                 "rx": "mRNA-1273",
-                "samples": 3,
-                "s_fold": 3,
-                "i_fold": 0,
+                "samples": 6,
+                "s_fold": 5,
+                "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Tada21c[^Tada21c]",
-                "median": 0.3
+                "median": "2.1"
             },
             {
                 "variant": "B.1.351",
@@ -1270,6 +1490,16 @@
             {
                 "variant": "B.1.351",
                 "rx": "mRNA-1273",
+                "samples": 15,
+                "s_fold": 1,
+                "i_fold": 1,
+                "r_fold": 13,
+                "reference": "Widera21*[^Widera21]",
+                "median": "4"
+            },
+            {
+                "variant": "B.1.351",
+                "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 0,
                 "i_fold": 8,
@@ -1300,22 +1530,12 @@
             {
                 "variant": "B.1.351",
                 "rx": "mRNA-1273",
-                "samples": 5,
-                "s_fold": 0,
-                "i_fold": 5,
+                "samples": 3,
+                "s_fold": 1,
+                "i_fold": 2,
                 "r_fold": 0,
                 "reference": "Zhou21c[^Zhou21c]",
-                "median": 3.9
-            },
-            {
-                "variant": "B.1.351",
-                "rx": "mRNA-1273 + mRNA-1273.351",
-                "samples": 5,
-                "s_fold": 4,
-                "i_fold": 1,
-                "r_fold": 0,
-                "reference": "Wu21b[^Wu21b]",
-                "median": "1.1"
+                "median": "3.8"
             },
             {
                 "variant": "B.1.351",
@@ -1365,10 +1585,10 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "BNT162b2",
-                "samples": 3,
-                "s_fold": 3,
+                "samples": 4,
+                "s_fold": 2,
                 "i_fold": 0,
-                "r_fold": 0,
+                "r_fold": 2,
                 "reference": "Deng21[^Deng21]",
                 "median": "2"
             },
@@ -1395,12 +1615,12 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "BNT162b2",
-                "samples": 18,
-                "s_fold": 11,
-                "i_fold": 7,
-                "r_fold": 0,
+                "samples": 45,
+                "s_fold": 27,
+                "i_fold": 17,
+                "r_fold": 1,
                 "reference": "McCallum21b[^McCallum21b]",
-                "median": "2.8"
+                "median": "2.5"
             },
             {
                 "variant": "B.1.427/9",
@@ -1425,10 +1645,10 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "mRNA-1273",
-                "samples": 8,
-                "s_fold": 7,
-                "i_fold": 1,
-                "r_fold": 0,
+                "samples": 9,
+                "s_fold": 6,
+                "i_fold": 0,
+                "r_fold": 3,
                 "reference": "Deng21[^Deng21]",
                 "median": "2"
             },
@@ -1445,20 +1665,20 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "mRNA-1273",
-                "samples": 11,
-                "s_fold": 6,
-                "i_fold": 1,
-                "r_fold": 4,
+                "samples": 28,
+                "s_fold": 21,
+                "i_fold": 7,
+                "r_fold": 0,
                 "reference": "McCallum21b[^McCallum21b]",
-                "median": "2.6"
+                "median": "2.2"
             },
             {
                 "variant": "B.1.427/9",
                 "rx": "mRNA-1273",
                 "samples": 48,
-                "s_fold": 37,
-                "i_fold": 10,
-                "r_fold": 1,
+                "s_fold": 35,
+                "i_fold": 13,
+                "r_fold": 0,
                 "reference": "Pegu21[^Pegu21]",
                 "median": "2"
             },
@@ -1475,12 +1695,22 @@
             {
                 "variant": "B.1.427/9",
                 "rx": "mRNA-1273",
+                "samples": 16,
+                "s_fold": 12,
+                "i_fold": 4,
+                "r_fold": 0,
+                "reference": "Wu21[^Wu21]",
+                "median": "2.5"
+            },
+            {
+                "variant": "B.1.427/9",
+                "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 8,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Wu21b[^Wu21b]",
-                "median": 2.3
+                "median": 2.4
             },
             {
                 "variant": "B.1.427/9",
@@ -1490,7 +1720,7 @@
                 "i_fold": 8,
                 "r_fold": 0,
                 "reference": "Wu21b[^Wu21b]",
-                "median": 3.5
+                "median": 3.6
             },
             {
                 "variant": "B.1.427/9",
@@ -1531,11 +1761,11 @@
                 "variant": "B.1.526",
                 "rx": "BNT162b2",
                 "samples": 5,
-                "s_fold": 0,
-                "i_fold": 5,
+                "s_fold": 1,
+                "i_fold": 4,
                 "r_fold": 0,
                 "reference": "Zhou21c[^Zhou21c]",
-                "median": 3.3
+                "median": "3.7"
             },
             {
                 "variant": "B.1.526",
@@ -1550,12 +1780,12 @@
             {
                 "variant": "B.1.526",
                 "rx": "mRNA-1273",
-                "samples": 45,
-                "s_fold": 30,
-                "i_fold": 15,
-                "r_fold": 0,
+                "samples": 48,
+                "s_fold": 36,
+                "i_fold": 9,
+                "r_fold": 3,
                 "reference": "Pegu21[^Pegu21]",
-                "median": "2.2"
+                "median": "2.3"
             },
             {
                 "variant": "B.1.526",
@@ -1570,12 +1800,12 @@
             {
                 "variant": "B.1.526",
                 "rx": "mRNA-1273",
-                "samples": 5,
-                "s_fold": 0,
-                "i_fold": 5,
+                "samples": 3,
+                "s_fold": 1,
+                "i_fold": 2,
                 "r_fold": 0,
                 "reference": "Zhou21c[^Zhou21c]",
-                "median": 3.9
+                "median": "4.4"
             }
         ]
     },
@@ -1590,7 +1820,7 @@
                 "i_fold": 8,
                 "r_fold": 1,
                 "reference": "Liu21f[^Liu21f]",
-                "median": "2.3"
+                "median": "2.2"
             },
             {
                 "variant": "B.1.617.1",
@@ -1647,8 +1877,8 @@
                 "rx": "BNT162b2",
                 "samples": 20,
                 "s_fold": 12,
-                "i_fold": 8,
-                "r_fold": 0,
+                "i_fold": 7,
+                "r_fold": 1,
                 "reference": "Liu21e[^Liu21e]",
                 "median": "2.8"
             },
@@ -1657,8 +1887,8 @@
                 "rx": "BNT162b2",
                 "samples": 25,
                 "s_fold": 15,
-                "i_fold": 9,
-                "r_fold": 1,
+                "i_fold": 8,
+                "r_fold": 2,
                 "reference": "Liu21f[^Liu21f]",
                 "median": "2.7"
             },
@@ -1675,20 +1905,20 @@
             {
                 "variant": "B.1.617.1",
                 "rx": "BNT162b2",
-                "samples": 292,
-                "s_fold": 102,
-                "i_fold": 85,
-                "r_fold": 105,
+                "samples": 229,
+                "s_fold": 39,
+                "i_fold": 36,
+                "r_fold": 154,
                 "reference": "Wall21[^Wall21]",
-                "median": "7.0"
+                "median": "9.3"
             },
             {
                 "variant": "B.1.617.1",
                 "rx": "BNT162b2",
-                "samples": 210,
+                "samples": 209,
                 "s_fold": 36,
-                "i_fold": 138,
-                "r_fold": 36,
+                "i_fold": 135,
+                "r_fold": 38,
                 "reference": "Wall21[^Wall21]",
                 "median": "5.2"
             },
@@ -1742,8 +1972,8 @@
                 "rx": "AZD1222",
                 "samples": 25,
                 "s_fold": 8,
-                "i_fold": 14,
-                "r_fold": 3,
+                "i_fold": 13,
+                "r_fold": 4,
                 "reference": "Liu21f[^Liu21f]",
                 "median": "4.5"
             },
@@ -1770,12 +2000,22 @@
             {
                 "variant": "B.1.617.2",
                 "rx": "AZD1222",
-                "samples": 12,
-                "s_fold": 0,
+                "samples": 10,
+                "s_fold": 1,
                 "i_fold": 0,
-                "r_fold": 12,
+                "r_fold": 9,
                 "reference": "Planas21b[^Planas21b]",
-                "median": 12.7
+                "median": "6.8"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "AZD1222",
+                "samples": 20,
+                "s_fold": 0,
+                "i_fold": 20,
+                "r_fold": 0,
+                "reference": "Planas21b[^Planas21b]",
+                "median": 4.0
             },
             {
                 "variant": "B.1.617.2",
@@ -1811,9 +2051,9 @@
                 "variant": "B.1.617.2",
                 "rx": "BBV152",
                 "samples": 17,
-                "s_fold": 13,
-                "i_fold": 3,
-                "r_fold": 1,
+                "s_fold": 12,
+                "i_fold": 1,
+                "r_fold": 4,
                 "reference": "Yadav21b[^Yadav21b]",
                 "median": "1.4"
             },
@@ -1825,17 +2065,17 @@
                 "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Liu21e[^Liu21e]",
-                "median": "1.7"
+                "median": "1.4"
             },
             {
                 "variant": "B.1.617.2",
                 "rx": "BNT162b2",
-                "samples": 25,
-                "s_fold": 15,
+                "samples": 24,
+                "s_fold": 14,
                 "i_fold": 10,
                 "r_fold": 0,
                 "reference": "Liu21f[^Liu21f]",
-                "median": "2.5"
+                "median": "2.6"
             },
             {
                 "variant": "B.1.617.2",
@@ -1870,12 +2110,22 @@
             {
                 "variant": "B.1.617.2",
                 "rx": "BNT162b2",
-                "samples": 29,
-                "s_fold": 16,
-                "i_fold": 13,
+                "samples": 27,
+                "s_fold": 15,
+                "i_fold": 11,
+                "r_fold": 1,
+                "reference": "Planas21b[^Planas21b]",
+                "median": "2.6"
+            },
+            {
+                "variant": "B.1.617.2",
+                "rx": "BNT162b2",
+                "samples": 16,
+                "s_fold": 0,
+                "i_fold": 16,
                 "r_fold": 0,
                 "reference": "Planas21b[^Planas21b]",
-                "median": 1.7
+                "median": 6.7
             },
             {
                 "variant": "B.1.617.2",
@@ -1935,12 +2185,22 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
-                "samples": 9,
+                "samples": 10,
                 "s_fold": 3,
                 "i_fold": 6,
-                "r_fold": 0,
+                "r_fold": 1,
                 "reference": "Alenquer21[^Alenquer21]",
                 "median": "3.6"
+            },
+            {
+                "variant": "P.1",
+                "rx": "BNT162b2",
+                "samples": 1,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 1,
+                "reference": "Alenquer21[^Alenquer21]",
+                "median": "1.3"
             },
             {
                 "variant": "P.1",
@@ -1949,7 +2209,7 @@
                 "s_fold": 12,
                 "i_fold": 3,
                 "r_fold": 0,
-                "reference": "Chen21*[^Chen21]",
+                "reference": "Chen21[^Chen21]",
                 "median": "2.2"
             },
             {
@@ -2005,6 +2265,16 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
+                "samples": 20,
+                "s_fold": 20,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Liu21b[^Liu21b]",
+                "median": "1.3"
+            },
+            {
+                "variant": "P.1",
+                "rx": "BNT162b2",
                 "samples": 15,
                 "s_fold": 10,
                 "i_fold": 5,
@@ -2015,8 +2285,8 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
-                "samples": 18,
-                "s_fold": 16,
+                "samples": 17,
+                "s_fold": 15,
                 "i_fold": 2,
                 "r_fold": 0,
                 "reference": "McCallum21b[^McCallum21b]",
@@ -2025,22 +2295,22 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
-                "samples": 5,
-                "s_fold": 3,
+                "samples": 10,
+                "s_fold": 8,
                 "i_fold": 2,
                 "r_fold": 0,
                 "reference": "Stankov21[^Stankov21]",
-                "median": "1.3"
+                "median": "1"
             },
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
-                "samples": 14,
-                "s_fold": 0,
-                "i_fold": 14,
-                "r_fold": 0,
+                "samples": 9,
+                "s_fold": 4,
+                "i_fold": 0,
+                "r_fold": 5,
                 "reference": "Stankov21[^Stankov21]",
-                "median": 3.1
+                "median": "1.5"
             },
             {
                 "variant": "P.1",
@@ -2055,12 +2325,12 @@
             {
                 "variant": "P.1",
                 "rx": "BNT162b2",
-                "samples": 10,
-                "s_fold": 8,
-                "i_fold": 1,
-                "r_fold": 1,
+                "samples": 20,
+                "s_fold": 13,
+                "i_fold": 4,
+                "r_fold": 3,
                 "reference": "Wang21d[^Wang21d]",
-                "median": "1.9"
+                "median": "2.1"
             },
             {
                 "variant": "P.1",
@@ -2075,12 +2345,12 @@
             {
                 "variant": "P.1",
                 "rx": "CoronaVac",
-                "samples": 6,
+                "samples": 8,
                 "s_fold": 0,
                 "i_fold": 0,
-                "r_fold": 6,
+                "r_fold": 8,
                 "reference": "deSouza21*[^deSouza21]",
-                "median": "5"
+                "median": "1.5"
             },
             {
                 "variant": "P.1",
@@ -2105,22 +2375,32 @@
             {
                 "variant": "P.1",
                 "rx": "mRNA-1273",
-                "samples": 43,
-                "s_fold": 20,
-                "i_fold": 21,
-                "r_fold": 2,
+                "samples": 48,
+                "s_fold": 22,
+                "i_fold": 20,
+                "r_fold": 6,
                 "reference": "Pegu21[^Pegu21]",
-                "median": "3"
+                "median": "3.1"
             },
             {
                 "variant": "P.1",
                 "rx": "mRNA-1273",
-                "samples": 12,
-                "s_fold": 5,
-                "i_fold": 7,
-                "r_fold": 0,
+                "samples": 24,
+                "s_fold": 12,
+                "i_fold": 10,
+                "r_fold": 2,
                 "reference": "Wang21d[^Wang21d]",
-                "median": "3.4"
+                "median": "3.1"
+            },
+            {
+                "variant": "P.1",
+                "rx": "mRNA-1273",
+                "samples": 8,
+                "s_fold": 3,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Wu21[^Wu21]",
+                "median": "3.5"
             },
             {
                 "variant": "P.1",
@@ -2130,7 +2410,7 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Wu21b[^Wu21b]",
-                "median": 1.9
+                "median": 2.0
             },
             {
                 "variant": "P.1",
