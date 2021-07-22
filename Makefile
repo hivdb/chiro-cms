@@ -34,31 +34,34 @@ resources/sierra-sars2/outbreak.info/lineages.json: % : local/timestamp/%.$(shel
 	python3.9 -m "json.tool" --indent=2 local/lineages.json > resources/sierra-sars2/outbreak.info/lineages.json
 	@test "$$(jq .success resources/sierra-sars2/outbreak.info/lineages.json)" = "true" || (echo "success != true" && false)
 
-build: $(shell find . -type f -not -path "./.git*" -a -not -path "*.swp" -a -not -path "*.swo" -a -not -path "*/.DS_Store" -a -not -path "*/.gradle/*" -a -not -path "*/build/*" -a -not -path "*.log" -a -not -path "*/local/*" | sed 's#\([| ]\)#\\\1#g') build.py build_plugins/*.py resources/sierra-sars2/outbreak.info/lineages.json
+build: $(shell find . -type f -not -path "./.git*" -a -not -path "*.swp" -a -not -path "*.swo" -a -not -path "*/.DS_Store" -a -not -path "*/.gradle/*" -a -not -path "*/build/*" -a -not -path "*/build_gz/*" -a -not -path "*.log" -a -not -path "*/local/*" | sed 's#\([| ]\)#\\\1#g') build.py build_plugins/*.py resources/sierra-sars2/outbreak.info/lineages.json
 	@test -e $(shell which pipenv) && make _fast-build || make _docker-build
 
-deploy-dev: build
+build_gz: build
+	@scripts/build_gz.sh
+
+deploy-dev: build_gz
 	@docker run \
 		--mount type=bind,source=$(HOME)/.aws,target=/root/.aws,readonly \
 		--mount type=bind,source=$(PWD),target=/app,readonly \
 		--rm -it hivdb/chiro-cms-builder:latest \
-		aws s3 sync /app/build s3://cms.hivdb.org/chiro-dev --delete
+		aws s3 sync /app/build_gz s3://cms.hivdb.org/chiro-dev --delete --content-encoding gzip
 
-deploy-dev2: build
+deploy-dev2: build_gz
 	@docker run \
 		--mount type=bind,source=$(HOME)/.aws,target=/root/.aws,readonly \
 		--mount type=bind,source=$(PWD),target=/app,readonly \
 		--rm -it hivdb/chiro-cms-builder:latest \
-		aws s3 sync /app/build s3://cms.hivdb.org/chiro-dev2 --delete
+		aws s3 sync /app/build_gz s3://cms.hivdb.org/chiro-dev2 --delete --content-encoding gzip
 
-deploy-prod: build
+deploy-prod: build_gz
 	@scripts/only-stable.sh make deploy-prod
 	@docker run \
 		--mount type=bind,source=$(HOME)/.aws,target=/root/.aws,readonly \
 		--mount type=bind,source=$(PWD),target=/app,readonly \
 		--rm -it hivdb/chiro-cms-builder:latest \
-		aws s3 sync /app/build s3://cms.hivdb.org/chiro-prod \
-		--delete --cache-control max-age=600
+		aws s3 sync /app/build_gz s3://cms.hivdb.org/chiro-prod \
+		--delete --content-encoding gzip --cache-control max-age=600
 
 deploy-all: deploy-dev deploy-prod
 
