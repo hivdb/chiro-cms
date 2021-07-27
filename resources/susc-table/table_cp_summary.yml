@@ -1,4 +1,4 @@
-- variant: B.1.1.7
+- variant: Alpha
   cp_studies: 34
   cp_samples: 1044
   cp_s_fold: 82%
@@ -7,7 +7,7 @@
   cp_num_s_fold: 857
   cp_num_i_fold: 117
   cp_num_r_fold: 70
-- variant: B.1.351
+- variant: Beta
   cp_studies: 37
   cp_samples: 1159
   cp_s_fold: 31%
@@ -16,7 +16,7 @@
   cp_num_s_fold: 363
   cp_num_i_fold: 421
   cp_num_r_fold: 375
-- variant: P.1
+- variant: Gamma
   cp_studies: 15
   cp_samples: 348
   cp_s_fold: 66%
@@ -25,7 +25,7 @@
   cp_num_s_fold: 228
   cp_num_i_fold: 67
   cp_num_r_fold: 53
-- variant: B.1.617.2
+- variant: Delta
   cp_studies: 3
   cp_samples: 66
   cp_s_fold: 50%
@@ -34,7 +34,7 @@
   cp_num_s_fold: 33
   cp_num_i_fold: 20
   cp_num_r_fold: 13
-- variant: B.1.526
+- variant: Iota
   cp_studies: 3
   cp_samples: 31
   cp_s_fold: 32%
@@ -43,7 +43,7 @@
   cp_num_s_fold: 10
   cp_num_i_fold: 17
   cp_num_r_fold: 4
-- variant: B.1.427/9
+- variant: Epsilon
   cp_studies: 5
   cp_samples: 58
   cp_s_fold: 45%
@@ -52,7 +52,7 @@
   cp_num_s_fold: 26
   cp_num_i_fold: 18
   cp_num_r_fold: 14
-- variant: B.1.617.1
+- variant: Kappa
   cp_studies: 4
   cp_samples: 87
   cp_s_fold: 44%

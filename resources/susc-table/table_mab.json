@@ -1,6 +1,6 @@
 [
     {
-        "variant": "B.1.1.7",
+        "variant": "Alpha",
         "cas": "1<sub>17</sub>",
         "ete": "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#7fcbee;color:white\">4.9<sub>9</sub></span>",
         "tix": "1.5<sub>5</sub>",
@@ -23,7 +23,7 @@
         "Vir7832": "2.8<sub>2</sub>"
     },
     {
-        "variant": "B.1.351",
+        "variant": "Beta",
         "cas": "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white\">59<sub>16</sub></span>",
         "ete": "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white\">&gt;100<sub>8</sub></span>",
         "tix": "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#7fcbee;color:white\">4.9<sub>4</sub></span>",
@@ -46,7 +46,7 @@
         "Vir7832": "0.9<sub>2</sub>"
     },
     {
-        "variant": "P.1",
+        "variant": "Gamma",
         "cas": "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white\">&gt;100<sub>8</sub></span>",
         "ete": "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white\">&gt;100<sub>5</sub></span>",
         "tix": "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#7fcbee;color:white\">3.7<sub>3</sub></span>",
@@ -69,7 +69,7 @@
         "Vir7832": "0.8<sub>2</sub>"
     },
     {
-        "variant": "B.1.617.2",
+        "variant": "Delta",
         "cas": "0.8<sub>3</sub>",
         "ete": "0.5<sub>3</sub>",
         "tix": "0.6<sub></sub>",
@@ -92,7 +92,7 @@
         "Vir7832": "-"
     },
     {
-        "variant": "B.1.526",
+        "variant": "Iota",
         "cas": "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#146aa8;color:white\">11<sub>2</sub></span>",
         "ete": "1.4<sub>2</sub>",
         "tix": "-",
@@ -115,7 +115,7 @@
         "Vir7832": "-"
     },
     {
-        "variant": "B.1.427/9",
+        "variant": "Epsilon",
         "cas": "1.3<sub>2</sub>",
         "ete": "1<sub>3</sub>",
         "tix": "-",
@@ -138,7 +138,7 @@
         "Vir7832": "-"
     },
     {
-        "variant": "B.1.617.1",
+        "variant": "Kappa",
         "cas": "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;background-color:#7fcbee;color:white\">5<sub>3</sub></span>",
         "ete": "0.8<sub>3</sub>",
         "tix": "0.7<sub></sub>",

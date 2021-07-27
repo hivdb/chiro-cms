@@ -1,4 +1,4 @@
-- variant: B.1.1.7
+- variant: Alpha
   vaccine:
   - name: AZD1222
     vp_studies: 4
@@ -90,7 +90,7 @@
     vp_num_s_fold: 287
     vp_num_i_fold: 24
     vp_num_r_fold: 8
-- variant: B.1.351
+- variant: Beta
   vaccine:
   - name: AZD1222
     vp_studies: 3
@@ -191,7 +191,7 @@
     vp_num_s_fold: 42
     vp_num_i_fold: 145
     vp_num_r_fold: 206
-- variant: P.1
+- variant: Gamma
   vaccine:
   - name: AZD1222
     vp_studies: 1
@@ -238,7 +238,7 @@
     vp_num_s_fold: 40
     vp_num_i_fold: 75
     vp_num_r_fold: 8
-- variant: B.1.617.2
+- variant: Delta
   vaccine:
   - name: AZD1222
     vp_studies: 4
@@ -285,7 +285,7 @@
     vp_num_s_fold: 7
     vp_num_i_fold: 1
     vp_num_r_fold: 0
-- variant: B.1.526
+- variant: Iota
   vaccine:
   - name: BNT162b2
     vp_studies: 3
@@ -305,7 +305,7 @@
     vp_num_s_fold: 42
     vp_num_i_fold: 20
     vp_num_r_fold: 3
-- variant: B.1.427/9
+- variant: Epsilon
   vaccine:
   - name: Ad26.COV2.S
     vp_studies: 1
@@ -343,7 +343,7 @@
     vp_num_s_fold: 136
     vp_num_i_fold: 31
     vp_num_r_fold: 3
-- variant: B.1.617.1
+- variant: Kappa
   vaccine:
   - name: AZD1222
     vp_studies: 2

@@ -1,6 +1,6 @@
-- variant: B.1.1.7
+- variant: Alpha
   assays:
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: BNT_infected
     samples: 7
     s_fold: 6
@@ -8,7 +8,7 @@
     r_fold: 0
     reference: Turner21*[^Turner21]
     median: '1.5'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: BNT_uninfected
     samples: 2
     s_fold: 0
@@ -16,7 +16,7 @@
     r_fold: 2
     reference: Turner21*[^Turner21]
     median: '1.7'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 31
     s_fold: 25
@@ -24,7 +24,7 @@
     r_fold: 6
     reference: Bates21*[^Bates21]
     median: '0.9'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 107
     s_fold: 107
@@ -32,7 +32,7 @@
     r_fold: 0
     reference: Betton21[^Betton21]
     median: 0.8
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 5
     s_fold: 5
@@ -40,7 +40,7 @@
     r_fold: 0
     reference: Brown21[^Brown21]
     median: '0.8'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 8
     s_fold: 8
@@ -48,7 +48,7 @@
     r_fold: 0
     reference: Brown21*[^Brown21]
     median: '0.7'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 19
     s_fold: 18
@@ -56,7 +56,7 @@
     r_fold: 0
     reference: Chen21*[^Chen21]
     median: '1.4'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 37
     s_fold: 26
@@ -64,7 +64,7 @@
     r_fold: 1
     reference: Collier21[^Collier21]
     median: '1.7'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 19
     s_fold: 19
@@ -72,7 +72,7 @@
     r_fold: 0
     reference: Edara21*[^Edara21]
     median: '0.6'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 9
     s_fold: 7
@@ -80,7 +80,7 @@
     r_fold: 0
     reference: Hoffmann21[^Hoffmann21]
     median: '1.2'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 10
     s_fold: 10
@@ -88,7 +88,7 @@
     r_fold: 0
     reference: Kuzmina21[^Kuzmina21]
     median: '1.3'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 10
     s_fold: 10
@@ -96,7 +96,7 @@
     r_fold: 0
     reference: Leier21[^Leier21]
     median: 1.5
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 96
     s_fold: 67
@@ -104,7 +104,7 @@
     r_fold: 11
     reference: Li21d[^Li21d]
     median: '0.9'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 15
     s_fold: 15
@@ -112,7 +112,7 @@
     r_fold: 0
     reference: Marot21*[^Marot21]
     median: 1.3
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 9
     s_fold: 5
@@ -120,7 +120,7 @@
     r_fold: 1
     reference: McCallum21b[^McCallum21b]
     median: '2'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 12
     s_fold: 12
@@ -128,7 +128,7 @@
     r_fold: 0
     reference: Mlcochova21*[^Mlcochova21]
     median: 2.3
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 5
     s_fold: 5
@@ -136,7 +136,7 @@
     r_fold: 0
     reference: Rondinone21[^Rondinone21]
     median: '1'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 30
     s_fold: 28
@@ -144,7 +144,7 @@
     r_fold: 0
     reference: Shen21[^Shen21]
     median: '1.1'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 3
     s_fold: 3
@@ -152,7 +152,7 @@
     r_fold: 0
     reference: Stankov21[^Stankov21]
     median: '1'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 34
     s_fold: 20
@@ -160,7 +160,7 @@
     r_fold: 0
     reference: Supasa21*[^Supasa21]
     median: '2.5'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 18
     s_fold: 18
@@ -168,7 +168,7 @@
     r_fold: 0
     reference: Tada21[^Tada21]
     median: '1.6'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 16
     s_fold: 16
@@ -176,7 +176,7 @@
     r_fold: 0
     reference: Tada21c[^Tada21c]
     median: '1.3'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 8
     s_fold: 3
@@ -184,7 +184,7 @@
     r_fold: 0
     reference: Tang21[^Tang21]
     median: '3.3'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 94
     s_fold: 87
@@ -192,7 +192,7 @@
     r_fold: 0
     reference: Trinite21[^Trinite21]
     median: '1.2'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 25
     s_fold: 22
@@ -200,7 +200,7 @@
     r_fold: 0
     reference: Virtanen21[^Virtanen21]
     median: '1'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 20
     s_fold: 14
@@ -208,7 +208,7 @@
     r_fold: 1
     reference: Wang21b[^Wang21b]
     median: '2.3'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 20
     s_fold: 20
@@ -216,7 +216,7 @@
     r_fold: 0
     reference: Wang21b*[^Wang21b]
     median: '0.9'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 24
     s_fold: 23
@@ -224,7 +224,7 @@
     r_fold: 1
     reference: Wang21f[^Wang21f]
     median: '1.2'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 30
     s_fold: 23
@@ -232,7 +232,7 @@
     r_fold: 6
     reference: Wang21g[^Wang21g]
     median: '1'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 12
     s_fold: 12
@@ -240,7 +240,7 @@
     r_fold: 0
     reference: Widera21*[^Widera21]
     median: '1'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP
     samples: 5
     s_fold: 5
@@ -248,7 +248,7 @@
     r_fold: 0
     reference: Zhang21c[^Zhang21c]
     median: 2.0
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_1M
     samples: 20
     s_fold: 13
@@ -256,7 +256,7 @@
     r_fold: 2
     reference: Hu21[^Hu21]
     median: '2.3'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_6M
     samples: 9
     s_fold: 9
@@ -264,7 +264,7 @@
     r_fold: 0
     reference: Virtanen21[^Virtanen21]
     median: '1'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_8M
     samples: 17
     s_fold: 7
@@ -272,7 +272,7 @@
     r_fold: 5
     reference: Hu21[^Hu21]
     median: '3.3'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_Asymptomatic
     samples: 9
     s_fold: 2
@@ -280,7 +280,7 @@
     r_fold: 7
     reference: Skelly21[^Skelly21]
     median: '2.3'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_M3
     samples: 28
     s_fold: 27
@@ -288,7 +288,7 @@
     r_fold: 0
     reference: Planas21[^Planas21]
     median: '0.9'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_M6
     samples: 25
     s_fold: 21
@@ -296,7 +296,7 @@
     r_fold: 0
     reference: Planas21[^Planas21]
     median: '0.9'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_M9
     samples: 30
     s_fold: 30
@@ -304,7 +304,7 @@
     r_fold: 0
     reference: Planas21[^Planas21]
     median: '0.9'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_Mild
     samples: 20
     s_fold: 17
@@ -312,7 +312,7 @@
     r_fold: 0
     reference: Faulkner21[^Faulkner21]
     median: '1.9'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_Mild
     samples: 13
     s_fold: 3
@@ -320,7 +320,7 @@
     r_fold: 8
     reference: Rees-Spear21[^Rees-Spear21]
     median: '3.6'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_Mild
     samples: 12
     s_fold: 6
@@ -328,7 +328,7 @@
     r_fold: 3
     reference: Skelly21[^Skelly21]
     median: '2.9'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_Patient
     samples: 13
     s_fold: 9
@@ -336,7 +336,7 @@
     r_fold: 3
     reference: Faulkner21[^Faulkner21]
     median: '1.3'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_Patient_M3
     samples: 12
     s_fold: 9
@@ -344,7 +344,7 @@
     r_fold: 3
     reference: Faulkner21[^Faulkner21]
     median: '1.4'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_Severe
     samples: 18
     s_fold: 8
@@ -352,7 +352,7 @@
     r_fold: 3
     reference: Rees-Spear21[^Rees-Spear21]
     median: '3.3'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_Wildtype
     samples: 20
     s_fold: 10
@@ -360,7 +360,7 @@
     r_fold: 1
     reference: Collier21[^Collier21]
     median: '2.7'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_acute
     samples: 16
     s_fold: 15
@@ -368,7 +368,7 @@
     r_fold: 0
     reference: Edara21*[^Edara21]
     median: '0.9'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_high_titer
     samples: 12
     s_fold: 10
@@ -376,7 +376,7 @@
     r_fold: 0
     reference: Alenquer21[^Alenquer21]
     median: '1.7'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_low_titer
     samples: 15
     s_fold: 9
@@ -384,7 +384,7 @@
     r_fold: 6
     reference: Alenquer21[^Alenquer21]
     median: '1.2'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: CP_medium_titer
     samples: 9
     s_fold: 7
@@ -392,7 +392,7 @@
     r_fold: 0
     reference: Alenquer21[^Alenquer21]
     median: '1.7'
-  - variant: B.1.1.7
+  - variant: Alpha
     rx: IVIG
     samples: 6
     s_fold: 6
@@ -400,9 +400,9 @@
     r_fold: 0
     reference: Tang21[^Tang21]
     median: '2.4'
-- variant: B.1.351
+- variant: Beta
   assays:
-  - variant: B.1.351
+  - variant: Beta
     rx: BNT_infected
     samples: 7
     s_fold: 4
@@ -410,7 +410,7 @@
     r_fold: 0
     reference: Turner21[^Turner21]
     median: '2.3'
-  - variant: B.1.351
+  - variant: Beta
     rx: BNT_uninfected
     samples: 2
     s_fold: 1
@@ -418,7 +418,7 @@
     r_fold: 1
     reference: Turner21[^Turner21]
     median: '1.4'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 31
     s_fold: 24
@@ -426,7 +426,7 @@
     r_fold: 7
     reference: Bates21*[^Bates21]
     median: '0.5'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 107
     s_fold: 0
@@ -434,7 +434,7 @@
     r_fold: 0
     reference: Betton21[^Betton21]
     median: 3.7
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 19
     s_fold: 6
@@ -442,7 +442,7 @@
     r_fold: 6
     reference: Chen21[^Chen21]
     median: '3.3'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 30
     s_fold: 6
@@ -450,7 +450,7 @@
     r_fold: 9
     reference: Edara21b*[^Edara21b]
     median: '4.9'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 9
     s_fold: 3
@@ -458,7 +458,7 @@
     r_fold: 1
     reference: Hoffmann21[^Hoffmann21]
     median: '3.6'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 15
     s_fold: 7
@@ -466,7 +466,7 @@
     r_fold: 4
     reference: Hoffmann21c[^Hoffmann21c]
     median: '3.6'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 10
     s_fold: 0
@@ -474,7 +474,7 @@
     r_fold: 5
     reference: Kuzmina21[^Kuzmina21]
     median: '9.2'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 10
     s_fold: 10
@@ -482,7 +482,7 @@
     r_fold: 0
     reference: Leier21[^Leier21]
     median: 1.9
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 45
     s_fold: 16
@@ -490,7 +490,7 @@
     r_fold: 5
     reference: Li21c[^Li21c]
     median: '4'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 96
     s_fold: 28
@@ -498,7 +498,7 @@
     r_fold: 45
     reference: Li21d[^Li21d]
     median: '7.1'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 15
     s_fold: 0
@@ -506,7 +506,7 @@
     r_fold: 0
     reference: Marot21*[^Marot21]
     median: 7.2
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 9
     s_fold: 0
@@ -514,7 +514,7 @@
     r_fold: 8
     reference: McCallum21b[^McCallum21b]
     median: '4.7'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 12
     s_fold: 0
@@ -522,7 +522,7 @@
     r_fold: 0
     reference: Mlcochova21*[^Mlcochova21]
     median: 8.4
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 44
     s_fold: 5
@@ -530,7 +530,7 @@
     r_fold: 28
     reference: Moyo-Gwete21[^Moyo-Gwete21]
     median: '8.6'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 14
     s_fold: 0
@@ -538,7 +538,7 @@
     r_fold: 11
     reference: Shen21b[^Shen21b]
     median: '14'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 24
     s_fold: 3
@@ -546,7 +546,7 @@
     r_fold: 15
     reference: Stamatatos21[^Stamatatos21]
     median: '3.4'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 3
     s_fold: 0
@@ -554,7 +554,7 @@
     r_fold: 0
     reference: Stankov21[^Stankov21]
     median: '4'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 10
     s_fold: 9
@@ -562,7 +562,7 @@
     r_fold: 0
     reference: Tada21[^Tada21]
     median: '1.5'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 16
     s_fold: 6
@@ -570,7 +570,7 @@
     r_fold: 2
     reference: Tada21c[^Tada21c]
     median: '3.6'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 8
     s_fold: 2
@@ -578,7 +578,7 @@
     r_fold: 3
     reference: Tada21d[^Tada21d]
     median: '4.5'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 8
     s_fold: 1
@@ -586,7 +586,7 @@
     r_fold: 6
     reference: Tang21[^Tang21]
     median: '8.3'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 25
     s_fold: 2
@@ -594,7 +594,7 @@
     r_fold: 15
     reference: Virtanen21[^Virtanen21]
     median: '6'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 20
     s_fold: 4
@@ -602,7 +602,7 @@
     r_fold: 7
     reference: Wang21b[^Wang21b]
     median: '6.5'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 20
     s_fold: 6
@@ -610,7 +610,7 @@
     r_fold: 5
     reference: Wang21b*[^Wang21b]
     median: '5.1'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 24
     s_fold: 3
@@ -618,7 +618,7 @@
     r_fold: 14
     reference: Wang21f[^Wang21f]
     median: '5.8'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 30
     s_fold: 19
@@ -626,7 +626,7 @@
     r_fold: 9
     reference: Wang21g[^Wang21g]
     median: '2.0'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 18
     s_fold: 4
@@ -634,7 +634,7 @@
     r_fold: 14
     reference: Widera21*[^Widera21]
     median: '4'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 20
     s_fold: 12
@@ -642,7 +642,7 @@
     r_fold: 7
     reference: Yadav21b*[^Yadav21b]
     median: '2.1'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 5
     s_fold: 0
@@ -650,7 +650,7 @@
     r_fold: 0
     reference: Zhang21c[^Zhang21c]
     median: 6.6
-  - variant: B.1.351
+  - variant: Beta
     rx: CP
     samples: 34
     s_fold: 2
@@ -658,7 +658,7 @@
     r_fold: 21
     reference: Zhou21b*[^Zhou21b]
     median: '8.4'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_2M
     samples: 30
     s_fold: 9
@@ -666,7 +666,7 @@
     r_fold: 1
     reference: Li21c[^Li21c]
     median: '4'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_5M
     samples: 30
     s_fold: 24
@@ -674,7 +674,7 @@
     r_fold: 0
     reference: Li21c[^Li21c]
     median: '1'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_6M
     samples: 26
     s_fold: 18
@@ -682,7 +682,7 @@
     r_fold: 4
     reference: Edara21b*[^Edara21b]
     median: '2.2'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_6M
     samples: 9
     s_fold: 1
@@ -690,7 +690,7 @@
     r_fold: 4
     reference: Virtanen21[^Virtanen21]
     median: '4'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_8M
     samples: 30
     s_fold: 26
@@ -698,7 +698,7 @@
     r_fold: 0
     reference: Li21c[^Li21c]
     median: '1'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_Asymptomatic
     samples: 9
     s_fold: 1
@@ -706,7 +706,7 @@
     r_fold: 8
     reference: Skelly21[^Skelly21]
     median: '2.3'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_M3
     samples: 28
     s_fold: 12
@@ -714,7 +714,7 @@
     r_fold: 5
     reference: Planas21[^Planas21]
     median: '4.2'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_M6
     samples: 25
     s_fold: 12
@@ -722,7 +722,7 @@
     r_fold: 7
     reference: Planas21[^Planas21]
     median: '3.8'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_M9
     samples: 30
     s_fold: 18
@@ -730,7 +730,7 @@
     r_fold: 0
     reference: Planas21[^Planas21]
     median: '2.6'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_Mild
     samples: 20
     s_fold: 1
@@ -738,7 +738,7 @@
     r_fold: 9
     reference: Faulkner21[^Faulkner21]
     median: '9.6'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_Mild
     samples: 12
     s_fold: 1
@@ -746,7 +746,7 @@
     r_fold: 11
     reference: Skelly21[^Skelly21]
     median: '10'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_Orleans
     samples: 23
     s_fold: 8
@@ -754,7 +754,7 @@
     r_fold: 10
     reference: Planas21b*[^Planas21b]
     median: '4'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_Patient
     samples: 13
     s_fold: 0
@@ -762,7 +762,7 @@
     r_fold: 12
     reference: Faulkner21[^Faulkner21]
     median: '3.9'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_Patient_M3
     samples: 12
     s_fold: 0
@@ -770,7 +770,7 @@
     r_fold: 11
     reference: Faulkner21[^Faulkner21]
     median: '3.5'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_RBD_Immu
     samples: 9
     s_fold: 5
@@ -778,7 +778,7 @@
     r_fold: 0
     reference: Li21c[^Li21c]
     median: '1'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_Strasbourg
     samples: 26
     s_fold: 26
@@ -786,7 +786,7 @@
     r_fold: 0
     reference: Planas21b*[^Planas21b]
     median: 2.5
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_acute
     samples: 15
     s_fold: 3
@@ -794,7 +794,7 @@
     r_fold: 5
     reference: Edara21b*[^Edara21b]
     median: '4.9'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_high_titer
     samples: 4
     s_fold: 2
@@ -802,7 +802,7 @@
     r_fold: 1
     reference: Alenquer21[^Alenquer21]
     median: '3.2'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_high_titer
     samples: 22
     s_fold: 4
@@ -810,7 +810,7 @@
     r_fold: 16
     reference: Wibmer21[^Wibmer21]
     median: '7.9'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_infected
     samples: 10
     s_fold: 7
@@ -818,7 +818,7 @@
     r_fold: 2
     reference: Goel21[^Goel21]
     median: '2.8'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_low_titer
     samples: 5
     s_fold: 0
@@ -826,7 +826,7 @@
     r_fold: 5
     reference: Alenquer21[^Alenquer21]
     median: '2.5'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_low_titer
     samples: 22
     s_fold: 1
@@ -834,7 +834,7 @@
     r_fold: 12
     reference: Wibmer21[^Wibmer21]
     median: '14'
-  - variant: B.1.351
+  - variant: Beta
     rx: CP_medium_titer
     samples: 3
     s_fold: 0
@@ -842,7 +842,7 @@
     r_fold: 3
     reference: Alenquer21[^Alenquer21]
     median: '15'
-  - variant: B.1.351
+  - variant: Beta
     rx: IVIG
     samples: 6
     s_fold: 1
@@ -850,119 +850,9 @@
     r_fold: 1
     reference: Tang21[^Tang21]
     median: '6.5'
-- variant: B.1.427/9
+- variant: Delta
   assays:
-  - variant: B.1.427/9
-    rx: CP
-    samples: 22
-    s_fold: 8
-    i_fold: 6
-    r_fold: 8
-    reference: Deng21[^Deng21]
-    median: '4'
-  - variant: B.1.427/9
-    rx: CP
-    samples: 9
-    s_fold: 1
-    i_fold: 2
-    r_fold: 6
-    reference: McCallum21b[^McCallum21b]
-    median: '3.7'
-  - variant: B.1.427/9
-    rx: CP
-    samples: 14
-    s_fold: 7
-    i_fold: 7
-    r_fold: 0
-    reference: Shen21b[^Shen21b]
-    median: '3.1'
-  - variant: B.1.427/9
-    rx: CP
-    samples: 8
-    s_fold: 5
-    i_fold: 3
-    r_fold: 0
-    reference: Tang21[^Tang21]
-    median: '2.3'
-  - variant: B.1.427/9
-    rx: CP
-    samples: 5
-    s_fold: 5
-    i_fold: 0
-    r_fold: 0
-    reference: Zhang21c[^Zhang21c]
-    median: 1.3
-- variant: B.1.526
-  assays:
-  - variant: B.1.526
-    rx: CP
-    samples: 5
-    s_fold: 5
-    i_fold: 0
-    r_fold: 0
-    reference: Zhang21c[^Zhang21c]
-    median: 1.0
-  - variant: B.1.526
-    rx: CP
-    samples: 6
-    s_fold: 1
-    i_fold: 5
-    r_fold: 0
-    reference: Zhou21c[^Zhou21c]
-    median: '4.1'
-  - variant: B.1.526
-    rx: CP_1.3M
-    samples: 10
-    s_fold: 1
-    i_fold: 7
-    r_fold: 2
-    reference: West21[^West21]
-    median: '5.4'
-  - variant: B.1.526
-    rx: CP_6M
-    samples: 10
-    s_fold: 3
-    i_fold: 5
-    r_fold: 2
-    reference: West21[^West21]
-    median: '5.4'
-- variant: B.1.617.1
-  assays:
-  - variant: B.1.617.1
-    rx: CP
-    samples: 24
-    s_fold: 3
-    i_fold: 13
-    r_fold: 8
-    reference: Edara21c[^Edara21c]
-    median: '6.5'
-  - variant: B.1.617.1
-    rx: CP
-    samples: 15
-    s_fold: 14
-    i_fold: 1
-    r_fold: 0
-    reference: Hoffmann21c[^Hoffmann21c]
-    median: '2.1'
-  - variant: B.1.617.1
-    rx: CP
-    samples: 18
-    s_fold: 11
-    i_fold: 3
-    r_fold: 4
-    reference: Hu21c[^Hu21c]
-    median: '2.7'
-  - variant: B.1.617.1
-    rx: CP
-    samples: 30
-    s_fold: 10
-    i_fold: 15
-    r_fold: 5
-    reference: Liu21f[^Liu21f]
-    median: '3.8'
-- variant: B.1.617.2
-  assays:
-  - variant: B.1.617.2
+  - variant: Delta
     rx: CP
     samples: 34
     s_fold: 21
@@ -970,7 +860,7 @@
     r_fold: 5
     reference: Liu21f[^Liu21f]
     median: '2.3'
-  - variant: B.1.617.2
+  - variant: Delta
     rx: CP
     samples: 12
     s_fold: 0
@@ -978,7 +868,7 @@
     r_fold: 0
     reference: Mlcochova21[^Mlcochova21]
     median: 6.1
-  - variant: B.1.617.2
+  - variant: Delta
     rx: CP
     samples: 20
     s_fold: 12
@@ -986,9 +876,51 @@
     r_fold: 8
     reference: Yadav21b[^Yadav21b]
     median: '1.7'
-- variant: P.1
+- variant: Epsilon
   assays:
-  - variant: P.1
+  - variant: Epsilon
+    rx: CP
+    samples: 22
+    s_fold: 8
+    i_fold: 6
+    r_fold: 8
+    reference: Deng21[^Deng21]
+    median: '4'
+  - variant: Epsilon
+    rx: CP
+    samples: 9
+    s_fold: 1
+    i_fold: 2
+    r_fold: 6
+    reference: McCallum21b[^McCallum21b]
+    median: '3.7'
+  - variant: Epsilon
+    rx: CP
+    samples: 14
+    s_fold: 7
+    i_fold: 7
+    r_fold: 0
+    reference: Shen21b[^Shen21b]
+    median: '3.1'
+  - variant: Epsilon
+    rx: CP
+    samples: 8
+    s_fold: 5
+    i_fold: 3
+    r_fold: 0
+    reference: Tang21[^Tang21]
+    median: '2.3'
+  - variant: Epsilon
+    rx: CP
+    samples: 5
+    s_fold: 5
+    i_fold: 0
+    r_fold: 0
+    reference: Zhang21c[^Zhang21c]
+    median: 1.3
+- variant: Gamma
+  assays:
+  - variant: Gamma
     rx: CP
     samples: 107
     s_fold: 107
@@ -996,7 +928,7 @@
     r_fold: 0
     reference: Betton21[^Betton21]
     median: 1.0
-  - variant: P.1
+  - variant: Gamma
     rx: CP
     samples: 10
     s_fold: 7
@@ -1004,7 +936,7 @@
     r_fold: 1
     reference: Chen21[^Chen21]
     median: '2.1'
-  - variant: P.1
+  - variant: Gamma
     rx: CP
     samples: 34
     s_fold: 13
@@ -1012,7 +944,7 @@
     r_fold: 3
     reference: Dejnirattisai21*[^Dejnirattisai21]
     median: '3'
-  - variant: P.1
+  - variant: Gamma
     rx: CP
     samples: 9
     s_fold: 2
@@ -1020,7 +952,7 @@
     r_fold: 1
     reference: Hoffmann21[^Hoffmann21]
     median: '6.1'
-  - variant: P.1
+  - variant: Gamma
     rx: CP
     samples: 31
     s_fold: 23
@@ -1028,7 +960,7 @@
     r_fold: 7
     reference: Imai21[^Imai21]
     median: '2'
-  - variant: P.1
+  - variant: Gamma
     rx: CP
     samples: 10
     s_fold: 10
@@ -1036,7 +968,7 @@
     r_fold: 0
     reference: Leier21*[^Leier21]
     median: 1.2
-  - variant: P.1
+  - variant: Gamma
     rx: CP
     samples: 9
     s_fold: 1
@@ -1044,7 +976,7 @@
     r_fold: 6
     reference: McCallum21b[^McCallum21b]
     median: '3.9'
-  - variant: P.1
+  - variant: Gamma
     rx: CP
     samples: 3
     s_fold: 3
@@ -1052,7 +984,7 @@
     r_fold: 0
     reference: Stankov21[^Stankov21]
     median: '1'
-  - variant: P.1
+  - variant: Gamma
     rx: CP
     samples: 10
     s_fold: 10
@@ -1060,7 +992,7 @@
     r_fold: 0
     reference: Tada21[^Tada21]
     median: 1.8
-  - variant: P.1
+  - variant: Gamma
     rx: CP
     samples: 8
     s_fold: 4
@@ -1068,7 +1000,7 @@
     r_fold: 2
     reference: Tang21[^Tang21]
     median: '4.0'
-  - variant: P.1
+  - variant: Gamma
     rx: CP
     samples: 40
     s_fold: 25
@@ -1076,7 +1008,7 @@
     r_fold: 3
     reference: Wang21d[^Wang21d]
     median: '2.1'
-  - variant: P.1
+  - variant: Gamma
     rx: CP
     samples: 24
     s_fold: 15
@@ -1084,7 +1016,7 @@
     r_fold: 4
     reference: Wang21f[^Wang21f]
     median: '2.1'
-  - variant: P.1
+  - variant: Gamma
     rx: CP
     samples: 5
     s_fold: 5
@@ -1092,7 +1024,7 @@
     r_fold: 0
     reference: Zhang21c[^Zhang21c]
     median: 1.7
-  - variant: P.1
+  - variant: Gamma
     rx: CP
     samples: 36
     s_fold: 3
@@ -1100,7 +1032,7 @@
     r_fold: 17
     reference: deSouza21*[^deSouza21]
     median: '6.2'
-  - variant: P.1
+  - variant: Gamma
     rx: CP_high_titer
     samples: 4
     s_fold: 0
@@ -1108,7 +1040,7 @@
     r_fold: 1
     reference: Alenquer21[^Alenquer21]
     median: '5.8'
-  - variant: P.1
+  - variant: Gamma
     rx: CP_low_titer
     samples: 5
     s_fold: 0
@@ -1116,7 +1048,7 @@
     r_fold: 5
     reference: Alenquer21[^Alenquer21]
     median: '2.5'
-  - variant: P.1
+  - variant: Gamma
     rx: CP_medium_titer
     samples: 3
     s_fold: 0
@@ -1124,3 +1056,71 @@
     r_fold: 3
     reference: Alenquer21[^Alenquer21]
     median: '21'
+- variant: Iota
+  assays:
+  - variant: Iota
+    rx: CP
+    samples: 5
+    s_fold: 5
+    i_fold: 0
+    r_fold: 0
+    reference: Zhang21c[^Zhang21c]
+    median: 1.0
+  - variant: Iota
+    rx: CP
+    samples: 6
+    s_fold: 1
+    i_fold: 5
+    r_fold: 0
+    reference: Zhou21c[^Zhou21c]
+    median: '4.1'
+  - variant: Iota
+    rx: CP_1.3M
+    samples: 10
+    s_fold: 1
+    i_fold: 7
+    r_fold: 2
+    reference: West21[^West21]
+    median: '5.4'
+  - variant: Iota
+    rx: CP_6M
+    samples: 10
+    s_fold: 3
+    i_fold: 5
+    r_fold: 2
+    reference: West21[^West21]
+    median: '5.4'
+- variant: Kappa
+  assays:
+  - variant: Kappa
+    rx: CP
+    samples: 24
+    s_fold: 3
+    i_fold: 13
+    r_fold: 8
+    reference: Edara21c[^Edara21c]
+    median: '6.5'
+  - variant: Kappa
+    rx: CP
+    samples: 15
+    s_fold: 14
+    i_fold: 1
+    r_fold: 0
+    reference: Hoffmann21c[^Hoffmann21c]
+    median: '2.1'
+  - variant: Kappa
+    rx: CP
+    samples: 18
+    s_fold: 11
+    i_fold: 3
+    r_fold: 4
+    reference: Hu21c[^Hu21c]
+    median: '2.7'
+  - variant: Kappa
+    rx: CP
+    samples: 30
+    s_fold: 10
+    i_fold: 15
+    r_fold: 5
+    reference: Liu21f[^Liu21f]
+    median: '3.8'

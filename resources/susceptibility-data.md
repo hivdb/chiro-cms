@@ -39,7 +39,14 @@ table_mab_non_eua
 [/table]
 
 - The fold change is the median value of samples, the subscript is the number of samples. “-“ indicates absence of susceptibility data. “\*“ indicates conflict between two research groups, with one showing high-level of reduced susceptibility especially using IC80 rather than IC50.
-- **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.526**: L5F, T95I, D253G, E484K, D614G, A701V. **B.1.429/B.1.427**: S13I, W152C, L452R, D614G.
+- Spike mutations:
+  - **Alpha, B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H.
+  - **Beta, B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V.
+  - **Gamma, P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
+  - **Delta, B.1.617.2**: T19R, FR1570158∆, L452R, T478K, D614G, P681R, D950N.
+  - **Iota, B.1.526**: L5F, T95I, D253G, E484K, D614G, A701V.
+  - **Epsilon, B.1.427/9**: S13I, W152C, L452R, D614G.
+  - **Kappa, B.1.617.1**: T95I, L452R, E484Q, D614G, P681R, Q1071H.
 - Monoclonal antibody(mAb) abbreviations: **BAM**: Bamlanivimab/LY-CoV555, **CAS**: Casirivimab/REGN10933, **IMD**: Imdevimab/REGN10987, **CAS/IMD**: Casirivimab+imdevimab/REGN-COV2, **ETE**: Etesevimab/LY-CoV016/JS016/CB6, **CIL**: Cilgavimab/COV2-2130/AZD1061, **TIX**: Tixagevimab/COV2-2196/AZD8895, **TIX/CIL**: Tixagevimab+Cilgavimab, **BAM/ETE**: Bamlanivimab+Etesevimab, **SOT**: Sotrovimab/Vir-7831/S309, **REG**: Regdanvimab/CT-P59.
 - The color scheme indicates the fold-reduction in neutralization: <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #ffffff; color: black;">absence of color</span> – &lt;3-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #7fcbee; color: black;">light blue</span> – 3 to 9.9-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span> – ≥10-fold reduced susceptibility.
 
@@ -52,7 +59,14 @@ table_cp
 [/table]
 
 - Convalescent plasma in all studies is presumed likely to have been obtained from persons infected with spike variants lacking mutations associated with reduced neutralization susceptibility.
-- **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.429/B.1.427**: S13I, W152C, L452R, D614G.
+- Spike mutations:
+  - **Alpha, B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H.
+  - **Beta, B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V.
+  - **Gamma, P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
+  - **Delta, B.1.617.2**: T19R, FR1570158∆, L452R, T478K, D614G, P681R, D950N.
+  - **Iota, B.1.526**: L5F, T95I, D253G, E484K, D614G, A701V.
+  - **Epsilon, B.1.427/9**: S13I, W152C, L452R, D614G.
+  - **Kappa, B.1.617.1**: T95I, L452R, E484Q, D614G, P681R, Q1071H.
 
 ### Table 3: Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons
 
@@ -60,8 +74,14 @@ table_cp
 table_vp
 [/table]
 
-- **B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H. **B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V. **P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F. **B.1.429/B.1.427**: S13I, W152C, L452R, D614G. **B.1.617**: G152D, E154K, L452R, E484Q, D614G, P681R, Q1071H.
-
+- Spike mutations:
+  - **Alpha, B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H.
+  - **Beta, B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V.
+  - **Gamma, P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
+  - **Delta, B.1.617.2**: T19R, FR1570158∆, L452R, T478K, D614G, P681R, D950N.
+  - **Iota, B.1.526**: L5F, T95I, D253G, E484K, D614G, A701V.
+  - **Epsilon, B.1.427/9**: S13I, W152C, L452R, D614G.
+  - **Kappa, B.1.617.1**: T95I, L452R, E484Q, D614G, P681R, Q1071H.
 
 <section>
 

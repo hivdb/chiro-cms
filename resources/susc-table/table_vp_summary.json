@@ -1,6 +1,6 @@
 [
     {
-        "variant": "B.1.1.7",
+        "variant": "Alpha",
         "vaccine": [
             {
                 "name": "AZD1222",
@@ -115,7 +115,7 @@
         ]
     },
     {
-        "variant": "B.1.351",
+        "variant": "Beta",
         "vaccine": [
             {
                 "name": "AZD1222",
@@ -241,7 +241,7 @@
         ]
     },
     {
-        "variant": "P.1",
+        "variant": "Gamma",
         "vaccine": [
             {
                 "name": "AZD1222",
@@ -301,7 +301,7 @@
         ]
     },
     {
-        "variant": "B.1.617.2",
+        "variant": "Delta",
         "vaccine": [
             {
                 "name": "AZD1222",
@@ -361,7 +361,7 @@
         ]
     },
     {
-        "variant": "B.1.526",
+        "variant": "Iota",
         "vaccine": [
             {
                 "name": "BNT162b2",
@@ -388,7 +388,7 @@
         ]
     },
     {
-        "variant": "B.1.427/9",
+        "variant": "Epsilon",
         "vaccine": [
             {
                 "name": "Ad26.COV2.S",
@@ -437,7 +437,7 @@
         ]
     },
     {
-        "variant": "B.1.617.1",
+        "variant": "Kappa",
         "vaccine": [
             {
                 "name": "AZD1222",

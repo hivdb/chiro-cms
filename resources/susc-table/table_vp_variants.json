@@ -1,9 +1,9 @@
 [
     {
-        "variant": "B.1.1.7",
+        "variant": "Alpha",
         "assays": [
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "AZD1222",
                 "samples": 49,
                 "s_fold": 3,
@@ -13,7 +13,7 @@
                 "median": "8.8"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "AZD1222",
                 "samples": 10,
                 "s_fold": 0,
@@ -23,7 +23,7 @@
                 "median": 3.2
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "AZD1222",
                 "samples": 10,
                 "s_fold": 9,
@@ -33,7 +33,7 @@
                 "median": "1.0"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "AZD1222",
                 "samples": 20,
                 "s_fold": 20,
@@ -43,7 +43,7 @@
                 "median": 0.8
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "AZD1222",
                 "samples": 25,
                 "s_fold": 22,
@@ -53,7 +53,7 @@
                 "median": "1.9"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "Ad26.COV2.S",
                 "samples": 19,
                 "s_fold": 17,
@@ -63,7 +63,7 @@
                 "median": "1.4"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "Ad26.COV2.S",
                 "samples": 20,
                 "s_fold": 13,
@@ -73,7 +73,7 @@
                 "median": "2.2"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "Ad26.COV2.S",
                 "samples": 25,
                 "s_fold": 25,
@@ -83,7 +83,7 @@
                 "median": 0.8
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "Ad26.COV2.S",
                 "samples": 8,
                 "s_fold": 8,
@@ -93,7 +93,7 @@
                 "median": "1"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BBIBP-CorV",
                 "samples": 19,
                 "s_fold": 16,
@@ -103,7 +103,7 @@
                 "median": "0.9"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BBV152",
                 "samples": 38,
                 "s_fold": 37,
@@ -113,7 +113,7 @@
                 "median": "1.2"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BBV152",
                 "samples": 28,
                 "s_fold": 28,
@@ -123,7 +123,7 @@
                 "median": "1.2"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 10,
@@ -133,7 +133,7 @@
                 "median": "1.6"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 1,
                 "s_fold": 1,
@@ -143,7 +143,7 @@
                 "median": "1.3"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 50,
                 "s_fold": 29,
@@ -153,7 +153,7 @@
                 "median": "2.4"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 8,
                 "s_fold": 8,
@@ -163,7 +163,7 @@
                 "median": "1"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 9,
                 "s_fold": 8,
@@ -173,7 +173,7 @@
                 "median": "1.5"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 24,
                 "s_fold": 18,
@@ -183,7 +183,7 @@
                 "median": "1.9"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 92,
                 "s_fold": 73,
@@ -193,7 +193,7 @@
                 "median": "1"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 42,
                 "s_fold": 34,
@@ -203,7 +203,7 @@
                 "median": "1.8"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 30,
                 "s_fold": 30,
@@ -213,7 +213,7 @@
                 "median": 2.1
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 15,
                 "s_fold": 14,
@@ -223,7 +223,7 @@
                 "median": "1.4"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 10,
@@ -233,7 +233,7 @@
                 "median": "0.8"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 30,
                 "s_fold": 30,
@@ -243,7 +243,7 @@
                 "median": 2.6
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 20,
                 "s_fold": 20,
@@ -253,7 +253,7 @@
                 "median": "1"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 15,
                 "s_fold": 14,
@@ -263,7 +263,7 @@
                 "median": "2"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 6,
                 "s_fold": 6,
@@ -273,7 +273,7 @@
                 "median": "1.0"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 29,
                 "s_fold": 29,
@@ -283,7 +283,7 @@
                 "median": 1.6
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 29,
                 "s_fold": 29,
@@ -293,7 +293,7 @@
                 "median": 2.4
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 17,
                 "s_fold": 15,
@@ -303,7 +303,7 @@
                 "median": "1.1"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 0,
@@ -313,7 +313,7 @@
                 "median": 5.3
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 16,
                 "s_fold": 8,
@@ -323,7 +323,7 @@
                 "median": "3.2"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 40,
                 "s_fold": 40,
@@ -333,7 +333,7 @@
                 "median": "1.3"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 25,
                 "s_fold": 9,
@@ -343,7 +343,7 @@
                 "median": "2.8"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 36,
                 "s_fold": 33,
@@ -353,7 +353,7 @@
                 "median": "0.6"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 27,
                 "s_fold": 27,
@@ -363,7 +363,7 @@
                 "median": "0.9"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 16,
                 "s_fold": 0,
@@ -373,7 +373,7 @@
                 "median": 3.8
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 8,
                 "s_fold": 1,
@@ -383,7 +383,7 @@
                 "median": "2.8"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 25,
                 "s_fold": 16,
@@ -393,7 +393,7 @@
                 "median": "2.4"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 10,
@@ -403,7 +403,7 @@
                 "median": "1"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 9,
                 "s_fold": 6,
@@ -413,7 +413,7 @@
                 "median": "1.5"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 24,
                 "s_fold": 10,
@@ -423,7 +423,7 @@
                 "median": "3.3"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 5,
                 "s_fold": 5,
@@ -433,7 +433,7 @@
                 "median": "0.9"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 12,
                 "s_fold": 12,
@@ -443,7 +443,7 @@
                 "median": "1.2"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 64,
                 "s_fold": 51,
@@ -453,7 +453,7 @@
                 "median": "1.6"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 40,
                 "s_fold": 37,
@@ -463,7 +463,7 @@
                 "median": "1.4"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 32,
                 "s_fold": 26,
@@ -473,7 +473,7 @@
                 "median": "1.3"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 213,
                 "s_fold": 136,
@@ -483,7 +483,7 @@
                 "median": "2.5"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 252,
                 "s_fold": 125,
@@ -493,7 +493,7 @@
                 "median": "3"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 9,
@@ -503,7 +503,7 @@
                 "median": "1.9"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 10,
@@ -513,7 +513,7 @@
                 "median": "0.9"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 6,
                 "s_fold": 5,
@@ -523,7 +523,7 @@
                 "median": "1"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 20,
                 "s_fold": 20,
@@ -533,7 +533,7 @@
                 "median": "0.8"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 5,
                 "s_fold": 5,
@@ -543,7 +543,7 @@
                 "median": "0.9"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "BNT162b2",
                 "samples": 18,
                 "s_fold": 18,
@@ -553,7 +553,7 @@
                 "median": 1.9
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "ChAd-SARS-CoV-2",
                 "samples": 24,
                 "s_fold": 23,
@@ -563,7 +563,7 @@
                 "median": "1.2"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "CoronaVac",
                 "samples": 75,
                 "s_fold": 52,
@@ -573,7 +573,7 @@
                 "median": "2"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "CoronaVac",
                 "samples": 22,
                 "s_fold": 12,
@@ -583,7 +583,7 @@
                 "median": "1.6"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "MVC-COV1901",
                 "samples": 45,
                 "s_fold": 41,
@@ -593,7 +593,7 @@
                 "median": "1.7"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "NVX-CoV2373",
                 "samples": 28,
                 "s_fold": 20,
@@ -603,7 +603,7 @@
                 "median": "2.2"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "Sputnik V",
                 "samples": 9,
                 "s_fold": 9,
@@ -613,7 +613,7 @@
                 "median": "0.7"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 8,
@@ -623,7 +623,7 @@
                 "median": "1.2"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 14,
                 "s_fold": 14,
@@ -633,7 +633,7 @@
                 "median": "0.9"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 35,
                 "s_fold": 35,
@@ -643,7 +643,7 @@
                 "median": 2.3
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 72,
                 "s_fold": 63,
@@ -653,7 +653,7 @@
                 "median": "1.7"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 20,
                 "s_fold": 6,
@@ -663,7 +663,7 @@
                 "median": "2.9"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 72,
                 "s_fold": 64,
@@ -673,7 +673,7 @@
                 "median": "1.1"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 16,
                 "s_fold": 7,
@@ -683,7 +683,7 @@
                 "median": "2.9"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 51,
                 "s_fold": 41,
@@ -693,7 +693,7 @@
                 "median": "1.8"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 6,
                 "s_fold": 6,
@@ -703,7 +703,7 @@
                 "median": "1.2"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 12,
                 "s_fold": 11,
@@ -713,7 +713,7 @@
                 "median": "1.8"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 12,
                 "s_fold": 12,
@@ -723,7 +723,7 @@
                 "median": "0.7"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 18,
                 "s_fold": 14,
@@ -733,7 +733,7 @@
                 "median": "1"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 8,
@@ -743,7 +743,7 @@
                 "median": "1.2"
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 8,
@@ -753,7 +753,7 @@
                 "median": 1.4
             },
             {
-                "variant": "B.1.1.7",
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 3,
                 "s_fold": 3,
@@ -765,10 +765,10 @@
         ]
     },
     {
-        "variant": "B.1.351",
+        "variant": "Beta",
         "assays": [
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "AZD1222",
                 "samples": 50,
                 "s_fold": 2,
@@ -778,7 +778,7 @@
                 "median": "5.5"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "AZD1222",
                 "samples": 10,
                 "s_fold": 1,
@@ -788,7 +788,7 @@
                 "median": "7.3"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "AZD1222",
                 "samples": 20,
                 "s_fold": 0,
@@ -798,7 +798,7 @@
                 "median": 7.7
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "AZD1222",
                 "samples": 25,
                 "s_fold": 1,
@@ -808,7 +808,7 @@
                 "median": "7.4"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "Ad26.COV2.S",
                 "samples": 19,
                 "s_fold": 6,
@@ -818,7 +818,7 @@
                 "median": "3.3"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "Ad26.COV2.S",
                 "samples": 20,
                 "s_fold": 5,
@@ -828,7 +828,7 @@
                 "median": "4.1"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "Ad26.COV2.S",
                 "samples": 25,
                 "s_fold": 0,
@@ -838,7 +838,7 @@
                 "median": 11.0
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "Ad26.COV2.S",
                 "samples": 8,
                 "s_fold": 4,
@@ -848,7 +848,7 @@
                 "median": "3"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "Ad26.COV2.S",
                 "samples": 26,
                 "s_fold": 2,
@@ -858,7 +858,7 @@
                 "median": "2.6"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BBIBP-CorV",
                 "samples": 24,
                 "s_fold": 22,
@@ -868,7 +868,7 @@
                 "median": "1.5"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BBIBP-CorV",
                 "samples": 19,
                 "s_fold": 5,
@@ -878,7 +878,7 @@
                 "median": "4.3"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BBV152",
                 "samples": 17,
                 "s_fold": 9,
@@ -888,7 +888,7 @@
                 "median": "2.5"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 0,
@@ -898,7 +898,7 @@
                 "median": "4"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 1,
                 "s_fold": 0,
@@ -908,7 +908,7 @@
                 "median": "1.3"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 50,
                 "s_fold": 5,
@@ -918,7 +918,7 @@
                 "median": "12"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 24,
                 "s_fold": 0,
@@ -928,7 +928,7 @@
                 "median": "10"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 90,
                 "s_fold": 0,
@@ -938,7 +938,7 @@
                 "median": 41.2
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 53,
                 "s_fold": 23,
@@ -948,7 +948,7 @@
                 "median": "2"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 34,
                 "s_fold": 18,
@@ -958,7 +958,7 @@
                 "median": "2.8"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 15,
                 "s_fold": 3,
@@ -968,7 +968,7 @@
                 "median": "5"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 15,
                 "s_fold": 1,
@@ -978,7 +978,7 @@
                 "median": "7.6"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 1,
@@ -988,7 +988,7 @@
                 "median": "8.2"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 30,
                 "s_fold": 0,
@@ -998,7 +998,7 @@
                 "median": 11.1
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 20,
                 "s_fold": 12,
@@ -1008,7 +1008,7 @@
                 "median": "2.7"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 15,
                 "s_fold": 0,
@@ -1018,7 +1018,7 @@
                 "median": "7.8"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 6,
                 "s_fold": 1,
@@ -1028,7 +1028,7 @@
                 "median": "4.8"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 29,
                 "s_fold": 0,
@@ -1038,7 +1038,7 @@
                 "median": 3.7
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 29,
                 "s_fold": 0,
@@ -1048,7 +1048,7 @@
                 "median": 4.3
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 17,
                 "s_fold": 5,
@@ -1058,7 +1058,7 @@
                 "median": "3.7"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 36,
                 "s_fold": 5,
@@ -1068,7 +1068,7 @@
                 "median": "5.8"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 25,
                 "s_fold": 0,
@@ -1078,7 +1078,7 @@
                 "median": "5.4"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 27,
                 "s_fold": 1,
@@ -1088,7 +1088,7 @@
                 "median": "12"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 16,
                 "s_fold": 0,
@@ -1098,7 +1098,7 @@
                 "median": 6.7
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 25,
                 "s_fold": 4,
@@ -1108,7 +1108,7 @@
                 "median": "4.8"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 8,
                 "s_fold": 0,
@@ -1118,7 +1118,7 @@
                 "median": "2.9"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 22,
                 "s_fold": 7,
@@ -1128,7 +1128,7 @@
                 "median": "3.6"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 46,
                 "s_fold": 5,
@@ -1138,7 +1138,7 @@
                 "median": "7.3"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 7,
@@ -1148,7 +1148,7 @@
                 "median": "2"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 9,
                 "s_fold": 1,
@@ -1158,7 +1158,7 @@
                 "median": "1.5"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 5,
                 "s_fold": 2,
@@ -1168,7 +1168,7 @@
                 "median": "3.7"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 12,
                 "s_fold": 3,
@@ -1178,7 +1178,7 @@
                 "median": "3.3"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 15,
                 "s_fold": 9,
@@ -1188,7 +1188,7 @@
                 "median": "2.9"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 40,
                 "s_fold": 10,
@@ -1198,7 +1198,7 @@
                 "median": "3.8"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 32,
                 "s_fold": 16,
@@ -1208,7 +1208,7 @@
                 "median": "2.6"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 213,
                 "s_fold": 51,
@@ -1218,7 +1218,7 @@
                 "median": "4.5"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 251,
                 "s_fold": 53,
@@ -1228,7 +1228,7 @@
                 "median": "9.5"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 3,
@@ -1238,7 +1238,7 @@
                 "median": "4"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 0,
@@ -1248,7 +1248,7 @@
                 "median": "9.2"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 12,
                 "s_fold": 0,
@@ -1258,7 +1258,7 @@
                 "median": "6"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 24,
                 "s_fold": 1,
@@ -1268,7 +1268,7 @@
                 "median": "7.6"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "BNT162b2",
                 "samples": 5,
                 "s_fold": 1,
@@ -1278,7 +1278,7 @@
                 "median": "3.3"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "ChAd-SARS-CoV-2",
                 "samples": 24,
                 "s_fold": 7,
@@ -1288,7 +1288,7 @@
                 "median": "8.6"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "CoronaVac",
                 "samples": 22,
                 "s_fold": 5,
@@ -1298,7 +1298,7 @@
                 "median": "4.9"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "MVC-COV1901",
                 "samples": 45,
                 "s_fold": 4,
@@ -1308,7 +1308,7 @@
                 "median": "6.5"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "MVC-COV1901",
                 "samples": 36,
                 "s_fold": 26,
@@ -1318,7 +1318,7 @@
                 "median": 1.4
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "NVX-CoV2373",
                 "samples": 23,
                 "s_fold": 0,
@@ -1328,7 +1328,7 @@
                 "median": "13"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "Sputnik V",
                 "samples": 9,
                 "s_fold": 1,
@@ -1338,7 +1338,7 @@
                 "median": "2.9"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "ZF2001",
                 "samples": 24,
                 "s_fold": 24,
@@ -1348,7 +1348,7 @@
                 "median": "1.3"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 24,
                 "s_fold": 0,
@@ -1358,7 +1358,7 @@
                 "median": "6.9"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 19,
                 "s_fold": 5,
@@ -1368,7 +1368,7 @@
                 "median": "4.3"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 105,
                 "s_fold": 0,
@@ -1378,7 +1378,7 @@
                 "median": 20.8
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 72,
                 "s_fold": 10,
@@ -1388,7 +1388,7 @@
                 "median": "8.1"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 20,
                 "s_fold": 1,
@@ -1398,7 +1398,7 @@
                 "median": "5.7"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 72,
                 "s_fold": 16,
@@ -1408,7 +1408,7 @@
                 "median": "4.8"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 16,
                 "s_fold": 0,
@@ -1418,7 +1418,7 @@
                 "median": "5.6"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 26,
                 "s_fold": 1,
@@ -1428,7 +1428,7 @@
                 "median": "9.1"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 1,
@@ -1438,7 +1438,7 @@
                 "median": "3.8"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 0,
@@ -1448,7 +1448,7 @@
                 "median": "5.4"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 6,
                 "s_fold": 5,
@@ -1458,7 +1458,7 @@
                 "median": "2.1"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 6,
                 "s_fold": 2,
@@ -1468,7 +1468,7 @@
                 "median": "4.0"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 12,
                 "s_fold": 1,
@@ -1478,7 +1478,7 @@
                 "median": "7.3"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 12,
                 "s_fold": 0,
@@ -1488,7 +1488,7 @@
                 "median": "11"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 15,
                 "s_fold": 1,
@@ -1498,7 +1498,7 @@
                 "median": "4"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 0,
@@ -1508,7 +1508,7 @@
                 "median": "6.9"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 7,
@@ -1518,7 +1518,7 @@
                 "median": "2.1"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 5,
                 "s_fold": 0,
@@ -1528,7 +1528,7 @@
                 "median": "6.6"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 3,
                 "s_fold": 1,
@@ -1538,7 +1538,7 @@
                 "median": "3.8"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273.211",
                 "samples": 8,
                 "s_fold": 8,
@@ -1548,7 +1548,7 @@
                 "median": "0.9"
             },
             {
-                "variant": "B.1.351",
+                "variant": "Beta",
                 "rx": "mRNA-1273.351",
                 "samples": 8,
                 "s_fold": 8,
@@ -1560,10 +1560,185 @@
         ]
     },
     {
-        "variant": "B.1.427/9",
+        "variant": "Delta",
         "assays": [
             {
-                "variant": "B.1.427/9",
+                "variant": "Delta",
+                "rx": "AZD1222",
+                "samples": 25,
+                "s_fold": 8,
+                "i_fold": 13,
+                "r_fold": 4,
+                "reference": "Liu21f[^Liu21f]",
+                "median": "4.5"
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD1222",
+                "samples": 10,
+                "s_fold": 0,
+                "i_fold": 10,
+                "r_fold": 0,
+                "reference": "Mlcochova21[^Mlcochova21]",
+                "median": 8.7
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD1222",
+                "samples": 33,
+                "s_fold": 0,
+                "i_fold": 33,
+                "r_fold": 0,
+                "reference": "Mlcochova21[^Mlcochova21]",
+                "median": 4.0
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD1222",
+                "samples": 10,
+                "s_fold": 1,
+                "i_fold": 0,
+                "r_fold": 9,
+                "reference": "Planas21b[^Planas21b]",
+                "median": "6.8"
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD1222",
+                "samples": 20,
+                "s_fold": 0,
+                "i_fold": 20,
+                "r_fold": 0,
+                "reference": "Planas21b[^Planas21b]",
+                "median": 4.0
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD1222",
+                "samples": 39,
+                "s_fold": 22,
+                "i_fold": 6,
+                "r_fold": 11,
+                "reference": "Sapkal21c[^Sapkal21c]",
+                "median": "2.6"
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD1222",
+                "samples": 47,
+                "s_fold": 30,
+                "i_fold": 10,
+                "r_fold": 7,
+                "reference": "Sapkal21c[^Sapkal21c]",
+                "median": "2.2"
+            },
+            {
+                "variant": "Delta",
+                "rx": "Ad26.COV2.S",
+                "samples": 8,
+                "s_fold": 7,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Jongeneelen21[^Jongeneelen21]",
+                "median": "1.6"
+            },
+            {
+                "variant": "Delta",
+                "rx": "BBV152",
+                "samples": 17,
+                "s_fold": 12,
+                "i_fold": 1,
+                "r_fold": 4,
+                "reference": "Yadav21b[^Yadav21b]",
+                "median": "1.4"
+            },
+            {
+                "variant": "Delta",
+                "rx": "BNT162b2",
+                "samples": 40,
+                "s_fold": 39,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Liu21e[^Liu21e]",
+                "median": "1.4"
+            },
+            {
+                "variant": "Delta",
+                "rx": "BNT162b2",
+                "samples": 24,
+                "s_fold": 14,
+                "i_fold": 10,
+                "r_fold": 0,
+                "reference": "Liu21f[^Liu21f]",
+                "median": "2.6"
+            },
+            {
+                "variant": "Delta",
+                "rx": "BNT162b2",
+                "samples": 38,
+                "s_fold": 28,
+                "i_fold": 9,
+                "r_fold": 1,
+                "reference": "Lustig21[^Lustig21]",
+                "median": "2"
+            },
+            {
+                "variant": "Delta",
+                "rx": "BNT162b2",
+                "samples": 10,
+                "s_fold": 0,
+                "i_fold": 10,
+                "r_fold": 0,
+                "reference": "Mlcochova21[^Mlcochova21]",
+                "median": 7.4
+            },
+            {
+                "variant": "Delta",
+                "rx": "BNT162b2",
+                "samples": 32,
+                "s_fold": 32,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Mlcochova21[^Mlcochova21]",
+                "median": 2.2
+            },
+            {
+                "variant": "Delta",
+                "rx": "BNT162b2",
+                "samples": 27,
+                "s_fold": 15,
+                "i_fold": 11,
+                "r_fold": 1,
+                "reference": "Planas21b[^Planas21b]",
+                "median": "2.6"
+            },
+            {
+                "variant": "Delta",
+                "rx": "BNT162b2",
+                "samples": 16,
+                "s_fold": 0,
+                "i_fold": 16,
+                "r_fold": 0,
+                "reference": "Planas21b[^Planas21b]",
+                "median": 6.7
+            },
+            {
+                "variant": "Delta",
+                "rx": "mRNA-1273",
+                "samples": 8,
+                "s_fold": 7,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Choi21[^Choi21]",
+                "median": "2.1"
+            }
+        ]
+    },
+    {
+        "variant": "Epsilon",
+        "assays": [
+            {
+                "variant": "Epsilon",
                 "rx": "Ad26.COV2.S",
                 "samples": 19,
                 "s_fold": 12,
@@ -1573,7 +1748,7 @@
                 "median": "2.4"
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "Ad26.COV2.S",
                 "samples": 20,
                 "s_fold": 12,
@@ -1583,7 +1758,7 @@
                 "median": "2.8"
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "BNT162b2",
                 "samples": 4,
                 "s_fold": 2,
@@ -1593,7 +1768,7 @@
                 "median": "2"
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "BNT162b2",
                 "samples": 30,
                 "s_fold": 30,
@@ -1603,7 +1778,7 @@
                 "median": 2.0
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "BNT162b2",
                 "samples": 20,
                 "s_fold": 20,
@@ -1613,7 +1788,7 @@
                 "median": "1.2"
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "BNT162b2",
                 "samples": 45,
                 "s_fold": 27,
@@ -1623,7 +1798,7 @@
                 "median": "2.5"
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "NVX-CoV2373",
                 "samples": 23,
                 "s_fold": 14,
@@ -1633,7 +1808,7 @@
                 "median": "2.3"
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 8,
@@ -1643,7 +1818,7 @@
                 "median": "2.2"
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "mRNA-1273",
                 "samples": 9,
                 "s_fold": 6,
@@ -1653,7 +1828,7 @@
                 "median": "2"
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "mRNA-1273",
                 "samples": 35,
                 "s_fold": 35,
@@ -1663,7 +1838,7 @@
                 "median": 2.0
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "mRNA-1273",
                 "samples": 28,
                 "s_fold": 21,
@@ -1673,7 +1848,7 @@
                 "median": "2.2"
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "mRNA-1273",
                 "samples": 48,
                 "s_fold": 35,
@@ -1683,7 +1858,7 @@
                 "median": "2"
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "mRNA-1273",
                 "samples": 26,
                 "s_fold": 19,
@@ -1693,7 +1868,7 @@
                 "median": "2.3"
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "mRNA-1273",
                 "samples": 16,
                 "s_fold": 12,
@@ -1703,7 +1878,7 @@
                 "median": "2.5"
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 8,
@@ -1713,7 +1888,7 @@
                 "median": 2.4
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "mRNA-1273.211",
                 "samples": 8,
                 "s_fold": 0,
@@ -1723,7 +1898,7 @@
                 "median": 3.6
             },
             {
-                "variant": "B.1.427/9",
+                "variant": "Epsilon",
                 "rx": "mRNA-1273.351",
                 "samples": 8,
                 "s_fold": 8,
@@ -1735,10 +1910,305 @@
         ]
     },
     {
-        "variant": "B.1.526",
+        "variant": "Gamma",
         "assays": [
             {
-                "variant": "B.1.526",
+                "variant": "Gamma",
+                "rx": "AZD1222",
+                "samples": 25,
+                "s_fold": 16,
+                "i_fold": 8,
+                "r_fold": 1,
+                "reference": "Dejnirattisai21*[^Dejnirattisai21]",
+                "median": "2.7"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "Ad26.COV2.S",
+                "samples": 19,
+                "s_fold": 9,
+                "i_fold": 4,
+                "r_fold": 6,
+                "reference": "Alter21[^Alter21]",
+                "median": "2.9"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "Ad26.COV2.S",
+                "samples": 20,
+                "s_fold": 7,
+                "i_fold": 10,
+                "r_fold": 3,
+                "reference": "Alter21[^Alter21]",
+                "median": "4"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "Ad26.COV2.S",
+                "samples": 8,
+                "s_fold": 4,
+                "i_fold": 1,
+                "r_fold": 3,
+                "reference": "Jongeneelen21[^Jongeneelen21]",
+                "median": "3.2"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 10,
+                "s_fold": 3,
+                "i_fold": 6,
+                "r_fold": 1,
+                "reference": "Alenquer21[^Alenquer21]",
+                "median": "3.6"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 1,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 1,
+                "reference": "Alenquer21[^Alenquer21]",
+                "median": "1.3"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 15,
+                "s_fold": 12,
+                "i_fold": 3,
+                "r_fold": 0,
+                "reference": "Chen21[^Chen21]",
+                "median": "2.2"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 24,
+                "s_fold": 14,
+                "i_fold": 10,
+                "r_fold": 0,
+                "reference": "Dejnirattisai21*[^Dejnirattisai21]",
+                "median": "2.8"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 30,
+                "s_fold": 0,
+                "i_fold": 30,
+                "r_fold": 0,
+                "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
+                "median": 6.7
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 15,
+                "s_fold": 5,
+                "i_fold": 9,
+                "r_fold": 1,
+                "reference": "Hoffmann21[^Hoffmann21]",
+                "median": "4"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 7,
+                "s_fold": 7,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Imai21[^Imai21]",
+                "median": "0.5"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 30,
+                "s_fold": 10,
+                "i_fold": 20,
+                "r_fold": 0,
+                "reference": "Leier21*[^Leier21]",
+                "median": 3.3
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 20,
+                "s_fold": 20,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Liu21b[^Liu21b]",
+                "median": "1.3"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 15,
+                "s_fold": 10,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Lustig21*[^Lustig21]",
+                "median": "2"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 17,
+                "s_fold": 15,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "McCallum21b[^McCallum21b]",
+                "median": "1.8"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 10,
+                "s_fold": 8,
+                "i_fold": 2,
+                "r_fold": 0,
+                "reference": "Stankov21[^Stankov21]",
+                "median": "1"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 9,
+                "s_fold": 4,
+                "i_fold": 0,
+                "r_fold": 5,
+                "reference": "Stankov21[^Stankov21]",
+                "median": "1.5"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 5,
+                "s_fold": 1,
+                "i_fold": 4,
+                "r_fold": 0,
+                "reference": "Tada21[^Tada21]",
+                "median": "3.7"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 20,
+                "s_fold": 13,
+                "i_fold": 4,
+                "r_fold": 3,
+                "reference": "Wang21d[^Wang21d]",
+                "median": "2.1"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "CoronaVac",
+                "samples": 75,
+                "s_fold": 47,
+                "i_fold": 24,
+                "r_fold": 4,
+                "reference": "Acevedo21[^Acevedo21]",
+                "median": "2.2"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "CoronaVac",
+                "samples": 8,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 8,
+                "reference": "deSouza21*[^deSouza21]",
+                "median": "1.5"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "mRNA-1273",
+                "samples": 8,
+                "s_fold": 3,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Choi21[^Choi21]",
+                "median": "3.5"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "mRNA-1273",
+                "samples": 35,
+                "s_fold": 0,
+                "i_fold": 35,
+                "r_fold": 0,
+                "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
+                "median": 4.5
+            },
+            {
+                "variant": "Gamma",
+                "rx": "mRNA-1273",
+                "samples": 48,
+                "s_fold": 22,
+                "i_fold": 20,
+                "r_fold": 6,
+                "reference": "Pegu21[^Pegu21]",
+                "median": "3.1"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "mRNA-1273",
+                "samples": 24,
+                "s_fold": 12,
+                "i_fold": 10,
+                "r_fold": 2,
+                "reference": "Wang21d[^Wang21d]",
+                "median": "3.1"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "mRNA-1273",
+                "samples": 8,
+                "s_fold": 3,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Wu21[^Wu21]",
+                "median": "3.5"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "mRNA-1273",
+                "samples": 8,
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wu21b[^Wu21b]",
+                "median": 2.0
+            },
+            {
+                "variant": "Gamma",
+                "rx": "mRNA-1273.211",
+                "samples": 8,
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wu21b[^Wu21b]",
+                "median": 1.4
+            },
+            {
+                "variant": "Gamma",
+                "rx": "mRNA-1273.351",
+                "samples": 8,
+                "s_fold": 8,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Wu21b[^Wu21b]",
+                "median": 0.8
+            }
+        ]
+    },
+    {
+        "variant": "Iota",
+        "assays": [
+            {
+                "variant": "Iota",
                 "rx": "BNT162b2",
                 "samples": 20,
                 "s_fold": 20,
@@ -1748,7 +2218,7 @@
                 "median": "1"
             },
             {
-                "variant": "B.1.526",
+                "variant": "Iota",
                 "rx": "BNT162b2",
                 "samples": 4,
                 "s_fold": 0,
@@ -1758,7 +2228,7 @@
                 "median": "4.8"
             },
             {
-                "variant": "B.1.526",
+                "variant": "Iota",
                 "rx": "BNT162b2",
                 "samples": 5,
                 "s_fold": 1,
@@ -1768,7 +2238,7 @@
                 "median": "3.7"
             },
             {
-                "variant": "B.1.526",
+                "variant": "Iota",
                 "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 5,
@@ -1778,7 +2248,7 @@
                 "median": "2.6"
             },
             {
-                "variant": "B.1.526",
+                "variant": "Iota",
                 "rx": "mRNA-1273",
                 "samples": 48,
                 "s_fold": 36,
@@ -1788,7 +2258,7 @@
                 "median": "2.3"
             },
             {
-                "variant": "B.1.526",
+                "variant": "Iota",
                 "rx": "mRNA-1273",
                 "samples": 6,
                 "s_fold": 0,
@@ -1798,7 +2268,7 @@
                 "median": "4.8"
             },
             {
-                "variant": "B.1.526",
+                "variant": "Iota",
                 "rx": "mRNA-1273",
                 "samples": 3,
                 "s_fold": 1,
@@ -1810,10 +2280,10 @@
         ]
     },
     {
-        "variant": "B.1.617.1",
+        "variant": "Kappa",
         "assays": [
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "AZD1222",
                 "samples": 25,
                 "s_fold": 16,
@@ -1823,7 +2293,7 @@
                 "median": "2.2"
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "AZD1222",
                 "samples": 33,
                 "s_fold": 0,
@@ -1833,7 +2303,7 @@
                 "median": 5.7
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "Ad26.COV2.S",
                 "samples": 8,
                 "s_fold": 7,
@@ -1843,7 +2313,7 @@
                 "median": "1.3"
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "BBV152",
                 "samples": 28,
                 "s_fold": 26,
@@ -1853,7 +2323,7 @@
                 "median": "1.7"
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 0,
@@ -1863,7 +2333,7 @@
                 "median": "6.4"
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "BNT162b2",
                 "samples": 15,
                 "s_fold": 11,
@@ -1873,7 +2343,7 @@
                 "median": "2.1"
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "BNT162b2",
                 "samples": 20,
                 "s_fold": 12,
@@ -1883,7 +2353,7 @@
                 "median": "2.8"
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "BNT162b2",
                 "samples": 25,
                 "s_fold": 15,
@@ -1893,7 +2363,7 @@
                 "median": "2.7"
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "BNT162b2",
                 "samples": 32,
                 "s_fold": 0,
@@ -1903,7 +2373,7 @@
                 "median": 3.8
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "BNT162b2",
                 "samples": 229,
                 "s_fold": 39,
@@ -1913,7 +2383,7 @@
                 "median": "9.3"
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "BNT162b2",
                 "samples": 209,
                 "s_fold": 36,
@@ -1923,7 +2393,7 @@
                 "median": "5.2"
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "ZF2001",
                 "samples": 8,
                 "s_fold": 3,
@@ -1933,7 +2403,7 @@
                 "median": "2.6"
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "ZF2001",
                 "samples": 2,
                 "s_fold": 0,
@@ -1943,7 +2413,7 @@
                 "median": "4.2"
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "mRNA-1273",
                 "samples": 16,
                 "s_fold": 3,
@@ -1953,7 +2423,7 @@
                 "median": "3.2"
             },
             {
-                "variant": "B.1.617.1",
+                "variant": "Kappa",
                 "rx": "mRNA-1273",
                 "samples": 15,
                 "s_fold": 0,
@@ -1961,476 +2431,6 @@
                 "r_fold": 3,
                 "reference": "Edara21c[^Edara21c]",
                 "median": "6.4"
-            }
-        ]
-    },
-    {
-        "variant": "B.1.617.2",
-        "assays": [
-            {
-                "variant": "B.1.617.2",
-                "rx": "AZD1222",
-                "samples": 25,
-                "s_fold": 8,
-                "i_fold": 13,
-                "r_fold": 4,
-                "reference": "Liu21f[^Liu21f]",
-                "median": "4.5"
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "AZD1222",
-                "samples": 10,
-                "s_fold": 0,
-                "i_fold": 10,
-                "r_fold": 0,
-                "reference": "Mlcochova21[^Mlcochova21]",
-                "median": 8.7
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "AZD1222",
-                "samples": 33,
-                "s_fold": 0,
-                "i_fold": 33,
-                "r_fold": 0,
-                "reference": "Mlcochova21[^Mlcochova21]",
-                "median": 4.0
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "AZD1222",
-                "samples": 10,
-                "s_fold": 1,
-                "i_fold": 0,
-                "r_fold": 9,
-                "reference": "Planas21b[^Planas21b]",
-                "median": "6.8"
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "AZD1222",
-                "samples": 20,
-                "s_fold": 0,
-                "i_fold": 20,
-                "r_fold": 0,
-                "reference": "Planas21b[^Planas21b]",
-                "median": 4.0
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "AZD1222",
-                "samples": 39,
-                "s_fold": 22,
-                "i_fold": 6,
-                "r_fold": 11,
-                "reference": "Sapkal21c[^Sapkal21c]",
-                "median": "2.6"
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "AZD1222",
-                "samples": 47,
-                "s_fold": 30,
-                "i_fold": 10,
-                "r_fold": 7,
-                "reference": "Sapkal21c[^Sapkal21c]",
-                "median": "2.2"
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "Ad26.COV2.S",
-                "samples": 8,
-                "s_fold": 7,
-                "i_fold": 1,
-                "r_fold": 0,
-                "reference": "Jongeneelen21[^Jongeneelen21]",
-                "median": "1.6"
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "BBV152",
-                "samples": 17,
-                "s_fold": 12,
-                "i_fold": 1,
-                "r_fold": 4,
-                "reference": "Yadav21b[^Yadav21b]",
-                "median": "1.4"
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "BNT162b2",
-                "samples": 40,
-                "s_fold": 39,
-                "i_fold": 1,
-                "r_fold": 0,
-                "reference": "Liu21e[^Liu21e]",
-                "median": "1.4"
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "BNT162b2",
-                "samples": 24,
-                "s_fold": 14,
-                "i_fold": 10,
-                "r_fold": 0,
-                "reference": "Liu21f[^Liu21f]",
-                "median": "2.6"
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "BNT162b2",
-                "samples": 38,
-                "s_fold": 28,
-                "i_fold": 9,
-                "r_fold": 1,
-                "reference": "Lustig21[^Lustig21]",
-                "median": "2"
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "BNT162b2",
-                "samples": 10,
-                "s_fold": 0,
-                "i_fold": 10,
-                "r_fold": 0,
-                "reference": "Mlcochova21[^Mlcochova21]",
-                "median": 7.4
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "BNT162b2",
-                "samples": 32,
-                "s_fold": 32,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Mlcochova21[^Mlcochova21]",
-                "median": 2.2
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "BNT162b2",
-                "samples": 27,
-                "s_fold": 15,
-                "i_fold": 11,
-                "r_fold": 1,
-                "reference": "Planas21b[^Planas21b]",
-                "median": "2.6"
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "BNT162b2",
-                "samples": 16,
-                "s_fold": 0,
-                "i_fold": 16,
-                "r_fold": 0,
-                "reference": "Planas21b[^Planas21b]",
-                "median": 6.7
-            },
-            {
-                "variant": "B.1.617.2",
-                "rx": "mRNA-1273",
-                "samples": 8,
-                "s_fold": 7,
-                "i_fold": 1,
-                "r_fold": 0,
-                "reference": "Choi21[^Choi21]",
-                "median": "2.1"
-            }
-        ]
-    },
-    {
-        "variant": "P.1",
-        "assays": [
-            {
-                "variant": "P.1",
-                "rx": "AZD1222",
-                "samples": 25,
-                "s_fold": 16,
-                "i_fold": 8,
-                "r_fold": 1,
-                "reference": "Dejnirattisai21*[^Dejnirattisai21]",
-                "median": "2.7"
-            },
-            {
-                "variant": "P.1",
-                "rx": "Ad26.COV2.S",
-                "samples": 19,
-                "s_fold": 9,
-                "i_fold": 4,
-                "r_fold": 6,
-                "reference": "Alter21[^Alter21]",
-                "median": "2.9"
-            },
-            {
-                "variant": "P.1",
-                "rx": "Ad26.COV2.S",
-                "samples": 20,
-                "s_fold": 7,
-                "i_fold": 10,
-                "r_fold": 3,
-                "reference": "Alter21[^Alter21]",
-                "median": "4"
-            },
-            {
-                "variant": "P.1",
-                "rx": "Ad26.COV2.S",
-                "samples": 8,
-                "s_fold": 4,
-                "i_fold": 1,
-                "r_fold": 3,
-                "reference": "Jongeneelen21[^Jongeneelen21]",
-                "median": "3.2"
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 10,
-                "s_fold": 3,
-                "i_fold": 6,
-                "r_fold": 1,
-                "reference": "Alenquer21[^Alenquer21]",
-                "median": "3.6"
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 1,
-                "s_fold": 0,
-                "i_fold": 0,
-                "r_fold": 1,
-                "reference": "Alenquer21[^Alenquer21]",
-                "median": "1.3"
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 15,
-                "s_fold": 12,
-                "i_fold": 3,
-                "r_fold": 0,
-                "reference": "Chen21[^Chen21]",
-                "median": "2.2"
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 24,
-                "s_fold": 14,
-                "i_fold": 10,
-                "r_fold": 0,
-                "reference": "Dejnirattisai21*[^Dejnirattisai21]",
-                "median": "2.8"
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 30,
-                "s_fold": 0,
-                "i_fold": 30,
-                "r_fold": 0,
-                "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
-                "median": 6.7
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 15,
-                "s_fold": 5,
-                "i_fold": 9,
-                "r_fold": 1,
-                "reference": "Hoffmann21[^Hoffmann21]",
-                "median": "4"
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 7,
-                "s_fold": 7,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Imai21[^Imai21]",
-                "median": "0.5"
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 30,
-                "s_fold": 10,
-                "i_fold": 20,
-                "r_fold": 0,
-                "reference": "Leier21*[^Leier21]",
-                "median": 3.3
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 20,
-                "s_fold": 20,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Liu21b[^Liu21b]",
-                "median": "1.3"
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 15,
-                "s_fold": 10,
-                "i_fold": 5,
-                "r_fold": 0,
-                "reference": "Lustig21*[^Lustig21]",
-                "median": "2"
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 17,
-                "s_fold": 15,
-                "i_fold": 2,
-                "r_fold": 0,
-                "reference": "McCallum21b[^McCallum21b]",
-                "median": "1.8"
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 10,
-                "s_fold": 8,
-                "i_fold": 2,
-                "r_fold": 0,
-                "reference": "Stankov21[^Stankov21]",
-                "median": "1"
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 9,
-                "s_fold": 4,
-                "i_fold": 0,
-                "r_fold": 5,
-                "reference": "Stankov21[^Stankov21]",
-                "median": "1.5"
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 5,
-                "s_fold": 1,
-                "i_fold": 4,
-                "r_fold": 0,
-                "reference": "Tada21[^Tada21]",
-                "median": "3.7"
-            },
-            {
-                "variant": "P.1",
-                "rx": "BNT162b2",
-                "samples": 20,
-                "s_fold": 13,
-                "i_fold": 4,
-                "r_fold": 3,
-                "reference": "Wang21d[^Wang21d]",
-                "median": "2.1"
-            },
-            {
-                "variant": "P.1",
-                "rx": "CoronaVac",
-                "samples": 75,
-                "s_fold": 47,
-                "i_fold": 24,
-                "r_fold": 4,
-                "reference": "Acevedo21[^Acevedo21]",
-                "median": "2.2"
-            },
-            {
-                "variant": "P.1",
-                "rx": "CoronaVac",
-                "samples": 8,
-                "s_fold": 0,
-                "i_fold": 0,
-                "r_fold": 8,
-                "reference": "deSouza21*[^deSouza21]",
-                "median": "1.5"
-            },
-            {
-                "variant": "P.1",
-                "rx": "mRNA-1273",
-                "samples": 8,
-                "s_fold": 3,
-                "i_fold": 5,
-                "r_fold": 0,
-                "reference": "Choi21[^Choi21]",
-                "median": "3.5"
-            },
-            {
-                "variant": "P.1",
-                "rx": "mRNA-1273",
-                "samples": 35,
-                "s_fold": 0,
-                "i_fold": 35,
-                "r_fold": 0,
-                "reference": "Garcia-Beltran21[^Garcia-Beltran21]",
-                "median": 4.5
-            },
-            {
-                "variant": "P.1",
-                "rx": "mRNA-1273",
-                "samples": 48,
-                "s_fold": 22,
-                "i_fold": 20,
-                "r_fold": 6,
-                "reference": "Pegu21[^Pegu21]",
-                "median": "3.1"
-            },
-            {
-                "variant": "P.1",
-                "rx": "mRNA-1273",
-                "samples": 24,
-                "s_fold": 12,
-                "i_fold": 10,
-                "r_fold": 2,
-                "reference": "Wang21d[^Wang21d]",
-                "median": "3.1"
-            },
-            {
-                "variant": "P.1",
-                "rx": "mRNA-1273",
-                "samples": 8,
-                "s_fold": 3,
-                "i_fold": 5,
-                "r_fold": 0,
-                "reference": "Wu21[^Wu21]",
-                "median": "3.5"
-            },
-            {
-                "variant": "P.1",
-                "rx": "mRNA-1273",
-                "samples": 8,
-                "s_fold": 8,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Wu21b[^Wu21b]",
-                "median": 2.0
-            },
-            {
-                "variant": "P.1",
-                "rx": "mRNA-1273.211",
-                "samples": 8,
-                "s_fold": 8,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Wu21b[^Wu21b]",
-                "median": 1.4
-            },
-            {
-                "variant": "P.1",
-                "rx": "mRNA-1273.351",
-                "samples": 8,
-                "s_fold": 8,
-                "i_fold": 0,
-                "r_fold": 0,
-                "reference": "Wu21b[^Wu21b]",
-                "median": 0.8
             }
         ]
     }
