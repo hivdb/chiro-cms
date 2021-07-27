@@ -5,6 +5,8 @@ introHeader: |-
 toc: false
 tocFloat: right
 escapeHtml: false
+githubLink: https://github.com/hivdb/covid-drdb-payload/releases
+githubTitle: Download this database from GitHub
 content:
   _resource: susceptibility-data.md
 tables:
