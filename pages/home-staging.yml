@@ -3,6 +3,7 @@ missionStatement:
   _resource: mission-statement.md
 projectSections:
   - title: Highlights
+    displayTitle: false
     items:
     - title: SARS-CoV-2 variants
       description: SARS-CoV-2 variants and their associated mutations
@@ -17,23 +18,23 @@ projectSections:
       link: /sierra/sars2/by-patterns/
       image: home/edumat-sierra-sars2.png
     - title: Antiviral compounds
-      description: List of drugs involved in experiments
-      link: /compound-list/
+      description: >-
+        In vitro experiments, animal model and clinical studies
+      link: /antiviral-portal/
       image: home/edumat-compounds.png
     - title: Vaccine efficacy
-      description: Blah blah blah
+      description: Vaccine efficacy at preventing symptomatic SARS-CoV-2 infection with variants
       link: /page/susceptibility-data/#table.4.vaccine.efficacy.at.preventing.symptomatic.sars-cov-2.infection.with.variants
       image: home/vaccine-efficacy.png
   - title: Others
     items:
     - title: Updates
-      description: Blah blah blah
+      description: New database entries
       link: /page/updates/
       image: home/latest-updates.png
     - title: Papers & talks
-      description: Coronavirus Antiviral Research Database
-      link: https://www.mdpi.com/1999-4915/12/9/1006
-      extLink: true
+      description: Publications and webinars of ours
+      link: /page/publications/
       image: home/pub-dbpaper.png
     - title: Spike viewer
       description: A mutation annotation viewer of Spike gene

@@ -1,0 +1,21 @@
+---
+projectSections:
+  - title: Educational Materials
+    items:
+    - title: Drugs
+      description: List of drugs involved in experiments
+      link: /compound-list/
+      image: home/edumat-compounds.png
+    - title: Drug targets
+      description: Drug target list and categorized drugs
+      link: /compound-target-list/
+      image: home/edumat-compound-targets.png
+    - title: Clinical trials
+      description: Ongoing and Planned Clinical Trials of Antiviral Compounds
+      link: /clinical-trials/
+      image: home/clinical-trials.png
+    - title: SARS-CoV-2 mAbs tracker
+      description: Clinical trials, animal model studies, inhibitory potency, sequence data, and structural data
+      link: /page/mab-tables/
+      image: home/edumat-mab-tables.png
+

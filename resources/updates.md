@@ -17,65 +17,6 @@ Instruction:
 
 -->
 
-## Publications
-
-- Editorial (September 21)
-    - Shafer R. “A SARS-CoV-2 antiviral therapy score card” _Global Health & Medicine_, 2020. [doi.org/10.35772/ghm.2020.01082](https://doi.org/10.35772/ghm.2020.01082).
-- Paper (September 4)
-    - Tzou PL, Tao KM, et int., and Shafer R. “Coronavirus Antiviral Research Database (CoV-RDB): An Online Database Designed to Facilitate Comparisons between Candidate Anti-Coronavirus Compounds” _Viruses_, 2020. [doi.org/10.3390/v12091006](https://doi.org/10.3390/v12091006). \[[PubMed32916958](https://www.ncbi.nlm.nih.gov/pubmed/32916958/)\].
-
-## Webinars
-
-- October 2
-    - Monoclonal Antibodies for the Prevention and Treatment of COVID 19. October 2, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://www.youtube.com/watch?v=YUj9jBlTCrY))
-- August 10
-    - SARS-CoV-2 Antivirals: Remdesivir and other Polymerase Inhibitors. August 10, 2020. Robert Shafer, MD, Professor of Medicine, Division of Infectious Diseases, Stanford University. ([video](https://stanford.cloud-cme.com/default.aspx?P=0&EID=38044))
-
-## Educational Materials
-
-- [Spike structures. Figures of SARS-CoV-2](/page/spike-structures/)
-    - Figure 1. SARS-CoV-2 Trimeric Spike.
-    - Figure 2. Trimeric spike structures illustrating RBD (receptor binding domains) up (open; ACE2 accessible) and down (closed) configurations.
-    - Figure 3. Spike RBD bound to ACE-2.
-    - Figure 4. Spike S1 and S2 subunits.
-    - Figure 5. S1 domains.
-    - Table 1. Antibody metadata.
-    - Figure 6. RBD ACE2-competing antibody residues, large ACE2 footprint(>50%).
-    - Figure 7. RBD ACE2-competing antibody residues, smaller ACE2 footprint (<50%).
-    - Figure 8. RBD core (non-ACE2-competing residues) mAb epitopes.
-    - Figure 9. Regeneron ACE2-competing mAbs.
-    - Figure 10. Naturally occurring spike RBD variants and mAb escape mutations.
-    - Figure 11. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) spike receptor binding domain (RBD).
-    - Figure 12. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) trimeric spike.
-- [Spike mutation annotation viewer](/mut-annot-viewer/SARS2S/)
-    - [table of mutation annotations for SARS-CoV-2 Spike gene](/page/mutannot-spike-table/)
-- [Monoclonal antibodies](/page/mab-tables/)
-    - [Clinical Trials](/page/mab-tables/#clinical.trials)
-    - [Animal Model Studies](/page/mab-tables/#animal.model.studies)
-    - [Inhibitory potency, sequence data, and structural data](/page/mab-tables/#identification.in.vitro.potency.sequence.data.and.structural.data)
-
-## Press Releases
-- November 22
-    - [Casirivimab and imdevimab EUA fact sheet for healthcare providers]($$CMS_PREFIX$$downloads/press-release/Regeneron20201122.pdf)
-- November 10
-    - [Bamlanivimab EUA Letter of Authorization]($$CMS_PREFIX$$downloads/press-release/Lilly202011101.pdf)
-    - [Bamlanivimab EUA Letter of Authorization FAQ]($$CMS_PREFIX$$downloads/press-release/Lilly202011102.pdf)
-- October 30
-    - [Regn-cov2 independent data monitoring committee recommends holding enrollment in hospitalized patients with high oxygen requirements and continuing enrollment in patients with low or no oxygen requirements]($$CMS_PREFIX$$downloads/press-release/Regeneron20201030.pdf)
-- October 28
-    - [Regeneron's COVID-19 Outpatient Trial Prospectively Demonstrates that REGN- COV2 Antibody Cocktail Significantly Reduced Virus Levels and Need for Further Medical Attention]($$CMS_PREFIX$$downloads/press-release/Regeneron20201028.pdf)
-- October 26
-    - [Lilly Statement Regarding NIH’s ACTIV-3 Clinical Trial]($$CMS_PREFIX$$downloads/press-release/Lilly20201027.pdf)
-- October 16
-    - [IFN Lambda EigerBioPharmaceuticals]($$CMS_PREFIX$$downloads/press-release/Eiger20201017.pdf)
-- October 7
-    - [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7]($$CMS_PREFIX$$downloads/press-release/Lilly202010071.pdf)
-    - [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7]($$CMS_PREFIX$$downloads/press-release/Lilly202010072.pdf)
-- October 2
-    - [Synairgen plc, Interim results for the six months ended 30 June 2020]($$CMS_PREFIX$$downloads/press-release/Synairgen20200930.pdf)
-    - [Lilly announces proof of concept data for neutralizing antibody LY-CoV555 in the COVID-19outpatient setting]($$CMS_PREFIX$$downloads/press-release/Lilly20200930.pdf)
-    - [Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients]($$CMS_PREFIX$$downloads/press-release/Regeneron20200930.pdf)
-
 ## Database Entries
 ### July 2021
 - July 19
@@ -2535,3 +2476,49 @@ April 26
     - NCT04330495
     - NCT04330586
     - NCT04330690
+
+## Educational Materials
+
+- [Spike structures. Figures of SARS-CoV-2](/page/spike-structures/)
+    - Figure 1. SARS-CoV-2 Trimeric Spike.
+    - Figure 2. Trimeric spike structures illustrating RBD (receptor binding domains) up (open; ACE2 accessible) and down (closed) configurations.
+    - Figure 3. Spike RBD bound to ACE-2.
+    - Figure 4. Spike S1 and S2 subunits.
+    - Figure 5. S1 domains.
+    - Table 1. Antibody metadata.
+    - Figure 6. RBD ACE2-competing antibody residues, large ACE2 footprint(>50%).
+    - Figure 7. RBD ACE2-competing antibody residues, smaller ACE2 footprint (<50%).
+    - Figure 8. RBD core (non-ACE2-competing residues) mAb epitopes.
+    - Figure 9. Regeneron ACE2-competing mAbs.
+    - Figure 10. Naturally occurring spike RBD variants and mAb escape mutations.
+    - Figure 11. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) spike receptor binding domain (RBD).
+    - Figure 12. Phylogenetic tree, multiple sequence alignment, and sequence variability of the SARS-related coronavirus (SARSr-CoV) trimeric spike.
+- [Spike mutation annotation viewer](/mut-annot-viewer/SARS2S/)
+    - [table of mutation annotations for SARS-CoV-2 Spike gene](/page/mutannot-spike-table/)
+- [Monoclonal antibodies](/page/mab-tables/)
+    - [Clinical Trials](/page/mab-tables/#clinical.trials)
+    - [Animal Model Studies](/page/mab-tables/#animal.model.studies)
+    - [Inhibitory potency, sequence data, and structural data](/page/mab-tables/#identification.in.vitro.potency.sequence.data.and.structural.data)
+
+## Press Releases
+- November 22
+    - [Casirivimab and imdevimab EUA fact sheet for healthcare providers]($$CMS_PREFIX$$downloads/press-release/Regeneron20201122.pdf)
+- November 10
+    - [Bamlanivimab EUA Letter of Authorization]($$CMS_PREFIX$$downloads/press-release/Lilly202011101.pdf)
+    - [Bamlanivimab EUA Letter of Authorization FAQ]($$CMS_PREFIX$$downloads/press-release/Lilly202011102.pdf)
+- October 30
+    - [Regn-cov2 independent data monitoring committee recommends holding enrollment in hospitalized patients with high oxygen requirements and continuing enrollment in patients with low or no oxygen requirements]($$CMS_PREFIX$$downloads/press-release/Regeneron20201030.pdf)
+- October 28
+    - [Regeneron's COVID-19 Outpatient Trial Prospectively Demonstrates that REGN- COV2 Antibody Cocktail Significantly Reduced Virus Levels and Need for Further Medical Attention]($$CMS_PREFIX$$downloads/press-release/Regeneron20201028.pdf)
+- October 26
+    - [Lilly Statement Regarding NIH’s ACTIV-3 Clinical Trial]($$CMS_PREFIX$$downloads/press-release/Lilly20201027.pdf)
+- October 16
+    - [IFN Lambda EigerBioPharmaceuticals]($$CMS_PREFIX$$downloads/press-release/Eiger20201017.pdf)
+- October 7
+    - [Lilly SARS-CoV-2 Neutralizing Antibody Slides Oct7]($$CMS_PREFIX$$downloads/press-release/Lilly202010071.pdf)
+    - [Lilly update on SARS-CoV-2 neutralizing antibody programs Oct7]($$CMS_PREFIX$$downloads/press-release/Lilly202010072.pdf)
+- October 2
+    - [Synairgen plc, Interim results for the six months ended 30 June 2020]($$CMS_PREFIX$$downloads/press-release/Synairgen20200930.pdf)
+    - [Lilly announces proof of concept data for neutralizing antibody LY-CoV555 in the COVID-19outpatient setting]($$CMS_PREFIX$$downloads/press-release/Lilly20200930.pdf)
+    - [Regeneron's REGN-COV2 Antibody Cocktail Reduced Viral Levels and Improved Symptoms inNon-Hospitalized COVID-19 Patients]($$CMS_PREFIX$$downloads/press-release/Regeneron20200930.pdf)
+
