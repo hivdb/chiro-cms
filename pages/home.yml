@@ -26,21 +26,3 @@ projectSections:
       description: Vaccine efficacy at preventing symptomatic SARS-CoV-2 infection with variants
       link: /page/susceptibility-data/#table.4.vaccine.efficacy.at.preventing.symptomatic.sars-cov-2.infection.with.variants
       image: home/vaccine-efficacy.png
-  - title: Others
-    items:
-    - title: Updates
-      description: New database entries
-      link: /page/updates/
-      image: home/latest-updates.png
-    - title: Papers & talks
-      description: Publications and webinars of ours
-      link: /page/publications/
-      image: home/pub-dbpaper.png
-    - title: Spike viewer
-      description: A mutation annotation viewer of Spike gene
-      link: /mut-annot-viewer/SARS2S/
-      image: home/edumat-spike-viewer.png
-    - title: Spike structures
-      description: Figures of SARS-COV-2 Spike structures
-      link: /page/spike-structures/
-      image: home/edumat-spike-structures.png

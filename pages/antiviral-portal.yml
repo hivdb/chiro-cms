@@ -2,6 +2,10 @@
 projectSections:
   - title: Educational Materials
     items:
+    - title: SARS-CoV-2 antiviral therapy
+      description: SARS-CoV-2 antiviral therapy review
+      link: /page/covid-review/
+      image: edumat-references.png
     - title: Drugs
       description: List of drugs involved in experiments
       link: /compound-list/
