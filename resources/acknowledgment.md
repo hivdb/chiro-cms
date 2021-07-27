@@ -31,6 +31,4 @@ We'd like to appreciate and pay tribute to the authors of following open source 
 - Lobund-Wistar Rat by [Janet Stephens](https://visualsonline.cancer.gov/details.cfm?imageid=2568): Public Domain
 - SARS-CoV, SARS-CoV-2 and MERS-CoV S-GFP by [Chunyan Wang, et al](https://doi.org/10.1038/s41467-020-16256-y): CC-BY-SA-4.0
 - Background image of home page by [House.gov](http://web.archive.org/web/20200407020039/https://ocasio-cortez.house.gov/services/information-and-resources-covid-19-coronavirus): Public Domain
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzYwMTcwN119
--->
+- Picture of Vaccine efficacy by [WHO](https://www.who.int/news-room/feature-stories/detail/vaccine-efficacy-effectiveness-and-protection): CC BY-NC-SA 3.0 IGO
