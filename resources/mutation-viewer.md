@@ -12,7 +12,7 @@
   - [Other CDC Listed Variants](#other.cdc.listed.variants)
   - [Other COG-UK Listed Variants](#other.cog-uk.listed.variants)
   - [Other ECDC Listed Variants](#other.ecdc.listed.variants)
-  - [Other](#other.variants)
+  - [Other Variants](#other.variants)
   - [SARS-COV-2 Variants Tracking sites](#sars-cov-2.variants.tracking.sites)
 - [Prolonged Infections](#prolonged.infections)
   - [Kemp S, Collier DA, et int., and Gupta RK.](#sec_kemp21)
