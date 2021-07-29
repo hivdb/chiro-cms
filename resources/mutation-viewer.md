@@ -31,13 +31,14 @@
 
 <!-- Alpha -->
 ### Alpha
+<a id="sec_alpha" />
 
 <!-- B.1.1.7-->
 <section id="sec_b-1-1-7" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.1.7](#sec_b-1-1-7)
+#### [B.1.1.7](#sec_b-1-1-7)
 
 Listed by: WHO, CDC, COG-UK, ECDC
 
@@ -60,7 +61,7 @@ b-1-1-7
 
 <div class="figure-caption">
 
-### [B.1.1.7+E484K](#sec_b-1-1-7-e484k)
+#### [B.1.1.7+E484K](#sec_b-1-1-7-e484k)
 
 Listed by: WHO, COG-UK, ECDC
 
@@ -83,7 +84,7 @@ b-1-1-7-e484k
 
 <div class="figure-caption">
 
-### [B.1.1.7+L452R](#sec_b-1-1-7-l452r)
+#### [B.1.1.7+L452R](#sec_b-1-1-7-l452r)
 
 Listed by: WHO, ECDC
 
@@ -107,7 +108,7 @@ b-1-1-7-l452r
 
 <div class="figure-caption">
 
-### [B.1.1.7+S494P](#sec_b-1-1-7-s494p)
+#### [B.1.1.7+S494P](#sec_b-1-1-7-s494p)
 
 Listed by: ECDC
 
@@ -128,13 +129,14 @@ b-1-1-7-s494p
 
 <!-- Beta -->
 ### Beta
+<a id="sec_beta" />
 
 <!-- B.1.351-->
 <section id="sec_b-1-351" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.351](#sec_b-1-351)
+#### [B.1.351](#sec_b-1-351)
 
 Listed by: WHO, CDC, COG-UK, ECDC
 
@@ -158,7 +160,7 @@ b-1-351
 
 <div class="figure-caption">
 
-### [B.1.351+E516Q](#sec_b-1-351-e516q)
+#### [B.1.351+E516Q](#sec_b-1-351-e516q)
 
 Listed by: ECDC
 
@@ -182,7 +184,7 @@ b-1-351-e516q
 
 <div class="figure-caption">
 
-### [B.1.351+L18F](#sec_b-1-351-l18f)
+#### [B.1.351+L18F](#sec_b-1-351-l18f)
 
 Listed by: WHO
 
@@ -206,7 +208,7 @@ b-1-351-l18f
 
 <div class="figure-caption">
 
-### [B.1.351+P384L](#sec_b-1-351-p384l)
+#### [B.1.351+P384L](#sec_b-1-351-p384l)
 
 Listed by: ECDC
 
@@ -230,7 +232,7 @@ b-1-351-p384l
 
 <div class="figure-caption">
 
-### [B.1.351.2](#sec_b-1-351-2)
+#### [B.1.351.2](#sec_b-1-351-2)
 
 Listed by: WHO
 
@@ -254,7 +256,7 @@ b-1-351-2
 
 <div class="figure-caption">
 
-### [B.1.351.3](#sec_b-1-351-3)
+#### [B.1.351.3](#sec_b-1-351-3)
 
 Listed by: WHO
 
@@ -274,13 +276,14 @@ b-1-351-3
 
 <!-- Gamma -->
 ### Gamma
+<a id="sec_gamma" />
 
 <!-- P.1-->
 <section id="sec_p-1" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [P.1](#sec_p-1)
+#### [P.1](#sec_p-1)
 
 Listed by: WHO, CDC, COG-UK, ECDC
 
@@ -304,7 +307,7 @@ p-1
 
 <div class="figure-caption">
 
-### [P.1+P681H](#sec_p-1-p681h)
+#### [P.1+P681H](#sec_p-1-p681h)
 
 Listed by: WHO, ECDC
 
@@ -329,7 +332,7 @@ p-1-p681h
 
 <div class="figure-caption">
 
-### [P.1.1](#sec_p-1-1)
+#### [P.1.1](#sec_p-1-1)
 
 Listed by: WHO
 
@@ -354,7 +357,7 @@ p-1-1
 
 <div class="figure-caption">
 
-### [P.1.2](#sec_p-1-2)
+#### [P.1.2](#sec_p-1-2)
 
 Listed by: WHO
 
@@ -375,13 +378,14 @@ p-1-2
 
 <!-- Delta -->
 ### Delta
+<a id="sec_delta" />
 
 <!-- B.1.617.2-->
 <section id="sec_b-1-617-2" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.617.2](#sec_b-1-617-2)
+#### [B.1.617.2](#sec_b-1-617-2)
 
 Listed by: WHO, CDC, COG-UK, ECDC
 
@@ -406,7 +410,7 @@ b-1-617-2
 
 <div class="figure-caption">
 
-### [B.1.617.2+K417N](#sec_b-1-617-2-k417n)
+#### [B.1.617.2+K417N](#sec_b-1-617-2-k417n)
 
 Listed by: WHO, ECDC
 
@@ -431,7 +435,7 @@ b-1-617-2-k417n
 
 <div class="figure-caption">
 
-### [AY.1](#sec_ay-1)
+#### [AY.1](#sec_ay-1)
 
 Listed by: WHO
 
@@ -456,7 +460,7 @@ ay-1
 
 <div class="figure-caption">
 
-### [AY.2](#sec_ay-2)
+#### [AY.2](#sec_ay-2)
 
 Listed by: WHO
 
@@ -481,7 +485,7 @@ ay-2
 
 <div class="figure-caption">
 
-### [AY.3](#sec_ay-3)
+#### [AY.3](#sec_ay-3)
 
 Listed by: WHO
 
@@ -502,12 +506,14 @@ ay-3
 
 <!-- Eta -->
 ### Eta
+<a id="sec_eta" />
+
 <!-- B.1.525-->
 <section id="sec_b-1-525" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.525](#sec_b-1-525)
+#### [B.1.525](#sec_b-1-525)
 
 Listed by: WHO, CDC, COG-UK, ECDC
 
@@ -528,13 +534,14 @@ b-1-525
 
 <!-- Iota -->
 ### Iota
+<a id="sec_iota" />
 
 <!-- B.1.526-->
 <section id="sec_b-1-526" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.526](#sec_b-1-526)
+#### [B.1.526](#sec_b-1-526)
 
 Listed by: WHO, CDC, ECDC
 
@@ -558,7 +565,7 @@ b-1-526
 
 <div class="figure-caption">
 
-### [B.1.526.1](#sec_b-1-526-1)
+#### [B.1.526.1](#sec_b-1-526-1)
 
 Listed by: ECDC
 
@@ -583,7 +590,7 @@ b-1-526-1
 
 <div class="figure-caption">
 
-### [B.1.526.2](#sec_b-1-526-2)
+#### [B.1.526.2](#sec_b-1-526-2)
 
 Listed by: ECDC
 
@@ -603,14 +610,14 @@ b-1-526-2
 
 <!-- Kappa -->
 ### Kappa
-
+<a id="sec_kappa" />
 
 <!-- B.1.617.1-->
 <section id="sec_b-1-617-1" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [B.1.617.1](#sec_b-1-617-1)
+#### [B.1.617.1](#sec_b-1-617-1)
 
 Listed by: WHO, CDC, COG-UK
 
@@ -631,13 +638,14 @@ b-1-617-1
 
 <!-- Lambda -->
 ### Lambda
+<a id="sec_lambda" />
 
 <!-- C.37-->
 <section id="sec_c-37" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [C.37](#sec_c-37)
+#### [C.37](#sec_c-37)
 
 Listed by: WHO, ECDC
 
@@ -663,7 +671,7 @@ c-37
 
 <div class="figure-caption">
 
-### [B.1.427](#sec_b-1-427)
+#### [B.1.427](#sec_b-1-427)
 
 Listed by: WHO, CDC, ECDC
 
@@ -688,7 +696,7 @@ b-1-427
 
 <div class="figure-caption">
 
-### [B.1.429](#sec_b-1-429)
+#### [B.1.429](#sec_b-1-429)
 
 Listed by: WHO, CDC, ECDC
 
@@ -711,7 +719,7 @@ b-1-429
 
 <div class="figure-caption">
 
-### [B.1.1.318](#sec_b-1-1-318)
+#### [B.1.1.318](#sec_b-1-1-318)
 
 Listed by: WHO, COG-UK, ECDC
 
@@ -735,7 +743,7 @@ b-1-1-318
 
 <div class="figure-caption">
 
-### [B.1.1.519](#sec_b-1-1-519)
+#### [B.1.1.519](#sec_b-1-1-519)
 
 Listed by: WHO, ECDC
 
@@ -760,7 +768,7 @@ b-1-1-519
 
 <div class="figure-caption">
 
-### [B.1.1.523](#sec_b-1-1-523)
+#### [B.1.1.523](#sec_b-1-1-523)
 
 Listed by: WHO
 
@@ -785,7 +793,7 @@ b-1-1-523
 
 <div class="figure-caption">
 
-### [B.1.214.2](#sec_b-1-214-2)
+#### [B.1.214.2](#sec_b-1-214-2)
 
 Listed by: WHO, ECDC
 
@@ -809,7 +817,7 @@ b-1-214-2
 
 <div class="figure-caption">
 
-### [B.1.466.2](#sec_b-1-466-2)
+#### [B.1.466.2](#sec_b-1-466-2)
 
 Listed by: WHO
 
@@ -833,7 +841,7 @@ b-1-466-2
 
 <div class="figure-caption">
 
-### [B.1.619](#sec_b-1-619)
+#### [B.1.619](#sec_b-1-619)
 
 Listed by: WHO
 
@@ -858,7 +866,7 @@ b-1-619
 
 <div class="figure-caption">
 
-### [B.1.620](#sec_b-1-620)
+#### [B.1.620](#sec_b-1-620)
 
 Listed by: WHO, CDC
 
@@ -882,7 +890,7 @@ b-1-620
 
 <div class="figure-caption">
 
-### [B.1.621](#sec_b-1-621)
+#### [B.1.621](#sec_b-1-621)
 
 Listed by: WHO, CDC
 
@@ -906,7 +914,7 @@ b-1-621
 
 <div class="figure-caption">
 
-### [C.36.3](#sec_c-36-3)
+#### [C.36.3](#sec_c-36-3)
 
 Listed by: WHO
 
@@ -931,7 +939,7 @@ c-36-3
 
 <div class="figure-caption">
 
-### [C.36.3.1](#sec_c-36-3-1)
+#### [C.36.3.1](#sec_c-36-3-1)
 
 Listed by: WHO
 
@@ -954,7 +962,7 @@ c-36-3-1
 
 <div class="figure-caption">
 
-### [P.2](#sec_p-2)
+#### [P.2](#sec_p-2)
 
 Listed by: WHO, COG-UK, ECDC
 
@@ -979,7 +987,7 @@ p-2
 
 <div class="figure-caption">
 
-### [P.3](#sec_p-3)
+#### [P.3](#sec_p-3)
 
 Listed by: WHO, COG-UK, ECDC
 
@@ -1003,7 +1011,7 @@ p-3
 
 <div class="figure-caption">
 
-### [R.1](#sec_r-1)
+#### [R.1](#sec_r-1)
 
 Listed by: WHO
 
@@ -1029,7 +1037,7 @@ r-1
 
 <div class="figure-caption">
 
-### [R.2](#sec_r-2)
+#### [R.2](#sec_r-2)
 
 Listed by: WHO
 
@@ -1054,7 +1062,7 @@ r-2
 
 <div class="figure-caption">
 
-### [B.1.617.3](#sec_b-1-617-3)
+#### [B.1.617.3](#sec_b-1-617-3)
 
 Listed by: CDC, COG-UK, ECDC
 
@@ -1079,7 +1087,7 @@ b-1-617-3
 
 <div class="figure-caption">
 
-### [A.23](#sec_a-23)
+#### [A.23](#sec_a-23)
 
 Listed by: COG-UK
 
@@ -1103,7 +1111,7 @@ a-23
 
 <div class="figure-caption">
 
-### [A.23.1+E484K](#sec_a-23-1-e484k)
+#### [A.23.1+E484K](#sec_a-23-1-e484k)
 
 Listed by: COG-UK, ECDC
 
@@ -1126,7 +1134,7 @@ a-23-1-e484k
 
 <div class="figure-caption">
 
-### [AV.1](#sec_av-1)
+#### [AV.1](#sec_av-1)
 
 Listed by: COG-UK, ECDC
 
@@ -1151,7 +1159,7 @@ av-1
 
 <div class="figure-caption">
 
-### [A.27](#sec_a-27)
+#### [A.27](#sec_a-27)
 
 Listed by: ECDC
 
@@ -1175,7 +1183,7 @@ a-27
 
 <div class="figure-caption">
 
-### [A.28](#sec_a-28)
+#### [A.28](#sec_a-28)
 
 Listed by: ECDC
 
@@ -1199,7 +1207,7 @@ a-28
 
 <div class="figure-caption">
 
-### [AT.1](#sec_at-1)
+#### [AT.1](#sec_at-1)
 
 Listed by: ECDC
 
@@ -1224,7 +1232,7 @@ at-1
 
 <div class="figure-caption">
 
-### [B.1.616](#sec_b-1-616)
+#### [B.1.616](#sec_b-1-616)
 
 Listed by: ECDC
 
@@ -1248,7 +1256,7 @@ b-1-616
 
 <div class="figure-caption">
 
-### [C.16](#sec_c-16)
+#### [C.16](#sec_c-16)
 
 Listed by: ECDC
 
@@ -1273,7 +1281,7 @@ c-16
 
 <div class="figure-caption">
 
-### [C.36+L452R](#sec_c-36-l452r)
+#### [C.36+L452R](#sec_c-36-l452r)
 
 Listed by: ECDC
 
@@ -1300,7 +1308,7 @@ c-36-l452r
 
 <div class="figure-caption">
 
-### [B.1.1.298 (Cluster 5)](#sec_b-1-1-298)
+#### [B.1.1.298 (Cluster 5)](#sec_b-1-1-298)
 
 Lassaunière R, Fonager J, et int., and Fomsgaard A. “SARS-CoV-2 spike mutations arising in Danish mink and their spread to humans.” Statens Serum Institut, 2020. [^Lassauniere20]
 
@@ -1323,7 +1331,7 @@ b-1-1-298
 
 <div class="figure-caption">
 
-### [B.1.258 (N439K)](#sec_b-1-258)
+#### [B.1.258 (N439K)](#sec_b-1-258)
 
 Thomson EC, Rosen LE, et int., and Snell G. “Circulating SARS-CoV-2 spike N439K variants maintain fitness while evading antibody-mediated immunity.” _Cell_, 2021. [doi.org/10.1016/j.cell.2021.01.037](https://doi.org/10.1016/j.cell.2021.01.037). [^Thomson21]
 
@@ -1346,7 +1354,7 @@ b-1-258
 
 <div class="figure-caption">
 
-### [N.9](#sec_n-9)
+#### [N.9](#sec_n-9)
 
 Resende PC, Graf T, et int., and Siqueira MM. “A potential SARS-CoV-2 variant of interest (VOI) harboring mutation E484K in the Spike protein was identified within lineage B.1.1.33 circulating in Brazil.” _biorxiv_, 2021. [doi.org/10.1101/2021.03.12.434969](https://doi.org/10.1101/2021.03.12.434969) [^Resende21]
 
@@ -1370,7 +1378,7 @@ n-9
 
 <div class="figure-caption">
 
-### [B.1.x](#sec_b-1-x)
+#### [B.1.x](#sec_b-1-x)
 
 Thornlow B, Hinrichs AS, et int., and Corbett-Detig R. “A new SARS-CoV-2 lineage that shares mutations with known Variants of Concern is rejected by automated sequence repository quality control.” _bioRxiv_, 2021. [doi.org/10.1101/2021.04.05.438352](https://doi.org/10.1101/2021.04.05.438352).[^Thornlow21]
 
@@ -1391,7 +1399,7 @@ b-1-x
 
 <div class="figure-caption">
 
-### [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](#sec_coh-20g-501y)
+#### [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](#sec_coh-20g-501y)
 Tu H, Avenarius MR, et int., and Jones D. “Distinct Patterns of Emergence of SARS-CoV-2 Spike Variants including N501Y in Clinical Samples in Columbus Ohio.” _bioRxiv_, 2021. [doi.org/10.1101/2021.01.12.426407](https://doi.org/10.1101/2021.01.12.426407).[^Tu21]
 
 </div>
@@ -1433,7 +1441,7 @@ coh-20g-677h
 
 <div class="figure-caption">
 
-### [A.VOI.V2](#sec_a-voi-v2)
+#### [A.VOI.V2](#sec_a-voi-v2)
 Oliveira T, Lutucuta S, et int., and Lessells RJ. “A novel variant of interest of SARS-CoV-2 with multiple spike mutations is identified from travel surveillance in Africa.” _biorxiv_, 2021. [doi.org/10.1101/2021.03.30.21254323](https://doi.org/10.1101/2021.03.30.21254323)
 
 </div>
@@ -1464,7 +1472,7 @@ a-voi-v2
 
 <div class="figure-caption">
 
-### [Kemp S, Collier DA, et int., and Gupta RK.](#sec_kemp21)
+#### [Kemp S, Collier DA, et int., and Gupta RK.](#sec_kemp21)
 
 Kemp S, Collier DA, et int., and Gupta RK. “SARS-CoV-2 evolution during treatment of chronic infection.” _Nature_, 2021. [doi.org/10.1038/s41586-021-03291-y](https://doi.org/10.1038/s41586-021-03291-y).[^Kemp21] Other detected spike mutations during prolonged infections: S:Y200H, S:T240I, S:P330S
 
@@ -1485,7 +1493,7 @@ kemp21
 
 <div class="figure-caption">
 
-### [McCarthy KR, Rennick LJ, et int., and Duprex WP.](#sec_mccarthy20)
+#### [McCarthy KR, Rennick LJ, et int., and Duprex WP.](#sec_mccarthy20)
 
 McCarthy KR, Rennick LJ, et int., and Duprex WP. “Recurrent deletions in the SARS-CoV-2 spike glycoprotein drive antibody escape.” _bioRxiv_, 2020. [doi.org/10.1101/2020.11.19.389916](https://doi.org/10.1101/2020.11.19.389916).[^McCarthy20]
 
@@ -1506,7 +1514,7 @@ mccarthy20
 
 <div class="figure-caption">
 
-### [Choi B, Choudhary MC, et int., and Li JZ.](#sec_choi20)
+#### [Choi B, Choudhary MC, et int., and Li JZ.](#sec_choi20)
 
 Choi B, Choudhary MC, et int., and Li JZ. “Persistence and Evolution of SARS-CoV-2 in an Immunocompromised Host.” _New England Journal of Medicine_, 2020. [doi.org/10.1056/NEJMc2031364](https://doi.org/10.1056/NEJMc2031364). \[[PubMed33176080](https://www.ncbi.nlm.nih.gov/pubmed/33176080/)\] \[[PMC7673303](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7673303/)\] [^Choi20]
 
@@ -1527,7 +1535,7 @@ choi20
 
 <div class="figure-caption">
 
-### [Avanzato VA, Matson MJ, et int., and Munster VJ.](#sec_avanzato20)
+#### [Avanzato VA, Matson MJ, et int., and Munster VJ.](#sec_avanzato20)
 
 Avanzato VA, Matson MJ, et int., and Munster VJ. “Case Study: Prolonged Infectious SARS-CoV-2 Shedding from an Asymptomatic Immunocompromised Individual with Cancer.” _Cell_, 2020. [doi.org/10.1016/j.cell.2020.10.049](https://doi.org/10.1016/j.cell.2020.10.049). \[[PubMed33248470](https://www.ncbi.nlm.nih.gov/pubmed/33248470/)\] \[[PMC7640888](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7640888/)\] [^Avanzato20]
 
@@ -1548,7 +1556,7 @@ avanzato20
 
 <div class="figure-caption">
 
-### [Bazykin G, Stanevich O, et int., and Lioznov D.](#sec_bazykin20)
+#### [Bazykin G, Stanevich O, et int., and Lioznov D.](#sec_bazykin20)
 
 Bazykin G, Stanevich O, et int., and Lioznov D. “Emergence of Y453F and Δ69-70HV mutations in a lymphoma patient with long-term COVID-19.” Virological.org, 2021. [^Bazykin21]
 
@@ -1569,7 +1577,7 @@ bazykin20
 
 <div class="figure-caption">
 
-### [Khatamzas E, Rehn A, et int., and Antwerpen M.](#sec_khatamzas20)
+#### [Khatamzas E, Rehn A, et int., and Antwerpen M.](#sec_khatamzas20)
 
 Khatamzas E, Rehn A, et int., and Antwerpen M. “Emergence of multiple SARS-CoV-2 mutations in an immunocompromised host.” _medRxiv_, 2021. [doi.org/10.1101/2021.01.10.20248871](https://doi.org/10.1101/2021.01.10.20248871). [^Khatamzas21]
 
@@ -1591,7 +1599,7 @@ khatamzas20
 
 <div class="figure-caption">
 
-### [Chen L, Zody CM, et int., and Kreiswirth BN.](#sec_chen21b)
+#### [Chen L, Zody CM, et int., and Kreiswirth BN.](#sec_chen21b)
 
 Chen L, Zody CM, et int., and Kreiswirth BN. “Emergence of multiple SARS-CoV-2 antibody escape variants in an immunocompromised host undergoing convalescent plasma treatment.” _medRxiv_, 2021. [doi.org/10.1101/2021.04.08.21254791](https://doi.org/10.1101/2021.04.08.21254791). [^Chen21b]
 
@@ -1613,7 +1621,7 @@ chen21b
 
 <div class="figure-caption">
 
-### [Focosi D, Novazzi F, et int., and Maggi F.](#sec_focosi21b)
+#### [Focosi D, Novazzi F, et int., and Maggi F.](#sec_focosi21b)
 
 Focosi D, Novazzi F, et int., and Maggi F. “Emergence of SARS-CoV-2 Spike Escape Mutation Q493r After Bamlanivimab/Etesevimab Treatment for COVID-19.” _Research Square_, 2021. [doi.org/10.21203/rs.3.rs-524959/v1
 ](https://doi.org/10.21203/rs.3.rs-524959/v1). [^Focosi21b]
