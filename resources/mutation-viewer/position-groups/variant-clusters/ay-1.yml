@@ -1,4 +1,4 @@
-name: B.1.617.2
+name: AY.1
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
@@ -34,9 +34,10 @@ positions:
   pos: 19219
 - name: T19R
   pos: 21617
-- name: FR157-158del
-  pos: 22031
-  label: FR157-158Δ
+- name: W258L
+  pos: 22334
+- name: K417N
+  pos: 22811
 - name: L452R
   pos: 22916
 - name: T478K

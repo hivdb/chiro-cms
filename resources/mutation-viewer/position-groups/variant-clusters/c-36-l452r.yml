@@ -1,25 +1,25 @@
-name: P.2
+name: C.36+L452R
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-  name: 3CL:L3468V  # ORF1a:L3468V
-  pos: 10667
+  name: PLpro:T1246I  # ORF1a:T1246I
+  pos: 4001
 - <<: *non-spike
-  name: nsp7:L3930F  # ORF1a:L3930F
-  pos: 12053
+  name: 3CL:G3278S  # ORF1a:G3278S
+  pos: 10097
+- <<: *non-spike
+  name: nsp8:T4090I  # ORF1a:T4090I
+  pos: 12533
 - <<: *non-spike
   name: RdRp:P314L  # ORF1b:P314L
   pos: 14407
-- name: E484K
-  pos: 23012
+- name: L452R
+  pos: 22916
 - name: D614G
   pos: 23402
-- name: V1176F
-  pos: 25088
-- <<: *non-spike
-  name: N:A119S
-  pos: 28628
+- name: Q677H
+  pos: 23591
 - <<: *non-spike
   name: N:R203K
   pos: 28880
@@ -27,5 +27,5 @@ positions:
   name: N:G204R
   pos: 28883
 - <<: *non-spike
-  name: N:M234I
-  pos: 28973
+  name: N:G212V
+  pos: 28907

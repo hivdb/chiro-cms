@@ -1,35 +1,33 @@
 name: B.1.427
-CDC: VOC
-WHO: VOI
 positions:
-- name: nsp2:T85I # ORF1ab:T265I
-  pos: 1059
-  <<: &non-spike
+- <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: nsp4:S395T # ORF1ab:S3158T
-  pos: 9738
-  <<: *non-spike
-- name: RdRP:P323L # ORF1b:P314L
-  pos: 14408
-  <<: *non-spike
-- name: nsp13:P53L  # ORF1b:P976L
-  pos: 16394
-  <<: *non-spike
-- name: nsp13:D260Y  # ORF1b:D1183Y
+  name: nsp2:T265I  # ORF1a:T265I
+  pos: 1058
+- <<: *non-spike
+  name: nsp4:S3158T  # ORF1a:S3158T
+  pos: 9737
+- <<: *non-spike
+  name: RdRp:P314L  # ORF1b:P314L
+  pos: 14407
+- <<: *non-spike
+  name: nsp13:P976L  # ORF1b:P976L
+  pos: 16393
+- <<: *non-spike
+  name: nsp13:D1183Y  # ORF1b:D1183Y
   pos: 17014
-  <<: *non-spike
 - name: S13I
-  pos: 21600
+  pos: 21599
 - name: W152C
-  pos: 22018
+  pos: 22016
 - name: L452R
-  pos: 22917
+  pos: 22916
 - name: D614G
-  pos: 23403
-- name: ORF3a:Q57H
-  pos: 25563
-  <<: *non-spike
-- name: N:T205I
-  pos: 28887
-  <<: *non-spike
+  pos: 23402
+- <<: *non-spike
+  name: ORF3a:Q57H
+  pos: 25561
+- <<: *non-spike
+  name: N:T205I
+  pos: 28886

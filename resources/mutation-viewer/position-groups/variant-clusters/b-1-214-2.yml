@@ -1,0 +1,33 @@
+name: B.1.214.2
+positions:
+- <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+  name: PLpro:I1398V  # ORF1a:I1398V
+  pos: 4457
+- <<: *non-spike
+  name: PLpro:T1881I  # ORF1a:T1881I
+  pos: 5906
+- <<: *non-spike
+  name: nsp8:A4016V  # ORF1a:A4016V
+  pos: 12311
+- <<: *non-spike
+  name: RdRp:P314L  # ORF1b:P314L
+  pos: 14407
+- <<: *non-spike
+  name: RdRp:R574G  # ORF1b:R574G
+  pos: 15187
+- name: Q414K
+  pos: 22802
+- name: N450K
+  pos: 22910
+- name: D614G
+  pos: 23402
+- name: T716I
+  pos: 23708
+- <<: *non-spike
+  name: N:D3L
+  pos: 28280
+- <<: *non-spike
+  name: N:T205I
+  pos: 28886

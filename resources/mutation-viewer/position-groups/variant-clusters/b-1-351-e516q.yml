@@ -1,4 +1,4 @@
-name: B.1.351
+name: B.1.351+E516Q
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
@@ -28,6 +28,8 @@ positions:
   pos: 23012
 - name: N501Y
   pos: 23063
+- name: E516Q
+  pos: 23108
 - name: D614G
   pos: 23402
 - name: A701V

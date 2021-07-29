@@ -1,31 +1,19 @@
 [toc]
 - [Variants with adaptive mutations](#variants.with.adaptive.mutations)
-  - [Alpha variant, aka B.1.1.7, 501Y.V1, 20I/501Y.V1, and UK COVID variant](#sec_alpha)
-  - [Alpha variant with S:E484K](#sec_alpha-484k)
-  - [Beta variant, aka B.1.351, 501Y.V2, 20C/501Y.V2, and South African COVID-19 variant](#sec_beta)
-  - [Gamma variant, aka P.1, B.1.1.28.1, 20J/501Y.V3, and K417T/E484K/N501Y](#sec_gamma)
-  - [Delta variant, aka B.1.617.2](#sec_delta)
-  - [Epsilon variant, aka B.1.427/B.1.429, and CAL.20C/S:452R](#sec_epsilon)
-  - [Zeta variant, aka P.2, evolved from B.1.1.28](#sec_zeta)
-  - [Eta variant, aka B.1.525](#sec_eta)
-  - [Theta variant, aka P.3, and PHL-B.1.1.28](#sec_theta)
-  - [Iota variant, aka B.1.526](#sec_iota)
-  - [Kappa variant, aka B.1.617.1](#sec_kappa)
-  - [Lambda variant, aka C.37, and B.1.1.1 sublineage in Peru and Chile](#sec_lambda)
-  - [B.1.x](#sec_b-1-x)
-  - [B.1.617.3](#sec_b-1-617-3)
-  - [B.1.620](#sec_b-1-620)
-  - [B.1.621](#sec_b-1-621)
-  - [B.1.258, aka N439K](#sec_n439k)
-  - [B.1.1.298, aka Cluster 5](#sec_cluster5)
-  - [R.1](#sec_r-1)
-  - [COH.20G/501Y, EPI_ISL_832378 and EPI_ISL_826521](#sec_coh-20g-501y)
-  <!-- - [COH.20G/677H, EPI_ISL_826463](#sec_coh-20g-677h) -->
-  - [N.9](#sec_n9)
-  - [A.VOI.V2](#sec_a-voi-v2)
-  - [A.23](#sec_a-23)
-  - [A.27](#sec_a-27)
-  - [AV.1](#sec_av-1)
+  - [Alpha, aka B.1.1.7, 501Y.V1, 20I/501Y.V1, and UK COVID variant](#alpha)
+  - [Beta, aka B.1.351, 501Y.V2, 20C/501Y.V2, and South African COVID-19 variant](#beta)
+  - [Gamma, aka P.1, B.1.1.28.1, 20J/501Y.V3, and K417T/E484K/N501Y](#gamma)
+  - [Delta, aka B.1.617.2](#delta)
+  - [Eta variant, aka B.1.525](#eta)
+  - [Iota variant, aka B.1.526](#iota)
+  - [Kappa variant, aka B.1.617.1](#kappa)
+  - [Lambda variant, aka C.37, and B.1.1.1 sublineage in Peru and Chile](#lambda)
+  - [Other WHO Listed Variants](#other.who.listed.variants)
+  - [Other CDC Listed Variants](#other.cdc.listed.variants)
+  - [Other COG-UK Listed Variants](#other.cog-uk.listed.variants)
+  - [Other ECDC Listed Variants](#other.ecdc.listed.variants)
+  - [Other](#other.variants)
+  - [SARS-COV-2 Variants Tracking sites](#sars-cov-2.variants.tracking.sites)
 - [Prolonged Infections](#prolonged.infections)
   - [Kemp S, Collier DA, et int., and Gupta RK.](#sec_kemp21)
   - [McCarthy KR, Rennick LJ, et int., and Duprex WP.](#sec_mccarthy20)
@@ -41,14 +29,17 @@
 
 ## Variants with adaptive mutations
 
-<!-- Alpha variant -->
-<section id="sec_alpha" class="figure-section compact">
+<!-- Alpha -->
+### Alpha
+
+<!-- B.1.1.7-->
+<section id="sec_b-1-1-7" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [Alpha variant, aka B.1.1.7, 501Y.V1, 20I/501Y.V1, and UK COVID variant](#sec_alpha)
+### [B.1.1.7](#sec_b-1-1-7)
 
-Rambaut A, Loman N, et int., and Volz E. “Preliminary genomic characterisation of an emergent SARS-CoV-2 lineage in the UK defined by a novel set of spike mutations.” Virological.org, 2020. [^Rambaut20]
+Listed by: WHO, CDC, COG-UK, ECDC
 
 [Outbreak.info B.1.1.7 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.1.7) [^Outbreak20]
 
@@ -64,35 +55,88 @@ b-1-1-7
 
 </section>
 
-<!-- Alpha E484K-->
-<section id="sec_alpha-484k" class="figure-section compact">
+<!-- B.1.1.7+E484K-->
+<section id="sec_b-1-1-7-e484k" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [Alpha variant with S:E484K](#sec_alpha-484k)
+### [B.1.1.7+E484K](#sec_b-1-1-7-e484k)
 
-[B.1.1.7 Lineage with S:E484K Report](https://outbreak.info/situation-reports?pango=B.1.1.7&muts=S%3AE484K) [^Outbreak20]
+Listed by: WHO, COG-UK, ECDC
+
+[Outbreak.info B.1.1.7+E484K Lineage with S:E484K Report](https://outbreak.info/situation-reports?pango=B.1.1.7&muts=S%3AE484K) [^Outbreak20]
 
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
-b-1-1-7-484k
+b-1-1-7-e484k
 [/genomemap]
 
 </div>
 
 </section>
 
-<!-- Beta variant -->
-<section id="sec_beta" class="figure-section compact">
+<!-- B.1.1.7+L452R-->
+<section id="sec_b-1-1-7-l452r" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [Beta variant, aka B.1.351, 501Y.V2, 20C/501Y.V2, and South African COVID-19 variant](#sec_beta)
+### [B.1.1.7+L452R](#sec_b-1-1-7-l452r)
 
-Tegally H, Wilkinson E, et int., and Oliveira T. “Detection of a SARS-CoV-2 variant of concern in South Africa.” _nature_, 2020. [doi.org/10.1038/s41586-021-03402-9](https://doi.org/10.1038/s41586-021-03402-9). [^Tegally21]
+Listed by: WHO, ECDC
+
+
+[Outbreak.info B.1.1.7+L452R Lineage with S:L452R Report](https://outbreak.info/situation-reports?pango=B.1.1.7&muts=S%3AL452R) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-1-7-l452r
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- B.1.1.7+S494P-->
+<section id="sec_b-1-1-7-s494p" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.1.7+S494P](#sec_b-1-1-7-s494p)
+
+Listed by: ECDC
+
+
+[Outbreak.info B.1.1.7+S494P Lineage with S:S494P Report](https://outbreak.info/situation-reports?pango=B.1.1.7&muts=S%3AS494P) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-1-7-s494p
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- Beta -->
+### Beta
+
+<!-- B.1.351-->
+<section id="sec_b-1-351" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.351](#sec_b-1-351)
+
+Listed by: WHO, CDC, COG-UK, ECDC
 
 [Outbreak.info B.1.351 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.351) [^Outbreak20]
 
@@ -108,14 +152,137 @@ b-1-351
 
 </section>
 
-<!-- Gamma variant -->
-<section id="sec_gamma" class="figure-section compact">
+
+<!-- B.1.351+E516Q-->
+<section id="sec_b-1-351-e516q" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [Gamma variant, aka P.1, B.1.1.28.1, 20J/501Y.V3 variant, and K417T/E484K/N501Y](#sec_gamma)
+### [B.1.351+E516Q](#sec_b-1-351-e516q)
 
-Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
+Listed by: ECDC
+
+[Outbreak.info B.1.351+E516Q Lineage with S:E516Q Report](https://outbreak.info/situation-reports?pango=B.1.351&muts=S%3AE516Q) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-351-e516q
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.351+L18F-->
+<section id="sec_b-1-351-l18f" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.351+L18F](#sec_b-1-351-l18f)
+
+Listed by: WHO
+
+[Outbreak.info B.1.351+L18F Lineage with S:L18F Report](https://outbreak.info/situation-reports?pango=B.1.351&muts=S%3AL18F) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-351-l18f
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.351+P384L-->
+<section id="sec_b-1-351-p384l" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.351+P384L](#sec_b-1-351-p384l)
+
+Listed by: ECDC
+
+[Outbreak.info B.1.351+P384L Lineage with S:P384L Report](https://outbreak.info/situation-reports?pango=B.1.351&muts=S%3AP384L) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-351-p384l
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.351.2-->
+<section id="sec_b-1-351-2" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.351.2](#sec_b-1-351-2)
+
+Listed by: WHO
+
+[Outbreak.info B.1.351.2 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.351.2) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-351-2
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.351.3-->
+<section id="sec_b-1-351-3" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.351.3](#sec_b-1-351-3)
+
+Listed by: WHO
+
+[Outbreak.info B.1.351.3 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.351.3) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-351-3
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- Gamma -->
+### Gamma
+
+<!-- P.1-->
+<section id="sec_p-1" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [P.1](#sec_p-1)
+
+Listed by: WHO, CDC, COG-UK, ECDC
 
 [Outbreak.info P.1 Lineage Report](https://outbreak.info/situation-reports?pango=P.1) [^Outbreak20]
 
@@ -131,12 +298,93 @@ p-1
 
 </section>
 
-<!-- Delta variant -->
-<section id="sec_delta" class="figure-section compact">
+
+<!-- P.1+P681H-->
+<section id="sec_p-1-p681h" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [Delta variant, aka B.1.617.2](#sec_delta)
+### [P.1+P681H](#sec_p-1-p681h)
+
+Listed by: WHO, ECDC
+
+
+[Outbreak.info P.1+P681H Lineage with S:P681H Report](https://outbreak.info/situation-reports?pango=P.1&muts=S%3AP681H) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+p-1-p681h
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- P.1.1-->
+<section id="sec_p-1-1" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [P.1.1](#sec_p-1-1)
+
+Listed by: WHO
+
+
+[Outbreak.info P.1.1 Lineage Report](https://outbreak.info/situation-reports?pango=P.1.1) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+p-1-1
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- P.1.2-->
+<section id="sec_p-1-2" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [P.1.2](#sec_p-1-2)
+
+Listed by: WHO
+
+
+[Outbreak.info P.1.2 Lineage Report](https://outbreak.info/situation-reports?pango=P.1.2) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+p-1-2
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- Delta -->
+### Delta
+
+<!-- B.1.617.2-->
+<section id="sec_b-1-617-2" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.617.2](#sec_b-1-617-2)
+
+Listed by: WHO, CDC, COG-UK, ECDC
+
 
 [Outbreak.info B.1.617.2 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.2) [^Outbreak20]
 
@@ -152,18 +400,300 @@ b-1-617-2
 
 </section>
 
-<!-- Epsilon variant -->
-<section id="sec_epsilon" class="figure-section compact">
+
+<!-- B.1.617.2+K417N-->
+<section id="sec_b-1-617-2-k417n" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [Epsilon, aka B.1.427/B.1.429, and CAL.20C/S:452R](#sec_epsilon)
+### [B.1.617.2+K417N](#sec_b-1-617-2-k417n)
 
-Deng X, Garcia-Knight MA, et int., and Chiu CY. “Transmission, infectivity, and antibody neutralization of an emerging SARS-CoV-2 variant in California carrying a L452R spike protein mutation.” _medRxiv_, 2021. [doi.org/10.1101/2021.03.07.21252647](https://doi.org/10.1101/2021.03.07.21252647).[^Deng21]
+Listed by: WHO, ECDC
+
+
+[Outbreak.info B.1.617.2+K417N Lineage with S:K417N Report](https://outbreak.info/situation-reports?pango=B.1.617.2&muts=S%3AK417N) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-617-2-k417n
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- AY.1-->
+<section id="sec_ay-1" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [AY.1](#sec_ay-1)
+
+Listed by: WHO
+
+
+[Outbreak.info AY.1 Lineage Report](https://outbreak.info/situation-reports?pango=AY.1) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ay-1
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- AY.2-->
+<section id="sec_ay-2" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [AY.2](#sec_ay-2)
+
+Listed by: WHO
+
+
+[Outbreak.info AY.2 Lineage Report](https://outbreak.info/situation-reports?pango=AY.2) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ay-2
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- AY.3-->
+<section id="sec_ay-3" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [AY.3](#sec_ay-3)
+
+Listed by: WHO
+
+
+[Outbreak.info AY.3 Lineage Report](https://outbreak.info/situation-reports?pango=AY.3) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ay-3
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- Eta -->
+### Eta
+<!-- B.1.525-->
+<section id="sec_b-1-525" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.525](#sec_b-1-525)
+
+Listed by: WHO, CDC, COG-UK, ECDC
+
+
+[Outbreak.info B.1.525 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.525) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-525
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- Iota -->
+### Iota
+
+<!-- B.1.526-->
+<section id="sec_b-1-526" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.526](#sec_b-1-526)
+
+Listed by: WHO, CDC, ECDC
+
+[Outbreak.info B.1.526 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.526) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-526
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.526.1-->
+<section id="sec_b-1-526-1" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.526.1](#sec_b-1-526-1)
+
+Listed by: ECDC
+
+
+[Outbreak.info B.1.526.1 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.526.1) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-526-1
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.526.2-->
+<section id="sec_b-1-526-2" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.526.2](#sec_b-1-526-2)
+
+Listed by: ECDC
+
+[Outbreak.info B.1.526.2 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.526.2) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-526-2
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- Kappa -->
+### Kappa
+
+
+<!-- B.1.617.1-->
+<section id="sec_b-1-617-1" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.617.1](#sec_b-1-617-1)
+
+Listed by: WHO, CDC, COG-UK
+
+
+[Outbreak.info B.1.617.1 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.1) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-617-1
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- Lambda -->
+### Lambda
+
+<!-- C.37-->
+<section id="sec_c-37" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [C.37](#sec_c-37)
+
+Listed by: WHO, ECDC
+
+
+[Outbreak.info C.37 Lineage Report](https://outbreak.info/situation-reports?pango=C.37) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+c-37
+[/genomemap]
+
+</div>
+
+</section>
+
+### Other WHO Listed Variants
+
+<!-- B.1.427-->
+<section id="sec_b-1-427" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.427](#sec_b-1-427)
+
+Listed by: WHO, CDC, ECDC
+
 
 [Outbreak.info B.1.427 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.427) [^Outbreak20]
 
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-427
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.429-->
+<section id="sec_b-1-429" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.429](#sec_b-1-429)
+
+Listed by: WHO, CDC, ECDC
+
 [Outbreak.info B.1.429 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.429) [^Outbreak20]
+
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
@@ -176,13 +706,258 @@ b-1-429
 
 </section>
 
-<!-- Zeta variant -->
-<section id="sec_zeta" class="figure-section compact">
+<!-- B.1.1.318-->
+<section id="sec_b-1-1-318" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [Zeta variant, aka P.2, evolved from B.1.1.28](#sec_zeta)
-Naveca F, Nascimento V, et int., and Bello G. “Phylogenetic relationship of SARS-CoV-2 sequences from Amazonas with emerging Brazilian variants harboring mutations E484K and N501Y in the Spike protein.” Virological.org, 2021.[^Naveca21][^Faria21]
+### [B.1.1.318](#sec_b-1-1-318)
+
+Listed by: WHO, COG-UK, ECDC
+
+[Outbreak.info B.1.1.318 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.1.318) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-1-318
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.1.519-->
+<section id="sec_b-1-1-519" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.1.519](#sec_b-1-1-519)
+
+Listed by: WHO, ECDC
+
+
+[Outbreak.info B.1.1.519 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.1.519) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-1-519
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.1.523-->
+<section id="sec_b-1-1-523" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.1.523](#sec_b-1-1-523)
+
+Listed by: WHO
+
+
+[Outbreak.info B.1.1.523 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.1.523) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-1-523
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.214.2-->
+<section id="sec_b-1-214-2" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.214.2](#sec_b-1-214-2)
+
+Listed by: WHO, ECDC
+
+
+[Outbreak.info B.1.214.2 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.214.2) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-214-2
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- B.1.466.2-->
+<section id="sec_b-1-466-2" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.466.2](#sec_b-1-466-2)
+
+Listed by: WHO
+
+
+[Outbreak.info B.1.466.2 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.466.2) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-466-2
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- B.1.619-->
+<section id="sec_b-1-619" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.619](#sec_b-1-619)
+
+Listed by: WHO
+
+
+[Outbreak.info B.1.619 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.619) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-619
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.620-->
+<section id="sec_b-1-620" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.620](#sec_b-1-620)
+
+Listed by: WHO, CDC
+
+[Outbreak.info B.1.620 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.620) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-620
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.621-->
+<section id="sec_b-1-621" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.621](#sec_b-1-621)
+
+Listed by: WHO, CDC
+
+
+[Outbreak.info B.1.621 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.621) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-621
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- C.36.3-->
+<section id="sec_c-36-3" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [C.36.3](#sec_c-36-3)
+
+Listed by: WHO
+
+
+[Outbreak.info C.36.3 Lineage Report](https://outbreak.info/situation-reports?pango=C.36.3) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+c-36-3
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- C.36.3.1-->
+<section id="sec_c-36-3-1" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [C.36.3.1](#sec_c-36-3-1)
+
+Listed by: WHO
+
+[Outbreak.info C.36.3.1 Lineage Report](https://outbreak.info/situation-reports?pango=C.36.3.1) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+c-36-3-1
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- P.2-->
+<section id="sec_p-2" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [P.2](#sec_p-2)
+
+Listed by: WHO, COG-UK, ECDC
+
 
 [Outbreak.info P.2 Lineage Report](https://outbreak.info/situation-reports?pango=P.2) [^Outbreak20]
 
@@ -199,36 +974,14 @@ p-2
 </section>
 
 
-<!-- Eta variant -->
-<section id="sec_eta" class="figure-section compact">
+<!-- P.3-->
+<section id="sec_p-3" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [Eta variant, aka B.1.525](#sec_eta)
+### [P.3](#sec_p-3)
 
-[Outbreak.info B.1.525 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.525) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-b-1-525
-[/genomemap]
-
-</div>
-
-</section>
-
-<!-- Theta variant -->
-<section id="sec_theta" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [Theta variant, aka P.3, and PHL-B.1.1.28](#sec_theta)
-
-Tablizo FA, Kim KM, et int., and Saloma CP. “Genome sequencing and analysis of an emergent SARS-CoV-2 variant characterized by multiple spike protein mutations detected from the Central Visayas Region of the Philippines.” _bioRxiv_, 2021. [doi.org/10.1101/2021.03.03.21252812](https://doi.org/10.1101/2021.03.03.21252812
-). [^Tablizo21]
+Listed by: WHO, COG-UK, ECDC
 
 [Outbreak.info P.3 Lineage Report](https://outbreak.info/situation-reports?pango=P.3) [^Outbreak20]
 
@@ -237,73 +990,375 @@ Tablizo FA, Kim KM, et int., and Saloma CP. “Genome sequencing and analysis of
 <div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
-phl-b-1-1-28
+p-3
 [/genomemap]
 
 </div>
 
 </section>
 
-<!-- Iota variant -->
-<section id="sec_iota" class="figure-section compact">
+
+<!-- R.1-->
+<section id="sec_r-1" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [Iota variant, aka B.1.526](#sec_iota)
+### [R.1](#sec_r-1)
 
-West A, Barnes C, et int., and Bjorkman P. “SARS-CoV-2 lineage B.1.526 emerging in the New York region detected by software utility created to query the spike mutational landscape.” _bioRxiv_, 2020. [doi.org/10.1101/2021.02.14.431043](https://doi.org/10.1101/2021.02.14.431043). [^West21]
+Listed by: WHO
 
-[Outbreak.info B.1.526 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.526) [^Outbreak20]
+
+[Outbreak.info R.1 Lineage Report](https://outbreak.info/situation-reports?pango=R.1) [^Outbreak20]
 
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
-b-1-526
+r-1
 [/genomemap]
 
 </div>
 
 </section>
 
-<!-- Kappa variant -->
-<section id="sec_kappa" class="figure-section compact">
+
+
+<!-- R.2-->
+<section id="sec_r-2" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [Kappa variant, aka B.1.617.1](#sec_kappa)
+### [R.2](#sec_r-2)
 
-[Outbreak.info B.1.617.1 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.1) [^Outbreak20]
+Listed by: WHO
+
+[Outbreak.info R.2 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.1.316&muts=S%3AE484K) [^Outbreak20]
 
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
-b-1-617-1
+r-2
 [/genomemap]
 
 </div>
 
 </section>
 
-<!-- Lambda variant -->
-<section id="sec_lambda" class="figure-section compact">
+### Other CDC Listed Variants
+
+<!-- B.1.617.3-->
+<section id="sec_b-1-617-3" class="figure-section compact">
 
 <div class="figure-caption">
 
-### [Lambda variant, aka C.37, and B.1.1.1 sublineage in Peru and Chile](#sec_lambda)
-Romero PE, Davila-Barclay A, et int., and Tsukayama P. “Novel sublineage within B.1.1.1 currently expanding in Peru and Chile, with a convergent deletion in the ORF1a gene (Δ3675-3677) and a novel deletion in the Spike gene (Δ246-252, G75V, T76I, L452Q, F490S, T859N).” Virological.org, 2021. [^Romero21]
+### [B.1.617.3](#sec_b-1-617-3)
 
-[Outbreak.info C.37 Lineage Report](https://outbreak.info/situation-reports?pango=C.37) [^Outbreak20]
+Listed by: CDC, COG-UK, ECDC
+
+[Outbreak.info B.1.617.3 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.3) [^Outbreak20]
 
 </div>
 
 <div class="figure-image" style="min-width: 61.8%;">
 
 [genomemap]
-b-1-1-1-sub
+b-1-617-3
+[/genomemap]
+
+</div>
+
+</section>
+
+### Other COG-UK Listed Variants
+
+<!-- A.23-->
+<section id="sec_a-23" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [A.23](#sec_a-23)
+
+Listed by: COG-UK
+
+[Outbreak.info A.23 Lineage Report](https://outbreak.info/situation-reports?pango=A.23) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+a-23
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- A.23.1+E484K-->
+<section id="sec_a-23-1-e484k" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [A.23.1+E484K](#sec_a-23-1-e484k)
+
+Listed by: COG-UK, ECDC
+
+[Outbreak.info A.23.1+E484K Lineage with S:E484K Report](https://outbreak.info/situation-reports?pango=A.23.1&muts=S%3AE484K) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+a-23-1-e484k
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- AV.1-->
+<section id="sec_av-1" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [AV.1](#sec_av-1)
+
+Listed by: COG-UK, ECDC
+
+[Outbreak.info AV.1 Lineage Report](https://outbreak.info/situation-reports?pango=AV.1) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+av-1
+[/genomemap]
+
+</div>
+
+</section>
+
+### Other ECDC Listed Variants
+
+<!-- A.27-->
+<section id="sec_a-27" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [A.27](#sec_a-27)
+
+Listed by: ECDC
+
+[Outbreak.info A.27 Lineage Report](https://outbreak.info/situation-reports?pango=A.27) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+a-27
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- A.28-->
+<section id="sec_a-28" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [A.28](#sec_a-28)
+
+Listed by: ECDC
+
+[Outbreak.info A.28 Lineage Report](https://outbreak.info/situation-reports?pango=A.28) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+a-28
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- AT.1-->
+<section id="sec_at-1" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [AT.1](#sec_at-1)
+
+Listed by: ECDC
+
+
+[Outbreak.info AT.1 Lineage Report](https://outbreak.info/situation-reports?pango=AT.1) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+at-1
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- B.1.616-->
+<section id="sec_b-1-616" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.616](#sec_b-1-616)
+
+Listed by: ECDC
+
+
+[Outbreak.info B.1.616 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.616) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-616
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- C.16-->
+<section id="sec_c-16" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [C.16](#sec_c-16)
+
+Listed by: ECDC
+
+
+[Outbreak.info C.16 Lineage Report](https://outbreak.info/situation-reports?pango=C.16) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+c-16
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- C.36+L452R-->
+<section id="sec_c-36-l452r" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [C.36+L452R](#sec_c-36-l452r)
+
+Listed by: ECDC
+
+
+[Outbreak.info C.36+L452R Lineage with S:L452R Report](https://outbreak.info/situation-reports?pango=C.36&muts=S%3AL452R) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+c-36-l452r
+[/genomemap]
+
+</div>
+
+</section>
+
+
+### Other Variants
+
+<!-- B.1.1.298 (Cluster 5)-->
+<section id="sec_b-1-1-298" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.1.298 (Cluster 5)](#sec_b-1-1-298)
+
+Lassaunière R, Fonager J, et int., and Fomsgaard A. “SARS-CoV-2 spike mutations arising in Danish mink and their spread to humans.” Statens Serum Institut, 2020. [^Lassauniere20]
+
+[Outbreak.info B.1.1.298 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.1.298) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-1-298
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- B.1.258 (N439K)-->
+<section id="sec_b-1-258" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [B.1.258 (N439K)](#sec_b-1-258)
+
+Thomson EC, Rosen LE, et int., and Snell G. “Circulating SARS-CoV-2 spike N439K variants maintain fitness while evading antibody-mediated immunity.” _Cell_, 2021. [doi.org/10.1016/j.cell.2021.01.037](https://doi.org/10.1016/j.cell.2021.01.037). [^Thomson21]
+
+[Outbreak.info B.1.258 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.258) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-258
+[/genomemap]
+
+</div>
+
+</section>
+
+<!-- N.9-->
+<section id="sec_n-9" class="figure-section compact">
+
+<div class="figure-caption">
+
+### [N.9](#sec_n-9)
+
+Resende PC, Graf T, et int., and Siqueira MM. “A potential SARS-CoV-2 variant of interest (VOI) harboring mutation E484K in the Spike protein was identified within lineage B.1.1.33 circulating in Brazil.” _biorxiv_, 2021. [doi.org/10.1101/2021.03.12.434969](https://doi.org/10.1101/2021.03.12.434969) [^Resende21]
+
+
+[Outbreak.info N.9 Lineage Report](https://outbreak.info/situation-reports?pango=N.9) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+n-9
 [/genomemap]
 
 </div>
@@ -325,165 +1380,6 @@ Thornlow B, Hinrichs AS, et int., and Corbett-Detig R. “A new SARS-CoV-2 linea
 
 [genomemap]
 b-1-x
-[/genomemap]
-
-</div>
-
-</section>
-
-<!-- B.1.617
-<section id="sec_b-1-617" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [B.1.617](#sec_b-1-617)
-
-[Outbreak.info B.1.617 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-b-1-617
-[/genomemap]
-
-</div>
-
-</section>
-
---><!-- B.1.617.3 -->
-<section id="sec_b-1-617-3" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [B.1.617.3](#sec_b-1-617-3)
-
-[Outbreak.info B.1.617.3 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.617.3) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-b-1-617-3
-[/genomemap]
-
-</div>
-
-</section>
-
-
-<!-- B.1.620 -->
-<section id="sec_b-1-620" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [B.1.620](#sec_b-1-620)
-
-Dudas G, Hong SL, et int., and Baele G. “Travel-driven emergence and spread of SARS-CoV-2 lineage B.1.620 with multiple VOC-like mutations and deletions in Europe.” _medRxiv_, 2021. [doi.org/10.1101/2021.05.04.21256637](https://doi.org/10.1101/2021.05.04.21256637). [^Dudas21]
-
-[Outbreak.info B.1.620 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.620) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-b-1-620
-[/genomemap]
-
-</div>
-
-</section>
-
-
-<!-- B.1.621 -->
-<section id="sec_b-1-621" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [B.1.621](#sec_b-1-621)
-
-Laiton-Donato K, Franco-Munoz C, et int., and Mercado-Reyes M. “Characterization of the emerging B.1.621 variant of interest of SARS-CoV-2.” _medRxiv_, 2021. [doi.org/10.1101/2021.05.08.21256619](https://doi.org/10.1101/2021.05.08.21256619). [^Laiton-Donato21]
-
-[Outbreak.info B.1.621 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.621) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-b-1-621
-[/genomemap]
-
-</div>
-
-</section>
-
-<!-- B.1.258 -->
-<section id="sec_n439k" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [B.1.258, aka N439K](#sec_n439k)
-
-Thomson EC, Rosen LE, et int., and Snell G. “Circulating SARS-CoV-2 spike N439K variants maintain fitness while evading antibody-mediated immunity.” _Cell_, 2021. [doi.org/10.1016/j.cell.2021.01.037](https://doi.org/10.1016/j.cell.2021.01.037). [^Thomson21]
-
-[Outbreak.info B.1.258 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.258) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-n439k
-[/genomemap]
-
-</div>
-
-</section>
-
-<!-- Cluster 5 -->
-<section id="sec_cluster5" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [B.1.1.298, aka Cluster 5](#sec_cluster5)
-Lassaunière R, Fonager J, et int., and Fomsgaard A. “SARS-CoV-2 spike mutations arising in Danish mink and their spread to humans.” Statens Serum Institut, 2020. [^Lassauniere20]
-
-[Outbreak.info B.1.1.298 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.1.298) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-cluster5
-[/genomemap]
-
-</div>
-
-</section>
-
-<!-- R1 -->
-<section id="sec_r-1" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [R.1](#sec_r-1)
-
-Hirotsu Y and Omata M. "Detection of R.1 lineage severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) with spike protein W152L/E484K/G769V mutations in Japan." _PLOS PATHOGENS_, 2021. [doi.org/10.1371/journal.ppat.1009619](https://doi.org/10.1371/journal.ppat.1009619) [^Hirotsu21]
-
-
-[Outbreak.info R.1 Lineage Report](https://outbreak.info/situation-reports?pango=R.1) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-r-1
 [/genomemap]
 
 </div>
@@ -532,29 +1428,6 @@ coh-20g-677h
 
 </section> -->
 
-<!-- N.9 -->
-<section id="sec_n9" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [N.9](#sec_n9)
-Resende PC, Graf T, et int., and Siqueira MM. “A potential SARS-CoV-2 variant of interest (VOI) harboring mutation E484K in the Spike protein was identified within lineage B.1.1.33 circulating in Brazil.” _biorxiv_, 2021. [doi.org/10.1101/2021.03.12.434969](https://doi.org/10.1101/2021.03.12.434969) [^Resende21]
-
-[Outbreak.info N.9 Lineage Report](https://outbreak.info/situation-reports?pango=N.9) [^Outbreak20]
-
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-n9
-[/genomemap]
-
-</div>
-
-</section>
-
 <!-- A.VOI.V2 -->
 <section id="sec_a-voi-v2" class="figure-section compact">
 
@@ -575,73 +1448,14 @@ a-voi-v2
 
 </section>
 
-<!-- A.23 -->
-<section id="sec_a-23" class="figure-section compact">
 
-<div class="figure-caption">
+### SARS-COV-2 Variants Tracking sites
 
-### [A.23](#sec_a-23)
-
-[Outbreak.info A.23 Lineage Report](https://outbreak.info/situation-reports?pango=A.23) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-a-23
-[/genomemap]
-
-</div>
-
-</section>
-
-
-<!-- A.27 -->
-<section id="sec_a-27" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [A.27](#sec_a-27)
-Calvignac-Spencer S, Budt M, et int., and Holzer M. “Emergence of SARS-CoV-2 lineage A.27 in Germany, expressing viral spike proteins with several amino acid replacements of interest, including L18F, L452R, and N501Y in the absence of D614G.” Virological.org, 2021. [^Calvignac-Spencer21]
-
-[Outbreak.info A.27 Lineage Report](https://outbreak.info/situation-reports?pango=A.27) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-a-27
-[/genomemap]
-
-</div>
-
-</section>
-
-
-<!-- AV.1 -->
-<section id="sec_av-1" class="figure-section compact">
-
-<div class="figure-caption">
-
-### [AV.1](#sec_av-1)
-Hsu S, Parker MD, et int., and de Silva TI. “Detection of Spike Mutations; D80G, T95I, G142D, △144, N439K, E484K, P681H, I1130V, and D1139H, in B.1.1.482 Lineage (AV.1) Samples from South Yorkshire, UK.” Virological.org, 2021. [^Hsu21]
-
-[Outbreak.info AV.1 Lineage Report](https://outbreak.info/situation-reports?pango=AV.1) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-av-1
-[/genomemap]
-
-</div>
-
-</section>
-
+- [WHO Tracking SARS-CoV-2 variants](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/)
+- [CDC SARS-CoV-2 Variant Classifications and Definitions](https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-info.html)
+- [COG-UK Variants of concern or under investigation](https://www.gov.uk/government/publications/covid-19-variants-genomically-confirmed-case-numbers/variants-distribution-of-cases-data)
+- [ECDC SARS-CoV-2 variants of concern](https://www.ecdc.europa.eu/en/covid-19/variants-concern)
+- [Pango lineages](https://cov-lineages.org/lineage_list.html)
 
 ## Prolonged Infections
 

@@ -1,23 +1,23 @@
 name: A.27
 positions:
-- name: nsp2:P106L #ORF1a:P286L
-  pos: 1121
-  <<: &non-spike
+- <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: nsp4:D217G #ORF1a:D2980G
+  name: nsp2:P286L  # ORF1a:P286L
+  pos: 1121
+- <<: *non-spike
+  name: nsp4:D2980G  # ORF1a:D2980G
   pos: 9203
-  <<: *non-spike
-- name: nsp6:N82S #ORF1:N3651S
+- <<: *non-spike
+  name: nsp6:N3651S  # ORF1a:N3651S
   pos: 11216
-  <<: *non-spike
-- name: nsp13:P77L # ORF1b:P1000L
+- <<: *non-spike
+  name: nsp13:P1000L  # ORF1b:P1000L
   pos: 16465
-  <<: *non-spike
 - name: L18F
   pos: 21614
 - name: L452R
-  pos: 22917
+  pos: 22916
 - name: N501Y
   pos: 23063
 - name: A653V
@@ -28,28 +28,23 @@ positions:
   pos: 23948
 - name: G1219V
   pos: 25217
-- name: ORF3a:V50A
+- <<: *non-spike
+  name: ORF3a:V50A
   pos: 25540
-  <<: *non-spike
-- name: ORF3a:NP257-258del
+- <<: *non-spike
+  name: ORF3a:NP257-258del
+  pos: 26161
   label: ORF3a:NP257-258Δ
-  pos: 26164
-  <<: *non-spike
-# - name: ORF3a:259del
-#   label: ORF3a:259Δ
-#   pos: 26167
-#   <<: *non-spike
-- name: ORF6:63del
-  label: ORF6:63Δ
+- <<: *non-spike
+  name: ORF6:6363
   pos: 27388
-  <<: *non-spike
-- name: ORF8:L84S
+- <<: *non-spike
+  name: ORF8:L84S
   pos: 28143
-  <<: *non-spike
-- name: ORF8:119-120del
-  label: ORF8:119-120Δ
+- <<: *non-spike
+  name: ORF8:DF119-120del
   pos: 28248
-  <<: *non-spike
-- name: N:S202N
+  label: ORF8:DF119-120Δ
+- <<: *non-spike
+  name: N:S202N
   pos: 28877
-  <<: *non-spike

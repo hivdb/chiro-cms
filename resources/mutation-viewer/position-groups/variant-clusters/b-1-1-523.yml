@@ -1,0 +1,69 @@
+name: B.1.1.523
+positions:
+- <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+  name: nsp2:N449D  # ORF1a:N449D
+  pos: 1610
+- <<: *non-spike
+  name: PLpro:M902V  # ORF1a:M902V
+  pos: 2969
+- <<: *non-spike
+  name: PLpro:R2115I  # ORF1a:R2115I
+  pos: 6608
+- <<: *non-spike
+  name: 3CL:V3566I  # ORF1a:V3566I
+  pos: 10961
+- <<: *non-spike
+  name: nsp6:V3653F  # ORF1a:V3653F
+  pos: 11222
+- <<: *non-spike
+  name: nsp10:T4364I  # ORF1a:T4364I
+  pos: 13355
+- <<: *non-spike
+  name: RdRp:S220N  # ORF1b:S220N
+  pos: 14125
+- <<: *non-spike
+  name: RdRp:P314L  # ORF1b:P314L
+  pos: 14407
+- <<: *non-spike
+  name: nsp13:P1000L  # ORF1b:P1000L
+  pos: 16465
+- <<: *non-spike
+  name: nsp13:L1378M  # ORF1b:L1378M
+  pos: 17599
+- name: EFR156-158del
+  pos: 22028
+  label: EFR156-158Δ
+- name: F306L
+  pos: 22478
+- name: E484K
+  pos: 23012
+- name: S494P
+  pos: 23042
+- name: D614G
+  pos: 23402
+- name: E780A
+  pos: 23900
+- name: D839V
+  pos: 24077
+- name: T1027I
+  pos: 24641
+- <<: *non-spike
+  name: ORF3a:S171L
+  pos: 25903
+- <<: *non-spike
+  name: ORF3a:V201F
+  pos: 25993
+- <<: *non-spike
+  name: M:I82T
+  pos: 26766
+- <<: *non-spike
+  name: N:R203K
+  pos: 28880
+- <<: *non-spike
+  name: N:G204R
+  pos: 28883
+- <<: *non-spike
+  name: N:G212C
+  pos: 28907

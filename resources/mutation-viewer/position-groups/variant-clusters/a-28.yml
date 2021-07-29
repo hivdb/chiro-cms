@@ -1,0 +1,35 @@
+name: A.28
+positions:
+- <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+  name: nsp1:V86F  # ORF1a:V86F
+  pos: 521
+- <<: *non-spike
+  name: 3CL:A3529T  # ORF1a:A3529T
+  pos: 10850
+- <<: *non-spike
+  name: nsp13:A975V  # ORF1b:A975V
+  pos: 16390
+- <<: *non-spike
+  name: nsp13:D1183Y  # ORF1b:D1183Y
+  pos: 17014
+- name: HV69-70del
+  pos: 21767
+  label: HV69-70Δ
+- name: N501T
+  pos: 23063
+- name: H655Y
+  pos: 23525
+- <<: *non-spike
+  name: ORF3a:S171L
+  pos: 25903
+- <<: *non-spike
+  name: ORF8:L84S
+  pos: 28143
+- <<: *non-spike
+  name: N:A35V
+  pos: 28376
+- <<: *non-spike
+  name: N:S202N
+  pos: 28877

@@ -1,16 +1,16 @@
 name: R.1
 positions:
-- name: RdRP:P323L   # ORF1ab:P4715L
-  pos: 14407
-  <<: &non-spike
+- <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: nsp13:G439R # ORF1b:G1362R
+  name: RdRp:P314L  # ORF1b:P314L
+  pos: 14407
+- <<: *non-spike
+  name: nsp13:G1362R  # ORF1b:G1362R
   pos: 17551
-  <<: *non-spike
-- name: nsp14:P412H # ORF1b:P1936H
+- <<: *non-spike
+  name: nsp14:P1936H  # ORF1b:P1936H
   pos: 19273
-  <<: *non-spike
 - name: W152L
   pos: 22016
 - name: E484K
@@ -19,18 +19,18 @@ positions:
   pos: 23402
 - name: G769V
   pos: 23867
-- name: M:F28L
+- <<: *non-spike
+  name: M:F28L
   pos: 26604
-  <<: *non-spike
-- name: N:S187L
+- <<: *non-spike
+  name: N:S187L
   pos: 28832
-  <<: *non-spike
-- name: N:R203K
+- <<: *non-spike
+  name: N:R203K
   pos: 28880
-  <<: *non-spike
-- name: N:G204R
+- <<: *non-spike
+  name: N:G204R
   pos: 28883
-  <<: *non-spike
-- name: N:Q418H
+- <<: *non-spike
+  name: N:Q418H
   pos: 29525
-  <<: *non-spike

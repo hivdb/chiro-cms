@@ -1,4 +1,4 @@
-name: B.1.617.2
+name: B.1.617.2+K417N
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
@@ -37,6 +37,8 @@ positions:
 - name: FR157-158del
   pos: 22031
   label: FR157-158Δ
+- name: K417N
+  pos: 22811
 - name: L452R
   pos: 22916
 - name: T478K

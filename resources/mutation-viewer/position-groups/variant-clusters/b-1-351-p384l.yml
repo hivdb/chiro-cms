@@ -1,4 +1,4 @@
-name: B.1.351
+name: B.1.351+P384L
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
@@ -22,6 +22,8 @@ positions:
   pos: 21800
 - name: D215G
   pos: 22205
+- name: P384L
+  pos: 22712
 - name: K417N
   pos: 22811
 - name: E484K

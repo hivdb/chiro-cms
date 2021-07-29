@@ -1,4 +1,4 @@
-name: A.23
+name: A.23.1+E484K
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
@@ -8,12 +8,19 @@ positions:
 - <<: *non-spike
   name: nsp6:L3667F  # ORF1a:L3667F
   pos: 11264
+- <<: *non-spike
+  name: nsp6:M3752I  # ORF1a:M3752I
+  pos: 11519
 - name: F157L
   pos: 22031
 - name: V367F
   pos: 22661
+- name: E484K
+  pos: 23012
 - name: Q613H
   pos: 23399
+- name: P681R
+  pos: 23603
 - <<: *non-spike
   name: ORF8:L84S
   pos: 28143

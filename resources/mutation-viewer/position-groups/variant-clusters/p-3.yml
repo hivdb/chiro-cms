@@ -1,0 +1,54 @@
+name: P.3
+positions:
+- <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+  name: PLpro:D1554G  # ORF1a:D1554G
+  pos: 4925
+- <<: *non-spike
+  name: PLpro:S2625F  # ORF1a:S2625F
+  pos: 8138
+- <<: *non-spike
+  name: nsp4:D2980N  # ORF1a:D2980N
+  pos: 9203
+- <<: *non-spike
+  name: nsp4:L3201P  # ORF1a:L3201P
+  pos: 9866
+- <<: *non-spike
+  name: nsp6:D3681E  # ORF1a:D3681E
+  pos: 11306
+- <<: *non-spike
+  name: nsp7:L3930F  # ORF1a:L3930F
+  pos: 12053
+- <<: *non-spike
+  name: RdRp:P314L  # ORF1b:P314L
+  pos: 14407
+- <<: *non-spike
+  name: nsp13:L1203F  # ORF1b:L1203F
+  pos: 17074
+- <<: *non-spike
+  name: nsp13:A1291V  # ORF1b:A1291V
+  pos: 17338
+- name: E484K
+  pos: 23012
+- name: N501Y
+  pos: 23063
+- name: D614G
+  pos: 23402
+- name: P681H
+  pos: 23603
+- name: E1092K
+  pos: 24836
+- name: H1101Y
+  pos: 24863
+- name: V1176F
+  pos: 25088
+- <<: *non-spike
+  name: ORF8:K2Q
+  pos: 27897
+- <<: *non-spike
+  name: N:R203K
+  pos: 28880
+- <<: *non-spike
+  name: N:G204R
+  pos: 28883

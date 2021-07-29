@@ -1,0 +1,56 @@
+name: C.37
+positions:
+- <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+  name: PLpro:T1246I  # ORF1a:T1246I
+  pos: 4001
+- <<: *non-spike
+  name: PLpro:P2287S  # ORF1a:P2287S
+  pos: 7124
+- <<: *non-spike
+  name: PLpro:F2387V  # ORF1a:F2387V
+  pos: 7424
+- <<: *non-spike
+  name: nsp4:L3201P  # ORF1a:L3201P
+  pos: 9866
+- <<: *non-spike
+  name: nsp4:T3255I  # ORF1a:T3255I
+  pos: 10028
+- <<: *non-spike
+  name: 3CL:G3278S  # ORF1a:G3278S
+  pos: 10097
+- <<: *non-spike
+  name: nsp6:SGF3675-3677del  # ORF1a:del3675/3677
+  pos: 11288
+  label: nsp6:SGF3675-3677Δ
+- <<: *non-spike
+  name: RdRp:P314L  # ORF1b:P314L
+  pos: 14407
+- name: G75V
+  pos: 21785
+- name: T76I
+  pos: 21788
+- name: SYLTPGD247-253del
+  pos: 22301
+  label: SYLTPGD247-253Δ
+- name: L452Q
+  pos: 22916
+- name: F490S
+  pos: 23030
+- name: D614G
+  pos: 23402
+- name: T859N
+  pos: 24137
+- <<: *non-spike
+  name: N:P13L
+  pos: 28310
+- <<: *non-spike
+  name: N:R203K
+  pos: 28880
+- <<: *non-spike
+  name: N:G204R
+  pos: 28883
+- <<: *non-spike
+  name: N:G214C
+  pos: 28913

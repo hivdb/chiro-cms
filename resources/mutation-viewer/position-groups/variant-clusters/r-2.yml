@@ -1,13 +1,16 @@
-name: P.2
+name: R.2
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-  name: 3CL:L3468V  # ORF1a:L3468V
-  pos: 10667
+  name: PLpro:A1049V  # ORF1a:A1049V
+  pos: 3410
 - <<: *non-spike
-  name: nsp7:L3930F  # ORF1a:L3930F
-  pos: 12053
+  name: PLpro:K1202N  # ORF1a:K1202N
+  pos: 3869
+- <<: *non-spike
+  name: nsp8:D4085G  # ORF1a:D4085G
+  pos: 12518
 - <<: *non-spike
   name: RdRp:P314L  # ORF1b:P314L
   pos: 14407
@@ -15,17 +18,13 @@ positions:
   pos: 23012
 - name: D614G
   pos: 23402
-- name: V1176F
-  pos: 25088
-- <<: *non-spike
-  name: N:A119S
-  pos: 28628
+- name: Q677H
+  pos: 23591
+- name: T732S
+  pos: 23756
 - <<: *non-spike
   name: N:R203K
   pos: 28880
 - <<: *non-spike
   name: N:G204R
   pos: 28883
-- <<: *non-spike
-  name: N:M234I
-  pos: 28973

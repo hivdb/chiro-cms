@@ -1,4 +1,4 @@
-name: B.1.617.2
+name: AY.3
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
@@ -20,6 +20,9 @@ positions:
 - <<: *non-spike
   name: nsp6:T3646A  # ORF1a:T3646A
   pos: 11201
+- <<: *non-spike
+  name: nsp6:I3731V  # ORF1a:I3731V
+  pos: 11456
 - <<: *non-spike
   name: RdRp:P314L  # ORF1b:P314L
   pos: 14407

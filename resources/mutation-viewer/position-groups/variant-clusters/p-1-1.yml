@@ -1,4 +1,4 @@
-name: P.1
+name: P.1.1
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
@@ -51,9 +51,3 @@ positions:
 - <<: *non-spike
   name: N:P80R
   pos: 28511
-- <<: *non-spike
-  name: N:R203K
-  pos: 28880
-- <<: *non-spike
-  name: N:G204R
-  pos: 28883

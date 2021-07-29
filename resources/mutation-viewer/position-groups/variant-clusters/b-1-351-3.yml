@@ -1,4 +1,4 @@
-name: B.1.351
+name: B.1.351.3
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
@@ -9,6 +9,12 @@ positions:
   name: PLpro:K1655N  # ORF1a:K1655N
   pos: 5228
 - <<: *non-spike
+  name: PLpro:P2046L  # ORF1a:P2046L
+  pos: 6401
+- <<: *non-spike
+  name: PLpro:N2596S  # ORF1a:N2596S
+  pos: 8051
+- <<: *non-spike
   name: 3CL:K3353R  # ORF1a:K3353R
   pos: 10322
 - <<: *non-spike
@@ -18,10 +24,18 @@ positions:
 - <<: *non-spike
   name: RdRp:P314L  # ORF1b:P314L
   pos: 14407
+- <<: *non-spike
+  name: nsp13:I1074V  # ORF1b:I1074V
+  pos: 16687
+- name: L18F
+  pos: 21614
 - name: D80A
   pos: 21800
 - name: D215G
   pos: 22205
+- name: LLA241-243del
+  pos: 22283
+  label: LLA241-243Δ
 - name: K417N
   pos: 22811
 - name: E484K

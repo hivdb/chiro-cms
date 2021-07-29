@@ -1,0 +1,36 @@
+name: B.1.1.298 (Cluster 5)
+positions:
+- <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+  name: nsp1:M8585  # ORF1a:del85
+  pos: 518
+- <<: *non-spike
+  name: PLpro:NN2081-2082del  # ORF1a:del2081/2082
+  pos: 6506
+  label: PLpro:NN2081-2082Δ
+- <<: *non-spike
+  name: RdRp:P314L  # ORF1b:P314L
+  pos: 14407
+- <<: *non-spike
+  name: RdRp:T730I  # ORF1b:T730I
+  pos: 15655
+- name: HV69-70del
+  pos: 21767
+  label: HV69-70Δ
+- name: Y453F
+  pos: 22919
+- name: D614G
+  pos: 23402
+- <<: *non-spike
+  name: ORF3a:H182Y
+  pos: 25936
+- <<: *non-spike
+  name: N:S194L
+  pos: 28853
+- <<: *non-spike
+  name: N:R203K
+  pos: 28880
+- <<: *non-spike
+  name: N:G204R
+  pos: 28883

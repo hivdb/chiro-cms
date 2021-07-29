@@ -1,4 +1,4 @@
-name: P.1
+name: P.1.2
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
@@ -8,6 +8,9 @@ positions:
 - <<: *non-spike
   name: PLpro:K1795Q  # ORF1a:K1795Q
   pos: 5648
+- <<: *non-spike
+  name: PLpro:T1820I  # ORF1a:T1820I
+  pos: 5723
 - <<: *non-spike
   name: nsp6:SGF3675-3677del  # ORF1a:del3675/3677
   pos: 11288

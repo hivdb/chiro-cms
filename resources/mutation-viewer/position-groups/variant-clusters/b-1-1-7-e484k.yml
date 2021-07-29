@@ -1,4 +1,4 @@
-name: B.1.1.7
+name: B.1.1.7+E484K
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
@@ -24,6 +24,8 @@ positions:
 - name: YY144-145del
   pos: 21992
   label: YY144-145Δ
+- name: E484K
+  pos: 23012
 - name: N501Y
   pos: 23063
 - name: A570D

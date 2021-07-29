@@ -22,59 +22,11 @@ genomeMaps:
       hidePositionAxis: true
       .:
         _resource: mutation-viewer/sars2-regions.yml
-  b-1-1-7-484k:
-    name: b-1-1-7-484k
-    height: 260
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-7-484k.yml
-    <<: *common-props
-  b-1-351:
-    name: b-1-351
+  a-23-1-e484k:
+    name: a-23-1-e484k
     height: 250
     positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351.yml
-    <<: *common-props
-  phl-b-1-1-28:
-    name: phl-b-1-1-28
-    height: 250
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/phl-b-1-1-28.yml
-    <<: *common-props
-  b-1-526:
-    name: b-1-526
-    height: 250
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-526.yml
-    <<: *common-props
-  b-1-525:
-    name: b-1-525
-    height: 250
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-525.yml
-    <<: *common-props
-  n439k:
-    name: n439k
-    height: 195
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/n439k.yml
-    <<: *common-props
-  p-1:
-    name: p-1
-    height: 230
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/p-1.yml
-    <<: *common-props
-  p-2:
-    name: p-2
-    height: 200
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/p-2.yml
-    <<: *common-props
-  a-voi-v2:
-    name: a-voi-v2
-    height: 250
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/a-voi-v2.yml
+    - _resource: mutation-viewer/position-groups/variant-clusters/a-23-1-e484k.yml
     <<: *common-props
   a-23:
     name: a-23
@@ -84,75 +36,321 @@ genomeMaps:
     <<: *common-props
   a-27:
     name: a-27
-    height: 200
+    height: 250
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/a-27.yml
     <<: *common-props
+  a-28:
+    name: a-28
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/a-28.yml
+    <<: *common-props
+  at-1:
+    name: at-1
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/at-1.yml
+    <<: *common-props
   av-1:
     name: av-1
-    height: 200
+    height: 250
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/av-1.yml
+    <<: *common-props
+  ay-1:
+    name: ay-1
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/ay-1.yml
+    <<: *common-props
+  ay-2:
+    name: ay-2
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/ay-2.yml
+    <<: *common-props
+  ay-3:
+    name: ay-3
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/ay-3.yml
+    <<: *common-props
+  b-1-1-7-l452r:
+    name: b-1-1-7-l452r
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-7-l452r.yml
+    <<: *common-props
+  b-1-1-7-e484k:
+    name: b-1-1-7-e484k
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-7-e484k.yml
+    <<: *common-props
+  b-1-1-7-s494p:
+    name: b-1-1-7-s494p
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-7-s494p.yml
+    <<: *common-props
+  b-1-1-298:
+    name: b-1-1-298
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-298.yml
+    <<: *common-props
+  b-1-1-318:
+    name: b-1-1-318
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-318.yml
+    <<: *common-props
+  b-1-1-519:
+    name: b-1-1-519
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-519.yml
+    <<: *common-props
+  b-1-1-523:
+    name: b-1-1-523
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-523.yml
+    <<: *common-props
+  b-1-214-2:
+    name: b-1-214-2
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-214-2.yml
+    <<: *common-props
+  b-1-258:
+    name: b-1-258
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-258.yml
+    <<: *common-props
+  b-1-351-2:
+    name: b-1-351-2
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351-2.yml
+    <<: *common-props
+  b-1-351-3:
+    name: b-1-351-3
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351-3.yml
+    <<: *common-props
+  b-1-351-p384l:
+    name: b-1-351-p384l
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351-p384l.yml
+    <<: *common-props
+  b-1-351-e516q:
+    name: b-1-351-e516q
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351-e516q.yml
+    <<: *common-props
+  b-1-351:
+    name: b-1-351
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351.yml
+    <<: *common-props
+  b-1-427:
+    name: b-1-427
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-427.yml
+    <<: *common-props
+  b-1-429:
+    name: b-1-429
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-429.yml
+    <<: *common-props
+  b-1-466-2:
+    name: b-1-466-2
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-466-2.yml
+    <<: *common-props
+  b-1-525:
+    name: b-1-525
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-525.yml
+    <<: *common-props
+  b-1-526-1:
+    name: b-1-526-1
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-526-1.yml
+    <<: *common-props
+  b-1-526-2:
+    name: b-1-526-2
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-526-2.yml
+    <<: *common-props
+  b-1-526:
+    name: b-1-526
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-526.yml
+    <<: *common-props
+  b-1-616:
+    name: b-1-616
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-616.yml
+    <<: *common-props
+  b-1-617-1:
+    name: b-1-617-1
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-1.yml
+    <<: *common-props
+  b-1-617-2:
+    name: b-1-617-2
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-2.yml
+    <<: *common-props
+  b-1-617-2-k417n:
+    name: b-1-617-2-k417n
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-2-k417n.yml
+    <<: *common-props
+  b-1-617-3:
+    name: b-1-617-3
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-3.yml
+    <<: *common-props
+  b-1-619:
+    name: b-1-619
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-619.yml
+    <<: *common-props
+  b-1-620:
+    name: b-1-620
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-620.yml
+    <<: *common-props
+  b-1-621:
+    name: b-1-621
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-621.yml
+    <<: *common-props
+  c-16:
+    name: c-16
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/c-16.yml
+    <<: *common-props
+  c-36-3-1:
+    name: c-36-3-1
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/c-36-3-1.yml
+    <<: *common-props
+  c-36-3:
+    name: c-36-3
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/c-36-3.yml
+    <<: *common-props
+  c-36-l452r:
+    name: c-36-l452r
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/c-36-l452r.yml
+    <<: *common-props
+  c-37:
+    name: c-37
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/c-37.yml
+    <<: *common-props
+  n-9:
+    name: n-9
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/n-9.yml
+    <<: *common-props
+  p-1-2:
+    name: p-1-2
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/p-1-2.yml
+    <<: *common-props
+  p-1-1:
+    name: p-1-1
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/p-1-1.yml
+    <<: *common-props
+  p-1-p681h:
+    name: p-1-p681h
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/p-1-p681h.yml
+    <<: *common-props
+  p-1:
+    name: p-1
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/p-1.yml
+    <<: *common-props
+  p-2:
+    name: p-2
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/p-2.yml
+    <<: *common-props
+  p-3:
+    name: p-3
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/p-3.yml
+    <<: *common-props
+  r-1:
+    name: r-1
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/r-1.yml
+    <<: *common-props
+  r-2:
+    name: r-2
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/r-2.yml
+    <<: *common-props
+  b-1-351-l18f:
+    name: b-1-351-l18f
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351-l18f.yml
+    <<: *common-props
+  a-voi-v2:
+    name: a-voi-v2
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/a-voi-v2.yml
     <<: *common-props
   b-1-x:
     name: b-1-x
     height: 250
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-x.yml
-    <<: *common-props
-  r-1:
-    name: r-1
-    height: 200
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/r-1.yml
-    <<: *common-props
-  n9:
-    name: n9
-    height: 200
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/n9.yml
-    <<: *common-props
-  b-1-617:
-    name: b-1-617
-    height: 200
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617.yml
-    <<: *common-props
-  b-1-617-1:
-    name: b-1-617-1
-    height: 200
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-1.yml
-    <<: *common-props
-  b-1-617-2:
-    name: b-1-617-2
-    height: 200
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-2.yml
-    <<: *common-props
-  b-1-617-3:
-    name: b-1-617-3
-    height: 200
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-3.yml
-    <<: *common-props
-  b-1-620:
-    name: b-1-620
-    height: 200
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-620.yml
-    <<: *common-props
-  b-1-621:
-    name: b-1-621
-    height: 200
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-621.yml
-    <<: *common-props
-  cluster5:
-    name: cluster5
-    height: 195
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/cluster5.yml
     <<: *common-props
   coh-20g-501y:
     name: coh-20g-501y
@@ -165,24 +363,6 @@ genomeMaps:
     height: 225
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/coh-20g-677h.yml
-    <<: *common-props
-  b-1-429:
-    name: b-1-429
-    height: 225
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-429.yml
-    <<: *common-props
-  b-1-427:
-    name: b-1-427
-    height: 225
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-427.yml
-    <<: *common-props
-  b-1-1-1-sub:
-    name: b-1-1-1-sub
-    height: 225
-    positionGroups:
-    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-1-sub.yml
     <<: *common-props
   kemp21:
     name: kemp21
