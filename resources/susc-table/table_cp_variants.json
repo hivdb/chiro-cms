@@ -14,6 +14,16 @@
             },
             {
                 "variant": "Alpha",
+                "rx": "BNT_recovered",
+                "samples": 13,
+                "s_fold": 13,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Geers21[^Geers21]",
+                "median": 0.3
+            },
+            {
+                "variant": "Alpha",
                 "rx": "BNT_uninfected",
                 "samples": 2,
                 "s_fold": 0,
@@ -76,8 +86,8 @@
                 "variant": "Alpha",
                 "rx": "CP",
                 "samples": 37,
-                "s_fold": 26,
-                "i_fold": 10,
+                "s_fold": 27,
+                "i_fold": 9,
                 "r_fold": 1,
                 "reference": "Collier21[^Collier21]",
                 "median": "1.7"
@@ -90,7 +100,7 @@
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Edara21*[^Edara21]",
-                "median": "0.6"
+                "median": "0.5"
             },
             {
                 "variant": "Alpha",
@@ -101,6 +111,16 @@
                 "r_fold": 0,
                 "reference": "Hoffmann21[^Hoffmann21]",
                 "median": "1.2"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "CP",
+                "samples": 39,
+                "s_fold": 39,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Jalkanen21[^Jalkanen21]",
+                "median": "1"
             },
             {
                 "variant": "Alpha",
@@ -221,6 +241,16 @@
                 "r_fold": 0,
                 "reference": "Tada21c[^Tada21c]",
                 "median": "1.3"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "CP",
+                "samples": 8,
+                "s_fold": 7,
+                "i_fold": 1,
+                "r_fold": 0,
+                "reference": "Tada21e[^Tada21e]",
+                "median": "0.9"
             },
             {
                 "variant": "Alpha",
@@ -474,6 +504,16 @@
             },
             {
                 "variant": "Alpha",
+                "rx": "CP_hosp",
+                "samples": 28,
+                "s_fold": 28,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Ganiels21[^Ganiels21]",
+                "median": 1.2
+            },
+            {
+                "variant": "Alpha",
                 "rx": "CP_low_titer",
                 "samples": 15,
                 "s_fold": 9,
@@ -494,6 +534,16 @@
             },
             {
                 "variant": "Alpha",
+                "rx": "CP_non-hosp",
+                "samples": 41,
+                "s_fold": 41,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Ganiels21[^Ganiels21]",
+                "median": 1.8
+            },
+            {
+                "variant": "Alpha",
                 "rx": "IVIG",
                 "samples": 6,
                 "s_fold": 6,
@@ -501,6 +551,16 @@
                 "r_fold": 0,
                 "reference": "Tang21[^Tang21]",
                 "median": "2.4"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "VAC_recovered",
+                "samples": 6,
+                "s_fold": 4,
+                "i_fold": 0,
+                "r_fold": 2,
+                "reference": "Jalkanen21[^Jalkanen21]",
+                "median": "1.5"
             }
         ]
     },
@@ -516,6 +576,16 @@
                 "r_fold": 0,
                 "reference": "Turner21[^Turner21]",
                 "median": "2.3"
+            },
+            {
+                "variant": "Beta",
+                "rx": "BNT_recovered",
+                "samples": 13,
+                "s_fold": 0,
+                "i_fold": 13,
+                "r_fold": 0,
+                "reference": "Geers21[^Geers21]",
+                "median": 3.1
             },
             {
                 "variant": "Beta",
@@ -555,7 +625,7 @@
                 "i_fold": 7,
                 "r_fold": 6,
                 "reference": "Chen21[^Chen21]",
-                "median": "3.3"
+                "median": "3.4"
             },
             {
                 "variant": "Beta",
@@ -586,6 +656,16 @@
                 "r_fold": 4,
                 "reference": "Hoffmann21c[^Hoffmann21c]",
                 "median": "3.6"
+            },
+            {
+                "variant": "Beta",
+                "rx": "CP",
+                "samples": 39,
+                "s_fold": 36,
+                "i_fold": 2,
+                "r_fold": 1,
+                "reference": "Jalkanen21[^Jalkanen21]",
+                "median": "1"
             },
             {
                 "variant": "Beta",
@@ -635,7 +715,7 @@
                 "i_fold": 15,
                 "r_fold": 0,
                 "reference": "Marot21*[^Marot21]",
-                "median": 7.2
+                "median": 7.0
             },
             {
                 "variant": "Beta",
@@ -655,7 +735,7 @@
                 "i_fold": 12,
                 "r_fold": 0,
                 "reference": "Mlcochova21*[^Mlcochova21]",
-                "median": 8.4
+                "median": 8.3
             },
             {
                 "variant": "Beta",
@@ -725,7 +805,17 @@
                 "i_fold": 3,
                 "r_fold": 3,
                 "reference": "Tada21d[^Tada21d]",
-                "median": "4.5"
+                "median": "4.4"
+            },
+            {
+                "variant": "Beta",
+                "rx": "CP",
+                "samples": 8,
+                "s_fold": 2,
+                "i_fold": 3,
+                "r_fold": 3,
+                "reference": "Tada21e[^Tada21e]",
+                "median": "4.4"
             },
             {
                 "variant": "Beta",
@@ -1019,13 +1109,23 @@
             },
             {
                 "variant": "Beta",
+                "rx": "CP_hosp",
+                "samples": 28,
+                "s_fold": 0,
+                "i_fold": 28,
+                "r_fold": 0,
+                "reference": "Ganiels21[^Ganiels21]",
+                "median": 6.0
+            },
+            {
+                "variant": "Beta",
                 "rx": "CP_infected",
                 "samples": 10,
                 "s_fold": 7,
                 "i_fold": 1,
                 "r_fold": 2,
                 "reference": "Goel21[^Goel21]",
-                "median": "2.8"
+                "median": "2.9"
             },
             {
                 "variant": "Beta",
@@ -1059,6 +1159,16 @@
             },
             {
                 "variant": "Beta",
+                "rx": "CP_non-hosp",
+                "samples": 41,
+                "s_fold": 0,
+                "i_fold": 41,
+                "r_fold": 0,
+                "reference": "Ganiels21[^Ganiels21]",
+                "median": 5.0
+            },
+            {
+                "variant": "Beta",
                 "rx": "IVIG",
                 "samples": 6,
                 "s_fold": 1,
@@ -1066,12 +1176,32 @@
                 "r_fold": 1,
                 "reference": "Tang21[^Tang21]",
                 "median": "6.5"
+            },
+            {
+                "variant": "Beta",
+                "rx": "VAC_recovered",
+                "samples": 6,
+                "s_fold": 1,
+                "i_fold": 0,
+                "r_fold": 5,
+                "reference": "Jalkanen21[^Jalkanen21]",
+                "median": "4"
             }
         ]
     },
     {
         "variant": "Delta",
         "assays": [
+            {
+                "variant": "Delta",
+                "rx": "CP",
+                "samples": 24,
+                "s_fold": 13,
+                "i_fold": 10,
+                "r_fold": 1,
+                "reference": "Edara21c[^Edara21c]",
+                "median": "2.6"
+            },
             {
                 "variant": "Delta",
                 "rx": "CP",
@@ -1090,7 +1220,17 @@
                 "i_fold": 12,
                 "r_fold": 0,
                 "reference": "Mlcochova21[^Mlcochova21]",
-                "median": 6.1
+                "median": 6.2
+            },
+            {
+                "variant": "Delta",
+                "rx": "CP",
+                "samples": 8,
+                "s_fold": 2,
+                "i_fold": 4,
+                "r_fold": 2,
+                "reference": "Tada21e[^Tada21e]",
+                "median": "4.5"
             },
             {
                 "variant": "Delta",
@@ -1295,12 +1435,12 @@
             {
                 "variant": "Gamma",
                 "rx": "CP",
-                "samples": 36,
-                "s_fold": 3,
-                "i_fold": 16,
-                "r_fold": 17,
+                "samples": 40,
+                "s_fold": 1,
+                "i_fold": 14,
+                "r_fold": 25,
                 "reference": "deSouza21*[^deSouza21]",
-                "median": "6.2"
+                "median": "9"
             },
             {
                 "variant": "Gamma",
@@ -1311,6 +1451,16 @@
                 "r_fold": 1,
                 "reference": "Alenquer21[^Alenquer21]",
                 "median": "5.8"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "CP_hosp",
+                "samples": 28,
+                "s_fold": 28,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Ganiels21[^Ganiels21]",
+                "median": 2.4
             },
             {
                 "variant": "Gamma",
@@ -1331,6 +1481,16 @@
                 "r_fold": 3,
                 "reference": "Alenquer21[^Alenquer21]",
                 "median": "21"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "CP_non-hosp",
+                "samples": 41,
+                "s_fold": 0,
+                "i_fold": 41,
+                "r_fold": 0,
+                "reference": "Ganiels21[^Ganiels21]",
+                "median": 3.0
             }
         ]
     },
@@ -1410,7 +1570,7 @@
                 "i_fold": 3,
                 "r_fold": 4,
                 "reference": "Hu21c[^Hu21c]",
-                "median": "2.7"
+                "median": "2.8"
             },
             {
                 "variant": "Kappa",

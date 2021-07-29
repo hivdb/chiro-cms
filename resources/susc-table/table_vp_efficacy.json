@@ -83,6 +83,11 @@
                 "reference": "Madhi21"
             },
             {
+                "name": "Gamma",
+                "efficacy": "78% (TNCC)",
+                "reference": "Hitchings21"
+            },
+            {
                 "name": "Delta",
                 "efficacy": "60% (TNCC)",
                 "reference": "Bernal21"
@@ -91,6 +96,26 @@
                 "name": "Delta",
                 "efficacy": "61% (TNCC)",
                 "reference": "Sheikh21"
+            }
+        ]
+    },
+    {
+        "Vaccine": "mRNA-1273",
+        "Variant": [
+            {
+                "name": "Pre-variant",
+                "efficacy": "94% (Trial)",
+                "reference": "Baden21"
+            },
+            {
+                "name": "Alpha",
+                "efficacy": "100% (TNCC)",
+                "reference": "Chemaitelly21"
+            },
+            {
+                "name": "Beta",
+                "efficacy": "96% (TNCC)",
+                "reference": "Chemaitelly21"
             }
         ]
     },
@@ -148,9 +173,19 @@
                 "reference": "Khoury21"
             },
             {
+                "name": "Pre-variant",
+                "efficacy": "84% (Trial)",
+                "reference": "Tanriover21"
+            },
+            {
                 "name": "Gamma",
                 "efficacy": "42% (TNCC)",
                 "reference": "Ranzani21"
+            },
+            {
+                "name": "Gamma",
+                "efficacy": "37% (TNCC)",
+                "reference": "Hitchings21b"
             }
         ]
     }

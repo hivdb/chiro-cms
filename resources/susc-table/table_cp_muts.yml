@@ -50,6 +50,14 @@
     median: '2.7'
   - variant: E484K
     rx: CP
+    samples: 8
+    s_fold: 1
+    i_fold: 6
+    r_fold: 1
+    reference: Tada21e[^Tada21e]
+    median: '5.2'
+  - variant: E484K
+    rx: CP
     samples: 20
     s_fold: 6
     i_fold: 12
@@ -236,6 +244,14 @@
     r_fold: 0
     reference: Tada21[^Tada21]
     median: '1.2'
+  - variant: K417N
+    rx: CP
+    samples: 8
+    s_fold: 7
+    i_fold: 1
+    r_fold: 0
+    reference: Tada21e[^Tada21e]
+    median: '1.7'
   - variant: K417N
     rx: CP
     samples: 20
@@ -472,6 +488,14 @@
     r_fold: 0
     reference: Tada21c[^Tada21c]
     median: '2.3'
+  - variant: L452R
+    rx: CP
+    samples: 8
+    s_fold: 2
+    i_fold: 4
+    r_fold: 2
+    reference: Tada21e[^Tada21e]
+    median: '4.4'
   - variant: L452R
     rx: CP
     samples: 9
@@ -817,8 +841,8 @@
   - variant: ∆69/70 + N501Y + A570D
     rx: CP
     samples: 10
-    s_fold: 9
-    i_fold: 1
+    s_fold: 10
+    i_fold: 0
     r_fold: 0
     reference: Collier21[^Collier21]
     median: '0.8'
