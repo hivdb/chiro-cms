@@ -6,13 +6,13 @@ positions:
   name: nsp1:V86F  # ORF1a:V86F
   pos: 521
 - <<: *non-spike
-  name: 3CL:A3529T  # ORF1a:A3529T
+  name: 3CL:A266T  # ORF1a:A3529T
   pos: 10850
 - <<: *non-spike
-  name: nsp13:A975V  # ORF1b:A975V
+  name: nsp13:A52V  # ORF1b:A975V
   pos: 16390
 - <<: *non-spike
-  name: nsp13:D1183Y  # ORF1b:D1183Y
+  name: nsp13:D260Y  # ORF1b:D1183Y
   pos: 17014
 - name: HV69-70del
   pos: 21767

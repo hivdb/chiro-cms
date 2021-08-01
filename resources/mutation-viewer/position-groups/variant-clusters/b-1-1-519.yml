@@ -3,19 +3,19 @@ positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-  name: PLpro:P959S  # ORF1a:P959S
+  name: PLpro:P141S  # ORF1a:P959S
   pos: 3140
 - <<: *non-spike
-  name: nsp4:T3255I  # ORF1a:T3255I
+  name: nsp4:T492I  # ORF1a:T3255I
   pos: 10028
 - <<: *non-spike
-  name: nsp6:I3618V  # ORF1a:I3618V
+  name: nsp6:I49V  # ORF1a:I3618V
   pos: 11117
 - <<: *non-spike
-  name: nsp9:T4175I  # ORF1a:T4175I
+  name: nsp9:T35I  # ORF1a:T4175I
   pos: 12788
 - <<: *non-spike
-  name: RdRP:P314L  # ORF1b:P314L
+  name: RdRP:P323L  # ORF1b:P314L
   pos: 14407
 - name: T478K
   pos: 22994

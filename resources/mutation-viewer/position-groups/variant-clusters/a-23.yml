@@ -3,10 +3,10 @@ positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-  name: nsp6:M3655I  # ORF1a:M3655I
+  name: nsp6:M86I  # ORF1a:M3655I
   pos: 11228
 - <<: *non-spike
-  name: nsp6:L3667F  # ORF1a:L3667F
+  name: nsp6:L98F  # ORF1a:L3667F
   pos: 11264
 - name: F157L
   pos: 22031

@@ -6,14 +6,14 @@ positions:
   name: nsp1:M8585  # ORF1a:del85
   pos: 518
 - <<: *non-spike
-  name: PLpro:NN2081-2082del  # ORF1a:del2081/2082
+  name: PLpro:NN1263-1264del  # ORF1a:del2081/2082
   pos: 6506
-  label: PLpro:NN2081-2082Δ
+  label: PLpro:NN1263-1264Δ
 - <<: *non-spike
-  name: RdRP:P314L  # ORF1b:P314L
+  name: RdRP:P323L  # ORF1b:P314L
   pos: 14407
 - <<: *non-spike
-  name: RdRP:T730I  # ORF1b:T730I
+  name: RdRP:T739I  # ORF1b:T730I
   pos: 15655
 - name: HV69-70del
   pos: 21767

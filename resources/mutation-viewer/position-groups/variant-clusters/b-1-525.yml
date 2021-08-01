@@ -3,14 +3,14 @@ positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-  name: PLpro:T2007I  # ORF1a:T2007I
+  name: PLpro:T1189I  # ORF1a:T2007I
   pos: 6284
 - <<: *non-spike
-  name: nsp6:SGF3675-3677del  # ORF1a:del3675/3677
+  name: nsp6:SGF106-108del  # ORF1a:del3675/3677
   pos: 11288
-  label: nsp6:SGF3675-3677Δ
+  label: nsp6:SGF106-108Δ
 - <<: *non-spike
-  name: RdRP:P314F  # ORF1b:P314F
+  name: RdRP:P323F  # ORF1b:P314F
   pos: 14407
 - name: Q52R
   pos: 21716

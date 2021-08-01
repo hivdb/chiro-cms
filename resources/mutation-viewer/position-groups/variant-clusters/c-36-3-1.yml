@@ -6,43 +6,43 @@ positions:
   name: nsp1:E102K  # ORF1a:E102K
   pos: 569
 - <<: *non-spike
-  name: PLpro:A859V  # ORF1a:A859V
+  name: PLpro:A41V  # ORF1a:A859V
   pos: 2840
 - <<: *non-spike
-  name: PLpro:T1246I  # ORF1a:T1246I
+  name: PLpro:T428I  # ORF1a:T1246I
   pos: 4001
 - <<: *non-spike
-  name: PLpro:D1639N  # ORF1a:D1639N
+  name: PLpro:D821N  # ORF1a:D1639N
   pos: 5180
 - <<: *non-spike
-  name: PLpro:P2287S  # ORF1a:P2287S
+  name: PLpro:P1469S  # ORF1a:P2287S
   pos: 7124
 - <<: *non-spike
-  name: nsp4:D2980N  # ORF1a:D2980N
+  name: nsp4:D217N  # ORF1a:D2980N
   pos: 9203
 - <<: *non-spike
-  name: nsp4:D3222N  # ORF1a:D3222N
+  name: nsp4:D459N  # ORF1a:D3222N
   pos: 9929
 - <<: *non-spike
-  name: 3CL:G3278S  # ORF1a:G3278S
+  name: 3CL:G15S  # ORF1a:G3278S
   pos: 10097
 - <<: *non-spike
-  name: nsp6:S3687L  # ORF1a:S3687L
+  name: nsp6:S118L  # ORF1a:S3687L
   pos: 11324
 - <<: *non-spike
-  name: nsp6:L3691S  # ORF1a:L3691S
+  name: nsp6:L122S  # ORF1a:L3691S
   pos: 11336
 - <<: *non-spike
-  name: nsp8:T4090I  # ORF1a:T4090I
+  name: nsp8:T148I  # ORF1a:T4090I
   pos: 12533
 - <<: *non-spike
-  name: RdRP:P314L  # ORF1b:P314L
+  name: RdRP:P323L  # ORF1b:P314L
   pos: 14407
 - <<: *non-spike
-  name: nsp13:D1028Y  # ORF1b:D1028Y
+  name: nsp13:D105Y  # ORF1b:D1028Y
   pos: 16549
 - <<: *non-spike
-  name: nsp13:P1452L  # ORF1b:P1452L
+  name: nsp13:P529L  # ORF1b:P1452L
   pos: 17821
 - name: S12F
   pos: 21596

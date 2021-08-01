@@ -3,34 +3,34 @@ positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-  name: nsp2:N449D  # ORF1a:N449D
+  name: nsp2:N269D  # ORF1a:N449D
   pos: 1610
 - <<: *non-spike
-  name: PLpro:M902V  # ORF1a:M902V
+  name: PLpro:M84V  # ORF1a:M902V
   pos: 2969
 - <<: *non-spike
-  name: PLpro:R2115I  # ORF1a:R2115I
+  name: PLpro:R1297I  # ORF1a:R2115I
   pos: 6608
 - <<: *non-spike
-  name: 3CL:V3566I  # ORF1a:V3566I
+  name: 3CL:V303I  # ORF1a:V3566I
   pos: 10961
 - <<: *non-spike
-  name: nsp6:V3653F  # ORF1a:V3653F
+  name: nsp6:V84F  # ORF1a:V3653F
   pos: 11222
 - <<: *non-spike
-  name: nsp10:T4364I  # ORF1a:T4364I
+  name: nsp10:T111I  # ORF1a:T4364I
   pos: 13355
 - <<: *non-spike
-  name: RdRP:S220N  # ORF1b:S220N
+  name: RdRP:S229N  # ORF1b:S220N
   pos: 14125
 - <<: *non-spike
-  name: RdRP:P314L  # ORF1b:P314L
+  name: RdRP:P323L  # ORF1b:P314L
   pos: 14407
 - <<: *non-spike
-  name: nsp13:P1000L  # ORF1b:P1000L
+  name: nsp13:P77L  # ORF1b:P1000L
   pos: 16465
 - <<: *non-spike
-  name: nsp13:L1378M  # ORF1b:L1378M
+  name: nsp13:L455M  # ORF1b:L1378M
   pos: 17599
 - name: EFR156-158del
   pos: 22028

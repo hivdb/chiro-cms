@@ -3,13 +3,13 @@ positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-  name: RdRP:P314L  # ORF1b:P314L
+  name: RdRP:P323L  # ORF1b:P314L
   pos: 14407
 - <<: *non-spike
-  name: nsp13:G1362R  # ORF1b:G1362R
+  name: nsp13:G439R  # ORF1b:G1362R
   pos: 17551
 - <<: *non-spike
-  name: nsp14:P1936H  # ORF1b:P1936H
+  name: nsp14:P412H  # ORF1b:P1936H
   pos: 19273
 - name: W152L
   pos: 22016
