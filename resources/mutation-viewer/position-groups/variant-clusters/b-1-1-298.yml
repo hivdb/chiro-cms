@@ -10,10 +10,10 @@ positions:
   pos: 6506
   label: PLpro:NN2081-2082Δ
 - <<: *non-spike
-  name: RdRp:P314L  # ORF1b:P314L
+  name: RdRP:P314L  # ORF1b:P314L
   pos: 14407
 - <<: *non-spike
-  name: RdRp:T730I  # ORF1b:T730I
+  name: RdRP:T730I  # ORF1b:T730I
   pos: 15655
 - name: HV69-70del
   pos: 21767

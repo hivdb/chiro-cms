@@ -10,7 +10,7 @@ positions:
   pos: 11288
   label: nsp6:SGF3675-3677Δ
 - <<: *non-spike
-  name: RdRp:P314F  # ORF1b:P314F
+  name: RdRP:P314F  # ORF1b:P314F
   pos: 14407
 - name: Q52R
   pos: 21716

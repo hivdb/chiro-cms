@@ -16,7 +16,7 @@ positions:
   name: nsp6:M3752I  # ORF1a:M3752I
   pos: 11519
 - <<: *non-spike
-  name: RdRp:P314L  # ORF1b:P314L
+  name: RdRP:P314L  # ORF1b:P314L
   pos: 14407
 - name: I210T
   pos: 22190

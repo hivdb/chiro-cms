@@ -9,7 +9,7 @@ positions:
   name: nsp4:S3158T  # ORF1a:S3158T
   pos: 9737
 - <<: *non-spike
-  name: RdRp:P314L  # ORF1b:P314L
+  name: RdRP:P314L  # ORF1b:P314L
   pos: 14407
 - <<: *non-spike
   name: nsp13:P976L  # ORF1b:P976L

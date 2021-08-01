@@ -12,7 +12,7 @@ positions:
   name: nsp8:T4090I  # ORF1a:T4090I
   pos: 12533
 - <<: *non-spike
-  name: RdRp:P314L  # ORF1b:P314L
+  name: RdRP:P314L  # ORF1b:P314L
   pos: 14407
 - name: L452R
   pos: 22916

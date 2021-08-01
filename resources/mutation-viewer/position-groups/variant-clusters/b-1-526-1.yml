@@ -32,7 +32,7 @@ positions:
   name: nsp6:V3847I  # ORF1a:V3847I
   pos: 11804
 - <<: *non-spike
-  name: RdRp:P314L  # ORF1b:P314L
+  name: RdRP:P314L  # ORF1b:P314L
   pos: 14407
 - <<: *non-spike
   name: nsp16:I2566L  # ORF1b:I2566L

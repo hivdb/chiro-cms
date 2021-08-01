@@ -12,7 +12,7 @@ positions:
   name: nsp6:F3605L  # ORF1a:F3605L
   pos: 11078
 - <<: *non-spike
-  name: RdRp:P314L  # ORF1b:P314L
+  name: RdRP:P314L  # ORF1b:P314L
   pos: 14407
 - name: E484K
   pos: 23012

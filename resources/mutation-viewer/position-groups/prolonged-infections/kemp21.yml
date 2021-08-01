@@ -5,7 +5,7 @@ positions:
   <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-- name: RdRp:V165L
+- name: RdRP:V165L
   pos: 13934
   <<: *non-spike
 - name: RdRP:P323L  # ORF1ab:P4715L

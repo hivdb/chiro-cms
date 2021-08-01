@@ -12,10 +12,10 @@ positions:
   name: nsp8:A4016V  # ORF1a:A4016V
   pos: 12311
 - <<: *non-spike
-  name: RdRp:P314L  # ORF1b:P314L
+  name: RdRP:P314L  # ORF1b:P314L
   pos: 14407
 - <<: *non-spike
-  name: RdRp:R574G  # ORF1b:R574G
+  name: RdRP:R574G  # ORF1b:R574G
   pos: 15187
 - name: Q414K
   pos: 22802

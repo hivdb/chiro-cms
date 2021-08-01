@@ -12,7 +12,7 @@ positions:
   name: nsp8:D4085G  # ORF1a:D4085G
   pos: 12518
 - <<: *non-spike
-  name: RdRp:P314L  # ORF1b:P314L
+  name: RdRP:P314L  # ORF1b:P314L
   pos: 14407
 - name: E484K
   pos: 23012

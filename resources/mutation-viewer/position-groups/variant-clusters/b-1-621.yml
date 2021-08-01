@@ -15,7 +15,7 @@ positions:
   name: nsp6:Q3729R  # ORF1a:Q3729R
   pos: 11450
 - <<: *non-spike
-  name: RdRp:P314L  # ORF1b:P314L
+  name: RdRP:P314L  # ORF1b:P314L
   pos: 14407
 - <<: *non-spike
   name: nsp13:P1342S  # ORF1b:P1342S

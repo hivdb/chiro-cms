@@ -18,10 +18,10 @@ positions:
   name: nsp6:T3750I  # ORF1a:T3750I
   pos: 11513
 - <<: *non-spike
-  name: RdRp:P314L  # ORF1b:P314L
+  name: RdRP:P314L  # ORF1b:P314L
   pos: 14407
 - <<: *non-spike
-  name: RdRp:G662S  # ORF1b:G662S
+  name: RdRP:G662S  # ORF1b:G662S
   pos: 15451
 - <<: *non-spike
   name: nsp13:P1000L  # ORF1b:P1000L

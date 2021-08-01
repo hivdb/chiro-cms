@@ -21,10 +21,10 @@ positions:
   name: nsp10:T4364I  # ORF1a:T4364I
   pos: 13355
 - <<: *non-spike
-  name: RdRp:S220N  # ORF1b:S220N
+  name: RdRP:S220N  # ORF1b:S220N
   pos: 14125
 - <<: *non-spike
-  name: RdRp:P314L  # ORF1b:P314L
+  name: RdRP:P314L  # ORF1b:P314L
   pos: 14407
 - <<: *non-spike
   name: nsp13:P1000L  # ORF1b:P1000L

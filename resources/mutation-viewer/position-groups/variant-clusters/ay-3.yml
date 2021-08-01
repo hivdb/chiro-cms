@@ -24,10 +24,10 @@ positions:
   name: nsp6:I3731V  # ORF1a:I3731V
   pos: 11456
 - <<: *non-spike
-  name: RdRp:P314L  # ORF1b:P314L
+  name: RdRP:P314L  # ORF1b:P314L
   pos: 14407
 - <<: *non-spike
-  name: RdRp:G662S  # ORF1b:G662S
+  name: RdRP:G662S  # ORF1b:G662S
   pos: 15451
 - <<: *non-spike
   name: nsp13:P1000L  # ORF1b:P1000L

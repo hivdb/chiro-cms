@@ -15,7 +15,7 @@ positions:
   name: nsp6:A3686V  # ORF1a:A3686V
   pos: 11321
 - <<: *non-spike
-  name: RdRp:P314L  # ORF1b:P314L
+  name: RdRP:P314L  # ORF1b:P314L
   pos: 14407
 - name: T19R
   pos: 21617
