@@ -672,8 +672,9 @@ c-37
 <div class="figure-caption">
 
 #### [B.1.427](#sec_b-1-427)
+<a id="sec_epsilon" />
 
-Listed by: WHO, CDC, ECDC
+Formerly known as VOI Epsilon. Listed by: WHO, CDC, ECDC.
 
 
 [Outbreak.info B.1.427 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.427) [^Outbreak20]
@@ -698,7 +699,7 @@ b-1-427
 
 #### [B.1.429](#sec_b-1-429)
 
-Listed by: WHO, CDC, ECDC
+Formerly known as VOI Epsilon. Listed by: WHO, CDC, ECDC.
 
 [Outbreak.info B.1.429 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.429) [^Outbreak20]
 
@@ -963,8 +964,9 @@ c-36-3-1
 <div class="figure-caption">
 
 #### [P.2](#sec_p-2)
+<a id="sec_zeta" />
 
-Listed by: WHO, COG-UK, ECDC
+Formerly known as VOI Zeta. Listed by: WHO, COG-UK, ECDC.
 
 
 [Outbreak.info P.2 Lineage Report](https://outbreak.info/situation-reports?pango=P.2) [^Outbreak20]
@@ -988,8 +990,9 @@ p-2
 <div class="figure-caption">
 
 #### [P.3](#sec_p-3)
+<a id="sec_theta" />
 
-Listed by: WHO, COG-UK, ECDC
+Formerly known as VOI Theta. Listed by: WHO, COG-UK, ECDC.
 
 [Outbreak.info P.3 Lineage Report](https://outbreak.info/situation-reports?pango=P.3) [^Outbreak20]
 
