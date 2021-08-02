@@ -12,18 +12,18 @@ positions:
   name: PLpro:I1412T  # ORF1a:I2230T
   pos: 6953
 - <<: *non-spike
-  name: nsp6:SGF106-108del  # ORF1a:del3675/3677
+  name: nsp6:del106-108  # ORF1a:del3675/3677
   pos: 11288
-  label: nsp6:SGF106-108Δ
+  label: nsp6:Δ106-108
 - <<: *non-spike
   name: RdRP:P323L  # ORF1b:P314L
   pos: 14407
-- name: HV69-70del
+- name: del69-70
   pos: 21767
-  label: HV69-70Δ
-- name: YY144-145del
+  label: Δ69-70
+- name: del144-145
   pos: 21992
-  label: YY144-145Δ
+  label: Δ144-145
 - name: L452R
   pos: 22916
 - name: N501Y

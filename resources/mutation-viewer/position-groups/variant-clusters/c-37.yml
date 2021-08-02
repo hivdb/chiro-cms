@@ -21,9 +21,9 @@ positions:
   name: 3CL:G15S  # ORF1a:G3278S
   pos: 10097
 - <<: *non-spike
-  name: nsp6:SGF106-108del  # ORF1a:del3675/3677
+  name: nsp6:del106-108  # ORF1a:del3675/3677
   pos: 11288
-  label: nsp6:SGF106-108Δ
+  label: nsp6:Δ106-108
 - <<: *non-spike
   name: RdRP:P323L  # ORF1b:P314L
   pos: 14407
@@ -31,9 +31,9 @@ positions:
   pos: 21785
 - name: T76I
   pos: 21788
-- name: SYLTPGD247-253del
+- name: del247-253
   pos: 22301
-  label: SYLTPGD247-253Δ
+  label: Δ247-253
 - name: L452Q
   pos: 22916
 - name: F490S

@@ -14,9 +14,9 @@ positions:
 - <<: *non-spike
   name: nsp13:D260Y  # ORF1b:D1183Y
   pos: 17014
-- name: HV69-70del
+- name: del69-70
   pos: 21767
-  label: HV69-70Δ
+  label: Δ69-70
 - name: N501T
   pos: 23063
 - name: H655Y

@@ -21,9 +21,9 @@ positions:
   name: nsp4:L438P  # ORF1a:L3201P
   pos: 9866
 - <<: *non-spike
-  name: nsp6:SGF106-108del  # ORF1a:del3675/3677
+  name: nsp6:del106-108  # ORF1a:del3675/3677
   pos: 11288
-  label: nsp6:SGF106-108Δ
+  label: nsp6:Δ106-108
 - <<: *non-spike
   name: nsp6:F201V  # ORF1a:F3770V
   pos: 11573

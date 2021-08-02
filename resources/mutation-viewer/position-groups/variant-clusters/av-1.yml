@@ -27,9 +27,9 @@ positions:
   name: nsp4:A446V  # ORF1a:A3209V
   pos: 9890
 - <<: *non-spike
-  name: nsp6:SGF106-108del  # ORF1a:del3675/3677
+  name: nsp6:del106-108  # ORF1a:del3675/3677
   pos: 11288
-  label: nsp6:SGF106-108Δ
+  label: nsp6:Δ106-108
 - <<: *non-spike
   name: RdRP:P323L  # ORF1b:P314L
   pos: 14407
@@ -48,9 +48,9 @@ positions:
   pos: 21845
 - name: G142D
   pos: 21986
-- name: YY144-145del
+- name: del144-145
   pos: 21992
-  label: YY144-145Δ
+  label: Δ144-145
 - name: N439K
   pos: 22877
 - name: E484K
@@ -64,9 +64,9 @@ positions:
 - name: D1139H
   pos: 24977
 - <<: *non-spike
-  name: ORF3a:VN256-257del
+  name: ORF3a:del256-257
   pos: 26158
-  label: ORF3a:VN256-257Δ
+  label: ORF3a:Δ256-257
 - <<: *non-spike
   name: M:A63T
   pos: 26709

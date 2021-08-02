@@ -42,9 +42,9 @@ positions:
   name: ORF3a:Q57H
   pos: 25561
 - <<: *non-spike
-  name: ORF3a:VN256-257del
+  name: ORF3a:del256-257
   pos: 26158
-  label: ORF3a:VN256-257Δ
+  label: ORF3a:Δ256-257
 - <<: *non-spike
   name: ORF8:T11K
   pos: 27924

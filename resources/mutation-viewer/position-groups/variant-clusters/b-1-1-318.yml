@@ -18,9 +18,9 @@ positions:
   name: 3CL:T21I  # ORF1a:T3284I
   pos: 10115
 - <<: *non-spike
-  name: nsp6:SGF106-108del  # ORF1a:del3675/3677
+  name: nsp6:del106-108  # ORF1a:del3675/3677
   pos: 11288
-  label: nsp6:SGF106-108Δ
+  label: nsp6:Δ106-108
 - <<: *non-spike
   name: RdRP:P323L  # ORF1b:P314L
   pos: 14407
@@ -29,9 +29,9 @@ positions:
   pos: 20578
 - name: T95I
   pos: 21845
-- name: YY144-145del
+- name: del144-145
   pos: 21992
-  label: YY144-145Δ
+  label: Δ144-145
 - name: E484K
   pos: 23012
 - name: D614G
@@ -54,5 +54,6 @@ positions:
   name: N:G204R
   pos: 28883
 - <<: *non-spike
-  name: N:R209209
+  name: N:del209
   pos: 28898
+  label: N:Δ209

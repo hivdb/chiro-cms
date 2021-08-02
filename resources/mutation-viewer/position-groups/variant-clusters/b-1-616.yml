@@ -39,9 +39,9 @@ positions:
   pos: 21758
 - name: G142V
   pos: 21986
-- name: YY144-145del
+- name: del144-145
   pos: 21992
-  label: YY144-145Δ
+  label: Δ144-145
 - name: D215G
   pos: 22205
 - name: V483A
@@ -69,9 +69,9 @@ positions:
   name: M:H125Y
   pos: 26895
 - <<: *non-spike
-  name: ORF6:KVSIWNLDY23-31del
+  name: ORF6:del23-31
   pos: 27268
-  label: ORF6:KVSIWNLDY23-31Δ
+  label: ORF6:Δ23-31
 - <<: *non-spike
   name: ORF7a:*122R
   pos: 27757

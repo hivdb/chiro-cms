@@ -34,9 +34,9 @@ positions:
   pos: 19219
 - name: T19R
   pos: 21617
-- name: FR157-158del
+- name: del157-158
   pos: 22031
-  label: FR157-158Δ
+  label: Δ157-158
 - name: L452R
   pos: 22916
 - name: T478K
@@ -63,9 +63,9 @@ positions:
   name: ORF7b:T40I
   pos: 27873
 - <<: *non-spike
-  name: ORF8:DF119-120del
+  name: ORF8:del119-120
   pos: 28248
-  label: ORF8:DF119-120Δ
+  label: ORF8:Δ119-120
 - <<: *non-spike
   name: N:D63G
   pos: 28460
