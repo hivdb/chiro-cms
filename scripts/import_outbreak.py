@@ -157,8 +157,24 @@ def dump_progress(progress_list, progress_file_path):
 def dump_csv(file_path, records, headers=[]):
     if not records:
         return
+
+    if headers:
+        _records = []
+        for r in records:
+            _r = {}
+            for h in headers:
+                _r[h] = r.get(h, '')
+            _records.append(_r)
+
+        records = _records
+
     if not headers and records:
         headers = records[0].keys()
+
+    for r in records:
+        for k in r.keys():
+            if k not in headers:
+                del r[k]
 
     with open(file_path, 'w', encoding='utf-8-sig') as fd:
         writer = csv.DictWriter(fd, fieldnames=headers)
@@ -193,6 +209,33 @@ def filter_timepoints(timepoints):
         records.append(rec)
 
     return records
+
+
+def parse_mutation(mut_str):
+    gene, mut_str = mut_str.split(':')
+    pos_list = re.findall(r'\d+', mut_str)
+    if len(pos_list) == 1:
+        aa_start, aa_stop = pos_list[0], ''
+    else:
+        aa_start, aa_stop = pos_list
+
+    if 'DEL' in mut_str.upper():
+        ref = ''
+        mut = 'del'
+        name = '∆{}-{}'.format(aa_start, aa_stop)
+    else:
+        ref, _, mut = re.split(r'(\d+)', mut_str)
+        name = '{}{}{}'.format(ref, aa_start, mut)
+
+    return {
+        'gene': gene,
+        'ref': ref,
+        'aa_start': aa_start,
+        'aa_stop': aa_stop,
+        'mut': mut,
+        'ref_pos': '{}{}'.format(ref, aa_start),
+        'name': name
+    }
 
 
 def get_version():
@@ -300,6 +343,18 @@ def get_all_variants():
     return variants_names
 
 
+@file_cache('all_variants_count')
+def get_all_variants_count():
+    resp = query_api(API_ALL_VARIANTS)
+
+    variants = {}
+    for item in resp['results']:
+        name = item['name'].upper()
+        total_count = item['total_count']
+        variants[name] = total_count
+    return variants
+
+
 def get_variant_mutations():
     all_variants = get_all_variants()
     variants = [i.upper() for i in all_variants]
@@ -311,6 +366,7 @@ def get_variant_mutations():
     def operator(variant):
         query = API_VARIANT_MUTATIONS.format(variant=variant)
         resp = query_api(query)
+        print(query)
 
         return resp
 
@@ -320,13 +376,14 @@ def get_variant_mutations():
         mutations[variant] = []
 
         variant_mutations = defaultdict(list)
-        for mut in rec['results']:
-            gene = mut['gene']
-            variant_mutations[gene].append({
-                'gene': mut['gene'],
-                'position': mut['codon_num'],
-                'mutation': mut['mutation'].upper(),
-            })
+        for name, mut_list in rec['results'].items():
+            for mut in mut_list:
+                gene = mut['gene']
+                variant_mutations[gene].append({
+                    'gene': mut['gene'],
+                    'position': mut['codon_num'],
+                    'mutation': mut['mutation'].upper(),
+                })
 
         variant_mutations = sorted(
             variant_mutations.items(),
@@ -371,7 +428,6 @@ def get_variant_global_prevalence():
         return resp
 
     for variant, rec in map_with_skip(variants, processed_list, operator):
-        print(variant)
 
         timepoints = rec['results']
 
@@ -467,6 +523,84 @@ def collect_variant_mutations(save_dir):
         print('Updated {}'.format(save_path))
 
 
+def make_variant_mut_tracking_table(save_dir, spike_only=True):
+    save_path = save_dir / 'variants-mut-tracking.csv'
+    variants_mut = get_variant_mutations()
+
+    variants_count = get_all_variants_count()
+
+    for rec in variants_mut:
+        name = rec['name']
+        rec['total_count'] = variants_count[name]
+
+    s_mutations = defaultdict(int)
+    other_mutations = defaultdict(int)
+    for rec in variants_mut:
+        s_mut_ident = []
+        for mut in rec['mutations'].split(','):
+            mut = mut.upper().strip()
+            if not mut:
+                continue
+
+            mut = parse_mutation(mut)
+            if mut['gene'] == 'S':
+                s_mut_ident.append(mut)
+                s_mutations[mut['ref_pos']] += 1
+                rec[mut['ref_pos']] = mut['mut']
+            else:
+                other_mutations[mut['ref_pos']] += 1
+                rec[mut['ref_pos']] = mut['mut']
+        del rec['mutations']
+
+        s_mut_ident.sort(key=itemgetter('aa_start', 'ref'))
+
+        rec['spike_ident'] = ','.join([s['name'] for s in s_mut_ident])
+
+    s_mut = sorted([{
+        'name': k,
+        'count': v,
+        }
+        for k, v in s_mutations.items()], key=lambda x: -x['count'])
+    s_mut = [s['name'] for s in s_mut]
+
+    o_mut = sorted([{
+        'name': k,
+        'count': v,
+        }
+        for k, v in other_mutations.items()], key=lambda x: -x['count'])
+    o_mut = [s['name'] for s in o_mut]
+
+    if not spike_only:
+        all_mut = s_mut + o_mut
+        records = variants_mut
+    else:
+        all_mut = s_mut
+        spike_ident_groups = defaultdict(list)
+        for i in variants_mut:
+            spike_ident = i['spike_ident']
+            spike_ident_groups[spike_ident].append(i)
+
+        records = []
+        for spike_ident, var_list in spike_ident_groups.items():
+            pangolins = ', '.join(sorted([v['name'] for v in var_list]))
+            r = {
+                'ident': spike_ident,
+                'pangolins': pangolins,
+                'total_count': sum(v['total_count'] for v in var_list)
+            }
+            for k, v in var_list[0].items():
+                if k == 'total_count':
+                    continue
+                r[k] = v
+
+            records.append(r)
+
+    header = ['ident', 'pangolins'] + ['total_count'] + all_mut
+
+    dump_csv(save_path, records, header)
+    print('Updated {}'.format(save_path))
+
+
 def collect_variant_time_prevalence(save_dir):
     prevalence = get_variant_global_prevalence()
     save_path = save_dir / 'aapcnt-variants.yml'
@@ -529,13 +663,14 @@ def import_outbreak():
 
     get_version()
 
-    # collect_variant_mutations(RESULTS_DIR)
+    collect_variant_mutations(RESULTS_DIR)
+    make_variant_mut_tracking_table(RESULTS_DIR)
 
     # collect_variant_time_prevalence(RESULTS_DIR)
 
     # collect_variant_location_prevalence(RESULTS_DIR)
 
-    collect_mutation_time_prevalence(RESULTS_DIR)
+    # collect_mutation_time_prevalence(RESULTS_DIR)
 
 
 if __name__ == '__main__':
