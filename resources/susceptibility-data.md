@@ -94,6 +94,13 @@ table_vp
 table_ve
 [/table]
 
+- Includes persons receiving a full course of vaccination: 1 to 2 weeks following two vaccine doses for BNT162b, AZD1222, mRNA-1273, NVX-2373, and Coronavac; 4 weeks after one vaccine dose for AD26.CoV2.
+- AZD1222 efficacy data includes some patients receiving the standard vaccine dose at both time points and others receiving a lower vaccine dose at the first time point.
+- AD26.CoV2 efficacy data based on preventing moderate to severe disease; pre-variant efficacy based on U.S. data.
+- Coronovac efficacy against data against pre-variant isolates may include some persons infected with the VOC gamma and the VOI zeta. The test-negative case control study of vaccine efficacy against gamma was performed in persons 70 years or older.
+Abbreviations: Trial – post hoc analysis of clinical trial data; TNCC – test negative case control study
+
+
 <section>
 
 <div class="figure-caption">
