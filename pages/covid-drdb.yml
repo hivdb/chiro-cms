@@ -1,4 +1,4 @@
-drdbVersion: "20210811-slim"
+drdbVersion: "20210812-143600-slim"
 mutationDefaultGene: S
 allGenes: [
   nsp1, nsp2, PLpro, nsp4, _3CLpro, nsp6, nsp7, nsp8, nsp9,
@@ -17,3 +17,5 @@ geneSynonyms:
 messages:
   .<<vaccine-desc:
     _resource: vaccine-description.yml
+  .<<mab-desc:
+    _resource: mab-description.yml
