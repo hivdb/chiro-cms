@@ -12,6 +12,11 @@ projectSections:
       image: home/pub-editorial.png
   - title: Webinars
     items:
+    - title: SARS-CoV-2 Variants
+      description: About SARS-CoV-2 Variants
+      link: https://www.youtube.com/watch?v=EH3sLVHf22Y
+      extLink: true
+      image: home/webinar-cme.png
     - title: Monoclonal antibodies
       description: For the prevention and treatment of COVID-19
       link: https://www.youtube.com/watch?v=YUj9jBlTCrY
