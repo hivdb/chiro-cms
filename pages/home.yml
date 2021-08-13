@@ -26,3 +26,10 @@ projectSections:
       description: Vaccine efficacy at preventing symptomatic SARS-CoV-2 infection with variants
       link: /page/susceptibility-data/#table.4.vaccine.efficacy.at.preventing.symptomatic.sars-cov-2.infection.with.variants
       image: home/vaccine-efficacy.png
+  - title: Webinars
+    items:
+    - title: SARS-CoV-2 Variants
+      description: About SARS-CoV-2 Variants
+      link: https://www.youtube.com/watch?v=EH3sLVHf22Y
+      extLink: true
+      image: home/webinar-cme.png
