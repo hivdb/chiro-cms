@@ -2,15 +2,15 @@
     {
         "variant": "N501Y",
         "cp": 227,
-        "vp": 85,
+        "vp": 105,
         "phase3": 61,
         "structure": 36
     },
     {
         "variant": "E484K",
-        "cp": 195,
-        "vp": 209,
-        "phase3": 81,
+        "cp": 225,
+        "vp": 214,
+        "phase3": 84,
         "structure": 41
     },
     {
@@ -52,14 +52,14 @@
         "variant": "Alpha",
         "cp": 1268,
         "vp": 3202,
-        "phase3": 122,
+        "phase3": 110,
         "structure": 65
     },
     {
         "variant": "Beta",
-        "cp": 1407,
-        "vp": 3247,
-        "phase3": 119,
+        "cp": 1415,
+        "vp": 3318,
+        "phase3": 111,
         "structure": 48
     },
     {
@@ -85,16 +85,16 @@
     },
     {
         "variant": "Other combinations of mutations",
-        "cp": 2086,
-        "vp": 4184,
-        "phase3": 445,
+        "cp": 2064,
+        "vp": 4391,
+        "phase3": 438,
         "structure": 244
     },
     {
         "variant": "All combinations of mutations",
-        "cp": 5438,
-        "vp": 12385,
-        "phase3": 817,
+        "cp": 5454,
+        "vp": 12688,
+        "phase3": 793,
         "structure": 417
     }
 ]

@@ -8,14 +8,14 @@
   cp_num_i_fold: 117
   cp_num_r_fold: 72
 - variant: Beta
-  cp_studies: 41
-  cp_samples: 1294
+  cp_studies: 42
+  cp_samples: 1302
   cp_s_fold: 31%
   cp_i_fold: 39%
   cp_r_fold: 30%
-  cp_num_s_fold: 402
-  cp_num_i_fold: 508
-  cp_num_r_fold: 384
+  cp_num_s_fold: 404
+  cp_num_i_fold: 510
+  cp_num_r_fold: 388
 - variant: Gamma
   cp_studies: 16
   cp_samples: 421
@@ -26,13 +26,13 @@
   cp_num_i_fold: 106
   cp_num_r_fold: 61
 - variant: Delta
-  cp_studies: 5
-  cp_samples: 98
-  cp_s_fold: 49%
-  cp_i_fold: 35%
-  cp_r_fold: 16%
-  cp_num_s_fold: 48
-  cp_num_i_fold: 34
+  cp_studies: 6
+  cp_samples: 106
+  cp_s_fold: 52%
+  cp_i_fold: 33%
+  cp_r_fold: 15%
+  cp_num_s_fold: 55
+  cp_num_i_fold: 35
   cp_num_r_fold: 16
 - variant: Iota
   cp_studies: 3
@@ -71,14 +71,14 @@
   cp_num_i_fold: 15
   cp_num_r_fold: 5
 - variant: E484K
-  cp_studies: 14
-  cp_samples: 194
-  cp_s_fold: 56%
+  cp_studies: 15
+  cp_samples: 218
+  cp_s_fold: 54%
   cp_i_fold: 28%
-  cp_r_fold: 16%
-  cp_num_s_fold: 109
-  cp_num_i_fold: 55
-  cp_num_r_fold: 30
+  cp_r_fold: 18%
+  cp_num_s_fold: 118
+  cp_num_i_fold: 60
+  cp_num_r_fold: 40
 - variant: K417N
   cp_studies: 9
   cp_samples: 144

@@ -74,13 +74,13 @@
     vp_num_r_fold: 1
   - name: Sputnik V
     vp_studies: 1
-    vp_samples: 9
-    vp_s_fold: 100%
-    vp_i_fold: 0
-    vp_r_fold: 0
-    vp_num_s_fold: 9
-    vp_num_i_fold: 0
-    vp_num_r_fold: 0
+    vp_samples: 7
+    vp_s_fold: 43%
+    vp_i_fold: 14%
+    vp_r_fold: 43%
+    vp_num_s_fold: 3
+    vp_num_i_fold: 1
+    vp_num_r_fold: 3
   - name: mRNA-1273
     vp_studies: 13
     vp_samples: 416
@@ -129,14 +129,14 @@
     vp_num_i_fold: 4
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 35
-    vp_samples: 1261
-    vp_s_fold: 24%
-    vp_i_fold: 48%
-    vp_r_fold: 28%
-    vp_num_s_fold: 308
-    vp_num_i_fold: 611
-    vp_num_r_fold: 342
+    vp_studies: 37
+    vp_samples: 1332
+    vp_s_fold: 27%
+    vp_i_fold: 46%
+    vp_r_fold: 27%
+    vp_num_s_fold: 364
+    vp_num_i_fold: 618
+    vp_num_r_fold: 350
   - name: CoronaVac
     vp_studies: 1
     vp_samples: 22
@@ -166,13 +166,13 @@
     vp_num_r_fold: 16
   - name: Sputnik V
     vp_studies: 1
-    vp_samples: 9
-    vp_s_fold: 11%
-    vp_i_fold: 22%
-    vp_r_fold: 67%
-    vp_num_s_fold: 1
-    vp_num_i_fold: 2
-    vp_num_r_fold: 6
+    vp_samples: 7
+    vp_s_fold: 86%
+    vp_i_fold: 14%
+    vp_r_fold: 0
+    vp_num_s_fold: 6
+    vp_num_i_fold: 1
+    vp_num_r_fold: 0
   - name: ZF2001
     vp_studies: 1
     vp_samples: 24
@@ -268,14 +268,14 @@
     vp_num_i_fold: 1
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 7
-    vp_samples: 205
-    vp_s_fold: 70%
+    vp_studies: 8
+    vp_samples: 220
+    vp_s_fold: 69%
     vp_i_fold: 29%
-    vp_r_fold: 1%
-    vp_num_s_fold: 144
-    vp_num_i_fold: 59
-    vp_num_r_fold: 2
+    vp_r_fold: 2%
+    vp_num_s_fold: 152
+    vp_num_i_fold: 63
+    vp_num_r_fold: 5
   - name: mRNA-1273
     vp_studies: 4
     vp_samples: 69
@@ -411,12 +411,12 @@
 - variant: N501Y
   vaccine:
   - name: BNT162b2
-    vp_studies: 4
-    vp_samples: 29
+    vp_studies: 5
+    vp_samples: 49
     vp_s_fold: 100%
     vp_i_fold: 0
     vp_r_fold: 0
-    vp_num_s_fold: 29
+    vp_num_s_fold: 49
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: mRNA-1273
@@ -431,23 +431,23 @@
 - variant: E484K
   vaccine:
   - name: BNT162b2
-    vp_studies: 7
-    vp_samples: 90
-    vp_s_fold: 51%
-    vp_i_fold: 44%
+    vp_studies: 8
+    vp_samples: 95
+    vp_s_fold: 49%
+    vp_i_fold: 46%
     vp_r_fold: 5%
-    vp_num_s_fold: 46
-    vp_num_i_fold: 40
+    vp_num_s_fold: 47
+    vp_num_i_fold: 44
     vp_num_r_fold: 4
   - name: Sputnik V
     vp_studies: 1
-    vp_samples: 9
-    vp_s_fold: 22%
-    vp_i_fold: 11%
-    vp_r_fold: 67%
+    vp_samples: 8
+    vp_s_fold: 25%
+    vp_i_fold: 12%
+    vp_r_fold: 63%
     vp_num_s_fold: 2
     vp_num_i_fold: 1
-    vp_num_r_fold: 6
+    vp_num_r_fold: 5
   - name: mRNA-1273
     vp_studies: 6
     vp_samples: 107

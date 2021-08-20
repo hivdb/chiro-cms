@@ -14,7 +14,7 @@
     s_fold: 13
     i_fold: 0
     r_fold: 0
-    reference: Geers21[^Geers21]
+    reference: Geers21*[^Geers21]
     median: 0.3
   - variant: Alpha
     rx: BNT_uninfected
@@ -38,7 +38,7 @@
     s_fold: 107
     i_fold: 0
     r_fold: 0
-    reference: Betton21[^Betton21]
+    reference: Betton21*[^Betton21]
     median: 0.8
   - variant: Alpha
     rx: CP
@@ -94,7 +94,7 @@
     s_fold: 39
     i_fold: 0
     r_fold: 0
-    reference: Jalkanen21[^Jalkanen21]
+    reference: Jalkanen21*[^Jalkanen21]
     median: '1'
   - variant: Alpha
     rx: CP
@@ -110,7 +110,7 @@
     s_fold: 10
     i_fold: 0
     r_fold: 0
-    reference: Leier21[^Leier21]
+    reference: Leier21*[^Leier21]
     median: 1.5
   - variant: Alpha
     rx: CP
@@ -150,7 +150,7 @@
     s_fold: 5
     i_fold: 0
     r_fold: 0
-    reference: Rondinone21[^Rondinone21]
+    reference: Rondinone21*[^Rondinone21]
     median: '1'
   - variant: Alpha
     rx: CP
@@ -222,7 +222,7 @@
     s_fold: 22
     i_fold: 3
     r_fold: 0
-    reference: Virtanen21[^Virtanen21]
+    reference: Virtanen21*[^Virtanen21]
     median: '1'
   - variant: Alpha
     rx: CP
@@ -286,7 +286,7 @@
     s_fold: 9
     i_fold: 0
     r_fold: 0
-    reference: Virtanen21[^Virtanen21]
+    reference: Virtanen21*[^Virtanen21]
     median: '1'
   - variant: Alpha
     rx: CP_8M
@@ -302,7 +302,7 @@
     s_fold: 2
     i_fold: 0
     r_fold: 7
-    reference: Skelly21[^Skelly21]
+    reference: Skelly21*[^Skelly21]
     median: '2.3'
   - variant: Alpha
     rx: CP_M3
@@ -334,7 +334,7 @@
     s_fold: 17
     i_fold: 3
     r_fold: 0
-    reference: Faulkner21[^Faulkner21]
+    reference: Faulkner21*[^Faulkner21]
     median: '1.9'
   - variant: Alpha
     rx: CP_Mild
@@ -350,7 +350,7 @@
     s_fold: 6
     i_fold: 3
     r_fold: 3
-    reference: Skelly21[^Skelly21]
+    reference: Skelly21*[^Skelly21]
     median: '2.9'
   - variant: Alpha
     rx: CP_Patient
@@ -358,7 +358,7 @@
     s_fold: 9
     i_fold: 1
     r_fold: 3
-    reference: Faulkner21[^Faulkner21]
+    reference: Faulkner21*[^Faulkner21]
     median: '1.3'
   - variant: Alpha
     rx: CP_Patient_M3
@@ -366,7 +366,7 @@
     s_fold: 9
     i_fold: 0
     r_fold: 3
-    reference: Faulkner21[^Faulkner21]
+    reference: Faulkner21*[^Faulkner21]
     median: '1.4'
   - variant: Alpha
     rx: CP_Severe
@@ -406,7 +406,7 @@
     s_fold: 28
     i_fold: 0
     r_fold: 0
-    reference: Ganiels21[^Ganiels21]
+    reference: Caniels21[^Caniels21]
     median: 1.2
   - variant: Alpha
     rx: CP_low_titer
@@ -430,7 +430,7 @@
     s_fold: 41
     i_fold: 0
     r_fold: 0
-    reference: Ganiels21[^Ganiels21]
+    reference: Caniels21[^Caniels21]
     median: 1.8
   - variant: Alpha
     rx: IVIG
@@ -438,7 +438,7 @@
     s_fold: 6
     i_fold: 0
     r_fold: 0
-    reference: Tang21[^Tang21]
+    reference: Tang21*[^Tang21]
     median: '2.4'
   - variant: Alpha
     rx: VAC_recovered
@@ -446,7 +446,7 @@
     s_fold: 4
     i_fold: 0
     r_fold: 2
-    reference: Jalkanen21[^Jalkanen21]
+    reference: Jalkanen21*[^Jalkanen21]
     median: '1.5'
 - variant: Beta
   assays:
@@ -456,7 +456,7 @@
     s_fold: 4
     i_fold: 3
     r_fold: 0
-    reference: Turner21[^Turner21]
+    reference: Turner21*[^Turner21]
     median: '2.3'
   - variant: Beta
     rx: BNT_recovered
@@ -464,7 +464,7 @@
     s_fold: 0
     i_fold: 13
     r_fold: 0
-    reference: Geers21[^Geers21]
+    reference: Geers21*[^Geers21]
     median: 3.1
   - variant: Beta
     rx: BNT_uninfected
@@ -472,8 +472,16 @@
     s_fold: 1
     i_fold: 0
     r_fold: 1
-    reference: Turner21[^Turner21]
+    reference: Turner21*[^Turner21]
     median: '1.4'
+  - variant: Beta
+    rx: CP
+    samples: 8
+    s_fold: 2
+    i_fold: 2
+    r_fold: 4
+    reference: Arora21[^Arora21]
+    median: '8.6'
   - variant: Beta
     rx: CP
     samples: 31
@@ -488,7 +496,7 @@
     s_fold: 0
     i_fold: 107
     r_fold: 0
-    reference: Betton21[^Betton21]
+    reference: Betton21*[^Betton21]
     median: 3.7
   - variant: Beta
     rx: CP
@@ -528,7 +536,7 @@
     s_fold: 36
     i_fold: 2
     r_fold: 1
-    reference: Jalkanen21[^Jalkanen21]
+    reference: Jalkanen21*[^Jalkanen21]
     median: '1'
   - variant: Beta
     rx: CP
@@ -544,7 +552,7 @@
     s_fold: 10
     i_fold: 0
     r_fold: 0
-    reference: Leier21[^Leier21]
+    reference: Leier21*[^Leier21]
     median: 1.9
   - variant: Beta
     rx: CP
@@ -664,7 +672,7 @@
     s_fold: 2
     i_fold: 8
     r_fold: 15
-    reference: Virtanen21[^Virtanen21]
+    reference: Virtanen21*[^Virtanen21]
     median: '6'
   - variant: Beta
     rx: CP
@@ -760,7 +768,7 @@
     s_fold: 1
     i_fold: 4
     r_fold: 4
-    reference: Virtanen21[^Virtanen21]
+    reference: Virtanen21*[^Virtanen21]
     median: '4'
   - variant: Beta
     rx: CP_8M
@@ -776,7 +784,7 @@
     s_fold: 1
     i_fold: 0
     r_fold: 8
-    reference: Skelly21[^Skelly21]
+    reference: Skelly21*[^Skelly21]
     median: '2.3'
   - variant: Beta
     rx: CP_M3
@@ -808,7 +816,7 @@
     s_fold: 1
     i_fold: 10
     r_fold: 9
-    reference: Faulkner21[^Faulkner21]
+    reference: Faulkner21*[^Faulkner21]
     median: '9.6'
   - variant: Beta
     rx: CP_Mild
@@ -816,7 +824,7 @@
     s_fold: 1
     i_fold: 0
     r_fold: 11
-    reference: Skelly21[^Skelly21]
+    reference: Skelly21*[^Skelly21]
     median: '10'
   - variant: Beta
     rx: CP_Orleans
@@ -832,7 +840,7 @@
     s_fold: 0
     i_fold: 1
     r_fold: 12
-    reference: Faulkner21[^Faulkner21]
+    reference: Faulkner21*[^Faulkner21]
     median: '3.9'
   - variant: Beta
     rx: CP_Patient_M3
@@ -840,7 +848,7 @@
     s_fold: 0
     i_fold: 1
     r_fold: 11
-    reference: Faulkner21[^Faulkner21]
+    reference: Faulkner21*[^Faulkner21]
     median: '3.5'
   - variant: Beta
     rx: CP_RBD_Immu
@@ -888,7 +896,7 @@
     s_fold: 0
     i_fold: 28
     r_fold: 0
-    reference: Ganiels21[^Ganiels21]
+    reference: Caniels21[^Caniels21]
     median: 6.0
   - variant: Beta
     rx: CP_infected
@@ -928,7 +936,7 @@
     s_fold: 0
     i_fold: 41
     r_fold: 0
-    reference: Ganiels21[^Ganiels21]
+    reference: Caniels21[^Caniels21]
     median: 5.0
   - variant: Beta
     rx: IVIG
@@ -936,7 +944,7 @@
     s_fold: 1
     i_fold: 4
     r_fold: 1
-    reference: Tang21[^Tang21]
+    reference: Tang21*[^Tang21]
     median: '6.5'
   - variant: Beta
     rx: VAC_recovered
@@ -944,10 +952,18 @@
     s_fold: 1
     i_fold: 0
     r_fold: 5
-    reference: Jalkanen21[^Jalkanen21]
+    reference: Jalkanen21*[^Jalkanen21]
     median: '4'
 - variant: Delta
   assays:
+  - variant: Delta
+    rx: CP
+    samples: 8
+    s_fold: 7
+    i_fold: 1
+    r_fold: 0
+    reference: Arora21[^Arora21]
+    median: '1.8'
   - variant: Delta
     rx: CP
     samples: 24
@@ -1038,7 +1054,7 @@
     s_fold: 107
     i_fold: 0
     r_fold: 0
-    reference: Betton21[^Betton21]
+    reference: Betton21*[^Betton21]
     median: 1.0
   - variant: Gamma
     rx: CP
@@ -1070,7 +1086,7 @@
     s_fold: 23
     i_fold: 1
     r_fold: 7
-    reference: Imai21[^Imai21]
+    reference: Imai21*[^Imai21]
     median: '2'
   - variant: Gamma
     rx: CP
@@ -1114,12 +1130,20 @@
     median: '4.0'
   - variant: Gamma
     rx: CP
-    samples: 40
-    s_fold: 25
-    i_fold: 12
-    r_fold: 3
+    samples: 20
+    s_fold: 12
+    i_fold: 7
+    r_fold: 1
     reference: Wang21d[^Wang21d]
-    median: '2.1'
+    median: '2.4'
+  - variant: Gamma
+    rx: CP
+    samples: 20
+    s_fold: 13
+    i_fold: 5
+    r_fold: 2
+    reference: Wang21d*[^Wang21d]
+    median: '1.5'
   - variant: Gamma
     rx: CP
     samples: 24
@@ -1158,7 +1182,7 @@
     s_fold: 28
     i_fold: 0
     r_fold: 0
-    reference: Ganiels21[^Ganiels21]
+    reference: Caniels21[^Caniels21]
     median: 2.4
   - variant: Gamma
     rx: CP_low_titer
@@ -1182,7 +1206,7 @@
     s_fold: 0
     i_fold: 41
     r_fold: 0
-    reference: Ganiels21[^Ganiels21]
+    reference: Caniels21[^Caniels21]
     median: 3.0
 - variant: Iota
   assays:

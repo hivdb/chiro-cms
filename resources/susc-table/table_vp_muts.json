@@ -15,6 +15,16 @@
             {
                 "variant": "E484K",
                 "rx": "BNT162b2",
+                "samples": 5,
+                "s_fold": 1,
+                "i_fold": 4,
+                "r_fold": 0,
+                "reference": "Jangra21[^Jangra21]",
+                "median": "4.4"
+            },
+            {
+                "variant": "E484K",
+                "rx": "BNT162b2",
                 "samples": 10,
                 "s_fold": 0,
                 "i_fold": 10,
@@ -75,12 +85,12 @@
             {
                 "variant": "E484K",
                 "rx": "Sputnik V",
-                "samples": 9,
+                "samples": 8,
                 "s_fold": 2,
                 "i_fold": 1,
-                "r_fold": 6,
+                "r_fold": 5,
                 "reference": "Ikegame21[^Ikegame21]",
-                "median": "2.9"
+                "median": "6.5"
             },
             {
                 "variant": "E484K",
@@ -166,6 +176,16 @@
                 "r_fold": 0,
                 "reference": "Kuzmina21[^Kuzmina21]",
                 "median": 1.1
+            },
+            {
+                "variant": "E484K + N501Y",
+                "rx": "BNT162b2",
+                "samples": 20,
+                "s_fold": 20,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Xie21[^Xie21]",
+                "median": "1"
             },
             {
                 "variant": "E484K + N501Y",
@@ -514,6 +534,16 @@
             },
             {
                 "variant": "N501Y",
+                "rx": "BNT162b2",
+                "samples": 20,
+                "s_fold": 20,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Xie21[^Xie21]",
+                "median": "0.8"
+            },
+            {
+                "variant": "N501Y",
                 "rx": "mRNA-1273",
                 "samples": 14,
                 "s_fold": 14,
@@ -662,6 +692,16 @@
     {
         "variant": "∆69/70 + N501Y",
         "assays": [
+            {
+                "variant": "∆69/70 + N501Y",
+                "rx": "BNT162b2",
+                "samples": 20,
+                "s_fold": 20,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Xie21[^Xie21]",
+                "median": "0.8"
+            },
             {
                 "variant": "∆69/70 + N501Y",
                 "rx": "mRNA-1273",

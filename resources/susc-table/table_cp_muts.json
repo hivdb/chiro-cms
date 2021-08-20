@@ -25,6 +25,16 @@
             {
                 "variant": "E484K",
                 "rx": "CP",
+                "samples": 24,
+                "s_fold": 9,
+                "i_fold": 5,
+                "r_fold": 10,
+                "reference": "Jangra21[^Jangra21]",
+                "median": "3.5"
+            },
+            {
+                "variant": "E484K",
+                "rx": "CP",
                 "samples": 15,
                 "s_fold": 12,
                 "i_fold": 3,

@@ -103,11 +103,6 @@
   - variant: E484K
     rx: Casirivimab/Imdevimab
     mab_class: ''
-    fold: '0.3'
-    reference: Tada21e[^Tada21e]
-  - variant: E484K
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
     fold: '1.5'
     reference: Wang21[^Wang21]
   - variant: E484K
@@ -118,6 +113,11 @@
   - variant: E484K
     rx: Casirivimab/Imdevimab
     mab_class: ''
+    fold: '3.5'
+    reference: Tada21e[^Tada21e]
+  - variant: E484K
+    rx: Casirivimab/Imdevimab
+    mab_class: ''
     fold: '4'
     reference: Yuan21[^Yuan21]
   - variant: E484K
@@ -125,6 +125,11 @@
     mab_class: ''
     fold: '1.7'
     reference: Chen21[^Chen21]
+  - variant: E484K
+    rx: Cilgavimab
+    mab_class: ''
+    fold: '1.6'
+    reference: Dong21[^Dong21]
   - variant: E484K
     rx: Cilgavimab
     mab_class: ''
@@ -145,6 +150,11 @@
     mab_class: ''
     fold: '3.2'
     reference: Chen21[^Chen21]
+  - variant: E484K
+    rx: Cilgavimab/Tixagevimab
+    mab_class: ''
+    fold: '3.1'
+    reference: Dong21[^Dong21]
   - variant: E484K
     rx: Imdevimab/REGN10989
     mab_class: ''
@@ -185,6 +195,11 @@
     mab_class: ''
     fold: '4.7'
     reference: Chen21[^Chen21]
+  - variant: E484K
+    rx: Tixagevimab
+    mab_class: ''
+    fold: '4.4'
+    reference: Dong21[^Dong21]
   - variant: E484K
     rx: Tixagevimab
     mab_class: ''
@@ -278,7 +293,7 @@
   - variant: E484K
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.8'
+    fold: '1.3'
     reference: Tada21e[^Tada21e]
   - variant: E484K
     rx: Imdevimab
@@ -403,11 +418,6 @@
   - variant: E484K
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '0'
-    reference: Tada21e[^Tada21e]
-  - variant: E484K
-    rx: Casirivimab
-    mab_class: RBM Class I
     fold: '4.4'
     reference: Rothenberger21[^Rothenberger21]
   - variant: E484K
@@ -445,6 +455,11 @@
     mab_class: RBM Class I
     fold: '53'
     reference: Tada21c[^Tada21c]
+  - variant: E484K
+    rx: Casirivimab
+    mab_class: RBM Class I
+    fold: '53'
+    reference: Tada21e[^Tada21e]
   - variant: E484K
     rx: Casirivimab
     mab_class: RBM Class I
@@ -682,7 +697,7 @@
   - variant: F490S
     rx: Casirivimab/Imdevimab
     mab_class: ''
-    fold: '20'
+    fold: '0.1'
     reference: Tada21e[^Tada21e]
   - variant: F490S
     rx: Imdevimab/REGN10989
@@ -727,7 +742,7 @@
   - variant: F490S
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.8'
+    fold: '1.2'
     reference: Tada21e[^Tada21e]
   - variant: F490S
     rx: Vir-7831
@@ -757,7 +772,7 @@
   - variant: F490S
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '1.5'
+    fold: '0.7'
     reference: Tada21e[^Tada21e]
   - variant: F490S
     rx: Etesevimab
@@ -894,11 +909,6 @@
   - variant: K417N
     rx: Casirivimab/Imdevimab
     mab_class: ''
-    fold: '0.1'
-    reference: Tada21e[^Tada21e]
-  - variant: K417N
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
     fold: '0.8'
     reference: Wang21[^Wang21]
   - variant: K417N
@@ -906,6 +916,11 @@
     mab_class: ''
     fold: '1.5'
     reference: Yuan21[^Yuan21]
+  - variant: K417N
+    rx: Casirivimab/Imdevimab
+    mab_class: ''
+    fold: '7.3'
+    reference: Tada21e[^Tada21e]
   - variant: K417N
     rx: Cilgavimab
     mab_class: ''
@@ -1025,6 +1040,11 @@
     rx: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.3'
+    reference: Tada21e[^Tada21e]
+  - variant: K417N
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.3'
     reference: Wang21[^Wang21]
   - variant: K417N
     rx: Imdevimab
@@ -1046,11 +1066,6 @@
     mab_class: RBD Core Cluster I
     fold: '0.6'
     reference: Yuan21[^Yuan21]
-  - variant: K417N
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '3'
-    reference: Tada21e[^Tada21e]
   - variant: K417N
     rx: Vir-7831
     mab_class: RBD Core Cluster I
@@ -1134,11 +1149,6 @@
   - variant: K417N
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '0'
-    reference: Tada21e[^Tada21e]
-  - variant: K417N
-    rx: Casirivimab
-    mab_class: RBM Class I
     fold: '7'
     reference: FDA21[^FDA21]
   - variant: K417N
@@ -1161,6 +1171,11 @@
     mab_class: RBM Class I
     fold: '49'
     reference: Tada21[^Tada21]
+  - variant: K417N
+    rx: Casirivimab
+    mab_class: RBM Class I
+    fold: '&gt;100'
+    reference: Tada21e[^Tada21e]
   - variant: K417N
     rx: Casirivimab
     mab_class: RBM Class I
@@ -1548,11 +1563,6 @@
   - variant: L452R
     rx: Casirivimab/Imdevimab
     mab_class: ''
-    fold: '0.1'
-    reference: Tada21e[^Tada21e]
-  - variant: L452R
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
     fold: '4'
     reference: Tada21c[^Tada21c]
   - variant: L452R
@@ -1560,6 +1570,11 @@
     mab_class: ''
     fold: '12'
     reference: Tada21c[^Tada21c]
+  - variant: L452R
+    rx: Casirivimab/Imdevimab
+    mab_class: ''
+    fold: '17'
+    reference: Tada21e[^Tada21e]
   - variant: L452R
     rx: H4
     mab_class: ''
@@ -1593,11 +1608,6 @@
   - variant: L452R
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.1'
-    reference: Tada21e[^Tada21e]
-  - variant: L452R
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
     fold: '0.7'
     reference: Wang21e[^Wang21e]
   - variant: L452R
@@ -1605,6 +1615,11 @@
     mab_class: RBD Core Cluster I
     fold: '5.3'
     reference: Tada21c[^Tada21c]
+  - variant: L452R
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '7'
+    reference: Tada21e[^Tada21e]
   - variant: L452R
     rx: Imdevimab
     mab_class: RBD Core Cluster I
@@ -1648,11 +1663,6 @@
   - variant: L452R
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '0.1'
-    reference: Tada21e[^Tada21e]
-  - variant: L452R
-    rx: Casirivimab
-    mab_class: RBM Class I
     fold: '0.8'
     reference: Wang21e[^Wang21e]
   - variant: L452R
@@ -1670,6 +1680,11 @@
     mab_class: RBM Class I
     fold: '24'
     reference: Tada21c[^Tada21c]
+  - variant: L452R
+    rx: Casirivimab
+    mab_class: RBM Class I
+    fold: '11'
+    reference: Tada21e[^Tada21e]
   - variant: L452R
     rx: Etesevimab
     mab_class: RBM Class I
@@ -2611,17 +2626,17 @@
   - variant: T478K
     rx: Casirivimab/Imdevimab
     mab_class: ''
-    fold: '0.4'
+    fold: '2.8'
     reference: Tada21e[^Tada21e]
   - variant: T478K
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.7'
+    fold: '1.4'
     reference: Tada21e[^Tada21e]
   - variant: T478K
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '0.3'
+    fold: '3.3'
     reference: Tada21e[^Tada21e]
   - variant: T478K
     rx: Regdanvimab
