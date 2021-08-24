@@ -547,6 +547,14 @@
 - variant: N439K
   assays:
   - variant: N439K
+    rx: BNT
+    samples: 5
+    s_fold: 0
+    i_fold: 5
+    r_fold: 0
+    reference: Sahin21[^Sahin21]
+    median: 3.7
+  - variant: N439K
     rx: CP
     samples: 10
     s_fold: 10

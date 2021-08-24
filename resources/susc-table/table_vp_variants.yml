@@ -42,20 +42,20 @@
     median: '2'
   - variant: Alpha
     rx: Ad26.COV2.S
-    samples: 19
-    s_fold: 17
-    i_fold: 0
-    r_fold: 2
-    reference: Alter21[^Alter21]
-    median: '1.4'
-  - variant: Alpha
-    rx: Ad26.COV2.S
     samples: 20
     s_fold: 13
     i_fold: 6
     r_fold: 1
     reference: Alter21[^Alter21]
     median: '2.2'
+  - variant: Alpha
+    rx: Ad26.COV2.S
+    samples: 19
+    s_fold: 17
+    i_fold: 0
+    r_fold: 2
+    reference: Alter21[^Alter21]
+    median: '1.4'
   - variant: Alpha
     rx: Ad26.COV2.S
     samples: 25
@@ -97,6 +97,14 @@
     reference: Wang21g[^Wang21g]
     median: '0.9'
   - variant: Alpha
+    rx: BBIBP-CorV
+    samples: 470
+    s_fold: 470
+    i_fold: 0
+    r_fold: 0
+    reference: Zhang21d[^Zhang21d]
+    median: 2.0
+  - variant: Alpha
     rx: BBV152
     samples: 38
     s_fold: 37
@@ -111,6 +119,14 @@
     i_fold: 0
     r_fold: 0
     reference: Yadav21*[^Yadav21]
+    median: '1.2'
+  - variant: Alpha
+    rx: BBV154
+    samples: 24
+    s_fold: 23
+    i_fold: 1
+    r_fold: 0
+    reference: Chen21*[^Chen21]
     median: '1.2'
   - variant: Alpha
     rx: BNT162b2
@@ -226,18 +242,18 @@
     median: '1.4'
   - variant: Alpha
     rx: BNT162b2
-    samples: 180
-    s_fold: 176
-    i_fold: 3
-    r_fold: 1
-    reference: Jalkanen21*[^Jalkanen21]
-    median: '1'
-  - variant: Alpha
-    rx: BNT162b2
     samples: 69
     s_fold: 55
     i_fold: 0
     r_fold: 14
+    reference: Jalkanen21*[^Jalkanen21]
+    median: '1'
+  - variant: Alpha
+    rx: BNT162b2
+    samples: 180
+    s_fold: 176
+    i_fold: 3
+    r_fold: 1
     reference: Jalkanen21*[^Jalkanen21]
     median: '1'
   - variant: Alpha
@@ -338,20 +354,20 @@
     median: '1.3'
   - variant: Alpha
     rx: BNT162b2
-    samples: 36
-    s_fold: 34
-    i_fold: 2
-    r_fold: 0
-    reference: Planas21[^Planas21]
-    median: '0.6'
-  - variant: Alpha
-    rx: BNT162b2
     samples: 31
     s_fold: 19
     i_fold: 11
     r_fold: 1
     reference: Planas21[^Planas21]
     median: '2.3'
+  - variant: Alpha
+    rx: BNT162b2
+    samples: 36
+    s_fold: 34
+    i_fold: 2
+    r_fold: 0
+    reference: Planas21[^Planas21]
+    median: '0.6'
   - variant: Alpha
     rx: BNT162b2
     samples: 27
@@ -386,16 +402,16 @@
     median: '2.4'
   - variant: Alpha
     rx: BNT162b2
-    samples: 14
-    s_fold: 14
+    samples: 10
+    s_fold: 10
     i_fold: 0
     r_fold: 0
     reference: Stankov21[^Stankov21]
     median: '1'
   - variant: Alpha
     rx: BNT162b2
-    samples: 10
-    s_fold: 10
+    samples: 14
+    s_fold: 14
     i_fold: 0
     r_fold: 0
     reference: Stankov21[^Stankov21]
@@ -529,14 +545,6 @@
     reference: Zuckerman21*[^Zuckerman21]
     median: 1.9
   - variant: Alpha
-    rx: ChAd-SARS-CoV-2
-    samples: 24
-    s_fold: 23
-    i_fold: 1
-    r_fold: 0
-    reference: Chen21*[^Chen21]
-    median: '1.2'
-  - variant: Alpha
     rx: CoronaVac
     samples: 75
     s_fold: 52
@@ -544,6 +552,14 @@
     r_fold: 3
     reference: Acevedo21[^Acevedo21]
     median: '2'
+  - variant: Alpha
+    rx: CoronaVac
+    samples: 93
+    s_fold: 93
+    i_fold: 0
+    r_fold: 0
+    reference: Chen21c[^Chen21c]
+    median: 1.5
   - variant: Alpha
     rx: CoronaVac
     samples: 22
@@ -568,6 +584,22 @@
     r_fold: 1
     reference: Shen21[^Shen21]
     median: '2.2'
+  - variant: Alpha
+    rx: Sputnik V
+    samples: 8
+    s_fold: 7
+    i_fold: 1
+    r_fold: 0
+    reference: Gushchin21[^Gushchin21]
+    median: '1.7'
+  - variant: Alpha
+    rx: Sputnik V
+    samples: 27
+    s_fold: 27
+    i_fold: 0
+    r_fold: 0
+    reference: Gushchin21*[^Gushchin21]
+    median: 1.0
   - variant: Alpha
     rx: Sputnik V
     samples: 7
@@ -756,20 +788,20 @@
     median: '7.4'
   - variant: Beta
     rx: Ad26.COV2.S
-    samples: 19
-    s_fold: 6
-    i_fold: 5
-    r_fold: 8
-    reference: Alter21[^Alter21]
-    median: '3.3'
-  - variant: Beta
-    rx: Ad26.COV2.S
     samples: 20
     s_fold: 5
     i_fold: 11
     r_fold: 4
     reference: Alter21[^Alter21]
     median: '4.1'
+  - variant: Beta
+    rx: Ad26.COV2.S
+    samples: 19
+    s_fold: 6
+    i_fold: 5
+    r_fold: 8
+    reference: Alter21[^Alter21]
+    median: '3.3'
   - variant: Beta
     rx: Ad26.COV2.S
     samples: 25
@@ -827,6 +859,14 @@
     reference: Wang21g[^Wang21g]
     median: '4.3'
   - variant: Beta
+    rx: BBIBP-CorV
+    samples: 470
+    s_fold: 0
+    i_fold: 470
+    r_fold: 0
+    reference: Zhang21d[^Zhang21d]
+    median: 5.0
+  - variant: Beta
     rx: BBV152
     samples: 17
     s_fold: 9
@@ -834,6 +874,14 @@
     r_fold: 4
     reference: Yadav21b*[^Yadav21b]
     median: '2.5'
+  - variant: Beta
+    rx: BBV154
+    samples: 24
+    s_fold: 7
+    i_fold: 6
+    r_fold: 11
+    reference: Chen21[^Chen21]
+    median: '8.6'
   - variant: Beta
     rx: BNT162b2
     samples: 10
@@ -924,20 +972,20 @@
     median: 3.3
   - variant: Beta
     rx: BNT162b2
-    samples: 34
-    s_fold: 18
-    i_fold: 16
-    r_fold: 0
-    reference: Goel21[^Goel21]
-    median: '2.8'
-  - variant: Beta
-    rx: BNT162b2
     samples: 53
     s_fold: 23
     i_fold: 12
     r_fold: 18
     reference: Goel21[^Goel21]
     median: '2'
+  - variant: Beta
+    rx: BNT162b2
+    samples: 34
+    s_fold: 18
+    i_fold: 16
+    r_fold: 0
+    reference: Goel21[^Goel21]
+    median: '2.8'
   - variant: Beta
     rx: BNT162b2
     samples: 15
@@ -956,18 +1004,18 @@
     median: '7.6'
   - variant: Beta
     rx: BNT162b2
-    samples: 180
-    s_fold: 34
-    i_fold: 97
-    r_fold: 49
-    reference: Jalkanen21*[^Jalkanen21]
-    median: '4'
-  - variant: Beta
-    rx: BNT162b2
     samples: 69
     s_fold: 9
     i_fold: 8
     r_fold: 52
+    reference: Jalkanen21*[^Jalkanen21]
+    median: '4'
+  - variant: Beta
+    rx: BNT162b2
+    samples: 180
+    s_fold: 34
+    i_fold: 97
+    r_fold: 49
     reference: Jalkanen21*[^Jalkanen21]
     median: '4'
   - variant: Beta
@@ -1092,14 +1140,6 @@
     median: '2.9'
   - variant: Beta
     rx: BNT162b2
-    samples: 22
-    s_fold: 7
-    i_fold: 6
-    r_fold: 9
-    reference: Stamatatos21[^Stamatatos21]
-    median: '3.6'
-  - variant: Beta
-    rx: BNT162b2
     samples: 46
     s_fold: 5
     i_fold: 25
@@ -1108,12 +1148,12 @@
     median: '7.3'
   - variant: Beta
     rx: BNT162b2
-    samples: 14
-    s_fold: 11
-    i_fold: 3
-    r_fold: 0
-    reference: Stankov21[^Stankov21]
-    median: '1.5'
+    samples: 22
+    s_fold: 7
+    i_fold: 6
+    r_fold: 9
+    reference: Stamatatos21[^Stamatatos21]
+    median: '3.6'
   - variant: Beta
     rx: BNT162b2
     samples: 10
@@ -1122,6 +1162,14 @@
     r_fold: 0
     reference: Stankov21[^Stankov21]
     median: '2'
+  - variant: Beta
+    rx: BNT162b2
+    samples: 14
+    s_fold: 11
+    i_fold: 3
+    r_fold: 0
+    reference: Stankov21[^Stankov21]
+    median: '1.5'
   - variant: Beta
     rx: BNT162b2
     samples: 5
@@ -1156,14 +1204,6 @@
     median: '3.6'
   - variant: Beta
     rx: BNT162b2
-    samples: 40
-    s_fold: 10
-    i_fold: 25
-    r_fold: 5
-    reference: Turner21*[^Turner21]
-    median: '3.8'
-  - variant: Beta
-    rx: BNT162b2
     samples: 32
     s_fold: 16
     i_fold: 7
@@ -1172,12 +1212,12 @@
     median: '2.6'
   - variant: Beta
     rx: BNT162b2
-    samples: 247
-    s_fold: 49
-    i_fold: 38
-    r_fold: 160
-    reference: Wall21*[^Wall21]
-    median: '9.6'
+    samples: 40
+    s_fold: 10
+    i_fold: 25
+    r_fold: 5
+    reference: Turner21*[^Turner21]
+    median: '3.8'
   - variant: Beta
     rx: BNT162b2
     samples: 213
@@ -1186,6 +1226,14 @@
     r_fold: 33
     reference: Wall21*[^Wall21]
     median: '4.5'
+  - variant: Beta
+    rx: BNT162b2
+    samples: 247
+    s_fold: 49
+    i_fold: 38
+    r_fold: 160
+    reference: Wall21*[^Wall21]
+    median: '9.6'
   - variant: Beta
     rx: BNT162b2
     samples: 10
@@ -1235,13 +1283,13 @@
     reference: Zhou21c[^Zhou21c]
     median: '3.3'
   - variant: Beta
-    rx: ChAd-SARS-CoV-2
-    samples: 24
-    s_fold: 7
-    i_fold: 6
-    r_fold: 11
-    reference: Chen21[^Chen21]
-    median: '8.6'
+    rx: CoronaVac
+    samples: 93
+    s_fold: 0
+    i_fold: 93
+    r_fold: 0
+    reference: Chen21c[^Chen21c]
+    median: 5.3
   - variant: Beta
     rx: CoronaVac
     samples: 22
@@ -1274,6 +1322,22 @@
     r_fold: 16
     reference: Shen21b[^Shen21b]
     median: '13'
+  - variant: Beta
+    rx: Sputnik V
+    samples: 8
+    s_fold: 1
+    i_fold: 7
+    r_fold: 0
+    reference: Gushchin21[^Gushchin21]
+    median: '4.5'
+  - variant: Beta
+    rx: Sputnik V
+    samples: 27
+    s_fold: 0
+    i_fold: 27
+    r_fold: 0
+    reference: Gushchin21*[^Gushchin21]
+    median: 4.1
   - variant: Beta
     rx: Sputnik V
     samples: 7
@@ -1460,6 +1524,22 @@
     median: '6.6'
   - variant: Beta
     rx: mRNA-1273
+    samples: 20
+    s_fold: 0
+    i_fold: 20
+    r_fold: 0
+    reference: Wu21c[^Wu21c]
+    median: 4.8
+  - variant: Beta
+    rx: mRNA-1273
+    samples: 20
+    s_fold: 0
+    i_fold: 20
+    r_fold: 0
+    reference: Wu21c[^Wu21c]
+    median: 3.8
+  - variant: Beta
+    rx: mRNA-1273
     samples: 3
     s_fold: 1
     i_fold: 2
@@ -1490,6 +1570,22 @@
     r_fold: 0
     reference: Wu21b[^Wu21b]
     median: '0.3'
+  - variant: Beta
+    rx: mRNA-1273.351
+    samples: 20
+    s_fold: 0
+    i_fold: 20
+    r_fold: 0
+    reference: Wu21c[^Wu21c]
+    median: 5.1
+  - variant: Beta
+    rx: mRNA-1273.351
+    samples: 20
+    s_fold: 20
+    i_fold: 0
+    r_fold: 0
+    reference: Wu21c[^Wu21c]
+    median: 2.2
 - variant: Delta
   assays:
   - variant: Delta
@@ -1534,20 +1630,20 @@
     median: 4.0
   - variant: Delta
     rx: AZD1222
-    samples: 39
-    s_fold: 20
-    i_fold: 6
-    r_fold: 13
-    reference: Sapkal21c[^Sapkal21c]
-    median: '2.6'
-  - variant: Delta
-    rx: AZD1222
     samples: 47
     s_fold: 30
     i_fold: 10
     r_fold: 7
     reference: Sapkal21c[^Sapkal21c]
     median: '2.2'
+  - variant: Delta
+    rx: AZD1222
+    samples: 39
+    s_fold: 20
+    i_fold: 6
+    r_fold: 13
+    reference: Sapkal21c[^Sapkal21c]
+    median: '2.6'
   - variant: Delta
     rx: Ad26.COV2.S
     samples: 18
@@ -1661,6 +1757,30 @@
     reference: Tada21e[^Tada21e]
     median: '3.0'
   - variant: Delta
+    rx: BNT162b2
+    samples: 209
+    s_fold: 36
+    i_fold: 135
+    r_fold: 38
+    reference: Wall21[^Wall21]
+    median: '5.2'
+  - variant: Delta
+    rx: BNT162b2
+    samples: 225
+    s_fold: 38
+    i_fold: 35
+    r_fold: 152
+    reference: Wall21[^Wall21]
+    median: '9.4'
+  - variant: Delta
+    rx: Sputnik V
+    samples: 16
+    s_fold: 16
+    i_fold: 0
+    r_fold: 0
+    reference: Gushchin21[^Gushchin21]
+    median: 2.4
+  - variant: Delta
     rx: mRNA-1273
     samples: 8
     s_fold: 7
@@ -1696,20 +1816,20 @@
   assays:
   - variant: Epsilon
     rx: Ad26.COV2.S
-    samples: 19
-    s_fold: 12
-    i_fold: 2
-    r_fold: 5
-    reference: Alter21[^Alter21]
-    median: '2.4'
-  - variant: Epsilon
-    rx: Ad26.COV2.S
     samples: 20
     s_fold: 12
     i_fold: 5
     r_fold: 3
     reference: Alter21[^Alter21]
     median: '2.8'
+  - variant: Epsilon
+    rx: Ad26.COV2.S
+    samples: 19
+    s_fold: 12
+    i_fold: 2
+    r_fold: 5
+    reference: Alter21[^Alter21]
+    median: '2.4'
   - variant: Epsilon
     rx: Ad26.COV2.S
     samples: 18
@@ -1750,6 +1870,14 @@
     r_fold: 1
     reference: McCallum21b[^McCallum21b]
     median: '2.5'
+  - variant: Epsilon
+    rx: CoronaVac
+    samples: 93
+    s_fold: 93
+    i_fold: 0
+    r_fold: 0
+    reference: Chen21c[^Chen21c]
+    median: 1.3
   - variant: Epsilon
     rx: NVX-CoV2373
     samples: 23
@@ -1858,20 +1986,20 @@
     median: '2.7'
   - variant: Gamma
     rx: Ad26.COV2.S
-    samples: 19
-    s_fold: 9
-    i_fold: 4
-    r_fold: 6
-    reference: Alter21[^Alter21]
-    median: '2.9'
-  - variant: Gamma
-    rx: Ad26.COV2.S
     samples: 20
     s_fold: 7
     i_fold: 10
     r_fold: 3
     reference: Alter21[^Alter21]
     median: '4'
+  - variant: Gamma
+    rx: Ad26.COV2.S
+    samples: 19
+    s_fold: 9
+    i_fold: 4
+    r_fold: 6
+    reference: Alter21[^Alter21]
+    median: '2.9'
   - variant: Gamma
     rx: Ad26.COV2.S
     samples: 18
@@ -1888,6 +2016,14 @@
     r_fold: 3
     reference: Jongeneelen21[^Jongeneelen21]
     median: '3.2'
+  - variant: Gamma
+    rx: BBIBP-CorV
+    samples: 470
+    s_fold: 470
+    i_fold: 0
+    r_fold: 0
+    reference: Zhang21d[^Zhang21d]
+    median: 2.0
   - variant: Gamma
     rx: BNT162b2
     samples: 10
@@ -2002,17 +2138,17 @@
     median: '1.8'
   - variant: Gamma
     rx: BNT162b2
-    samples: 14
-    s_fold: 13
-    i_fold: 1
+    samples: 10
+    s_fold: 8
+    i_fold: 2
     r_fold: 0
     reference: Stankov21[^Stankov21]
     median: '1'
   - variant: Gamma
     rx: BNT162b2
-    samples: 10
-    s_fold: 8
-    i_fold: 2
+    samples: 14
+    s_fold: 13
+    i_fold: 1
     r_fold: 0
     reference: Stankov21[^Stankov21]
     median: '1'
@@ -2058,6 +2194,14 @@
     median: '2.2'
   - variant: Gamma
     rx: CoronaVac
+    samples: 93
+    s_fold: 0
+    i_fold: 93
+    r_fold: 0
+    reference: Chen21c[^Chen21c]
+    median: 3.9
+  - variant: Gamma
+    rx: CoronaVac
     samples: 62
     s_fold: 6
     i_fold: 6
@@ -2072,6 +2216,14 @@
     r_fold: 15
     reference: deSouza21*[^deSouza21]
     median: '1.5'
+  - variant: Gamma
+    rx: Sputnik V
+    samples: 16
+    s_fold: 0
+    i_fold: 16
+    r_fold: 0
+    reference: Gushchin21*[^Gushchin21]
+    median: 5.9
   - variant: Gamma
     rx: mRNA-1273
     samples: 8
@@ -2137,6 +2289,22 @@
     reference: Wu21b[^Wu21b]
     median: 2.0
   - variant: Gamma
+    rx: mRNA-1273
+    samples: 20
+    s_fold: 0
+    i_fold: 20
+    r_fold: 0
+    reference: Wu21c[^Wu21c]
+    median: 4.5
+  - variant: Gamma
+    rx: mRNA-1273
+    samples: 20
+    s_fold: 20
+    i_fold: 0
+    r_fold: 0
+    reference: Wu21c[^Wu21c]
+    median: 2.8
+  - variant: Gamma
     rx: mRNA-1273.211
     samples: 8
     s_fold: 8
@@ -2152,8 +2320,32 @@
     r_fold: 0
     reference: Wu21b[^Wu21b]
     median: 0.8
+  - variant: Gamma
+    rx: mRNA-1273.351
+    samples: 20
+    s_fold: 0
+    i_fold: 20
+    r_fold: 0
+    reference: Wu21c[^Wu21c]
+    median: 4.5
+  - variant: Gamma
+    rx: mRNA-1273.351
+    samples: 20
+    s_fold: 20
+    i_fold: 0
+    r_fold: 0
+    reference: Wu21c[^Wu21c]
+    median: 2.3
 - variant: Iota
   assays:
+  - variant: Iota
+    rx: BBIBP-CorV
+    samples: 470
+    s_fold: 0
+    i_fold: 470
+    r_fold: 0
+    reference: Zhang21d[^Zhang21d]
+    median: 4.1
   - variant: Iota
     rx: BNT162b2
     samples: 20
@@ -2178,6 +2370,14 @@
     r_fold: 0
     reference: Zhou21c[^Zhou21c]
     median: '3.7'
+  - variant: Iota
+    rx: CoronaVac
+    samples: 93
+    s_fold: 0
+    i_fold: 93
+    r_fold: 0
+    reference: Chen21c[^Chen21c]
+    median: 4.0
   - variant: Iota
     rx: mRNA-1273
     samples: 8
@@ -2236,6 +2436,14 @@
     r_fold: 0
     reference: Mlcochova21[^Mlcochova21]
     median: 5.7
+  - variant: Kappa
+    rx: AZD1222
+    samples: 61
+    s_fold: 61
+    i_fold: 0
+    r_fold: 0
+    reference: Yadav21c[^Yadav21c]
+    median: 1.9
   - variant: Kappa
     rx: Ad26.COV2.S
     samples: 18
@@ -2300,22 +2508,6 @@
     r_fold: 0
     reference: Mlcochova21[^Mlcochova21]
     median: 3.8
-  - variant: Kappa
-    rx: BNT162b2
-    samples: 225
-    s_fold: 38
-    i_fold: 35
-    r_fold: 152
-    reference: Wall21[^Wall21]
-    median: '9.4'
-  - variant: Kappa
-    rx: BNT162b2
-    samples: 209
-    s_fold: 36
-    i_fold: 135
-    r_fold: 38
-    reference: Wall21[^Wall21]
-    median: '5.2'
   - variant: Kappa
     rx: CoronaVac
     samples: 19
