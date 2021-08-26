@@ -4,21 +4,21 @@
         "cp": 227,
         "vp": 105,
         "phase3": 61,
-        "structure": 36
+        "structure": 42
     },
     {
         "variant": "E484K",
         "cp": 225,
         "vp": 214,
         "phase3": 84,
-        "structure": 41
+        "structure": 50
     },
     {
         "variant": "K417N",
         "cp": 144,
         "vp": 122,
         "phase3": 53,
-        "structure": 37
+        "structure": 43
     },
     {
         "variant": "K417T",
@@ -36,65 +36,65 @@
     },
     {
         "variant": "Other individual mutations",
-        "cp": 1567,
-        "vp": 1044,
+        "cp": 1714,
+        "vp": 1137,
         "phase3": 877,
-        "structure": 664
+        "structure": 928
     },
     {
         "variant": "All individual mutations",
-        "cp": 1960,
-        "vp": 1290,
-        "phase3": 1047,
-        "structure": 763
+        "cp": 2107,
+        "vp": 1383,
+        "phase3": 1048,
+        "structure": 1043
     },
     {
         "variant": "Alpha",
-        "cp": 1268,
-        "vp": 3202,
+        "cp": 2014,
+        "vp": 3800,
         "phase3": 110,
-        "structure": 65
+        "structure": 68
     },
     {
         "variant": "Beta",
-        "cp": 1415,
-        "vp": 3318,
+        "cp": 2399,
+        "vp": 3996,
         "phase3": 111,
-        "structure": 48
+        "structure": 50
     },
     {
         "variant": "Gamma",
-        "cp": 427,
-        "vp": 924,
+        "cp": 916,
+        "vp": 1583,
         "phase3": 63,
-        "structure": 25
+        "structure": 27
     },
     {
         "variant": "Epsilon",
-        "cp": 59,
-        "vp": 457,
+        "cp": 87,
+        "vp": 550,
         "phase3": 19,
-        "structure": 10
+        "structure": 11
     },
     {
         "variant": "Iota",
         "cp": 31,
-        "vp": 222,
+        "vp": 785,
         "phase3": 13,
         "structure": 1
     },
     {
         "variant": "Other combinations of mutations",
-        "cp": 2064,
-        "vp": 4391,
+        "cp": 2589,
+        "vp": 4538,
         "phase3": 438,
-        "structure": 244
+        "structure": 266
     },
     {
         "variant": "All combinations of mutations",
-        "cp": 5454,
-        "vp": 12688,
-        "phase3": 793,
-        "structure": 417
+        "cp": 8226,
+        "vp": 15426,
+        "phase3": 792,
+        "structure": 452
     }
 ]

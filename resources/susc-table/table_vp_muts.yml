@@ -123,6 +123,14 @@
 - variant: E484K + N501Y
   assays:
   - variant: E484K + N501Y
+    rx: BBV154
+    samples: 24
+    s_fold: 10
+    i_fold: 5
+    r_fold: 9
+    reference: Chen21[^Chen21]
+    median: '4.6'
+  - variant: E484K + N501Y
     rx: BNT162b2
     samples: 24
     s_fold: 4
@@ -146,16 +154,16 @@
     r_fold: 0
     reference: Xie21[^Xie21]
     median: '1'
-  - variant: E484K + N501Y
-    rx: ChAd-SARS-CoV-2
-    samples: 24
-    s_fold: 10
-    i_fold: 5
-    r_fold: 9
-    reference: Chen21[^Chen21]
-    median: '4.6'
 - variant: K417N
   assays:
+  - variant: K417N
+    rx: BBV154
+    samples: 24
+    s_fold: 24
+    i_fold: 0
+    r_fold: 0
+    reference: Chen21[^Chen21]
+    median: '0.6'
   - variant: K417N
     rx: BNT162b2
     samples: 24
@@ -196,14 +204,6 @@
     r_fold: 0
     reference: Wang21b[^Wang21b]
     median: '0.7'
-  - variant: K417N
-    rx: ChAd-SARS-CoV-2
-    samples: 24
-    s_fold: 24
-    i_fold: 0
-    r_fold: 0
-    reference: Chen21[^Chen21]
-    median: '0.6'
   - variant: K417N
     rx: mRNA-1273
     samples: 6
@@ -247,6 +247,14 @@
     reference: Madhi21[^Madhi21]
     median: '5'
   - variant: K417N + E484K + N501Y
+    rx: BBV154
+    samples: 24
+    s_fold: 5
+    i_fold: 9
+    r_fold: 10
+    reference: Chen21[^Chen21]
+    median: '8.1'
+  - variant: K417N + E484K + N501Y
     rx: BNT162b2
     samples: 10
     s_fold: 0
@@ -270,14 +278,6 @@
     r_fold: 0
     reference: Wang21[^Wang21]
     median: '2.0'
-  - variant: K417N + E484K + N501Y
-    rx: ChAd-SARS-CoV-2
-    samples: 24
-    s_fold: 5
-    i_fold: 9
-    r_fold: 10
-    reference: Chen21[^Chen21]
-    median: '8.1'
   - variant: K417N + E484K + N501Y
     rx: mRNA-1273
     samples: 11
