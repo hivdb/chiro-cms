@@ -16,6 +16,6 @@ Excel. These same two files can be uploaded to Sierra-SARS2 NGS program by
 clicking on the Load Example Data link on the Input sequence reads form.
 
 - [B.1.1.7
-  (ERR5026962)]($$CMS_PREFIX$$downloads/codfreq-examples/B.1.1.7_CAMC-C471A4_ERR5026962.codfreq)
+  (ERR5026962)]($$CMS_PREFIX$$downloads/codfreq-examples/B.1.1.7_CAMC-C471A4_ERR5026962.codfreq.txt)
 - [B.1.351
-  (SRR13620320)]($$CMS_PREFIX$$downloads/codfreq-examples/B.1.351_KRISP-K005325_SRR13620320.codfreq)
+  (SRR13620320)]($$CMS_PREFIX$$downloads/codfreq-examples/B.1.351_KRISP-K005325_SRR13620320.codfreq.txt)

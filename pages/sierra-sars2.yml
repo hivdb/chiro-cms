@@ -1,6 +1,6 @@
 species: SARS2
 drdbVersion: "20210828-130854-slim"
-cmtVersion: "20210715"
+cmtVersion: "20210830"
 allGenes: &allGenes [
   nsp1, nsp2, PLpro, nsp4, _3CLpro, nsp6, nsp7, nsp8, nsp9,
   nsp10, RdRP, nsp13, nsp14, nsp15, nsp16, S, ORF3a, E, M,
@@ -124,8 +124,8 @@ sequenceExamples:
   - url: downloads/fasta-examples/a-voi-v2.fas
     title: A.VOI.V2 (N=1)
 seqReadsExamples:
-  - downloads/codfreq-examples/B.1.1.7_CAMC-C471A4_ERR5026962.codfreq
-  - downloads/codfreq-examples/B.1.351_KRISP-K005325_SRR13620320.codfreq
+  - downloads/codfreq-examples/B.1.1.7_CAMC-C471A4_ERR5026962.codfreq.txt
+  - downloads/codfreq-examples/B.1.351_KRISP-K005325_SRR13620320.codfreq.txt
 outbreakInfo:
   lineages:
     _resource: sierra-sars2/outbreak.info/lineages.json
