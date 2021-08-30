@@ -58,7 +58,7 @@ seqreads-analysis-form-desc: |-
   SARS-CoV-2 Sequence Reads of each SARS-CoV-2 gene, Spike, RdRP, nsp1-10
   (include PLpro and 3CLpro), nsp13-16, ORF3a, E, M, ORF6, ORF7a, ORF8, N and
   ORF10, can be submittted in the form of [codon frequency tables (CodFreq
-  files)][codfreq].
+  files)](/page/codfreq/).
 
   We provide a pipeline for directly aligning FASTQ files and generating
   CodFreq tables from the MINIMAP2 alignments. To use this pipeline, just add
