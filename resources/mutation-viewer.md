@@ -14,15 +14,6 @@
   - [Other ECDC Listed Variants](#other.ecdc.listed.variants)
   - [Other Variants](#other.variants)
   - [SARS-COV-2 Variants Tracking sites](#sars-cov-2.variants.tracking.sites)
-- [Prolonged Infections](#prolonged.infections)
-  - [Kemp S, Collier DA, et int., and Gupta RK.](#sec_kemp21)
-  - [McCarthy KR, Rennick LJ, et int., and Duprex WP.](#sec_mccarthy20)
-  - [Choi B, Choudhary MC, et int., and Li JZ.](#sec_choi20)
-  - [Avanzato VA, Matson MJ, et int., and Munster VJ.](#sec_avanzato20)
-  - [Bazykin G, Stanevich O, et int., and Lioznov D.](#sec_bazykin20)
-  - [Khatamzas E, Rehn A, et int., and Antwerpen M.](#sec_khatamzas20)
-  - [Chen L, Zody CM, et int., and Kreiswirth BN.](#sec_chen21b)
-  - [Focosi D, Novazzi F, et int., and Maggi F.](#sec_focosi21b)
 [/toc]
 
 <div style="clear: both; height: 0;" />
@@ -1468,10 +1459,10 @@ a-voi-v2
 - [ECDC SARS-CoV-2 variants of concern](https://www.ecdc.europa.eu/en/covid-19/variants-concern)
 - [Pango lineages](https://cov-lineages.org/lineage_list.html)
 
-## Prolonged Infections
+<!-- ## Prolonged Infections -->
 
 <!-- Kemp S -->
-<section id="sec_kemp21" class="figure-section compact">
+<!-- <section id="sec_kemp21" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -1489,10 +1480,10 @@ kemp21
 
 </div>
 
-</section>
+</section> -->
 
 <!-- McCarthy -->
-<section id="sec_mccarthy20" class="figure-section compact">
+<!-- <section id="sec_mccarthy20" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -1510,10 +1501,10 @@ mccarthy20
 
 </div>
 
-</section>
+</section> -->
 
 <!-- Choi B -->
-<section id="sec_choi20" class="figure-section compact">
+<!-- <section id="sec_choi20" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -1531,10 +1522,10 @@ choi20
 
 </div>
 
-</section>
+</section> -->
 
 <!-- Avanzato VA -->
-<section id="sec_avanzato20" class="figure-section compact">
+<!-- <section id="sec_avanzato20" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -1552,10 +1543,10 @@ avanzato20
 
 </div>
 
-</section>
+</section> -->
 
 <!-- Bazykin G -->
-<section id="sec_bazykin20" class="figure-section compact">
+<!-- <section id="sec_bazykin20" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -1573,10 +1564,10 @@ bazykin20
 
 </div>
 
-</section>
+</section> -->
 
 <!-- Khatamzas E -->
-<section id="sec_khatamzas20" class="figure-section compact">
+<!-- <section id="sec_khatamzas20" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -1595,10 +1586,10 @@ khatamzas20
 
 </div>
 
-</section>
+</section> -->
 
 <!-- Chen L -->
-<section id="sec_chen21b" class="figure-section compact">
+<!-- <section id="sec_chen21b" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -1617,10 +1608,10 @@ chen21b
 
 </div>
 
-</section>
+</section> -->
 
 <!-- Focosi21b -->
-<section id="sec_focosi21b" class="figure-section compact">
+<!-- <section id="sec_focosi21b" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -1640,7 +1631,7 @@ focosi21b
 
 </div>
 
-</section>
+</section> -->
 
 <div style="text-align: center;">
 
