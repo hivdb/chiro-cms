@@ -5,6 +5,36 @@
             {
                 "variant": "Alpha",
                 "rx": "AZD1222",
+                "samples": 80,
+                "s_fold": 4,
+                "i_fold": 7,
+                "r_fold": 69,
+                "reference": "Barros-Martins21[^Barros-Martins21]",
+                "median": "44"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "AZD1222",
+                "samples": 31,
+                "s_fold": 1,
+                "i_fold": 8,
+                "r_fold": 22,
+                "reference": "Barros-Martins21[^Barros-Martins21]",
+                "median": "27"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "AZD1222",
+                "samples": 12,
+                "s_fold": 12,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Behrens21[^Behrens21]",
+                "median": 1.8
+            },
+            {
+                "variant": "Alpha",
+                "rx": "AZD1222",
                 "samples": 49,
                 "s_fold": 3,
                 "i_fold": 23,
@@ -54,13 +84,23 @@
             },
             {
                 "variant": "Alpha",
-                "rx": "Ad26.COV2.S",
-                "samples": 20,
-                "s_fold": 13,
-                "i_fold": 6,
-                "r_fold": 1,
-                "reference": "Alter21[^Alter21]",
-                "median": "2.2"
+                "rx": "AZD1222 + BNT162b2",
+                "samples": 54,
+                "s_fold": 0,
+                "i_fold": 38,
+                "r_fold": 16,
+                "reference": "Barros-Martins21[^Barros-Martins21]",
+                "median": "9"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "AZD1222 + BNT162b2",
+                "samples": 11,
+                "s_fold": 11,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Behrens21[^Behrens21]",
+                "median": 1.1
             },
             {
                 "variant": "Alpha",
@@ -75,12 +115,32 @@
             {
                 "variant": "Alpha",
                 "rx": "Ad26.COV2.S",
+                "samples": 20,
+                "s_fold": 13,
+                "i_fold": 6,
+                "r_fold": 1,
+                "reference": "Alter21[^Alter21]",
+                "median": "2.2"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "Ad26.COV2.S",
                 "samples": 25,
                 "s_fold": 25,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Alter21*[^Alter21]",
                 "median": 0.8
+            },
+            {
+                "variant": "Alpha",
+                "rx": "Ad26.COV2.S",
+                "samples": 18,
+                "s_fold": 13,
+                "i_fold": 1,
+                "r_fold": 4,
+                "reference": "Barouch21[^Barouch21]",
+                "median": "1.8"
             },
             {
                 "variant": "Alpha",
@@ -111,6 +171,16 @@
                 "r_fold": 0,
                 "reference": "Tada21e[^Tada21e]",
                 "median": "0.9"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "Ad26.COV2.S",
+                "samples": 12,
+                "s_fold": 12,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Yu21b[^Yu21b]",
+                "median": 0.4
             },
             {
                 "variant": "Alpha",
@@ -165,12 +235,22 @@
             {
                 "variant": "Alpha",
                 "rx": "BNT162b2",
-                "samples": 10,
-                "s_fold": 10,
+                "samples": 131,
+                "s_fold": 131,
                 "i_fold": 0,
                 "r_fold": 0,
-                "reference": "Alenquer21[^Alenquer21]",
-                "median": "1.6"
+                "reference": "Abe21[^Abe21]",
+                "median": 1.7
+            },
+            {
+                "variant": "Alpha",
+                "rx": "BNT162b2",
+                "samples": 75,
+                "s_fold": 75,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Acevedo21[^Acevedo21]",
+                "median": 1.6
             },
             {
                 "variant": "Alpha",
@@ -181,6 +261,16 @@
                 "r_fold": 0,
                 "reference": "Alenquer21[^Alenquer21]",
                 "median": "1.3"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "BNT162b2",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Alenquer21[^Alenquer21]",
+                "median": "1.6"
             },
             {
                 "variant": "Alpha",
@@ -305,20 +395,20 @@
             {
                 "variant": "Alpha",
                 "rx": "BNT162b2",
-                "samples": 69,
-                "s_fold": 55,
-                "i_fold": 0,
-                "r_fold": 14,
+                "samples": 180,
+                "s_fold": 176,
+                "i_fold": 3,
+                "r_fold": 1,
                 "reference": "Jalkanen21*[^Jalkanen21]",
                 "median": "1"
             },
             {
                 "variant": "Alpha",
                 "rx": "BNT162b2",
-                "samples": 180,
-                "s_fold": 176,
-                "i_fold": 3,
-                "r_fold": 1,
+                "samples": 69,
+                "s_fold": 55,
+                "i_fold": 0,
+                "r_fold": 14,
                 "reference": "Jalkanen21*[^Jalkanen21]",
                 "median": "1"
             },
@@ -445,22 +535,22 @@
             {
                 "variant": "Alpha",
                 "rx": "BNT162b2",
-                "samples": 31,
-                "s_fold": 19,
-                "i_fold": 11,
-                "r_fold": 1,
-                "reference": "Planas21[^Planas21]",
-                "median": "2.3"
-            },
-            {
-                "variant": "Alpha",
-                "rx": "BNT162b2",
                 "samples": 36,
                 "s_fold": 34,
                 "i_fold": 2,
                 "r_fold": 0,
                 "reference": "Planas21[^Planas21]",
                 "median": "0.6"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "BNT162b2",
+                "samples": 31,
+                "s_fold": 19,
+                "i_fold": 11,
+                "r_fold": 1,
+                "reference": "Planas21[^Planas21]",
+                "median": "2.3"
             },
             {
                 "variant": "Alpha",
@@ -485,12 +575,12 @@
             {
                 "variant": "Alpha",
                 "rx": "BNT162b2",
-                "samples": 8,
-                "s_fold": 1,
-                "i_fold": 0,
-                "r_fold": 7,
-                "reference": "Skelly21*[^Skelly21]",
-                "median": "2.8"
+                "samples": 88,
+                "s_fold": 20,
+                "i_fold": 20,
+                "r_fold": 48,
+                "reference": "Reynolds21*[^Reynolds21]",
+                "median": 15.0
             },
             {
                 "variant": "Alpha",
@@ -505,8 +595,18 @@
             {
                 "variant": "Alpha",
                 "rx": "BNT162b2",
-                "samples": 10,
-                "s_fold": 10,
+                "samples": 8,
+                "s_fold": 1,
+                "i_fold": 0,
+                "r_fold": 7,
+                "reference": "Skelly21*[^Skelly21]",
+                "median": "2.8"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "BNT162b2",
+                "samples": 14,
+                "s_fold": 14,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Stankov21[^Stankov21]",
@@ -515,8 +615,8 @@
             {
                 "variant": "Alpha",
                 "rx": "BNT162b2",
-                "samples": 14,
-                "s_fold": 14,
+                "samples": 10,
+                "s_fold": 10,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Stankov21[^Stankov21]",
@@ -575,16 +675,6 @@
             {
                 "variant": "Alpha",
                 "rx": "BNT162b2",
-                "samples": 32,
-                "s_fold": 26,
-                "i_fold": 4,
-                "r_fold": 2,
-                "reference": "Turner21*[^Turner21]",
-                "median": "1.3"
-            },
-            {
-                "variant": "Alpha",
-                "rx": "BNT162b2",
                 "samples": 40,
                 "s_fold": 37,
                 "i_fold": 3,
@@ -595,12 +685,12 @@
             {
                 "variant": "Alpha",
                 "rx": "BNT162b2",
-                "samples": 213,
-                "s_fold": 136,
-                "i_fold": 74,
-                "r_fold": 3,
-                "reference": "Wall21*[^Wall21]",
-                "median": "2.5"
+                "samples": 32,
+                "s_fold": 26,
+                "i_fold": 4,
+                "r_fold": 2,
+                "reference": "Turner21*[^Turner21]",
+                "median": "1.3"
             },
             {
                 "variant": "Alpha",
@@ -611,6 +701,16 @@
                 "r_fold": 101,
                 "reference": "Wall21*[^Wall21]",
                 "median": "2.9"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "BNT162b2",
+                "samples": 213,
+                "s_fold": 136,
+                "i_fold": 74,
+                "r_fold": 3,
+                "reference": "Wall21*[^Wall21]",
+                "median": "2.5"
             },
             {
                 "variant": "Alpha",
@@ -705,12 +805,32 @@
             {
                 "variant": "Alpha",
                 "rx": "CoronaVac",
+                "samples": 60,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 60,
+                "reference": "Vacharathit21*[^Vacharathit21]",
+                "median": 16.0
+            },
+            {
+                "variant": "Alpha",
+                "rx": "CoronaVac",
                 "samples": 22,
                 "s_fold": 12,
                 "i_fold": 1,
                 "r_fold": 9,
                 "reference": "Wang21g[^Wang21g]",
                 "median": "1.6"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "CoronaVac",
+                "samples": 28,
+                "s_fold": 28,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Zhao21[^Zhao21]",
+                "median": 1.1
             },
             {
                 "variant": "Alpha",
@@ -764,6 +884,36 @@
             },
             {
                 "variant": "Alpha",
+                "rx": "Sputnik V",
+                "samples": 38,
+                "s_fold": 38,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Ledesma21[^Ledesma21]",
+                "median": 2.7
+            },
+            {
+                "variant": "Alpha",
+                "rx": "Sputnik V",
+                "samples": 36,
+                "s_fold": 28,
+                "i_fold": 8,
+                "r_fold": 0,
+                "reference": "Ledesma21*[^Ledesma21]",
+                "median": "1.5"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "mRNA-1273",
+                "samples": 145,
+                "s_fold": 145,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Abe21[^Abe21]",
+                "median": 1.3
+            },
+            {
+                "variant": "Alpha",
                 "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 8,
@@ -771,6 +921,16 @@
                 "r_fold": 0,
                 "reference": "Choi21[^Choi21]",
                 "median": "1.2"
+            },
+            {
+                "variant": "Alpha",
+                "rx": "mRNA-1273",
+                "samples": 24,
+                "s_fold": 19,
+                "i_fold": 4,
+                "r_fold": 1,
+                "reference": "Corbett21[^Corbett21]",
+                "median": "1.6"
             },
             {
                 "variant": "Alpha",
@@ -815,42 +975,22 @@
             {
                 "variant": "Alpha",
                 "rx": "mRNA-1273",
-                "samples": 72,
-                "s_fold": 63,
-                "i_fold": 8,
-                "r_fold": 1,
+                "samples": 96,
+                "s_fold": 96,
+                "i_fold": 0,
+                "r_fold": 0,
                 "reference": "Pegu21[^Pegu21]",
-                "median": "1.7"
+                "median": 0.5
             },
             {
                 "variant": "Alpha",
                 "rx": "mRNA-1273",
-                "samples": 20,
-                "s_fold": 6,
-                "i_fold": 2,
-                "r_fold": 12,
-                "reference": "Pegu21[^Pegu21]",
-                "median": "2.9"
-            },
-            {
-                "variant": "Alpha",
-                "rx": "mRNA-1273",
-                "samples": 72,
-                "s_fold": 64,
-                "i_fold": 5,
-                "r_fold": 3,
+                "samples": 96,
+                "s_fold": 96,
+                "i_fold": 0,
+                "r_fold": 0,
                 "reference": "Pegu21*[^Pegu21]",
-                "median": "1.1"
-            },
-            {
-                "variant": "Alpha",
-                "rx": "mRNA-1273",
-                "samples": 16,
-                "s_fold": 7,
-                "i_fold": 3,
-                "r_fold": 6,
-                "reference": "Pegu21*[^Pegu21]",
-                "median": "2.9"
+                "median": 2.05
             },
             {
                 "variant": "Alpha",
@@ -950,6 +1090,36 @@
             {
                 "variant": "Beta",
                 "rx": "AZD1222",
+                "samples": 79,
+                "s_fold": 1,
+                "i_fold": 3,
+                "r_fold": 75,
+                "reference": "Barros-Martins21[^Barros-Martins21]",
+                "median": "60"
+            },
+            {
+                "variant": "Beta",
+                "rx": "AZD1222",
+                "samples": 31,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 31,
+                "reference": "Barros-Martins21[^Barros-Martins21]",
+                "median": ">100"
+            },
+            {
+                "variant": "Beta",
+                "rx": "AZD1222",
+                "samples": 12,
+                "s_fold": 0,
+                "i_fold": 12,
+                "r_fold": 0,
+                "reference": "Behrens21[^Behrens21]",
+                "median": 7.6
+            },
+            {
+                "variant": "Beta",
+                "rx": "AZD1222",
                 "samples": 50,
                 "s_fold": 2,
                 "i_fold": 10,
@@ -980,6 +1150,26 @@
             {
                 "variant": "Beta",
                 "rx": "AZD1222",
+                "samples": 5,
+                "s_fold": 0,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 4.7
+            },
+            {
+                "variant": "Beta",
+                "rx": "AZD1222",
+                "samples": 5,
+                "s_fold": 0,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 7.3
+            },
+            {
+                "variant": "Beta",
+                "rx": "AZD1222",
                 "samples": 25,
                 "s_fold": 1,
                 "i_fold": 12,
@@ -989,13 +1179,63 @@
             },
             {
                 "variant": "Beta",
-                "rx": "Ad26.COV2.S",
-                "samples": 20,
+                "rx": "AZD1222 + AZD2816",
+                "samples": 5,
+                "s_fold": 0,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 3.1
+            },
+            {
+                "variant": "Beta",
+                "rx": "AZD1222 + AZD2816",
+                "samples": 6,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 6,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 21.1
+            },
+            {
+                "variant": "Beta",
+                "rx": "AZD1222 + AZD2816",
+                "samples": 7,
+                "s_fold": 7,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 2.2
+            },
+            {
+                "variant": "Beta",
+                "rx": "AZD1222 + BNT162b2",
+                "samples": 54,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 54,
+                "reference": "Barros-Martins21[^Barros-Martins21]",
+                "median": "81"
+            },
+            {
+                "variant": "Beta",
+                "rx": "AZD1222 + BNT162b2",
+                "samples": 11,
+                "s_fold": 11,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Behrens21[^Behrens21]",
+                "median": 1.4
+            },
+            {
+                "variant": "Beta",
+                "rx": "AZD2816",
+                "samples": 5,
                 "s_fold": 5,
-                "i_fold": 11,
-                "r_fold": 4,
-                "reference": "Alter21[^Alter21]",
-                "median": "4.1"
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 1.3
             },
             {
                 "variant": "Beta",
@@ -1010,12 +1250,32 @@
             {
                 "variant": "Beta",
                 "rx": "Ad26.COV2.S",
+                "samples": 20,
+                "s_fold": 5,
+                "i_fold": 11,
+                "r_fold": 4,
+                "reference": "Alter21[^Alter21]",
+                "median": "4.1"
+            },
+            {
+                "variant": "Beta",
+                "rx": "Ad26.COV2.S",
                 "samples": 25,
                 "s_fold": 0,
                 "i_fold": 0,
                 "r_fold": 25,
                 "reference": "Alter21*[^Alter21]",
                 "median": 11.0
+            },
+            {
+                "variant": "Beta",
+                "rx": "Ad26.COV2.S",
+                "samples": 18,
+                "s_fold": 5,
+                "i_fold": 7,
+                "r_fold": 6,
+                "reference": "Barouch21[^Barouch21]",
+                "median": "5.5"
             },
             {
                 "variant": "Beta",
@@ -1056,6 +1316,26 @@
                 "r_fold": 3,
                 "reference": "Tada21e[^Tada21e]",
                 "median": "4.6"
+            },
+            {
+                "variant": "Beta",
+                "rx": "Ad26.COV2.S",
+                "samples": 12,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 12,
+                "reference": "Yu21b[^Yu21b]",
+                "median": 28.3
+            },
+            {
+                "variant": "Beta",
+                "rx": "Ad26.COV2.S",
+                "samples": 12,
+                "s_fold": 0,
+                "i_fold": 12,
+                "r_fold": 0,
+                "reference": "Yu21b[^Yu21b]",
+                "median": 4.3
             },
             {
                 "variant": "Beta",
@@ -1106,6 +1386,16 @@
                 "r_fold": 11,
                 "reference": "Chen21[^Chen21]",
                 "median": "8.6"
+            },
+            {
+                "variant": "Beta",
+                "rx": "BNT162b2",
+                "samples": 131,
+                "s_fold": 44,
+                "i_fold": 87,
+                "r_fold": 0,
+                "reference": "Abe21[^Abe21]",
+                "median": 7.9
             },
             {
                 "variant": "Beta",
@@ -1220,22 +1510,22 @@
             {
                 "variant": "Beta",
                 "rx": "BNT162b2",
-                "samples": 53,
-                "s_fold": 23,
-                "i_fold": 12,
-                "r_fold": 18,
-                "reference": "Goel21[^Goel21]",
-                "median": "2"
-            },
-            {
-                "variant": "Beta",
-                "rx": "BNT162b2",
                 "samples": 34,
                 "s_fold": 18,
                 "i_fold": 16,
                 "r_fold": 0,
                 "reference": "Goel21[^Goel21]",
                 "median": "2.8"
+            },
+            {
+                "variant": "Beta",
+                "rx": "BNT162b2",
+                "samples": 53,
+                "s_fold": 23,
+                "i_fold": 12,
+                "r_fold": 18,
+                "reference": "Goel21[^Goel21]",
+                "median": "2"
             },
             {
                 "variant": "Beta",
@@ -1260,20 +1550,20 @@
             {
                 "variant": "Beta",
                 "rx": "BNT162b2",
-                "samples": 69,
-                "s_fold": 9,
-                "i_fold": 8,
-                "r_fold": 52,
+                "samples": 180,
+                "s_fold": 34,
+                "i_fold": 97,
+                "r_fold": 49,
                 "reference": "Jalkanen21*[^Jalkanen21]",
                 "median": "4"
             },
             {
                 "variant": "Beta",
                 "rx": "BNT162b2",
-                "samples": 180,
-                "s_fold": 34,
-                "i_fold": 97,
-                "r_fold": 49,
+                "samples": 69,
+                "s_fold": 9,
+                "i_fold": 8,
+                "r_fold": 52,
                 "reference": "Jalkanen21*[^Jalkanen21]",
                 "median": "4"
             },
@@ -1370,12 +1660,12 @@
             {
                 "variant": "Beta",
                 "rx": "BNT162b2",
-                "samples": 31,
-                "s_fold": 10,
-                "i_fold": 13,
-                "r_fold": 8,
-                "reference": "Planas21[^Planas21]",
-                "median": "3.8"
+                "samples": 80,
+                "s_fold": 20,
+                "i_fold": 60,
+                "r_fold": 0,
+                "reference": "Pannus21*[^Pannus21]",
+                "median": 5.5
             },
             {
                 "variant": "Beta",
@@ -1390,6 +1680,16 @@
             {
                 "variant": "Beta",
                 "rx": "BNT162b2",
+                "samples": 31,
+                "s_fold": 10,
+                "i_fold": 13,
+                "r_fold": 8,
+                "reference": "Planas21[^Planas21]",
+                "median": "3.8"
+            },
+            {
+                "variant": "Beta",
+                "rx": "BNT162b2",
                 "samples": 27,
                 "s_fold": 1,
                 "i_fold": 9,
@@ -1400,12 +1700,32 @@
             {
                 "variant": "Beta",
                 "rx": "BNT162b2",
-                "samples": 16,
+                "samples": 37,
                 "s_fold": 0,
-                "i_fold": 16,
+                "i_fold": 37,
                 "r_fold": 0,
                 "reference": "Planas21b*[^Planas21b]",
-                "median": 6.9
+                "median": 3.4
+            },
+            {
+                "variant": "Beta",
+                "rx": "BNT162b2",
+                "samples": 88,
+                "s_fold": 20,
+                "i_fold": 68,
+                "r_fold": 0,
+                "reference": "Reynolds21*[^Reynolds21]",
+                "median": 4.7
+            },
+            {
+                "variant": "Beta",
+                "rx": "BNT162b2",
+                "samples": 24,
+                "s_fold": 0,
+                "i_fold": 24,
+                "r_fold": 0,
+                "reference": "Sahin21[^Sahin21]",
+                "median": 7.75
             },
             {
                 "variant": "Beta",
@@ -1430,16 +1750,6 @@
             {
                 "variant": "Beta",
                 "rx": "BNT162b2",
-                "samples": 46,
-                "s_fold": 5,
-                "i_fold": 25,
-                "r_fold": 16,
-                "reference": "Stamatatos21[^Stamatatos21]",
-                "median": "7.3"
-            },
-            {
-                "variant": "Beta",
-                "rx": "BNT162b2",
                 "samples": 22,
                 "s_fold": 7,
                 "i_fold": 6,
@@ -1450,12 +1760,12 @@
             {
                 "variant": "Beta",
                 "rx": "BNT162b2",
-                "samples": 10,
-                "s_fold": 7,
-                "i_fold": 3,
-                "r_fold": 0,
-                "reference": "Stankov21[^Stankov21]",
-                "median": "2"
+                "samples": 46,
+                "s_fold": 5,
+                "i_fold": 25,
+                "r_fold": 16,
+                "reference": "Stamatatos21[^Stamatatos21]",
+                "median": "7.3"
             },
             {
                 "variant": "Beta",
@@ -1466,6 +1776,16 @@
                 "r_fold": 0,
                 "reference": "Stankov21[^Stankov21]",
                 "median": "1.5"
+            },
+            {
+                "variant": "Beta",
+                "rx": "BNT162b2",
+                "samples": 10,
+                "s_fold": 7,
+                "i_fold": 3,
+                "r_fold": 0,
+                "reference": "Stankov21[^Stankov21]",
+                "median": "2"
             },
             {
                 "variant": "Beta",
@@ -1510,22 +1830,22 @@
             {
                 "variant": "Beta",
                 "rx": "BNT162b2",
-                "samples": 32,
-                "s_fold": 16,
-                "i_fold": 7,
-                "r_fold": 9,
-                "reference": "Turner21*[^Turner21]",
-                "median": "2.6"
-            },
-            {
-                "variant": "Beta",
-                "rx": "BNT162b2",
                 "samples": 40,
                 "s_fold": 10,
                 "i_fold": 25,
                 "r_fold": 5,
                 "reference": "Turner21*[^Turner21]",
                 "median": "3.8"
+            },
+            {
+                "variant": "Beta",
+                "rx": "BNT162b2",
+                "samples": 32,
+                "s_fold": 16,
+                "i_fold": 7,
+                "r_fold": 9,
+                "reference": "Turner21*[^Turner21]",
+                "median": "2.6"
             },
             {
                 "variant": "Beta",
@@ -1620,12 +1940,32 @@
             {
                 "variant": "Beta",
                 "rx": "CoronaVac",
+                "samples": 60,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 60,
+                "reference": "Vacharathit21*[^Vacharathit21]",
+                "median": 32.0
+            },
+            {
+                "variant": "Beta",
+                "rx": "CoronaVac",
                 "samples": 22,
                 "s_fold": 5,
                 "i_fold": 1,
                 "r_fold": 16,
                 "reference": "Wang21g[^Wang21g]",
                 "median": "4.9"
+            },
+            {
+                "variant": "Beta",
+                "rx": "CoronaVac",
+                "samples": 28,
+                "s_fold": 12,
+                "i_fold": 16,
+                "r_fold": 0,
+                "reference": "Zhao21[^Zhao21]",
+                "median": 3.5
             },
             {
                 "variant": "Beta",
@@ -1689,6 +2029,16 @@
             },
             {
                 "variant": "Beta",
+                "rx": "Sputnik V",
+                "samples": 38,
+                "s_fold": 0,
+                "i_fold": 19,
+                "r_fold": 19,
+                "reference": "Ledesma21[^Ledesma21]",
+                "median": 14.45
+            },
+            {
+                "variant": "Beta",
                 "rx": "ZF2001",
                 "samples": 24,
                 "s_fold": 24,
@@ -1699,6 +2049,26 @@
             },
             {
                 "variant": "Beta",
+                "rx": "mRNA",
+                "samples": 30,
+                "s_fold": 0,
+                "i_fold": 30,
+                "r_fold": 0,
+                "reference": "Carreno21[^Carreno21]",
+                "median": 4.2
+            },
+            {
+                "variant": "Beta",
+                "rx": "mRNA-1273",
+                "samples": 145,
+                "s_fold": 34,
+                "i_fold": 111,
+                "r_fold": 0,
+                "reference": "Abe21[^Abe21]",
+                "median": 5.3
+            },
+            {
+                "variant": "Beta",
                 "rx": "mRNA-1273",
                 "samples": 24,
                 "s_fold": 0,
@@ -1706,6 +2076,16 @@
                 "r_fold": 2,
                 "reference": "Choi21[^Choi21]",
                 "median": "6.9"
+            },
+            {
+                "variant": "Beta",
+                "rx": "mRNA-1273",
+                "samples": 66,
+                "s_fold": 9,
+                "i_fold": 20,
+                "r_fold": 37,
+                "reference": "Corbett21[^Corbett21]",
+                "median": "9.4"
             },
             {
                 "variant": "Beta",
@@ -1750,42 +2130,22 @@
             {
                 "variant": "Beta",
                 "rx": "mRNA-1273",
-                "samples": 72,
-                "s_fold": 10,
-                "i_fold": 27,
-                "r_fold": 35,
+                "samples": 96,
+                "s_fold": 72,
+                "i_fold": 24,
+                "r_fold": 0,
                 "reference": "Pegu21[^Pegu21]",
-                "median": "8.2"
+                "median": 2.5
             },
             {
                 "variant": "Beta",
                 "rx": "mRNA-1273",
-                "samples": 20,
-                "s_fold": 1,
-                "i_fold": 1,
-                "r_fold": 18,
-                "reference": "Pegu21[^Pegu21]",
-                "median": "5.7"
-            },
-            {
-                "variant": "Beta",
-                "rx": "mRNA-1273",
-                "samples": 72,
-                "s_fold": 16,
-                "i_fold": 31,
-                "r_fold": 25,
-                "reference": "Pegu21*[^Pegu21]",
-                "median": "4.9"
-            },
-            {
-                "variant": "Beta",
-                "rx": "mRNA-1273",
-                "samples": 16,
+                "samples": 96,
                 "s_fold": 0,
-                "i_fold": 1,
-                "r_fold": 15,
+                "i_fold": 96,
+                "r_fold": 0,
                 "reference": "Pegu21*[^Pegu21]",
-                "median": "5.6"
+                "median": 7.6
             },
             {
                 "variant": "Beta",
@@ -1995,6 +2355,16 @@
             {
                 "variant": "Delta",
                 "rx": "AZD1222",
+                "samples": 12,
+                "s_fold": 0,
+                "i_fold": 12,
+                "r_fold": 0,
+                "reference": "Behrens21[^Behrens21]",
+                "median": 6.8
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD1222",
                 "samples": 25,
                 "s_fold": 8,
                 "i_fold": 13,
@@ -2045,6 +2415,16 @@
             {
                 "variant": "Delta",
                 "rx": "AZD1222",
+                "samples": 39,
+                "s_fold": 20,
+                "i_fold": 6,
+                "r_fold": 13,
+                "reference": "Sapkal21c[^Sapkal21c]",
+                "median": "2.6"
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD1222",
                 "samples": 47,
                 "s_fold": 30,
                 "i_fold": 10,
@@ -2055,12 +2435,72 @@
             {
                 "variant": "Delta",
                 "rx": "AZD1222",
-                "samples": 39,
-                "s_fold": 20,
+                "samples": 5,
+                "s_fold": 0,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 4.7
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD1222",
+                "samples": 5,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 5,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 63.7
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD1222 + AZD2816",
+                "samples": 5,
+                "s_fold": 0,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 3.9
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD1222 + AZD2816",
+                "samples": 6,
+                "s_fold": 0,
                 "i_fold": 6,
-                "r_fold": 13,
-                "reference": "Sapkal21c[^Sapkal21c]",
-                "median": "2.6"
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 5.7
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD1222 + AZD2816",
+                "samples": 7,
+                "s_fold": 0,
+                "i_fold": 7,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 4.0
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD1222 + BNT162b2",
+                "samples": 11,
+                "s_fold": 11,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Behrens21[^Behrens21]",
+                "median": 1.3
+            },
+            {
+                "variant": "Delta",
+                "rx": "AZD2816",
+                "samples": 5,
+                "s_fold": 5,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 2.7
             },
             {
                 "variant": "Delta",
@@ -2069,6 +2509,16 @@
                 "s_fold": 6,
                 "i_fold": 7,
                 "r_fold": 5,
+                "reference": "Barouch21[^Barouch21]",
+                "median": "3.1"
+            },
+            {
+                "variant": "Delta",
+                "rx": "Ad26.COV2.S",
+                "samples": 18,
+                "s_fold": 8,
+                "i_fold": 6,
+                "r_fold": 4,
                 "reference": "Barouch21[^Barouch21]",
                 "median": "3.1"
             },
@@ -2205,6 +2655,16 @@
             {
                 "variant": "Delta",
                 "rx": "BNT162b2",
+                "samples": 225,
+                "s_fold": 38,
+                "i_fold": 35,
+                "r_fold": 152,
+                "reference": "Wall21[^Wall21]",
+                "median": "9.4"
+            },
+            {
+                "variant": "Delta",
+                "rx": "BNT162b2",
                 "samples": 209,
                 "s_fold": 36,
                 "i_fold": 135,
@@ -2214,13 +2674,23 @@
             },
             {
                 "variant": "Delta",
-                "rx": "BNT162b2",
-                "samples": 225,
-                "s_fold": 38,
-                "i_fold": 35,
-                "r_fold": 152,
-                "reference": "Wall21[^Wall21]",
-                "median": "9.4"
+                "rx": "CoronaVac",
+                "samples": 60,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 60,
+                "reference": "Vacharathit21[^Vacharathit21]",
+                "median": 64.0
+            },
+            {
+                "variant": "Delta",
+                "rx": "CoronaVac",
+                "samples": 28,
+                "s_fold": 28,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Zhao21[^Zhao21]",
+                "median": 1.6
             },
             {
                 "variant": "Delta",
@@ -2234,6 +2704,26 @@
             },
             {
                 "variant": "Delta",
+                "rx": "Sputnik V",
+                "samples": 38,
+                "s_fold": 0,
+                "i_fold": 38,
+                "r_fold": 0,
+                "reference": "Ledesma21[^Ledesma21]",
+                "median": 4.25
+            },
+            {
+                "variant": "Delta",
+                "rx": "mRNA",
+                "samples": 30,
+                "s_fold": 0,
+                "i_fold": 30,
+                "r_fold": 0,
+                "reference": "Carreno21[^Carreno21]",
+                "median": 3.0
+            },
+            {
+                "variant": "Delta",
                 "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 7,
@@ -2241,6 +2731,16 @@
                 "r_fold": 0,
                 "reference": "Choi21[^Choi21]",
                 "median": "2.1"
+            },
+            {
+                "variant": "Delta",
+                "rx": "mRNA-1273",
+                "samples": 22,
+                "s_fold": 9,
+                "i_fold": 5,
+                "r_fold": 8,
+                "reference": "Corbett21[^Corbett21]",
+                "median": "3.1"
             },
             {
                 "variant": "Delta",
@@ -2265,6 +2765,16 @@
             {
                 "variant": "Delta",
                 "rx": "mRNA-1273",
+                "samples": 48,
+                "s_fold": 48,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Pegu21[^Pegu21]",
+                "median": 0.75
+            },
+            {
+                "variant": "Delta",
+                "rx": "mRNA-1273",
                 "samples": 14,
                 "s_fold": 4,
                 "i_fold": 9,
@@ -2280,16 +2790,6 @@
             {
                 "variant": "Epsilon",
                 "rx": "Ad26.COV2.S",
-                "samples": 20,
-                "s_fold": 12,
-                "i_fold": 5,
-                "r_fold": 3,
-                "reference": "Alter21[^Alter21]",
-                "median": "2.8"
-            },
-            {
-                "variant": "Epsilon",
-                "rx": "Ad26.COV2.S",
                 "samples": 19,
                 "s_fold": 12,
                 "i_fold": 2,
@@ -2300,12 +2800,32 @@
             {
                 "variant": "Epsilon",
                 "rx": "Ad26.COV2.S",
+                "samples": 20,
+                "s_fold": 12,
+                "i_fold": 5,
+                "r_fold": 3,
+                "reference": "Alter21[^Alter21]",
+                "median": "2.8"
+            },
+            {
+                "variant": "Epsilon",
+                "rx": "Ad26.COV2.S",
                 "samples": 18,
                 "s_fold": 6,
                 "i_fold": 5,
                 "r_fold": 7,
                 "reference": "Barouch21[^Barouch21]",
                 "median": "3.2"
+            },
+            {
+                "variant": "Epsilon",
+                "rx": "Ad26.COV2.S",
+                "samples": 18,
+                "s_fold": 7,
+                "i_fold": 7,
+                "r_fold": 4,
+                "reference": "Barouch21[^Barouch21]",
+                "median": "3.3"
             },
             {
                 "variant": "Epsilon",
@@ -2356,6 +2876,16 @@
                 "r_fold": 0,
                 "reference": "Chen21c[^Chen21c]",
                 "median": 1.3
+            },
+            {
+                "variant": "Epsilon",
+                "rx": "CoronaVac",
+                "samples": 28,
+                "s_fold": 12,
+                "i_fold": 16,
+                "r_fold": 0,
+                "reference": "Zhao21[^Zhao21]",
+                "median": 3.6
             },
             {
                 "variant": "Epsilon",
@@ -2421,11 +2951,11 @@
                 "variant": "Epsilon",
                 "rx": "mRNA-1273",
                 "samples": 48,
-                "s_fold": 35,
-                "i_fold": 12,
-                "r_fold": 1,
+                "s_fold": 48,
+                "i_fold": 0,
+                "r_fold": 0,
                 "reference": "Pegu21[^Pegu21]",
-                "median": "2"
+                "median": 0.5
             },
             {
                 "variant": "Epsilon",
@@ -2485,12 +3015,72 @@
             {
                 "variant": "Gamma",
                 "rx": "AZD1222",
+                "samples": 79,
+                "s_fold": 6,
+                "i_fold": 1,
+                "r_fold": 72,
+                "reference": "Barros-Martins21[^Barros-Martins21]",
+                "median": "60"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "AZD1222",
+                "samples": 31,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 31,
+                "reference": "Barros-Martins21[^Barros-Martins21]",
+                "median": ">100"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "AZD1222",
+                "samples": 12,
+                "s_fold": 0,
+                "i_fold": 12,
+                "r_fold": 0,
+                "reference": "Behrens21[^Behrens21]",
+                "median": 3.8
+            },
+            {
+                "variant": "Gamma",
+                "rx": "AZD1222",
                 "samples": 25,
                 "s_fold": 16,
                 "i_fold": 8,
                 "r_fold": 1,
                 "reference": "Dejnirattisai21*[^Dejnirattisai21]",
                 "median": "2.7"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "AZD1222 + BNT162b2",
+                "samples": 54,
+                "s_fold": 0,
+                "i_fold": 1,
+                "r_fold": 53,
+                "reference": "Barros-Martins21[^Barros-Martins21]",
+                "median": "27"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "AZD1222 + BNT162b2",
+                "samples": 11,
+                "s_fold": 11,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Behrens21[^Behrens21]",
+                "median": 1.1
+            },
+            {
+                "variant": "Gamma",
+                "rx": "Ad26.COV2.S",
+                "samples": 19,
+                "s_fold": 9,
+                "i_fold": 4,
+                "r_fold": 6,
+                "reference": "Alter21[^Alter21]",
+                "median": "2.9"
             },
             {
                 "variant": "Gamma",
@@ -2505,12 +3095,12 @@
             {
                 "variant": "Gamma",
                 "rx": "Ad26.COV2.S",
-                "samples": 19,
-                "s_fold": 9,
-                "i_fold": 4,
-                "r_fold": 6,
-                "reference": "Alter21[^Alter21]",
-                "median": "2.9"
+                "samples": 18,
+                "s_fold": 11,
+                "i_fold": 2,
+                "r_fold": 5,
+                "reference": "Barouch21[^Barouch21]",
+                "median": "1.9"
             },
             {
                 "variant": "Gamma",
@@ -2541,6 +3131,26 @@
                 "r_fold": 0,
                 "reference": "Zhang21d[^Zhang21d]",
                 "median": 2.0
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 131,
+                "s_fold": 131,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Abe21[^Abe21]",
+                "median": 2.9
+            },
+            {
+                "variant": "Gamma",
+                "rx": "BNT162b2",
+                "samples": 75,
+                "s_fold": 75,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Acevedo21[^Acevedo21]",
+                "median": 1.7
             },
             {
                 "variant": "Gamma",
@@ -2685,9 +3295,9 @@
             {
                 "variant": "Gamma",
                 "rx": "BNT162b2",
-                "samples": 10,
-                "s_fold": 8,
-                "i_fold": 2,
+                "samples": 14,
+                "s_fold": 13,
+                "i_fold": 1,
                 "r_fold": 0,
                 "reference": "Stankov21[^Stankov21]",
                 "median": "1"
@@ -2695,9 +3305,9 @@
             {
                 "variant": "Gamma",
                 "rx": "BNT162b2",
-                "samples": 14,
-                "s_fold": 13,
-                "i_fold": 1,
+                "samples": 10,
+                "s_fold": 8,
+                "i_fold": 2,
                 "r_fold": 0,
                 "reference": "Stankov21[^Stankov21]",
                 "median": "1"
@@ -2765,12 +3375,12 @@
             {
                 "variant": "Gamma",
                 "rx": "CoronaVac",
-                "samples": 62,
-                "s_fold": 6,
-                "i_fold": 6,
-                "r_fold": 50,
-                "reference": "deSouza21*[^deSouza21]",
-                "median": "4.5"
+                "samples": 28,
+                "s_fold": 28,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Zhao21[^Zhao21]",
+                "median": 2.8
             },
             {
                 "variant": "Gamma",
@@ -2784,6 +3394,16 @@
             },
             {
                 "variant": "Gamma",
+                "rx": "CoronaVac",
+                "samples": 62,
+                "s_fold": 6,
+                "i_fold": 6,
+                "r_fold": 50,
+                "reference": "deSouza21*[^deSouza21]",
+                "median": "4.5"
+            },
+            {
+                "variant": "Gamma",
                 "rx": "Sputnik V",
                 "samples": 16,
                 "s_fold": 0,
@@ -2794,6 +3414,36 @@
             },
             {
                 "variant": "Gamma",
+                "rx": "Sputnik V",
+                "samples": 38,
+                "s_fold": 0,
+                "i_fold": 19,
+                "r_fold": 19,
+                "reference": "Ledesma21[^Ledesma21]",
+                "median": 9.0
+            },
+            {
+                "variant": "Gamma",
+                "rx": "Sputnik V",
+                "samples": 33,
+                "s_fold": 9,
+                "i_fold": 14,
+                "r_fold": 10,
+                "reference": "Ledesma21*[^Ledesma21]",
+                "median": "4"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "mRNA-1273",
+                "samples": 145,
+                "s_fold": 145,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Abe21[^Abe21]",
+                "median": 2.2
+            },
+            {
+                "variant": "Gamma",
                 "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 3,
@@ -2801,6 +3451,16 @@
                 "r_fold": 0,
                 "reference": "Choi21[^Choi21]",
                 "median": "3.5"
+            },
+            {
+                "variant": "Gamma",
+                "rx": "mRNA-1273",
+                "samples": 24,
+                "s_fold": 4,
+                "i_fold": 6,
+                "r_fold": 14,
+                "reference": "Corbett21[^Corbett21]",
+                "median": "8.0"
             },
             {
                 "variant": "Gamma",
@@ -2826,11 +3486,11 @@
                 "variant": "Gamma",
                 "rx": "mRNA-1273",
                 "samples": 48,
-                "s_fold": 22,
-                "i_fold": 20,
-                "r_fold": 6,
+                "s_fold": 48,
+                "i_fold": 0,
+                "r_fold": 0,
                 "reference": "Pegu21[^Pegu21]",
-                "median": "3.1"
+                "median": 1.15
             },
             {
                 "variant": "Gamma",
@@ -2950,6 +3610,26 @@
             {
                 "variant": "Iota",
                 "rx": "BNT162b2",
+                "samples": 10,
+                "s_fold": 0,
+                "i_fold": 10,
+                "r_fold": 0,
+                "reference": "Annavajhala21b[^Annavajhala21b]",
+                "median": 3.6
+            },
+            {
+                "variant": "Iota",
+                "rx": "BNT162b2",
+                "samples": 10,
+                "s_fold": 10,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Annavajhala21b[^Annavajhala21b]",
+                "median": 1.8
+            },
+            {
+                "variant": "Iota",
+                "rx": "BNT162b2",
                 "samples": 20,
                 "s_fold": 20,
                 "i_fold": 0,
@@ -2990,6 +3670,26 @@
             {
                 "variant": "Iota",
                 "rx": "mRNA-1273",
+                "samples": 12,
+                "s_fold": 0,
+                "i_fold": 12,
+                "r_fold": 0,
+                "reference": "Annavajhala21b[^Annavajhala21b]",
+                "median": 3.3
+            },
+            {
+                "variant": "Iota",
+                "rx": "mRNA-1273",
+                "samples": 12,
+                "s_fold": 12,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Annavajhala21b[^Annavajhala21b]",
+                "median": 2.0
+            },
+            {
+                "variant": "Iota",
+                "rx": "mRNA-1273",
                 "samples": 8,
                 "s_fold": 5,
                 "i_fold": 3,
@@ -3011,11 +3711,11 @@
                 "variant": "Iota",
                 "rx": "mRNA-1273",
                 "samples": 48,
-                "s_fold": 36,
-                "i_fold": 9,
-                "r_fold": 3,
+                "s_fold": 48,
+                "i_fold": 0,
+                "r_fold": 0,
                 "reference": "Pegu21[^Pegu21]",
-                "median": "2.2"
+                "median": 0.7
             },
             {
                 "variant": "Iota",
@@ -3065,12 +3765,72 @@
             {
                 "variant": "Kappa",
                 "rx": "AZD1222",
+                "samples": 5,
+                "s_fold": 0,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 4.7
+            },
+            {
+                "variant": "Kappa",
+                "rx": "AZD1222",
+                "samples": 5,
+                "s_fold": 0,
+                "i_fold": 0,
+                "r_fold": 5,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 19.3
+            },
+            {
+                "variant": "Kappa",
+                "rx": "AZD1222",
                 "samples": 61,
                 "s_fold": 61,
                 "i_fold": 0,
                 "r_fold": 0,
                 "reference": "Yadav21c[^Yadav21c]",
                 "median": 1.9
+            },
+            {
+                "variant": "Kappa",
+                "rx": "AZD1222 + AZD2816",
+                "samples": 5,
+                "s_fold": 0,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 3.9
+            },
+            {
+                "variant": "Kappa",
+                "rx": "AZD1222 + AZD2816",
+                "samples": 6,
+                "s_fold": 0,
+                "i_fold": 6,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 4.7
+            },
+            {
+                "variant": "Kappa",
+                "rx": "AZD1222 + AZD2816",
+                "samples": 7,
+                "s_fold": 0,
+                "i_fold": 7,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 3.5
+            },
+            {
+                "variant": "Kappa",
+                "rx": "AZD2816",
+                "samples": 5,
+                "s_fold": 5,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Spencer21[^Spencer21]",
+                "median": 2.7
             },
             {
                 "variant": "Kappa",
@@ -3081,6 +3841,16 @@
                 "r_fold": 4,
                 "reference": "Barouch21[^Barouch21]",
                 "median": "2.5"
+            },
+            {
+                "variant": "Kappa",
+                "rx": "Ad26.COV2.S",
+                "samples": 18,
+                "s_fold": 10,
+                "i_fold": 4,
+                "r_fold": 4,
+                "reference": "Barouch21[^Barouch21]",
+                "median": "2.3"
             },
             {
                 "variant": "Kappa",
@@ -3161,6 +3931,16 @@
                 "r_fold": 15,
                 "reference": "Hu21c[^Hu21c]",
                 "median": "2.5"
+            },
+            {
+                "variant": "Kappa",
+                "rx": "CoronaVac",
+                "samples": 28,
+                "s_fold": 28,
+                "i_fold": 0,
+                "r_fold": 0,
+                "reference": "Zhao21[^Zhao21]",
+                "median": 1.6
             },
             {
                 "variant": "Kappa",

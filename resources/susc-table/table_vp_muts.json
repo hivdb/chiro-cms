@@ -450,6 +450,16 @@
             {
                 "variant": "N439K",
                 "rx": "BNT162b2",
+                "samples": 5,
+                "s_fold": 0,
+                "i_fold": 5,
+                "r_fold": 0,
+                "reference": "Sahin21[^Sahin21]",
+                "median": 3.7
+            },
+            {
+                "variant": "N439K",
+                "rx": "BNT162b2",
                 "samples": 4,
                 "s_fold": 4,
                 "i_fold": 0,
