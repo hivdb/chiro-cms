@@ -182,6 +182,25 @@ def dump_csv(file_path, records, headers=[]):
         writer.writerows(records)
 
 
+def split_mut(mutation):
+    if 'DEL' in mutation.upper():
+        ref = ''
+        start_pos, stop_pos = re.findall(r'(\d+)', mutation)
+        pos = start_pos
+        mut = 'del'
+    else:
+        ref, pos, mut = re.split(r'(\d+)', mutation)
+        start_pos = pos
+        stop_pos = ''
+    return {
+        'ref': ref,
+        'pos': pos,
+        'mut': mut,
+        'start_pos': start_pos,
+        'stop_pos': stop_pos,
+    }
+
+
 def get_proportion(numerator, denominator):
     proportion = round_number(
                 numerator / denominator * 100)
@@ -522,6 +541,22 @@ def collect_variant_mutations(save_dir):
         yaml.dump(mutations, fp)
         print('Updated {}'.format(save_path))
 
+    records = []
+    for item in mutations:
+        name = item['name']
+        mut_list = [
+            i.strip() for i in item['mutations'].split(',') if i.strip()]
+        for mut in mut_list:
+            gene, mut = mut.split(':')
+            mut = split_mut(mut)
+            rec = {
+                'name': name,
+                'gene': gene,
+            }
+            rec.update(mut)
+            records.append(rec)
+    dump_csv(save_dir / 'variants-mutations.csv', records)
+
 
 def make_variant_mut_tracking_table(save_dir, spike_only=True):
     save_path = save_dir / 'variants-mut-tracking.csv'
@@ -664,7 +699,7 @@ def import_outbreak():
     get_version()
 
     collect_variant_mutations(RESULTS_DIR)
-    make_variant_mut_tracking_table(RESULTS_DIR)
+    # make_variant_mut_tracking_table(RESULTS_DIR)
 
     # collect_variant_time_prevalence(RESULTS_DIR)
 
