@@ -3,21 +3,50 @@ positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-  name: nsp6:del106-108  # ORF1a:del3675/3677
+  name: nsp2:T223I  # ORF1a:T403I
+  pos: 1472
+- <<: *non-spike
+  name: PLpro:V1173I  # ORF1a:V1991I
+  pos: 6236
+- <<: *non-spike
+  name: nsp6:S106K  # ORF1a:S3675K
   pos: 11288
-  label: nsp6:Δ106-108
+- <<: *non-spike
+  name: nsp6:del107-109  # ORF1a:del3676/3678
+  pos: 11291
+  label: nsp6:Δ107-109
 - <<: *non-spike
   name: RdRP:P323L  # ORF1b:P314L
   pos: 14407
+- <<: *non-spike
+  name: nsp13:A292S  # ORF1b:A1215S
+  pos: 17110
+- name: P26S
+  pos: 21638
 - name: del69-70
   pos: 21767
   label: Δ69-70
+- name: V126A
+  pos: 21938
 - name: del144-145
   pos: 21992
   label: Δ144-145
+- name: S477N
+  pos: 22991
+- name: E484K
+  pos: 23012
 - name: D614G
   pos: 23402
 - name: P681H
   pos: 23603
+- name: T1027I
+  pos: 24641
 - name: D1118H
   pos: 24914
+- <<: *non-spike
+  name: ORF7b:L14A
+  pos: 27795
+- <<: *non-spike
+  name: ORF7b:del15
+  pos: 27798
+  label: ORF7b:Δ15

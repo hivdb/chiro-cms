@@ -547,11 +547,12 @@ def collect_variant_mutations(save_dir):
         mut_list = [
             i.strip() for i in item['mutations'].split(',') if i.strip()]
         for mut in mut_list:
-            gene, mut = mut.split(':')
-            mut = split_mut(mut)
+            gene, mut_name = mut.split(':')
+            mut = split_mut(mut_name)
             rec = {
                 'name': name,
                 'gene': gene,
+                'mutation': mut_name,
             }
             rec.update(mut)
             records.append(rec)

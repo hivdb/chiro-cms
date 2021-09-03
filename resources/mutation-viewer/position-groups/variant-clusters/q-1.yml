@@ -1,4 +1,4 @@
-name: B.1.1.7+S494P
+name: Q.1
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
@@ -27,8 +27,6 @@ positions:
 - name: del144-145
   pos: 21992
   label: Δ144-145
-- name: S494P
-  pos: 23042
 - name: N501Y
   pos: 23063
 - name: A570D

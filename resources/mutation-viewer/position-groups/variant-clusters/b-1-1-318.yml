@@ -18,9 +18,12 @@ positions:
   name: 3CL:T21I  # ORF1a:T3284I
   pos: 10115
 - <<: *non-spike
-  name: nsp6:del106-108  # ORF1a:del3675/3677
+  name: nsp6:S106K  # ORF1a:S3675K
   pos: 11288
-  label: nsp6:Δ106-108
+- <<: *non-spike
+  name: nsp6:del107-109  # ORF1a:del3676/3678
+  pos: 11291
+  label: nsp6:Δ107-109
 - <<: *non-spike
   name: RdRP:P323L  # ORF1b:P314L
   pos: 14407
@@ -44,6 +47,12 @@ positions:
   name: M:I82T
   pos: 26766
 - <<: *non-spike
+  name: ORF7b:*44Y
+  pos: 27885
+- <<: *non-spike
+  name: ORF7b:T45S
+  pos: 27888
+- <<: *non-spike
   name: ORF8:E106stop
   pos: 28209
   label: ORF8:E106*
@@ -53,6 +62,9 @@ positions:
 - <<: *non-spike
   name: N:G204R
   pos: 28883
+- <<: *non-spike
+  name: N:A208G
+  pos: 28895
 - <<: *non-spike
   name: N:del209
   pos: 28898

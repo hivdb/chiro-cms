@@ -32,9 +32,11 @@ positions:
 - <<: *non-spike
   name: nsp13:L455M  # ORF1b:L1378M
   pos: 17599
-- name: del156-158
+- name: E156V
   pos: 22028
-  label: Δ156-158
+- name: del157-159
+  pos: 22031
+  label: Δ157-159
 - name: F306L
   pos: 22478
 - name: E484K

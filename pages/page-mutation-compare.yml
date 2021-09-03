@@ -6,7 +6,119 @@ toc: false
 tocFloat: none
 escapeHtml: false
 content:
-  _resource: mutation-viewer.md
+  _resource: mutation-compare.md
+tables:
+  table_voc_compare:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: name
+      label: Variant
+    - name: who_name
+      label: "WHO name"
+    - name: who
+      label: WHO
+    - name: cdc
+      label: CDC
+    - name: cog_uk
+      label: COG-UK
+    - name: ecdc
+      label: ECDC
+    - name: url
+      label: Link
+    data:
+      _resource: mutation-viewer/compare.yml
+  table_voc_mut_align:
+    tableScrollStyle:
+      max-height: none
+    columnDefs:
+    - name: name
+      label: Variant
+    - name: who_name
+      label: "WHO name"
+    - name: P9
+      label: "<span style='color:#a6cee3'>P9</span>"
+    - name: S13
+      label: "<span style='color:#a6cee3'>S13</span>"
+    - name: L18
+      label: "<span style='color:#a6cee3'>L18</span>"
+    - name: T19
+      label: "<span style='color:#a6cee3'>T19</span>"
+    - name: P26
+      label: "<span style='color:#a6cee3'>P26</span>"
+    - name: H69
+      label: "<span style='color:#a6cee3'>H69</span>"
+    - name: D80
+      label: "<span style='color:#a6cee3'>D80</span>"
+    - name: T95
+      label: "<span style='color:#a6cee3'>T95</span>"
+    - name: C136
+      label: "<span style='color:#a6cee3'>C136</span>"
+    - name: G142
+      label: "<span style='color:#a6cee3'>G142</span>"
+    - name: Y144
+      label: "<span style='color:#a6cee3'>Y144</span>"
+    - name: W152
+      label: "<span style='color:#a6cee3'>W152</span>"
+    - name: E156
+      label: "<span style='color:#a6cee3'>E156</span>"
+    - name: F157
+      label: "<span style='color:#a6cee3'>F157</span>"
+    - name: R190
+      label: "<span style='color:#a6cee3'>R190</span>"
+    - name: D215
+      label: "<span style='color:#a6cee3'>D215</span>"
+    - name: R346
+      label: "<span style='color:#fb9a99'>R346</span>"
+    - name: K417
+      label: "<span style='color:#fb9a99'>K417</span>"
+    - name: N439
+      label: "<span style='color:#fb9a99'>N439</span>"
+    - name: L452
+      label: "<span style='color:#fb9a99'>L452</span>"
+    - name: T478
+      label: "<span style='color:#fb9a99'>T478</span>"
+    - name: E484
+      label: "<span style='color:#fb9a99'>E484</span>"
+    - name: S494
+      label: "<span style='color:#fb9a99'>S494</span>"
+    - name: N501
+      label: "<span style='color:#fb9a99'>N501</span>"
+    - name: Q613
+      label: "<span style='color:tomato'>Q613</span>"
+    - name: D614
+      label: "<span style='color:tomato'>D614</span>"
+    - name: H655
+      label: "<span style='color:tomato'>H655</span>"
+    - name: Q677
+      label: "<span style='color:tomato'>Q677</span>"
+    - name: P681
+      label: "<span style='color:tomato'>P681</span>"
+    - name: A701
+      label: "<span style='color:tomato'>A701</span>"
+    - name: T716
+      label: "<span style='color:#b2df8a'>T716</span>"
+    - name: E780
+      label: "<span style='color:#b2df8a'>E780</span>"
+    - name: D796
+      label: "<span style='color:#b2df8a'>D796</span>"
+    - name: T859
+      label: "<span style='color:#b2df8a'>T859</span>"
+    - name: D950
+      label: "<span style='color:#b2df8a'>D950</span>"
+    - name: T1027
+      label: "<span style='color:#b2df8a'>T1027</span>"
+    - name: D1118
+      label: "<span style='color:#b2df8a'>D1118</span>"
+    - name: V1176
+      label: "<span style='color:#b2df8a'>V1176</span>"
+    - name: nsp6:S106
+    - name: nsp6:G107
+    - name: N:R203
+    - name: N:G204
+    - name: N:T205
+    data:
+      _resource: mutation-viewer/voc_mut_align.yml
 genomeMaps:
   b-1-1-7:
     name: b-1-1-7

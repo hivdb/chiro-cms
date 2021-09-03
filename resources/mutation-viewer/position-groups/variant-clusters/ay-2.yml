@@ -33,6 +33,8 @@ positions:
   pos: 21617
 - name: V70F
   pos: 21770
+- name: E156G
+  pos: 22028
 - name: del157-158
   pos: 22031
   label: Δ157-158
@@ -63,9 +65,12 @@ positions:
   name: ORF7a:T120I
   pos: 27751
 - <<: *non-spike
-  name: ORF8:del119-120
+  name: ORF8:D119I
   pos: 28248
-  label: ORF8:Δ119-120
+- <<: *non-spike
+  name: ORF8:del120-121
+  pos: 28251
+  label: ORF8:Δ120-121
 - <<: *non-spike
   name: N:D63G
   pos: 28460

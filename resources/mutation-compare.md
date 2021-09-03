@@ -1,4 +1,6 @@
 [toc]
+- [Variants](#variants)
+- [Variants comparison](#variants.comparison)
 - [Variants with adaptive mutations](#variants.with.adaptive.mutations)
   - [Alpha, aka B.1.1.7, 501Y.V1, 20I/501Y.V1, and UK COVID variant](#alpha)
   - [Beta, aka B.1.351, 501Y.V2, 20C/501Y.V2, and South African COVID-19 variant](#beta)
@@ -14,6 +16,18 @@
 [/toc]
 
 <div style="clear: both; height: 0;" />
+
+## Variants
+
+[table compact, lastCompact]
+table_voc_compare
+[/table]
+
+## Variants comparison
+
+[table]
+table_voc_mut_align
+[/table]
 
 ## Variants with adaptive mutations
 

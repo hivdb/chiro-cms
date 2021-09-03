@@ -1,16 +1,25 @@
-name: B.1.1.7+S494P
+name: Q.4
 positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
+  name: nsp1:R24C  # ORF1a:R24C
+  pos: 335
+- <<: *non-spike
   name: PLpro:T183I  # ORF1a:T1001I
   pos: 3266
+- <<: *non-spike
+  name: PLpro:T749A  # ORF1a:T1567A
+  pos: 4964
 - <<: *non-spike
   name: PLpro:A890D  # ORF1a:A1708D
   pos: 5387
 - <<: *non-spike
   name: PLpro:I1412T  # ORF1a:I2230T
   pos: 6953
+- <<: *non-spike
+  name: PLpro:A1502V  # ORF1a:A2320V
+  pos: 7223
 - <<: *non-spike
   name: nsp6:S106K  # ORF1a:S3675K
   pos: 11288
@@ -19,23 +28,27 @@ positions:
   pos: 11291
   label: nsp6:Δ107-109
 - <<: *non-spike
+  name: nsp8:Q24R  # ORF1a:Q3966R
+  pos: 12161
+- <<: *non-spike
   name: RdRP:P323L  # ORF1b:P314L
   pos: 14407
+- <<: *non-spike
+  name: nsp13:K460R  # ORF1b:K1383R
+  pos: 17614
 - name: del69-70
   pos: 21767
   label: Δ69-70
 - name: del144-145
   pos: 21992
   label: Δ144-145
-- name: S494P
-  pos: 23042
 - name: N501Y
   pos: 23063
 - name: A570D
   pos: 23270
 - name: D614G
   pos: 23402
-- name: P681H
+- name: P681R
   pos: 23603
 - name: T716I
   pos: 23708

@@ -32,20 +32,19 @@ positions:
   name: ORF3a:V50A
   pos: 25540
 - <<: *non-spike
-  name: ORF3a:del257-258
+  name: ORF3a:del257-259
   pos: 26161
-  label: ORF3a:Δ257-258
-- <<: *non-spike
-  name: ORF6:del63
-  pos: 27388
-  label: ORF6:Δ63
+  label: ORF3a:Δ257-259
 - <<: *non-spike
   name: ORF8:L84S
   pos: 28143
 - <<: *non-spike
-  name: ORF8:del119-120
+  name: ORF8:D119I
   pos: 28248
-  label: ORF8:Δ119-120
+- <<: *non-spike
+  name: ORF8:del120-121
+  pos: 28251
+  label: ORF8:Δ120-121
 - <<: *non-spike
   name: N:S202N
   pos: 28877

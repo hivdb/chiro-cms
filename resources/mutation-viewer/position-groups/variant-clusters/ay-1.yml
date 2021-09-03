@@ -34,6 +34,11 @@ positions:
   pos: 19219
 - name: T19R
   pos: 21617
+- name: E156G
+  pos: 22028
+- name: del157-158
+  pos: 22031
+  label: Δ157-158
 - name: W258L
   pos: 22334
 - name: K417N
@@ -64,9 +69,12 @@ positions:
   name: ORF7b:T40I
   pos: 27873
 - <<: *non-spike
-  name: ORF8:del119-120
+  name: ORF8:D119I
   pos: 28248
-  label: ORF8:Δ119-120
+- <<: *non-spike
+  name: ORF8:del120-121
+  pos: 28251
+  label: ORF8:Δ120-121
 - <<: *non-spike
   name: N:D63G
   pos: 28460
