@@ -621,7 +621,7 @@ b-1-621
 
 </section>
 
-### Other WHO Listed Variants
+### Other variants of interest
 
 <!-- A.23.1+E484K-->
 <section id="sec_a-23-1-e484k" class="figure-section compact">
