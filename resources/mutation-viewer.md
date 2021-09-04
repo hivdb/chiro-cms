@@ -101,7 +101,6 @@ b-1-1-7-s494p
 </div>
 
 </section>
-
 <!-- Q.1-->
 <section id="sec_q-1" class="figure-section compact">
 
@@ -478,7 +477,6 @@ b-1-617-2-q613h
 
 </section>
 
-
 <!-- AY.1-->
 <section id="sec_ay-1" class="figure-section compact">
 
@@ -660,6 +658,7 @@ ay-9
 </div>
 
 </section>
+
 <!-- AY.10-->
 <section id="sec_ay-10" class="figure-section compact">
 
@@ -720,6 +719,7 @@ ay-12
 </div>
 
 </section>
+
 <!-- Eta -->
 ### Eta
 <a id="sec_eta" />
@@ -769,7 +769,6 @@ b-1-526
 </div>
 
 </section>
-
 
 <!-- Kappa -->
 ### Kappa
@@ -855,7 +854,7 @@ b-1-621
 
 #### [A.23.1+E484K](#sec_a-23-1-e484k)
 
-[A.23.1+E484K Lineage with S:E484K Report](https://outbreak.info/situation-reports?pango=A.23.1&muts=S%3AE484K) [^Outbreak20]
+[Outbreak.info A.23.1+E484K Lineage with S:E484K Report](https://outbreak.info/situation-reports?pango=A.23.1&muts=S%3AE484K) [^Outbreak20]
 
 </div>
 
@@ -1220,7 +1219,7 @@ c-16
 
 #### [C.36+L452R](#sec_c-36-l452r)
 
-[C.36+L452R Lineage with S:L452R Report](https://outbreak.info/situation-reports?pango=C.36&muts=S%3AL452R) [^Outbreak20]
+[Outbreak.info C.36+L452R Lineage with S:L452R Report](https://outbreak.info/situation-reports?pango=C.36&muts=S%3AL452R) [^Outbreak20]
 
 </div>
 
@@ -1319,7 +1318,6 @@ r-1
 </div>
 
 </section>
-
 
 
 ### SARS-COV-2 Variants Tracking sites
