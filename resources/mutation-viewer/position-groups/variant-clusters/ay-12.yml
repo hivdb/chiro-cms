@@ -1,0 +1,85 @@
+name: AY.12
+positions:
+- <<: &non-spike
+    stroke: '#e0e0e0'
+    color: '#a0a0a0'
+  name: PLpro:A488S  # ORF1a:A1306S
+  pos: 4181
+- <<: *non-spike
+  name: PLpro:P1228L  # ORF1a:P2046L
+  pos: 6401
+- <<: *non-spike
+  name: PLpro:P1469S  # ORF1a:P2287S
+  pos: 7124
+- <<: *non-spike
+  name: nsp4:V167L  # ORF1a:V2930L
+  pos: 9053
+- <<: *non-spike
+  name: nsp4:T492I  # ORF1a:T3255I
+  pos: 10028
+- <<: *non-spike
+  name: nsp6:T77A  # ORF1a:T3646A
+  pos: 11201
+- <<: *non-spike
+  name: RdRP:P323L  # ORF1b:P314L
+  pos: 14407
+- <<: *non-spike
+  name: RdRP:G671S  # ORF1b:G662S
+  pos: 15451
+- <<: *non-spike
+  name: nsp13:P77L  # ORF1b:P1000L
+  pos: 16465
+- <<: *non-spike
+  name: nsp14:A394V  # ORF1b:A1918V
+  pos: 19219
+- name: T19R
+  pos: 21617
+- name: E156G
+  pos: 22028
+- name: del157-158
+  pos: 22031
+  label: Δ157-158
+- name: L452R
+  pos: 22916
+- name: T478K
+  pos: 22994
+- name: D614G
+  pos: 23402
+- name: P681R
+  pos: 23603
+- name: D950N
+  pos: 24410
+- <<: *non-spike
+  name: ORF3a:S26L
+  pos: 25468
+- <<: *non-spike
+  name: M:I82T
+  pos: 26766
+- <<: *non-spike
+  name: ORF7a:V82A
+  pos: 27637
+- <<: *non-spike
+  name: ORF7a:T120I
+  pos: 27751
+- <<: *non-spike
+  name: ORF7b:T40I
+  pos: 27873
+- <<: *non-spike
+  name: ORF8:D119I
+  pos: 28248
+- <<: *non-spike
+  name: ORF8:del120-121
+  pos: 28251
+  label: ORF8:Δ120-121
+- <<: *non-spike
+  name: N:D63G
+  pos: 28460
+- <<: *non-spike
+  name: N:R203M
+  pos: 28880
+- <<: *non-spike
+  name: N:G215C
+  pos: 28916
+- <<: *non-spike
+  name: N:D377Y
+  pos: 29402

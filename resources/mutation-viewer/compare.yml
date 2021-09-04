@@ -33,6 +33,27 @@
   who: x
   cog_uk: ''
   url: '[Genome viewer](#sec_q-1)'
+- name: Q.2
+  who_name: Alpha
+  cdc: ''
+  ecdc: ''
+  who: x
+  cog_uk: ''
+  url: '[Genome viewer](#sec_q-2)'
+- name: Q.3
+  who_name: Alpha
+  cdc: ''
+  ecdc: ''
+  who: x
+  cog_uk: ''
+  url: '[Genome viewer](#sec_q-3)'
+- name: Q.4
+  who_name: Alpha
+  cdc: ''
+  ecdc: ''
+  who: x
+  cog_uk: x
+  url: '[Genome viewer](#sec_q-4)'
 - name: B.1.351
   who_name: Beta
   cdc: x
@@ -82,6 +103,27 @@
   who: x
   cog_uk: x
   url: '[Genome viewer](#sec_ay-1)'
+- name: AY.10
+  who_name: Delta
+  cdc: x
+  ecdc: ''
+  who: x
+  cog_uk: ''
+  url: '[Genome viewer](#sec_ay-10)'
+- name: AY.11
+  who_name: Delta
+  cdc: x
+  ecdc: ''
+  who: x
+  cog_uk: ''
+  url: '[Genome viewer](#sec_ay-11)'
+- name: AY.12
+  who_name: Delta
+  cdc: x
+  ecdc: ''
+  who: x
+  cog_uk: ''
+  url: '[Genome viewer](#sec_ay-12)'
 - name: AY.2
   who_name: Delta
   cdc: x
@@ -96,6 +138,48 @@
   who: x
   cog_uk: ''
   url: '[Genome viewer](#sec_ay-3)'
+- name: AY.4
+  who_name: Delta
+  cdc: x
+  ecdc: ''
+  who: x
+  cog_uk: ''
+  url: '[Genome viewer](#sec_ay-4)'
+- name: AY.5
+  who_name: Delta
+  cdc: x
+  ecdc: ''
+  who: x
+  cog_uk: ''
+  url: '[Genome viewer](#sec_ay-5)'
+- name: AY.6
+  who_name: Delta
+  cdc: x
+  ecdc: ''
+  who: x
+  cog_uk: ''
+  url: '[Genome viewer](#sec_ay-6)'
+- name: AY.7
+  who_name: Delta
+  cdc: x
+  ecdc: ''
+  who: x
+  cog_uk: ''
+  url: '[Genome viewer](#sec_ay-7)'
+- name: AY.8
+  who_name: Delta
+  cdc: x
+  ecdc: ''
+  who: x
+  cog_uk: ''
+  url: '[Genome viewer](#sec_ay-8)'
+- name: AY.9
+  who_name: Delta
+  cdc: x
+  ecdc: ''
+  who: x
+  cog_uk: ''
+  url: '[Genome viewer](#sec_ay-9)'
 - name: B.1.617.2
   who_name: Delta
   cdc: x

@@ -122,6 +122,66 @@ q-1
 </div>
 
 </section>
+<!-- Q.2-->
+<section id="sec_q-2" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [Q.2](#sec_q-2)
+
+[Outbreak.info Q.2 Lineage Report](https://outbreak.info/situation-reports?pango=Q.2) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+q-2
+[/genomemap]
+
+</div>
+
+</section>
+<!-- Q.3-->
+<section id="sec_q-3" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [Q.3](#sec_q-3)
+
+[Outbreak.info Q.3 Lineage Report](https://outbreak.info/situation-reports?pango=Q.3) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+q-3
+[/genomemap]
+
+</div>
+
+</section>
+<!-- Q.4-->
+<section id="sec_q-4" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [Q.4](#sec_q-4)
+
+[Outbreak.info Q.4 Lineage Report](https://outbreak.info/situation-reports?pango=Q.4) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+q-4
+[/genomemap]
+
+</div>
+
+</section>
 
 <!-- Beta -->
 ### Beta
@@ -480,7 +540,186 @@ ay-3
 </div>
 
 </section>
+<!-- AY.4-->
+<section id="sec_ay-4" class="figure-section compact">
 
+<div class="figure-caption">
+
+#### [AY.4](#sec_ay-4)
+
+[Outbreak.info AY.4 Lineage Report](https://outbreak.info/situation-reports?pango=AY.4) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ay-4
+[/genomemap]
+
+</div>
+
+</section>
+<!-- AY.5-->
+<section id="sec_ay-5" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [AY.5](#sec_ay-5)
+
+[Outbreak.info AY.5 Lineage Report](https://outbreak.info/situation-reports?pango=AY.5) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ay-5
+[/genomemap]
+
+</div>
+
+</section>
+<!-- AY.6-->
+<section id="sec_ay-6" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [AY.6](#sec_ay-6)
+
+[Outbreak.info AY.6 Lineage Report](https://outbreak.info/situation-reports?pango=AY.6) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ay-6
+[/genomemap]
+
+</div>
+
+</section>
+<!-- AY.7-->
+<section id="sec_ay-7" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [AY.7](#sec_ay-7)
+
+[Outbreak.info AY.7 Lineage Report](https://outbreak.info/situation-reports?pango=AY.7) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ay-7
+[/genomemap]
+
+</div>
+
+</section>
+<!-- AY.8-->
+<section id="sec_ay-8" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [AY.8](#sec_ay-8)
+
+[Outbreak.info AY.8 Lineage Report](https://outbreak.info/situation-reports?pango=AY.8) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ay-8
+[/genomemap]
+
+</div>
+
+</section>
+<!-- AY.9-->
+<section id="sec_ay-9" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [AY.9](#sec_ay-9)
+
+[Outbreak.info AY.9 Lineage Report](https://outbreak.info/situation-reports?pango=AY.9) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ay-9
+[/genomemap]
+
+</div>
+
+</section>
+<!-- AY.10-->
+<section id="sec_ay-10" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [AY.10](#sec_ay-10)
+
+[Outbreak.info AY.10 Lineage Report](https://outbreak.info/situation-reports?pango=AY.10) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ay-10
+[/genomemap]
+
+</div>
+
+</section>
+<!-- AY.11-->
+<section id="sec_ay-11" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [AY.11](#sec_ay-11)
+
+[Outbreak.info AY.11 Lineage Report](https://outbreak.info/situation-reports?pango=AY.11) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ay-11
+[/genomemap]
+
+</div>
+
+</section>
+<!-- AY.12-->
+<section id="sec_ay-12" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [AY.12](#sec_ay-12)
+
+[Outbreak.info AY.12 Lineage Report](https://outbreak.info/situation-reports?pango=AY.12) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ay-12
+[/genomemap]
+
+</div>
+
+</section>
 <!-- Eta -->
 ### Eta
 <a id="sec_eta" />
