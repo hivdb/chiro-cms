@@ -28,11 +28,23 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-2.yml
     <<: *common-props
+  ay-4:
+    name: ay-4
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/ay-4.yml
+    <<: *common-props
   p-1:
     name: p-1
     height: 250
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/p-1.yml
+    <<: *common-props
+  ay-12:
+    name: ay-12
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/ay-12.yml
     <<: *common-props
   b-1-429:
     name: b-1-429
@@ -70,6 +82,24 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-427.yml
     <<: *common-props
+  ay-9:
+    name: ay-9
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/ay-9.yml
+    <<: *common-props
+  ay-5:
+    name: ay-5
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/ay-5.yml
+    <<: *common-props
+  ay-6:
+    name: ay-6
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/ay-6.yml
+    <<: *common-props
   r-1:
     name: r-1
     height: 250
@@ -87,6 +117,12 @@ genomeMaps:
     height: 250
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-525.yml
+    <<: *common-props
+  ay-7:
+    name: ay-7
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/ay-7.yml
     <<: *common-props
   q-3:
     name: q-3
@@ -124,6 +160,12 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-621.yml
     <<: *common-props
+  ay-11:
+    name: ay-11
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/ay-11.yml
+    <<: *common-props
   b-1-351-2:
     name: b-1-351-2
     height: 250
@@ -147,6 +189,12 @@ genomeMaps:
     height: 250
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/ay-2.yml
+    <<: *common-props
+  ay-10:
+    name: ay-10
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/ay-10.yml
     <<: *common-props
   c-36-3:
     name: c-36-3
@@ -201,6 +249,12 @@ genomeMaps:
     height: 250
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/c-16.yml
+    <<: *common-props
+  ay-8:
+    name: ay-8
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/ay-8.yml
     <<: *common-props
   b-1-1-523:
     name: b-1-1-523
