@@ -25,29 +25,28 @@ table_voc_compare
 
 ## Variants comparison
 
-### RBD mutations
-
 [table compact, lastCompact]
 table_voc_rbd
 [/table]
 
-### NTD mutations
 
 [table compact, lastCompact]
 table_voc_ntd
 [/table]
+NTD mutations (mutations occurring in >=2 listed variants)
 
-## Other Spike mutations
 
 [table compact, lastCompact]
 table_voc_other_s
 [/table]
+Other spike mutations (mutations occurring in >=2 listed variants)
 
-## Non Spike mutations
 
 [table compact, lastCompact]
 table_voc_non_s
 [/table]
+Non-spike mutations (mutations occurring in >=3 listed variants)
+
 
 ## Variants with adaptive mutations
 
