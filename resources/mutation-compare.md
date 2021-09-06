@@ -12,7 +12,7 @@
   - [Lambda variant, aka C.37, and B.1.1.1 sublineage in Peru and Chile](/page/mutation-viewer/#lambda)
   - [Mu variant, aka B.1.621](/page/mutation-viewer/#mu)
   - [Other variants of interest](/page/mutation-viewer/#other.variants.of.interest)
-  - [SARS-COV-2 Variants Tracking sites](/page/mutation-viewer/#sars-cov-2.variants.tracking.sites)
+- [SARS-COV-2 Variants Tracking sites](#sars-cov-2.variants.tracking.sites)
 [/toc]
 
 <div style="clear: both; height: 0;" />
@@ -45,6 +45,14 @@ Other spike mutations (mutations occurring in >=2 listed variants)
 table_voc_non_s
 [/table]
 Non-spike mutations (mutations occurring in >=3 listed variants)
+
+## SARS-COV-2 Variants Tracking sites
+
+- [WHO Tracking SARS-CoV-2 variants](https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/)
+- [CDC SARS-CoV-2 Variant Classifications and Definitions](https://www.cdc.gov/coronavirus/2019-ncov/variants/variant-info.html)
+- [COG-UK Variants of concern or under investigation](https://www.gov.uk/government/publications/covid-19-variants-genomically-confirmed-case-numbers)
+- [ECDC SARS-CoV-2 variants of concern](https://www.ecdc.europa.eu/en/covid-19/variants-concern)
+- [Pango lineages](https://cov-lineages.org/lineage_list.html)
 
 
 <div style="text-align: center;">
