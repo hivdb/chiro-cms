@@ -1,5 +1,7 @@
 [toc]
-- [Variants with adaptive mutations](#variants.with.adaptive.mutations)
+- [Variants surveillance](/page/mutation-compare/#variants.surveillance)
+- [Variants mutation comparison](/page/mutation-compare/#variants.mutation.comparison)
+- [Variants genome viewer](#variants.genome.viewer)
   - [Alpha, aka B.1.1.7, 501Y.V1, 20I/501Y.V1, and UK COVID variant](#alpha)
   - [Beta, aka B.1.351, 501Y.V2, 20C/501Y.V2, and South African COVID-19 variant](#beta)
   - [Gamma, aka P.1, B.1.1.28.1, 20J/501Y.V3, and K417T/E484K/N501Y](#gamma)
@@ -15,7 +17,7 @@
 
 <div style="clear: both; height: 0;" />
 
-## Variants with adaptive mutations
+## Variants genome viewer
 
 <!-- Alpha -->
 ### Alpha
@@ -41,6 +43,7 @@ b-1-1-7
 </div>
 
 </section>
+
 <!-- B.1.1.7+E484K-->
 <section id="sec_b-1-1-7-e484k" class="figure-section compact">
 
@@ -61,6 +64,7 @@ b-1-1-7-e484k
 </div>
 
 </section>
+
 <!-- B.1.1.7+L452R-->
 <section id="sec_b-1-1-7-l452r" class="figure-section compact">
 
@@ -81,6 +85,7 @@ b-1-1-7-l452r
 </div>
 
 </section>
+
 <!-- B.1.1.7+S494P-->
 <section id="sec_b-1-1-7-s494p" class="figure-section compact">
 
@@ -101,6 +106,7 @@ b-1-1-7-s494p
 </div>
 
 </section>
+
 <!-- Q.1-->
 <section id="sec_q-1" class="figure-section compact">
 
@@ -121,6 +127,7 @@ q-1
 </div>
 
 </section>
+
 <!-- Q.2-->
 <section id="sec_q-2" class="figure-section compact">
 
@@ -141,6 +148,7 @@ q-2
 </div>
 
 </section>
+
 <!-- Q.3-->
 <section id="sec_q-3" class="figure-section compact">
 
@@ -161,6 +169,7 @@ q-3
 </div>
 
 </section>
+
 <!-- Q.4-->
 <section id="sec_q-4" class="figure-section compact">
 
@@ -206,6 +215,7 @@ b-1-351
 </div>
 
 </section>
+
 <!-- B.1.351+E516Q-->
 <section id="sec_b-1-351-e516q" class="figure-section compact">
 
@@ -226,6 +236,7 @@ b-1-351-e516q
 </div>
 
 </section>
+
 <!-- B.1.351+L18F-->
 <section id="sec_b-1-351-l18f" class="figure-section compact">
 
@@ -246,6 +257,7 @@ b-1-351-l18f
 </div>
 
 </section>
+
 <!-- B.1.351+P384L-->
 <section id="sec_b-1-351-p384l" class="figure-section compact">
 
@@ -266,6 +278,7 @@ b-1-351-p384l
 </div>
 
 </section>
+
 <!-- B.1.351.2-->
 <section id="sec_b-1-351-2" class="figure-section compact">
 
@@ -286,6 +299,7 @@ b-1-351-2
 </div>
 
 </section>
+
 <!-- B.1.351.3-->
 <section id="sec_b-1-351-3" class="figure-section compact">
 
@@ -331,6 +345,7 @@ p-1
 </div>
 
 </section>
+
 <!-- P.1+P681H-->
 <section id="sec_p-1-p681h" class="figure-section compact">
 
@@ -351,6 +366,7 @@ p-1-p681h
 </div>
 
 </section>
+
 <!-- P.1.1-->
 <section id="sec_p-1-1" class="figure-section compact">
 
@@ -371,6 +387,7 @@ p-1-1
 </div>
 
 </section>
+
 <!-- P.1.2-->
 <section id="sec_p-1-2" class="figure-section compact">
 
@@ -416,6 +433,7 @@ b-1-617-2
 </div>
 
 </section>
+
 <!-- B.1.617.2+E484Q-->
 <section id="sec_b-1-617-2-e484q" class="figure-section compact">
 
@@ -436,6 +454,7 @@ b-1-617-2-e484q
 </div>
 
 </section>
+
 <!-- B.1.617.2+K417N-->
 <section id="sec_b-1-617-2-k417n" class="figure-section compact">
 
@@ -456,6 +475,7 @@ b-1-617-2-k417n
 </div>
 
 </section>
+
 <!-- B.1.617.2+Q613H-->
 <section id="sec_b-1-617-2-q613h" class="figure-section compact">
 
@@ -518,6 +538,7 @@ ay-2
 </div>
 
 </section>
+
 <!-- AY.3-->
 <section id="sec_ay-3" class="figure-section compact">
 
@@ -538,6 +559,7 @@ ay-3
 </div>
 
 </section>
+
 <!-- AY.4-->
 <section id="sec_ay-4" class="figure-section compact">
 
@@ -558,6 +580,7 @@ ay-4
 </div>
 
 </section>
+
 <!-- AY.5-->
 <section id="sec_ay-5" class="figure-section compact">
 
@@ -578,6 +601,7 @@ ay-5
 </div>
 
 </section>
+
 <!-- AY.6-->
 <section id="sec_ay-6" class="figure-section compact">
 
@@ -598,6 +622,7 @@ ay-6
 </div>
 
 </section>
+
 <!-- AY.7-->
 <section id="sec_ay-7" class="figure-section compact">
 
@@ -618,6 +643,7 @@ ay-7
 </div>
 
 </section>
+
 <!-- AY.8-->
 <section id="sec_ay-8" class="figure-section compact">
 
@@ -638,6 +664,7 @@ ay-8
 </div>
 
 </section>
+
 <!-- AY.9-->
 <section id="sec_ay-9" class="figure-section compact">
 
@@ -679,6 +706,7 @@ ay-10
 </div>
 
 </section>
+
 <!-- AY.11-->
 <section id="sec_ay-11" class="figure-section compact">
 
@@ -699,6 +727,7 @@ ay-11
 </div>
 
 </section>
+
 <!-- AY.12-->
 <section id="sec_ay-12" class="figure-section compact">
 
@@ -867,6 +896,7 @@ a-23-1-e484k
 </div>
 
 </section>
+
 <!-- A.27-->
 <section id="sec_a-27" class="figure-section compact">
 
@@ -887,6 +917,7 @@ a-27
 </div>
 
 </section>
+
 <!-- A.28-->
 <section id="sec_a-28" class="figure-section compact">
 
@@ -907,6 +938,7 @@ a-28
 </div>
 
 </section>
+
 <!-- AT.1-->
 <section id="sec_at-1" class="figure-section compact">
 
@@ -927,6 +959,7 @@ at-1
 </div>
 
 </section>
+
 <!-- AV.1-->
 <section id="sec_av-1" class="figure-section compact">
 
@@ -947,6 +980,7 @@ av-1
 </div>
 
 </section>
+
 <!-- B.1.1.318-->
 <section id="sec_b-1-1-318" class="figure-section compact">
 
@@ -967,6 +1001,7 @@ b-1-1-318
 </div>
 
 </section>
+
 <!-- B.1.1.519-->
 <section id="sec_b-1-1-519" class="figure-section compact">
 
@@ -987,6 +1022,7 @@ b-1-1-519
 </div>
 
 </section>
+
 <!-- B.1.1.523-->
 <section id="sec_b-1-1-523" class="figure-section compact">
 
@@ -1007,6 +1043,7 @@ b-1-1-523
 </div>
 
 </section>
+
 <!-- B.1.214.2-->
 <section id="sec_b-1-214-2" class="figure-section compact">
 
@@ -1027,6 +1064,7 @@ b-1-214-2
 </div>
 
 </section>
+
 <!-- B.1.427-->
 <section id="sec_b-1-427" class="figure-section compact">
 
@@ -1050,6 +1088,7 @@ b-1-427
 </div>
 
 </section>
+
 <!-- B.1.429-->
 <section id="sec_b-1-429" class="figure-section compact">
 
@@ -1072,6 +1111,7 @@ b-1-429
 </div>
 
 </section>
+
 <!-- B.1.466.2-->
 <section id="sec_b-1-466-2" class="figure-section compact">
 
@@ -1092,6 +1132,7 @@ b-1-466-2
 </div>
 
 </section>
+
 <!-- B.1.616-->
 <section id="sec_b-1-616" class="figure-section compact">
 
@@ -1112,6 +1153,7 @@ b-1-616
 </div>
 
 </section>
+
 <!-- B.1.617.3-->
 <section id="sec_b-1-617-3" class="figure-section compact">
 
@@ -1132,6 +1174,7 @@ b-1-617-3
 </div>
 
 </section>
+
 <!-- B.1.619-->
 <section id="sec_b-1-619" class="figure-section compact">
 
@@ -1152,6 +1195,7 @@ b-1-619
 </div>
 
 </section>
+
 <!-- B.1.620-->
 <section id="sec_b-1-620" class="figure-section compact">
 
@@ -1172,6 +1216,7 @@ b-1-620
 </div>
 
 </section>
+
 <!-- C.1.2-->
 <section id="sec_c-1-2" class="figure-section compact">
 
@@ -1192,6 +1237,7 @@ c-1-2
 </div>
 
 </section>
+
 <!-- C.16-->
 <section id="sec_c-16" class="figure-section compact">
 
@@ -1212,6 +1258,7 @@ c-16
 </div>
 
 </section>
+
 <!-- C.36+L452R-->
 <section id="sec_c-36-l452r" class="figure-section compact">
 
@@ -1232,6 +1279,7 @@ c-36-l452r
 </div>
 
 </section>
+
 <!-- C.36.3-->
 <section id="sec_c-36-3" class="figure-section compact">
 
@@ -1252,6 +1300,7 @@ c-36-3
 </div>
 
 </section>
+
 <!-- P.2-->
 <section id="sec_p-2" class="figure-section compact">
 
@@ -1275,6 +1324,7 @@ p-2
 </div>
 
 </section>
+
 <!-- P.3-->
 <section id="sec_p-3" class="figure-section compact">
 
@@ -1298,6 +1348,7 @@ p-3
 </div>
 
 </section>
+
 <!-- R.1-->
 <section id="sec_r-1" class="figure-section compact">
 
