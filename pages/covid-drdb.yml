@@ -20,9 +20,9 @@ messages:
   .<<mab-desc:
     _resource: mab-description.yml
 monthRanges:
-  - name: 1
+  - name: "1"
     between: [1, 1]
   - name: 2-6
     between: [2, 6]
-  - name: >6
-    between: [6, null]
+  - name: ">6"
+    between: [7, null]
