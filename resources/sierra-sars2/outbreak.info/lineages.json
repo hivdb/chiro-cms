@@ -3,83 +3,83 @@
   "results": [
     {
       "name": "b.1.1.7",
-      "total_count": 1053637
+      "total_count": 1054779
     },
     {
       "name": "b.1.617.2",
-      "total_count": 402038
+      "total_count": 418956
     },
     {
       "name": "ay.4",
-      "total_count": 316453
+      "total_count": 325042
     },
     {
       "name": "b.1.2",
-      "total_count": 103797
+      "total_count": 103820
     },
     {
       "name": "b.1",
-      "total_count": 92768
+      "total_count": 92812
     },
     {
       "name": "none",
-      "total_count": 76368
+      "total_count": 76448
     },
     {
       "name": "b.1.177",
-      "total_count": 73207
+      "total_count": 73229
     },
     {
       "name": "p.1",
-      "total_count": 71997
+      "total_count": 72589
     },
     {
       "name": "b.1.1",
-      "total_count": 48418
+      "total_count": 48467
     },
     {
       "name": "b.1.429",
-      "total_count": 40207
-    },
-    {
-      "name": "b.1.526",
-      "total_count": 39459
+      "total_count": 40220
     },
     {
       "name": "ay.12",
-      "total_count": 38174
+      "total_count": 40191
+    },
+    {
+      "name": "b.1.526",
+      "total_count": 39466
     },
     {
       "name": "ay.25",
-      "total_count": 36292
+      "total_count": 38573
     },
     {
       "name": "b.1.351",
-      "total_count": 31083
+      "total_count": 31127
     },
     {
       "name": "b.1.160",
-      "total_count": 29060
+      "total_count": 29065
     },
     {
       "name": "ay.9",
-      "total_count": 26517
-    },
-    {
-      "name": "b.1.1.519",
-      "total_count": 23551
-    },
-    {
-      "name": "ay.5",
-      "total_count": 23335
+      "total_count": 27261
     },
     {
       "name": "ay.3",
-      "total_count": 22981
+      "total_count": 24391
+    },
+    {
+      "name": "ay.5",
+      "total_count": 23852
+    },
+    {
+      "name": "b.1.1.519",
+      "total_count": 23563
     },
     {
       "name": "b.1.427",
-      "total_count": 18111
+      "total_count": 18120
     },
     {
       "name": "b.1.1.214",
@@ -87,15 +87,15 @@
     },
     {
       "name": "b.1.243",
-      "total_count": 15661
+      "total_count": 15664
     },
     {
       "name": "b.1.258",
-      "total_count": 14117
+      "total_count": 14124
     },
     {
       "name": "b.1.221",
-      "total_count": 13506
+      "total_count": 13511
     },
     {
       "name": "b.1.177.21",
@@ -103,7 +103,7 @@
     },
     {
       "name": "b.1.637",
-      "total_count": 12817
+      "total_count": 12826
     },
     {
       "name": "d.2",
@@ -111,27 +111,27 @@
     },
     {
       "name": "r.1",
-      "total_count": 10526
-    },
-    {
-      "name": "b.1.596",
-      "total_count": 10254
+      "total_count": 10529
     },
     {
       "name": "ay.6",
-      "total_count": 10121
+      "total_count": 10307
+    },
+    {
+      "name": "b.1.596",
+      "total_count": 10255
     },
     {
       "name": "ay.7.1",
-      "total_count": 9401
+      "total_count": 9638
+    },
+    {
+      "name": "ay.20",
+      "total_count": 9447
     },
     {
       "name": "b.1.1.284",
       "total_count": 9223
-    },
-    {
-      "name": "ay.20",
-      "total_count": 8509
     },
     {
       "name": "b.1.438.1",
@@ -143,19 +143,19 @@
     },
     {
       "name": "b.1.234",
-      "total_count": 7588
+      "total_count": 7590
     },
     {
       "name": "b.1.258.17",
-      "total_count": 7431
+      "total_count": 7432
     },
     {
       "name": "q.1",
-      "total_count": 7388
+      "total_count": 7330
     },
     {
       "name": "ay.23",
-      "total_count": 7174
+      "total_count": 7291
     },
     {
       "name": "b.1.36",
@@ -163,7 +163,7 @@
     },
     {
       "name": "q.3",
-      "total_count": 6640
+      "total_count": 6647
     },
     {
       "name": "b.1.177.12",
@@ -171,23 +171,27 @@
     },
     {
       "name": "b.1.617.1",
-      "total_count": 6277
+      "total_count": 6278
+    },
+    {
+      "name": "ay.10",
+      "total_count": 5952
     },
     {
       "name": "b.1.177.7",
       "total_count": 5951
     },
     {
-      "name": "ay.10",
-      "total_count": 5755
-    },
-    {
       "name": "c.37",
-      "total_count": 5493
+      "total_count": 5747
     },
     {
       "name": "b.1.177.86",
-      "total_count": 5430
+      "total_count": 5434
+    },
+    {
+      "name": "ay.14",
+      "total_count": 5213
     },
     {
       "name": "b.1.1.37",
@@ -195,19 +199,19 @@
     },
     {
       "name": "b",
-      "total_count": 5065
-    },
-    {
-      "name": "ay.14",
-      "total_count": 5005
+      "total_count": 5074
     },
     {
       "name": "p.2",
-      "total_count": 4937
+      "total_count": 4947
     },
     {
       "name": "b.1.177.4",
       "total_count": 4646
+    },
+    {
+      "name": "b.1.621",
+      "total_count": 4590
     },
     {
       "name": "ad.2",
@@ -218,16 +222,12 @@
       "total_count": 4464
     },
     {
-      "name": "b.1.621",
-      "total_count": 4346
-    },
-    {
       "name": "b.1.1.222",
-      "total_count": 4263
+      "total_count": 4265
     },
     {
       "name": "b.1.575",
-      "total_count": 4096
+      "total_count": 4100
     },
     {
       "name": "b.1.240",
@@ -235,7 +235,7 @@
     },
     {
       "name": "ay.7",
-      "total_count": 3883
+      "total_count": 3919
     },
     {
       "name": "q.8",
@@ -243,7 +243,11 @@
     },
     {
       "name": "p.1.10",
-      "total_count": 3576
+      "total_count": 3582
+    },
+    {
+      "name": "ay.24",
+      "total_count": 3470
     },
     {
       "name": "b.1.177.57",
@@ -258,20 +262,16 @@
       "total_count": 3372
     },
     {
-      "name": "ay.24",
-      "total_count": 3355
+      "name": "p.1.1",
+      "total_count": 3224
     },
     {
       "name": "b.1.177.60",
       "total_count": 3218
     },
     {
-      "name": "p.1.1",
-      "total_count": 3216
-    },
-    {
       "name": "b.1.595",
-      "total_count": 3122
+      "total_count": 3123
     },
     {
       "name": "b.1.497",
@@ -279,19 +279,23 @@
     },
     {
       "name": "b.1.1.28",
-      "total_count": 3036
+      "total_count": 3037
     },
     {
       "name": "b.1.1.1",
-      "total_count": 3019
+      "total_count": 3023
     },
     {
       "name": "q.4",
-      "total_count": 2946
+      "total_count": 2942
+    },
+    {
+      "name": "ay.3.1",
+      "total_count": 2926
     },
     {
       "name": "b.1.369",
-      "total_count": 2924
+      "total_count": 2925
     },
     {
       "name": "b.40",
@@ -299,11 +303,7 @@
     },
     {
       "name": "b.1.351.2",
-      "total_count": 2779
-    },
-    {
-      "name": "ay.3.1",
-      "total_count": 2739
+      "total_count": 2780
     },
     {
       "name": "b.1.1.70",
@@ -338,6 +338,14 @@
       "total_count": 2438
     },
     {
+      "name": "ay.13",
+      "total_count": 2426
+    },
+    {
+      "name": "ay.15",
+      "total_count": 2414
+    },
+    {
       "name": "b.1.1.33",
       "total_count": 2372
     },
@@ -350,16 +358,8 @@
       "total_count": 2361
     },
     {
-      "name": "ay.13",
-      "total_count": 2342
-    },
-    {
-      "name": "ay.15",
-      "total_count": 2326
-    },
-    {
       "name": "b.1.36.18",
-      "total_count": 2256
+      "total_count": 2257
     },
     {
       "name": "b.1.1.176",
@@ -379,19 +379,19 @@
     },
     {
       "name": "b.1.1.318",
-      "total_count": 2132
+      "total_count": 2137
     },
     {
       "name": "b.1.1.306",
-      "total_count": 2026
-    },
-    {
-      "name": "b.1.177.82",
-      "total_count": 1988
+      "total_count": 2027
     },
     {
       "name": "b.1.466.2",
-      "total_count": 1988
+      "total_count": 1999
+    },
+    {
+      "name": "b.1.177.82",
+      "total_count": 1992
     },
     {
       "name": "b.1.36.17",
@@ -399,7 +399,7 @@
     },
     {
       "name": "ay.2",
-      "total_count": 1906
+      "total_count": 1932
     },
     {
       "name": "b.1.279",
@@ -411,7 +411,7 @@
     },
     {
       "name": "b.1.177.44",
-      "total_count": 1808
+      "total_count": 1809
     },
     {
       "name": "b.1.232",
@@ -422,6 +422,10 @@
       "total_count": 1773
     },
     {
+      "name": "b.1.628",
+      "total_count": 1772
+    },
+    {
       "name": "ae.8",
       "total_count": 1764
     },
@@ -430,32 +434,28 @@
       "total_count": 1750
     },
     {
+      "name": "c.36.3",
+      "total_count": 1740
+    },
+    {
       "name": "b.1.577",
-      "total_count": 1728
+      "total_count": 1729
     },
     {
       "name": "b.1.582",
       "total_count": 1728
     },
     {
-      "name": "c.36.3",
-      "total_count": 1722
-    },
-    {
-      "name": "b.1.628",
-      "total_count": 1701
-    },
-    {
       "name": "b.1.1.25",
       "total_count": 1695
     },
     {
-      "name": "b.1.329",
-      "total_count": 1639
+      "name": "p.1.2",
+      "total_count": 1645
     },
     {
-      "name": "p.1.2",
-      "total_count": 1631
+      "name": "b.1.329",
+      "total_count": 1639
     },
     {
       "name": "b.1.177.54",
@@ -467,23 +467,23 @@
     },
     {
       "name": "ay.8",
-      "total_count": 1582
+      "total_count": 1584
+    },
+    {
+      "name": "ay.7.2",
+      "total_count": 1580
     },
     {
       "name": "b.1.1.298",
       "total_count": 1560
     },
     {
-      "name": "ay.7.2",
-      "total_count": 1552
+      "name": "a.2.5",
+      "total_count": 1549
     },
     {
       "name": "b.1.36.29",
-      "total_count": 1523
-    },
-    {
-      "name": "a.2.5",
-      "total_count": 1508
+      "total_count": 1524
     },
     {
       "name": "b.1.1.50",
@@ -510,12 +510,12 @@
       "total_count": 1487
     },
     {
-      "name": "b.1.623",
-      "total_count": 1462
+      "name": "b.1.177.16",
+      "total_count": 1464
     },
     {
-      "name": "b.1.177.16",
-      "total_count": 1461
+      "name": "b.1.623",
+      "total_count": 1463
     },
     {
       "name": "b.1.177.56",
@@ -523,19 +523,19 @@
     },
     {
       "name": "b.1.177.79",
-      "total_count": 1459
+      "total_count": 1461
+    },
+    {
+      "name": "b.1.177.35",
+      "total_count": 1437
     },
     {
       "name": "b.1.609",
       "total_count": 1436
     },
     {
-      "name": "b.1.177.35",
-      "total_count": 1435
-    },
-    {
       "name": "b.1.1.372",
-      "total_count": 1379
+      "total_count": 1381
     },
     {
       "name": "b.1.177.77",
@@ -547,7 +547,11 @@
     },
     {
       "name": "b.1.1.277",
-      "total_count": 1337
+      "total_count": 1340
+    },
+    {
+      "name": "p.1.7",
+      "total_count": 1338
     },
     {
       "name": "b.1.177.87",
@@ -582,10 +586,6 @@
       "total_count": 1246
     },
     {
-      "name": "p.1.7",
-      "total_count": 1236
-    },
-    {
       "name": "b.1.409",
       "total_count": 1233
     },
@@ -611,7 +611,11 @@
     },
     {
       "name": "c.35",
-      "total_count": 1193
+      "total_count": 1194
+    },
+    {
+      "name": "ay.16",
+      "total_count": 1192
     },
     {
       "name": "b.1.349",
@@ -623,7 +627,11 @@
     },
     {
       "name": "b.1.1.189",
-      "total_count": 1181
+      "total_count": 1182
+    },
+    {
+      "name": "ay.19",
+      "total_count": 1176
     },
     {
       "name": "b.1.422",
@@ -634,16 +642,8 @@
       "total_count": 1157
     },
     {
-      "name": "ay.16",
-      "total_count": 1155
-    },
-    {
       "name": "b.1.588",
       "total_count": 1152
-    },
-    {
-      "name": "ay.19",
-      "total_count": 1144
     },
     {
       "name": "b.1.177.10",
@@ -655,7 +655,7 @@
     },
     {
       "name": "b.1.351.3",
-      "total_count": 1109
+      "total_count": 1111
     },
     {
       "name": "b.1.177.46",
@@ -674,6 +674,10 @@
       "total_count": 1081
     },
     {
+      "name": "ay.1",
+      "total_count": 1069
+    },
+    {
       "name": "b.1.36.36",
       "total_count": 1064
     },
@@ -682,20 +686,16 @@
       "total_count": 1050
     },
     {
+      "name": "b.1.620",
+      "total_count": 1048
+    },
+    {
       "name": "b.6",
       "total_count": 1048
     },
     {
-      "name": "b.1.620",
-      "total_count": 1047
-    },
-    {
       "name": "b.6.6",
       "total_count": 1036
-    },
-    {
-      "name": "ay.1",
-      "total_count": 1027
     },
     {
       "name": "b.1.509",
@@ -714,20 +714,20 @@
       "total_count": 992
     },
     {
+      "name": "b.1.621.1",
+      "total_count": 986
+    },
+    {
       "name": "b.1.1.420",
       "total_count": 981
     },
     {
       "name": "b.1.367",
-      "total_count": 980
+      "total_count": 981
     },
     {
       "name": "b.1.1.216",
       "total_count": 976
-    },
-    {
-      "name": "b.1.621.1",
-      "total_count": 963
     },
     {
       "name": "b.1.428",
@@ -739,11 +739,11 @@
     },
     {
       "name": "c.36",
-      "total_count": 955
+      "total_count": 957
     },
     {
       "name": "ay.11",
-      "total_count": 946
+      "total_count": 956
     },
     {
       "name": "b.1.375",
@@ -759,7 +759,7 @@
     },
     {
       "name": "b.1.436",
-      "total_count": 930
+      "total_count": 932
     },
     {
       "name": "b.1.177.6",
@@ -767,19 +767,19 @@
     },
     {
       "name": "c.16",
-      "total_count": 911
+      "total_count": 912
     },
     {
       "name": "b.1.1.10",
       "total_count": 904
     },
     {
-      "name": "b.1.1.279",
-      "total_count": 896
+      "name": "b.1.1.153",
+      "total_count": 902
     },
     {
-      "name": "b.1.1.153",
-      "total_count": 895
+      "name": "b.1.1.279",
+      "total_count": 896
     },
     {
       "name": "b.1.371",
@@ -791,7 +791,7 @@
     },
     {
       "name": "b.1.153",
-      "total_count": 878
+      "total_count": 880
     },
     {
       "name": "b.1.391",
@@ -799,7 +799,7 @@
     },
     {
       "name": "b.1.36.1",
-      "total_count": 853
+      "total_count": 854
     },
     {
       "name": "b.1.110.3",
@@ -826,16 +826,16 @@
       "total_count": 824
     },
     {
+      "name": "ay.21",
+      "total_count": 816
+    },
+    {
       "name": "b.1.499",
       "total_count": 807
     },
     {
       "name": "b.1.177.75",
       "total_count": 804
-    },
-    {
-      "name": "ay.21",
-      "total_count": 803
     },
     {
       "name": "b.1.177.62",
@@ -931,7 +931,7 @@
     },
     {
       "name": "b.1.1.432",
-      "total_count": 683
+      "total_count": 684
     },
     {
       "name": "b.1.177.9",
@@ -967,7 +967,7 @@
     },
     {
       "name": "b.1.1.198",
-      "total_count": 657
+      "total_count": 658
     },
     {
       "name": "b.1.126",
@@ -1023,7 +1023,7 @@
     },
     {
       "name": "b.1.1.523",
-      "total_count": 592
+      "total_count": 593
     },
     {
       "name": "b.1.177.19",
@@ -1066,12 +1066,12 @@
       "total_count": 568
     },
     {
-      "name": "b.1.36.38",
-      "total_count": 565
+      "name": "b.1.1.194",
+      "total_count": 566
     },
     {
-      "name": "b.1.1.194",
-      "total_count": 563
+      "name": "b.1.36.38",
+      "total_count": 565
     },
     {
       "name": "b.1.258.3",
@@ -1095,7 +1095,7 @@
     },
     {
       "name": "b.1.36.31",
-      "total_count": 541
+      "total_count": 542
     },
     {
       "name": "b.1.1.232",
@@ -1107,7 +1107,7 @@
     },
     {
       "name": "b.1.1.326",
-      "total_count": 527
+      "total_count": 529
     },
     {
       "name": "l.1",
@@ -1139,7 +1139,7 @@
     },
     {
       "name": "b.1.177.63",
-      "total_count": 493
+      "total_count": 495
     },
     {
       "name": "b.1.587",
@@ -1152,6 +1152,10 @@
     {
       "name": "a.5",
       "total_count": 485
+    },
+    {
+      "name": "p.1.4",
+      "total_count": 482
     },
     {
       "name": "b.1.1.289",
@@ -1223,7 +1227,7 @@
     },
     {
       "name": "b.1.36.21",
-      "total_count": 423
+      "total_count": 424
     },
     {
       "name": "b.1.1.121",
@@ -1259,7 +1263,7 @@
     },
     {
       "name": "b.1.399",
-      "total_count": 410
+      "total_count": 411
     },
     {
       "name": "b.1.1.297",
@@ -1274,6 +1278,10 @@
       "total_count": 402
     },
     {
+      "name": "b.1.177.41",
+      "total_count": 400
+    },
+    {
       "name": "b.1.1.44",
       "total_count": 399
     },
@@ -1286,12 +1294,8 @@
       "total_count": 397
     },
     {
-      "name": "b.1.177.41",
-      "total_count": 397
-    },
-    {
       "name": "c.1",
-      "total_count": 396
+      "total_count": 397
     },
     {
       "name": "b.1.235",
@@ -1318,6 +1322,10 @@
       "total_count": 387
     },
     {
+      "name": "b.1.625",
+      "total_count": 383
+    },
+    {
       "name": "b.1.36.35",
       "total_count": 381
     },
@@ -1326,15 +1334,19 @@
       "total_count": 380
     },
     {
-      "name": "b.1.625",
-      "total_count": 380
-    },
-    {
       "name": "b.1.160.30",
       "total_count": 379
     },
     {
+      "name": "ay.22",
+      "total_count": 376
+    },
+    {
       "name": "b.1.1.83",
+      "total_count": 369
+    },
+    {
+      "name": "b.1.258.22",
       "total_count": 369
     },
     {
@@ -1342,20 +1354,8 @@
       "total_count": 368
     },
     {
-      "name": "b.1.258.22",
-      "total_count": 368
-    },
-    {
       "name": "b.1.471",
       "total_count": 368
-    },
-    {
-      "name": "ay.22",
-      "total_count": 367
-    },
-    {
-      "name": "p.1.4",
-      "total_count": 367
     },
     {
       "name": "b.1.177.33",
@@ -1458,8 +1458,12 @@
       "total_count": 334
     },
     {
+      "name": "b.1.627",
+      "total_count": 334
+    },
+    {
       "name": "au.2",
-      "total_count": 331
+      "total_count": 333
     },
     {
       "name": "b.1.36.9",
@@ -1476,10 +1480,6 @@
     {
       "name": "b.1.223",
       "total_count": 325
-    },
-    {
-      "name": "b.1.627",
-      "total_count": 324
     },
     {
       "name": "b.1.1.255",
@@ -1503,7 +1503,7 @@
     },
     {
       "name": "b.1.1.54",
-      "total_count": 312
+      "total_count": 313
     },
     {
       "name": "b.1.1.231",
@@ -1519,7 +1519,7 @@
     },
     {
       "name": "b.1.1.265",
-      "total_count": 303
+      "total_count": 304
     },
     {
       "name": "b.1.1.280",
@@ -1566,6 +1566,10 @@
       "total_count": 291
     },
     {
+      "name": "b.1.459",
+      "total_count": 291
+    },
+    {
       "name": "b.1.1.186",
       "total_count": 289
     },
@@ -1574,12 +1578,8 @@
       "total_count": 289
     },
     {
-      "name": "b.1.459",
-      "total_count": 289
-    },
-    {
       "name": "c.37.1",
-      "total_count": 286
+      "total_count": 289
     },
     {
       "name": "b.1.1.8",
@@ -1670,12 +1670,12 @@
       "total_count": 257
     },
     {
-      "name": "b.1.39",
+      "name": "b.1.1.174",
       "total_count": 253
     },
     {
-      "name": "b.1.1.174",
-      "total_count": 251
+      "name": "b.1.39",
+      "total_count": 253
     },
     {
       "name": "b.1.221.2",
@@ -1699,7 +1699,7 @@
     },
     {
       "name": "b.1.1.161",
-      "total_count": 245
+      "total_count": 246
     },
     {
       "name": "ad.1",
@@ -1719,7 +1719,7 @@
     },
     {
       "name": "az.3",
-      "total_count": 237
+      "total_count": 238
     },
     {
       "name": "b.1.1.243",
@@ -1759,11 +1759,11 @@
     },
     {
       "name": "b.1.546",
-      "total_count": 228
+      "total_count": 229
     },
     {
       "name": "c.38",
-      "total_count": 227
+      "total_count": 228
     },
     {
       "name": "b.1.177.50",
@@ -1794,6 +1794,10 @@
       "total_count": 222
     },
     {
+      "name": "b.1.237",
+      "total_count": 220
+    },
+    {
       "name": "b.1.1.181",
       "total_count": 219
     },
@@ -1815,10 +1819,6 @@
     },
     {
       "name": "b.1.177.2",
-      "total_count": 216
-    },
-    {
-      "name": "b.1.237",
       "total_count": 216
     },
     {
@@ -1846,6 +1846,10 @@
       "total_count": 211
     },
     {
+      "name": "p.1.6",
+      "total_count": 211
+    },
+    {
       "name": "b.1.1.191",
       "total_count": 210
     },
@@ -1870,12 +1874,20 @@
       "total_count": 208
     },
     {
+      "name": "p.7",
+      "total_count": 207
+    },
+    {
       "name": "b.1.1.135",
       "total_count": 206
     },
     {
       "name": "b.1.160.15",
       "total_count": 206
+    },
+    {
+      "name": "b.1.1.528",
+      "total_count": 205
     },
     {
       "name": "b.1.541",
@@ -1894,15 +1906,7 @@
       "total_count": 204
     },
     {
-      "name": "p.7",
-      "total_count": 204
-    },
-    {
       "name": "az.5",
-      "total_count": 203
-    },
-    {
-      "name": "b.1.1.528",
       "total_count": 203
     },
     {
@@ -1918,11 +1922,15 @@
       "total_count": 202
     },
     {
-      "name": "b.1.36.27",
-      "total_count": 201
+      "name": "d.5",
+      "total_count": 202
     },
     {
-      "name": "d.5",
+      "name": "p.1.3",
+      "total_count": 202
+    },
+    {
+      "name": "b.1.36.27",
       "total_count": 201
     },
     {
@@ -1950,20 +1958,12 @@
       "total_count": 198
     },
     {
-      "name": "p.1.6",
-      "total_count": 198
-    },
-    {
       "name": "b.1.112",
       "total_count": 197
     },
     {
       "name": "b.1.636",
-      "total_count": 196
-    },
-    {
-      "name": "p.1.3",
-      "total_count": 195
+      "total_count": 197
     },
     {
       "name": "b.1.1.26",
@@ -2038,6 +2038,10 @@
       "total_count": 183
     },
     {
+      "name": "b.1.36.10",
+      "total_count": 183
+    },
+    {
       "name": "b.1.443",
       "total_count": 183
     },
@@ -2051,10 +2055,6 @@
     },
     {
       "name": "b.1.177.85",
-      "total_count": 182
-    },
-    {
-      "name": "b.1.36.10",
       "total_count": 182
     },
     {
@@ -2198,6 +2198,10 @@
       "total_count": 162
     },
     {
+      "name": "a.2.5.1",
+      "total_count": 161
+    },
+    {
       "name": "av.1",
       "total_count": 161
     },
@@ -2242,10 +2246,6 @@
       "total_count": 160
     },
     {
-      "name": "a.2.5.1",
-      "total_count": 159
-    },
-    {
       "name": "b.1.1.309",
       "total_count": 159
     },
@@ -2266,11 +2266,11 @@
       "total_count": 158
     },
     {
-      "name": "b.1.1.229",
-      "total_count": 157
+      "name": "b.1.595.1",
+      "total_count": 158
     },
     {
-      "name": "b.1.595.1",
+      "name": "b.1.1.229",
       "total_count": 157
     },
     {
@@ -2322,6 +2322,10 @@
       "total_count": 152
     },
     {
+      "name": "b.1.631",
+      "total_count": 152
+    },
+    {
       "name": "b.12",
       "total_count": 152
     },
@@ -2346,12 +2350,12 @@
       "total_count": 148
     },
     {
-      "name": "b.1.631",
-      "total_count": 148
-    },
-    {
       "name": "b.1.1.236",
       "total_count": 147
+    },
+    {
+      "name": "c.1.2",
+      "total_count": 145
     },
     {
       "name": "c.30.1",
@@ -2363,7 +2367,7 @@
     },
     {
       "name": "b.1.1.406",
-      "total_count": 141
+      "total_count": 142
     },
     {
       "name": "b.1.258.19",
@@ -2398,11 +2402,11 @@
       "total_count": 138
     },
     {
-      "name": "b.1.182",
-      "total_count": 137
+      "name": "b.1.438",
+      "total_count": 138
     },
     {
-      "name": "b.1.438",
+      "name": "b.1.182",
       "total_count": 137
     },
     {
@@ -2418,6 +2422,10 @@
       "total_count": 135
     },
     {
+      "name": "b.1.214.3",
+      "total_count": 135
+    },
+    {
       "name": "b.1.605",
       "total_count": 135
     },
@@ -2430,10 +2438,6 @@
       "total_count": 134
     },
     {
-      "name": "b.1.214.3",
-      "total_count": 134
-    },
-    {
       "name": "b.1.597",
       "total_count": 134
     },
@@ -2442,11 +2446,19 @@
       "total_count": 133
     },
     {
+      "name": "b.1.634",
+      "total_count": 133
+    },
+    {
       "name": "b.1.1.12",
       "total_count": 132
     },
     {
       "name": "b.1.1.412",
+      "total_count": 132
+    },
+    {
+      "name": "c.26",
       "total_count": 132
     },
     {
@@ -2463,14 +2475,6 @@
     },
     {
       "name": "b.1.606",
-      "total_count": 131
-    },
-    {
-      "name": "b.1.634",
-      "total_count": 131
-    },
-    {
-      "name": "c.26",
       "total_count": 131
     },
     {
@@ -2502,10 +2506,6 @@
       "total_count": 129
     },
     {
-      "name": "c.1.2",
-      "total_count": 129
-    },
-    {
       "name": "b.1.1.518",
       "total_count": 128
     },
@@ -2514,12 +2514,12 @@
       "total_count": 128
     },
     {
-      "name": "b.10",
+      "name": "b.1.170",
       "total_count": 128
     },
     {
-      "name": "b.1.170",
-      "total_count": 127
+      "name": "b.10",
+      "total_count": 128
     },
     {
       "name": "b.1.314",
@@ -2618,6 +2618,10 @@
       "total_count": 119
     },
     {
+      "name": "b.1.632",
+      "total_count": 119
+    },
+    {
       "name": "b.35",
       "total_count": 119
     },
@@ -2627,6 +2631,10 @@
     },
     {
       "name": "b.1.1.391",
+      "total_count": 117
+    },
+    {
+      "name": "b.1.1.419",
       "total_count": 117
     },
     {
@@ -2642,8 +2650,8 @@
       "total_count": 117
     },
     {
-      "name": "b.1.632",
-      "total_count": 117
+      "name": "ay.17",
+      "total_count": 116
     },
     {
       "name": "b.1.1.453",
@@ -2652,10 +2660,6 @@
     {
       "name": "b.1.589",
       "total_count": 116
-    },
-    {
-      "name": "ay.17",
-      "total_count": 115
     },
     {
       "name": "az.6",
@@ -2667,10 +2671,6 @@
     },
     {
       "name": "b.1.1.315",
-      "total_count": 115
-    },
-    {
-      "name": "b.1.1.419",
       "total_count": 115
     },
     {
@@ -2730,6 +2730,10 @@
       "total_count": 110
     },
     {
+      "name": "b.1.466.1",
+      "total_count": 110
+    },
+    {
       "name": "b.1.495",
       "total_count": 110
     },
@@ -2755,10 +2759,6 @@
     },
     {
       "name": "b.1.192",
-      "total_count": 108
-    },
-    {
-      "name": "b.1.466.1",
       "total_count": 108
     },
     {
@@ -2810,6 +2810,10 @@
       "total_count": 103
     },
     {
+      "name": "b.1.403",
+      "total_count": 103
+    },
+    {
       "name": "b.1.1.322",
       "total_count": 102
     },
@@ -2822,15 +2826,15 @@
       "total_count": 102
     },
     {
-      "name": "b.1.403",
-      "total_count": 102
-    },
-    {
       "name": "u.2",
       "total_count": 102
     },
     {
       "name": "a.19",
+      "total_count": 101
+    },
+    {
+      "name": "ay.18",
       "total_count": 101
     },
     {
@@ -2844,10 +2848,6 @@
     {
       "name": "b.1.1.380",
       "total_count": 101
-    },
-    {
-      "name": "ay.18",
-      "total_count": 100
     },
     {
       "name": "b.1.382",
@@ -3234,6 +3234,10 @@
       "total_count": 80
     },
     {
+      "name": "a.2.5.3",
+      "total_count": 79
+    },
+    {
       "name": "ak.1",
       "total_count": 79
     },
@@ -3244,10 +3248,6 @@
     {
       "name": "b.1.445",
       "total_count": 79
-    },
-    {
-      "name": "a.2.5.3",
-      "total_count": 78
     },
     {
       "name": "a.4",
@@ -3346,6 +3346,10 @@
       "total_count": 73
     },
     {
+      "name": "b.1.213",
+      "total_count": 72
+    },
+    {
       "name": "b.1.513",
       "total_count": 72
     },
@@ -3382,11 +3386,11 @@
       "total_count": 70
     },
     {
-      "name": "b.1.250",
-      "total_count": 69
+      "name": "b.1.37",
+      "total_count": 70
     },
     {
-      "name": "b.1.37",
+      "name": "b.1.250",
       "total_count": 69
     },
     {
@@ -3535,10 +3539,6 @@
     },
     {
       "name": "b.1.177.25",
-      "total_count": 63
-    },
-    {
-      "name": "b.1.213",
       "total_count": 63
     },
     {
@@ -4482,6 +4482,10 @@
       "total_count": 30
     },
     {
+      "name": "c.39",
+      "total_count": 30
+    },
+    {
       "name": "ae.3",
       "total_count": 29
     },
@@ -4658,10 +4662,6 @@
       "total_count": 26
     },
     {
-      "name": "c.39",
-      "total_count": 26
-    },
-    {
       "name": "ac.1",
       "total_count": 25
     },
@@ -4766,6 +4766,10 @@
       "total_count": 24
     },
     {
+      "name": "p.1.10.2",
+      "total_count": 24
+    },
+    {
       "name": "b.1.1.424",
       "total_count": 23
     },
@@ -4787,10 +4791,6 @@
     },
     {
       "name": "b.1.67",
-      "total_count": 23
-    },
-    {
-      "name": "p.1.10.2",
       "total_count": 23
     },
     {
@@ -4838,6 +4838,10 @@
       "total_count": 22
     },
     {
+      "name": "b.1.633",
+      "total_count": 22
+    },
+    {
       "name": "b.6.4",
       "total_count": 22
     },
@@ -4879,10 +4883,6 @@
     },
     {
       "name": "b.1.607",
-      "total_count": 21
-    },
-    {
-      "name": "b.1.633",
       "total_count": 21
     },
     {
