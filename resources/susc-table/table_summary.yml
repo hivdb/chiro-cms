@@ -1,70 +1,70 @@
 - variant: N501Y
   cp: 227
   vp: 105
-  phase3: 61
-  structure: 42
+  phase3: 63
+  structure: 40
 - variant: E484K
   cp: 225
   vp: 214
-  phase3: 91
-  structure: 54
+  phase3: 93
+  structure: 52
 - variant: K417N
   cp: 144
   vp: 122
-  phase3: 53
-  structure: 43
+  phase3: 55
+  structure: 41
 - variant: K417T
   cp: 29
   vp: 0
-  phase3: 7
-  structure: 7
+  phase3: 8
+  structure: 6
 - variant: L452R
   cp: 74
   vp: 79
-  phase3: 31
-  structure: 10
+  phase3: 33
+  structure: 8
 - variant: Other individual mutations
   cp: 1601
   vp: 1443
-  phase3: 877
-  structure: 928
+  phase3: 900
+  structure: 905
 - variant: All individual mutations
   cp: 1994
   vp: 1689
-  phase3: 1048
-  structure: 1043
+  phase3: 1077
+  structure: 1014
 - variant: Alpha
-  cp: 1743
-  vp: 4634
-  phase3: 109
-  structure: 68
+  cp: 1788
+  vp: 4496
+  phase3: 93
+  structure: 55
 - variant: Beta
-  cp: 1983
-  vp: 4946
-  phase3: 110
-  structure: 50
+  cp: 1964
+  vp: 4899
+  phase3: 109
+  structure: 46
 - variant: Gamma
-  cp: 705
-  vp: 2254
-  phase3: 63
-  structure: 27
+  cp: 674
+  vp: 2222
+  phase3: 64
+  structure: 25
 - variant: Epsilon
-  cp: 59
-  vp: 578
-  phase3: 19
-  structure: 11
+  cp: 99
+  vp: 650
+  phase3: 21
+  structure: 9
 - variant: Iota
   cp: 81
-  vp: 829
-  phase3: 27
-  structure: 9
+  vp: 733
+  phase3: 28
+  structure: 8
 - variant: Other combinations of mutations
-  cp: 2535
-  vp: 5279
-  phase3: 437
-  structure: 266
+  cp: 2729
+  vp: 5667
+  phase3: 467
+  structure: 271
 - variant: All combinations of mutations
-  cp: 7296
-  vp: 18694
-  phase3: 810
-  structure: 464
+  cp: 7525
+  vp: 18841
+  phase3: 829
+  structure: 445

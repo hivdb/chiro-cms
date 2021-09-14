@@ -18,26 +18,48 @@ tables:
       label: " "
     - name: bam
       label: "BAM"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: ete
       label: "ETE"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: bam_ete
       label: "BAM/ETE"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: cas
       label: "CAS"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: imd
       label: "IMD"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: cas_imd
       label: "CAS/IMD"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: cil
       label: "CIL"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: tix
       label: "TIX"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: cil_tix
       label: "CIL/TIX"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: sot
       label: "SOT"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: reg
       label: "REG"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     data:
       _resource: susc-table/table_mab.yml
   table_mab_non_eua:
@@ -48,22 +70,40 @@ tables:
       label: " "
     - name: b_196
       label: BRII-196
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: b_198
       label: BRII-198
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: b_196_198
       label: BRII-196/198
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: C135
       label: C135
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: C144
       label: C144
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: c_135_144
       label: C135/C144
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: JMB2002
       label: JMB2002
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: ADG20
       label: ADG20
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: Vir7832
       label: Vir-7832
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     data:
       _resource: susc-table/table_mab.yml
   table_cp:
@@ -73,15 +113,15 @@ tables:
     - name: variant
       label: " "
     - name: cp_studies
-      label: "CP\nStudies\n&#35;"
+      label: "CP\nStudies\n#"
     - name: cp_samples
-      label: "CP\nSamples\n&#35;"
+      label: "CP\nSamples\n#"
     - name: cp_s_fold
-      label: "CP\n&lt;3-fold (S)\n(%)"
+      label: "CP\n<3-fold (S)\n(%)"
     - name: cp_i_fold
       label: "CP\n3-10-fold (I)\n(%)"
     - name: cp_r_fold
-      label: "CP\n&gt;=10-fold (R)\n(%)"
+      label: "CP\n>=10-fold (R)\n(%)"
     data:
       _resource: susc-table/table_cp_summary.yml
   table_vp:
@@ -94,38 +134,22 @@ tables:
       label: vaccine
       multiCells: true
     - name: vaccine.vp_studies
-      label: "Vaccine\nStudies\n&#35;"
+      label: "Vaccine\nStudies\n#"
       multiCells: true
     - name: vaccine.vp_samples
-      label: "Vaccine\nSamples\n&#35;"
+      label: "Vaccine\nSamples\n#"
       multiCells: true
     - name: vaccine.vp_s_fold
-      label: "Vaccine\n&lt;3-fold (S)\n(%)"
+      label: "Vaccine\n<3-fold (S)\n(%)"
       multiCells: true
     - name: vaccine.vp_i_fold
       label: "Vaccine\n3-10-fold (I)\n(%)"
       multiCells: true
     - name: vaccine.vp_r_fold
-      label: "Vaccine\n&gt;=10-fold (R)\n(%)"
+      label: "Vaccine\n>=10-fold (R)\n(%)"
       multiCells: true
     data:
       _resource: susc-table/table_vp_summary.yml
-  table_summary:
-    tableScrollStyle:
-      max-height: none
-    columnDefs:
-    - name: variant
-      label: Mutations
-    - name: cp
-      label: Convalescent plasma
-    - name: vp
-      label: Vaccination plasma
-    - name: phase3
-      label: mAbs in phase 3 trials
-    - name: structure
-      label: mAbs with high-resolution structure
-    data:
-      _resource: susc-table/table_summary.yml
   table_ve:
     tableScrollStyle:
       max-height: none

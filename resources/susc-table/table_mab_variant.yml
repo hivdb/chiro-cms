@@ -48,11 +48,6 @@
   - variant: Alpha
     rx: Casirivimab/Imdevimab
     mab_class: ''
-    fold: '1.3'
-    reference: Tada21[^Tada21]
-  - variant: Alpha
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
     fold: '1'
     reference: Tada21c[^Tada21c]
   - variant: Alpha
@@ -78,11 +73,6 @@
   - variant: Alpha
     rx: Cilgavimab/Tixagevimab
     mab_class: ''
-    fold: '1.4'
-    reference: Chen21[^Chen21]
-  - variant: Alpha
-    rx: Cilgavimab/Tixagevimab
-    mab_class: ''
     fold: '0.8'
     reference: Wang21b[^Wang21b]
   - variant: Alpha
@@ -100,11 +90,6 @@
     mab_class: ''
     fold: '1'
     reference: Wang21b*[^Wang21b]
-  - variant: Alpha
-    rx: S2E12/Sotrovimab
-    mab_class: ''
-    fold: '1.2'
-    reference: Chen21[^Chen21]
   - variant: Alpha
     rx: S2E12/Sotrovimab
     mab_class: ''
@@ -218,38 +203,13 @@
   - variant: Alpha
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '1'
-    reference: Tada21[^Tada21]
-  - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.8'
-    reference: Tada21[^Tada21]
-  - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.7'
-    reference: Tada21c[^Tada21c]
-  - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.4'
-    reference: Wang21f[^Wang21f]
-  - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.2'
-    reference: Wang21e[^Wang21e]
-  - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.3'
-    reference: Wang21e[^Wang21e]
-  - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
     fold: '0.6'
     reference: Rothenberger21[^Rothenberger21]
+  - variant: Alpha
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '1'
+    reference: Tada21[^Tada21]
   - variant: Alpha
     rx: Imdevimab
     mab_class: RBD Core Cluster I
@@ -258,8 +218,18 @@
   - variant: Alpha
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '2.5'
-    reference: Yao21[^Yao21]
+    fold: '0.7'
+    reference: Tada21c[^Tada21c]
+  - variant: Alpha
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.2'
+    reference: Wang21e[^Wang21e]
+  - variant: Alpha
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.4'
+    reference: Wang21f[^Wang21f]
   - variant: Alpha
     rx: Imdevimab
     mab_class: RBD Core Cluster I
@@ -293,11 +263,6 @@
   - variant: Alpha
     rx: Sotrovimab
     mab_class: RBD Core Cluster I
-    fold: '2.3'
-    reference: Shen21[^Shen21]
-  - variant: Alpha
-    rx: Sotrovimab
-    mab_class: RBD Core Cluster I
     fold: '0.5'
     reference: Wang21f[^Wang21f]
   - variant: Alpha
@@ -305,11 +270,6 @@
     mab_class: RBD Core Cluster I
     fold: '2.3'
     reference: Cathcart21[^Cathcart21]
-  - variant: Alpha
-    rx: Sotrovimab
-    mab_class: RBD Core Cluster I
-    fold: '2.8'
-    reference: Chen21[^Chen21]
   - variant: Alpha
     rx: Sotrovimab
     mab_class: RBD Core Cluster I
@@ -373,13 +333,13 @@
   - variant: Alpha
     rx: COVA1-16
     mab_class: RBD Core Cluster II
-    fold: '1.3'
-    reference: Rees-Spear21[^Rees-Spear21]
+    fold: '0.7'
+    reference: Caniels21[^Caniels21]
   - variant: Alpha
     rx: COVA1-16
     mab_class: RBD Core Cluster II
-    fold: '0.7'
-    reference: Caniels21[^Caniels21]
+    fold: '1.3'
+    reference: Rees-Spear21[^Rees-Spear21]
   - variant: Alpha
     rx: COVA1-16
     mab_class: RBD Core Cluster II
@@ -395,26 +355,6 @@
     mab_class: RBD Core Cluster II
     fold: '1.2'
     reference: Shen21[^Shen21]
-  - variant: Alpha
-    rx: DH1047
-    mab_class: RBD Core Cluster II
-    fold: '0.4'
-    reference: Shen21[^Shen21]
-  - variant: Alpha
-    rx: LY3853113
-    mab_class: RBD Core Cluster II
-    fold: '0.9'
-    reference: Westendorf21[^Westendorf21]
-  - variant: Alpha
-    rx: LY3853113
-    mab_class: RBD Core Cluster II
-    fold: '0.7'
-    reference: Westendorf21[^Westendorf21]
-  - variant: Alpha
-    rx: S2X259
-    mab_class: RBD Core Cluster II
-    fold: '1.1'
-    reference: Chen21[^Chen21]
   - variant: Alpha
     rx: S2X259
     mab_class: RBD Core Cluster II
@@ -448,11 +388,6 @@
   - variant: Alpha
     rx: B38
     mab_class: RBM Class I
-    fold: '1.2'
-    reference: Shen21[^Shen21]
-  - variant: Alpha
-    rx: B38
-    mab_class: RBM Class I
     fold: '14'
     reference: Shen21[^Shen21]
   - variant: Alpha
@@ -478,11 +413,6 @@
   - variant: Alpha
     rx: COVOX-384
     mab_class: RBM Class I
-    fold: '1.1'
-    reference: Chen21[^Chen21]
-  - variant: Alpha
-    rx: COVOX-384
-    mab_class: RBM Class I
     fold: '0.7'
     reference: Chen21*[^Chen21]
   - variant: Alpha
@@ -498,12 +428,12 @@
   - variant: Alpha
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '1'
-    reference: Tada21[^Tada21]
+    fold: '0.6'
+    reference: Rothenberger21[^Rothenberger21]
   - variant: Alpha
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '1.1'
+    fold: '1'
     reference: Tada21[^Tada21]
   - variant: Alpha
     rx: Casirivimab
@@ -513,18 +443,13 @@
   - variant: Alpha
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '0.6'
-    reference: Wang21f[^Wang21f]
-  - variant: Alpha
-    rx: Casirivimab
-    mab_class: RBM Class I
     fold: '0.9'
     reference: Wang21e[^Wang21e]
   - variant: Alpha
     rx: Casirivimab
     mab_class: RBM Class I
     fold: '0.6'
-    reference: Rothenberger21[^Rothenberger21]
+    reference: Wang21f[^Wang21f]
   - variant: Alpha
     rx: Casirivimab
     mab_class: RBM Class I
@@ -540,11 +465,6 @@
     mab_class: RBM Class I
     fold: '3.2'
     reference: Tada21c[^Tada21c]
-  - variant: Alpha
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '3.9'
-    reference: Yao21[^Yao21]
   - variant: Alpha
     rx: Casirivimab
     mab_class: RBM Class I
@@ -566,19 +486,9 @@
     fold: '1.6'
     reference: Shen21[^Shen21]
   - variant: Alpha
-    rx: DH1041
-    mab_class: RBM Class I
-    fold: '0.5'
-    reference: Shen21[^Shen21]
-  - variant: Alpha
     rx: DH1043
     mab_class: RBM Class I
     fold: '1.2'
-    reference: Shen21[^Shen21]
-  - variant: Alpha
-    rx: DH1043
-    mab_class: RBM Class I
-    fold: '0.9'
     reference: Shen21[^Shen21]
   - variant: Alpha
     rx: Etesevimab
@@ -593,18 +503,8 @@
   - variant: Alpha
     rx: Etesevimab
     mab_class: RBM Class I
-    fold: '3.2'
-    reference: Wang21e[^Wang21e]
-  - variant: Alpha
-    rx: Etesevimab
-    mab_class: RBM Class I
     fold: '3.6'
     reference: Wang21b[^Wang21b]
-  - variant: Alpha
-    rx: Etesevimab
-    mab_class: RBM Class I
-    fold: '22'
-    reference: Yao21[^Yao21]
   - variant: Alpha
     rx: Etesevimab
     mab_class: RBM Class I
@@ -625,11 +525,6 @@
     mab_class: RBM Class I
     fold: '95'
     reference: Supasa21*[^Supasa21]
-  - variant: Alpha
-    rx: H4
-    mab_class: RBM Class I
-    fold: '1.5'
-    reference: Shen21[^Shen21]
   - variant: Alpha
     rx: H4
     mab_class: RBM Class I
@@ -658,11 +553,6 @@
   - variant: Alpha
     rx: S2E12
     mab_class: RBM Class I
-    fold: '0.8'
-    reference: Chen21[^Chen21]
-  - variant: Alpha
-    rx: S2E12
-    mab_class: RBM Class I
     fold: '1.1'
     reference: Collier21[^Collier21]
   - variant: Alpha
@@ -675,11 +565,6 @@
     mab_class: RBM Class I
     fold: '&gt;100'
     reference: Collier21[^Collier21]
-  - variant: Alpha
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '0.9'
-    reference: Chen21[^Chen21]
   - variant: Alpha
     rx: Tixagevimab
     mab_class: RBM Class I
@@ -738,11 +623,6 @@
   - variant: Alpha
     rx: Bamlanivimab
     mab_class: RBM Class II
-    fold: '1.8'
-    reference: Wang21e[^Wang21e]
-  - variant: Alpha
-    rx: Bamlanivimab
-    mab_class: RBM Class II
     fold: '1'
     reference: FDA21[^FDA21]
   - variant: Alpha
@@ -754,22 +634,22 @@
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '1'
-    reference: Planas21b*[^Planas21b]
-  - variant: Alpha
-    rx: Bamlanivimab
-    mab_class: RBM Class II
-    fold: '1.3'
-    reference: Vanhove21*[^Vanhove21]
+    reference: Makdasi21*[^Makdasi21]
   - variant: Alpha
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '1'
-    reference: Makdasi21*[^Makdasi21]
+    reference: Planas21b*[^Planas21b]
   - variant: Alpha
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '1.5'
     reference: Supasa21*[^Supasa21]
+  - variant: Alpha
+    rx: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '1.3'
+    reference: Vanhove21*[^Vanhove21]
   - variant: Alpha
     rx: Bamlanivimab
     mab_class: RBM Class II
@@ -788,18 +668,8 @@
   - variant: Alpha
     rx: COVOX-40
     mab_class: RBM Class II
-    fold: '1.1'
-    reference: Chen21[^Chen21]
-  - variant: Alpha
-    rx: COVOX-40
-    mab_class: RBM Class II
     fold: '0.9'
     reference: Chen21*[^Chen21]
-  - variant: Alpha
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '0.7'
-    reference: Chen21[^Chen21]
   - variant: Alpha
     rx: Cilgavimab
     mab_class: RBM Class II
@@ -821,14 +691,19 @@
     fold: '0.3'
     reference: Wang21b*[^Wang21b]
   - variant: Alpha
-    rx: P2B-2F6
+    rx: LY3853113
     mab_class: RBM Class II
-    fold: '1.1'
-    reference: Shen21[^Shen21]
+    fold: '0.7'
+    reference: Westendorf21[^Westendorf21]
+  - variant: Alpha
+    rx: LY3853113
+    mab_class: RBM Class II
+    fold: '0.9'
+    reference: Westendorf21[^Westendorf21]
   - variant: Alpha
     rx: P2B-2F6
     mab_class: RBM Class II
-    fold: '0.5'
+    fold: '1.1'
     reference: Shen21[^Shen21]
   - variant: Alpha
     rx: P5A-1B9
@@ -930,6 +805,11 @@
   - variant: Beta
     rx: Casirivimab/Imdevimab
     mab_class: ''
+    fold: '7.6'
+    reference: Tada21c[^Tada21c]
+  - variant: Beta
+    rx: Casirivimab/Imdevimab
+    mab_class: ''
     fold: '7.5'
     reference: Tada21d[^Tada21d]
   - variant: Beta
@@ -937,11 +817,6 @@
     mab_class: ''
     fold: '7.5'
     reference: Tada21e[^Tada21e]
-  - variant: Beta
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
-    fold: '7.6'
-    reference: Tada21c[^Tada21c]
   - variant: Beta
     rx: Casirivimab/Imdevimab
     mab_class: ''
@@ -1053,16 +928,6 @@
     fold: '1'
     reference: Wang21b*[^Wang21b]
   - variant: Beta
-    rx: CV2-75
-    mab_class: RBD Core Cluster I
-    fold: '1.6'
-    reference: Stamatatos21[^Stamatatos21]
-  - variant: Beta
-    rx: CV2-75
-    mab_class: RBD Core Cluster I
-    fold: '2.3'
-    reference: Stamatatos21[^Stamatatos21]
-  - variant: Beta
     rx: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.2'
@@ -1080,12 +945,22 @@
   - variant: Beta
     rx: Imdevimab
     mab_class: RBD Core Cluster I
+    fold: '0.2'
+    reference: Rothenberger21[^Rothenberger21]
+  - variant: Beta
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
     fold: '2.3'
     reference: Tada21[^Tada21]
   - variant: Beta
     rx: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1.5'
+    reference: Tada21c[^Tada21c]
+  - variant: Beta
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '2.6'
     reference: Tada21c[^Tada21c]
   - variant: Beta
     rx: Imdevimab
@@ -1100,8 +975,8 @@
   - variant: Beta
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.5'
-    reference: Wang21f[^Wang21f]
+    fold: '0.2'
+    reference: Wang21e[^Wang21e]
   - variant: Beta
     rx: Imdevimab
     mab_class: RBD Core Cluster I
@@ -1110,23 +985,8 @@
   - variant: Beta
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.2'
-    reference: Wang21e[^Wang21e]
-  - variant: Beta
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.2'
-    reference: Rothenberger21[^Rothenberger21]
-  - variant: Beta
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
     fold: '0.5'
-    reference: Rothenberger21[^Rothenberger21]
-  - variant: Beta
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '2.6'
-    reference: Tada21c[^Tada21c]
+    reference: Wang21f[^Wang21f]
   - variant: Beta
     rx: Imdevimab
     mab_class: RBD Core Cluster I
@@ -1223,10 +1083,15 @@
     fold: '1'
     reference: Wang21b*[^Wang21b]
   - variant: Beta
-    rx: H014
+    rx: CV2-75
     mab_class: RBD Core Cluster II
-    fold: '1.9'
-    reference: Li21c[^Li21c]
+    fold: '2.3'
+    reference: Stamatatos21[^Stamatatos21]
+  - variant: Beta
+    rx: CV2-75
+    mab_class: RBD Core Cluster II
+    fold: '1.6'
+    reference: Stamatatos21[^Stamatatos21]
   - variant: Beta
     rx: H014
     mab_class: RBD Core Cluster II
@@ -1237,11 +1102,6 @@
     mab_class: RBD Core Cluster II
     fold: '1'
     reference: Li21c[^Li21c]
-  - variant: Beta
-    rx: LY3853113
-    mab_class: RBD Core Cluster II
-    fold: '0.7'
-    reference: Westendorf21[^Westendorf21]
   - variant: Beta
     rx: S2X259
     mab_class: RBD Core Cluster II
@@ -1275,11 +1135,6 @@
   - variant: Beta
     rx: BRII-196
     mab_class: RBM Class I
-    fold: '1.5'
-    reference: Li21c[^Li21c]
-  - variant: Beta
-    rx: BRII-196
-    mab_class: RBM Class I
     fold: '1'
     reference: Li21c[^Li21c]
   - variant: Beta
@@ -1300,12 +1155,12 @@
   - variant: Beta
     rx: CV30
     mab_class: RBM Class I
-    fold: '16'
+    fold: '25'
     reference: Stamatatos21[^Stamatatos21]
   - variant: Beta
     rx: CV30
     mab_class: RBM Class I
-    fold: '25'
+    fold: '16'
     reference: Stamatatos21[^Stamatatos21]
   - variant: Beta
     rx: Casirivimab
@@ -1316,11 +1171,6 @@
     rx: Casirivimab
     mab_class: RBM Class I
     fold: '3.9'
-    reference: Rothenberger21[^Rothenberger21]
-  - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '5'
     reference: Rothenberger21[^Rothenberger21]
   - variant: Beta
     rx: Casirivimab
@@ -1345,6 +1195,11 @@
   - variant: Beta
     rx: Casirivimab
     mab_class: RBM Class I
+    fold: '39'
+    reference: Tada21c[^Tada21c]
+  - variant: Beta
+    rx: Casirivimab
+    mab_class: RBM Class I
     fold: '&gt;100'
     reference: Tada21d[^Tada21d]
   - variant: Beta
@@ -1355,18 +1210,13 @@
   - variant: Beta
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '13'
-    reference: Wang21f[^Wang21f]
-  - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
     fold: '&gt;100'
     reference: Wang21e[^Wang21e]
   - variant: Beta
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '39'
-    reference: Tada21c[^Tada21c]
+    fold: '13'
+    reference: Wang21f[^Wang21f]
   - variant: Beta
     rx: Casirivimab
     mab_class: RBM Class I
@@ -1395,13 +1245,13 @@
   - variant: Beta
     rx: Etesevimab
     mab_class: RBM Class I
-    fold: '49'
-    reference: Wang21f[^Wang21f]
+    fold: '&gt;100'
+    reference: Wang21e[^Wang21e]
   - variant: Beta
     rx: Etesevimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21e[^Wang21e]
+    fold: '49'
+    reference: Wang21f[^Wang21f]
   - variant: Beta
     rx: Etesevimab
     mab_class: RBM Class I
@@ -1531,17 +1381,17 @@
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '&gt;100'
+    reference: Makdasi21*[^Makdasi21]
+  - variant: Beta
+    rx: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '&gt;100'
     reference: Planas21b*[^Planas21b]
   - variant: Beta
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '&gt;100'
     reference: Vanhove21*[^Vanhove21]
-  - variant: Beta
-    rx: Bamlanivimab
-    mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Makdasi21*[^Makdasi21]
   - variant: Beta
     rx: Bamlanivimab
     mab_class: RBM Class II
@@ -1588,10 +1438,10 @@
     fold: '0.3'
     reference: Wang21b*[^Wang21b]
   - variant: Beta
-    rx: P2B-2F6
+    rx: LY3853113
     mab_class: RBM Class II
-    fold: '23'
-    reference: Li21c[^Li21c]
+    fold: '0.7'
+    reference: Westendorf21[^Westendorf21]
   - variant: Beta
     rx: P2B-2F6
     mab_class: RBM Class II
@@ -1642,8 +1492,8 @@
   - variant: Delta
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '1'
-    reference: Planas21b[^Planas21b]
+    fold: '0.5'
+    reference: Arora21[^Arora21]
   - variant: Delta
     rx: Imdevimab
     mab_class: RBD Core Cluster I
@@ -1652,8 +1502,8 @@
   - variant: Delta
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.5'
-    reference: Arora21[^Arora21]
+    fold: '1'
+    reference: Planas21b[^Planas21b]
   - variant: Delta
     rx: Imdevimab
     mab_class: RBD Core Cluster I
@@ -1677,8 +1527,8 @@
   - variant: Delta
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '1'
-    reference: Planas21b[^Planas21b]
+    fold: '0.7'
+    reference: Arora21[^Arora21]
   - variant: Delta
     rx: Casirivimab
     mab_class: RBM Class I
@@ -1687,13 +1537,13 @@
   - variant: Delta
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '0.4'
-    reference: Wang21e[^Wang21e]
+    fold: '1'
+    reference: Planas21b[^Planas21b]
   - variant: Delta
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '0.7'
-    reference: Arora21[^Arora21]
+    fold: '0.4'
+    reference: Wang21e[^Wang21e]
   - variant: Delta
     rx: Casirivimab
     mab_class: RBM Class I
@@ -1702,8 +1552,8 @@
   - variant: Delta
     rx: Etesevimab
     mab_class: RBM Class I
-    fold: '0.8'
-    reference: Planas21b[^Planas21b]
+    fold: '0.6'
+    reference: Arora21[^Arora21]
   - variant: Delta
     rx: Etesevimab
     mab_class: RBM Class I
@@ -1712,18 +1562,13 @@
   - variant: Delta
     rx: Etesevimab
     mab_class: RBM Class I
-    fold: '0.5'
-    reference: Wang21e[^Wang21e]
+    fold: '0.8'
+    reference: Planas21b[^Planas21b]
   - variant: Delta
     rx: Etesevimab
     mab_class: RBM Class I
-    fold: '0.6'
-    reference: Arora21[^Arora21]
-  - variant: Delta
-    rx: Regdanvimab
-    mab_class: RBM Class I
-    fold: '98'
-    reference: Ryu21c[^Ryu21c]
+    fold: '0.5'
+    reference: Wang21e[^Wang21e]
   - variant: Delta
     rx: Regdanvimab
     mab_class: RBM Class I
@@ -1738,7 +1583,7 @@
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '&gt;100'
-    reference: Planas21b[^Planas21b]
+    reference: Arora21[^Arora21]
   - variant: Delta
     rx: Bamlanivimab
     mab_class: RBM Class II
@@ -1748,12 +1593,12 @@
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '&gt;100'
-    reference: Wang21e[^Wang21e]
+    reference: Planas21b[^Planas21b]
   - variant: Delta
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '&gt;100'
-    reference: Arora21[^Arora21]
+    reference: Wang21e[^Wang21e]
   - variant: Delta
     rx: Cilgavimab
     mab_class: RBM Class II
@@ -1817,16 +1662,6 @@
     fold: '0.7'
     reference: FDA21[^FDA21]
   - variant: Epsilon
-    rx: LY3853113
-    mab_class: RBD Core Cluster II
-    fold: '0.5'
-    reference: Westendorf21[^Westendorf21]
-  - variant: Epsilon
-    rx: LY3853113
-    mab_class: RBD Core Cluster II
-    fold: '0.4'
-    reference: Westendorf21[^Westendorf21]
-  - variant: Epsilon
     rx: S2X259
     mab_class: RBD Core Cluster II
     fold: '1.3'
@@ -1864,7 +1699,7 @@
   - variant: Epsilon
     rx: Regdanvimab
     mab_class: RBM Class I
-    fold: '31'
+    fold: '74'
     reference: Ryu21c[^Ryu21c]
   - variant: Epsilon
     rx: Regdanvimab
@@ -1874,7 +1709,7 @@
   - variant: Epsilon
     rx: Regdanvimab
     mab_class: RBM Class I
-    fold: '74'
+    fold: '31'
     reference: Ryu21c[^Ryu21c]
   - variant: Epsilon
     rx: S2E12
@@ -1901,6 +1736,16 @@
     mab_class: RBM Class II
     fold: '&gt;100'
     reference: FDA21[^FDA21]
+  - variant: Epsilon
+    rx: LY3853113
+    mab_class: RBM Class II
+    fold: '0.5'
+    reference: Westendorf21[^Westendorf21]
+  - variant: Epsilon
+    rx: LY3853113
+    mab_class: RBM Class II
+    fold: '0.4'
+    reference: Westendorf21[^Westendorf21]
   - variant: Epsilon
     rx: S2D106
     mab_class: RBM Class II
@@ -2021,6 +1866,11 @@
   - variant: Gamma
     rx: Imdevimab
     mab_class: RBD Core Cluster I
+    fold: '0.2'
+    reference: Rothenberger21[^Rothenberger21]
+  - variant: Gamma
+    rx: Imdevimab
+    mab_class: RBD Core Cluster I
     fold: '1.9'
     reference: Tada21[^Tada21]
   - variant: Gamma
@@ -2031,18 +1881,13 @@
   - variant: Gamma
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.3'
-    reference: Wang21f[^Wang21f]
-  - variant: Gamma
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
     fold: '0.1'
     reference: Wang21e[^Wang21e]
   - variant: Gamma
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.2'
-    reference: Rothenberger21[^Rothenberger21]
+    fold: '0.3'
+    reference: Wang21f[^Wang21f]
   - variant: Gamma
     rx: Imdevimab
     mab_class: RBD Core Cluster I
@@ -2109,16 +1954,6 @@
     fold: '0.2'
     reference: Caniels21[^Caniels21]
   - variant: Gamma
-    rx: LY3853113
-    mab_class: RBD Core Cluster II
-    fold: '0.6'
-    reference: Westendorf21[^Westendorf21]
-  - variant: Gamma
-    rx: LY3853113
-    mab_class: RBD Core Cluster II
-    fold: '0.4'
-    reference: Westendorf21[^Westendorf21]
-  - variant: Gamma
     rx: 2-15
     mab_class: RBM Class I
     fold: '&gt;100'
@@ -2147,12 +1982,12 @@
     rx: Casirivimab
     mab_class: RBM Class I
     fold: '8.3'
-    reference: Wang21f[^Wang21f]
+    reference: Rothenberger21[^Rothenberger21]
   - variant: Gamma
     rx: Casirivimab
     mab_class: RBM Class I
     fold: '8.3'
-    reference: Rothenberger21[^Rothenberger21]
+    reference: Wang21f[^Wang21f]
   - variant: Gamma
     rx: Casirivimab
     mab_class: RBM Class I
@@ -2196,13 +2031,13 @@
   - variant: Gamma
     rx: Etesevimab
     mab_class: RBM Class I
-    fold: '49'
-    reference: Wang21f[^Wang21f]
+    fold: '&gt;100'
+    reference: Wang21e[^Wang21e]
   - variant: Gamma
     rx: Etesevimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21e[^Wang21e]
+    fold: '49'
+    reference: Wang21f[^Wang21f]
   - variant: Gamma
     rx: Etesevimab
     mab_class: RBM Class I
@@ -2329,6 +2164,16 @@
     fold: '0.5'
     reference: Wang21d*[^Wang21d]
   - variant: Gamma
+    rx: LY3853113
+    mab_class: RBM Class II
+    fold: '0.4'
+    reference: Westendorf21[^Westendorf21]
+  - variant: Gamma
+    rx: LY3853113
+    mab_class: RBM Class II
+    fold: '0.6'
+    reference: Westendorf21[^Westendorf21]
+  - variant: Gamma
     rx: P5A-1B9
     mab_class: RBM Class II
     fold: '&gt;100'
@@ -2353,17 +2198,12 @@
   - variant: Iota
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '1.2'
+    fold: '2.5'
     reference: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
     rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '1.1'
-    reference: Zhou21c[^Zhou21c]
-  - variant: Iota
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '2.5'
+    fold: '1.2'
     reference: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
     rx: Imdevimab
@@ -2371,14 +2211,19 @@
     fold: '0.4'
     reference: Wang21e[^Wang21e]
   - variant: Iota
-    rx: Sotrovimab
+    rx: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.9'
-    reference: Annavajhala21b[^Annavajhala21b]
+    fold: '1.1'
+    reference: Zhou21c[^Zhou21c]
   - variant: Iota
     rx: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '1'
+    reference: Annavajhala21b[^Annavajhala21b]
+  - variant: Iota
+    rx: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '0.9'
     reference: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
     rx: Sotrovimab
@@ -2390,11 +2235,6 @@
     mab_class: RBD Core Cluster I
     fold: '0.6'
     reference: FDA21[^FDA21]
-  - variant: Iota
-    rx: LY3853113
-    mab_class: RBD Core Cluster II
-    fold: '0.7'
-    reference: Westendorf21[^Westendorf21]
   - variant: Iota
     rx: 2-15
     mab_class: RBM Class I
@@ -2423,22 +2263,22 @@
   - variant: Iota
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '12'
-    reference: Zhou21c[^Zhou21c]
+    fold: '34'
+    reference: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
     rx: Casirivimab
     mab_class: RBM Class I
-    fold: '34'
+    fold: '12'
+    reference: Zhou21c[^Zhou21c]
+  - variant: Iota
+    rx: Etesevimab
+    mab_class: RBM Class I
+    fold: '1.5'
     reference: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
     rx: Etesevimab
     mab_class: RBM Class I
     fold: '1.4'
-    reference: Annavajhala21b[^Annavajhala21b]
-  - variant: Iota
-    rx: Etesevimab
-    mab_class: RBM Class I
-    fold: '1.5'
     reference: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
     rx: Etesevimab
@@ -2463,12 +2303,12 @@
   - variant: Iota
     rx: 1-57
     mab_class: RBM Class II
-    fold: '9.1'
+    fold: '8.3'
     reference: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
     rx: 1-57
     mab_class: RBM Class II
-    fold: '8.3'
+    fold: '9.1'
     reference: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
     rx: Bamlanivimab
@@ -2493,13 +2333,18 @@
   - variant: Iota
     rx: Cilgavimab
     mab_class: RBM Class II
-    fold: '0.8'
+    fold: '1'
     reference: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
     rx: Cilgavimab
     mab_class: RBM Class II
-    fold: '1'
+    fold: '0.8'
     reference: Annavajhala21b[^Annavajhala21b]
+  - variant: Iota
+    rx: LY3853113
+    mab_class: RBM Class II
+    fold: '0.7'
+    reference: Westendorf21[^Westendorf21]
 - variant: Kappa
   assays:
   - variant: Kappa
@@ -2582,11 +2427,6 @@
     mab_class: RBM Class I
     fold: '1.4'
     reference: Wang21e[^Wang21e]
-  - variant: Kappa
-    rx: Regdanvimab
-    mab_class: RBM Class I
-    fold: '51'
-    reference: Ryu21c[^Ryu21c]
   - variant: Kappa
     rx: Regdanvimab
     mab_class: RBM Class I

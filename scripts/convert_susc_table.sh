@@ -12,4 +12,5 @@ for f in "$FOLDER"/*.json ; do
     filename="${filename%.*}"
     echo "$FOLDER/$filename.json"
     pipenv run python ./scripts/json2yaml.py "$FOLDER/$filename.json" "$FOLDER/$filename.yml"
+    rm "$FOLDER/$filename.json"
 done
