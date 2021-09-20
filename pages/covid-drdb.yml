@@ -1,4 +1,4 @@
-drdbVersion: "20210916-slim"
+drdbVersion: "20210919-slim"
 mutationDefaultGene: S
 allGenes: [
   nsp1, nsp2, PLpro, nsp4, _3CLpro, nsp6, nsp7, nsp8, nsp9,
@@ -23,6 +23,6 @@ monthRanges:
   - name: "1"
     between: [1, 1]
   - name: 2-6
-    between: [2, 6]
-  - name: ">6"
-    between: [7, null]
+    between: [2, 5]
+  - name: "≥6"
+    between: [6, null]
