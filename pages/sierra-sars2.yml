@@ -94,35 +94,41 @@ messages:
   _resource: sierra-sars2/messages.yml
 sequenceExamples:
   - url: downloads/fasta-examples/b-1-1-7.fas
-    title: B.1.1.7 (N=1)
+    title: VOC Alpha (N=1)
   - url: downloads/fasta-examples/b-1-1-7_e484k.fas
-    title: B.1.1.7+E484K (N=1)
+    title: VOC Alpha/E484K (N=1)
   - url: downloads/fasta-examples/b-1-351.fas
-    title: B.1.351 (N=1)
+    title: VOC Beta (N=1)
   - url: downloads/fasta-examples/p-1.fas
-    title: P.1 (N=1)
+    title: VOC Gamma (N=1)
+  - url: downloads/fasta-examples/b-1-617-2.fas
+    title: VOC Delta (N=1)
   - url: downloads/fasta-examples/b-1-525.fas
-    title: B.1.525 (N=1)
+    title: VOI Eta (B.1.525, N=1)
   - url: downloads/fasta-examples/b-1-526.fas
-    title: B.1.526 (N=1)
+    title: VOI Iota (B.1.526, N=1)
+  - url: downloads/fasta-examples/b-1-617-1.fas
+    title: VOI Kappa (B.1.617.1, N=2)
+  - url: downloads/fasta-examples/c-37.fas
+    title: VOI Lambda (C.37, N=1)
+  - url: downloads/fasta-examples/b-1-621.fas
+    title: VOI Mu (B.1.621, N=1)
   - url: downloads/fasta-examples/b-1-429_427.fas
-    title: B.1.429/427 (N=2)
-  - url: downloads/fasta-examples/p-3.fas
-    title: P.3 (N=1)
-  - url: downloads/fasta-examples/b-1-617_e484q.fas
-    title: B.1.617+E484Q (N=1)
-  - url: downloads/fasta-examples/b-1-258.fas
-    title: B.1.258 (N=1)
-  - url: downloads/fasta-examples/b-1-1-298.fas
-    title: B.1.1.298 a.k.a Mink Cluster V (N=1)
-  - url: downloads/fasta-examples/coh-20g-501y.fas
-    title: COH.20G/501Y (N=1)
+    title: B.1.427/429 (formerly known as VOI Epsilon, N=2)
   - url: downloads/fasta-examples/p-2.fas
-    title: P.2 (N=1)
-  - url: downloads/fasta-examples/n-9.fas
-    title: N.9 (N=1)
-  - url: downloads/fasta-examples/a-voi-v2.fas
-    title: A.VOI.V2 (N=1)
+    title: P.2 (formerly known as VOI Zeta, N=1)
+  - url: downloads/fasta-examples/p-3.fas
+    title: P.3 (formerly known as VOI Theta, N=1)
+  # - url: downloads/fasta-examples/b-1-258.fas
+  #   title: B.1.258 (N=1)
+  # - url: downloads/fasta-examples/b-1-1-298.fas
+  #   title: B.1.1.298 a.k.a Mink Cluster V (N=1)
+  # - url: downloads/fasta-examples/coh-20g-501y.fas
+  #   title: COH.20G/501Y (N=1)
+  # - url: downloads/fasta-examples/n-9.fas
+  #   title: N.9 (N=1)
+  # - url: downloads/fasta-examples/a-voi-v2.fas
+  #   title: A.VOI.V2 (N=1)
 seqReadsExamples:
   - downloads/codfreq-examples/B.1.1.7_CAMC-C471A4_ERR5026962.codfreq.txt
   - downloads/codfreq-examples/B.1.351_KRISP-K005325_SRR13620320.codfreq.txt

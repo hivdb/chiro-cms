@@ -1,4 +1,4 @@
-- name: Alpha variant (B.1.1.7)
+- name: VOC Alpha
   mutations:
   - S:H69del
   - S:V70del
@@ -10,7 +10,7 @@
   - S:T716I
   - S:S982A
   - S:D1118H
-- name: Beta variant (B.1.351)
+- name: VOC Beta
   mutations:
   - S:L18F
   - S:D80A
@@ -24,7 +24,7 @@
   - S:N501Y
   - S:D614G
   - S:A701V
-- name: Gamma variant (P.1)
+- name: VOC Gamma
   mutations:
   - S:L18F
   - S:T20N
@@ -38,7 +38,7 @@
   - S:H655Y
   - S:T1027I
   - S:V1176F
-- name: Delta variant (B.1.617.2)
+- name: VOC Delta
   mutations:
   - S:T19R
   - S:F157del
@@ -48,18 +48,7 @@
   - S:D614G
   - S:P681R
   - S:D950N
-- name: Epsilon variant (B.1.427/9)
-  mutations:
-  - S:S13I
-  - S:W152C
-  - S:L452R
-  - S:D614G
-- name: Zeta variant (P.2)
-  mutations:
-  - S:E484K
-  - S:D614G
-  - S:V1176F
-- name: Eta variant (B.1.525)
+- name: VOI Eta (B.1.525)
   mutations:
   - S:Q52R
   - S:A67V
@@ -70,19 +59,7 @@
   - S:D614G
   - S:Q677H
   - S:F888L
-- name: Theta variant (P.3)
-  mutations:
-  - S:141del
-  - S:142del
-  - S:143del
-  - S:E484K
-  - S:N501Y
-  - S:D614G
-  - S:P681H
-  - S:E1092K
-  - S:H1101Y
-  - S:V1176F
-- name: Iota variant (B.1.526)
+- name: VOI Iota (B.1.526)
   mutations:
   - S:L5F
   - S:T95I
@@ -90,7 +67,7 @@
   - S:E484K
   - S:D614G
   - S:A701V
-- name: Kappa variant (B.1.617.1)
+- name: VOI Kappa (B.1.617.1)
   mutations:
   - S:T95I
   - S:G142D
@@ -100,7 +77,7 @@
   - S:D614G
   - S:P681R
   - S:Q1071H
-- name: Lambda variant (C.37)
+- name: VOI Lambda (C.37)
   mutations:
   - S:G75V
   - S:T76I
@@ -115,6 +92,40 @@
   - S:F490S
   - S:D614G
   - S:T859N
+- name: VOI Mu (B.1.621)
+  mutations:
+  - S:T95I
+  - S:Y144S
+  - S:Y145N
+  - S:R346K
+  - S:E484K
+  - S:N501Y
+  - S:D614G
+  - S:P681H
+  - S:D950N
+- name: B.1.427/9 (formerly VOI Epsilon)
+  mutations:
+  - S:S13I
+  - S:W152C
+  - S:L452R
+  - S:D614G
+- name: P.2 (formerly VOI Zeta)
+  mutations:
+  - S:E484K
+  - S:D614G
+  - S:V1176F
+- name: P.3 (formerly VOI Theta)
+  mutations:
+  - S:141del
+  - S:142del
+  - S:143del
+  - S:E484K
+  - S:N501Y
+  - S:D614G
+  - S:P681H
+  - S:E1092K
+  - S:H1101Y
+  - S:V1176F
 - name: B.1.x
   mutations:
   - S:S494P
