@@ -103,18 +103,18 @@
   - S:D614G
   - S:P681H
   - S:D950N
-- name: B.1.427/9 (formerly VOI Epsilon)
+- name: B.1.427/9 (former VOI Epsilon)
   mutations:
   - S:S13I
   - S:W152C
   - S:L452R
   - S:D614G
-- name: P.2 (formerly VOI Zeta)
+- name: P.2 (former VOI Zeta)
   mutations:
   - S:E484K
   - S:D614G
   - S:V1176F
-- name: P.3 (formerly VOI Theta)
+- name: P.3 (former VOI Theta)
   mutations:
   - S:141del
   - S:142del
