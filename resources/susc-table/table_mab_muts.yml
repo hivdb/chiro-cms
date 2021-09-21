@@ -3,13 +3,8 @@
   - variant: E484K
     rx: Bamlanivimab/Etesevimab
     mab_class: ''
-    fold: '17'
+    fold: '24'
     reference: FDA21[^FDA21]
-  - variant: E484K
-    rx: C135/C144
-    mab_class: ''
-    fold: '2.2'
-    reference: Wang21[^Wang21]
   - variant: E484K
     rx: Casirivimab/Imdevimab
     mab_class: ''
@@ -33,11 +28,6 @@
   - variant: E484K
     rx: Casirivimab/Imdevimab
     mab_class: ''
-    fold: '1.5'
-    reference: Wang21[^Wang21]
-  - variant: E484K
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
     fold: '2'
     reference: Zhou21c[^Zhou21c]
   - variant: E484K
@@ -55,11 +45,6 @@
     mab_class: ''
     fold: '4'
     reference: Yuan21[^Yuan21]
-  - variant: E484K
-    rx: Cilgavimab/Tixagevimab
-    mab_class: ''
-    fold: '1.4'
-    reference: Wang21[^Wang21]
   - variant: E484K
     rx: Cilgavimab/Tixagevimab
     mab_class: ''
@@ -110,16 +95,6 @@
     mab_class: RBD Core Cluster I
     fold: '&gt;100'
     reference: Wang21b[^Wang21b]
-  - variant: E484K
-    rx: C032
-    mab_class: RBD Core Cluster I
-    fold: '1.3'
-    reference: Muecksch21[^Muecksch21]
-  - variant: E484K
-    rx: C135
-    mab_class: RBD Core Cluster I
-    fold: '0.4'
-    reference: Wang21[^Wang21]
   - variant: E484K
     rx: C135
     mab_class: RBD Core Cluster I
@@ -185,11 +160,6 @@
     mab_class: RBD Core Cluster I
     fold: '1.3'
     reference: Tada21e[^Tada21e]
-  - variant: E484K
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.7'
-    reference: Wang21[^Wang21]
   - variant: E484K
     rx: Imdevimab
     mab_class: RBD Core Cluster I
@@ -321,21 +291,6 @@
     fold: '&gt;100'
     reference: Muecksch21[^Muecksch21]
   - variant: E484K
-    rx: C051
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Muecksch21[^Muecksch21]
-  - variant: E484K
-    rx: C098
-    mab_class: RBM Class I
-    fold: '1.2'
-    reference: Muecksch21[^Muecksch21]
-  - variant: E484K
-    rx: C099
-    mab_class: RBM Class I
-    fold: '1.6'
-    reference: Muecksch21[^Muecksch21]
-  - variant: E484K
     rx: CC12.1
     mab_class: RBM Class I
     fold: '1.4'
@@ -385,11 +340,6 @@
     mab_class: RBM Class I
     fold: '7.3'
     reference: Tada21[^Tada21]
-  - variant: E484K
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '9'
-    reference: Wang21[^Wang21]
   - variant: E484K
     rx: Casirivimab
     mab_class: RBM Class I
@@ -531,11 +481,6 @@
     fold: '8.1'
     reference: Wang21b[^Wang21b]
   - variant: E484K
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '11'
-    reference: Wang21[^Wang21]
-  - variant: E484K
     rx: 1-57
     mab_class: RBM Class II
     fold: '1.4'
@@ -574,11 +519,6 @@
     rx: Bamlanivimab
     mab_class: RBM Class II
     fold: '&gt;100'
-    reference: FDA21[^FDA21]
-  - variant: E484K
-    rx: Bamlanivimab
-    mab_class: RBM Class II
-    fold: '&gt;100'
     reference: Wang21b[^Wang21b]
   - variant: E484K
     rx: C121
@@ -614,11 +554,6 @@
     rx: C548
     mab_class: RBM Class II
     fold: '&gt;100'
-    reference: Muecksch21[^Muecksch21]
-  - variant: E484K
-    rx: C548
-    mab_class: RBM Class II
-    fold: '33'
     reference: Muecksch21[^Muecksch21]
   - variant: E484K
     rx: COVOX-40
@@ -640,11 +575,6 @@
     mab_class: RBM Class II
     fold: '1.6'
     reference: Dong21[^Dong21]
-  - variant: E484K
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '0.8'
-    reference: Wang21[^Wang21]
   - variant: E484K
     rx: Cilgavimab
     mab_class: RBM Class II
@@ -685,16 +615,6 @@
     mab_class: RBM Class III
     fold: '&gt;100'
     reference: Muecksch21[^Muecksch21]
-  - variant: E484K
-    rx: C144
-    mab_class: RBM Class III
-    fold: '&gt;100'
-    reference: Muecksch21[^Muecksch21]
-  - variant: E484K
-    rx: C144
-    mab_class: RBM Class III
-    fold: '&gt;100'
-    reference: Wang21[^Wang21]
   - variant: E484K
     rx: C144
     mab_class: RBM Class III
@@ -780,11 +700,6 @@
 - variant: F490S
   assays:
   - variant: F490S
-    rx: Bamlanivimab/Etesevimab
-    mab_class: ''
-    fold: '1'
-    reference: FDA21[^FDA21]
-  - variant: F490S
     rx: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
@@ -817,12 +732,12 @@
   - variant: F490S
     rx: C135
     mab_class: RBD Core Cluster I
-    fold: '1.2'
+    fold: '0.2'
     reference: Weisblum20[^Weisblum20]
   - variant: F490S
     rx: C135
     mab_class: RBD Core Cluster I
-    fold: '0.2'
+    fold: '1.2'
     reference: Weisblum20[^Weisblum20]
   - variant: F490S
     rx: Imdevimab
@@ -957,11 +872,6 @@
 - variant: K417N
   assays:
   - variant: K417N
-    rx: Bamlanivimab/Etesevimab
-    mab_class: ''
-    fold: '1'
-    reference: FDA21[^FDA21]
-  - variant: K417N
     rx: C135/C144
     mab_class: ''
     fold: '0.5'
@@ -976,6 +886,11 @@
     mab_class: ''
     fold: '1.5'
     reference: Yuan21[^Yuan21]
+  - variant: K417N
+    rx: Casirivimab/Imdevimab
+    mab_class: ''
+    fold: '1'
+    reference: FDA21[^FDA21]
   - variant: K417N
     rx: Casirivimab/Imdevimab
     mab_class: ''
@@ -1275,6 +1190,11 @@
     rx: Etesevimab
     mab_class: RBM Class I
     fold: '&gt;100'
+    reference: FDA21[^FDA21]
+  - variant: K417N
+    rx: Etesevimab
+    mab_class: RBM Class I
+    fold: '&gt;100'
     reference: Wang21b[^Wang21b]
   - variant: K417N
     rx: Etesevimab
@@ -1434,26 +1354,6 @@
     fold: '45'
     reference: FDA21[^FDA21]
   - variant: K417N + E484K + N501Y
-    rx: C135/C144
-    mab_class: ''
-    fold: '1'
-    reference: Wang21[^Wang21]
-  - variant: K417N + E484K + N501Y
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
-    fold: '0.7'
-    reference: Wang21[^Wang21]
-  - variant: K417N + E484K + N501Y
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
-    fold: '1'
-    reference: FDA21[^FDA21]
-  - variant: K417N + E484K + N501Y
-    rx: Cilgavimab/Tixagevimab
-    mab_class: ''
-    fold: '0.8'
-    reference: Wang21[^Wang21]
-  - variant: K417N + E484K + N501Y
     rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '1'
@@ -1478,21 +1378,6 @@
     mab_class: NTD
     fold: '&gt;100'
     reference: Collier21[^Collier21]
-  - variant: K417N + E484K + N501Y
-    rx: C032
-    mab_class: RBD Core Cluster I
-    fold: '0.9'
-    reference: Muecksch21[^Muecksch21]
-  - variant: K417N + E484K + N501Y
-    rx: C135
-    mab_class: RBD Core Cluster I
-    fold: '0.2'
-    reference: Wang21[^Wang21]
-  - variant: K417N + E484K + N501Y
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.2'
-    reference: Wang21[^Wang21]
   - variant: K417N + E484K + N501Y
     rx: Imdevimab
     mab_class: RBD Core Cluster I
@@ -1559,30 +1444,10 @@
     fold: '0.4'
     reference: Li21c[^Li21c]
   - variant: K417N + E484K + N501Y
-    rx: C051
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Muecksch21[^Muecksch21]
-  - variant: K417N + E484K + N501Y
-    rx: C098
-    mab_class: RBM Class I
-    fold: '3.1'
-    reference: Muecksch21[^Muecksch21]
-  - variant: K417N + E484K + N501Y
-    rx: C099
-    mab_class: RBM Class I
-    fold: '0.4'
-    reference: Muecksch21[^Muecksch21]
-  - variant: K417N + E484K + N501Y
     rx: COVOX-384
     mab_class: RBM Class I
     fold: '&gt;100'
     reference: Chen21[^Chen21]
-  - variant: K417N + E484K + N501Y
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21[^Wang21]
   - variant: K417N + E484K + N501Y
     rx: Casirivimab
     mab_class: RBM Class I
@@ -1651,11 +1516,6 @@
   - variant: K417N + E484K + N501Y
     rx: Tixagevimab
     mab_class: RBM Class I
-    fold: '4'
-    reference: Wang21[^Wang21]
-  - variant: K417N + E484K + N501Y
-    rx: Tixagevimab
-    mab_class: RBM Class I
     fold: '3.6'
     reference: Chen21[^Chen21]
   - variant: K417N + E484K + N501Y
@@ -1669,20 +1529,10 @@
     fold: '&gt;100'
     reference: Wang21e[^Wang21e]
   - variant: K417N + E484K + N501Y
-    rx: C548
-    mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Muecksch21[^Muecksch21]
-  - variant: K417N + E484K + N501Y
     rx: COVOX-40
     mab_class: RBM Class II
     fold: '22'
     reference: Chen21[^Chen21]
-  - variant: K417N + E484K + N501Y
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '0.6'
-    reference: Wang21[^Wang21]
   - variant: K417N + E484K + N501Y
     rx: Cilgavimab
     mab_class: RBM Class II
@@ -1709,16 +1559,6 @@
     fold: '0.6'
     reference: Collier21[^Collier21]
   - variant: K417N + E484K + N501Y
-    rx: C144
-    mab_class: RBM Class III
-    fold: '&gt;100'
-    reference: Muecksch21[^Muecksch21]
-  - variant: K417N + E484K + N501Y
-    rx: C144
-    mab_class: RBM Class III
-    fold: '&gt;100'
-    reference: Wang21[^Wang21]
-  - variant: K417N + E484K + N501Y
     rx: S2M11
     mab_class: RBM Class III
     fold: '0.4'
@@ -1733,7 +1573,7 @@
   - variant: L452R
     rx: Bamlanivimab/Etesevimab
     mab_class: ''
-    fold: '7.4'
+    fold: '5'
     reference: FDA21[^FDA21]
   - variant: L452R
     rx: Casirivimab/Imdevimab
@@ -1906,11 +1746,6 @@
     fold: '&gt;100'
     reference: Wang21e[^Wang21e]
   - variant: L452R
-    rx: Bamlanivimab
-    mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: FDA21[^FDA21]
-  - variant: L452R
     rx: LY3853113
     mab_class: RBM Class II
     fold: '0.7'
@@ -1940,12 +1775,12 @@
   - variant: N439K
     rx: C135
     mab_class: RBD Core Cluster I
-    fold: '&gt;100'
+    fold: '33'
     reference: Weisblum20[^Weisblum20]
   - variant: N439K
     rx: C135
     mab_class: RBD Core Cluster I
-    fold: '33'
+    fold: '&gt;100'
     reference: Weisblum20[^Weisblum20]
   - variant: N439K
     rx: Imdevimab
@@ -2110,12 +1945,12 @@
   - variant: N439K
     rx: S2E12
     mab_class: RBM Class I
-    fold: '1'
+    fold: '0.9'
     reference: Tortorici20[^Tortorici20]
   - variant: N439K
     rx: S2E12
     mab_class: RBM Class I
-    fold: '0.9'
+    fold: '1'
     reference: Tortorici20[^Tortorici20]
   - variant: N439K
     rx: BD-368-2
@@ -2130,12 +1965,12 @@
   - variant: N439K
     rx: C121
     mab_class: RBM Class II
-    fold: '2.4'
+    fold: '0.9'
     reference: Weisblum20[^Weisblum20]
   - variant: N439K
     rx: C121
     mab_class: RBM Class II
-    fold: '0.9'
+    fold: '2.4'
     reference: Weisblum20[^Weisblum20]
   - variant: N439K
     rx: C548
@@ -2175,12 +2010,12 @@
   - variant: N439K
     rx: C144
     mab_class: RBM Class III
-    fold: '0.9'
+    fold: '0.3'
     reference: Weisblum20[^Weisblum20]
   - variant: N439K
     rx: C144
     mab_class: RBM Class III
-    fold: '0.3'
+    fold: '0.9'
     reference: Weisblum20[^Weisblum20]
   - variant: N439K
     rx: S2M11
@@ -2272,12 +2107,12 @@
   - variant: N501Y
     rx: C135
     mab_class: RBD Core Cluster I
-    fold: '2.3'
+    fold: '0.3'
     reference: Weisblum20[^Weisblum20]
   - variant: N501Y
     rx: C135
     mab_class: RBD Core Cluster I
-    fold: '0.3'
+    fold: '2.3'
     reference: Weisblum20[^Weisblum20]
   - variant: N501Y
     rx: C135
@@ -2612,12 +2447,12 @@
   - variant: N501Y
     rx: C121
     mab_class: RBM Class II
-    fold: '0.8'
+    fold: '0.3'
     reference: Weisblum20[^Weisblum20]
   - variant: N501Y
     rx: C121
     mab_class: RBM Class II
-    fold: '0.3'
+    fold: '0.8'
     reference: Weisblum20[^Weisblum20]
   - variant: N501Y
     rx: C121
@@ -2692,20 +2527,15 @@
   - variant: N501Y
     rx: C144
     mab_class: RBM Class III
-    fold: '1.5'
+    fold: '0.4'
     reference: Weisblum20[^Weisblum20]
   - variant: N501Y
     rx: C144
     mab_class: RBM Class III
-    fold: '0.4'
+    fold: '1.5'
     reference: Weisblum20[^Weisblum20]
 - variant: S494P
   assays:
-  - variant: S494P
-    rx: Bamlanivimab/Etesevimab
-    mab_class: ''
-    fold: '1'
-    reference: FDA21[^FDA21]
   - variant: S494P
     rx: Casirivimab/Imdevimab
     mab_class: ''
@@ -2734,12 +2564,12 @@
   - variant: S494P
     rx: C135
     mab_class: RBD Core Cluster I
-    fold: '0.8'
+    fold: '0.1'
     reference: Weisblum20[^Weisblum20]
   - variant: S494P
     rx: C135
     mab_class: RBD Core Cluster I
-    fold: '0.1'
+    fold: '0.8'
     reference: Weisblum20[^Weisblum20]
   - variant: S494P
     rx: Imdevimab
@@ -2849,12 +2679,12 @@
   - variant: S494P
     rx: C121
     mab_class: RBM Class II
-    fold: '35'
+    fold: '13'
     reference: Weisblum20[^Weisblum20]
   - variant: S494P
     rx: C121
     mab_class: RBM Class II
-    fold: '13'
+    fold: '35'
     reference: Weisblum20[^Weisblum20]
   - variant: S494P
     rx: C548
@@ -2874,12 +2704,12 @@
   - variant: S494P
     rx: C144
     mab_class: RBM Class III
-    fold: '61'
+    fold: '17'
     reference: Weisblum20[^Weisblum20]
   - variant: S494P
     rx: C144
     mab_class: RBM Class III
-    fold: '17'
+    fold: '61'
     reference: Weisblum20[^Weisblum20]
   - variant: S494P
     rx: S2M11
@@ -3577,11 +3407,6 @@
 - variant: ∆69/70 + N501Y
   assays:
   - variant: ∆69/70 + N501Y
-    rx: Bamlanivimab/Etesevimab
-    mab_class: ''
-    fold: '1'
-    reference: FDA21[^FDA21]
-  - variant: ∆69/70 + N501Y
     rx: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '1.4'
@@ -3681,11 +3506,6 @@
     mab_class: RBM Class II
     fold: '1.8'
     reference: Wang21e[^Wang21e]
-  - variant: ∆69/70 + N501Y
-    rx: Bamlanivimab
-    mab_class: RBM Class II
-    fold: '1'
-    reference: FDA21[^FDA21]
   - variant: ∆69/70 + N501Y
     rx: COVOX-40
     mab_class: RBM Class II

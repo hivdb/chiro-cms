@@ -1,30 +1,30 @@
 - variant: Alpha
-  cp_studies: 48
-  cp_samples: 1673
-  cp_s_fold: 83%
-  cp_i_fold: 12%
-  cp_r_fold: 5%
-  cp_num_s_fold: 1396
-  cp_num_i_fold: 201
+  cp_studies: 49
+  cp_samples: 1712
+  cp_s_fold: 82%
+  cp_i_fold: 14%
+  cp_r_fold: 4%
+  cp_num_s_fold: 1404
+  cp_num_i_fold: 232
   cp_num_r_fold: 76
 - variant: Beta
-  cp_studies: 53
-  cp_samples: 1855
-  cp_s_fold: 34%
+  cp_studies: 54
+  cp_samples: 1869
+  cp_s_fold: 33%
   cp_i_fold: 40%
-  cp_r_fold: 26%
-  cp_num_s_fold: 631
-  cp_num_i_fold: 736
-  cp_num_r_fold: 488
+  cp_r_fold: 27%
+  cp_num_s_fold: 622
+  cp_num_i_fold: 754
+  cp_num_r_fold: 493
 - variant: Gamma
-  cp_studies: 22
-  cp_samples: 658
-  cp_s_fold: 59%
-  cp_i_fold: 29%
-  cp_r_fold: 12%
+  cp_studies: 23
+  cp_samples: 689
+  cp_s_fold: 56%
+  cp_i_fold: 28%
+  cp_r_fold: 16%
   cp_num_s_fold: 385
   cp_num_i_fold: 191
-  cp_num_r_fold: 82
+  cp_num_r_fold: 113
 - variant: Delta
   cp_studies: 11
   cp_samples: 348

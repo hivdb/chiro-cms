@@ -50,14 +50,6 @@
     median: '4.9'
   - variant: E484K
     rx: BNT162b2
-    samples: 4
-    s_fold: 3
-    i_fold: 1
-    r_fold: 0
-    reference: Wang21[^Wang21]
-    median: '1.9'
-  - variant: E484K
-    rx: BNT162b2
     samples: 10
     s_fold: 6
     i_fold: 3
@@ -106,14 +98,6 @@
     median: '3.9'
   - variant: E484K
     rx: mRNA-1273
-    samples: 11
-    s_fold: 10
-    i_fold: 1
-    r_fold: 0
-    reference: Wang21[^Wang21]
-    median: '1.6'
-  - variant: E484K
-    rx: mRNA-1273
     samples: 12
     s_fold: 7
     i_fold: 5
@@ -129,7 +113,7 @@
     i_fold: 5
     r_fold: 9
     reference: Chen21[^Chen21]
-    median: '4.6'
+    median: '4.9'
   - variant: E484K + N501Y
     rx: BNT162b2
     samples: 24
@@ -245,7 +229,7 @@
     i_fold: 7
     r_fold: 16
     reference: Madhi21[^Madhi21]
-    median: '5'
+    median: '6.6'
   - variant: K417N + E484K + N501Y
     rx: BBV154
     samples: 24
@@ -270,22 +254,6 @@
     r_fold: 0
     reference: Liu21b[^Liu21b]
     median: '2'
-  - variant: K417N + E484K + N501Y
-    rx: BNT162b2
-    samples: 4
-    s_fold: 4
-    i_fold: 0
-    r_fold: 0
-    reference: Wang21[^Wang21]
-    median: '2.0'
-  - variant: K417N + E484K + N501Y
-    rx: mRNA-1273
-    samples: 11
-    s_fold: 11
-    i_fold: 0
-    r_fold: 0
-    reference: Wang21[^Wang21]
-    median: '1.6'
   - variant: K417N + E484K + N501Y
     rx: mRNA-1273
     samples: 8
