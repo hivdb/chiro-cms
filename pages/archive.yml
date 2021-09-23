@@ -33,6 +33,10 @@ projectSections:
       description: Figures of SARS-COV-2 Spike structures
       link: /page/spike-structures/
       image: home/edumat-spike-structures.png
+    - title: Vaccine efficacy
+      description: Vaccine efficacy at preventing symptomatic SARS-CoV-2 infection with variants
+      link: /page/susceptibility-data/#table.4.vaccine.efficacy.at.preventing.symptomatic.sars-cov-2.infection.with.variants
+      image: home/vaccine-efficacy.png
   - title: Miscellaneous
     items:
     - title: Updates

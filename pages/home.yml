@@ -13,7 +13,10 @@ projectSections:
       description: mAbs, convalescent plasma, and vaccinee plasma
       link: /page/susceptibility-data/
       image: home/susc-summary.png
-    - title: SARS-CoV-2 analysis program
+    - title: >-
+        <span style="font-size:1.7rem;">
+        SARS-CoV-2 analysis program
+        </span>
       description: Susceptibility data, genes, mutations, and lineage
       link: /sierra/sars2/by-patterns/
       image: home/edumat-sierra-sars2.png
@@ -22,10 +25,46 @@ projectSections:
         In vitro experiments, animal model and clinical studies
       link: /antiviral-portal/
       image: home/edumat-compounds.png
-    - title: Vaccine efficacy
-      description: Vaccine efficacy at preventing symptomatic SARS-CoV-2 infection with variants
-      link: /page/susceptibility-data/#table.4.vaccine.efficacy.at.preventing.symptomatic.sars-cov-2.infection.with.variants
-      image: home/vaccine-efficacy.png
+  - title: Publications
+    displayTitle: true
+    items:
+    - title: >-
+        <div style="font-size:1.2rem;line-height:1.5rem;">
+        The biological and clinical significance of emerging SARS-CoV-2
+        variants
+        </div>
+      link: https://www.nature.com/articles/s41576-021-00408-x
+      extLink: true
+      description: >-
+        Tao KM, Tzou PL, et int., and Shafer R
+        <div style="font-size:1rem;color:rgba(0,0,0,.4);">
+        *Nature Reviews genetics*, 2021
+        </div>
+      image: home/pub-var-resistance.png
+    - title: >-
+        <span style="font-size:1.6rem;">
+        SARS-CoV-2 Antiviral Therapy
+        </span>
+      link: https://journals.asm.org/doi/10.1128/CMR.00109-21
+      extLink: true
+      description: >-
+        Tao KM, Tzou PL, et int., and Shafer R
+        <div style="font-size:1rem;color:rgba(0,0,0,.4);">
+        *Clinical Microbiology Reviews*, 2021
+        </div>
+      image: home/pub-av-therapy.png
+    - title: >-
+        <div style="font-size:1.6rem;line-height:1.9rem;">
+        Coronavirus Antiviral Research Database
+        </div>
+      extLink: true
+      description: >-
+        Tzou PL, Tao KM, et int., and Shafer R
+        <div style="font-size:1rem;color:rgba(0,0,0,.4);">
+        *Virus*, 2020
+        </div>
+      link: https://www.mdpi.com/1999-4915/12/9/1006
+      image: home/pub-dbpaper.png
   - title: Webinars
     items:
     - title: SARS-CoV-2 Variants
