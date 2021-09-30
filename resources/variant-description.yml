@@ -1,14 +1,14 @@
 variant-desc_Alpha: |-
-  The **Alpha variant**, also known as lineage B.1.1.7, is a variant of
-  SARS-CoV-2, the virus that causes COVID-19. One of several variants of
-  concern, the variant is estimated to be 40–80% more transmissible than the
-  wild-type SARS-CoV-2 (with most estimates occupying the middle to higher end
-  of this range). It was first detected in November 2020 from a sample taken in
-  September in the United Kingdom, and began to spread quickly by mid-December,
-  around the same time as infections surged. This increase is thought to be at
-  least partly because of one or more mutations in the virus' spike protein.
-  The variant is also notable for having more mutations than normally seen.
-  (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
+  **Alpha variant** is a variant of SARS-CoV-2, the virus that causes COVID-19.
+  One of several variants of concern, the variant is estimated to be 40–80%
+  more transmissible than the wild-type SARS-CoV-2 (with most estimates
+  occupying the middle to higher end of this range). It was first detected in
+  November 2020 from a sample taken in September in the United Kingdom, and
+  began to spread quickly by mid-December, around the same time as infections
+  surged. This increase is thought to be at least partly because of one or more
+  mutations in the virus' spike protein.  The variant is also notable for
+  having more mutations than normally seen.  (©[Wikipedia][Wikipedia], CC BY-SA
+  3.0)
 
   [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Alpha_variant
 variant-attrlist_Alpha:
@@ -18,19 +18,21 @@ variant-attrlist_Alpha:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.7),
+    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.1.7),
+    [CoVariants](https://covariants.org/variants/20I.Alpha.V1),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Alpha_variant)
 
 variant-desc_Alpha/E484K: |-
-  The **Alpha variant**, also known as lineage B.1.1.7, is a variant of
-  SARS-CoV-2, the virus that causes COVID-19. One of several variants of
-  concern, the variant is estimated to be 40–80% more transmissible than the
-  wild-type SARS-CoV-2 (with most estimates occupying the middle to higher end
-  of this range). It was first detected in November 2020 from a sample taken in
-  September in the United Kingdom, and began to spread quickly by mid-December,
-  around the same time as infections surged. This increase is thought to be at
-  least partly because of one or more mutations in the virus' spike protein.
-  The variant is also notable for having more mutations than normally seen.
-  (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
+  **Alpha variant** is a variant of SARS-CoV-2, the virus that causes COVID-19.
+  One of several variants of concern, the variant is estimated to be 40–80%
+  more transmissible than the wild-type SARS-CoV-2 (with most estimates
+  occupying the middle to higher end of this range). It was first detected in
+  November 2020 from a sample taken in September in the United Kingdom, and
+  began to spread quickly by mid-December, around the same time as infections
+  surged. This increase is thought to be at least partly because of one or more
+  mutations in the virus' spike protein.  The variant is also notable for
+  having more mutations than normally seen.  (©[Wikipedia][Wikipedia], CC BY-SA
+  3.0)
 
   E484K mutation occurs in a small number of Alpha genomes, which was named as
   "VOC-202102/02" by the Public Health England.
@@ -43,17 +45,18 @@ variant-attrlist_Alpha/E484K:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.7),
+    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.1.7),
+    [CoVariants](https://covariants.org/variants/20I.Alpha.V1),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Alpha_variant)
 
 variant-desc_Beta: |-
-  **Beta variant**, also known as lineage B.1.351, is a variant of SARS-CoV-2,
-  the virus that causes COVID-19. One of several SARS-CoV-2 variants believed
-  to be of particular importance, it was first detected in the Nelson Mandela
-  Bay metropolitan area of the Eastern Cape province of South Africa in October
-  2020, which was reported by the country's health department on 18 December
-  2020. Phylogeographic analysis suggests this variant emerged in the Nelson
-  Mandela Bay area in July or August 2020. (©[Wikipedia][Wikipedia], CC BY-SA
-  3.0)
+  **Beta variant** is a variant of SARS-CoV-2, the virus that causes COVID-19.
+  One of several SARS-CoV-2 variants believed to be of particular importance,
+  it was first detected in the Nelson Mandela Bay metropolitan area of the
+  Eastern Cape province of South Africa in October 2020, which was reported by
+  the country's health department on 18 December 2020. Phylogeographic analysis
+  suggests this variant emerged in the Nelson Mandela Bay area in July or
+  August 2020. (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
 
   [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Beta_variant
 variant-attrlist_Beta:
@@ -62,20 +65,22 @@ variant-attrlist_Beta:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.351),
+    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.351),
+    [CoVariants](https://covariants.org/variants/20H.Beta.V2),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Beta_variant)
 
 variant-desc_Gamma: |-
-  **Gamma variant**, also known as lineage P.1, is one of the variants of
-  SARS-CoV-2, the virus that causes COVID-19. This variant of SARS-CoV-2 has been
-  named lineage P.1 and has 17 amino acid substitutions, ten of which are in its
-  spike protein, including these three designated to be of particular concern:
-  N501Y, E484K and K417T. This variant of SARS-CoV-2 was first detected by the
-  National Institute of Infectious Diseases (NIID) of Japan, on 6 January 2021
-  in four people who had arrived in Tokyo having visited Amazonas, Brazil, four
-  days earlier. It was subsequently declared to be in circulation in Brazil.
-  Under the simplified naming scheme proposed by the World Health Organization,
-  P.1 has been labeled Gamma variant, and is currently considered a variant of
-  concern. (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
+  **Gamma variant** is one of the variants of SARS-CoV-2, the virus that causes
+  COVID-19. This variant of SARS-CoV-2 has been named lineage P.1 and has 17
+  amino acid substitutions, ten of which are in its spike protein, including
+  these three designated to be of particular concern: N501Y, E484K and K417T.
+  This variant of SARS-CoV-2 was first detected by the National Institute of
+  Infectious Diseases (NIID) of Japan, on 6 January 2021 in four people who had
+  arrived in Tokyo having visited Amazonas, Brazil, four days earlier. It was
+  subsequently declared to be in circulation in Brazil.  Under the simplified
+  naming scheme proposed by the World Health Organization, P.1 has been labeled
+  Gamma variant, and is currently considered a variant of concern.
+  (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
 
   [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Gamma_variant
 variant-attrlist_Gamma:
@@ -84,10 +89,12 @@ variant-attrlist_Gamma:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.1),
+    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=P.1),
+    [CoVariants](https://covariants.org/variants/20J.Gamma.V3),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Gamma_variant)
 
 variant-desc_Delta: |-
-  The **Delta variant** is a new strain of SARS-CoV-2, the virus that causes
+  **Delta variant** is a new strain of SARS-CoV-2, the virus that causes
   COVID-19. It was first detected in India in late 2020. The Delta variant was
   named on 31 May 2021 and had spread to over 163 countries by 24 August 2021.
   The World Health Organization (WHO) indicated that the Delta variant is
@@ -101,4 +108,154 @@ variant-attrlist_Delta:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.617.2),
+    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.617.2),
+    [CoVariants](https://covariants.org/variants/21A.Delta),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Delta_variant)
+
+variant-desc_Epsilon: |-
+  **Epsilon variant** is one of the variants of SARS-CoV-2, the virus that
+  causes COVID-19. It was first detected in California, USA in July 2020.
+
+  As of July 2021, Epsilon is no longer considered as a variant of interest by
+  the WHO. (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
+
+  [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Epsilon_variant
+variant-attrlist_Epsilon:
+  - "**Other names**: B.1.427, B.1.429, CAL.20C, 21C"
+  - "**First appearance**: California, US"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.427)
+    ([B.1.429](https://outbreak.info/situation-reports?pango=B.1.429)),
+    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.427)
+    ([B.1.429](https://cov-lineages.org/lineage.html?lineage=B.1.429)),
+    [CoVariants](https://covariants.org/variants/21C.Epsilon),
+    [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Epsilon_variant)
+
+variant-desc_Kappa: |-
+  **Kappa variant** is a variant of SARS-CoV-2, the virus that causes COVID-19.
+  It is one of the three sublineages of Pango lineage B.1.617. The SARS-CoV-2
+  Kappa variant is also known as lineage B.1.617.1 and was first detected in
+  India in December 2020. By the end of March 2021, the Kappa sub-variant
+  accounted for more than half of the sequences being submitted from India. On
+  1 April 2021, it was designated a Variant Under Investigation (VUI-21APR-01)
+  by Public Health England. (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
+
+  [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Kappa_variant
+variant-attrlist_Kappa: |-
+  - "**Other names**: B.1.617.1, 21B, VUI-21APR-01"
+  - "**First appearance**: India"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.617.1),
+    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.617.1),
+    [CoVariants](https://covariants.org/variants/21B.Kappa),
+    [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Kappa_variant)
+
+variant-desc_Iota: |-
+  **Iota variant** is one of the variants of SARS-CoV-2, the virus that causes
+  COVID-19. It was first detected in New York City in November 2020. The variant
+  has appeared with two notable mutations: the E484K spike mutation, which may
+  help the virus evade antibodies, and the S477N mutation, which may help the
+  virus bind more tightly to human cells.
+
+  By February 2021, it had spread rapidly in the New York region and accounted
+  for about one in four viral sequences. By 11 April 2021, the variant had been
+  detected in at least 48 U.S. states and 18 countries.
+  (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
+
+  [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Iota_variant
+
+variant-attrlist_Iota: |-
+  - "**Other names**: B.1.526, 21F"
+  - "**First appearance**: New York City, US"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.526),
+    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.526),
+    [CoVariants](https://covariants.org/variants/21F.Iota),
+    [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Iota_variant)
+
+variant-desc_Lambda: |-
+  **Lambda variant** is a variant of SARS-CoV-2, the virus that causes
+  COVID-19. It was first detected in Peru in August 2020.  On 14 June 2021, the
+  World Health Organization (WHO) named it Lambda variant and designated it as
+  a variant of interest. It has spread to at least 30 countries around the
+  world and is known to be more resistant to neutralizing antibodies compared
+  to other strains. There is evidence that suggests the Lambda variant is both
+  more infectious and resistant to vaccines than the Alpha and/or Gamma
+  variant. (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
+
+  [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Lambda_variant
+
+variant-attrlist_Lambda: |-
+  - "**Other names**: C.37, 21G"
+  - "**First appearance**: Peru"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=C.37),
+    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=C.37),
+    [CoVariants](https://covariants.org/variants/21G.Lambda),
+    [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Lambda_variant)
+
+variant-desc_Zeta: |-
+  **Zeta variant** is a variant of SARS-CoV-2, the virus that causes COVID-19.
+  It was first detected in the state of Rio de Janeiro; it harbors the E484K
+  mutation, but not the N501Y and K417T mutations. It evolved independently in
+  Rio de Janeiro without being directly related to the Gamma variant from
+  Manaus. (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
+
+  [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Zeta_variant
+variant-attrlist_Zeta: |-
+  - "**Other names**: P.2"
+  - "**First appearance**: State of Rio de Janeiro, Brazil"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.2),
+    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=P.2),
+    [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Zeta_variant)
+
+variant-desc_Eta: |-
+  The **Eta variant** is a variant of SARS-CoV-2, the virus that causes
+  COVID-19.  The Eta variant does not carry the same N501Y mutation found in
+  Alpha, Beta and Gamma, but carries the same E484K-mutation as found in the
+  Gamma, Zeta, and Beta variants, and also carries the same ΔH69/ΔV70 deletion
+  (a deletion of the amino acids histidine and valine in positions 69 and 70)
+  as found in Alpha, N439K variant (B.1.141 and B.1.258) and Y453F variant
+  (Cluster 5). (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
+
+  [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Eta_variant
+variant-attrlist_Eta: |-
+  - |-
+    **Other names**: B.1.525, 20A/S:484K, 21D, VUI-202102/03, VUI-21FEB-03,
+    UK1188
+  - "**First appearance**: England, UK"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.525),
+    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.525),
+    [CoVariants](https://covariants.org/variants/21D.Eta),
+    [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Eta_variant)
+
+variant-desc_Mu: |-
+  The **Mu variant** is one of the variants of SARS-CoV-2, the virus that
+  causes COVID-19. It was first detected in Colombia in January 2021 and was
+  designated by the WHO as a variant of interest on August 30, 2021. The WHO
+  said the variant has mutations that indicate a risk of resistance to the
+  current vaccines and stressed that further studies were needed to better
+  understand it. Outbreaks of the Mu variant were reported in South America and
+  Europe. The B.1.621 lineage has a sublineage, labeled B.1.621.1 under the
+  PANGO nomenclature, which has already been detected in more than 20 countries
+  worldwide. (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
+
+  [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Mu_variant
+variant-attrlist_Mu: |-
+  - |-
+    **Other names**: B.1.621, 21H, VUI-21JUL-1
+  - "**First appearance**: England, UK"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.621),
+    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.621),
+    [CoVariants](https://covariants.org/variants/21H.Mu),
+    [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Mu_variant)
