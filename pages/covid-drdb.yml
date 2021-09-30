@@ -1,4 +1,4 @@
-drdbVersion: "20210929-131259-slim"
+drdbVersion: "20210929-133842-slim"
 mutationDefaultGene: S
 allGenes: [
   nsp1, nsp2, PLpro, nsp4, _3CLpro, nsp6, nsp7, nsp8, nsp9,
@@ -14,11 +14,37 @@ geneSynonyms:
   3CLpro: _3CLpro
   nsp5: _3CLpro
   Spike: S
+highlightGenes: &hlGenes [S]
+regionPresets:
+  presets:
+    - name: spike
+      label: Spike protein
+      highlightGenes: *hlGenes
+      preset:
+        <<: &presetCommon
+          width: 1720
+          minHeight: 170
+          paddingLeft: 60
+          paddingRight: 20
+          paddingTop: 20
+        .:
+          _resource: mutation-viewer/sars2-regions.yml
+    - name: evenly-distributed
+      label: Whole genome
+      highlightGenes: *hlGenes
+      preset:
+        <<: *presetCommon
+        .:
+          _resource: mutation-viewer/alt-regions/even-dist.yml
+  genes:
+    _resource: mutation-viewer/sars2-genes.yml
 messages:
   .<<vaccine-desc:
     _resource: vaccine-description.yml
   .<<mab-desc:
     _resource: mab-description.yml
+  .<<variant-desc:
+    _resource: variant-description.yml
 monthRanges:
   - name: "1"
     between: [1, 1]
