@@ -142,7 +142,7 @@ variant-desc_Kappa: |-
   by Public Health England. (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
 
   [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Kappa_variant
-variant-attrlist_Kappa: |-
+variant-attrlist_Kappa:
   - "**Other names**: B.1.617.1, 21B, VUI-21APR-01"
   - "**First appearance**: India"
   - |-
@@ -166,7 +166,7 @@ variant-desc_Iota: |-
 
   [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Iota_variant
 
-variant-attrlist_Iota: |-
+variant-attrlist_Iota:
   - "**Other names**: B.1.526, 21F"
   - "**First appearance**: New York City, US"
   - |-
@@ -188,7 +188,7 @@ variant-desc_Lambda: |-
 
   [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Lambda_variant
 
-variant-attrlist_Lambda: |-
+variant-attrlist_Lambda:
   - "**Other names**: C.37, 21G"
   - "**First appearance**: Peru"
   - |-
@@ -206,7 +206,7 @@ variant-desc_Zeta: |-
   Manaus. (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
 
   [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Zeta_variant
-variant-attrlist_Zeta: |-
+variant-attrlist_Zeta:
   - "**Other names**: P.2"
   - "**First appearance**: State of Rio de Janeiro, Brazil"
   - |-
@@ -225,7 +225,7 @@ variant-desc_Eta: |-
   (Cluster 5). (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
 
   [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Eta_variant
-variant-attrlist_Eta: |-
+variant-attrlist_Eta:
   - |-
     **Other names**: B.1.525, 20A/S:484K, 21D, VUI-202102/03, VUI-21FEB-03,
     UK1188
@@ -249,7 +249,7 @@ variant-desc_Mu: |-
   worldwide. (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
 
   [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Mu_variant
-variant-attrlist_Mu: |-
+variant-attrlist_Mu:
   - |-
     **Other names**: B.1.621, 21H, VUI-21JUL-1
   - "**First appearance**: England, UK"
