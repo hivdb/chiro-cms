@@ -18,7 +18,7 @@ variant-attrlist_Alpha:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.7),
-    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.1.7),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.1.7),
     [CoVariants](https://covariants.org/variants/20I.Alpha.V1),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Alpha_variant)
 
@@ -31,7 +31,7 @@ variant-desc_Alpha/E484K: |-
   began to spread quickly by mid-December, around the same time as infections
   surged. This increase is thought to be at least partly because of one or more
   mutations in the virus' spike protein.  The variant is also notable for
-  having more mutations than normally seen.  (©[Wikipedia][Wikipedia], CC BY-SA
+  having more mutations than normally seen. (©[Wikipedia][Wikipedia], CC BY-SA
   3.0)
 
   E484K mutation occurs in a small number of Alpha genomes, which was named as
@@ -45,7 +45,7 @@ variant-attrlist_Alpha/E484K:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.7),
-    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.1.7),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.1.7),
     [CoVariants](https://covariants.org/variants/20I.Alpha.V1),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Alpha_variant)
 
@@ -65,7 +65,15 @@ variant-attrlist_Beta:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.351),
-    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.351),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.351),
+    [CoVariants](https://covariants.org/variants/20H.Beta.V2),
+    [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Beta_variant)
+
+variant-attrlist_Beta w/o K417N:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.351),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.351),
     [CoVariants](https://covariants.org/variants/20H.Beta.V2),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Beta_variant)
 
@@ -89,7 +97,7 @@ variant-attrlist_Gamma:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.1),
-    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=P.1),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=P.1),
     [CoVariants](https://covariants.org/variants/20J.Gamma.V3),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Gamma_variant)
 
@@ -108,7 +116,31 @@ variant-attrlist_Delta:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.617.2),
-    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.617.2),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.617.2),
+    [CoVariants](https://covariants.org/variants/21A.Delta),
+    [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Delta_variant)
+
+variant-desc_Delta/K417N: |-
+  **Delta variant** is a new strain of SARS-CoV-2, the virus that causes
+  COVID-19. It was first detected in India in late 2020. The Delta variant was
+  named on 31 May 2021 and had spread to over 163 countries by 24 August 2021.
+  The World Health Organization (WHO) indicated that the Delta variant is
+  becoming the dominant strain globally.
+
+  Delta with K417N corresponds to lineages AY.1 and AY.2 and has been nicknamed
+  "Delta plus" or "Nepal variant". It has the K417N mutation which is also
+  present in the Beta variant. The exchange at position 417 is a
+  lysine-to-asparagine substitution. (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
+
+  [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Delta_variant
+variant-attrlist_Delta/K417N:
+  - "**Other names**: AY.1, AY.2, Delta plus"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.1)
+    ([AY.2](https://outbreak.info/situation-reports?pango=AY.2)),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=AY.1)
+    ([AY.2](https://cov-lineages.org/lineage.html?lineage=AY.2)),
     [CoVariants](https://covariants.org/variants/21A.Delta),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Delta_variant)
 
@@ -127,7 +159,17 @@ variant-attrlist_Epsilon:
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.427)
     ([B.1.429](https://outbreak.info/situation-reports?pango=B.1.429)),
-    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.427)
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.427)
+    ([B.1.429](https://cov-lineages.org/lineage.html?lineage=B.1.429)),
+    [CoVariants](https://covariants.org/variants/21C.Epsilon),
+    [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Epsilon_variant)
+
+variant-attrlist_Epsilon/E484K:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.427)
+    ([B.1.429](https://outbreak.info/situation-reports?pango=B.1.429)),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.427)
     ([B.1.429](https://cov-lineages.org/lineage.html?lineage=B.1.429)),
     [CoVariants](https://covariants.org/variants/21C.Epsilon),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Epsilon_variant)
@@ -148,7 +190,7 @@ variant-attrlist_Kappa:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.617.1),
-    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.617.1),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.617.1),
     [CoVariants](https://covariants.org/variants/21B.Kappa),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Kappa_variant)
 
@@ -172,7 +214,15 @@ variant-attrlist_Iota:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.526),
-    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.526),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.526),
+    [CoVariants](https://covariants.org/variants/21F.Iota),
+    [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Iota_variant)
+
+variant-attrlist_Iota w/o E484K:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.526),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.526),
     [CoVariants](https://covariants.org/variants/21F.Iota),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Iota_variant)
 
@@ -194,7 +244,7 @@ variant-attrlist_Lambda:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=C.37),
-    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=C.37),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=C.37),
     [CoVariants](https://covariants.org/variants/21G.Lambda),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Lambda_variant)
 
@@ -212,7 +262,7 @@ variant-attrlist_Zeta:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.2),
-    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=P.2),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=P.2),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Zeta_variant)
 
 variant-desc_Eta: |-
@@ -233,7 +283,7 @@ variant-attrlist_Eta:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.525),
-    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.525),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.525),
     [CoVariants](https://covariants.org/variants/21D.Eta),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Eta_variant)
 
@@ -256,6 +306,176 @@ variant-attrlist_Mu:
   - |-
     **Links**:
     [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.621),
-    [CoV-Lineages.org](https://cov-lineages.org/lineage.html?lineage=B.1.621),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.621),
     [CoVariants](https://covariants.org/variants/21H.Mu),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Mu_variant)
+
+variant-attrlist_B.1.463:
+  - "**First appearance**: Finland"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.463),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.463)
+
+variant-attrlist_B.1.1.298:
+  - "**Other name**: Cluster 5"
+  - "**First appearance**: Denmark"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.298),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.1.298),
+    [Wikipedia](https://en.wikipedia.org/wiki/Cluster_5)
+
+variant-attrlist_B.1.617.3:
+  - "**Other name**: VUI-21APR-03"
+  - "**First appearance**: India"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.617.3),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.617.3),
+    [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_lineage_B.1.617)
+
+variant-attrlist_B.1.1.241:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.241),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.1.241)
+
+variant-attrlist_D.2:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=D.2),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=D.2)
+
+variant-attrlist_B.1.517:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.517),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.517)
+
+variant-attrlist_B.1/E484K:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1)
+
+variant-desc_R.1: |-
+  **Lineage R.1** is a National Institute of Infectious Diseases in Japan
+  variant of interest. It has the E484K mutation on the receptor binding domain
+  and the W152L mutation on the N Terminal Domain, both of which may have
+  implications for immune escape. It has been found in 30 countries with 7057
+  cases in Japan, and 1249 cases in the United States. A small study in the
+  U.S. found that the Pfizer-Biontech vaccine was 94% effective against
+  hospitalisation and death from R.1 during an outbreak. In Japan, cases of R.1
+  continue to appear.  (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
+
+  [Wikipedia]: https://en.wikipedia.org/wiki/Variants_of_SARS-CoV-2
+
+variant-attrlist_R.1:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=R.1),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=R.1)
+
+variant-attrlist_A.23.1:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=A.23.1),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=A.23.1)
+
+variant-attrlist_B.1.1.141:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.141),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.1.141)
+
+variant-desc_B.1.1.317: |-
+  **Lineage B.1.1.317**, while not considered a variant of concern, is
+  noteworthy in that Queensland Health forced 2 people undertaking hotel
+  quarantine in Brisbane, Australia to undergo an additional 5 days' quarantine
+  on top of the mandatory 14 days after it was confirmed they were infected
+  with this variant. (©[Wikipedia][Wikipedia], CC BY-SA 3.0)
+
+  [Wikipedia]: https://en.wikipedia.org/wiki/Variants_of_SARS-CoV-2
+
+variant-attrlist_B.1.1.317:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.317),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.1.317)
+
+variant-desc_B.1.1.318: |-
+  **Lineage B.1.1.318** became a Public Health England VUI (VUI-21FEB-04,
+  previously VUI-202102/04) on 24 February 2021. 16 cases of it were detected
+  in the UK. 155 cases were detected in the province of Ontario, Canada between
+  30 May and 26 June 2021.  It was named Fin-796H when discovered in Finland,
+  indicating the mutation of D796H, and is determined to originate from
+  Nigeria. The variant also feature E484K mutation. (©[Wikipedia][Wikipedia],
+  CC BY-SA 3.0)
+
+  [Wikipedia]: https://en.wikipedia.org/wiki/Variants_of_SARS-CoV-2
+
+variant-attrlist_B.1.1.318:
+  - "**Other names**: VUI-21FEB-04, VUI-202102/04, Fin-796H"
+  - "**First appearance**: England, UK"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.318),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.1.318)
+
+variant-attrlist_B.1.160:
+  - "**Other name**: 20A.EU2"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.160),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.160),
+    [CoVariants](https://covariants.org/variants/20A.EU2)
+
+variant-desc_B.1.618: |-
+  **Lineage B.1.618** was first isolated in October 2020. It has the E484K
+  mutation in common with several other variants, and showed significant spread
+  in April 2021 in West Bengal, India. As of 23 April 2021, the PANGOLIN
+  database showed 135 sequences detected in India, with single-figure numbers
+  in each of eight other countries worldwide. (©[Wikipedia][Wikipedia], CC
+  BY-SA 3.0)
+
+  [Wikipedia]: https://en.wikipedia.org/wiki/Variants_of_SARS-CoV-2
+
+variant-attrlist_B.1.618:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.618),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.618)
+
+variant-attrlist_B.1.1.519:
+  - "**Other name**: 20B.S.732A"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.519),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.1.519)
+    [CoVariants](https://covariants.org/variants/20B.S.732A)
+
+variant-attrlist_A.30:
+  - "**Other name**: A.VOI.V2"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=A.30),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=A.30)
+
+variant-attrlist_A.27/A222V:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=A.27),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=A.27)
+
+variant-attrlist_B.1.619:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.619),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=B.1.619)
+
+variant-attrlist_R.2:
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports?pango=R.2),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=R.2)
