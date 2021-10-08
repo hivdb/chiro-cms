@@ -14,7 +14,7 @@ tables:
     columnDefs:
     - name: variant
       label: Spike
-    - name: assays.rx
+    - name: assays.rx_name
       label: Mab
       multiCells: true
     - name: assays.mab_class
@@ -23,7 +23,7 @@ tables:
     - name: assays.fold
       label: "Fold"
       multiCells: true
-    - name: assays.reference
+    - name: assays.ref_name
       label: "Reference"
       multiCells: true
     data:

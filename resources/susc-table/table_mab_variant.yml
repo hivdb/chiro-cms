@@ -1,2544 +1,2809 @@
 - variant: Alpha
   assays:
   - variant: Alpha
-    rx: ADG20
+    rx_name: ADG20
     mab_class: ''
     fold: '1.5'
-    reference: Supasa21*[^Supasa21]
+    ref_name: Supasa21[^Supasa21]
   - variant: Alpha
-    rx: BRII-196/BRII-198
+    rx_name: BRII-196/BRII-198
     mab_class: ''
     fold: '0.5'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: BRII-196/BRII-198
+    rx_name: BRII-196/BRII-198
     mab_class: ''
     fold: '0.2'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Alpha
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
+    mab_class: ''
+    fold: '1'
+    ref_name: FDA21[^FDA21]
+  - variant: Alpha
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '1.7'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: Bamlanivimab/Etesevimab
-    mab_class: ''
-    fold: '1'
-    reference: FDA21*[^FDA21]
-  - variant: Alpha
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '1.3'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '0.8'
-    reference: Copin21[^Copin21]
+    ref_name: Copin21[^Copin21]
   - variant: Alpha
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: Hoffmann21[^Hoffmann21]
+    ref_name: Hoffmann21[^Hoffmann21]
   - variant: Alpha
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: Tada21[^Tada21]
+    ref_name: Tada21[^Tada21]
   - variant: Alpha
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: Tada21c[^Tada21c]
+    ref_name: Tada21c[^Tada21c]
   - variant: Alpha
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Alpha
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
+    mab_class: ''
+    fold: '1'
+    ref_name: FDA21[^FDA21]
+  - variant: Alpha
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '0.6'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
-    fold: '3.1'
-    reference: Tada21c[^Tada21c]
-  - variant: Alpha
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: FDA21*[^FDA21]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
-    fold: '1'
-    reference: Wang21b*[^Wang21b]
-  - variant: Alpha
-    rx: Cilgavimab/Tixagevimab
+    rx_name: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '0.8'
-    reference: Wang21b[^Wang21b]
+    ref_name: Supasa21[^Supasa21]
   - variant: Alpha
-    rx: Cilgavimab/Tixagevimab
-    mab_class: ''
-    fold: '0.8'
-    reference: Supasa21*[^Supasa21]
-  - variant: Alpha
-    rx: Cilgavimab/Tixagevimab
+    rx_name: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '0.5'
-    reference: Chen21*[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Alpha
-    rx: Cilgavimab/Tixagevimab
+    rx_name: Cilgavimab/Tixagevimab
+    mab_class: ''
+    fold: '0.8'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Alpha
+    rx_name: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '1'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: S2E12/Sotrovimab
+    rx_name: S2E12/Sotrovimab
     mab_class: ''
     fold: '0.7'
-    reference: Chen21*[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Alpha
-    rx: Vir-7832
+    rx_name: Vir-7832
     mab_class: ''
     fold: '2.5'
-    reference: Cathcart21[^Cathcart21]
+    ref_name: Cathcart21[^Cathcart21]
   - variant: Alpha
-    rx: Vir-7832
+    rx_name: Vir-7832
     mab_class: ''
     fold: '3.1'
-    reference: Cathcart21*[^Cathcart21]
+    ref_name: Cathcart21[^Cathcart21]
   - variant: Alpha
-    rx: 2-17
+    rx_name: 2-17
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 2-17
+    rx_name: 2-17
     mab_class: NTD
     fold: '43'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 4-8
+    rx_name: 4-8
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 4-8
+    rx_name: 4-8
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 4A8
+    rx_name: 4A8
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Collier21[^Collier21]
+    fold: '>100'
+    ref_name: Collier21[^Collier21]
   - variant: Alpha
-    rx: 4A8
+    rx_name: 4A8
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 4A8
+    rx_name: 4A8
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 5-24
+    rx_name: 5-24
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 5-24
+    rx_name: 5-24
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 5-7
-    mab_class: NTD
-    fold: '12'
-    reference: Wang21b[^Wang21b]
-  - variant: Alpha
-    rx: 5-7
+    rx_name: 5-7
     mab_class: NTD
     fold: '7.5'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: S2M28
+    rx_name: 5-7
+    mab_class: NTD
+    fold: '12'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Alpha
+    rx_name: S2M28
     mab_class: NTD
     fold: '41'
-    reference: Collier21[^Collier21]
+    ref_name: Collier21[^Collier21]
   - variant: Alpha
-    rx: S2X333
+    rx_name: S2X333
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Collier21[^Collier21]
+    fold: '>100'
+    ref_name: Collier21[^Collier21]
   - variant: Alpha
-    rx: 2-43
+    rx_name: 2-43
+    mab_class: RBD Core Cluster I
+    fold: '2.3'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Alpha
+    rx_name: 2-43
     mab_class: RBD Core Cluster I
     fold: '4.1'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 2-43
-    mab_class: RBD Core Cluster I
-    fold: '2.3'
-    reference: Wang21b*[^Wang21b]
-  - variant: Alpha
-    rx: C135
+    rx_name: C135
     mab_class: RBD Core Cluster I
     fold: '1.4'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: C135
+    rx_name: C135
     mab_class: RBD Core Cluster I
     fold: '0.3'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.4'
-    reference: Copin21[^Copin21]
+    ref_name: Copin21[^Copin21]
   - variant: Alpha
-    rx: Imdevimab
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.1'
+    ref_name: Fenwick21[^Fenwick21]
+  - variant: Alpha
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1'
-    reference: Hoffmann21[^Hoffmann21]
+    ref_name: Hoffmann21[^Hoffmann21]
   - variant: Alpha
-    rx: Imdevimab
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '1'
+    ref_name: Planas21b[^Planas21b]
+  - variant: Alpha
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.6'
-    reference: Rothenberger21[^Rothenberger21]
+    ref_name: Rothenberger21[^Rothenberger21]
   - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '1'
-    reference: Tada21[^Tada21]
-  - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.7'
-    reference: Tada21c[^Tada21c]
-  - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '1.3'
-    reference: Tada21c[^Tada21c]
-  - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.2'
-    reference: Wang21e[^Wang21e]
-  - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.4'
-    reference: Wang21f[^Wang21f]
-  - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '1'
-    reference: FDA21[^FDA21]
-  - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.5'
-    reference: Wang21b[^Wang21b]
-  - variant: Alpha
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '1'
-    reference: Planas21b*[^Planas21b]
-  - variant: Alpha
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.9'
-    reference: Supasa21*[^Supasa21]
+    ref_name: Supasa21[^Supasa21]
   - variant: Alpha
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Tada21[^Tada21]
   - variant: Alpha
-    rx: S2H97
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.7'
+    ref_name: Tada21c[^Tada21c]
+  - variant: Alpha
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.2'
+    ref_name: Wang21e[^Wang21e]
+  - variant: Alpha
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.4'
+    ref_name: Wang21f[^Wang21f]
+  - variant: Alpha
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.7'
+    ref_name: Yao21[^Yao21]
+  - variant: Alpha
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '1'
+    ref_name: FDA21[^FDA21]
+  - variant: Alpha
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.5'
-    reference: Collier21[^Collier21]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: Sotrovimab
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '1'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Alpha
+    rx_name: S2H97
     mab_class: RBD Core Cluster I
     fold: '0.5'
-    reference: Wang21f[^Wang21f]
+    ref_name: Collier21[^Collier21]
   - variant: Alpha
-    rx: Sotrovimab
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '2'
+    ref_name: Fenwick21[^Fenwick21]
+  - variant: Alpha
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '2'
+    ref_name: Supasa21[^Supasa21]
+  - variant: Alpha
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '0.5'
+    ref_name: Wang21f[^Wang21f]
+  - variant: Alpha
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '2.3'
-    reference: Cathcart21[^Cathcart21]
+    ref_name: Cathcart21[^Cathcart21]
   - variant: Alpha
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '2.3'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Alpha
-    rx: Sotrovimab
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '3'
+    ref_name: Cathcart21[^Cathcart21]
+  - variant: Alpha
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '4'
+    ref_name: Chen21[^Chen21]
+  - variant: Alpha
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '3'
+    ref_name: FDA21[^FDA21]
+  - variant: Alpha
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '3.1'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: Sotrovimab
-    mab_class: RBD Core Cluster I
-    fold: '&gt;100'
-    reference: Shen21[^Shen21]
-  - variant: Alpha
-    rx: Sotrovimab
-    mab_class: RBD Core Cluster I
-    fold: '2'
-    reference: Supasa21*[^Supasa21]
-  - variant: Alpha
-    rx: Sotrovimab
-    mab_class: RBD Core Cluster I
-    fold: '3'
-    reference: Cathcart21*[^Cathcart21]
-  - variant: Alpha
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '4'
-    reference: Chen21*[^Chen21]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
-    fold: '3'
-    reference: FDA21*[^FDA21]
+    fold: '>100'
+    ref_name: Shen21[^Shen21]
   - variant: Alpha
-    rx: Sotrovimab
-    mab_class: RBD Core Cluster I
-    fold: '4'
-    reference: Wang21b*[^Wang21b]
-  - variant: Alpha
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '13'
-    reference: Chen21*[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Alpha
-    rx: BRII-198
+    rx_name: BRII-198
     mab_class: RBD Core Cluster II
     fold: '0.8'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Alpha
-    rx: BRII-198
+    rx_name: BRII-198
     mab_class: RBD Core Cluster II
     fold: '0.2'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: BRII-198
+    rx_name: BRII-198
     mab_class: RBD Core Cluster II
     fold: '0.2'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: COVA1-16
+    rx_name: COVA1-16
     mab_class: RBD Core Cluster II
     fold: '0.7'
-    reference: Caniels21[^Caniels21]
+    ref_name: Caniels21[^Caniels21]
   - variant: Alpha
-    rx: COVA1-16
+    rx_name: COVA1-16
     mab_class: RBD Core Cluster II
     fold: '1.3'
-    reference: Rees-Spear21[^Rees-Spear21]
+    ref_name: Rees-Spear21[^Rees-Spear21]
   - variant: Alpha
-    rx: COVA1-16
+    rx_name: COVA1-16
     mab_class: RBD Core Cluster II
     fold: '0.8'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: COVA1-16
+    rx_name: COVA1-16
     mab_class: RBD Core Cluster II
     fold: '0.3'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: DH1047
+    rx_name: DH1047
     mab_class: RBD Core Cluster II
     fold: '1.2'
-    reference: Shen21[^Shen21]
+    ref_name: Shen21[^Shen21]
   - variant: Alpha
-    rx: S2X259
-    mab_class: RBD Core Cluster II
-    fold: '0.6'
-    reference: Collier21[^Collier21]
-  - variant: Alpha
-    rx: S2X259
+    rx_name: S2X259
     mab_class: RBD Core Cluster II
     fold: '1'
-    reference: Chen21*[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Alpha
-    rx: 2-15
+    rx_name: S2X259
+    mab_class: RBD Core Cluster II
+    fold: '0.6'
+    ref_name: Collier21[^Collier21]
+  - variant: Alpha
+    rx_name: 2-15
     mab_class: RBM Class I
     fold: '0.5'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 2-15
+    rx_name: 2-15
     mab_class: RBM Class I
     fold: '3'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 2-7
+    rx_name: 2-7
     mab_class: RBM Class I
     fold: '0.7'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 2-7
+    rx_name: 2-7
     mab_class: RBM Class I
     fold: '0.7'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: B38
+    rx_name: B38
     mab_class: RBM Class I
     fold: '14'
-    reference: Shen21[^Shen21]
+    ref_name: Shen21[^Shen21]
   - variant: Alpha
-    rx: BRII-196
+    rx_name: BRII-196
     mab_class: RBM Class I
     fold: '0.7'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Alpha
-    rx: BRII-196
+    rx_name: BRII-196
     mab_class: RBM Class I
     fold: '0.5'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: BRII-196
+    rx_name: BRII-196
     mab_class: RBM Class I
     fold: '0.1'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: COVA2-04
+    rx_name: COVA2-04
     mab_class: RBM Class I
     fold: '0.5'
-    reference: Rees-Spear21[^Rees-Spear21]
+    ref_name: Rees-Spear21[^Rees-Spear21]
   - variant: Alpha
-    rx: COVOX-384
+    rx_name: COVOX-384
     mab_class: RBM Class I
     fold: '0.7'
-    reference: Chen21*[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Alpha
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '1.1'
-    reference: Copin21[^Copin21]
+    ref_name: Copin21[^Copin21]
   - variant: Alpha
-    rx: Casirivimab
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '0.2'
+    ref_name: Fenwick21[^Fenwick21]
+  - variant: Alpha
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '2'
-    reference: Hoffmann21[^Hoffmann21]
+    ref_name: Hoffmann21[^Hoffmann21]
   - variant: Alpha
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '0.6'
-    reference: Rothenberger21[^Rothenberger21]
-  - variant: Alpha
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '1'
-    reference: Tada21[^Tada21]
+    ref_name: Planas21b[^Planas21b]
   - variant: Alpha
-    rx: Casirivimab
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '0.6'
+    ref_name: Rothenberger21[^Rothenberger21]
+  - variant: Alpha
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '1'
+    ref_name: Tada21[^Tada21]
+  - variant: Alpha
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '1.3'
-    reference: Tada21c[^Tada21c]
+    ref_name: Tada21c[^Tada21c]
   - variant: Alpha
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '0.9'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Alpha
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '0.6'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Alpha
-    rx: Casirivimab
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '0.7'
+    ref_name: Yao21[^Yao21]
+  - variant: Alpha
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Alpha
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '0.4'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '3.2'
-    reference: Tada21c[^Tada21c]
-  - variant: Alpha
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '1'
-    reference: Planas21b*[^Planas21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '1'
-    reference: Wang21b*[^Wang21b]
-  - variant: Alpha
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '3.5'
-    reference: Supasa21*[^Supasa21]
+    ref_name: Supasa21[^Supasa21]
   - variant: Alpha
-    rx: DH1041
+    rx_name: DH1041
     mab_class: RBM Class I
     fold: '1.6'
-    reference: Shen21[^Shen21]
+    ref_name: Shen21[^Shen21]
   - variant: Alpha
-    rx: DH1043
+    rx_name: DH1043
     mab_class: RBM Class I
     fold: '1.2'
-    reference: Shen21[^Shen21]
+    ref_name: Shen21[^Shen21]
   - variant: Alpha
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '1.5'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Alpha
-    rx: Etesevimab
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '0.7'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Alpha
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '4.9'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Alpha
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '3.6'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: Etesevimab
-    mab_class: RBM Class I
-    fold: '49'
-    reference: Zhang21c[^Zhang21c]
-  - variant: Alpha
-    rx: Etesevimab
-    mab_class: RBM Class I
-    fold: '0.7'
-    reference: Wang21b*[^Wang21b]
-  - variant: Alpha
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '34'
-    reference: Planas21b*[^Planas21b]
+    ref_name: Planas21b[^Planas21b]
   - variant: Alpha
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '95'
-    reference: Supasa21*[^Supasa21]
+    ref_name: Supasa21[^Supasa21]
   - variant: Alpha
-    rx: H4
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '16'
+    ref_name: Yao21[^Yao21]
+  - variant: Alpha
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '49'
+    ref_name: Zhang21c[^Zhang21c]
+  - variant: Alpha
+    rx_name: H4
     mab_class: RBM Class I
     fold: '4.7'
-    reference: Shen21[^Shen21]
+    ref_name: Shen21[^Shen21]
   - variant: Alpha
-    rx: P22A-1D1
+    rx_name: P22A-1D1
     mab_class: RBM Class I
     fold: '14'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Alpha
-    rx: P5A-1D2
+    rx_name: P5A-1D2
     mab_class: RBM Class I
     fold: '3.3'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Alpha
-    rx: P5A-3C8
+    rx_name: P5A-3C8
     mab_class: RBM Class I
     fold: '2.2'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Alpha
-    rx: Regdanvimab
+    rx_name: Regdanvimab
     mab_class: RBM Class I
     fold: '1.4'
-    reference: Ryu21*[^Ryu21]
+    ref_name: Ryu21[^Ryu21]
   - variant: Alpha
-    rx: S2E12
-    mab_class: RBM Class I
-    fold: '1.1'
-    reference: Collier21[^Collier21]
-  - variant: Alpha
-    rx: S2E12
+    rx_name: S2E12
     mab_class: RBM Class I
     fold: '0.7'
-    reference: Chen21*[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Alpha
-    rx: S2H14
+    rx_name: S2E12
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Collier21[^Collier21]
+    fold: '1.1'
+    ref_name: Collier21[^Collier21]
   - variant: Alpha
-    rx: Tixagevimab
+    rx_name: S2H14
     mab_class: RBM Class I
-    fold: '1.5'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Collier21[^Collier21]
   - variant: Alpha
-    rx: Tixagevimab
+    rx_name: Tixagevimab
     mab_class: RBM Class I
     fold: '2.2'
-    reference: Supasa21*[^Supasa21]
+    ref_name: Supasa21[^Supasa21]
   - variant: Alpha
-    rx: Tixagevimab
+    rx_name: Tixagevimab
     mab_class: RBM Class I
     fold: '1.7'
-    reference: Chen21*[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Alpha
-    rx: Tixagevimab
+    rx_name: Tixagevimab
+    mab_class: RBM Class I
+    fold: '1.5'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Alpha
+    rx_name: Tixagevimab
     mab_class: RBM Class I
     fold: '0.3'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 1-57
+    rx_name: 1-57
     mab_class: RBM Class II
     fold: '0.5'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 1-57
+    rx_name: 1-57
     mab_class: RBM Class II
     fold: '1.5'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 910-30
+    rx_name: 910-30
     mab_class: RBM Class II
     fold: '14'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 910-30
+    rx_name: 910-30
     mab_class: RBM Class II
     fold: '10'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: BD-368-2
+    rx_name: BD-368-2
     mab_class: RBM Class II
     fold: '1.2'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Alpha
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
     fold: '0.5'
-    reference: Hoffmann21[^Hoffmann21]
+    ref_name: Hoffmann21[^Hoffmann21]
   - variant: Alpha
-    rx: Bamlanivimab
-    mab_class: RBM Class II
-    fold: '0.6'
-    reference: Wang21e[^Wang21e]
-  - variant: Alpha
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: Makdasi21[^Makdasi21]
   - variant: Alpha
-    rx: Bamlanivimab
-    mab_class: RBM Class II
-    fold: '0.6'
-    reference: Wang21b[^Wang21b]
-  - variant: Alpha
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
     fold: '1'
-    reference: Makdasi21*[^Makdasi21]
+    ref_name: Planas21b[^Planas21b]
   - variant: Alpha
-    rx: Bamlanivimab
-    mab_class: RBM Class II
-    fold: '1'
-    reference: Planas21b*[^Planas21b]
-  - variant: Alpha
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
     fold: '1.5'
-    reference: Supasa21*[^Supasa21]
+    ref_name: Supasa21[^Supasa21]
   - variant: Alpha
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
     fold: '1.3'
-    reference: Vanhove21*[^Vanhove21]
+    ref_name: Vanhove21[^Vanhove21]
   - variant: Alpha
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '0.6'
+    ref_name: Wang21e[^Wang21e]
+  - variant: Alpha
+    rx_name: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '0.7'
+    ref_name: Yao21[^Yao21]
+  - variant: Alpha
+    rx_name: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '1'
+    ref_name: FDA21[^FDA21]
+  - variant: Alpha
+    rx_name: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '0.6'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Alpha
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
     fold: '2.8'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: C121
+    rx_name: C121
     mab_class: RBM Class II
     fold: '0.4'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: C121
+    rx_name: C121
     mab_class: RBM Class II
     fold: '0.3'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: COVOX-40
+    rx_name: COVOX-40
     mab_class: RBM Class II
     fold: '0.9'
-    reference: Chen21*[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Alpha
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '1.1'
-    reference: Wang21b[^Wang21b]
-  - variant: Alpha
-    rx: Cilgavimab
+    rx_name: Cilgavimab
     mab_class: RBM Class II
     fold: '0.9'
-    reference: Supasa21*[^Supasa21]
+    ref_name: Supasa21[^Supasa21]
   - variant: Alpha
-    rx: Cilgavimab
+    rx_name: Cilgavimab
     mab_class: RBM Class II
     fold: '0.5'
-    reference: Chen21*[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Alpha
-    rx: Cilgavimab
+    rx_name: Cilgavimab
+    mab_class: RBM Class II
+    fold: '1.1'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Alpha
+    rx_name: Cilgavimab
     mab_class: RBM Class II
     fold: '0.3'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: LY3853113
+    rx_name: LY3853113
     mab_class: RBM Class II
     fold: '0.7'
-    reference: Westendorf21[^Westendorf21]
+    ref_name: Westendorf21[^Westendorf21]
   - variant: Alpha
-    rx: LY3853113
+    rx_name: LY3853113
     mab_class: RBM Class II
     fold: '0.9'
-    reference: Westendorf21[^Westendorf21]
+    ref_name: Westendorf21[^Westendorf21]
   - variant: Alpha
-    rx: P2B-2F6
+    rx_name: P2B-2F6
     mab_class: RBM Class II
     fold: '1.1'
-    reference: Shen21[^Shen21]
+    ref_name: Shen21[^Shen21]
   - variant: Alpha
-    rx: P5A-1B9
+    rx_name: P5A-1B9
     mab_class: RBM Class II
     fold: '1.1'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Alpha
-    rx: S2D106
+    rx_name: S2D106
     mab_class: RBM Class II
     fold: '0.7'
-    reference: Collier21[^Collier21]
+    ref_name: Collier21[^Collier21]
   - variant: Alpha
-    rx: 2-4
+    rx_name: 2-4
     mab_class: RBM Class III
     fold: '1.2'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: 2-4
+    rx_name: 2-4
     mab_class: RBM Class III
     fold: '0.8'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Alpha
-    rx: S2M11
+    rx_name: S2M11
     mab_class: RBM Class III
     fold: '0.4'
-    reference: Collier21[^Collier21]
+    ref_name: Collier21[^Collier21]
 - variant: Beta
   assays:
   - variant: Beta
-    rx: ADG20
+    rx_name: ADG20
     mab_class: ''
     fold: '2.5'
-    reference: Zhou21b*[^Zhou21b]
+    ref_name: Zhou21b[^Zhou21b]
   - variant: Beta
-    rx: BRII-196/BRII-198
+    rx_name: BRII-196/BRII-198
     mab_class: ''
     fold: '0.8'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: BRII-196/BRII-198
+    rx_name: BRII-196/BRII-198
     mab_class: ''
     fold: '1.1'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
-    fold: '&gt;100'
-    reference: Hoffmann21c[^Hoffmann21c]
+    fold: '>100'
+    ref_name: Hoffmann21c[^Hoffmann21c]
   - variant: Beta
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
-    fold: '&gt;100'
-    reference: FDA21[^FDA21]
+    fold: '>100'
+    ref_name: FDA21[^FDA21]
   - variant: Beta
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: FDA21[^FDA21]
   - variant: Beta
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
-    fold: '&gt;100'
-    reference: FDA21*[^FDA21]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '0.7'
-    reference: Copin21[^Copin21]
+    ref_name: Copin21[^Copin21]
   - variant: Beta
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: Hoffmann21[^Hoffmann21]
+    ref_name: Hoffmann21[^Hoffmann21]
   - variant: Beta
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: Hoffmann21c[^Hoffmann21c]
+    ref_name: Hoffmann21c[^Hoffmann21c]
   - variant: Beta
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '2.6'
-    reference: Tada21c[^Tada21c]
+    ref_name: Tada21c[^Tada21c]
   - variant: Beta
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Beta
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
+    mab_class: ''
+    fold: '1'
+    ref_name: FDA21[^FDA21]
+  - variant: Beta
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1.3'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '9.1'
-    reference: Tada21[^Tada21]
+    ref_name: Tada21[^Tada21]
   - variant: Beta
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
-    fold: '7.6'
-    reference: Tada21c[^Tada21c]
-  - variant: Beta
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '7.5'
-    reference: Tada21d[^Tada21d]
+    ref_name: Tada21d[^Tada21d]
   - variant: Beta
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '7.5'
-    reference: Tada21e[^Tada21e]
+    ref_name: Tada21e[^Tada21e]
   - variant: Beta
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
-    fold: '1'
-    reference: FDA21*[^FDA21]
-  - variant: Beta
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '8.1'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: Cilgavimab/Tixagevimab
+    rx_name: Cilgavimab/Tixagevimab
+    mab_class: ''
+    fold: '1.3'
+    ref_name: Zhou21b[^Zhou21b]
+  - variant: Beta
+    rx_name: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '0.8'
-    reference: Chen21[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Beta
-    rx: Cilgavimab/Tixagevimab
+    rx_name: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '1.3'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: Cilgavimab/Tixagevimab
-    mab_class: ''
-    fold: '1.3'
-    reference: Zhou21b*[^Zhou21b]
-  - variant: Beta
-    rx: Cilgavimab/Tixagevimab
+    rx_name: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '12'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: S2E12/Sotrovimab
+    rx_name: S2E12/Sotrovimab
     mab_class: ''
     fold: '0.6'
-    reference: Chen21[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Beta
-    rx: Vir-7832
-    mab_class: ''
-    fold: '0.7'
-    reference: Cathcart21[^Cathcart21]
-  - variant: Beta
-    rx: Vir-7832
+    rx_name: Vir-7832
     mab_class: ''
     fold: '1.1'
-    reference: Cathcart21*[^Cathcart21]
+    ref_name: Cathcart21[^Cathcart21]
   - variant: Beta
-    rx: 2-17
+    rx_name: Vir-7832
+    mab_class: ''
+    fold: '0.7'
+    ref_name: Cathcart21[^Cathcart21]
+  - variant: Beta
+    rx_name: 2-17
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 2-17
+    rx_name: 2-17
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 4-8
+    rx_name: 4-8
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 4-8
+    rx_name: 4-8
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 4A8
+    rx_name: 4A8
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 4A8
+    rx_name: 4A8
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 5-24
+    rx_name: 5-24
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 5-24
+    rx_name: 5-24
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 5-7
+    rx_name: 5-7
     mab_class: NTD
     fold: '18'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 5-7
+    rx_name: 5-7
     mab_class: NTD
     fold: '85'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 2-43
+    rx_name: 2-43
     mab_class: RBD Core Cluster I
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 2-43
+    rx_name: 2-43
     mab_class: RBD Core Cluster I
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: C135
+    rx_name: C135
     mab_class: RBD Core Cluster I
     fold: '0.8'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: C135
+    rx_name: C135
     mab_class: RBD Core Cluster I
     fold: '1'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.2'
-    reference: Copin21[^Copin21]
+    ref_name: Copin21[^Copin21]
   - variant: Beta
-    rx: Imdevimab
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.4'
+    ref_name: Fenwick21[^Fenwick21]
+  - variant: Beta
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1'
-    reference: Hoffmann21[^Hoffmann21]
+    ref_name: Hoffmann21[^Hoffmann21]
   - variant: Beta
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1'
-    reference: Hoffmann21c[^Hoffmann21c]
+    ref_name: Hoffmann21c[^Hoffmann21c]
   - variant: Beta
-    rx: Imdevimab
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '1'
+    ref_name: Planas21b[^Planas21b]
+  - variant: Beta
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.2'
-    reference: Rothenberger21[^Rothenberger21]
+    ref_name: Rothenberger21[^Rothenberger21]
   - variant: Beta
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '2.3'
-    reference: Tada21[^Tada21]
+    ref_name: Tada21[^Tada21]
   - variant: Beta
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1.5'
-    reference: Tada21c[^Tada21c]
+    ref_name: Tada21c[^Tada21c]
   - variant: Beta
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '2.6'
-    reference: Tada21c[^Tada21c]
-  - variant: Beta
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1.8'
-    reference: Tada21d[^Tada21d]
+    ref_name: Tada21d[^Tada21d]
   - variant: Beta
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1.8'
-    reference: Tada21e[^Tada21e]
+    ref_name: Tada21e[^Tada21e]
   - variant: Beta
-    rx: Imdevimab
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.2'
+    ref_name: Wang21e[^Wang21e]
+  - variant: Beta
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.3'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Beta
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.2'
-    reference: Wang21e[^Wang21e]
-  - variant: Beta
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.5'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Beta
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.6'
-    reference: Wang21b[^Wang21b]
+    fold: '0.7'
+    ref_name: Yao21[^Yao21]
   - variant: Beta
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '1'
-    reference: Planas21b*[^Planas21b]
-  - variant: Beta
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.2'
-    reference: Zhou21b*[^Zhou21b]
+    ref_name: Zhou21b[^Zhou21b]
   - variant: Beta
-    rx: Imdevimab
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.6'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Beta
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '3.5'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: Sotrovimab
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '2.5'
+    ref_name: Fenwick21[^Fenwick21]
+  - variant: Beta
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '0.5'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Beta
-    rx: Sotrovimab
-    mab_class: RBD Core Cluster I
-    fold: '0.6'
-    reference: Cathcart21[^Cathcart21]
-  - variant: Beta
-    rx: Sotrovimab
-    mab_class: RBD Core Cluster I
-    fold: '1'
-    reference: Chen21[^Chen21]
-  - variant: Beta
-    rx: Sotrovimab
-    mab_class: RBD Core Cluster I
-    fold: '0.6'
-    reference: FDA21[^FDA21]
-  - variant: Beta
-    rx: Sotrovimab
-    mab_class: RBD Core Cluster I
-    fold: '0.8'
-    reference: Wang21b[^Wang21b]
-  - variant: Beta
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '2.1'
-    reference: Zhou21b*[^Zhou21b]
+    ref_name: Zhou21b[^Zhou21b]
   - variant: Beta
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '1.2'
-    reference: Cathcart21*[^Cathcart21]
+    ref_name: Cathcart21[^Cathcart21]
   - variant: Beta
-    rx: Sotrovimab
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '0.6'
+    ref_name: Cathcart21[^Cathcart21]
+  - variant: Beta
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '1'
+    ref_name: Chen21[^Chen21]
+  - variant: Beta
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '1'
+    ref_name: Chen21[^Chen21]
+  - variant: Beta
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '0.6'
+    ref_name: FDA21[^FDA21]
+  - variant: Beta
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '1.2'
-    reference: FDA21*[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Beta
-    rx: Sotrovimab
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '0.8'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Beta
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '2.2'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: BRII-198
+    rx_name: BRII-198
     mab_class: RBD Core Cluster II
     fold: '6'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Beta
-    rx: BRII-198
+    rx_name: BRII-198
     mab_class: RBD Core Cluster II
     fold: '3.4'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: BRII-198
+    rx_name: BRII-198
     mab_class: RBD Core Cluster II
     fold: '15'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: COVA1-16
+    rx_name: COVA1-16
     mab_class: RBD Core Cluster II
     fold: '0.2'
-    reference: Caniels21[^Caniels21]
+    ref_name: Caniels21[^Caniels21]
   - variant: Beta
-    rx: COVA1-16
+    rx_name: COVA1-16
     mab_class: RBD Core Cluster II
     fold: '0.8'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: COVA1-16
+    rx_name: COVA1-16
     mab_class: RBD Core Cluster II
     fold: '1'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: CV2-75
+    rx_name: CV2-75
     mab_class: RBD Core Cluster II
     fold: '2.3'
-    reference: Stamatatos21[^Stamatatos21]
+    ref_name: Stamatatos21[^Stamatatos21]
   - variant: Beta
-    rx: CV2-75
+    rx_name: CV2-75
     mab_class: RBD Core Cluster II
     fold: '1.6'
-    reference: Stamatatos21[^Stamatatos21]
+    ref_name: Stamatatos21[^Stamatatos21]
   - variant: Beta
-    rx: H014
+    rx_name: H014
     mab_class: RBD Core Cluster II
     fold: '0.3'
-    reference: Li21c[^Li21c]
+    ref_name: Li21c[^Li21c]
   - variant: Beta
-    rx: H014
+    rx_name: H014
     mab_class: RBD Core Cluster II
     fold: '1'
-    reference: Li21c[^Li21c]
+    ref_name: Li21c[^Li21c]
   - variant: Beta
-    rx: S2X259
+    rx_name: S2X259
     mab_class: RBD Core Cluster II
     fold: '0.5'
-    reference: Chen21[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Beta
-    rx: 2-15
+    rx_name: 2-15
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 2-15
+    rx_name: 2-15
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 2-7
+    rx_name: 2-7
     mab_class: RBM Class I
     fold: '0.8'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 2-7
+    rx_name: 2-7
     mab_class: RBM Class I
     fold: '0.9'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: BRII-196
+    rx_name: BRII-196
     mab_class: RBM Class I
     fold: '0.5'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Beta
-    rx: BRII-196
+    rx_name: BRII-196
     mab_class: RBM Class I
     fold: '1'
-    reference: Li21c[^Li21c]
+    ref_name: Li21c[^Li21c]
   - variant: Beta
-    rx: BRII-196
+    rx_name: BRII-196
+    mab_class: RBM Class I
+    fold: '1'
+    ref_name: Li21c[^Li21c]
+  - variant: Beta
+    rx_name: BRII-196
     mab_class: RBM Class I
     fold: '0.6'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: BRII-196
+    rx_name: BRII-196
     mab_class: RBM Class I
     fold: '0.5'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: COVOX-384
+    rx_name: COVOX-384
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Chen21[^Chen21]
+    fold: '>100'
+    ref_name: Chen21[^Chen21]
   - variant: Beta
-    rx: CV30
+    rx_name: CV30
     mab_class: RBM Class I
     fold: '25'
-    reference: Stamatatos21[^Stamatatos21]
+    ref_name: Stamatatos21[^Stamatatos21]
   - variant: Beta
-    rx: CV30
+    rx_name: CV30
     mab_class: RBM Class I
     fold: '16'
-    reference: Stamatatos21[^Stamatatos21]
+    ref_name: Stamatatos21[^Stamatatos21]
   - variant: Beta
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '4.1'
-    reference: Hoffmann21c[^Hoffmann21c]
+    ref_name: Hoffmann21c[^Hoffmann21c]
   - variant: Beta
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '3.9'
-    reference: Rothenberger21[^Rothenberger21]
+    ref_name: Rothenberger21[^Rothenberger21]
   - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '59'
-    reference: Copin21[^Copin21]
-  - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '48'
-    reference: Hoffmann21[^Hoffmann21]
-  - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '76'
-    reference: Tada21[^Tada21]
-  - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '16'
-    reference: Tada21c[^Tada21c]
-  - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '39'
-    reference: Tada21c[^Tada21c]
-  - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Tada21d[^Tada21d]
-  - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Tada21e[^Tada21e]
-  - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21e[^Wang21e]
-  - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '13'
-    reference: Wang21f[^Wang21f]
-  - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '59'
-    reference: Wang21b[^Wang21b]
-  - variant: Beta
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '5'
-    reference: FDA21*[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Beta
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Planas21b*[^Planas21b]
+    fold: '59'
+    ref_name: Copin21[^Copin21]
   - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Zhou21b*[^Zhou21b]
-  - variant: Beta
-    rx: Casirivimab
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
-  - variant: Beta
-    rx: Etesevimab
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Hoffmann21c[^Hoffmann21c]
-  - variant: Beta
-    rx: Etesevimab
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21e[^Wang21e]
-  - variant: Beta
-    rx: Etesevimab
-    mab_class: RBM Class I
-    fold: '49'
-    reference: Wang21f[^Wang21f]
-  - variant: Beta
-    rx: Etesevimab
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
-  - variant: Beta
-    rx: Etesevimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '70'
-    reference: Zhang21c[^Zhang21c]
+    ref_name: Fenwick21[^Fenwick21]
   - variant: Beta
-    rx: Etesevimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Planas21b*[^Planas21b]
+    fold: '48'
+    ref_name: Hoffmann21[^Hoffmann21]
   - variant: Beta
-    rx: Etesevimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Zhou21b*[^Zhou21b]
+    fold: '>100'
+    ref_name: Planas21b[^Planas21b]
   - variant: Beta
-    rx: Etesevimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '76'
+    ref_name: Tada21[^Tada21]
   - variant: Beta
-    rx: P22A-1D1
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '16'
+    ref_name: Tada21c[^Tada21c]
+  - variant: Beta
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Tada21d[^Tada21d]
+  - variant: Beta
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Tada21e[^Tada21e]
+  - variant: Beta
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
+  - variant: Beta
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
+  - variant: Beta
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '13'
+    ref_name: Wang21f[^Wang21f]
+  - variant: Beta
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Yao21[^Yao21]
+  - variant: Beta
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Zhou21b[^Zhou21b]
+  - variant: Beta
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '59'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Beta
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Beta
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Hoffmann21c[^Hoffmann21c]
+  - variant: Beta
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Planas21b[^Planas21b]
+  - variant: Beta
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
+  - variant: Beta
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
+  - variant: Beta
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '49'
+    ref_name: Wang21f[^Wang21f]
+  - variant: Beta
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '50'
+    ref_name: Yao21[^Yao21]
+  - variant: Beta
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Zhou21b[^Zhou21b]
+  - variant: Beta
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Beta
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Beta
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '70'
+    ref_name: Zhang21c[^Zhang21c]
+  - variant: Beta
+    rx_name: P22A-1D1
     mab_class: RBM Class I
     fold: '74'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Beta
-    rx: P5A-1D2
+    rx_name: P5A-1D2
     mab_class: RBM Class I
     fold: '43'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Beta
-    rx: P5A-3C8
+    rx_name: P5A-3C8
     mab_class: RBM Class I
     fold: '47'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Beta
-    rx: Regdanvimab
-    mab_class: RBM Class I
-    fold: '33'
-    reference: Ryu21[^Ryu21]
-  - variant: Beta
-    rx: Regdanvimab
+    rx_name: Regdanvimab
     mab_class: RBM Class I
     fold: '20'
-    reference: Ryu21*[^Ryu21]
+    ref_name: Ryu21[^Ryu21]
   - variant: Beta
-    rx: S2E12
+    rx_name: Regdanvimab
+    mab_class: RBM Class I
+    fold: '33'
+    ref_name: Ryu21[^Ryu21]
+  - variant: Beta
+    rx_name: S2E12
     mab_class: RBM Class I
     fold: '0.4'
-    reference: Chen21[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Beta
-    rx: Tixagevimab
+    rx_name: Tixagevimab
     mab_class: RBM Class I
     fold: '1.7'
-    reference: Chen21[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Beta
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '3.5'
-    reference: Wang21b[^Wang21b]
-  - variant: Beta
-    rx: Tixagevimab
+    rx_name: Tixagevimab
     mab_class: RBM Class I
     fold: '9.2'
-    reference: Zhou21b*[^Zhou21b]
+    ref_name: Zhou21b[^Zhou21b]
   - variant: Beta
-    rx: Tixagevimab
+    rx_name: Tixagevimab
+    mab_class: RBM Class I
+    fold: '3.5'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Beta
+    rx_name: Tixagevimab
     mab_class: RBM Class I
     fold: '6.3'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 1-57
+    rx_name: 1-57
     mab_class: RBM Class II
     fold: '0.3'
-    reference: Wang21b[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 1-57
+    rx_name: 1-57
     mab_class: RBM Class II
     fold: '5.2'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 910-30
+    rx_name: 910-30
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 910-30
+    rx_name: 910-30
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: BD-368-2
+    rx_name: BD-368-2
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21f[^Wang21f]
+    fold: '>100'
+    ref_name: Wang21f[^Wang21f]
   - variant: Beta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Hoffmann21[^Hoffmann21]
+    fold: '>100'
+    ref_name: Hoffmann21[^Hoffmann21]
   - variant: Beta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Hoffmann21c[^Hoffmann21c]
+    fold: '>100'
+    ref_name: Hoffmann21c[^Hoffmann21c]
   - variant: Beta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21e[^Wang21e]
+    fold: '>100'
+    ref_name: Makdasi21[^Makdasi21]
   - variant: Beta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: FDA21[^FDA21]
+    fold: '>100'
+    ref_name: Planas21b[^Planas21b]
   - variant: Beta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Vanhove21[^Vanhove21]
   - variant: Beta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Makdasi21*[^Makdasi21]
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
   - variant: Beta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Planas21b*[^Planas21b]
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
   - variant: Beta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Vanhove21*[^Vanhove21]
+    fold: '>100'
+    ref_name: Yao21[^Yao21]
   - variant: Beta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Zhou21b*[^Zhou21b]
+    fold: '>100'
+    ref_name: Zhou21b[^Zhou21b]
   - variant: Beta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: FDA21[^FDA21]
   - variant: Beta
-    rx: C121
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: C121
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: COVOX-40
+    rx_name: C121
+    mab_class: RBM Class II
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Beta
+    rx_name: C121
+    mab_class: RBM Class II
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Beta
+    rx_name: COVOX-40
     mab_class: RBM Class II
     fold: '11'
-    reference: Chen21[^Chen21]
+    ref_name: Chen21[^Chen21]
   - variant: Beta
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '0.3'
-    reference: Chen21[^Chen21]
-  - variant: Beta
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '1'
-    reference: Wang21b[^Wang21b]
-  - variant: Beta
-    rx: Cilgavimab
+    rx_name: Cilgavimab
     mab_class: RBM Class II
     fold: '1.1'
-    reference: Zhou21b*[^Zhou21b]
+    ref_name: Zhou21b[^Zhou21b]
   - variant: Beta
-    rx: Cilgavimab
+    rx_name: Cilgavimab
     mab_class: RBM Class II
     fold: '0.3'
-    reference: Wang21b*[^Wang21b]
+    ref_name: Chen21[^Chen21]
   - variant: Beta
-    rx: LY3853113
+    rx_name: Cilgavimab
+    mab_class: RBM Class II
+    fold: '1'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Beta
+    rx_name: Cilgavimab
+    mab_class: RBM Class II
+    fold: '0.3'
+    ref_name: Wang21b[^Wang21b]
+  - variant: Beta
+    rx_name: LY3853113
     mab_class: RBM Class II
     fold: '0.7'
-    reference: Westendorf21[^Westendorf21]
+    ref_name: Westendorf21[^Westendorf21]
   - variant: Beta
-    rx: P2B-2F6
+    rx_name: LY3853113
+    mab_class: RBM Class II
+    fold: '0.7'
+    ref_name: Westendorf21[^Westendorf21]
+  - variant: Beta
+    rx_name: P2B-2F6
     mab_class: RBM Class II
     fold: '29'
-    reference: Li21c[^Li21c]
+    ref_name: Li21c[^Li21c]
   - variant: Beta
-    rx: P2B-2F6
+    rx_name: P2B-2F6
     mab_class: RBM Class II
     fold: '53'
-    reference: Li21c[^Li21c]
+    ref_name: Li21c[^Li21c]
   - variant: Beta
-    rx: P5A-1B9
+    rx_name: P5A-1B9
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21f[^Wang21f]
+    fold: '>100'
+    ref_name: Wang21f[^Wang21f]
   - variant: Beta
-    rx: 2-4
+    rx_name: 2-4
     mab_class: RBM Class III
-    fold: '&gt;100'
-    reference: Wang21b[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
   - variant: Beta
-    rx: 2-4
+    rx_name: 2-4
     mab_class: RBM Class III
-    fold: '&gt;100'
-    reference: Wang21b*[^Wang21b]
+    fold: '>100'
+    ref_name: Wang21b[^Wang21b]
 - variant: Delta
   assays:
   - variant: Delta
-    rx: ADG20
+    rx_name: ADG20
     mab_class: ''
     fold: '1.5'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
   - variant: Delta
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Delta
-    rx: Casirivimab/Imdevimab
+    rx_name: Bamlanivimab/Etesevimab
+    mab_class: ''
+    fold: '1'
+    ref_name: FDA21[^FDA21]
+  - variant: Delta
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '2.2'
-    reference: Tada21e[^Tada21e]
+    ref_name: Tada21e[^Tada21e]
   - variant: Delta
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Delta
-    rx: Cilgavimab/Tixagevimab
+    rx_name: Casirivimab/Imdevimab
+    mab_class: ''
+    fold: '1'
+    ref_name: FDA21[^FDA21]
+  - variant: Delta
+    rx_name: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '0.6'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
   - variant: Delta
-    rx: Imdevimab
+    rx_name: S2X333
+    mab_class: NTD
+    fold: '>100'
+    ref_name: Mlcochova21[^Mlcochova21]
+  - variant: Delta
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.5'
-    reference: Arora21[^Arora21]
+    ref_name: Arora21[^Arora21]
   - variant: Delta
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.5'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
   - variant: Delta
-    rx: Imdevimab
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '1.4'
+    ref_name: Mlcochova21[^Mlcochova21]
+  - variant: Delta
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1'
-    reference: Planas21b[^Planas21b]
+    ref_name: Planas21b[^Planas21b]
   - variant: Delta
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '3.1'
-    reference: Tada21e[^Tada21e]
+    ref_name: Tada21e[^Tada21e]
   - variant: Delta
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '4.4'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Delta
-    rx: Sotrovimab
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '4.5'
+    ref_name: Yao21[^Yao21]
+  - variant: Delta
+    rx_name: S2H97
+    mab_class: RBD Core Cluster I
+    fold: '2.1'
+    ref_name: Mlcochova21[^Mlcochova21]
+  - variant: Delta
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '2.8'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
   - variant: Delta
-    rx: Sotrovimab
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '0.7'
+    ref_name: Mlcochova21[^Mlcochova21]
+  - variant: Delta
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '1'
-    reference: Cathcart21[^Cathcart21]
+    ref_name: Cathcart21[^Cathcart21]
   - variant: Delta
-    rx: Casirivimab
+    rx_name: S2X259
+    mab_class: RBD Core Cluster II
+    fold: '1.4'
+    ref_name: Mlcochova21[^Mlcochova21]
+  - variant: Delta
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '0.7'
-    reference: Arora21[^Arora21]
+    ref_name: Arora21[^Arora21]
   - variant: Delta
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '0.8'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
   - variant: Delta
-    rx: Casirivimab
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '1.2'
+    ref_name: Mlcochova21[^Mlcochova21]
+  - variant: Delta
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '1'
-    reference: Planas21b[^Planas21b]
+    ref_name: Planas21b[^Planas21b]
   - variant: Delta
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '0.4'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Delta
-    rx: Casirivimab
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '0.7'
+    ref_name: Yao21[^Yao21]
+  - variant: Delta
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '12'
-    reference: Tada21e[^Tada21e]
+    ref_name: Tada21e[^Tada21e]
   - variant: Delta
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '0.6'
-    reference: Arora21[^Arora21]
+    ref_name: Arora21[^Arora21]
   - variant: Delta
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '0.4'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
   - variant: Delta
-    rx: Etesevimab
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '0.4'
+    ref_name: Mlcochova21[^Mlcochova21]
+  - variant: Delta
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '0.8'
-    reference: Planas21b[^Planas21b]
+    ref_name: Planas21b[^Planas21b]
   - variant: Delta
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '0.5'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Delta
-    rx: Etesevimab
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '0.1'
+    ref_name: Yao21[^Yao21]
+  - variant: Delta
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Delta
-    rx: Regdanvimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Ryu21c[^Ryu21c]
+    fold: '1'
+    ref_name: FDA21[^FDA21]
   - variant: Delta
-    rx: Tixagevimab
+    rx_name: Regdanvimab
+    mab_class: RBM Class I
+    fold: '7.4'
+    ref_name: Mlcochova21[^Mlcochova21]
+  - variant: Delta
+    rx_name: Regdanvimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Ryu21b[^Ryu21b]
+  - variant: Delta
+    rx_name: S2E12
+    mab_class: RBM Class I
+    fold: '0.8'
+    ref_name: Mlcochova21[^Mlcochova21]
+  - variant: Delta
+    rx_name: S2H14
+    mab_class: RBM Class I
+    fold: '0.3'
+    ref_name: Mlcochova21[^Mlcochova21]
+  - variant: Delta
+    rx_name: Tixagevimab
     mab_class: RBM Class I
     fold: '0.6'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
   - variant: Delta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Arora21[^Arora21]
+    fold: '>100'
+    ref_name: Arora21[^Arora21]
   - variant: Delta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Liu21f[^Liu21f]
+    fold: '>100'
+    ref_name: Liu21f[^Liu21f]
   - variant: Delta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Planas21b[^Planas21b]
+    fold: '>100'
+    ref_name: Mlcochova21[^Mlcochova21]
   - variant: Delta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21e[^Wang21e]
+    fold: '>100'
+    ref_name: Planas21b[^Planas21b]
   - variant: Delta
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: FDA21[^FDA21]
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
   - variant: Delta
-    rx: Cilgavimab
+    rx_name: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '>100'
+    ref_name: Yao21[^Yao21]
+  - variant: Delta
+    rx_name: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '>100'
+    ref_name: FDA21[^FDA21]
+  - variant: Delta
+    rx_name: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '>100'
+    ref_name: FDA21[^FDA21]
+  - variant: Delta
+    rx_name: Cilgavimab
     mab_class: RBM Class II
     fold: '2.9'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
+  - variant: Delta
+    rx_name: S2D106
+    mab_class: RBM Class II
+    fold: '4.3'
+    ref_name: Mlcochova21[^Mlcochova21]
+  - variant: Delta
+    rx_name: S2M11
+    mab_class: RBM Class III
+    fold: '4'
+    ref_name: Mlcochova21[^Mlcochova21]
 - variant: Epsilon
   assays:
   - variant: Epsilon
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '9'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Epsilon
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '11'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Epsilon
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Epsilon
-    rx: 4A8
+    rx_name: 4A8
     mab_class: NTD
-    fold: '&gt;100'
-    reference: McCallum21b[^McCallum21b]
+    fold: '>100'
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: S2M28
+    rx_name: S2M28
     mab_class: NTD
-    fold: '&gt;100'
-    reference: McCallum21b[^McCallum21b]
+    fold: '>100'
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: S2X333
+    rx_name: S2X333
     mab_class: NTD
-    fold: '&gt;100'
-    reference: McCallum21b[^McCallum21b]
+    fold: '>100'
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '2.2'
-    reference: McCallum21b[^McCallum21b]
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1.1'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Epsilon
-    rx: S2H97
+    rx_name: S2H97
     mab_class: RBD Core Cluster I
     fold: '0.4'
-    reference: McCallum21b[^McCallum21b]
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '0.9'
-    reference: McCallum21b[^McCallum21b]
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '0.7'
-    reference: Cathcart21[^Cathcart21]
+    ref_name: Cathcart21[^Cathcart21]
   - variant: Epsilon
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '0.7'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Epsilon
-    rx: S2X259
+    rx_name: S2X259
     mab_class: RBD Core Cluster II
     fold: '1.3'
-    reference: McCallum21b[^McCallum21b]
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '1.3'
-    reference: McCallum21b[^McCallum21b]
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '1.2'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Epsilon
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '0.9'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Epsilon
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Epsilon
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '1'
-    reference: Zhang21c[^Zhang21c]
+    ref_name: Zhang21c[^Zhang21c]
   - variant: Epsilon
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '5.8'
-    reference: McCallum21b[^McCallum21b]
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: Regdanvimab
+    rx_name: Regdanvimab
     mab_class: RBM Class I
     fold: '14'
-    reference: McCallum21b[^McCallum21b]
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: Regdanvimab
+    rx_name: Regdanvimab
     mab_class: RBM Class I
     fold: '31'
-    reference: Ryu21c[^Ryu21c]
+    ref_name: Ryu21b[^Ryu21b]
   - variant: Epsilon
-    rx: Regdanvimab
-    mab_class: RBM Class I
-    fold: '54'
-    reference: Ryu21c[^Ryu21c]
-  - variant: Epsilon
-    rx: Regdanvimab
+    rx_name: Regdanvimab
     mab_class: RBM Class I
     fold: '74'
-    reference: Ryu21c[^Ryu21c]
+    ref_name: Ryu21b[^Ryu21b]
   - variant: Epsilon
-    rx: S2E12
+    rx_name: Regdanvimab
+    mab_class: RBM Class I
+    fold: '54'
+    ref_name: Ryu21b[^Ryu21b]
+  - variant: Epsilon
+    rx_name: S2E12
     mab_class: RBM Class I
     fold: '0.5'
-    reference: McCallum21b[^McCallum21b]
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: S2H14
+    rx_name: S2H14
     mab_class: RBM Class I
     fold: '0.3'
-    reference: McCallum21b[^McCallum21b]
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: McCallum21b[^McCallum21b]
+    fold: '>100'
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21e[^Wang21e]
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
   - variant: Epsilon
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: FDA21[^FDA21]
+    fold: '>100'
+    ref_name: FDA21[^FDA21]
   - variant: Epsilon
-    rx: LY3853113
+    rx_name: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '>100'
+    ref_name: FDA21[^FDA21]
+  - variant: Epsilon
+    rx_name: LY3853113
     mab_class: RBM Class II
     fold: '0.4'
-    reference: Westendorf21[^Westendorf21]
+    ref_name: Westendorf21[^Westendorf21]
   - variant: Epsilon
-    rx: LY3853113
+    rx_name: LY3853113
     mab_class: RBM Class II
     fold: '0.5'
-    reference: Westendorf21[^Westendorf21]
+    ref_name: Westendorf21[^Westendorf21]
   - variant: Epsilon
-    rx: S2D106
+    rx_name: S2D106
     mab_class: RBM Class II
     fold: '0.6'
-    reference: McCallum21b[^McCallum21b]
+    ref_name: McCallum21b[^McCallum21b]
   - variant: Epsilon
-    rx: S2M11
+    rx_name: S2M11
     mab_class: RBM Class III
     fold: '2'
-    reference: McCallum21b[^McCallum21b]
+    ref_name: McCallum21b[^McCallum21b]
 - variant: Gamma
   assays:
   - variant: Gamma
-    rx: ADG20
+    rx_name: ADG20
     mab_class: ''
     fold: '2.3'
-    reference: Dejnirattisai21*[^Dejnirattisai21]
+    ref_name: Dejnirattisai21[^Dejnirattisai21]
   - variant: Gamma
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
-    fold: '&gt;100'
-    reference: FDA21[^FDA21]
+    fold: '>100'
+    ref_name: FDA21[^FDA21]
   - variant: Gamma
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '0.7'
-    reference: Copin21[^Copin21]
+    ref_name: Copin21[^Copin21]
   - variant: Gamma
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: Hoffmann21[^Hoffmann21]
+    ref_name: Hoffmann21[^Hoffmann21]
   - variant: Gamma
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Gamma
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
+    mab_class: ''
+    fold: '1'
+    ref_name: FDA21[^FDA21]
+  - variant: Gamma
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '16'
-    reference: Tada21[^Tada21]
+    ref_name: Tada21[^Tada21]
   - variant: Gamma
-    rx: Casirivimab/Imdevimab
-    mab_class: ''
-    fold: '1'
-    reference: FDA21*[^FDA21]
-  - variant: Gamma
-    rx: Cilgavimab/Tixagevimab
+    rx_name: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '0.7'
-    reference: Dejnirattisai21*[^Dejnirattisai21]
+    ref_name: Dejnirattisai21[^Dejnirattisai21]
   - variant: Gamma
-    rx: Vir-7832
-    mab_class: ''
-    fold: '0.4'
-    reference: Cathcart21[^Cathcart21]
-  - variant: Gamma
-    rx: Vir-7832
+    rx_name: Vir-7832
     mab_class: ''
     fold: '1.2'
-    reference: Cathcart21*[^Cathcart21]
+    ref_name: Cathcart21[^Cathcart21]
   - variant: Gamma
-    rx: 2-17
+    rx_name: Vir-7832
+    mab_class: ''
+    fold: '0.4'
+    ref_name: Cathcart21[^Cathcart21]
+  - variant: Gamma
+    rx_name: 2-17
     mab_class: NTD
     fold: '53'
-    reference: Wang21d[^Wang21d]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: 2-17
+    rx_name: 2-17
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21d*[^Wang21d]
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: 4-18
+    rx_name: 4-18
     mab_class: NTD
     fold: '95'
-    reference: Wang21d[^Wang21d]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: 4-18
+    rx_name: 4-18
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21d*[^Wang21d]
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: 4-8
+    rx_name: 4-8
     mab_class: NTD
     fold: '0.2'
-    reference: Wang21d[^Wang21d]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: 4-8
+    rx_name: 4-8
     mab_class: NTD
     fold: '0.6'
-    reference: Wang21d*[^Wang21d]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: 5-24
+    rx_name: 5-24
     mab_class: NTD
     fold: '1.3'
-    reference: Wang21d[^Wang21d]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: 5-24
+    rx_name: 5-24
     mab_class: NTD
     fold: '7.6'
-    reference: Wang21d*[^Wang21d]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: 5-7
+    rx_name: 5-7
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21d[^Wang21d]
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: 5-7
+    rx_name: 5-7
     mab_class: NTD
-    fold: '&gt;100'
-    reference: Wang21d*[^Wang21d]
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.2'
-    reference: Copin21[^Copin21]
+    ref_name: Copin21[^Copin21]
   - variant: Gamma
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.7'
-    reference: Hoffmann21[^Hoffmann21]
-  - variant: Gamma
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.2'
-    reference: Rothenberger21[^Rothenberger21]
-  - variant: Gamma
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '1.9'
-    reference: Tada21[^Tada21]
-  - variant: Gamma
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.5'
-    reference: Wang21d[^Wang21d]
-  - variant: Gamma
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.1'
-    reference: Wang21e[^Wang21e]
-  - variant: Gamma
-    rx: Imdevimab
-    mab_class: RBD Core Cluster I
-    fold: '0.3'
-    reference: Wang21f[^Wang21f]
-  - variant: Gamma
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.4'
-    reference: Dejnirattisai21*[^Dejnirattisai21]
+    ref_name: Dejnirattisai21[^Dejnirattisai21]
   - variant: Gamma
-    rx: Imdevimab
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.7'
+    ref_name: Hoffmann21[^Hoffmann21]
+  - variant: Gamma
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.2'
+    ref_name: Rothenberger21[^Rothenberger21]
+  - variant: Gamma
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '1.9'
+    ref_name: Tada21[^Tada21]
+  - variant: Gamma
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.5'
+    ref_name: Wang21d[^Wang21d]
+  - variant: Gamma
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1.8'
-    reference: Wang21d*[^Wang21d]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: Sotrovimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '1.3'
-    reference: Wang21d[^Wang21d]
+    fold: '0.1'
+    ref_name: Wang21e[^Wang21e]
   - variant: Gamma
-    rx: Sotrovimab
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.1'
+    ref_name: Wang21e[^Wang21e]
+  - variant: Gamma
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '0.3'
+    ref_name: Wang21f[^Wang21f]
+  - variant: Gamma
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.7'
-    reference: Wang21f[^Wang21f]
+    ref_name: Yao21[^Yao21]
   - variant: Gamma
-    rx: Sotrovimab
-    mab_class: RBD Core Cluster I
-    fold: '0.4'
-    reference: Cathcart21[^Cathcart21]
-  - variant: Gamma
-    rx: Sotrovimab
-    mab_class: RBD Core Cluster I
-    fold: '0.4'
-    reference: FDA21[^FDA21]
-  - variant: Gamma
-    rx: Sotrovimab
-    mab_class: RBD Core Cluster I
-    fold: '4'
-    reference: Chen21[^Chen21]
-  - variant: Gamma
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '1.9'
-    reference: Dejnirattisai21*[^Dejnirattisai21]
+    ref_name: Dejnirattisai21[^Dejnirattisai21]
   - variant: Gamma
-    rx: Sotrovimab
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '1.3'
+    ref_name: Wang21d[^Wang21d]
+  - variant: Gamma
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '0.5'
-    reference: Wang21d*[^Wang21d]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: Sotrovimab
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '0.7'
+    ref_name: Wang21f[^Wang21f]
+  - variant: Gamma
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '1.6'
-    reference: Cathcart21*[^Cathcart21]
+    ref_name: Cathcart21[^Cathcart21]
   - variant: Gamma
-    rx: Sotrovimab
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '0.4'
+    ref_name: Cathcart21[^Cathcart21]
+  - variant: Gamma
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '0.4'
+    ref_name: FDA21[^FDA21]
+  - variant: Gamma
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '1.6'
-    reference: FDA21*[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Gamma
-    rx: BRII-198
+    rx_name: Sotrovimab
+    mab_class: RBD Core Cluster I
+    fold: '4'
+    ref_name: Chen21[^Chen21]
+  - variant: Gamma
+    rx_name: BRII-198
     mab_class: RBD Core Cluster II
     fold: '0.7'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Gamma
-    rx: COVA1-16
+    rx_name: COVA1-16
     mab_class: RBD Core Cluster II
     fold: '0.2'
-    reference: Caniels21[^Caniels21]
+    ref_name: Caniels21[^Caniels21]
   - variant: Gamma
-    rx: 2-15
+    rx_name: 2-15
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21d[^Wang21d]
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: 2-15
+    rx_name: 2-15
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21d*[^Wang21d]
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: 2-7
+    rx_name: 2-7
     mab_class: RBM Class I
     fold: '0.7'
-    reference: Wang21d[^Wang21d]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: 2-7
+    rx_name: 2-7
     mab_class: RBM Class I
     fold: '0.4'
-    reference: Wang21d*[^Wang21d]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: BRII-196
+    rx_name: BRII-196
     mab_class: RBM Class I
     fold: '0.3'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Gamma
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '8.3'
-    reference: Rothenberger21[^Rothenberger21]
+    ref_name: Rothenberger21[^Rothenberger21]
   - variant: Gamma
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '8.3'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Gamma
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Copin21[^Copin21]
+    fold: '>100'
+    ref_name: Copin21[^Copin21]
   - variant: Gamma
-    rx: Casirivimab
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Dejnirattisai21[^Dejnirattisai21]
+  - variant: Gamma
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '16'
-    reference: Hoffmann21[^Hoffmann21]
+    ref_name: Hoffmann21[^Hoffmann21]
   - variant: Gamma
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Tada21[^Tada21]
+    fold: '>100'
+    ref_name: Tada21[^Tada21]
   - variant: Gamma
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21d[^Wang21d]
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21e[^Wang21e]
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Dejnirattisai21*[^Dejnirattisai21]
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
   - variant: Gamma
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21d*[^Wang21d]
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
   - variant: Gamma
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: FDA21*[^FDA21]
+    fold: '>100'
+    ref_name: Yao21[^Yao21]
   - variant: Gamma
-    rx: Etesevimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21d[^Wang21d]
+    fold: '>100'
+    ref_name: FDA21[^FDA21]
   - variant: Gamma
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21e[^Wang21e]
+    fold: '>100'
+    ref_name: Dejnirattisai21[^Dejnirattisai21]
   - variant: Gamma
-    rx: Etesevimab
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
+  - variant: Gamma
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
+  - variant: Gamma
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
+  - variant: Gamma
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
+  - variant: Gamma
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '49'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Gamma
-    rx: Etesevimab
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '50'
+    ref_name: Yao21[^Yao21]
+  - variant: Gamma
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '17'
-    reference: Zhang21c[^Zhang21c]
+    ref_name: Zhang21c[^Zhang21c]
   - variant: Gamma
-    rx: Etesevimab
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Dejnirattisai21*[^Dejnirattisai21]
-  - variant: Gamma
-    rx: Etesevimab
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Wang21d*[^Wang21d]
-  - variant: Gamma
-    rx: P22A-1D1
+    rx_name: P22A-1D1
     mab_class: RBM Class I
     fold: '74'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Gamma
-    rx: P5A-1D2
+    rx_name: P5A-1D2
     mab_class: RBM Class I
     fold: '43'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Gamma
-    rx: P5A-3C8
+    rx_name: P5A-3C8
     mab_class: RBM Class I
     fold: '47'
-    reference: Wang21f[^Wang21f]
+    ref_name: Wang21f[^Wang21f]
   - variant: Gamma
-    rx: Regdanvimab
+    rx_name: Regdanvimab
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Ryu21b[^Ryu21b]
+  - variant: Gamma
+    rx_name: Regdanvimab
     mab_class: RBM Class I
     fold: '61'
-    reference: Ryu21b[^Ryu21b]
+    ref_name: Ryu21b[^Ryu21b]
   - variant: Gamma
-    rx: Regdanvimab
-    mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Ryu21b*[^Ryu21b]
-  - variant: Gamma
-    rx: Tixagevimab
-    mab_class: RBM Class I
-    fold: '3.7'
-    reference: Wang21d[^Wang21d]
-  - variant: Gamma
-    rx: Tixagevimab
+    rx_name: Tixagevimab
     mab_class: RBM Class I
     fold: '1'
-    reference: Wang21d*[^Wang21d]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: Tixagevimab
+    rx_name: Tixagevimab
     mab_class: RBM Class I
     fold: '9.2'
-    reference: Dejnirattisai21*[^Dejnirattisai21]
+    ref_name: Dejnirattisai21[^Dejnirattisai21]
   - variant: Gamma
-    rx: 1-57
+    rx_name: Tixagevimab
+    mab_class: RBM Class I
+    fold: '3.7'
+    ref_name: Wang21d[^Wang21d]
+  - variant: Gamma
+    rx_name: 1-57
     mab_class: RBM Class II
     fold: '1.2'
-    reference: Wang21d[^Wang21d]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: 1-57
+    rx_name: 1-57
     mab_class: RBM Class II
     fold: '2.2'
-    reference: Wang21d*[^Wang21d]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: BD-368-2
+    rx_name: BD-368-2
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21f[^Wang21f]
+    fold: '>100'
+    ref_name: Wang21f[^Wang21f]
   - variant: Gamma
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Hoffmann21[^Hoffmann21]
+    fold: '>100'
+    ref_name: Dejnirattisai21[^Dejnirattisai21]
   - variant: Gamma
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21d[^Wang21d]
+    fold: '>100'
+    ref_name: Hoffmann21[^Hoffmann21]
   - variant: Gamma
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21e[^Wang21e]
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: FDA21[^FDA21]
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Dejnirattisai21*[^Dejnirattisai21]
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
   - variant: Gamma
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21d*[^Wang21d]
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
   - variant: Gamma
-    rx: C121
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21d[^Wang21d]
+    fold: '>100'
+    ref_name: Yao21[^Yao21]
   - variant: Gamma
-    rx: C121
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21d*[^Wang21d]
+    fold: '>100'
+    ref_name: FDA21[^FDA21]
   - variant: Gamma
-    rx: Cilgavimab
+    rx_name: C121
     mab_class: RBM Class II
-    fold: '0.4'
-    reference: Wang21d[^Wang21d]
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: Cilgavimab
+    rx_name: C121
+    mab_class: RBM Class II
+    fold: '>100'
+    ref_name: Wang21d[^Wang21d]
+  - variant: Gamma
+    rx_name: Cilgavimab
     mab_class: RBM Class II
     fold: '0.5'
-    reference: Dejnirattisai21*[^Dejnirattisai21]
+    ref_name: Dejnirattisai21[^Dejnirattisai21]
   - variant: Gamma
-    rx: Cilgavimab
-    mab_class: RBM Class II
-    fold: '0.5'
-    reference: Wang21d*[^Wang21d]
-  - variant: Gamma
-    rx: LY3853113
+    rx_name: Cilgavimab
     mab_class: RBM Class II
     fold: '0.4'
-    reference: Westendorf21[^Westendorf21]
+    ref_name: Wang21d[^Wang21d]
   - variant: Gamma
-    rx: LY3853113
+    rx_name: Cilgavimab
+    mab_class: RBM Class II
+    fold: '0.5'
+    ref_name: Wang21d[^Wang21d]
+  - variant: Gamma
+    rx_name: LY3853113
+    mab_class: RBM Class II
+    fold: '0.4'
+    ref_name: Westendorf21[^Westendorf21]
+  - variant: Gamma
+    rx_name: LY3853113
     mab_class: RBM Class II
     fold: '0.6'
-    reference: Westendorf21[^Westendorf21]
+    ref_name: Westendorf21[^Westendorf21]
   - variant: Gamma
-    rx: P5A-1B9
+    rx_name: P5A-1B9
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21f[^Wang21f]
+    fold: '>100'
+    ref_name: Wang21f[^Wang21f]
 - variant: Iota
   assays:
   - variant: Iota
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '30'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Iota
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '11'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Iota
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1.3'
-    reference: Zhou21c[^Zhou21c]
+    ref_name: Zhou21c[^Zhou21c]
   - variant: Iota
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Iota
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1.2'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '2.5'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.4'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Iota
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1.1'
-    reference: Zhou21c[^Zhou21c]
+    ref_name: Zhou21c[^Zhou21c]
   - variant: Iota
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '0.9'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '1'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '0.6'
-    reference: Cathcart21[^Cathcart21]
+    ref_name: Cathcart21[^Cathcart21]
   - variant: Iota
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '0.6'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Iota
-    rx: 2-15
+    rx_name: 2-15
     mab_class: RBM Class I
-    fold: '&gt;100'
-    reference: Annavajhala21b[^Annavajhala21b]
+    fold: '>100'
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: 2-7
+    rx_name: 2-15
+    mab_class: RBM Class I
+    fold: '>100'
+    ref_name: Annavajhala21b[^Annavajhala21b]
+  - variant: Iota
+    rx_name: 2-7
     mab_class: RBM Class I
     fold: '0.5'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: 2-7
+    rx_name: 2-7
     mab_class: RBM Class I
     fold: '4.2'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '9.4'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '9.3'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Iota
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '34'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '12'
-    reference: Zhou21c[^Zhou21c]
+    ref_name: Zhou21c[^Zhou21c]
   - variant: Iota
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '1.4'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '1.5'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '1.3'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Iota
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Iota
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '1.4'
-    reference: Zhang21c[^Zhang21c]
+    ref_name: Zhang21c[^Zhang21c]
   - variant: Iota
-    rx: Tixagevimab
+    rx_name: Tixagevimab
     mab_class: RBM Class I
     fold: '3.2'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Tixagevimab
+    rx_name: Tixagevimab
     mab_class: RBM Class I
     fold: '13'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: 1-57
+    rx_name: 1-57
     mab_class: RBM Class II
     fold: '9.1'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: 1-57
+    rx_name: 1-57
     mab_class: RBM Class II
     fold: '8.3'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Annavajhala21b[^Annavajhala21b]
+    fold: '>100'
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21e[^Wang21e]
+    fold: '>100'
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: FDA21[^FDA21]
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
   - variant: Iota
-    rx: C121
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Annavajhala21b[^Annavajhala21b]
+    fold: '>100'
+    ref_name: FDA21[^FDA21]
   - variant: Iota
-    rx: Cilgavimab
+    rx_name: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '>100'
+    ref_name: FDA21[^FDA21]
+  - variant: Iota
+    rx_name: C121
+    mab_class: RBM Class II
+    fold: '>100'
+    ref_name: Annavajhala21b[^Annavajhala21b]
+  - variant: Iota
+    rx_name: C121
+    mab_class: RBM Class II
+    fold: '>100'
+    ref_name: Annavajhala21b[^Annavajhala21b]
+  - variant: Iota
+    rx_name: Cilgavimab
     mab_class: RBM Class II
     fold: '0.8'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: Cilgavimab
+    rx_name: Cilgavimab
     mab_class: RBM Class II
     fold: '1'
-    reference: Annavajhala21b[^Annavajhala21b]
+    ref_name: Annavajhala21b[^Annavajhala21b]
   - variant: Iota
-    rx: LY3853113
+    rx_name: LY3853113
     mab_class: RBM Class II
     fold: '0.7'
-    reference: Westendorf21[^Westendorf21]
+    ref_name: Westendorf21[^Westendorf21]
 - variant: Kappa
   assays:
   - variant: Kappa
-    rx: ADG20
+    rx_name: ADG20
     mab_class: ''
     fold: '2.5'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
   - variant: Kappa
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '5'
-    reference: Hoffmann21c[^Hoffmann21c]
+    ref_name: Hoffmann21c[^Hoffmann21c]
   - variant: Kappa
-    rx: Bamlanivimab/Etesevimab
+    rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '6'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Kappa
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: Hoffmann21c[^Hoffmann21c]
+    ref_name: Hoffmann21c[^Hoffmann21c]
   - variant: Kappa
-    rx: Casirivimab/Imdevimab
+    rx_name: Casirivimab/Imdevimab
     mab_class: ''
     fold: '1'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Kappa
-    rx: Cilgavimab/Tixagevimab
+    rx_name: Casirivimab/Imdevimab
+    mab_class: ''
+    fold: '1'
+    ref_name: FDA21[^FDA21]
+  - variant: Kappa
+    rx_name: Cilgavimab/Tixagevimab
     mab_class: ''
     fold: '2'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
   - variant: Kappa
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1'
-    reference: Hoffmann21c[^Hoffmann21c]
+    ref_name: Hoffmann21c[^Hoffmann21c]
   - variant: Kappa
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '1.5'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
   - variant: Kappa
-    rx: Imdevimab
+    rx_name: Imdevimab
     mab_class: RBD Core Cluster I
     fold: '0.9'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Kappa
-    rx: Sotrovimab
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '2.1'
+    ref_name: Yao21[^Yao21]
+  - variant: Kappa
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '0.7'
-    reference: Cathcart21[^Cathcart21]
+    ref_name: Cathcart21[^Cathcart21]
   - variant: Kappa
-    rx: Sotrovimab
+    rx_name: Sotrovimab
     mab_class: RBD Core Cluster I
     fold: '0.7'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Kappa
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '4.1'
-    reference: Hoffmann21c[^Hoffmann21c]
+    ref_name: Hoffmann21c[^Hoffmann21c]
   - variant: Kappa
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '5'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
   - variant: Kappa
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '6'
-    reference: FDA21[^FDA21]
+    ref_name: FDA21[^FDA21]
   - variant: Kappa
-    rx: Casirivimab
+    rx_name: Casirivimab
     mab_class: RBM Class I
     fold: '13'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Kappa
-    rx: Etesevimab
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '14'
+    ref_name: Yao21[^Yao21]
+  - variant: Kappa
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '0.8'
-    reference: Hoffmann21c[^Hoffmann21c]
+    ref_name: Hoffmann21c[^Hoffmann21c]
   - variant: Kappa
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '0.4'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
   - variant: Kappa
-    rx: Etesevimab
+    rx_name: Etesevimab
     mab_class: RBM Class I
     fold: '1.4'
-    reference: Wang21e[^Wang21e]
+    ref_name: Wang21e[^Wang21e]
   - variant: Kappa
-    rx: Regdanvimab
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '1'
+    ref_name: Yao21[^Yao21]
+  - variant: Kappa
+    rx_name: Regdanvimab
     mab_class: RBM Class I
     fold: '24'
-    reference: Ryu21c[^Ryu21c]
+    ref_name: Ryu21b[^Ryu21b]
   - variant: Kappa
-    rx: Tixagevimab
+    rx_name: Tixagevimab
     mab_class: RBM Class I
     fold: '0.7'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]
   - variant: Kappa
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Hoffmann21c[^Hoffmann21c]
+    fold: '>100'
+    ref_name: Hoffmann21c[^Hoffmann21c]
   - variant: Kappa
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Liu21f[^Liu21f]
+    fold: '>100'
+    ref_name: Liu21f[^Liu21f]
   - variant: Kappa
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: Wang21e[^Wang21e]
+    fold: '>100'
+    ref_name: Wang21e[^Wang21e]
   - variant: Kappa
-    rx: Bamlanivimab
+    rx_name: Bamlanivimab
     mab_class: RBM Class II
-    fold: '&gt;100'
-    reference: FDA21[^FDA21]
+    fold: '>100'
+    ref_name: Yao21[^Yao21]
   - variant: Kappa
-    rx: Cilgavimab
+    rx_name: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '>100'
+    ref_name: FDA21[^FDA21]
+  - variant: Kappa
+    rx_name: Cilgavimab
     mab_class: RBM Class II
     fold: '4.7'
-    reference: Liu21f[^Liu21f]
+    ref_name: Liu21f[^Liu21f]

@@ -29,7 +29,7 @@ tables:
     - name: assays.median
       label: Median Fold
       multiCells: true
-    - name: assays.reference
+    - name: assays.ref_name
       label: "Reference"
       multiCells: true
     data:

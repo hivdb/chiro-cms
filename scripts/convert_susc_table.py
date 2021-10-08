@@ -17,9 +17,9 @@ def convert_susc_table(input_file, output_file):
 
         new_assays = []
         for rec in item.get('assays'):
-            refname = rec['reference']
+            refname = rec['ref_name']
             refID = refname.replace('*', '').replace('†', '')
-            rec['reference'] = "{}[^{}]".format(refname, refID)
+            rec['ref_name'] = "{}[^{}]".format(refname, refID)
             new_assays.append(rec)
         item['assays'] = new_assays
         result.append(item)

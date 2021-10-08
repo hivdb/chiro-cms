@@ -117,7 +117,7 @@ tables:
     - name: cp_studies
       # To add <br />, use two spaces at end-of-line
       label: "CP\nStudies\n(#)"
-    - name: cp_samples
+    - name: cp_num_fold
       label: "CP\nSamples\n(#)"
     - name: cp_s_fold
       label: "CP\n<3-fold (S)\n(%)"
@@ -139,7 +139,7 @@ tables:
     - name: vaccine.vp_studies
       label: "Vaccine\nStudies\n(#)"
       multiCells: true
-    - name: vaccine.vp_samples
+    - name: vaccine.vp_num_fold
       label: "Vaccine\nSamples\n(#)"
       multiCells: true
     - name: vaccine.vp_s_fold
