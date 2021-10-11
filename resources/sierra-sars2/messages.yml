@@ -78,23 +78,23 @@ ngs2codfreq-form-desc: |-
   then extracts codon frequency tables from the output SAM files.
 
 codfreq-example: |-
+  Example of a CodFreq file. Two additional columns "aminoAcid" and "percent"
+  are added to help understanding:
 
-  Minimal example of a CodFreq file:
-
-  | gene | position | totalReads | codon | reads |
-  |------|----------|------------|-------|-------|
-  | S    | 1        | 1247       | ATG   | 1226  |
-  | S    | 1        | 1247       | ATT   | 9     |
-  | S    | 1        | 1247       | CTG   | 4     |
-  | S    | 1        | 1247       | AGG   | 3     |
-  | S    | 1        | 1247       | TTG   | 3     |
-  | S    | 1        | 1247       | TTT   | 2     |
-  | S    | 2        | 1248       | TTT   | 1241  |
-  | S    | 2        | 1248       | TGT   | 3     |
-  | S    | 2        | 1248       | GTT   | 1     |
-  | S    | 2        | 1248       | TAT   | 1     |
-  | S    | 2        | 1248       | TTA   | 1     |
-  | S    | 2        | 1248       | TTG   | 1     |
+  | gene | position | totalReads | codon | reads | aminoAcid | percent |
+  |------|----------|------------|-------|-------|-----------|---------|
+  | S    | 500      | 8653       | ACT   | 8530  | T         | 98.6%   |
+  | S    | 500      | 8653       | ATT   | 103   | T         | 1.2%    |
+  | S    | 500      | 8653       | ACC   | 20    | T         | 0.2%    |
+  | S    | 501      | 8657       | AAT   | 5545  | N         | 64.1%   |
+  | S    | 501      | 8657       | TAT   | 2967  | N         | 34.3%   |
+  | S    | 501      | 8657       | CAT   | 87    | N         | 1.0%    |
+  | S    | 501      | 8657       | ACC   | 31    | N         | 0.4%    |
+  | S    | 501      | 8657       | ACT   | 27    | N         | 0.3%    |
+  | S    | 502      | 8653       | GGT   | 8449  | G         | 97.6%   |
+  | S    | 502      | 8653       | AGT   | 161   | G         | 1.9%    |
+  | S    | 502      | 8653       | GAT   | 26    | G         | 0.3%    |
+  | S    | 502      | 8653       | GAA   | 17    | G         | 0.2%    |
 
 seqreads-analysis-form-placeholder: >-
   Drag and drop CodFreq files
