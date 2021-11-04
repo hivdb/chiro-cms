@@ -359,11 +359,11 @@
   - variant: N439K
     rx: BNT162b2
     num_fold: 5
-    s_fold: 0
-    i_fold: 5
+    s_fold: 5
+    i_fold: 0
     r_fold: 0
     ref_name: Sahin21[^Sahin21]
-    median: 3.7
+    median: '1.9'
   - variant: N439K
     rx: BNT162b2
     num_fold: 4

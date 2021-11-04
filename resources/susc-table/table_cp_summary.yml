@@ -1,30 +1,30 @@
 - variant: Alpha
-  cp_studies: 53
-  cp_num_fold: 1750
+  cp_studies: 55
+  cp_num_fold: 1965
   cp_s_fold: 81%
-  cp_i_fold: 14%
-  cp_r_fold: 5%
-  cp_num_s_fold: 1411
-  cp_num_i_fold: 239
-  cp_num_r_fold: 100
+  cp_i_fold: 12%
+  cp_r_fold: 7%
+  cp_num_s_fold: 1588
+  cp_num_i_fold: 242
+  cp_num_r_fold: 135
 - variant: Beta
-  cp_studies: 57
-  cp_num_fold: 1908
-  cp_s_fold: 33%
-  cp_i_fold: 40%
+  cp_studies: 58
+  cp_num_fold: 2090
+  cp_s_fold: 31%
+  cp_i_fold: 42%
   cp_r_fold: 27%
-  cp_num_s_fold: 628
-  cp_num_i_fold: 767
-  cp_num_r_fold: 513
+  cp_num_s_fold: 651
+  cp_num_i_fold: 882
+  cp_num_r_fold: 557
 - variant: Gamma
-  cp_studies: 25
-  cp_num_fold: 717
-  cp_s_fold: 57%
-  cp_i_fold: 27%
-  cp_r_fold: 16%
-  cp_num_s_fold: 407
-  cp_num_i_fold: 197
-  cp_num_r_fold: 113
+  cp_studies: 27
+  cp_num_fold: 1055
+  cp_s_fold: 49%
+  cp_i_fold: 39%
+  cp_r_fold: 12%
+  cp_num_s_fold: 519
+  cp_num_i_fold: 409
+  cp_num_r_fold: 127
 - variant: Delta
   cp_studies: 12
   cp_num_fold: 356
@@ -37,12 +37,12 @@
 - variant: Iota
   cp_studies: 5
   cp_num_fold: 81
-  cp_s_fold: 49%
-  cp_i_fold: 46%
-  cp_r_fold: 5%
-  cp_num_s_fold: 40
-  cp_num_i_fold: 37
-  cp_num_r_fold: 4
+  cp_s_fold: 63%
+  cp_i_fold: 30%
+  cp_r_fold: 7%
+  cp_num_s_fold: 51
+  cp_num_i_fold: 24
+  cp_num_r_fold: 6
 - variant: Epsilon
   cp_studies: 7
   cp_num_fold: 106
