@@ -8,8 +8,18 @@
   - variant: Alpha
     rx_name: BRII-196/BRII-198
     mab_class: ''
+    fold: '2.5'
+    ref_name: Margolis21[^Margolis21]
+  - variant: Alpha
+    rx_name: BRII-196/BRII-198
+    mab_class: ''
     fold: '0.5'
     ref_name: Wang21b[^Wang21b]
+  - variant: Alpha
+    rx_name: BRII-196/BRII-198
+    mab_class: ''
+    fold: '2.5'
+    ref_name: Margolis21[^Margolis21]
   - variant: Alpha
     rx_name: BRII-196/BRII-198
     mab_class: ''
@@ -421,6 +431,21 @@
     fold: '14'
     ref_name: Shen21[^Shen21]
   - variant: Alpha
+    rx_name: BG1-22
+    mab_class: RBM Class I
+    fold: '0.7'
+    ref_name: Scheid21[^Scheid21]
+  - variant: Alpha
+    rx_name: BG10-19
+    mab_class: RBM Class I
+    fold: '0.5'
+    ref_name: Scheid21[^Scheid21]
+  - variant: Alpha
+    rx_name: BG4-25
+    mab_class: RBM Class I
+    fold: '1'
+    ref_name: Scheid21[^Scheid21]
+  - variant: Alpha
     rx_name: BRII-196
     mab_class: RBM Class I
     fold: '0.5'
@@ -661,6 +686,11 @@
     fold: '1.2'
     ref_name: Wang21f[^Wang21f]
   - variant: Alpha
+    rx_name: BG7-15
+    mab_class: RBM Class II
+    fold: '0.3'
+    ref_name: Scheid21[^Scheid21]
+  - variant: Alpha
     rx_name: Bamlanivimab
     mab_class: RBM Class II
     fold: '1'
@@ -805,8 +835,18 @@
   - variant: Beta
     rx_name: BRII-196/BRII-198
     mab_class: ''
+    fold: '2.5'
+    ref_name: Margolis21[^Margolis21]
+  - variant: Beta
+    rx_name: BRII-196/BRII-198
+    mab_class: ''
     fold: '0.8'
     ref_name: Wang21b[^Wang21b]
+  - variant: Beta
+    rx_name: BRII-196/BRII-198
+    mab_class: ''
+    fold: '2.5'
+    ref_name: Margolis21[^Margolis21]
   - variant: Beta
     rx_name: BRII-196/BRII-198
     mab_class: ''
@@ -1228,6 +1268,21 @@
     fold: '0.9'
     ref_name: Wang21b[^Wang21b]
   - variant: Beta
+    rx_name: BG1-22
+    mab_class: RBM Class I
+    fold: '15'
+    ref_name: Scheid21[^Scheid21]
+  - variant: Beta
+    rx_name: BG10-19
+    mab_class: RBM Class I
+    fold: '2'
+    ref_name: Scheid21[^Scheid21]
+  - variant: Beta
+    rx_name: BG4-25
+    mab_class: RBM Class I
+    fold: '15'
+    ref_name: Scheid21[^Scheid21]
+  - variant: Beta
     rx_name: BRII-196
     mab_class: RBM Class I
     fold: '0.6'
@@ -1493,6 +1548,11 @@
     fold: '>100'
     ref_name: Wang21f[^Wang21f]
   - variant: Beta
+    rx_name: BG7-15
+    mab_class: RBM Class II
+    fold: '0.7'
+    ref_name: Scheid21[^Scheid21]
+  - variant: Beta
     rx_name: Bamlanivimab
     mab_class: RBM Class II
     fold: '>100'
@@ -1635,6 +1695,11 @@
     fold: '1.5'
     ref_name: Liu21f[^Liu21f]
   - variant: Delta
+    rx_name: BRII-196/BRII-198
+    mab_class: ''
+    fold: '2.5'
+    ref_name: Margolis21[^Margolis21]
+  - variant: Delta
     rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '1'
@@ -1687,13 +1752,18 @@
   - variant: Delta
     rx_name: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '1.4'
-    ref_name: Mlcochova21[^Mlcochova21]
+    fold: '0.5'
+    ref_name: Arora21[^Arora21]
   - variant: Delta
     rx_name: Imdevimab
     mab_class: RBD Core Cluster I
-    fold: '0.5'
-    ref_name: Arora21[^Arora21]
+    fold: '1.5'
+    ref_name: Arora21b[^Arora21b]
+  - variant: Delta
+    rx_name: Imdevimab
+    mab_class: RBD Core Cluster I
+    fold: '1.4'
+    ref_name: Mlcochova21[^Mlcochova21]
   - variant: Delta
     rx_name: Imdevimab
     mab_class: RBD Core Cluster I
@@ -1757,6 +1827,16 @@
   - variant: Delta
     rx_name: Casirivimab
     mab_class: RBM Class I
+    fold: '0.7'
+    ref_name: Arora21[^Arora21]
+  - variant: Delta
+    rx_name: Casirivimab
+    mab_class: RBM Class I
+    fold: '0.5'
+    ref_name: Arora21b[^Arora21b]
+  - variant: Delta
+    rx_name: Casirivimab
+    mab_class: RBM Class I
     fold: '1.2'
     ref_name: Mlcochova21[^Mlcochova21]
   - variant: Delta
@@ -1764,11 +1844,6 @@
     mab_class: RBM Class I
     fold: '0.7'
     ref_name: Yao21[^Yao21]
-  - variant: Delta
-    rx_name: Casirivimab
-    mab_class: RBM Class I
-    fold: '0.7'
-    ref_name: Arora21[^Arora21]
   - variant: Delta
     rx_name: Casirivimab
     mab_class: RBM Class I
@@ -1802,6 +1877,16 @@
   - variant: Delta
     rx_name: Etesevimab
     mab_class: RBM Class I
+    fold: '0.6'
+    ref_name: Arora21[^Arora21]
+  - variant: Delta
+    rx_name: Etesevimab
+    mab_class: RBM Class I
+    fold: '0.2'
+    ref_name: Arora21b[^Arora21b]
+  - variant: Delta
+    rx_name: Etesevimab
+    mab_class: RBM Class I
     fold: '0.4'
     ref_name: Mlcochova21[^Mlcochova21]
   - variant: Delta
@@ -1809,11 +1894,6 @@
     mab_class: RBM Class I
     fold: '0.1'
     ref_name: Yao21[^Yao21]
-  - variant: Delta
-    rx_name: Etesevimab
-    mab_class: RBM Class I
-    fold: '0.6'
-    ref_name: Arora21[^Arora21]
   - variant: Delta
     rx_name: Regdanvimab
     mab_class: RBM Class I
@@ -1868,17 +1948,22 @@
     rx_name: Bamlanivimab
     mab_class: RBM Class II
     fold: '>100'
+    ref_name: Arora21[^Arora21]
+  - variant: Delta
+    rx_name: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '>100'
+    ref_name: Arora21b[^Arora21b]
+  - variant: Delta
+    rx_name: Bamlanivimab
+    mab_class: RBM Class II
+    fold: '>100'
     ref_name: Mlcochova21[^Mlcochova21]
   - variant: Delta
     rx_name: Bamlanivimab
     mab_class: RBM Class II
     fold: '>100'
     ref_name: Yao21[^Yao21]
-  - variant: Delta
-    rx_name: Bamlanivimab
-    mab_class: RBM Class II
-    fold: '>100'
-    ref_name: Arora21[^Arora21]
   - variant: Delta
     rx_name: Cilgavimab
     mab_class: RBM Class II
@@ -1896,6 +1981,11 @@
     ref_name: Mlcochova21[^Mlcochova21]
 - variant: Epsilon
   assays:
+  - variant: Epsilon
+    rx_name: BRII-196/BRII-198
+    mab_class: ''
+    fold: '2.5'
+    ref_name: Margolis21[^Margolis21]
   - variant: Epsilon
     rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
@@ -2073,6 +2163,11 @@
     mab_class: ''
     fold: '2.3'
     ref_name: Dejnirattisai21[^Dejnirattisai21]
+  - variant: Gamma
+    rx_name: BRII-196/BRII-198
+    mab_class: ''
+    fold: '2.5'
+    ref_name: Margolis21[^Margolis21]
   - variant: Gamma
     rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
@@ -2576,6 +2671,11 @@
 - variant: Iota
   assays:
   - variant: Iota
+    rx_name: BRII-196/BRII-198
+    mab_class: ''
+    fold: '2.5'
+    ref_name: Margolis21[^Margolis21]
+  - variant: Iota
     rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
     fold: '11'
@@ -2777,6 +2877,11 @@
     mab_class: ''
     fold: '2.5'
     ref_name: Liu21f[^Liu21f]
+  - variant: Kappa
+    rx_name: BRII-196/BRII-198
+    mab_class: ''
+    fold: '2.5'
+    ref_name: Margolis21[^Margolis21]
   - variant: Kappa
     rx_name: Bamlanivimab/Etesevimab
     mab_class: ''
