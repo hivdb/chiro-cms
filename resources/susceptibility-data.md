@@ -6,6 +6,7 @@
   - [Table 3: Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons](#table.3.virus.variants.and.spike.mutations.vs.plasma.from.vaccinated.persons)
   <!-- - [Table 4: Vaccine Efficacy at Preventing Symptomatic SARS-CoV-2 Infection With Variants](#table.4.vaccine.efficacy.at.preventing.symptomatic.sars-cov-2.infection.with.variants) -->
   <!-- - [Figure: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-data/figure/#figure.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons) -->
+  - [Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the four variants of concern (VOC): Alpha, Beta, Gamma, and Delta.](#figure.1.distribution.of.fold-reduction.in.susceptibilities.a.and.of.absolute.neutralizing.titers.b.of.vaccinee.plasma.vp.associated.with.eight.vaccines.to.the.four.variants.of.concern.voc.alpha.beta.gamma.and.delta.)
 - Individual study details
   - [Table S1: Neutralizing Sensitivity of Variants to Monoclonal Antibodies](/page/susceptibility-data/mab-variants/)
   - [Table S2: Neutralizing Sensitivity of Spike Mutations to Monoclonal Antibodies](/page/susceptibility-data/mab-mutations/)
@@ -90,6 +91,18 @@ table_ve
 - Coronovac efficacy against data against pre-variant isolates may include some persons infected with the VOC gamma and the VOI zeta. The test-negative case control study of vaccine efficacy against gamma was performed in persons 70 years or older.
 Abbreviations: Trial – post hoc analysis of clinical trial data; TNCC – test negative case control study
  -->
+
+
+### Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the four variants of concern (VOC): Alpha, Beta, Gamma, and Delta.
+
+<div class="figure-image">
+
+![fold titer 1 month](susceptibility-data/fold-titer.png#!maxHeight=35rem&marginLeft=0)
+
+
+The X axes indicate the Greek letter associated with each VOC. The Y axes indicate the number of neutralizing assays. The numbers above the stacked bars indicate the number of studies reporting the experimental results. The figure includes VP obtained solely from previously uninfected persons receiving a complete vaccination schedule.
+
+</div>
 
 <section>
 
