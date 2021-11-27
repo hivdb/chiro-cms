@@ -11,6 +11,7 @@
   - [Kappa variant, aka B.1.617.1](#kappa)
   - [Lambda variant, aka C.37, and B.1.1.1 sublineage in Peru and Chile](#lambda)
   - [Mu variant, aka B.1.621](#mu)
+  - [Omicron variant, aka B.1.1.529](#omicron)
   - [Other variants of interest](#other.variants.of.interest)
 - [SARS-COV-2 Variants Tracking sites](/page/mutation-compare/#sars-cov-2.variants.tracking.sites)
 [/toc]
@@ -873,6 +874,33 @@ b-1-621
 </div>
 
 </section>
+
+
+<!-- Omicron -->
+### Omicron
+<a id="sec_omicron" />
+
+<!-- B.1.1.529-->
+<section id="sec_b-1-1-529" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [B.1.1.529](#sec_b-1-1-529)
+
+[Outbreak.info B.1.1.529 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.1.529) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-1-529
+[/genomemap]
+
+</div>
+
+</section>
+
 
 ### Other variants of interest
 

@@ -112,6 +112,12 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/q-1.yml
     <<: *common-props
+  b-1-1-529:
+    name: b-1-1-529
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-529.yml
+    <<: *common-props
   b-1-525:
     name: b-1-525
     height: 250
