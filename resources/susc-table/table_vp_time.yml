@@ -1,0 +1,12 @@
+- char: "1 month"
+  num_ref: 129
+  num_fold: 20597
+- char: "2-3 months"
+  num_ref: 26
+  num_fold: 3387
+- char: "4-6 months"
+  num_ref: 13
+  num_fold: 1016
+- char: "&gt;6 months"
+  num_ref: 9
+  num_fold: 354

@@ -10,7 +10,7 @@ content:
 tables:
   table_mab_muts:
     tableScrollStyle:
-      max-height: none
+      maxHeight: none
     columnDefs:
     - name: variant
       label: Spike

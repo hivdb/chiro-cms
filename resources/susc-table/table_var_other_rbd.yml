@@ -1,0 +1,63 @@
+- var_name: "A.23.1 (E484K, V367F)"
+  num_ref: 3
+  num_fold: 27
+- var_name: "A.27 (L452R, N501Y)"
+  num_ref: 1
+  num_fold: 6
+- var_name: "A.30 (T478R, R346K, E484K)"
+  num_ref: 2
+  num_fold: 65
+- var_name: "B.1 (E484K, N501T)"
+  num_ref: 1
+  num_fold: 32
+- var_name: "B.1.1.141 (T385I)"
+  num_ref: 1
+  num_fold: 17
+- var_name: "B.1.1.241 (S477N)"
+  num_ref: 1
+  num_fold: 64
+- var_name: "B.1.1.298 (Y453F)"
+  num_ref: 7
+  num_fold: 195
+- var_name: "B.1.1.317 (S477N, A522S)"
+  num_ref: 1
+  num_fold: 14
+- var_name: "B.1.1.318 (E484K)"
+  num_ref: 1
+  num_fold: 25
+- var_name: "B.1.1.420 (N440K)"
+  num_ref: 1
+  num_fold: 12
+- var_name: "B.1.1.519 (T478K)"
+  num_ref: 3
+  num_fold: 32
+- var_name: "B.1.117.83 (L452R)"
+  num_ref: 1
+  num_fold: 12
+- var_name: "B.1.258 (N439K)"
+  num_ref: 1
+  num_fold: 24
+- var_name: "B.1.463 (F384L)"
+  num_ref: 1
+  num_fold: 220
+- var_name: "B.1.517 (N501T)"
+  num_ref: 1
+  num_fold: 32
+- var_name: "B.1.617.3 (L452R, E484Q)"
+  num_ref: 3
+  num_fold: 106
+- var_name: "B.1.618 (E484K)"
+  num_ref: 1
+  num_fold: 20
+- var_name: "B.1.619 (N440K, E484K"
+  num_ref: 1
+  num_fold: 1
+- var_name: "C.1.2 (E484K, N501Y)"
+  num_ref: 1
+  num_fold: 57
+- var_name: "R.1 (E484K)"
+  num_ref: 3
+  num_fold: 271
+- var_name: "R.2 (E484K)"
+  num_ref: 1
+  num_fold: 1

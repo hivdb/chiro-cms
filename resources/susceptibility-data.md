@@ -4,16 +4,11 @@
   - [Table 1: Virus Variants and Spike Mutations vs Monoclonal Antibodies](#table.1.virus.variants.and.spike.mutations.vs.monoclonal.antibodies)
   - [Table 2: Virus Variants and Spike Mutations vs Convalescent Plasma](#table.2.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons)
   - [Table 3: Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons](#table.3.virus.variants.and.spike.mutations.vs.plasma.from.vaccinated.persons)
+  - [Table 4: Variants of Concern, Variants of Interest, and Other Variants for which Neutralization Data are Available in CoV-RDB](#table.4.variants.of.concern.variants.of.interest.and.other.variants.for.which.neutralization.data.are.available.in.cov-rdb)
   <!-- - [Table 4: Vaccine Efficacy at Preventing Symptomatic SARS-CoV-2 Infection With Variants](#table.4.vaccine.efficacy.at.preventing.symptomatic.sars-cov-2.infection.with.variants) -->
   <!-- - [Figure: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-data/figure/#figure.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons) -->
   - [Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the four variants of concern (VOC): Alpha, Beta, Gamma, and Delta.](#figure.1.distribution.of.fold-reduction.in.susceptibilities.a.and.of.absolute.neutralizing.titers.b.of.vaccinee.plasma.vp.associated.with.eight.vaccines.to.the.four.variants.of.concern.voc.alpha.beta.gamma.and.delta.)
-- Individual study details
-  - [Table S1: Neutralizing Sensitivity of Variants to Monoclonal Antibodies](/page/susceptibility-data/mab-variants/)
-  - [Table S2: Neutralizing Sensitivity of Spike Mutations to Monoclonal Antibodies](/page/susceptibility-data/mab-mutations/)
-  - [Table S3: Neutralizing Sensitivity of Variants to Convalescent Plasma](/page/susceptibility-data/cp-variants/)
-  - [Table S4: Neutralizing Sensitivity of Spike Mutations to Convalescent Plasma](/page/susceptibility-data/cp-mutations/)
-  - [Table S5: Neutralizing Sensitivity of Variants to Plasma from Vaccinated Persons](/page/susceptibility-data/vp-variants/)
-  - [Table S6: Neutralizing Sensitivity of Spike Mutations to Plasma from Vaccinated Persons](/page/susceptibility-data/vp-mutations/)
+
 - [References](#references)
 
 [/toc]
@@ -22,13 +17,13 @@
 
 ### Table 1: Virus Variants and Spike Mutations vs Monoclonal Antibodies
 
-Fold reduced neutralizing susceptibility to monoclonal antibodies under Emergency Use Authorization(EUA)
+#### Fold reduced neutralizing susceptibility to monoclonal antibodies under Emergency Use Authorization(EUA)
 
 [table compact, lastCompact]
 table_mab
 [/table]
 
-Fold reduced neutralizing susceptibility to monoclonal antibodies in other clinical trials
+#### Fold reduced neutralizing susceptibility to monoclonal antibodies in other clinical trials
 
 [table compact,lastCompact]
 table_mab_non_eua
@@ -47,6 +42,8 @@ table_mab_non_eua
 - The color scheme indicates the fold-reduction in neutralization: <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #ffffff; color: black;">absence of color</span> – &lt;3-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #7fcbee; color: black;">light blue</span> – 3 to 9.9-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span> – ≥10-fold reduced susceptibility.
 
 
+***
+
 
 ### Table 2: Virus Variants and Spike Mutations vs Convalescent Plasma
 
@@ -64,6 +61,9 @@ table_cp
   - **Epsilon, B.1.427/9**: S13I, W152C, L452R, D614G.
   - **Kappa, B.1.617.1**: T95I, L452R, E484Q, D614G, P681R, Q1071H.
 
+***
+
+
 ### Table 3: Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons
 
 [table compact,lastCompact]
@@ -79,6 +79,7 @@ table_vp
   - **Epsilon, B.1.427/9**: S13I, W152C, L452R, D614G.
   - **Kappa, B.1.617.1**: T95I, L452R, E484Q, D614G, P681R, Q1071H.
 
+***
 <!-- ### Table 4: Vaccine Efficacy at Preventing Symptomatic SARS-CoV-2 Infection With Variants
 
 [table compact,lastCompact]
@@ -91,6 +92,129 @@ table_ve
 - Coronovac efficacy against data against pre-variant isolates may include some persons infected with the VOC gamma and the VOI zeta. The test-negative case control study of vaccine efficacy against gamma was performed in persons 70 years or older.
 Abbreviations: Trial – post hoc analysis of clinical trial data; TNCC – test negative case control study
  -->
+
+### Table 4: Variants of Concern, Variants of Interest, and Other Variants for which Neutralization Data are Available in CoV-RDB
+
+#### Variants of concern
+
+[table compact,lastCompact]
+table_variants_of_concern
+[/table]
+
+#### Variants of interest
+
+[table compact,lastCompact]
+table_variants_of_interest
+[/table]
+
+#### Other variants containing >=1 RBD mutation
+
+[table compact,lastCompact]
+table_variants_other_rbd
+[/table]
+
+The most common ancestral variants lacking immune escape mutations used as controls include A
+variants (n=3720), B variants (Wuhan consensus; n=19123), B.1 variants (Wuhan consensus + D614G; n=18299).
+
+***
+
+### Table 5: Individual SARS-CoV-2 Spike Mutations for which Data are Available in CoV-RDB
+
+#### Receptor-binding domain (RBD)
+
+[table compact,lastCompact]
+table_mut_rbd
+[/table]
+
+#### N-terminal domain (NTD)
+
+[table compact,lastCompact]
+table_mut_ntd
+[/table]
+
+#### C-terminal domain of S1 (CTD)
+
+[table compact,lastCompact]
+table_mut_ctd
+[/table]
+
+#### S2
+
+[table compact,lastCompact]
+table_mut_s2
+[/table]
+
+The most commonly studied mutation combinations that are not VOCs or VOIs included K417N+E484K+N501Y (n=19 studies; 569 results), E484K+N501Y (n=5 studies; 189 results), ∆69/70+N501Y (n=6 studies; 135 results), ∆69/70+Y453F (n=2 studies; 74 results), L452R+E484Q+P681R (n=3 studies; 55 results) K417N+N501Y (n=2 studies; 75 results), K417N+E484K (n=2 studies; 75 results), and L452R+E484Q (n=4 studies; 55 results)
+
+***
+
+
+### Table 3. Monoclonal Antibodies (mAbs) with Emergency Use Authorization (EUA) or in Advanced Clinical Trials
+
+[table compact,lastCompact]
+table_mab_detail
+[/table]
+
+RBM (receptor binding motif) is the part of the receptor binding domain (RBD) that contains the spike ACE2 binding residues. RBM class 1 mAbs bind epitopes dominated by ACE2-binding residues and as a result bind solely when the RBD is in the up/open position. RBM class 2 mAbs have a smaller ACE2-binding footprint and can often bind the RBD in down/closed position. RBD core mAbs target a surface accessible part of the RBD that is separate from the RBM. 2The publications and results include those describing both in vitro selection and neutralization experiments.
+
+***
+
+
+### Table 5. Numbers of Convalescent Plasma (CP) Neutralization Experiments in CoV-RDB According to the Infecting Virus, Time Since Infection, and SARS-CoV-2 Variant Tested
+
+#### Infecting virus
+
+[table compact,lastCompact]
+table_cp_infection
+[/table]
+
+#### Time since infection
+
+[table compact,lastCompact]
+table_cp_time
+[/table]
+
+#### Variant / mutations undergoing neutralization
+
+[table compact,lastCompact]
+table_cp_variant
+[/table]
+
+
+### Table 6. Numbers of Vaccinee Plasma (VP) Neutralization Experiments in CoV-RDB According to the Vaccine, History of Previous Infection, Time Since Infection, and SARS- CoV-2 Variant Tested
+
+#### Vaccine
+
+[table compact,lastCompact]
+table_vp_vaccine
+[/table]
+
+#### Previously SARS-CoV-2 infected
+
+[table compact,lastCompact]
+table_vp_infection
+[/table]
+
+#### Time since vaccination
+
+[table compact,lastCompact]
+table_vp_time
+[/table]
+
+#### Variant / mutations undergoing neutralization
+
+[table compact,lastCompact]
+table_vp_variant
+[/table]
+
+#### Number of vaccinations
+
+[table compact,lastCompact]
+table_vp_dosage
+[/table]
+
+
+The numbers of references and results obtained from persons receiving uncommonly studied vaccines or vaccine combinations are not shown.
 
 
 ### Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the four variants of concern (VOC): Alpha, Beta, Gamma, and Delta.

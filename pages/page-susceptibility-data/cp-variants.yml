@@ -10,7 +10,7 @@ content:
 tables:
   table_cp_variants:
     tableScrollStyle:
-      max-height: none
+      maxHeight: none
     columnDefs:
     - name: variant
       label: Spike

@@ -1,0 +1,54 @@
+- char: BNT162b2
+  num_ref: 98
+  num_fold: 13774
+- char: mRNA-1273
+  num_ref: 35
+  num_fold: 4463
+- char: CoronaVac
+  num_ref: 8
+  num_fold: 1526
+- char: AZD1222
+  num_ref: 17
+  num_fold: 1594
+- char: Ad26.COV2.S
+  num_ref: 9
+  num_fold: 1008
+- char: BBV152
+  num_ref: 5
+  num_fold: 449
+- char: BBV154
+  num_ref: 1
+  num_fold: 120
+- char: Sputnik V
+  num_ref: 3
+  num_fold: 408
+- char: BBIBP-CorV
+  num_ref: 2
+  num_fold: 111
+- char: NVX-CoV2373
+  num_ref: 2
+  num_fold: 148
+- char: AZD1222 + AZD2816
+  num_ref: 1
+  num_fold: 59
+- char: AZD1222 + BNT162b2
+  num_ref: 4
+  num_fold: 315
+- char: AZD1222 + mRNA-1273
+  num_ref: 1
+  num_fold: 48
+- char: AZD2816
+  num_ref: 1
+  num_fold: 20
+- char: INO-4800
+  num_ref: 1
+  num_fold: 39
+- char: MVC-COV1901
+  num_ref: 1
+  num_fold: 342
+- char: ZF2001
+  num_ref: 2
+  num_fold: 56
+- char: mRNA-1273 + mRNA-1273.351
+  num_ref: 1
+  num_fold: 37

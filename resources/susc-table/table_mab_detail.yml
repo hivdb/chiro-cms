@@ -1,0 +1,84 @@
+- mab: Bamlanivimab
+  num_ref: 20
+  num_fold: 146
+  avail: EUA
+  class: RBM Class II
+  pdb: 7KMG
+  institute: Eli Lilly
+- mab: Etesevimab
+  num_ref: 23
+  num_fold: 283
+  avail: EUA
+  class: RBM Class I
+  pdb: 7C01
+  institute: Eli Lilly
+- mab: Casirivimab
+  num_ref: 33
+  num_fold: 347
+  avail: EUA
+  class: RBM Class I
+  pdb: 6XDG
+  institute: Regeneron
+- mab: Imdevimab
+  num_ref: 33
+  num_fold: 346
+  avail: EUA
+  class: RBD Core Cluster I
+  pdb: 6XDG
+  institute: Regeneron
+- mab: Sotrovimab
+  num_ref: 16
+  num_fold: 207
+  avail: EUA
+  class: RBD Core Cluster I
+  pdb: 6WPS
+  institute: Vir Biotechnol / GlaxoSmithKline
+- mab: Cilgavimab
+  num_ref: 11
+  num_fold: 52
+  avail: Completed phase III
+  class: RBM Class II
+  pdb: 7L7E
+  institute: AstraZeneca / Vanderbilt
+- mab: Tixagevimab
+  num_ref: 10
+  num_fold: 48
+  avail: Completed phase III
+  class: RBM Class I
+  pdb: 7L7E
+  institute: AstraZeneca / Vanderbilt
+- mab: BRII-196
+  num_ref: 5
+  num_fold: 157
+  avail: Completed phase III
+  class: RBM Class I
+  pdb: 7CDI
+  institute: BRII Biosciences
+- mab: BRII-198
+  num_ref: 3
+  num_fold: 58
+  avail: Completed phase III
+  class: RBD Core Cluster II
+  pdb: ''
+  institute: BRII Biosciences
+- mab: Regdanvimab
+  num_ref: 4
+  num_fold: 20
+  avail: Phase III
+  class: RBM Class I
+  pdb: 7CM4
+  institute: Celltrion
+- mab: C135
+  num_ref: 4
+  num_fold: 105
+  avail: Phase III
+  class: RBD Core Cluster I
+  pdb: 7K8Z
+  institute: Rockefeller University / Roche
+- mab: C144
+  num_ref: 4
+  num_fold: 138
+  avail: Phase III
+  class: RBM Class III
+  pdb: 7K90
+  institute: Rockefeller University / Roche
