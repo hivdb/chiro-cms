@@ -2,12 +2,17 @@
 
 - [Summaries](#summaries)
   - [Table 1: Virus Variants and Spike Mutations vs Monoclonal Antibodies](#table.1.virus.variants.and.spike.mutations.vs.monoclonal.antibodies)
-  - [Table 2: Virus Variants and Spike Mutations vs Convalescent Plasma](#table.2.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons)
+  - [Table 2: Virus Variants and Spike Mutations vs Convalescent Plasma](#table.2.virus.variants.and.spike.mutations.vs.convalescent.plasma)
   - [Table 3: Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons](#table.3.virus.variants.and.spike.mutations.vs.plasma.from.vaccinated.persons)
   - [Table 4: Variants of Concern, Variants of Interest, and Other Variants for which Neutralization Data are Available in CoV-RDB](#table.4.variants.of.concern.variants.of.interest.and.other.variants.for.which.neutralization.data.are.available.in.cov-rdb)
+  - [Table 5: Individual SARS-CoV-2 Spike Mutations for which Data are Available in CoV-RDB Receptor-binding domain (RBD)](#table.5.individual.sars-cov-2.spike.mutations.for.which.data.are.available.in.cov-rdb)
+  - [Table 6. Monoclonal Antibodies (mAbs) with Emergency Use Authorization (EUA) or in Advanced Clinical Trials](#table.6.monoclonal.antibodies.mabs.with.emergency.use.authorization.eua.or.in.advanced.clinical.trials)
+  - [Table 7. Numbers of Convalescent Plasma (CP) Neutralization Experiments in CoV-RDB According to the Infecting Virus, Time Since Infection, and SARS-CoV-2 Variant Tested](#table.7.numbers.of.convalescent.plasma.cp.neutralization.experiments.in.cov-rdb.according.to.the.infecting.virus.time.since.infection.and.sars-cov-2.variant.tested)
+  - [Table 8. Numbers of Vaccinee Plasma (VP) Neutralization Experiments in CoV-RDB According to the Vaccine, History of Previous Infection, Time Since Infection, and SARS- CoV-2 Variant Tested](#table.8.numbers.of.vaccinee.plasma.vp.neutralization.experiments.in.cov-rdb.according.to.the.vaccine.history.of.previous.infection.time.since.infection.and.sars-.cov-2.variant.tested)
   <!-- - [Table 4: Vaccine Efficacy at Preventing Symptomatic SARS-CoV-2 Infection With Variants](#table.4.vaccine.efficacy.at.preventing.symptomatic.sars-cov-2.infection.with.variants) -->
   <!-- - [Figure: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-data/figure/#figure.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons) -->
   - [Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the four variants of concern (VOC): Alpha, Beta, Gamma, and Delta.](#figure.1.distribution.of.fold-reduction.in.susceptibilities.a.and.of.absolute.neutralizing.titers.b.of.vaccinee.plasma.vp.associated.with.eight.vaccines.to.the.four.variants.of.concern.voc.alpha.beta.gamma.and.delta.)
+  - [Figure 2: Monoclonal antibodies (mAbs) with EUAs or in advanced clinical development: receptor binding domain (RBD) epitopes and immune escape positions.](#figure.2.monoclonal.antibodies.mabs.with.euas.or.in.advanced.clinical.development.receptor.binding.domain.rbd.epitopes.and.immune.escape.positions.)
 
 - [References](#references)
 
@@ -149,7 +154,7 @@ The most commonly studied mutation combinations that are not VOCs or VOIs includ
 ***
 
 
-### Table 3. Monoclonal Antibodies (mAbs) with Emergency Use Authorization (EUA) or in Advanced Clinical Trials
+### Table 6. Monoclonal Antibodies (mAbs) with Emergency Use Authorization (EUA) or in Advanced Clinical Trials
 
 [table compact,lastCompact]
 table_mab_detail
@@ -160,7 +165,7 @@ RBM (receptor binding motif) is the part of the receptor binding domain (RBD) th
 ***
 
 
-### Table 5. Numbers of Convalescent Plasma (CP) Neutralization Experiments in CoV-RDB According to the Infecting Virus, Time Since Infection, and SARS-CoV-2 Variant Tested
+### Table 7. Numbers of Convalescent Plasma (CP) Neutralization Experiments in CoV-RDB According to the Infecting Virus, Time Since Infection, and SARS-CoV-2 Variant Tested
 
 #### Infecting virus
 
@@ -180,8 +185,10 @@ table_cp_time
 table_cp_variant
 [/table]
 
+***
 
-### Table 6. Numbers of Vaccinee Plasma (VP) Neutralization Experiments in CoV-RDB According to the Vaccine, History of Previous Infection, Time Since Infection, and SARS- CoV-2 Variant Tested
+
+### Table 8. Numbers of Vaccinee Plasma (VP) Neutralization Experiments in CoV-RDB According to the Vaccine, History of Previous Infection, Time Since Infection, and SARS- CoV-2 Variant Tested
 
 #### Vaccine
 
@@ -216,6 +223,7 @@ table_vp_dosage
 
 The numbers of references and results obtained from persons receiving uncommonly studied vaccines or vaccine combinations are not shown.
 
+***
 
 ### Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the four variants of concern (VOC): Alpha, Beta, Gamma, and Delta.
 
@@ -227,6 +235,20 @@ The numbers of references and results obtained from persons receiving uncommonly
 The X axes indicate the Greek letter associated with each VOC. The Y axes indicate the number of neutralizing assays. The numbers above the stacked bars indicate the number of studies reporting the experimental results. The figure includes VP obtained solely from previously uninfected persons receiving a complete vaccination schedule.
 
 </div>
+
+***
+
+### Figure 2: Monoclonal antibodies (mAbs) with EUAs or in advanced clinical development: receptor binding domain (RBD) epitopes and immune escape positions.
+
+<div class="figure-image">
+
+![mab](susceptibility-data/mab.png#!maxHeight=50rem&marginLeft=0)
+
+
+For each mAb, the top of the RBD and two side views are depicted using coordinates from PDB 6M0J. ACE2 binding residues are shown in red; the mAb epitope defined as those residues within 4.5 angstroms of the RBD is shown in dark blue; and ACE2 binding residues within the mAb epitope are shown in purple. Those positions containing mutations that were either selected by the mAb in vitro (“SEL”), reduced binding in a deep mutational scanning assay (“DMS”), and/or reduced in vitro neutralizing susceptibility by a median of 4-fold in CoV-RDB (drug resistance; “DR”) are also indicated. The mAb epitopes for BAM (bamlanivimab), ETE (etesevimab), CAS (casirivimab), IMD (imdevimab), SOT (sotrovirmab), CIL (cilgavimab) and TIX (tixagevimab) were determined from their PDB structures.
+
+</div>
+
 
 <section>
 
