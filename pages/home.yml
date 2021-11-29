@@ -29,6 +29,20 @@ projectSections:
     displayTitle: true
     items:
     - title: >-
+        <div style="font-size:1rem;line-height:1.5rem;">
+        Coronavirus Resistance Database (CoV-RDB): SARS-CoV-2 susceptibility to
+        monoclonal antibodies, convalescent plasma, and plasma from
+        vaccinated persons
+        </div>
+      link: https://www.biorxiv.org/content/10.1101/2021.11.24.469823
+      extLink: true
+      description: >-
+        Tzou PL, Tao KM, et int., and Shafer R
+        <div style="font-size:1rem;color:rgba(0,0,0,.4);">
+        *BioRxiv*, 2021
+        </div>
+      image: home/pub-drdbpaper.png
+    - title: >-
         <div style="font-size:1.2rem;line-height:1.5rem;">
         The biological and clinical significance of emerging SARS-CoV-2
         variants
