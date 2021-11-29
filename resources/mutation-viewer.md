@@ -6,12 +6,12 @@
   - [Beta, aka B.1.351, 501Y.V2, 20C/501Y.V2, and South African COVID-19 variant](#beta)
   - [Gamma, aka P.1, B.1.1.28.1, 20J/501Y.V3, and K417T/E484K/N501Y](#gamma)
   - [Delta, aka B.1.617.2](#delta)
+  - [Omicron variant, aka B.1.1.529](#omicron)
   - [Eta variant, aka B.1.525](#eta)
   - [Iota variant, aka B.1.526](#iota)
   - [Kappa variant, aka B.1.617.1](#kappa)
   - [Lambda variant, aka C.37, and B.1.1.1 sublineage in Peru and Chile](#lambda)
   - [Mu variant, aka B.1.621](#mu)
-  - [Omicron variant, aka B.1.1.529](#omicron)
   - [Other variants of interest](#other.variants.of.interest)
 - [SARS-COV-2 Variants Tracking sites](/page/mutation-compare/#sars-cov-2.variants.tracking.sites)
 [/toc]
@@ -750,6 +750,32 @@ ay-12
 
 </section>
 
+<!-- Omicron -->
+### Omicron
+<a id="sec_omicron" />
+
+<!-- B.1.1.529-->
+<section id="sec_b-1-1-529" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [B.1.1.529](#sec_b-1-1-529)
+
+[Outbreak.info B.1.1.529 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.1.529) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+b-1-1-529
+[/genomemap]
+
+</div>
+
+</section>
+
+
 <!-- Eta -->
 ### Eta
 <a id="sec_eta" />
@@ -869,32 +895,6 @@ c-37
 
 [genomemap]
 b-1-621
-[/genomemap]
-
-</div>
-
-</section>
-
-
-<!-- Omicron -->
-### Omicron
-<a id="sec_omicron" />
-
-<!-- B.1.1.529-->
-<section id="sec_b-1-1-529" class="figure-section compact">
-
-<div class="figure-caption">
-
-#### [B.1.1.529](#sec_b-1-1-529)
-
-[Outbreak.info B.1.1.529 Lineage Report](https://outbreak.info/situation-reports?pango=B.1.1.529) [^Outbreak20]
-
-</div>
-
-<div class="figure-image" style="min-width: 61.8%;">
-
-[genomemap]
-b-1-1-529
 [/genomemap]
 
 </div>
