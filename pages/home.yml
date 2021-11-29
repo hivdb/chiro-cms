@@ -80,8 +80,10 @@ projectSections:
       link: https://www.jstage.jst.go.jp/article/ghm/advpub/0/advpub_2020.01082/_article
       image: home/pub-editorial.png
     - title: >-
-        <div style="font-size:1.6rem;line-height:1.9rem;">
-        Coronavirus Antiviral Research Database
+        <div style="font-size:1rem;line-height:1.2rem;">
+        Coronavirus Antiviral Research Database (CoV-RDB): An Online Database
+        Designed to Facilitate Comparisons between Candidate Anti-Coronavirus
+        Compounds
         </div>
       extLink: true
       description: >-
