@@ -3,26 +3,26 @@ positions:
 - <<: &non-spike
     stroke: '#e0e0e0'
     color: '#a0a0a0'
-  name: nsp3:K38R
+  name: PLpro:K38R
   pos: 2831
 - <<: *non-spike
-  name: nsp3:V1069I
+  name: PLpro:V1069I
   pos: 5924
 - <<: *non-spike
-  name: nsp3:del1265
+  name: PLpro:del1265
   pos: 6512
-  label: nsp3:Δ1265
+  label: PLpro:Δ1265
 - <<: *non-spike
-  name: nsp3:L1266I
+  name: PLpro:L1266I
   pos: 6515
 - <<: *non-spike
-  name: nsp3:A1892T
+  name: PLpro:A1892T
   pos: 8393
 - <<: *non-spike
   name: nsp4:T492I
   pos: 10028
 - <<: *non-spike
-  name: nsp5:P132H
+  name: 3CLpro:P132H
   pos: 10448
 - <<: *non-spike
   name: nsp6:del105-107
@@ -32,7 +32,7 @@ positions:
   name: nsp6:A189V
   pos: 11537
 - <<: *non-spike
-  name: nsp12:P323L
+  name: RdRp:P323L
   pos: 14408
 - <<: *non-spike
   name: nsp14:I42V
@@ -76,7 +76,7 @@ positions:
   pos: 22994
 - name: E484A
   pos: 23012
-- name: Q493K
+- name: Q493R
   pos: 23039
 - name: G496S
   pos: 23048
