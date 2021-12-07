@@ -9,6 +9,7 @@
   - [Table 6. Monoclonal Antibodies (mAbs) with Emergency Use Authorization (EUA) or in Advanced Clinical Trials](#table.6.monoclonal.antibodies.mabs.with.emergency.use.authorization.eua.or.in.advanced.clinical.trials)
   - [Table 7. Numbers of Convalescent Plasma (CP) Neutralization Experiments in CoV-RDB According to the Infecting Virus, Time Since Infection, and SARS-CoV-2 Variant Tested](#table.7.numbers.of.convalescent.plasma.cp.neutralization.experiments.in.cov-rdb.according.to.the.infecting.virus.time.since.infection.and.sars-cov-2.variant.tested)
   - [Table 8. Numbers of Vaccinee Plasma (VP) Neutralization Experiments in CoV-RDB According to the Vaccine, History of Previous Infection, Time Since Infection, and SARS- CoV-2 Variant Tested](#table.8.numbers.of.vaccinee.plasma.vp.neutralization.experiments.in.cov-rdb.according.to.the.vaccine.history.of.previous.infection.time.since.infection.and.sars-.cov-2.variant.tested)
+  - [Table9: Omicron mutations DMS Score](#table9.omicron.mutations.dms.score)
   <!-- - [Table 4: Vaccine Efficacy at Preventing Symptomatic SARS-CoV-2 Infection With Variants](#table.4.vaccine.efficacy.at.preventing.symptomatic.sars-cov-2.infection.with.variants) -->
   <!-- - [Figure: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-data/figure/#figure.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons) -->
   - [Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the four variants of concern (VOC): Alpha, Beta, Gamma, and Delta.](#figure.1.distribution.of.fold-reduction.in.susceptibilities.a.and.of.absolute.neutralizing.titers.b.of.vaccinee.plasma.vp.associated.with.eight.vaccines.to.the.four.variants.of.concern.voc.alpha.beta.gamma.and.delta.)
@@ -225,13 +226,13 @@ The numbers of references and results obtained from persons receiving uncommonly
 
 ***
 
-<!-- ## Table9: Omicron mutations DMS Score
+## Table9: Omicron mutations DMS Score
 
 [table compact,lastCompact]
 table_omicron_dms
 [/table]
 
-*** -->
+***
 
 ### Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the four variants of concern (VOC): Alpha, Beta, Gamma, and Delta.
 

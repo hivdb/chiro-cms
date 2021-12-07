@@ -382,27 +382,39 @@ tables:
       label: AA
     - name: Bamlanivimab
       label: BAM
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData >= 0.1 ? 'background-color:#146aa8;color:white' : ''} \"> ${cellData} </span>"
     - name: Etesevimab
       label: ETE
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData >= 0.1 ? 'background-color:#146aa8;color:white' : ''} \"> ${cellData} </span>"
     - name: Bamlanivimab/Etesevimab
       label: BAM/ETE
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData >= 0.1 ? 'background-color:#146aa8;color:white' : ''} \"> ${cellData} </span>"
     - name: Casirivimab
       label: CAS
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData >= 0.1 ? 'background-color:#146aa8;color:white' : ''} \"> ${cellData} </span>"
     - name: Imdevimab
       label: IMD
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData >= 0.1 ? 'background-color:#146aa8;color:white' : ''} \"> ${cellData} </span>"
     - name: Casirivimab/Imdevimab
       label: CAS/IMD
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData >= 0.1 ? 'background-color:#146aa8;color:white' : ''} \"> ${cellData} </span>"
     - name: Cilgavimab
       label: CIL
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData >= 0.1 ? 'background-color:#146aa8;color:white' : ''} \"> ${cellData} </span>"
     - name: Tixagevimab
       label: TIX
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData >= 0.1 ? 'background-color:#146aa8;color:white' : ''} \"> ${cellData} </span>"
     - name: Cilgavimab/Tixagevimab
       label: CIL/TIX
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData >= 0.1 ? 'background-color:#146aa8;color:white' : ''} \"> ${cellData} </span>"
     - name: Sotrovimab
       label: SOT
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData >= 0.1 ? 'background-color:#146aa8;color:white' : ''} \"> ${cellData} </span>"
     - name: C135
       label: C135
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData >= 0.1 ? 'background-color:#146aa8;color:white' : ''} \"> ${cellData} </span>"
     - name: C144
       label: C144
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData >= 0.1 ? 'background-color:#146aa8;color:white' : ''} \"> ${cellData} </span>"
     data:
       _resource: susc-table/table_omicron_dms.yml
