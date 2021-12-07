@@ -225,6 +225,14 @@ The numbers of references and results obtained from persons receiving uncommonly
 
 ***
 
+<!-- ## Table9: Omicron mutations DMS Score
+
+[table compact,lastCompact]
+table_omicron_dms
+[/table]
+
+*** -->
+
 ### Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the four variants of concern (VOC): Alpha, Beta, Gamma, and Delta.
 
 <div class="figure-image">

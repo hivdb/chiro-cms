@@ -370,3 +370,39 @@ tables:
       label: Results
     data:
       _resource: susc-table/table_vp_dosage.yml
+  table_omicron_dms:
+    tableScrollStyle:
+      maxHeight: none
+    columnDefs:
+    - name: ref_aa
+      label: Ref
+    - name: pos
+      label: Pos
+    - name: mut_aa
+      label: AA
+    - name: Bamlanivimab
+      label: BAM
+    - name: Etesevimab
+      label: ETE
+    - name: Bamlanivimab/Etesevimab
+      label: BAM/ETE
+    - name: Casirivimab
+      label: CAS
+    - name: Imdevimab
+      label: IMD
+    - name: Casirivimab/Imdevimab
+      label: CAS/IMD
+    - name: Cilgavimab
+      label: CIL
+    - name: Tixagevimab
+      label: TIX
+    - name: Cilgavimab/Tixagevimab
+      label: CIL/TIX
+    - name: Sotrovimab
+      label: SOT
+    - name: C135
+      label: C135
+    - name: C144
+      label: C144
+    data:
+      _resource: susc-table/table_omicron_dms.yml
