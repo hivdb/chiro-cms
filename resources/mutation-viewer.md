@@ -6,7 +6,7 @@
   - [Beta, aka B.1.351, 501Y.V2, 20C/501Y.V2, and South African COVID-19 variant](#beta)
   - [Gamma, aka P.1, B.1.1.28.1, 20J/501Y.V3, and K417T/E484K/N501Y](#gamma)
   - [Delta, aka B.1.617.2](#delta)
-  - [Omicron variant, aka B.1.1.529](#omicron)
+  - [Omicron, aka B.1.1.529](#omicron)
   - [Eta variant, aka B.1.525](#eta)
   - [Iota variant, aka B.1.526](#iota)
   - [Kappa variant, aka B.1.617.1](#kappa)
@@ -755,7 +755,7 @@ ay-12
 <a id="sec_omicron" />
 
 <!-- B.1.1.529-->
-<section id="sec_b-1-1-529" class="figure-section compact">
+<!-- <section id="sec_b-1-1-529" class="figure-section compact">
 
 <div class="figure-caption">
 
@@ -769,6 +769,54 @@ ay-12
 
 [genomemap]
 b-1-1-529
+[/genomemap]
+
+</div>
+
+</section> -->
+
+
+<!-- BA.1-->
+<section id="sec_ba-1" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [BA.1](#sec_ba-1)
+
+Mutations are from [Pango-designation issue #361](https://github.com/cov-lineages/pango-designation/issues/361)
+
+[Outbreak.info BA.1 Lineage Report](https://outbreak.info/situation-reports?pango=BA.1) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ba-1
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- BA.2-->
+<section id="sec_ba-2" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [BA.2](#sec_ba-2)
+
+Mutations are from [Pango-designation issue #361](https://github.com/cov-lineages/pango-designation/issues/361)
+
+[Outbreak.info BA.2 Lineage Report](https://outbreak.info/situation-reports?pango=BA.2) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ba-2
 [/genomemap]
 
 </div>
