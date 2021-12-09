@@ -483,6 +483,17 @@
     vp_num_s_fold: 0
     vp_num_i_fold: 20
     vp_num_r_fold: 0
+- variant: Omicron
+  vaccine:
+  - name: BNT162b2
+    vp_studies: 1
+    vp_num_fold: 14
+    vp_s_fold: 0
+    vp_i_fold: 0
+    vp_r_fold: 100%
+    vp_num_s_fold: 0
+    vp_num_i_fold: 0
+    vp_num_r_fold: 14
 - variant: Iota
   vaccine:
   - name: BNT162b2
