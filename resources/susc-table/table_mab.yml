@@ -73,6 +73,10 @@
     fold: '2.8'
     fold_cmp: ''
     num: 2
+  DXP604:
+    fold: '0.7'
+    fold_cmp: ''
+    num: 1
 - variant: Beta
   cas:
     fold: '70'
@@ -148,6 +152,10 @@
     fold: '0.9'
     fold_cmp: ''
     num: 2
+  DXP604:
+    fold: '6.5'
+    fold_cmp: ''
+    num: 1
 - variant: Gamma
   cas:
     fold: '100'
@@ -221,6 +229,10 @@
     fold: '0.8'
     fold_cmp: ''
     num: 2
+  DXP604:
+    fold: '0.5'
+    fold_cmp: ''
+    num: 1
 - variant: Delta
   cas:
     fold: '0.8'
@@ -292,6 +304,10 @@
     fold: '0.5'
     fold_cmp: ''
     num: 1
+  DXP604:
+    fold: '1.6'
+    fold_cmp: ''
+    num: 1
 - variant: Omicron
   cas:
     fold: '100'
@@ -351,6 +367,10 @@
     fold: '-'
   Vir7832:
     fold: '-'
+  DXP604:
+    fold: '29'
+    fold_cmp: ''
+    num: 1
 - variant: Iota
   cas:
     fold: '11'
@@ -412,6 +432,8 @@
     fold: '-'
   Vir7832:
     fold: '-'
+  DXP604:
+    fold: '-'
 - variant: Epsilon
   cas:
     fold: '1.3'
@@ -472,6 +494,8 @@
   ADG20:
     fold: '-'
   Vir7832:
+    fold: '-'
+  DXP604:
     fold: '-'
 - variant: Kappa
   cas:
@@ -542,6 +566,8 @@
     fold: '1'
     fold_cmp: ''
     num: 1
+  DXP604:
+    fold: '-'
 - variant: N501Y
   cas:
     fold: '1'
@@ -617,6 +643,8 @@
     fold: '-'
   Vir7832:
     fold: '-'
+  DXP604:
+    fold: '-'
 - variant: E484K
   cas:
     fold: '13'
@@ -690,6 +718,8 @@
     fold: '-'
   Vir7832:
     fold: '-'
+  DXP604:
+    fold: '-'
 - variant: K417N
   cas:
     fold: '10'
@@ -761,6 +791,8 @@
     fold: '-'
   Vir7832:
     fold: '-'
+  DXP604:
+    fold: '-'
 - variant: L452R
   cas:
     fold: '1'
@@ -824,6 +856,8 @@
     fold: '-'
   Vir7832:
     fold: '-'
+  DXP604:
+    fold: '-'
 - variant: T478K
   cas:
     fold: '2.9'
@@ -882,6 +916,8 @@
   ADG20:
     fold: '-'
   Vir7832:
+    fold: '-'
+  DXP604:
     fold: '-'
 - variant: N439K
   cas:
@@ -946,6 +982,8 @@
     fold: '-'
   Vir7832:
     fold: '-'
+  DXP604:
+    fold: '-'
 - variant: Y453F
   cas:
     fold: '100'
@@ -1006,6 +1044,8 @@
   ADG20:
     fold: '-'
   Vir7832:
+    fold: '-'
+  DXP604:
     fold: '-'
 - variant: F490S
   cas:
@@ -1070,6 +1110,8 @@
     fold: '-'
   Vir7832:
     fold: '-'
+  DXP604:
+    fold: '-'
 - variant: S494P
   cas:
     fold: '3.5'
@@ -1130,4 +1172,6 @@
   ADG20:
     fold: '-'
   Vir7832:
+    fold: '-'
+  DXP604:
     fold: '-'
