@@ -95,6 +95,14 @@ projectSections:
       image: home/pub-dbpaper.png
   - title: Webinars
     items:
+    - title: >-
+        <div style="font-size:1.5rem;line-height:1.8rem;">
+        SARS-CoV-2 Variants and Disease Severity
+        </div>
+      description: by Robert Shafer, MD
+      link: https://www.youtube.com/watch?v=msD4NKU4jEY
+      extLink: true
+      image: home/webinar-variants-and-disease-severity.jpg
     - title: SARS-CoV-2 Variants
       description: About SARS-CoV-2 Variants
       link: https://www.youtube.com/watch?v=EH3sLVHf22Y
