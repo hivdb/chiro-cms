@@ -55,12 +55,12 @@
     vp_num_i_fold: 1
     vp_num_r_fold: 0
   - name: BNT162b2
-    vp_studies: 49
-    vp_num_fold: 1754
+    vp_studies: 50
+    vp_num_fold: 1765
     vp_s_fold: 89%
     vp_i_fold: 11%
     vp_r_fold: 0
-    vp_num_s_fold: 1558
+    vp_num_s_fold: 1569
     vp_num_i_fold: 188
     vp_num_r_fold: 8
   - name: CoronaVac
@@ -129,13 +129,13 @@
 - variant: Beta
   vaccine:
   - name: AZD1222
-    vp_studies: 6
-    vp_num_fold: 153
+    vp_studies: 7
+    vp_num_fold: 200
     vp_s_fold: 1%
-    vp_i_fold: 52%
-    vp_r_fold: 47%
+    vp_i_fold: 64%
+    vp_r_fold: 35%
     vp_num_s_fold: 2
-    vp_num_i_fold: 80
+    vp_num_i_fold: 127
     vp_num_r_fold: 71
   - name: AZD1222 + BBV152
     vp_studies: 1
@@ -183,13 +183,13 @@
     vp_num_i_fold: 44
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 53
-    vp_num_fold: 1894
-    vp_s_fold: 23%
-    vp_i_fold: 55%
-    vp_r_fold: 22%
-    vp_num_s_fold: 441
-    vp_num_i_fold: 1048
+    vp_studies: 55
+    vp_num_fold: 1951
+    vp_s_fold: 25%
+    vp_i_fold: 54%
+    vp_r_fold: 21%
+    vp_num_s_fold: 487
+    vp_num_i_fold: 1059
     vp_num_r_fold: 405
   - name: CoronaVac
     vp_studies: 4
@@ -311,12 +311,12 @@
     vp_num_i_fold: 7
     vp_num_r_fold: 14
   - name: BNT162b2
-    vp_studies: 31
-    vp_num_fold: 982
-    vp_s_fold: 70%
-    vp_i_fold: 27%
+    vp_studies: 32
+    vp_num_fold: 993
+    vp_s_fold: 71%
+    vp_i_fold: 26%
     vp_r_fold: 3%
-    vp_num_s_fold: 691
+    vp_num_s_fold: 702
     vp_num_i_fold: 262
     vp_num_r_fold: 29
   - name: CoronaVac
@@ -376,12 +376,12 @@
 - variant: Delta
   vaccine:
   - name: AZD1222
-    vp_studies: 6
-    vp_num_fold: 187
-    vp_s_fold: 29%
-    vp_i_fold: 64%
-    vp_r_fold: 7%
-    vp_num_s_fold: 54
+    vp_studies: 7
+    vp_num_fold: 234
+    vp_s_fold: 43%
+    vp_i_fold: 51%
+    vp_r_fold: 6%
+    vp_num_s_fold: 101
     vp_num_i_fold: 120
     vp_num_r_fold: 13
   - name: AZD1222 + BBV152
@@ -421,13 +421,13 @@
     vp_num_i_fold: 1
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 23
-    vp_num_fold: 802
-    vp_s_fold: 63%
-    vp_i_fold: 30%
-    vp_r_fold: 7%
-    vp_num_s_fold: 508
-    vp_num_i_fold: 242
+    vp_studies: 25
+    vp_num_fold: 862
+    vp_s_fold: 66%
+    vp_i_fold: 28%
+    vp_r_fold: 6%
+    vp_num_s_fold: 567
+    vp_num_i_fold: 243
     vp_num_r_fold: 52
   - name: CoronaVac
     vp_studies: 2
@@ -485,15 +485,24 @@
     vp_num_r_fold: 0
 - variant: Omicron
   vaccine:
-  - name: BNT162b2
+  - name: AZD1222
     vp_studies: 1
-    vp_num_fold: 14
+    vp_num_fold: 47
     vp_s_fold: 0
     vp_i_fold: 0
     vp_r_fold: 100%
     vp_num_s_fold: 0
     vp_num_i_fold: 0
-    vp_num_r_fold: 14
+    vp_num_r_fold: 47
+  - name: BNT162b2
+    vp_studies: 2
+    vp_num_fold: 60
+    vp_s_fold: 0
+    vp_i_fold: 0
+    vp_r_fold: 100%
+    vp_num_s_fold: 0
+    vp_num_i_fold: 0
+    vp_num_r_fold: 60
 - variant: Iota
   vaccine:
   - name: BNT162b2
