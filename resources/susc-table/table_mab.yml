@@ -310,43 +310,49 @@
     num: 1
 - variant: Omicron
   cas:
-    fold: '69'
-    fold_cmp: ''
-    num: 2
+    fold: '100'
+    fold_cmp: '>'
+    num: 3
   ete:
     fold: '100'
     fold_cmp: '>'
-    num: 1
-  tix:
-    fold: '87'
-    fold_cmp: ''
     num: 2
+  tix:
+    fold: '100'
+    fold_cmp: '>'
+    num: 3
   bam:
     fold: '100'
     fold_cmp: '>'
-    num: 2
+    num: 3
   cil:
-    fold: '78'
-    fold_cmp: ''
-    num: 2
+    fold: '100'
+    fold_cmp: '>'
+    num: 3
   imd:
-    fold: '70'
-    fold_cmp: ''
-    num: 2
+    fold: '100'
+    fold_cmp: '>'
+    num: 3
   sot:
-    fold: '3.0'
+    fold: '2.9'
     fold_cmp: ''
-    num: 2
+    num: 3
   reg:
-    fold: '-'
-  cas_imd:
     fold: '100'
     fold_cmp: '>'
     num: 1
+  cas_imd:
+    fold: '100'
+    fold_cmp: '>'
+    num: 2
   cil_tix:
-    fold: '-'
+    fold: '100'
+    fold_cmp: '>'
+    num: 1
   bam_ete:
-    fold: '-'
+    fold: '100'
+    fold_cmp: '>'
+    num: 1
   C135:
     fold: '-'
   C144:
@@ -366,7 +372,9 @@
   Adintrevimab:
     fold: '-'
   Vir7832:
-    fold: '-'
+    fold: '3.1'
+    fold_cmp: ''
+    num: 1
   DXP604:
     fold: '29'
     fold_cmp: ''
