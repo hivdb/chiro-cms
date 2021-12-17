@@ -1,75 +1,75 @@
 - variant: Alpha
-  cp_studies: 60
-  cp_num_fold: 2210
+  cp_studies: 58
+  cp_num_fold: 2145
   cp_s_fold: 81%
-  cp_i_fold: 11%
-  cp_r_fold: 8%
-  cp_num_s_fold: 1794
-  cp_num_i_fold: 254
-  cp_num_r_fold: 162
+  cp_i_fold: 12%
+  cp_r_fold: 7%
+  cp_num_s_fold: 1736
+  cp_num_i_fold: 249
+  cp_num_r_fold: 160
 - variant: Beta
-  cp_studies: 68
-  cp_num_fold: 2430
-  cp_s_fold: 27%
-  cp_i_fold: 46%
+  cp_studies: 65
+  cp_num_fold: 2353
+  cp_s_fold: 26%
+  cp_i_fold: 47%
   cp_r_fold: 27%
-  cp_num_s_fold: 649
-  cp_num_i_fold: 1106
-  cp_num_r_fold: 675
+  cp_num_s_fold: 603
+  cp_num_i_fold: 1104
+  cp_num_r_fold: 646
 - variant: Gamma
   cp_studies: 30
-  cp_num_fold: 1134
+  cp_num_fold: 1136
   cp_s_fold: 50%
   cp_i_fold: 40%
   cp_r_fold: 10%
-  cp_num_s_fold: 568
-  cp_num_i_fold: 459
-  cp_num_r_fold: 107
+  cp_num_s_fold: 573
+  cp_num_i_fold: 458
+  cp_num_r_fold: 105
 - variant: Delta
-  cp_studies: 20
-  cp_num_fold: 513
-  cp_s_fold: 49%
+  cp_studies: 19
+  cp_num_fold: 530
+  cp_s_fold: 50%
   cp_i_fold: 31%
-  cp_r_fold: 20%
-  cp_num_s_fold: 252
-  cp_num_i_fold: 160
+  cp_r_fold: 19%
+  cp_num_s_fold: 263
+  cp_num_i_fold: 166
   cp_num_r_fold: 101
 - variant: Omicron
-  cp_studies: 1
-  cp_num_fold: 28
-  cp_s_fold: 0
-  cp_i_fold: 46%
-  cp_r_fold: 54%
-  cp_num_s_fold: 0
-  cp_num_i_fold: 13
-  cp_num_r_fold: 15
+  cp_studies: 3
+  cp_num_fold: 69
+  cp_s_fold: 3%
+  cp_i_fold: 33%
+  cp_r_fold: 64%
+  cp_num_s_fold: 2
+  cp_num_i_fold: 23
+  cp_num_r_fold: 44
 - variant: Iota
-  cp_studies: 7
-  cp_num_fold: 137
-  cp_s_fold: 65%
-  cp_i_fold: 28%
+  cp_studies: 6
+  cp_num_fold: 129
+  cp_s_fold: 64%
+  cp_i_fold: 29%
   cp_r_fold: 7%
-  cp_num_s_fold: 89
-  cp_num_i_fold: 38
-  cp_num_r_fold: 10
-- variant: Epsilon
-  cp_studies: 8
-  cp_num_fold: 117
-  cp_s_fold: 71%
-  cp_i_fold: 17%
-  cp_r_fold: 12%
   cp_num_s_fold: 83
-  cp_num_i_fold: 20
+  cp_num_i_fold: 37
+  cp_num_r_fold: 9
+- variant: Epsilon
+  cp_studies: 7
+  cp_num_fold: 109
+  cp_s_fold: 72%
+  cp_i_fold: 16%
+  cp_r_fold: 12%
+  cp_num_s_fold: 78
+  cp_num_i_fold: 17
   cp_num_r_fold: 14
 - variant: Kappa
   cp_studies: 8
   cp_num_fold: 139
-  cp_s_fold: 40%
-  cp_i_fold: 44%
-  cp_r_fold: 16%
-  cp_num_s_fold: 55
-  cp_num_i_fold: 61
-  cp_num_r_fold: 23
+  cp_s_fold: 41%
+  cp_i_fold: 42%
+  cp_r_fold: 17%
+  cp_num_s_fold: 57
+  cp_num_i_fold: 58
+  cp_num_r_fold: 24
 - variant: N501Y
   cp_studies: 13
   cp_num_fold: 243

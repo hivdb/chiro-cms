@@ -65,7 +65,7 @@
     num: 4
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '1.5'
     fold_cmp: ''
     num: 1
@@ -144,7 +144,7 @@
     num: 4
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '2.5'
     fold_cmp: ''
     num: 1
@@ -221,7 +221,7 @@
     num: 1
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '2.3'
     fold_cmp: ''
     num: 1
@@ -296,7 +296,7 @@
     num: 1
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '1.5'
     fold_cmp: ''
     num: 1
@@ -310,33 +310,33 @@
     num: 1
 - variant: Omicron
   cas:
-    fold: '100'
-    fold_cmp: '>'
-    num: 1
+    fold: '69'
+    fold_cmp: ''
+    num: 2
   ete:
     fold: '100'
     fold_cmp: '>'
     num: 1
   tix:
-    fold: '100'
-    fold_cmp: '>'
-    num: 1
+    fold: '87'
+    fold_cmp: ''
+    num: 2
   bam:
     fold: '100'
     fold_cmp: '>'
-    num: 1
+    num: 2
   cil:
-    fold: '100'
-    fold_cmp: '>'
-    num: 1
-  imd:
-    fold: '100'
-    fold_cmp: '>'
-    num: 1
-  sot:
-    fold: '3.1'
+    fold: '78'
     fold_cmp: ''
-    num: 1
+    num: 2
+  imd:
+    fold: '70'
+    fold_cmp: ''
+    num: 2
+  sot:
+    fold: '3.0'
+    fold_cmp: ''
+    num: 2
   reg:
     fold: '-'
   cas_imd:
@@ -363,7 +363,7 @@
     fold: '-'
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '-'
   Vir7832:
     fold: '-'
@@ -428,7 +428,7 @@
     num: 1
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '-'
   Vir7832:
     fold: '-'
@@ -491,7 +491,7 @@
     num: 1
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '-'
   Vir7832:
     fold: '-'
@@ -558,7 +558,7 @@
     num: 1
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '2.5'
     fold_cmp: ''
     num: 1
@@ -639,7 +639,7 @@
     num: 1
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '-'
   Vir7832:
     fold: '-'
@@ -714,7 +714,7 @@
     num: 1
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '-'
   Vir7832:
     fold: '-'
@@ -787,7 +787,7 @@
     num: 1
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '-'
   Vir7832:
     fold: '-'
@@ -852,7 +852,7 @@
     num: 1
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '-'
   Vir7832:
     fold: '-'
@@ -913,7 +913,7 @@
     num: 1
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '-'
   Vir7832:
     fold: '-'
@@ -978,7 +978,7 @@
     num: 1
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '-'
   Vir7832:
     fold: '-'
@@ -1041,7 +1041,7 @@
     num: 1
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '-'
   Vir7832:
     fold: '-'
@@ -1106,7 +1106,7 @@
     num: 1
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '-'
   Vir7832:
     fold: '-'
@@ -1169,7 +1169,7 @@
     fold: '-'
   JMB2002:
     fold: '-'
-  ADG20:
+  Adintrevimab:
     fold: '-'
   Vir7832:
     fold: '-'
