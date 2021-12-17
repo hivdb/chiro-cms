@@ -1,7 +1,7 @@
 - variant: Alpha
   assays:
   - variant: Alpha
-    rx_name: ADG20
+    rx_name: Adintrevimab
     mab_class: ''
     fold: '1.5'
     ref_name: Supasa21[^Supasa21]
@@ -828,7 +828,7 @@
 - variant: Beta
   assays:
   - variant: Beta
-    rx_name: ADG20
+    rx_name: Adintrevimab
     mab_class: ''
     fold: '2.5'
     ref_name: Zhou21b[^Zhou21b]
@@ -1690,7 +1690,7 @@
 - variant: Delta
   assays:
   - variant: Delta
-    rx_name: ADG20
+    rx_name: Adintrevimab
     mab_class: ''
     fold: '1.5'
     ref_name: Liu21f[^Liu21f]
@@ -2159,7 +2159,7 @@
 - variant: Gamma
   assays:
   - variant: Gamma
-    rx_name: ADG20
+    rx_name: Adintrevimab
     mab_class: ''
     fold: '2.3'
     ref_name: Dejnirattisai21[^Dejnirattisai21]
@@ -2873,7 +2873,7 @@
 - variant: Kappa
   assays:
   - variant: Kappa
-    rx_name: ADG20
+    rx_name: Adintrevimab
     mab_class: ''
     fold: '2.5'
     ref_name: Liu21f[^Liu21f]

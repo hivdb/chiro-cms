@@ -98,8 +98,8 @@ tables:
       label: JMB2002
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
       exportRaw: True
-    - name: ADG20
-      label: ADG20
+    - name: Adintrevimab
+      label: Adintrevimab
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
       exportRaw: True
     - name: Vir7832
@@ -508,8 +508,8 @@ tables:
       label: JMB2002
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
       exportRaw: True
-    - name: ADG20
-      label: ADG20
+    - name: Adintrevimab
+      label: Adintrevimab
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 10 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 3 ? 'background-color:#7fcbee;color:white': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
       exportRaw: True
     - name: Vir7832
