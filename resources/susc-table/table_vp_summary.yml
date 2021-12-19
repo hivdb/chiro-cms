@@ -486,23 +486,23 @@
 - variant: Omicron
   vaccine:
   - name: AZD1222
-    vp_studies: 4
-    vp_num_fold: 94
-    vp_s_fold: 0
+    vp_studies: 5
+    vp_num_fold: 98
+    vp_s_fold: 4%
     vp_i_fold: 1%
-    vp_r_fold: 99%
-    vp_num_s_fold: 0
+    vp_r_fold: 95%
+    vp_num_s_fold: 4
     vp_num_i_fold: 1
     vp_num_r_fold: 93
   - name: Ad26.COV2.S
-    vp_studies: 1
-    vp_num_fold: 11
-    vp_s_fold: 0
+    vp_studies: 2
+    vp_num_fold: 20
+    vp_s_fold: 35%
     vp_i_fold: 0
-    vp_r_fold: 100%
-    vp_num_s_fold: 0
+    vp_r_fold: 65%
+    vp_num_s_fold: 7
     vp_num_i_fold: 0
-    vp_num_r_fold: 11
+    vp_num_r_fold: 13
   - name: BBIBP-CorV
     vp_studies: 1
     vp_num_fold: 13
@@ -513,14 +513,14 @@
     vp_num_i_fold: 1
     vp_num_r_fold: 12
   - name: BNT162b2
-    vp_studies: 6
-    vp_num_fold: 205
+    vp_studies: 7
+    vp_num_fold: 253
     vp_s_fold: 2%
-    vp_i_fold: 20%
-    vp_r_fold: 78%
+    vp_i_fold: 34%
+    vp_r_fold: 64%
     vp_num_s_fold: 4
-    vp_num_i_fold: 41
-    vp_num_r_fold: 160
+    vp_num_i_fold: 85
+    vp_num_r_fold: 164
   - name: Sputnik V
     vp_studies: 1
     vp_num_fold: 10
@@ -531,14 +531,14 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 10
   - name: mRNA-1273
-    vp_studies: 2
-    vp_num_fold: 110
-    vp_s_fold: 3%
-    vp_i_fold: 20%
-    vp_r_fold: 77%
-    vp_num_s_fold: 3
-    vp_num_i_fold: 22
-    vp_num_r_fold: 85
+    vp_studies: 3
+    vp_num_fold: 133
+    vp_s_fold: 4%
+    vp_i_fold: 33%
+    vp_r_fold: 63%
+    vp_num_s_fold: 5
+    vp_num_i_fold: 44
+    vp_num_r_fold: 84
 - variant: Iota
   vaccine:
   - name: BNT162b2

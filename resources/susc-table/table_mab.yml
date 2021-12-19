@@ -312,31 +312,31 @@
   cas:
     fold: '100'
     fold_cmp: '>'
-    num: 3
+    num: 4
   ete:
     fold: '100'
     fold_cmp: '>'
-    num: 2
+    num: 3
   tix:
     fold: '100'
     fold_cmp: '>'
-    num: 3
+    num: 4
   bam:
     fold: '100'
     fold_cmp: '>'
-    num: 3
+    num: 4
   cil:
     fold: '100'
     fold_cmp: '>'
-    num: 3
+    num: 4
   imd:
     fold: '100'
     fold_cmp: '>'
-    num: 3
+    num: 4
   sot:
-    fold: '2.9'
+    fold: '3'
     fold_cmp: ''
-    num: 3
+    num: 4
   reg:
     fold: '100'
     fold_cmp: '>'
@@ -344,11 +344,11 @@
   cas_imd:
     fold: '100'
     fold_cmp: '>'
-    num: 2
+    num: 3
   cil_tix:
     fold: '100'
     fold_cmp: '>'
-    num: 1
+    num: 2
   bam_ete:
     fold: '100'
     fold_cmp: '>'
@@ -362,15 +362,21 @@
   b_196:
     fold: '100'
     fold_cmp: '>'
-    num: 1
+    num: 2
   b_198:
-    fold: '-'
+    fold: '0.4'
+    fold_cmp: ''
+    num: 1
   b_196_198:
-    fold: '-'
+    fold: '12'
+    fold_cmp: ''
+    num: 1
   JMB2002:
     fold: '-'
   Adintrevimab:
-    fold: '-'
+    fold: '40'
+    fold_cmp: ''
+    num: 1
   Vir7832:
     fold: '3.1'
     fold_cmp: ''
@@ -580,31 +586,31 @@
   cas:
     fold: '1'
     fold_cmp: ''
-    num: 8
+    num: 9
   ete:
-    fold: '2.8'
+    fold: '2.9'
     fold_cmp: ''
-    num: 6
+    num: 7
   tix:
+    fold: '1.3'
+    fold_cmp: ''
+    num: 4
+  bam:
     fold: '1.1'
     fold_cmp: ''
-    num: 3
-  bam:
-    fold: '1'
-    fold_cmp: ''
-    num: 3
+    num: 4
   cil:
-    fold: '1'
+    fold: '1.1'
     fold_cmp: ''
-    num: 3
+    num: 4
   imd:
     fold: '0.8'
     fold_cmp: ''
-    num: 8
+    num: 9
   sot:
-    fold: 1.2*
+    fold: 1.6*
     fold_cmp: ''
-    num: 6
+    num: 7
   reg:
     fold: '5.5'
     fold_cmp: ''
@@ -634,13 +640,13 @@
     fold_cmp: ''
     num: 1
   b_196:
-    fold: '0.9'
+    fold: '1'
+    fold_cmp: ''
+    num: 5
+  b_198:
+    fold: '2.3'
     fold_cmp: ''
     num: 4
-  b_198:
-    fold: '2'
-    fold_cmp: ''
-    num: 3
   b_196_198:
     fold: '0.7'
     fold_cmp: ''
@@ -648,7 +654,9 @@
   JMB2002:
     fold: '-'
   Adintrevimab:
-    fold: '-'
+    fold: '1.8'
+    fold_cmp: ''
+    num: 1
   Vir7832:
     fold: '-'
   DXP604:
@@ -730,33 +738,33 @@
     fold: '-'
 - variant: K417N
   cas:
-    fold: '10'
+    fold: '7'
     fold_cmp: ''
-    num: 8
+    num: 9
   ete:
     fold: '100'
     fold_cmp: '>'
-    num: 7
+    num: 8
   tix:
-    fold: '0.3'
+    fold: '0.4'
+    fold_cmp: ''
+    num: 4
+  bam:
+    fold: '0.4'
     fold_cmp: ''
     num: 3
-  bam:
-    fold: '0.3'
-    fold_cmp: ''
-    num: 2
   cil:
     fold: '0.6'
     fold_cmp: ''
-    num: 3
+    num: 4
   imd:
-    fold: '0.6'
+    fold: '0.7'
     fold_cmp: ''
-    num: 8
+    num: 9
   sot:
     fold: '0.6'
     fold_cmp: ''
-    num: 5
+    num: 6
   reg:
     fold: '-'
   cas_imd:
@@ -782,13 +790,13 @@
     fold_cmp: ''
     num: 1
   b_196:
-    fold: '2.1'
+    fold: '1.8'
+    fold_cmp: ''
+    num: 5
+  b_198:
+    fold: '0.5'
     fold_cmp: ''
     num: 4
-  b_198:
-    fold: '0.4'
-    fold_cmp: ''
-    num: 3
   b_196_198:
     fold: '2.2'
     fold_cmp: ''
@@ -796,7 +804,9 @@
   JMB2002:
     fold: '-'
   Adintrevimab:
-    fold: '-'
+    fold: '1.1'
+    fold_cmp: ''
+    num: 1
   Vir7832:
     fold: '-'
   DXP604:
@@ -868,25 +878,33 @@
     fold: '-'
 - variant: T478K
   cas:
-    fold: '2.9'
+    fold: '1.9'
+    fold_cmp: ''
+    num: 2
+  ete:
+    fold: '0.8'
     fold_cmp: ''
     num: 1
-  ete:
-    fold: '-'
   tix:
-    fold: '-'
+    fold: '1.5'
+    fold_cmp: ''
+    num: 1
   bam:
-    fold: '-'
-  cil:
-    fold: '-'
-  imd:
     fold: '1.4'
     fold_cmp: ''
     num: 1
-  sot:
-    fold: '1'
+  cil:
+    fold: '0.9'
     fold_cmp: ''
     num: 1
+  imd:
+    fold: '1.5'
+    fold_cmp: ''
+    num: 2
+  sot:
+    fold: '1.4'
+    fold_cmp: ''
+    num: 2
   reg:
     fold: '1'
     fold_cmp: ''
@@ -908,13 +926,13 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '0.8'
-    fold_cmp: ''
-    num: 1
-  b_198:
     fold: '0.9'
     fold_cmp: ''
-    num: 1
+    num: 2
+  b_198:
+    fold: '1.3'
+    fold_cmp: ''
+    num: 2
   b_196_198:
     fold: '0.8'
     fold_cmp: ''
@@ -922,7 +940,9 @@
   JMB2002:
     fold: '-'
   Adintrevimab:
-    fold: '-'
+    fold: '1.2'
+    fold_cmp: ''
+    num: 1
   Vir7832:
     fold: '-'
   DXP604:
