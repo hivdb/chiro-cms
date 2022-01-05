@@ -63,6 +63,6 @@ deploy-prod: build_gz
 		aws s3 sync /app/build_gz s3://cms.hivdb.org/chiro-prod \
 		--delete --content-encoding gzip --cache-control max-age=600
 
-deploy-all: deploy-dev deploy-prod
+deploy-all: deploy-dev deploy-dev2 deploy-prod
 
 .PHONY: deploy-* _*
