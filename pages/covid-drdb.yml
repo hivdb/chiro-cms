@@ -1,4 +1,4 @@
-drdbVersion: "20220106-224806-slim"
+drdbVersion: "20220109-173801-slim"
 cmtVersion: "20211228"
 mutationDefaultGene: S
 allGenes: [
@@ -6,6 +6,13 @@ allGenes: [
   nsp10, RdRP, nsp13, nsp14, nsp15, nsp16, S, ORF3a, E, M,
   ORF6, ORF7a, ORF7b, ORF8, N, ORF10
 ]
+antibodyCombinations:
+  # fixed combinations used in mAb dropdown options
+  - [Bamlanivimab, Etesevimab]
+  - [Casirivimab, Imdevimab]
+  - [Cilgavimab, Tixagevimab]
+  - [C135, C144]
+  - [BRII-196, BRII-198]
 geneReferences:
   _resource: sierra-sars2/gene-references.yml
 geneSynonyms:
