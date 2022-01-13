@@ -12,7 +12,7 @@ mab-desc_Bamlanivimab: |-
 
   Bamlanivimab is developed by AbCellera Biologics and Eli Lilly.
 mab-desc_Etesevimab: |-
-  **Etesevimab** (aka CB6, JS016, LY-CoV016, LY3832479) is an ACE2-competing
+  **Etesevimab** (aka CB6; JS016; LY-CoV016; LY3832479) is an ACE2-competing
   neutralizing mAb derived from SARS-CoV-2 convalescent memory B cells. It has
   been shown to reduice virus levels and lung pathology when administered 1 day
   before or after infection of rhesus macaques. Its Fc receptor has been
@@ -26,11 +26,25 @@ mab-desc_Bamlanivimab+Etesevimab: |-
   infusion as a treatment for COVID-19. The combination is granted an emergence
   use authorization (EUA) by the FDA on November 9, 2020.
 
-  **Bamlanivimab** is developed by AbCellera Biologics and Eli Lilly.
+  **Bamlanivimab** (aka LY-CoV555; LY3819253) is an ACE2-competing mAb that
+  binds RBD in the up and down configurations. It reduces upper airway and
+  lower airway virus levels in rhesus macaques. It has been shown to reduce
+  virus levels and possibly hospitalizations in a phase II trial. A phase III
+  trial in hospitalized patients was discontinued because of lack of efficacy.
+  It is also being studied in combination with Etesevimab which appears to be
+  the same mAb as LY-CoV016, CB6 and JS016. Bamlanivimab received FDA emergence
+  use authorization (EUA) on November 9, 2020. The EUA was revoked on April 19,
+  2021, although the combination EUA of Bamlanivimab+Etesevimab is still
+  available. BAM is developed by AbCellera Biologics and Eli Lilly.
 
-  **Etesevimab** is developed by Junshi Biosciences and Institute of
-  Microbiology, Chinese Academy of Science (IMCAS). It is licensed to Eli
-  Lilly.
+  **Etesevimab** (aka CB6; JS016; LY-CoV016; LY3832479) is an ACE2-competing
+  neutralizing mAb derived from SARS-CoV-2 convalescent memory B cells. It has
+  been shown to reduice virus levels and lung pathology when administered 1 day
+  before or after infection of rhesus macaques. Its Fc receptor has been
+  mutated (LALA) to prolong its half-life. It is being evaluated as monotherapy
+  in a phase I trial and in combination with Bamlanivimab in a phase II trial.
+  ETE is developed by Junshi Biosciences and Institute of Microbiology, Chinese
+  Academy of Science (IMCAS). It is licensed to Eli Lilly.
 mab-desc_Casirivimab: |-
   The REGN panel of neutralizing mAbs was derived primarily from VelocImmune
   mice immunized with trimeric spike boosted with RBD. **Casirivimab**
@@ -87,8 +101,9 @@ mab-desc_Cilgavimab: |-
   **Cilgavimab** (aka AZD1061; COV2-2130) is an ACE2-competing monoclonal
   antibody that binds RBD in the up and down configuration. It reduces weight
   loss and lung virus levels in a mouse prevention model. Tixagevimab and
-  Cilgavimab bind to nonoverlapping RBD epitopes. Tixagevimab and Cilgavimab
-  (aka AZD7442) have begun phase III clinical trials.
+  Cilgavimab bind to nonoverlapping RBD epitopes. The combination of
+  Tixagevimab and Cilgavimab (aka AZD7442) is granted an emergence use
+  authorization (EUA) by the FDA on December 8, 2021.
 
   Cilgavimab is developed by AstraZeneca.
 mab-desc_Tixagevimab: |-
@@ -96,15 +111,16 @@ mab-desc_Tixagevimab: |-
   antibody that binds RBD in the up configuration. It reduces weight loss and
   lung virus levels in a mouse prevention model. It also reduces lung virus
   levels in rhesus macaques. Tixagevimab and Cilgavimab bind to nonoverlapping
-  RBD epitopes. Tixagevimab and Cilgavimab (aka AZD7442) have begun phase III
-  clinical trials.
+  RBD epitopes. The combination of Tixagevimab and Cilgavimab (aka AZD7442) is
+  granted an emergence use authorization (EUA) by the FDA on December 8, 2021.
 
   Tixagevimab is developed by AstraZeneca.
 mab-desc_Cilgavimab+Tixagevimab: |-
   **Cilgavimab and Tixagevimab** (aka AZD7447) is a comination of two
   ACE2-competing monoclonal antibodies that bind RBD in the up and down
   configuration.  Tixagevimab and Cilgavimab bind to nonoverlapping RBD
-  epitopes. This combination have begun phase III clinical trials.
+  epitopes. This combination is granted an emergence use authorization (EUA) by
+  the FDA on December 8, 2021.
 
   Cilgavimab and Tixagevimab are both developed by AstraZeneca.
 mab-desc_C135: |-
@@ -122,9 +138,44 @@ mab-desc_C144: |-
   in the closed state.
 
   C144 is developed by The Rockefeller University.
-mab-desc_BRII-196: |-
-  **BRII-196** is an investigational, neutralizing monoclonal antibody
-  developed by Brii Biosciences.
-mab-desc_BRII-198: |-
-  **BRII-198** is an investigational, neutralizing monoclonal antibody
-  developed by Brii Biosciences.
+mab-desc_Amubarvimab: |-
+  **Amubarvimab** (aka BRII-196; P2C-1F11) is an investigational, neutralizing
+  monoclonal antibody developed by Brii Biosciences.
+mab-desc_Romlusevimab: |-
+  **Romlusevimab** (aka BRII-198; P2B-1G5) is an investigational, neutralizing
+  monoclonal antibody developed by Brii Biosciences.
+mab-desc_Amubarvimab+Romlusevimab: |-
+  **Amubarvimab and Romlusevimab** are non-competing SARS-CoV-2 monoclonal
+  neutralizing antibodies derived from convalesced COVID-19 patients. The
+  combination is approved by the China National Medical Products Administration
+  (NMPA).
+
+  AMU and ROM are developed by Brii Biosciences.
+mab-desc_Regdanvimab: |-
+  **Regdanvimab** (aka Regkirona; CT-P59) is a human monoclonal antibody used
+  for the treatment of COVID-19. The antibody is directed against the spike
+  protein of SARS-CoV-2. It is developed by Celltrion. The medicine is given by
+  infusion (drip) into a vein. Regdanvimab was approved for medical use in the
+  European Union in November 2021.
+mab-desc_Adintrevimab: |-
+  **Adintrevimab** (aka ADG20; ADG-2) is an ACE2-competing neutralizing
+  monoclonal antibody that binds to an epitope located in between the class 1
+  and class 4 sites. It is developed by Adagio Therapeutics. It is being
+  studied in phase II and III clinical trials.
+mab-desc_Bebtelovimab: |-
+  **Bebtelovimab** (aka LY-CoV1404; LY3853113) is an ACE2-competing
+  neutralizing monoclonal antibody binds to RBD. It is derived from a
+  convalescent COVID-19 patient sample. It is being studied in a phase II
+  clinical trial.
+
+  Bebtelovimab is developed by Eli Lilly.
+mab-desc_Vir-7832: |-
+  **Vir-7832** is an investigational dual-action SARS-CoV-2 monoclonal antibody
+  that binds to an epitope on SARS-CoV-2 that is shared with SARS-CoV-1.  entry
+  into healthy cells and an enhanced ability to clear infected cells. It is
+  being studied in a phase 1b/2a clinical trial.
+
+  Vir-7832 is developed by VIR Biotechnology and GlaxoSmithKline.
+mab-desc_DXP-604: |-
+  **DXP-604** is an investigational monoclonal antibody developed by BeiGene
+  and Singlomics. Is is undergoing a phase I clinical trial.

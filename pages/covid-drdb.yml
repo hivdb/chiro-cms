@@ -1,4 +1,4 @@
-drdbVersion: "20220110-141517-slim"
+drdbVersion: "20220113-slim"
 cmtVersion: "20211228"
 mutationDefaultGene: S
 allGenes: [
@@ -11,8 +11,8 @@ antibodyCombinations:
   - [Bamlanivimab, Etesevimab]
   - [Casirivimab, Imdevimab]
   - [Cilgavimab, Tixagevimab]
+  - [Amubarvimab, Romlusevimab]
   - [C135, C144]
-  - [BRII-196, BRII-198]
 geneReferences:
   _resource: sierra-sars2/gene-references.yml
 geneSynonyms:

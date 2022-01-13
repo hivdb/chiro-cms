@@ -36,7 +36,7 @@ table_mab
 table_mab_non_eua
 [/table]
 
-- The fold change is the median value of samples, the subscript is the number of samples. “-“ indicates absence of susceptibility data. “\*“ indicates conflict between two research groups, with one showing high-level of reduced susceptibility especially using IC80 rather than IC50.
+- The fold change is the median value of samples, the subscript is the number of samples. “-” indicates absence of susceptibility data. “\*” indicates conflict between two research groups, with one showing high-level of reduced susceptibility especially using IC80 rather than IC50.
 - Spike mutations:
   - **Alpha, B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H.
   - **Beta, B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V.
@@ -45,7 +45,19 @@ table_mab_non_eua
   - **Iota, B.1.526**: L5F, T95I, D253G, E484K, D614G, A701V.
   - **Epsilon, B.1.427/9**: S13I, W152C, L452R, D614G.
   - **Kappa, B.1.617.1**: T95I, L452R, E484Q, D614G, P681R, Q1071H.
-- Monoclonal antibody(mAb) abbreviations: **BAM**: Bamlanivimab/LY-CoV555, **CAS**: Casirivimab/REGN10933, **IMD**: Imdevimab/REGN10987, **CAS/IMD**: Casirivimab+imdevimab/REGN-COV2, **ETE**: Etesevimab/LY-CoV016/JS016/CB6, **CIL**: Cilgavimab/COV2-2130/AZD1061, **TIX**: Tixagevimab/COV2-2196/AZD8895, **TIX/CIL**: Tixagevimab+Cilgavimab, **BAM/ETE**: Bamlanivimab+Etesevimab, **SOT**: Sotrovimab/Vir-7831/S309, **REG**: Regdanvimab/CT-P59.
+- Monoclonal antibody(mAb) abbreviations:
+  **BAM**: Bamlanivimab/LY-CoV555/LY3819253,
+  **ETE**: Etesevimab/LY-CoV016/JS016/CB6,
+  **CAS**: Casirivimab/REGN10933,
+  **IMD**: Imdevimab/REGN10987,
+  **CIL**: Cilgavimab/COV2-2130/AZD1061,
+  **TIX**: Tixagevimab/COV2-2196/AZD8895,
+  **SOT**: Sotrovimab/Vir-7831/S309,
+  **REG**: Regdanvimab/CT-P59,
+  **AMU**: Amubarvimab/BRII-196/P2C-1f11,
+  **ROM**: Romlusevimab/BRII-198/P2B-1G5,
+  **ADI**: Adintrevimab/ADG20/ADG-2,
+  **BEB**: Bebtelovimab/LY-CoV1404/LY3853113.
 - The color scheme indicates the fold-reduction in neutralization: <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #ffffff; color: black;">absence of color</span> – &lt;3-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #7fcbee; color: black;">light blue</span> – 3 to 9.9-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span> – ≥10-fold reduced susceptibility.
 
 

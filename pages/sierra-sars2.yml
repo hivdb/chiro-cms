@@ -1,5 +1,5 @@
 species: SARS2
-drdbVersion: "20220110-141517-slim"
+drdbVersion: "20220113-slim"
 cmtVersion: "20211228"
 allGenes: &allGenes [
   nsp1, nsp2, PLpro, nsp4, _3CLpro, nsp6, nsp7, nsp8, nsp9,
@@ -91,7 +91,10 @@ seqReadsMinCodonReadsOptions:
   - value: 20
     label: ≥20
 messages:
-  _resource: sierra-sars2/messages.yml
+  .:
+    _resource: sierra-sars2/messages.yml
+  .<<mab-desc:
+    _resource: mab-description.yml
 sequenceExamples:
   - url: downloads/fasta-examples/b-1-1-7.fas
     title: VOC Alpha (N=1)
