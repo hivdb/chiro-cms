@@ -1,84 +1,70 @@
 - mab: Bamlanivimab
-  num_ref: 20
-  num_fold: 146
+  num_ref: 32
+  num_fold: 243
   avail: EUA
   class: RBM Class II
   pdb: 7KMG
   institute: Eli Lilly
 - mab: Etesevimab
-  num_ref: 23
-  num_fold: 283
+  num_ref: 35
+  num_fold: 380
   avail: EUA
   class: RBM Class I
   pdb: 7C01
   institute: Eli Lilly
 - mab: Casirivimab
-  num_ref: 33
-  num_fold: 347
+  num_ref: 47
+  num_fold: 432
   avail: EUA
   class: RBM Class I
   pdb: 6XDG
   institute: Regeneron
 - mab: Imdevimab
-  num_ref: 33
-  num_fold: 346
+  num_ref: 47
+  num_fold: 431
   avail: EUA
   class: RBD Core Cluster I
   pdb: 6XDG
   institute: Regeneron
 - mab: Sotrovimab
-  num_ref: 16
-  num_fold: 207
+  num_ref: 29
+  num_fold: 369
   avail: EUA
   class: RBD Core Cluster I
   pdb: 6WPS
   institute: Vir Biotechnol / GlaxoSmithKline
 - mab: Cilgavimab
-  num_ref: 11
-  num_fold: 52
+  num_ref: 22
+  num_fold: 127
   avail: Completed phase III
   class: RBM Class II
   pdb: 7L7E
   institute: AstraZeneca / Vanderbilt
 - mab: Tixagevimab
-  num_ref: 10
-  num_fold: 48
+  num_ref: 21
+  num_fold: 108
   avail: Completed phase III
   class: RBM Class I
   pdb: 7L7E
   institute: AstraZeneca / Vanderbilt
-- mab: BRII-196
-  num_ref: 5
-  num_fold: 157
-  avail: Completed phase III
+- mab: Amubarvimab
+  num_ref: 7
+  num_fold: 198
+  avail: Approved in China
   class: RBM Class I
   pdb: 7CDI
   institute: BRII Biosciences
-- mab: BRII-198
-  num_ref: 3
-  num_fold: 58
-  avail: Completed phase III
+- mab: Romlusevimab
+  num_ref: 4
+  num_fold: 94
+  avail: Approved in China
   class: RBD Core Cluster II
   pdb: ''
   institute: BRII Biosciences
 - mab: Regdanvimab
-  num_ref: 4
-  num_fold: 20
-  avail: Phase III
+  num_ref: 10
+  num_fold: 31
+  avail: Appoved in South Korea
   class: RBM Class I
   pdb: 7CM4
   institute: Celltrion
-- mab: C135
-  num_ref: 4
-  num_fold: 105
-  avail: Phase III
-  class: RBD Core Cluster I
-  pdb: 7K8Z
-  institute: Rockefeller University / Roche
-- mab: C144
-  num_ref: 4
-  num_fold: 138
-  avail: Phase III
-  class: RBM Class III
-  pdb: 7K90
-  institute: Rockefeller University / Roche

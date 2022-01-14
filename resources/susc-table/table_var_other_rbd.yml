@@ -5,8 +5,8 @@
   num_ref: 1
   num_fold: 6
 - var_name: "A.30 (T478R, R346K, E484K)"
-  num_ref: 2
-  num_fold: 65
+  num_ref: 3
+  num_fold: 55
 - var_name: "B.1 (E484K, N501T)"
   num_ref: 1
   num_fold: 32
@@ -18,19 +18,19 @@
   num_fold: 64
 - var_name: "B.1.1.298 (Y453F)"
   num_ref: 7
-  num_fold: 195
+  num_fold: 215
 - var_name: "B.1.1.317 (S477N, A522S)"
   num_ref: 1
   num_fold: 14
 - var_name: "B.1.1.318 (E484K)"
   num_ref: 1
-  num_fold: 25
+  num_fold: 45
 - var_name: "B.1.1.420 (N440K)"
   num_ref: 1
   num_fold: 12
 - var_name: "B.1.1.519 (T478K)"
   num_ref: 3
-  num_fold: 32
+  num_fold: 31
 - var_name: "B.1.117.83 (L452R)"
   num_ref: 1
   num_fold: 12
@@ -54,7 +54,7 @@
   num_fold: 1
 - var_name: "C.1.2 (E484K, N501Y)"
   num_ref: 1
-  num_fold: 57
+  num_fold: 49
 - var_name: "R.1 (E484K)"
   num_ref: 3
   num_fold: 271

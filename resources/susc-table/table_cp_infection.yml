@@ -1,15 +1,15 @@
 - char: "Ancestral (A, B, B.1, others)"
-  num_ref: 101
-  num_fold: 10930
+  num_ref: 114
+  num_fold: 12213
 - char: Alpha
-  num_ref: 11
-  num_fold: 1173
+  num_ref: 14
+  num_fold: 1303
 - char: Beta
-  num_ref: 11
-  num_fold: 365
+  num_ref: 14
+  num_fold: 463
 - char: Gamma
-  num_ref: 3
-  num_fold: 88
+  num_ref: 4
+  num_fold: 168
 - char: Delta
-  num_ref: 2
-  num_fold: 69
+  num_ref: 8
+  num_fold: 345

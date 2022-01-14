@@ -45,6 +45,7 @@ table_mab_non_eua
   - **Iota, B.1.526**: L5F, T95I, D253G, E484K, D614G, A701V.
   - **Epsilon, B.1.427/9**: S13I, W152C, L452R, D614G.
   - **Kappa, B.1.617.1**: T95I, L452R, E484Q, D614G, P681R, Q1071H.
+  - **Omicron, B.1.1.529/BA.1**: A67V, HV69-70∆, T95I, G142D, VYY143-145∆, N211∆, L212I, R214EPEins, G339D, S371L, S373P, S375F, K417N, N440K, G446S, S477N, T478K, E484A, Q493R, G496S, Q498R, N501Y, Y505H, T547K, H655Y, N679K, P681H, N764K, D796Y, N856K, Q954H, N969K, L981F
 - Monoclonal antibody(mAb) abbreviations:
   **BAM**: Bamlanivimab/LY-CoV555/LY3819253,
   **ETE**: Etesevimab/LY-CoV016/JS016/CB6,
@@ -71,14 +72,6 @@ table_cp
 [/table]
 
 - Convalescent plasma in all studies is presumed likely to have been obtained from persons infected with spike variants lacking mutations associated with reduced neutralization susceptibility.
-- Spike mutations:
-  - **Alpha, B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H.
-  - **Beta, B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V.
-  - **Gamma, P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
-  - **Delta, B.1.617.2**: T19R, FR1570158∆, L452R, T478K, D614G, P681R, D950N.
-  - **Iota, B.1.526**: L5F, T95I, D253G, E484K, D614G, A701V.
-  - **Epsilon, B.1.427/9**: S13I, W152C, L452R, D614G.
-  - **Kappa, B.1.617.1**: T95I, L452R, E484Q, D614G, P681R, Q1071H.
 
 ***
 
@@ -89,14 +82,6 @@ table_cp
 table_vp
 [/table]
 
-- Spike mutations:
-  - **Alpha, B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H.
-  - **Beta, B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V.
-  - **Gamma, P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
-  - **Delta, B.1.617.2**: T19R, FR1570158∆, L452R, T478K, D614G, P681R, D950N.
-  - **Iota, B.1.526**: L5F, T95I, D253G, E484K, D614G, A701V.
-  - **Epsilon, B.1.427/9**: S13I, W152C, L452R, D614G.
-  - **Kappa, B.1.617.1**: T95I, L452R, E484Q, D614G, P681R, Q1071H.
 
 ***
 <!-- ### Table 4: Vaccine Efficacy at Preventing Symptomatic SARS-CoV-2 Infection With Variants
@@ -133,7 +118,7 @@ table_variants_other_rbd
 [/table]
 
 The most common ancestral variants lacking immune escape mutations used as controls include A
-variants (n=3720), B variants (Wuhan consensus; n=19123), B.1 variants (Wuhan consensus + D614G; n=18299).
+variants (n=4440), B variants (Wuhan consensus; n=27045), B.1 variants (Wuhan consensus + D614G; n=25213).
 
 ***
 
@@ -163,7 +148,7 @@ table_mut_ctd
 table_mut_s2
 [/table]
 
-The most commonly studied mutation combinations that are not VOCs or VOIs included K417N+E484K+N501Y (n=19 studies; 569 results), E484K+N501Y (n=5 studies; 189 results), ∆69/70+N501Y (n=6 studies; 135 results), ∆69/70+Y453F (n=2 studies; 74 results), L452R+E484Q+P681R (n=3 studies; 55 results) K417N+N501Y (n=2 studies; 75 results), K417N+E484K (n=2 studies; 75 results), and L452R+E484Q (n=4 studies; 55 results)
+The most commonly studied mutation combinations that are not VOCs or VOIs included K417N+E484K+N501Y (n=25 studies; 975 results), E484K+N501Y (n=5 studies; 189 results), ∆69/70+N501Y (n=8 studies; 158 results), ∆69/70+Y453F (n=3 studies; 77 results), L452R+E484Q+P681R (n=3 studies; 55 results) K417N+N501Y (n=2 studies; 75 results), K417N+E484K (n=2 studies; 75 results), and L452R+E484Q (n=8 studies; 129 results)
 
 ***
 

@@ -192,14 +192,14 @@
     vp_num_i_fold: 44
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 61
-    vp_num_fold: 2217
-    vp_s_fold: 25%
+    vp_studies: 62
+    vp_num_fold: 2280
+    vp_s_fold: 26%
     vp_i_fold: 54%
-    vp_r_fold: 21%
-    vp_num_s_fold: 561
-    vp_num_i_fold: 1202
-    vp_num_r_fold: 454
+    vp_r_fold: 20%
+    vp_num_s_fold: 594
+    vp_num_i_fold: 1231
+    vp_num_r_fold: 455
   - name: CoronaVac
     vp_studies: 4
     vp_num_fold: 176
@@ -273,14 +273,14 @@
     vp_num_i_fold: 16
     vp_num_r_fold: 0
   - name: mRNA-1273
-    vp_studies: 27
-    vp_num_fold: 1248
+    vp_studies: 28
+    vp_num_fold: 1256
     vp_s_fold: 16%
     vp_i_fold: 58%
     vp_r_fold: 26%
-    vp_num_s_fold: 205
-    vp_num_i_fold: 725
-    vp_num_r_fold: 318
+    vp_num_s_fold: 206
+    vp_num_i_fold: 727
+    vp_num_r_fold: 323
   - name: mRNA-1273 + mRNA-1273.211
     vp_studies: 1
     vp_num_fold: 60
@@ -370,8 +370,8 @@
     vp_s_fold: 41%
     vp_i_fold: 56%
     vp_r_fold: 3%
-    vp_num_s_fold: 238
-    vp_num_i_fold: 329
+    vp_num_s_fold: 241
+    vp_num_i_fold: 326
     vp_num_r_fold: 19
   - name: mRNA-1273 + mRNA-1273.211
     vp_studies: 1
@@ -448,13 +448,13 @@
     vp_num_i_fold: 1
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 34
-    vp_num_fold: 1206
-    vp_s_fold: 60%
-    vp_i_fold: 32%
+    vp_studies: 35
+    vp_num_fold: 1269
+    vp_s_fold: 61%
+    vp_i_fold: 31%
     vp_r_fold: 8%
-    vp_num_s_fold: 724
-    vp_num_i_fold: 386
+    vp_num_s_fold: 779
+    vp_num_i_fold: 394
     vp_num_r_fold: 96
   - name: CoronaVac
     vp_studies: 2
@@ -493,14 +493,14 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: mRNA-1273
-    vp_studies: 14
-    vp_num_fold: 272
-    vp_s_fold: 50%
-    vp_i_fold: 45%
+    vp_studies: 15
+    vp_num_fold: 280
+    vp_s_fold: 49%
+    vp_i_fold: 46%
     vp_r_fold: 5%
-    vp_num_s_fold: 137
-    vp_num_i_fold: 123
-    vp_num_r_fold: 12
+    vp_num_s_fold: 138
+    vp_num_i_fold: 128
+    vp_num_r_fold: 14
   - name: mRNA-1273 + mRNA-1273.211
     vp_studies: 1
     vp_num_fold: 20
@@ -558,14 +558,14 @@
     vp_num_i_fold: 20
     vp_num_r_fold: 10
   - name: BNT162b2
-    vp_studies: 17
-    vp_num_fold: 714
+    vp_studies: 18
+    vp_num_fold: 772
     vp_s_fold: 4%
-    vp_i_fold: 26%
-    vp_r_fold: 70%
-    vp_num_s_fold: 27
-    vp_num_i_fold: 184
-    vp_num_r_fold: 503
+    vp_i_fold: 25%
+    vp_r_fold: 71%
+    vp_num_s_fold: 30
+    vp_num_i_fold: 196
+    vp_num_r_fold: 546
   - name: BNT162b2 + mRNA-1273
     vp_studies: 1
     vp_num_fold: 2
@@ -585,14 +585,14 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 10
   - name: mRNA-1273
-    vp_studies: 7
-    vp_num_fold: 226
+    vp_studies: 8
+    vp_num_fold: 231
     vp_s_fold: 2%
-    vp_i_fold: 27%
-    vp_r_fold: 71%
+    vp_i_fold: 26%
+    vp_r_fold: 72%
     vp_num_s_fold: 5
-    vp_num_i_fold: 60
-    vp_num_r_fold: 161
+    vp_num_i_fold: 61
+    vp_num_r_fold: 165
 - variant: Iota
   vaccine:
   - name: BNT162b2
@@ -625,11 +625,11 @@
   - name: mRNA-1273
     vp_studies: 10
     vp_num_fold: 178
-    vp_s_fold: 83%
-    vp_i_fold: 16%
+    vp_s_fold: 81%
+    vp_i_fold: 18%
     vp_r_fold: 1%
-    vp_num_s_fold: 147
-    vp_num_i_fold: 29
+    vp_num_s_fold: 144
+    vp_num_i_fold: 32
     vp_num_r_fold: 2
   - name: mRNA-1273 + mRNA-1273.211
     vp_studies: 1
@@ -693,8 +693,8 @@
     vp_s_fold: 82%
     vp_i_fold: 16%
     vp_r_fold: 2%
-    vp_num_s_fold: 254
-    vp_num_i_fold: 49
+    vp_num_s_fold: 253
+    vp_num_i_fold: 50
     vp_num_r_fold: 5
   - name: mRNA-1273 + mRNA-1273.211
     vp_studies: 1
@@ -764,11 +764,11 @@
   - name: mRNA-1273
     vp_studies: 7
     vp_num_fold: 146
-    vp_s_fold: 31%
-    vp_i_fold: 66%
+    vp_s_fold: 33%
+    vp_i_fold: 64%
     vp_r_fold: 3%
-    vp_num_s_fold: 45
-    vp_num_i_fold: 97
+    vp_num_s_fold: 48
+    vp_num_i_fold: 94
     vp_num_r_fold: 4
   - name: mRNA-1273 + mRNA-1273.211
     vp_studies: 1

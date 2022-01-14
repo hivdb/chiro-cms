@@ -1,30 +1,30 @@
 - char: BNT162b2
-  num_ref: 98
-  num_fold: 13774
+  num_ref: 122
+  num_fold: 16558
 - char: mRNA-1273
-  num_ref: 35
-  num_fold: 4463
+  num_ref: 46
+  num_fold: 5590
 - char: CoronaVac
-  num_ref: 8
-  num_fold: 1526
-- char: AZD1222
-  num_ref: 17
-  num_fold: 1594
-- char: Ad26.COV2.S
   num_ref: 9
-  num_fold: 1008
+  num_fold: 1626
+- char: AZD1222
+  num_ref: 26
+  num_fold: 2345
+- char: Ad26.COV2.S
+  num_ref: 13
+  num_fold: 1092
 - char: BBV152
-  num_ref: 5
-  num_fold: 449
+  num_ref: 6
+  num_fold: 569
 - char: BBV154
   num_ref: 1
   num_fold: 120
 - char: Sputnik V
-  num_ref: 3
-  num_fold: 408
+  num_ref: 5
+  num_fold: 428
 - char: BBIBP-CorV
-  num_ref: 2
-  num_fold: 111
+  num_ref: 6
+  num_fold: 586
 - char: NVX-CoV2373
   num_ref: 2
   num_fold: 148
@@ -32,8 +32,8 @@
   num_ref: 1
   num_fold: 59
 - char: AZD1222 + BNT162b2
-  num_ref: 4
-  num_fold: 315
+  num_ref: 8
+  num_fold: 544
 - char: AZD1222 + mRNA-1273
   num_ref: 1
   num_fold: 48
@@ -50,5 +50,5 @@
   num_ref: 2
   num_fold: 56
 - char: mRNA-1273 + mRNA-1273.351
-  num_ref: 1
-  num_fold: 37
+  num_ref: 2
+  num_fold: 277

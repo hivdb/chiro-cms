@@ -1,11 +1,11 @@
 - mut_name: L18F
   domain: NTD
-  num_ref: 6
+  num_ref: 7
   num_fold: 133
 - mut_name: HV69-70∆
   domain: NTD
-  num_ref: 11
-  num_fold: 288
+  num_ref: 13
+  num_fold: 307
 - mut_name: D80A
   domain: NTD
   num_ref: 3
@@ -13,7 +13,7 @@
 - mut_name: Y144∆
   domain: NTD
   num_ref: 4
-  num_fold: 113
+  num_fold: 112
 - mut_name: D215G
   domain: NTD
   num_ref: 4
@@ -21,16 +21,12 @@
 - mut_name: LAL242-244∆
   domain: NTD
   num_ref: 6
-  num_fold: 172
+  num_fold: 171
 - mut_name: R246I
   domain: NTD
   num_ref: 4
   num_fold: 116
-- mut_name: S247R
-  domain: NTD
-  num_ref: 1
-  num_fold: 33
 - mut_name: other
   domain: NTD
-  num_ref: 18
-  num_fold: 666
+  num_ref: 23
+  num_fold: 849
