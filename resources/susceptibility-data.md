@@ -15,7 +15,9 @@
   <!-- - [Figure: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-data/figure/#figure.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons) -->
   - [Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the four variants of concern (VOC): Alpha, Beta, Gamma, and Delta.](#figure.1.distribution.of.fold-reduction.in.susceptibilities.a.and.of.absolute.neutralizing.titers.b.of.vaccinee.plasma.vp.associated.with.eight.vaccines.to.the.four.variants.of.concern.voc.alpha.beta.gamma.and.delta.)
   - [Figure 2: Monoclonal antibodies (mAbs) with EUAs or in advanced clinical development: receptor binding domain (RBD) epitopes and immune escape positions.](#figure.2.monoclonal.antibodies.mabs.with.euas.or.in.advanced.clinical.development.receptor.binding.domain.rbd.epitopes.and.immune.escape.positions.)
-
+- Lookup tables
+  - [mAb (monoclonal antibody) synonyms](/page/mab-synonyms)
+  - [Wildtype mutations](/page/wildtype)
 - [References](#references)
 
 [/toc]
