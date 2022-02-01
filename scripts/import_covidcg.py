@@ -1,7 +1,7 @@
 import os
 import json
-import click
-import ruamel.yaml
+import click  # type: ignore
+import ruamel.yaml  # type: ignore
 from collections import defaultdict
 
 yaml = ruamel.yaml.YAML()

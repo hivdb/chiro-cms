@@ -100,6 +100,9 @@ seqreads-analysis-form-placeholder: >-
 ngs2codfreq-placeholder: >-
   Convert FASTQ => CodFreq Files
 
+seqsummary-header-genotype: >-
+  Spike Variant
+
 no-mab-susc-result: >-
   No mAb susceptibility data are available. All mAbs expected to be active.
 
