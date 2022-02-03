@@ -43,4 +43,4 @@ GROUP BY im.gene, im.position, im.amino_acid
 ORDER BY im.gene, im.position, im.amino_acid;
 .quit
 EOF
-echo "Create downloads/resistance-mutations/${DRDB_VERSION}.tsv"
+echo "Create: downloads/resistance-mutations/${DRDB_VERSION}.tsv"
