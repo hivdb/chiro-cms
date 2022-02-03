@@ -126,3 +126,8 @@ mab-footnote: |-
   - **ROM**: Romlusevimab, developed by Brii Biosciences
   - **C135**, **C144**: developed by The Rockefeller University
   - **DXP-604**: developed by BeiGene and Singlomics
+
+mutation-popup: >-
+  Search:
+  [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=SARS+${uriGene}+${uriMutation}) |
+  [Google Scholar](https://scholar.google.com/scholar?q=SARS+${uriGene}+${uriMutation})
