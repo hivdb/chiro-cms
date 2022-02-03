@@ -6,15 +6,20 @@ mkdir -p downloads/resistance-mutations
 
 rm -rf local/covid-drdb.db
 curl -sSLo local/covid-drdb.db "https://s3-us-west-2.amazonaws.com/cms.hivdb.org/covid-drdb/covid-drdb-${DRDB_VERSION}.db" --compressed
+rm -rf downloads/resistance-mutations/latest.tsv
 cat <<EOF | sqlite3 local/covid-drdb.db
 .headers on
 .mode tabs
-.output downloads/resistance-mutations/${DRDB_VERSION}.tsv
+.output downloads/resistance-mutations/latest.tsv
 SELECT
   im.gene,
   im.position,
-  im.amino_acid,
-  max(fold) as max_fold
+  CASE im.amino_acid
+    WHEN 'ins' THEN '_'
+    WHEN 'del' THEN '-'
+    WHEN 'stop' THEN '*'
+    ELSE im.amino_acid
+  END AS aa
 FROM susc_results s, isolate_pairs ip, isolate_mutations im
 WHERE
   fold >= 3 AND
@@ -39,8 +44,21 @@ WHERE
       igm.position=im.position AND
       igm.amino_acid=im.amino_acid
   )
-GROUP BY im.gene, im.position, im.amino_acid
-ORDER BY im.gene, im.position, im.amino_acid;
+GROUP BY im.gene, im.position, aa
+ORDER BY im.gene, im.position, aa;
 .quit
 EOF
-echo "Create: downloads/resistance-mutations/${DRDB_VERSION}.tsv"
+echo "Create: $(realpath downloads/resistance-mutations)/latest.tsv"
+
+cat <<EOF | python3
+import csv
+import json
+
+with open('downloads/resistance-mutations/latest.tsv') as fp:
+    rows = list(csv.DictReader(fp, delimiter='\t'))
+
+with open('downloads/resistance-mutations/latest.json', 'w') as fp:
+    json.dump({'MAB': rows}, fp, indent=2)
+
+EOF
+echo "Create: $(realpath downloads/resistance-mutations)/latest.json"
