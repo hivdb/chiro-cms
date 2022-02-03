@@ -55,7 +55,10 @@ import csv
 import json
 
 with open('downloads/resistance-mutations/latest.tsv') as fp:
-    rows = list(csv.DictReader(fp, delimiter='\t'))
+    rows = []
+    for row in csv.DictReader(fp, delimiter='\t'):
+        row['position'] = int(row['position'])
+        rows.append(row)
 
 with open('downloads/resistance-mutations/latest.json', 'w') as fp:
     json.dump({'MAB': rows}, fp, indent=2)
