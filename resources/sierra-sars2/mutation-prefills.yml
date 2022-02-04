@@ -58,8 +58,8 @@
   - S:V143del
   - S:Y144del
   - S:Y145del
-  - S:N211del
-  - S:L212I
+  - S:N211I
+  - S:L212del
   - S:R214ins
   - S:G339D
   - S:S371L
@@ -71,7 +71,7 @@
   - S:S477N
   - S:T478K
   - S:E484A
-  - S:Q493K
+  - S:Q493R
   - S:G496S
   - S:Q498R
   - S:N501Y
@@ -81,6 +81,7 @@
   - S:H655Y
   - S:N679K
   - S:P681H
+  - S:A701V
   - S:N764K
   - S:D796Y
   - S:N856K
