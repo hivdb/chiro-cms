@@ -1,7 +1,7 @@
 import os
 import re
 import warnings
-import ruamel.yaml
+import ruamel.yaml  # type: ignore
 
 yaml = ruamel.yaml.YAML()
 
@@ -194,6 +194,11 @@ def yield_mutannots_json(resource_dir):
                 all_posaas = sorted(set(all_posaas))
 
                 if level == 'position':
+                    if 'positions' not in annotdata:
+                        raise KeyError(
+                            "'positions' is required for annotation {!r}"
+                            .format(annot_name)
+                        )
                     for subgroup in annotdata['positions']:
                         for pos in get_positions(subgroup):
                             posdata = positions.setdefault(pos, {

@@ -30,107 +30,41 @@ annotCategories:
   multiSelect: true
   annotStyle: underscore
   annotNames:
-  - 2-4 epitope
-  - 2-15 epitope
-  - 2-51 epitope
-  - 910-30 epitope
-  - 2H2 epitope
-  - 3C1 epitope
-  - 4A8 epitope
-  - B38 epitope
   - Bamlanivimab epitope
-  - BD-23 epitope
-  - BD-236 epitope
-  - BD-368-2 epitope
-  - BD-604 epitope
-  - BD-629 epitope
-  - C002 epitope
-  - C102 epitope
-  - C104 epitope
-  - C105 epitope
-  - C110 epitope
-  - C119 epitope
-  - C121 epitope
+  - Etesevimab epitope
+  - Casirivimab epitope
+  - Imdevimab epitope
+  - Cilgavimab epitope
+  - Tixagevimab epitope
+  - Sotrovimab epitope
+  - Regdanvimab epitope
+  - Amubarvimab epitope
   - C135 epitope
   - C144 epitope
-  - CT-P59 epitope
-  - C1A-B12 epitope
-  - C1A-B3 epitope
-  - C1A-C2 epitope
-  - C1A-F10 epitope
-  - CB6 epitope
-  - CC12.1 epitope
-  - CC12.3 epitope
-  - COVA1-16 epitope
-  - COVA2-04 epitope
-  - COVA2-39 epitope
-  - CR3014-C8 epitope
-  - CR3022-B6 epitope
-  - CR3022 epitope
-  - CV30 epitope
-  - CV07-250 epitope
-  - CV07-270 epitope
-  - DH1047 epitope
-  - DH1050 epitope
-  - EY6A epitope
-  - Fab-298 epitope
-  - Fab-52 epitope
-  - FC05 epitope
-  - H014 epitope
-  - H11-D4 epitope
-  - H11-H4 epitope
-  - LY-CoV481 epitope
-  - LY-CoV488 epitope
-  - MR17 epitope
-  - MR17-K99Y epitope
-  - nb20 epitope
-  - Nb6 epitope
-  - P17 epitope
-  - P2B-2F6 epitope
-  - P2C-1A3 epitope
-  - P2C-1F11 epitope
-  - P4A1 epitope
-  - S2A4 epitope
-  - S2E12 epitope
-  - S2H13 epitope
-  - S2H14 epitope
-  - S2M11 epitope
-  - S304 epitope
-  - REGN10933 epitope
-  - REGN10987 epitope
-  - S309 epitope
-  - Sb16 epitope
-  - Sb45 epitope
-  - Sb68 epitope
-  - Sb23 epitope
-  - SR4 epitope
-  - SR31 epitope
-  - VHH E epitope
-  - VHH U epitope
-  - VHH V epitope
-  - VHH W epitope
-  - STE90-C11 epitope
-  - Ty1 epitope
-- name: polymorphism
-  dropdown: true
-  defaultAnnot: var2000
-  multiSelect: false
-  annotStyle: aminoAcids
-  color: '#999'
-  annotNames:
-  - var2000
-  - var1000
-- name: lineages
-  display: lineages
+# - name: polymorphism
+#   dropdown: true
+#   defaultAnnot: var2000
+#   multiSelect: false
+#   annotStyle: aminoAcids
+#   color: '#999'
+#   annotNames:
+#   - var2000
+#   - var1000
+- name: variants
+  display: variants
   dropdown: true
   defaultAnnots: []
   multiSelect: true
   annotStyle: aminoAcids
   color: '#483d8b'
   annotNames:
-  - "lineage B.1.1.7"
-  - "lineage 501.V2"
-  - "lineage Cluster 5"
+  - "Variant Alpha"
+  - "Variant Beta"
+  - "Variant Gamma"
+  - "Variant Delta"
+  - "Variant Omicron"
+  - "Variant Lambda"
+  - "Variant Mu"
 # - name: resistance
 #   display: mAb DRMs
 #   dropdown: true
@@ -155,7 +89,7 @@ annotCategories:
 #   - resistance C135
 #   - resistance C144
 #   - resistance CA1
-#   - resistance CB6
+#   - resistance Etesevimab
 #   - resistance COV2-2082
 #   - resistance COV2-2165
 #   - resistance COV2-2479
@@ -165,11 +99,11 @@ annotCategories:
 #   - resistance H4
 #   - resistance LY-CoV2016
 #   - resistance P2B-2F6
-#   - resistance P2C-1F11
+#   - resistance Amubarvimab
 #   - resistance REGN-COV2
-#   - resistance REGN10933
+#   - resistance Casirivimab
 #   - resistance REGN10934
-#   - resistance REGN10987
+#   - resistance Imdevimab
 #   - resistance REGN10989
 #   - resistance REGN10989/10934
 #   - resistance REGN10989/10987
@@ -340,26 +274,26 @@ conditionalComments:
       args: [var2000]
     DOT:
       func: getDot
-- commentName: lineage
+- commentName: variant
   rank: 9
   condition:
     func: hasAnnotCategory
-    args: [lineages]
+    args: [variants]
   prefix:
     func: mutationOfAnnotCat
-    args: [lineages]
+    args: [variants]
   templateSingular: >-
-    a mutation that observed in $LINEAGES
+    a mutation that observed in $VARIANTS
   templatePlural: >-
-    mutations that observed in $LINEAGES
+    mutations that observed in $VARIANTS
   variables:
-    LINEAGES:
+    VARIANTS:
       func: joinAnnotLabelOfAnnotCat
-      args: [lineages]
+      args: [variants]
       keywords:
-        singular_prefix: lineage
-        plural_prefix: lineages
+        singular_prefix: variant
+        plural_prefix: variants
         footnote: true
   triggeredAAs:
     func: mutationOfAnnotCat
-    args: [lineages]
+    args: [variants]

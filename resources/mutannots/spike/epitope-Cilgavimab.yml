@@ -1,0 +1,16 @@
+name: Cilgavimab epitope
+label: Cilgavimab
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1038/s41564-021-00972-2
+  author: Dong
+  year: 2021
+  section: 'PDB: 7L7E'
+  positions: [345, 346, 439, 440, 441, 443, 444, 445, 446, 447, 448, 449, 450,
+    452, 484, 490, 492, 493, 494, 499]
+positions:
+- subgroup: Cilgavimab
+  positions: [345, 346, 439, 440, 441, 443, 444, 445, 446, 447, 448, 449, 450,
+    452, 484, 490, 492, 493, 494, 499]

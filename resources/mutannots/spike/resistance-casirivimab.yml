@@ -1,6 +1,6 @@
-name: resistance Imdevimab
-label: Imdevimab
-tableColLabel: Imdevimab DRM
+name: resistance Casirivimab
+label: Casirivimab
+tableColLabel: Casirivimab DRM
 level: aminoAcid
 hideCitations: false
 colorRules: []
@@ -11,34 +11,38 @@ citations:
   section: Figure S3; BioRxiv PDF Page 3, Line 4-6; bit.ly/2KxSP2Q Out[7]
   aminoAcids:
   - 406W
-  - 439K
-  - 440D
-  - 444Q
+  - 486IK
+  - 493K
   aminoAcidAttrs:
     - attr: studyType
       pairs:
         406W: inVitro
-        439K: inVitro
-        440D: inVivo
-        444Q: inVitro
+        486I: inVivo
+        486K: inVitro
+        493K: inVivo
     - attr: log10Fold
       pairs:
-        406W: 2.04
-        439K: 1.56
-        444Q: 2.93
+        406W: 1.93
+        486K: 2.97
 - doi: 10.1126/science.abd0831
   author: Baum
   year: 2020
   section: Table 2
   aminoAcids:
-  - 444Q
-  - 445A
-  - 450D
+  - 417E
+  - 453F
+  - 455F
+  - 484K
+  - 486V
+  - 493K
   aminoAcidAttrs:
     - attr: studyType
       value: inVitro
     - attr: log10Fold
       pairs:
-        444Q: .inf
-        445A: .inf
-        450D: 1.52
+        417E: 2.17
+        453F: .inf
+        455F: .inf
+        484K: 1.31
+        486V: .inf
+        493K: .inf

@@ -1,0 +1,20 @@
+name: "Variant Delta"
+label: "VOC Delta"
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- refID: Outbreak20
+  author: Mullen
+  year: 2020
+  section: 'https://outbreak.info/situation-reports/delta'
+  aminoAcids:
+  - 19R
+  - 156G
+  - 157d
+  - 158d
+  - 452R
+  - 478K
+  - 614G
+  - 681R
+  - 950N

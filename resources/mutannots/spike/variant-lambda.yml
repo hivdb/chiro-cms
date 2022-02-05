@@ -1,0 +1,25 @@
+name: "Variant Lambda"
+label: "Lambda"
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- refID: Outbreak20
+  author: Lambdallen
+  year: 2020
+  section: 'https://outbreak.info/situation-reports/lambda'
+  aminoAcids:
+  - 75V
+  - 76I
+  - 246N
+  - 247d
+  - 248d
+  - 249d
+  - 250d
+  - 251d
+  - 252d
+  - 253d
+  - 452Q
+  - 490S
+  - 614G
+  - 859N

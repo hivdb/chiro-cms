@@ -1,0 +1,16 @@
+name: Amubarvimab epitope
+label: Amubarvimab
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1038/s41467-020-20501-9
+  author: Wang
+  year: 2021
+  section: 'PDB: 7CDI'
+  positions: [403, 415, 416, 417, 420, 421, 453, 455, 456, 457, 458, 459, 460, 473,
+    474, 475, 476, 477, 486, 487, 489, 493, 502, 505]
+positions:
+- subgroup: Amubarvimab
+  positions: [403, 415, 416, 417, 420, 421, 453, 455, 456, 457, 458, 459, 460, 473,
+    474, 475, 476, 477, 486, 487, 489, 493, 502, 505]

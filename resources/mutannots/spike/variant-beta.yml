@@ -1,0 +1,21 @@
+name: "Variant Beta"
+label: "Beta"
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- refID: Outbreak20
+  author: Mullen
+  year: 2020
+  section: 'https://outbreak.info/situation-reports/beta'
+  aminoAcids:
+  - 80A
+  - 215G
+  - 241d
+  - 242d
+  - 243d
+  - 417N
+  - 484K
+  - 501Y
+  - 614G
+  - 701V

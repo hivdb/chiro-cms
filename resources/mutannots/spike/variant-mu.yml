@@ -1,0 +1,20 @@
+name: "Variant Mu"
+label: "Mu"
+level: aminoAcid
+hideCitations: false
+colorRules: []
+citations:
+- refID: Outbreak20
+  author: Mullen
+  year: 2020
+  section: 'https://outbreak.info/situation-reports/mu'
+  aminoAcids:
+  - 95I
+  - 144S
+  - 145N
+  - 346K
+  - 484K
+  - 501Y
+  - 614G
+  - 681H
+  - 950N

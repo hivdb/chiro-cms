@@ -1,6 +1,6 @@
-name: resistance Etesevimab
-label: Etesevimab
-tableColLabel: Etesevimab DRM
+name: resistance Amubarvimab
+label: Amubarvimab
+tableColLabel: Amubarvimab DRM
 level: aminoAcid
 hideCitations: false
 colorRules: []
@@ -17,5 +17,5 @@ citations:
       value: inVitro
     - attr: log10Fold
       pairs:
-        234Q: 1.11
-        475V: 1.21
+        234Q: 1.27
+        475V: 1.85
