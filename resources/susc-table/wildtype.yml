@@ -5,18 +5,18 @@
 - var_name: A.2.2
   pattern: ''
 - var_name: B
-  pattern: D215H+E484D+S686G
+  pattern: H49Y
 - var_name: B
   pattern: ''
 - var_name: B
   pattern: S247R
-- var_name: B
-  pattern: H49Y
-- var_name: B.1
-  pattern: D614G
 - var_name: B.1
   pattern: D215Y+D614G
+- var_name: B.1
+  pattern: D614G
 - var_name: B.1.1
+  pattern: D614G
+- var_name: B.1.1.1
   pattern: D614G
 - var_name: B.1.1.117
   pattern: D614G+A688V
