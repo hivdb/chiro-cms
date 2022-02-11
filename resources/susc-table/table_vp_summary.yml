@@ -630,14 +630,14 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 40
   - name: BNT162b2
-    vp_studies: 22
-    vp_num_fold: 1005
+    vp_studies: 24
+    vp_num_fold: 1069
     vp_s_fold: 3%
-    vp_i_fold: 27%
-    vp_r_fold: 70%
-    vp_num_s_fold: 31
-    vp_num_i_fold: 276
-    vp_num_r_fold: 698
+    vp_i_fold: 26%
+    vp_r_fold: 71%
+    vp_num_s_fold: 35
+    vp_num_i_fold: 277
+    vp_num_r_fold: 757
   - name: BNT162b2 + mRNA-1273
     vp_studies: 1
     vp_num_fold: 2
@@ -666,32 +666,32 @@
     vp_num_i_fold: 6
     vp_num_r_fold: 0
   - name: Sputnik V
-    vp_studies: 2
-    vp_num_fold: 19
-    vp_s_fold: 0
-    vp_i_fold: 47%
-    vp_r_fold: 53%
-    vp_num_s_fold: 0
-    vp_num_i_fold: 9
-    vp_num_r_fold: 10
+    vp_studies: 3
+    vp_num_fold: 70
+    vp_s_fold: 31%
+    vp_i_fold: 23%
+    vp_r_fold: 46%
+    vp_num_s_fold: 22
+    vp_num_i_fold: 16
+    vp_num_r_fold: 32
   - name: mRNA
-    vp_studies: 1
-    vp_num_fold: 22
+    vp_studies: 2
+    vp_num_fold: 38
     vp_s_fold: 0
-    vp_i_fold: 0
-    vp_r_fold: 100%
+    vp_i_fold: 42%
+    vp_r_fold: 58%
     vp_num_s_fold: 0
-    vp_num_i_fold: 0
+    vp_num_i_fold: 16
     vp_num_r_fold: 22
   - name: mRNA-1273
-    vp_studies: 10
-    vp_num_fold: 339
+    vp_studies: 11
+    vp_num_fold: 351
     vp_s_fold: 1%
-    vp_i_fold: 35%
-    vp_r_fold: 64%
+    vp_i_fold: 34%
+    vp_r_fold: 65%
     vp_num_s_fold: 5
     vp_num_i_fold: 119
-    vp_num_r_fold: 215
+    vp_num_r_fold: 227
 - variant: Iota
   vaccine:
   - name: BNT162b2

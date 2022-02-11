@@ -1,3 +1,129 @@
+- variant: T19I
+  cas:
+    fold: '3.7'
+    fold_cmp: ''
+    num: 1
+  ete:
+    fold: '3'
+    fold_cmp: ''
+    num: 1
+  tix:
+    fold: '1.9'
+    fold_cmp: ''
+    num: 1
+  bam:
+    fold: '2.2'
+    fold_cmp: ''
+    num: 1
+  cil:
+    fold: '1.5'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '2.1'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '1.8'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  cas_imd:
+    fold: '-'
+  cil_tix:
+    fold: '-'
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '4.9'
+    fold_cmp: ''
+    num: 1
+  b_198:
+    fold: '1.6'
+    fold_cmp: ''
+    num: 1
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  Adintrevimab:
+    fold: '1.7'
+    fold_cmp: ''
+    num: 1
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '-'
+- variant: L24S
+  cas:
+    fold: '3.2'
+    fold_cmp: ''
+    num: 1
+  ete:
+    fold: '2.9'
+    fold_cmp: ''
+    num: 1
+  tix:
+    fold: '2.4'
+    fold_cmp: ''
+    num: 1
+  bam:
+    fold: '2.4'
+    fold_cmp: ''
+    num: 1
+  cil:
+    fold: '2.1'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '4.2'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '1.5'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  cas_imd:
+    fold: '-'
+  cil_tix:
+    fold: '-'
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '4'
+    fold_cmp: ''
+    num: 1
+  b_198:
+    fold: '2.2'
+    fold_cmp: ''
+    num: 1
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  Adintrevimab:
+    fold: '1.3'
+    fold_cmp: ''
+    num: 1
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '-'
 - variant: A67V
   cas:
     fold: '0.9'
@@ -315,6 +441,69 @@
     fold: '-'
   DXP604:
     fold: '-'
+- variant: V213G
+  cas:
+    fold: '3.1'
+    fold_cmp: ''
+    num: 1
+  ete:
+    fold: '2.5'
+    fold_cmp: ''
+    num: 1
+  tix:
+    fold: '1.5'
+    fold_cmp: ''
+    num: 1
+  bam:
+    fold: '1.1'
+    fold_cmp: ''
+    num: 1
+  cil:
+    fold: '2'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '2.2'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '1.2'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  cas_imd:
+    fold: '-'
+  cil_tix:
+    fold: '-'
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '3.1'
+    fold_cmp: ''
+    num: 1
+  b_198:
+    fold: '1.1'
+    fold_cmp: ''
+    num: 1
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  Adintrevimab:
+    fold: '0.9'
+    fold_cmp: ''
+    num: 1
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '-'
 - variant: G339D
   cas:
     fold: '1.8'
@@ -514,6 +703,69 @@
     fold: '-'
   DXP604:
     fold: '-'
+- variant: S371F
+  cas:
+    fold: '28'
+    fold_cmp: ''
+    num: 1
+  ete:
+    fold: '143'
+    fold_cmp: ''
+    num: 1
+  tix:
+    fold: '26'
+    fold_cmp: ''
+    num: 1
+  bam:
+    fold: '5.1'
+    fold_cmp: ''
+    num: 1
+  cil:
+    fold: '1.3'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '87'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '21'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  cas_imd:
+    fold: '-'
+  cil_tix:
+    fold: '-'
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '126'
+    fold_cmp: ''
+    num: 1
+  b_198:
+    fold: '22'
+    fold_cmp: ''
+    num: 1
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  Adintrevimab:
+    fold: '43'
+    fold_cmp: ''
+    num: 1
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '-'
 - variant: S373P
   cas:
     fold: '1.6'
@@ -638,6 +890,195 @@
     fold: '-'
   Adintrevimab:
     fold: '0.6'
+    fold_cmp: ''
+    num: 1
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '-'
+- variant: T376A
+  cas:
+    fold: '2.1'
+    fold_cmp: ''
+    num: 1
+  ete:
+    fold: '1.9'
+    fold_cmp: ''
+    num: 1
+  tix:
+    fold: '1.3'
+    fold_cmp: ''
+    num: 1
+  bam:
+    fold: '1.7'
+    fold_cmp: ''
+    num: 1
+  cil:
+    fold: '1.8'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '1.9'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '1'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  cas_imd:
+    fold: '-'
+  cil_tix:
+    fold: '-'
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '3.1'
+    fold_cmp: ''
+    num: 1
+  b_198:
+    fold: '0.5'
+    fold_cmp: ''
+    num: 1
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  Adintrevimab:
+    fold: '0.9'
+    fold_cmp: ''
+    num: 1
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '-'
+- variant: D405N
+  cas:
+    fold: '2.8'
+    fold_cmp: ''
+    num: 1
+  ete:
+    fold: '26'
+    fold_cmp: ''
+    num: 1
+  tix:
+    fold: '2.1'
+    fold_cmp: ''
+    num: 1
+  bam:
+    fold: '1.9'
+    fold_cmp: ''
+    num: 1
+  cil:
+    fold: '1'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '1.6'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '0.7'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  cas_imd:
+    fold: '-'
+  cil_tix:
+    fold: '-'
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '2.3'
+    fold_cmp: ''
+    num: 1
+  b_198:
+    fold: '1.6'
+    fold_cmp: ''
+    num: 1
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  Adintrevimab:
+    fold: '0.3'
+    fold_cmp: ''
+    num: 1
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '-'
+- variant: R408S
+  cas:
+    fold: '1.1'
+    fold_cmp: ''
+    num: 1
+  ete:
+    fold: '0.7'
+    fold_cmp: ''
+    num: 1
+  tix:
+    fold: '0.7'
+    fold_cmp: ''
+    num: 1
+  bam:
+    fold: '1.6'
+    fold_cmp: ''
+    num: 1
+  cil:
+    fold: '1'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '0.8'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '1'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  cas_imd:
+    fold: '-'
+  cil_tix:
+    fold: '-'
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '1.1'
+    fold_cmp: ''
+    num: 1
+  b_198:
+    fold: '0.7'
+    fold_cmp: ''
+    num: 1
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  Adintrevimab:
+    fold: '1.6'
     fold_cmp: ''
     num: 1
   Vir7832:

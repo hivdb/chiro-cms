@@ -324,31 +324,31 @@
   cas:
     fold: '1000'
     fold_cmp: '>'
-    num: 19
+    num: 21
   ete:
     fold: '323'
     fold_cmp: ''
-    num: 17
+    num: 19
   tix:
-    fold: '238'
+    fold: '276'
     fold_cmp: ''
-    num: 16
+    num: 18
   bam:
     fold: '1000'
     fold_cmp: '>'
-    num: 18
+    num: 20
   cil:
     fold: '305'
     fold_cmp: ''
-    num: 16
+    num: 18
   imd:
-    fold: '500'
-    fold_cmp: ''
-    num: 19
+    fold: '1000'
+    fold_cmp: '>'
+    num: 21
   sot:
-    fold: '3.1'
+    fold: '3.4'
     fold_cmp: ''
-    num: 19
+    num: 20
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -378,11 +378,11 @@
   b_196:
     fold: '141'
     fold_cmp: ''
-    num: 2
+    num: 4
   b_198:
     fold: '0.5'
     fold_cmp: ''
-    num: 1
+    num: 2
   b_196_198:
     fold: '13'
     fold_cmp: ''
@@ -390,9 +390,9 @@
   JMB2002:
     fold: '-'
   Adintrevimab:
-    fold: '314'
+    fold: '276'
     fold_cmp: ''
-    num: 6
+    num: 7
   Vir7832:
     fold: '3.1'
     fold_cmp: ''
