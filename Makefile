@@ -34,7 +34,7 @@ resources/sierra-sars2/outbreak.info/lineages.json: % : local/timestamp/%.$(shel
 	python3.9 -m "json.tool" --indent=2 local/lineages.json > resources/sierra-sars2/outbreak.info/lineages.json
 	@test "$$(jq .success resources/sierra-sars2/outbreak.info/lineages.json)" = "true" || (echo "success != true" && false)
 
-downloads/resistance-mutations: pages/sierra-sars2.yml scripts/import_sars2_drms.sh
+downloads/resistance-mutations: pages/sierra-sars2.yml scripts/import_sars2_drms.sh local/covid-drdb.db
 	@scripts/import_sars2_drms.sh
 	@touch downloads/resistance-mutations
 

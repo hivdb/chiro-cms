@@ -10,6 +10,7 @@ rm -rf downloads/resistance-mutations/latest.tsv
 cat <<EOF | sqlite3 local/covid-drdb.db
 .headers on
 .mode tabs
+.bail on
 .output downloads/resistance-mutations/latest.tsv
 SELECT
   im.gene,
