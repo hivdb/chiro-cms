@@ -25,6 +25,10 @@ projectSections:
         In vitro experiments, animal model and clinical studies
       link: /antiviral-portal/
       image: home/edumat-compounds.png
+    - title: Spike viewer
+      description: A mutation annotation viewer of Spike gene
+      link: /mut-annot-viewer/SARS2S/
+      image: home/edumat-spike-viewer.png
   - title: Publications
     displayTitle: true
     items:
