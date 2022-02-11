@@ -5,12 +5,11 @@ DRDB_VERSION=$(\grep drdbVersion pages/sierra-sars2.yml | awk '{print $2}' | jq 
 mkdir -p downloads/resistance-mutations
 
 rm -rf local/covid-drdb.db
-curl -sSLo local/covid-drdb.db "https://s3-us-west-2.amazonaws.com/cms.hivdb.org/covid-drdb/covid-drdb-${DRDB_VERSION}.db" --compressed
+curl --fail -sSLo local/covid-drdb.db "https://s3-us-west-2.amazonaws.com/cms.hivdb.org/covid-drdb/covid-drdb-${DRDB_VERSION}.db" --compressed
 rm -rf downloads/resistance-mutations/latest.tsv
 cat <<EOF | sqlite3 local/covid-drdb.db
 .headers on
 .mode tabs
-.bail on
 .output downloads/resistance-mutations/latest.tsv
 SELECT
   im.gene,
