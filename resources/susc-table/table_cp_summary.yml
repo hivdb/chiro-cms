@@ -34,7 +34,7 @@
   cp_num_s_fold: 273
   cp_num_i_fold: 211
   cp_num_r_fold: 45
-- variant: Omicron
+- variant: Omicron/BA.1
   cp_studies: 17
   cp_num_fold: 485
   cp_s_fold: 2%
@@ -43,6 +43,15 @@
   cp_num_s_fold: 9
   cp_num_i_fold: 65
   cp_num_r_fold: 411
+- variant: Omicron/BA.2
+  cp_studies: 1
+  cp_num_fold: 10
+  cp_s_fold: 0
+  cp_i_fold: 0
+  cp_r_fold: 100%
+  cp_num_s_fold: 0
+  cp_num_i_fold: 0
+  cp_num_r_fold: 10
 - variant: Iota
   cp_studies: 0
   cp_num_fold: 0

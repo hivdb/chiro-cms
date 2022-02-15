@@ -555,7 +555,7 @@
     vp_num_s_fold: 5
     vp_num_i_fold: 5
     vp_num_r_fold: 1
-- variant: Omicron
+- variant: Omicron/BA.1
   vaccine:
   - name: AZD1222
     vp_studies: 9
@@ -692,6 +692,35 @@
     vp_num_s_fold: 5
     vp_num_i_fold: 119
     vp_num_r_fold: 227
+- variant: Omicron/BA.2
+  vaccine:
+  - name: BNT162b2
+    vp_studies: 1
+    vp_num_fold: 13
+    vp_s_fold: 0
+    vp_i_fold: 0
+    vp_r_fold: 100%
+    vp_num_s_fold: 0
+    vp_num_i_fold: 0
+    vp_num_r_fold: 13
+  - name: mRNA
+    vp_studies: 1
+    vp_num_fold: 16
+    vp_s_fold: 0
+    vp_i_fold: 100%
+    vp_r_fold: 0
+    vp_num_s_fold: 0
+    vp_num_i_fold: 16
+    vp_num_r_fold: 0
+  - name: mRNA-1273
+    vp_studies: 1
+    vp_num_fold: 12
+    vp_s_fold: 0
+    vp_i_fold: 0
+    vp_r_fold: 100%
+    vp_num_s_fold: 0
+    vp_num_i_fold: 0
+    vp_num_r_fold: 12
 - variant: Iota
   vaccine:
   - name: BNT162b2

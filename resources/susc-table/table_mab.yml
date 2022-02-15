@@ -31,6 +31,10 @@
     fold: '2.6'
     fold_cmp: ''
     num: 2
+  beb:
+    fold: '0.6'
+    fold_cmp: ''
+    num: 4
   cas_imd:
     fold: '1'
     fold_cmp: ''
@@ -112,6 +116,10 @@
     fold: '33'
     fold_cmp: ''
     num: 3
+  beb:
+    fold: '0.6'
+    fold_cmp: ''
+    num: 4
   cas_imd:
     fold: '1.5'
     fold_cmp: ''
@@ -191,6 +199,10 @@
     num: 13
   reg:
     fold: '61'
+    fold_cmp: ''
+    num: 3
+  beb:
+    fold: '0.7'
     fold_cmp: ''
     num: 3
   cas_imd:
@@ -274,6 +286,10 @@
     fold: '9.8'
     fold_cmp: ''
     num: 3
+  beb:
+    fold: '0.7'
+    fold_cmp: ''
+    num: 4
   cas_imd:
     fold: '1'
     fold_cmp: ''
@@ -320,7 +336,7 @@
     fold: '1.6'
     fold_cmp: ''
     num: 1
-- variant: Omicron
+- variant: Omicron/BA.1
   cas:
     fold: '1000'
     fold_cmp: '>'
@@ -353,6 +369,10 @@
     fold: '1000'
     fold_cmp: '>'
     num: 7
+  beb:
+    fold: '0.7'
+    fold_cmp: ''
+    num: 6
   cas_imd:
     fold: '1000'
     fold_cmp: '>'
@@ -401,6 +421,81 @@
     fold: '29'
     fold_cmp: ''
     num: 1
+- variant: Omicron/BA.2
+  cas:
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
+  ete:
+    fold: '444'
+    fold_cmp: ''
+    num: 1
+  tix:
+    fold: '674'
+    fold_cmp: ''
+    num: 1
+  bam:
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
+  cil:
+    fold: '1.7'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '219'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '26'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  beb:
+    fold: '1'
+    fold_cmp: ''
+    num: 1
+  cas_imd:
+    fold: '344'
+    fold_cmp: ''
+    num: 1
+  cil_tix:
+    fold: '8.4'
+    fold_cmp: ''
+    num: 1
+  bam_ete:
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '532'
+    fold_cmp: ''
+    num: 1
+  b_198:
+    fold: '9.7'
+    fold_cmp: ''
+    num: 1
+  b_196_198:
+    fold: '114'
+    fold_cmp: ''
+    num: 1
+  JMB2002:
+    fold: '-'
+  Adintrevimab:
+    fold: '529'
+    fold_cmp: ''
+    num: 1
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '-'
 - variant: Iota
   cas:
     fold: '14'
@@ -425,6 +520,8 @@
   sot:
     fold: '-'
   reg:
+    fold: '-'
+  beb:
     fold: '-'
   cas_imd:
     fold: '1'
@@ -489,6 +586,10 @@
     fold: '43'
     fold_cmp: ''
     num: 4
+  beb:
+    fold: '0.6'
+    fold_cmp: ''
+    num: 2
   cas_imd:
     fold: '0.6'
     fold_cmp: ''
@@ -554,6 +655,10 @@
     num: 3
   reg:
     fold: '24'
+    fold_cmp: ''
+    num: 1
+  beb:
+    fold: '0.7'
     fold_cmp: ''
     num: 1
   cas_imd:
@@ -627,6 +732,10 @@
     fold: '5.5'
     fold_cmp: ''
     num: 1
+  beb:
+    fold: '0.7'
+    fold_cmp: ''
+    num: 4
   cas_imd:
     fold: '0.9'
     fold_cmp: ''
@@ -706,6 +815,10 @@
     fold: '8.7'
     fold_cmp: ''
     num: 1
+  beb:
+    fold: '0.7'
+    fold_cmp: ''
+    num: 4
   cas_imd:
     fold: '1.9'
     fold_cmp: ''
@@ -779,6 +892,10 @@
     num: 8
   reg:
     fold: '-'
+  beb:
+    fold: '0.7'
+    fold_cmp: ''
+    num: 4
   cas_imd:
     fold: '1.5'
     fold_cmp: ''
@@ -852,6 +969,10 @@
     fold: '35'
     fold_cmp: ''
     num: 1
+  beb:
+    fold: '0.6'
+    fold_cmp: ''
+    num: 3
   cas_imd:
     fold: '2.5'
     fold_cmp: ''
@@ -921,6 +1042,10 @@
     fold: '1'
     fold_cmp: ''
     num: 1
+  beb:
+    fold: '0.8'
+    fold_cmp: ''
+    num: 2
   cas_imd:
     fold: '2.0'
     fold_cmp: ''
@@ -986,6 +1111,10 @@
     num: 3
   reg:
     fold: '-'
+  beb:
+    fold: '0.7'
+    fold_cmp: ''
+    num: 3
   cas_imd:
     fold: '1.8'
     fold_cmp: ''
@@ -1051,6 +1180,10 @@
     num: 1
   reg:
     fold: '-'
+  beb:
+    fold: '0.7'
+    fold_cmp: ''
+    num: 3
   cas_imd:
     fold: '3.5'
     fold_cmp: ''
@@ -1114,6 +1247,10 @@
     num: 2
   reg:
     fold: '-'
+  beb:
+    fold: '1.7'
+    fold_cmp: ''
+    num: 2
   cas_imd:
     fold: '0.6'
     fold_cmp: ''
@@ -1179,6 +1316,10 @@
     num: 2
   reg:
     fold: '-'
+  beb:
+    fold: '0.5'
+    fold_cmp: ''
+    num: 2
   cas_imd:
     fold: '0.9'
     fold_cmp: ''
