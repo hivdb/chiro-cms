@@ -108,6 +108,15 @@
     vp_num_s_fold: 20
     vp_num_i_fold: 7
     vp_num_r_fold: 1
+  - name: Nanocovax
+    vp_studies: 1
+    vp_num_fold: 18
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 18
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
   - name: Sputnik V
     vp_studies: 3
     vp_num_fold: 102
@@ -493,14 +502,14 @@
     vp_num_i_fold: 1
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 40
-    vp_num_fold: 1496
+    vp_studies: 41
+    vp_num_fold: 1506
     vp_s_fold: 60%
     vp_i_fold: 33%
     vp_r_fold: 7%
-    vp_num_s_fold: 899
+    vp_num_s_fold: 905
     vp_num_i_fold: 490
-    vp_num_r_fold: 107
+    vp_num_r_fold: 111
   - name: CoronaVac
     vp_studies: 3
     vp_num_fold: 65
@@ -630,21 +639,21 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 40
   - name: BNT162b2
-    vp_studies: 24
-    vp_num_fold: 1069
-    vp_s_fold: 3%
+    vp_studies: 26
+    vp_num_fold: 1132
+    vp_s_fold: 4%
     vp_i_fold: 26%
-    vp_r_fold: 71%
-    vp_num_s_fold: 35
-    vp_num_i_fold: 277
-    vp_num_r_fold: 757
+    vp_r_fold: 70%
+    vp_num_s_fold: 43
+    vp_num_i_fold: 292
+    vp_num_r_fold: 797
   - name: BNT162b2 + mRNA-1273
-    vp_studies: 1
-    vp_num_fold: 2
-    vp_s_fold: 0
+    vp_studies: 2
+    vp_num_fold: 9
+    vp_s_fold: 78%
     vp_i_fold: 0
-    vp_r_fold: 100%
-    vp_num_s_fold: 0
+    vp_r_fold: 22%
+    vp_num_s_fold: 7
     vp_num_i_fold: 0
     vp_num_r_fold: 2
   - name: CoronaVac
@@ -695,14 +704,23 @@
 - variant: Omicron/BA.2
   vaccine:
   - name: BNT162b2
+    vp_studies: 2
+    vp_num_fold: 66
+    vp_s_fold: 8%
+    vp_i_fold: 15%
+    vp_r_fold: 77%
+    vp_num_s_fold: 5
+    vp_num_i_fold: 10
+    vp_num_r_fold: 51
+  - name: BNT162b2 + mRNA-1273
     vp_studies: 1
-    vp_num_fold: 13
-    vp_s_fold: 0
-    vp_i_fold: 0
-    vp_r_fold: 100%
-    vp_num_s_fold: 0
-    vp_num_i_fold: 0
-    vp_num_r_fold: 13
+    vp_num_fold: 7
+    vp_s_fold: 86%
+    vp_i_fold: 14%
+    vp_r_fold: 0
+    vp_num_s_fold: 6
+    vp_num_i_fold: 1
+    vp_num_r_fold: 0
   - name: mRNA
     vp_studies: 1
     vp_num_fold: 16

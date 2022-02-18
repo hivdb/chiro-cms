@@ -2,7 +2,7 @@
   cas:
     fold: '1'
     fold_cmp: ''
-    num: 23
+    num: 24
   ete:
     fold: '11'
     fold_cmp: ''
@@ -12,9 +12,9 @@
     fold_cmp: ''
     num: 9
   bam:
-    fold: '1'
+    fold: '1.1'
     fold_cmp: ''
-    num: 17
+    num: 18
   cil:
     fold: '0.7'
     fold_cmp: ''
@@ -22,11 +22,11 @@
   imd:
     fold: '0.7'
     fold_cmp: ''
-    num: 23
+    num: 25
   sot:
-    fold: 2.2*
+    fold: 2.3*
     fold_cmp: ''
-    num: 18
+    num: 19
   reg:
     fold: '2.6'
     fold_cmp: ''
@@ -85,13 +85,13 @@
     num: 1
 - variant: Beta
   cas:
-    fold: '106'
+    fold: '127'
     fold_cmp: ''
-    num: 27
+    num: 29
   ete:
-    fold: '382'
+    fold: '449'
     fold_cmp: ''
-    num: 17
+    num: 18
   tix:
     fold: '6.3'
     fold_cmp: ''
@@ -99,19 +99,19 @@
   bam:
     fold: '1000'
     fold_cmp: '>'
-    num: 19
+    num: 21
   cil:
     fold: '1.1'
     fold_cmp: ''
     num: 9
   imd:
-    fold: '0.6'
+    fold: '0.7'
     fold_cmp: ''
-    num: 26
+    num: 29
   sot:
     fold: '1'
     fold_cmp: ''
-    num: 17
+    num: 19
   reg:
     fold: '33'
     fold_cmp: ''
@@ -139,7 +139,7 @@
   C144:
     fold: '1000'
     fold_cmp: '>'
-    num: 1
+    num: 2
   c_135_144:
     fold: '-'
   b_196:
@@ -190,13 +190,13 @@
     fold_cmp: ''
     num: 9
   imd:
-    fold: '0.3'
+    fold: '0.4'
     fold_cmp: ''
-    num: 17
+    num: 18
   sot:
-    fold: '1.2'
+    fold: '1.3'
     fold_cmp: ''
-    num: 13
+    num: 14
   reg:
     fold: '61'
     fold_cmp: ''
@@ -257,31 +257,31 @@
   cas:
     fold: '0.7'
     fold_cmp: ''
-    num: 18
+    num: 21
   ete:
-    fold: '0.4'
+    fold: '0.5'
     fold_cmp: ''
-    num: 17
+    num: 19
   tix:
-    fold: '0.6'
+    fold: '0.7'
     fold_cmp: ''
-    num: 6
+    num: 7
   bam:
     fold: '1000'
     fold_cmp: '>'
-    num: 17
+    num: 19
   cil:
-    fold: '2.5'
+    fold: '2.2'
     fold_cmp: ''
-    num: 6
+    num: 7
   imd:
     fold: '1.5'
     fold_cmp: ''
-    num: 18
+    num: 22
   sot:
-    fold: '1.3'
+    fold: '1.5'
     fold_cmp: ''
-    num: 11
+    num: 14
   reg:
     fold: '9.8'
     fold_cmp: ''
@@ -293,23 +293,23 @@
   cas_imd:
     fold: '1'
     fold_cmp: ''
-    num: 7
+    num: 8
   cil_tix:
-    fold: '0.7'
+    fold: '0.8'
     fold_cmp: ''
-    num: 4
+    num: 5
   bam_ete:
-    fold: '0.9'
+    fold: '1'
     fold_cmp: ''
-    num: 6
+    num: 7
   C135:
     fold: '2.3'
     fold_cmp: ''
     num: 1
   C144:
-    fold: '1'
+    fold: '3'
     fold_cmp: ''
-    num: 1
+    num: 2
   c_135_144:
     fold: '-'
   b_196:
@@ -340,31 +340,31 @@
   cas:
     fold: '1000'
     fold_cmp: '>'
-    num: 21
+    num: 25
   ete:
     fold: '323'
     fold_cmp: ''
-    num: 19
+    num: 21
   tix:
-    fold: '276'
+    fold: '245'
     fold_cmp: ''
-    num: 18
+    num: 21
   bam:
     fold: '1000'
     fold_cmp: '>'
-    num: 20
+    num: 22
   cil:
-    fold: '305'
+    fold: '258'
     fold_cmp: ''
-    num: 18
+    num: 21
   imd:
     fold: '1000'
     fold_cmp: '>'
-    num: 21
+    num: 26
   sot:
-    fold: '3.4'
+    fold: '4.5'
     fold_cmp: ''
-    num: 20
+    num: 27
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -376,15 +376,15 @@
   cas_imd:
     fold: '1000'
     fold_cmp: '>'
-    num: 10
+    num: 12
   cil_tix:
-    fold: '59'
+    fold: '75'
     fold_cmp: ''
-    num: 10
+    num: 11
   bam_ete:
-    fold: '897'
+    fold: '794'
     fold_cmp: ''
-    num: 8
+    num: 9
   C135:
     fold: '926'
     fold_cmp: ''
@@ -392,27 +392,27 @@
   C144:
     fold: '1000'
     fold_cmp: '>'
-    num: 3
+    num: 4
   c_135_144:
     fold: '-'
   b_196:
-    fold: '141'
+    fold: '137'
     fold_cmp: ''
-    num: 4
+    num: 5
   b_198:
     fold: '0.5'
     fold_cmp: ''
-    num: 2
+    num: 3
   b_196_198:
-    fold: '13'
+    fold: '11'
     fold_cmp: ''
-    num: 1
+    num: 2
   JMB2002:
     fold: '-'
   Adintrevimab:
-    fold: '276'
+    fold: '118'
     fold_cmp: ''
-    num: 7
+    num: 9
   Vir7832:
     fold: '3.1'
     fold_cmp: ''
@@ -425,31 +425,31 @@
   cas:
     fold: '1000'
     fold_cmp: '>'
-    num: 1
+    num: 3
   ete:
-    fold: '444'
+    fold: '261'
     fold_cmp: ''
-    num: 1
+    num: 2
   tix:
-    fold: '674'
+    fold: '557'
     fold_cmp: ''
-    num: 1
+    num: 2
   bam:
-    fold: '1000'
-    fold_cmp: '>'
-    num: 1
+    fold: '657'
+    fold_cmp: ''
+    num: 2
   cil:
-    fold: '1.7'
+    fold: '70'
     fold_cmp: ''
-    num: 1
+    num: 2
   imd:
-    fold: '219'
+    fold: '311'
     fold_cmp: ''
-    num: 1
+    num: 3
   sot:
-    fold: '26'
+    fold: '30'
     fold_cmp: ''
-    num: 1
+    num: 4
   reg:
     fold: '-'
   beb:
@@ -457,17 +457,17 @@
     fold_cmp: ''
     num: 1
   cas_imd:
-    fold: '344'
+    fold: '431'
     fold_cmp: ''
-    num: 1
+    num: 3
   cil_tix:
-    fold: '8.4'
+    fold: '148'
     fold_cmp: ''
-    num: 1
+    num: 2
   bam_ete:
-    fold: '1000'
-    fold_cmp: '>'
-    num: 1
+    fold: '710'
+    fold_cmp: ''
+    num: 2
   C135:
     fold: '-'
   C144:
@@ -723,7 +723,7 @@
   imd:
     fold: '0.8'
     fold_cmp: ''
-    num: 10
+    num: 11
   sot:
     fold: 1.6*
     fold_cmp: ''
@@ -885,7 +885,7 @@
   imd:
     fold: '0.8'
     fold_cmp: ''
-    num: 10
+    num: 11
   sot:
     fold: '0.6'
     fold_cmp: ''
@@ -1033,7 +1033,7 @@
   imd:
     fold: '1.4'
     fold_cmp: ''
-    num: 3
+    num: 4
   sot:
     fold: '1.4'
     fold_cmp: ''
