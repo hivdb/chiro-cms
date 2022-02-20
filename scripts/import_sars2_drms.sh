@@ -22,7 +22,7 @@ SELECT
   END AS aa
 FROM susc_results s, isolate_pairs ip, isolate_mutations im
 WHERE
-  fold >= 3 AND
+  fold >= 5 AND
   EXISTS (
     SELECT 1
     FROM rx_antibodies rxab, antibodies ab

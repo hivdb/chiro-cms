@@ -2,43 +2,13 @@
   "MAB": [
     {
       "gene": "S",
-      "position": 19,
-      "aa": "I"
-    },
-    {
-      "gene": "S",
-      "position": 24,
-      "aa": "S"
-    },
-    {
-      "gene": "S",
-      "position": 213,
-      "aa": "G"
-    },
-    {
-      "gene": "S",
-      "position": 214,
-      "aa": "_"
+      "position": 211,
+      "aa": "-"
     },
     {
       "gene": "S",
       "position": 234,
       "aa": "Q"
-    },
-    {
-      "gene": "S",
-      "position": 242,
-      "aa": "-"
-    },
-    {
-      "gene": "S",
-      "position": 243,
-      "aa": "-"
-    },
-    {
-      "gene": "S",
-      "position": 244,
-      "aa": "-"
     },
     {
       "gene": "S",
@@ -59,11 +29,6 @@
       "gene": "S",
       "position": 337,
       "aa": "T"
-    },
-    {
-      "gene": "S",
-      "position": 339,
-      "aa": "D"
     },
     {
       "gene": "S",
@@ -122,8 +87,8 @@
     },
     {
       "gene": "S",
-      "position": 376,
-      "aa": "A"
+      "position": 375,
+      "aa": "F"
     },
     {
       "gene": "S",
@@ -144,6 +109,11 @@
       "gene": "S",
       "position": 406,
       "aa": "W"
+    },
+    {
+      "gene": "S",
+      "position": 408,
+      "aa": "S"
     },
     {
       "gene": "S",
@@ -174,11 +144,6 @@
       "gene": "S",
       "position": 439,
       "aa": "K"
-    },
-    {
-      "gene": "S",
-      "position": 439,
-      "aa": "V"
     },
     {
       "gene": "S",
@@ -338,17 +303,7 @@
     {
       "gene": "S",
       "position": 476,
-      "aa": "D"
-    },
-    {
-      "gene": "S",
-      "position": 476,
       "aa": "S"
-    },
-    {
-      "gene": "S",
-      "position": 477,
-      "aa": "N"
     },
     {
       "gene": "S",
@@ -488,6 +443,11 @@
     {
       "gene": "S",
       "position": 499,
+      "aa": "R"
+    },
+    {
+      "gene": "S",
+      "position": 499,
       "aa": "S"
     },
     {
@@ -519,11 +479,6 @@
       "gene": "S",
       "position": 969,
       "aa": "K"
-    },
-    {
-      "gene": "S",
-      "position": 982,
-      "aa": "A"
     }
   ]
 }
