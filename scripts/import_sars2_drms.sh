@@ -20,22 +20,45 @@ SELECT
     WHEN 'stop' THEN '*'
     ELSE im.amino_acid
   END AS aa
-FROM susc_results s, isolate_pairs ip, isolate_mutations im
+FROM isolate_mutations im
+  JOIN isolate_pairs ip ON
+    im.iso_name = ip.iso_name
+  JOIN isolates iso ON
+    im.iso_name = iso.iso_name
+  JOIN susc_results s ON
+    s.control_iso_name=ip.control_iso_name AND
+    s.iso_name = ip.iso_name
 WHERE
-  fold >= 5 AND
+  (
+    (
+      ip.num_mutations = 1 AND
+      fold >= 5
+    ) OR
+    EXISTS (
+      SELECT 1
+      FROM antibody_epitopes abe, antibodies ab
+      WHERE
+        abe.ab_name=ab.ab_name AND
+        ab.visibility=1 AND
+        abe.position=im.position
+    )
+  ) AND
   EXISTS (
     SELECT 1
     FROM rx_antibodies rxab, antibodies ab
     WHERE
+      s.ref_name=rxab.ref_name AND
       s.rx_name=rxab.rx_name AND
       rxab.ab_name=ab.ab_name AND
       visibility = 1
   ) AND
-  s.control_iso_name=ip.control_iso_name AND
-  s.iso_name = ip.iso_name AND
-  ip.num_mutations = 1 AND
-  s.iso_name = im.iso_name AND
   im.gene = 'S' AND
+  (
+    iso.var_name IS NULL OR 
+    iso.var_name NOT IN (
+      'SARS-CoV-1', 'WIV1', 'pCoV-GD', 'pCoV-GX', 'bCoV-RaTG13', 'Unknown Variant'
+    )
+  ) AND
   NOT EXISTS (
     SELECT 1
     FROM ignore_mutations igm
