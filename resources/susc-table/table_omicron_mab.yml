@@ -741,33 +741,33 @@
     fold: '-'
 - variant: S371F
   cas:
-    fold: '28'
+    fold: '16'
     fold_cmp: ''
-    num: 1
+    num: 2
   ete:
-    fold: '143'
+    fold: '72'
     fold_cmp: ''
-    num: 1
+    num: 2
   tix:
-    fold: '26'
+    fold: '16'
     fold_cmp: ''
-    num: 1
+    num: 2
   bam:
-    fold: '5.1'
+    fold: '3'
     fold_cmp: ''
-    num: 1
+    num: 2
   cil:
-    fold: '1.3'
+    fold: '0.9'
     fold_cmp: ''
-    num: 1
+    num: 2
   imd:
-    fold: '87'
+    fold: '49'
     fold_cmp: ''
-    num: 1
+    num: 2
   sot:
-    fold: '21'
+    fold: '13'
     fold_cmp: ''
-    num: 1
+    num: 2
   reg:
     fold: '-'
   beb:
@@ -775,11 +775,17 @@
     fold_cmp: ''
     num: 1
   cas_imd:
-    fold: '-'
+    fold: '3.8'
+    fold_cmp: ''
+    num: 1
   cil_tix:
-    fold: '-'
+    fold: '0.6'
+    fold_cmp: ''
+    num: 1
   bam_ete:
-    fold: '-'
+    fold: '0.6'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '-'
   C144:
@@ -1021,9 +1027,9 @@
     fold_cmp: ''
     num: 2
   ete:
-    fold: '55'
+    fold: '26'
     fold_cmp: ''
-    num: 2
+    num: 1
   tix:
     fold: '2.6'
     fold_cmp: ''
