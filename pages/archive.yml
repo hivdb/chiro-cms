@@ -5,6 +5,14 @@ introHeader: |-
 projectSections:
   - title: Webinars
     items:
+    - title: >-
+        <div style="font-size:1.5rem;line-height:1.8rem;">
+        SARS-CoV-2 Variants and Disease Severity
+        </div>
+      description: by Robert Shafer, MD
+      link: https://www.youtube.com/watch?v=msD4NKU4jEY
+      extLink: true
+      image: home/webinar-variants-and-disease-severity.jpg
     - title: SARS-CoV-2 Variants
       description: About SARS-CoV-2 Variants
       link: https://www.youtube.com/watch?v=EH3sLVHf22Y
@@ -30,21 +38,33 @@ projectSections:
       description: Vaccine efficacy at preventing symptomatic SARS-CoV-2 infection with variants
       link: /page/susceptibility-data/#table.4.vaccine.efficacy.at.preventing.symptomatic.sars-cov-2.infection.with.variants
       image: home/vaccine-efficacy.png
+    - title: Spike structures
+      description: Figures of SARS-COV-2 Spike structures
+      link: /page/spike-structures/
+      image: home/edumat-spike-structures.png
+    - title: Viruses
+      description: List of coronaviruses involved in experiments
+      link: /virus-list/
+      image: home/edumat-viruses.png
+    - title: Cell lines
+      description: List of cell lines involved in experiments
+      link: /cells-list/
+      image: home/edumat-cells.jpg
+    - title: Animal models
+      description: List of animal models involved in experiments
+      link: /animal-model-list/
+      image: home/edumat-animal-models.jpg
+    - title: Measurements
+      description: Cell culture measurement methods
+      link: /cell-culture-measurement-list/
+      image: home/edumat-measurements.jpg
+    - title: References
+      description: Coronavirus publications included in this database
+      link: /article-list/
+      image: home/edumat-references.png
   - title: Miscellaneous
     items:
     - title: Updates
       description: New database entries
       link: /page/updates/
       image: home/latest-updates.png
-    - title: Papers & talks
-      description: Publications and webinars of ours
-      link: /page/publications/
-      image: home/pub-dbpaper.png
-    - title: Spike structures
-      description: Figures of SARS-COV-2 Spike structures
-      link: /page/spike-structures/
-      image: home/edumat-spike-structures.png
-    - title: References
-      description: Coronavirus publications included in this database
-      link: /article-list/
-      image: home/edumat-references.png

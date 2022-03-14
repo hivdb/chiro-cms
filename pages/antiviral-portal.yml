@@ -6,6 +6,11 @@ projectSections:
       description: SARS-CoV-2 antiviral therapy review
       link: /page/covid-review/
       image: home/edumat-references.png
+    - title: Antiviral compounds
+      description: >-
+        In vitro experiments, animal model and clinical studies
+      link: /antiviral-portal/
+      image: home/edumat-compounds.png
     - title: Drugs
       description: List of drugs involved in experiments
       link: /compound-list/
@@ -22,4 +27,3 @@ projectSections:
       description: Clinical trials, animal model studies, inhibitory potency, sequence data, and structural data
       link: /page/mab-tables/
       image: home/edumat-mab-tables.png
-

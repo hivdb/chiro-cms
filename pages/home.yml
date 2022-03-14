@@ -20,30 +20,39 @@ projectSections:
       description: Susceptibility data, genes, mutations, and lineage
       link: /sierra/sars2/by-patterns/
       image: home/edumat-sierra-sars2.png
-    - title: Antiviral compounds
-      description: >-
-        In vitro experiments, animal model and clinical studies
-      link: /antiviral-portal/
-      image: home/edumat-compounds.png
     - title: Spike viewer
       description: A mutation annotation viewer of Spike gene
       link: /mut-annot-viewer/SARS2S/
       image: home/edumat-spike-viewer.png
   - title: Publications
+    compact: true
     displayTitle: true
     items:
+    - title: >-
+        <div style="font-size:1.1rem;line-height:1.3rem;">
+        Susceptibility of SARS-CoV-2 Omicron Variants to Therapeutic Monoclonal
+        Antibodies: Systematic Review and Meta-Analysis
+        </div>
+      link: https://doi.org/10.20944/preprints202203.0155.v1
+      extLink: true
+      description: >-
+        Tao KM, Tzou PL, et int., and Shafer RW
+        <div style="font-size:1rem;color:rgba(0,0,0,.4);">
+        *Preprints.org*, 2022
+        </div>
+      image: home/pub-omicronpaper.png
     - title: >-
         <div style="font-size:1rem;line-height:1.2rem;">
         Coronavirus Resistance Database (CoV-RDB): SARS-CoV-2 susceptibility to
         monoclonal antibodies, convalescent plasma, and plasma from
         vaccinated persons
         </div>
-      link: https://www.biorxiv.org/content/10.1101/2021.11.24.469823
+      link: https://doi.org/10.1371/journal.pone.0261045
       extLink: true
       description: >-
-        Tzou PL, Tao KM, et int., and Shafer R
+        Tzou PL, Tao KM, et int., and Shafer RW
         <div style="font-size:1rem;color:rgba(0,0,0,.4);">
-        *BioRxiv*, 2021
+        *PLOS ONE*, 2022
         </div>
       image: home/pub-drdbpaper.png
     - title: >-
@@ -54,7 +63,7 @@ projectSections:
       link: https://www.nature.com/articles/s41576-021-00408-x
       extLink: true
       description: >-
-        Tao KM, Tzou PL, et int., and Shafer R
+        Tao KM, Tzou PL, et int., and Shafer RW
         <div style="font-size:1rem;color:rgba(0,0,0,.4);">
         *Nature Reviews genetics*, 2021
         </div>
@@ -66,7 +75,7 @@ projectSections:
       link: https://journals.asm.org/doi/10.1128/CMR.00109-21
       extLink: true
       description: >-
-        Tao KM, Tzou PL, et int., and Shafer R
+        Tao KM, Tzou PL, et int., and Shafer RW
         <div style="font-size:1rem;color:rgba(0,0,0,.4);">
         *Clinical Microbiology Reviews*, 2021
         </div>
@@ -97,18 +106,9 @@ projectSections:
         </div>
       link: https://www.mdpi.com/1999-4915/12/9/1006
       image: home/pub-dbpaper.png
-  - title: Webinars
+  - title: Archive
+    displayTitle: true
     items:
-    - title: >-
-        <div style="font-size:1.5rem;line-height:1.8rem;">
-        SARS-CoV-2 Variants and Disease Severity
-        </div>
-      description: by Robert Shafer, MD
-      link: https://www.youtube.com/watch?v=msD4NKU4jEY
-      extLink: true
-      image: home/webinar-variants-and-disease-severity.jpg
-    - title: SARS-CoV-2 Variants
-      description: About SARS-CoV-2 Variants
-      link: https://www.youtube.com/watch?v=EH3sLVHf22Y
-      extLink: true
-      image: home/webinar-cme.png
+    - title: Archive pages
+      link: /page/archive/
+      image: home/archive.png

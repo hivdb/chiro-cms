@@ -33,3 +33,4 @@ We'd like to appreciate and pay tribute to the authors of following open source 
 - Background image of home page by [House.gov](http://web.archive.org/web/20200407020039/https://ocasio-cortez.house.gov/services/information-and-resources-covid-19-coronavirus): Public Domain
 - Picture of Vaccine efficacy by [WHO](https://www.who.int/news-room/feature-stories/detail/vaccine-efficacy-effectiveness-and-protection): CC BY-NC-SA 3.0 IGO
 - Picture of Clincial trials by [WHO](https://www.who.int/news-room/feature-stories/detail/vaccine-efficacy-effectiveness-and-protection): CC BY-NC-SA 3.0 IGO
+- Picture of archive pages by [satheeshsankaran](https://pixabay.com/vectors/documents-folders-file-office-6183373/): Pixabay License
