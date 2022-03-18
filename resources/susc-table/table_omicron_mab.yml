@@ -1617,29 +1617,29 @@
     fold: '-'
 - variant: Q493R
   cas:
-    fold: '56'
+    fold: '42'
     fold_cmp: ''
-    num: 2
+    num: 3
   ete:
-    fold: '31'
+    fold: '44'
+    fold_cmp: ''
+    num: 3
+  tix:
+    fold: '6.1'
     fold_cmp: ''
     num: 2
-  tix:
-    fold: '4.2'
-    fold_cmp: ''
-    num: 1
   bam:
     fold: '1000'
     fold_cmp: '>'
-    num: 3
+    num: 4
   cil:
     fold: '0.9'
     fold_cmp: ''
     num: 2
   imd:
-    fold: '1.4'
+    fold: '1.5'
     fold_cmp: ''
-    num: 3
+    num: 4
   sot:
     fold: '1.3'
     fold_cmp: ''
@@ -1653,7 +1653,9 @@
   cas_imd:
     fold: '-'
   cil_tix:
-    fold: '-'
+    fold: '3.4'
+    fold_cmp: ''
+    num: 1
   bam_ete:
     fold: '100'
     fold_cmp: ''
@@ -1828,27 +1830,27 @@
   cas:
     fold: '1'
     fold_cmp: ''
-    num: 10
+    num: 11
   ete:
-    fold: '3.2'
+    fold: '4.1'
     fold_cmp: ''
-    num: 9
+    num: 10
   tix:
     fold: '1.5'
     fold_cmp: ''
     num: 5
   bam:
-    fold: '1.4'
+    fold: '1.1'
     fold_cmp: ''
-    num: 6
+    num: 7
   cil:
     fold: '1.2'
     fold_cmp: ''
     num: 6
   imd:
-    fold: '0.8'
+    fold: '0.9'
     fold_cmp: ''
-    num: 11
+    num: 12
   sot:
     fold: 1.6*
     fold_cmp: ''
