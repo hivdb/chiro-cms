@@ -5,10 +5,6 @@ projectSections:
   - title: Highlights
     displayTitle: false
     items:
-    - title: SARS-CoV-2 variants
-      description: SARS-CoV-2 variants and their associated mutations
-      link: /page/mutation-viewer/
-      image: home/edumat-mutation-viewer.png
     - title: Susceptibility of variants
       description: mAbs, convalescent plasma, and vaccinee plasma
       link: /page/susceptibility-data/
@@ -20,6 +16,10 @@ projectSections:
       description: Susceptibility data, genes, mutations, and lineage
       link: /sierra/sars2/by-patterns/
       image: home/edumat-sierra-sars2.png
+    - title: SARS-CoV-2 variants
+      description: SARS-CoV-2 variants and their associated mutations
+      link: /page/mutation-viewer/
+      image: home/edumat-mutation-viewer.png
     - title: Spike viewer
       description: A mutation annotation viewer of Spike gene
       link: /mut-annot-viewer/SARS2S/

@@ -53,6 +53,9 @@ messages:
     _resource: mab-description.yml
   .<<variant-desc:
     _resource: variant-description.yml
+  selection-data-footnote: |-
+    **MAb abbreviations**: Bamlanivimab (BAM), Etesevimab (ETE), Casirivimab
+    (CAS), Imdevimab (IMD), Cilgavimab (CIL), Tixagevimab (TIX)
 monthRanges:
   - name: "1"
     between: [1, 1]
