@@ -1,21 +1,21 @@
 - char: Alpha
-  num_ref: 92
-  num_fold: 5848
+  num_ref: 100
+  num_fold: 6025
 - char: Beta
-  num_ref: 107
-  num_fold: 7221
+  num_ref: 122
+  num_fold: 8027
 - char: Gamma
-  num_ref: 58
-  num_fold: 3247
+  num_ref: 61
+  num_fold: 3336
 - char: Delta
-  num_ref: 64
-  num_fold: 3835
+  num_ref: 79
+  num_fold: 4928
 - char: "VOIs (kappa, iota, epsilon, lambda)"
-  num_ref: 30
-  num_fold: 1484
+  num_ref: 40
+  num_fold: 1918
 - char: "Other variants"
-  num_ref: 55
-  num_fold: 3496
+  num_ref: 50
+  num_fold: 3412
 - char: "Individual mutations and mutation combinations"
-  num_ref: 78
-  num_fold: 7269
+  num_ref: 75
+  num_fold: 7389

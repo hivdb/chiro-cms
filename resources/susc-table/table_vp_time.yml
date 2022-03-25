@@ -1,12 +1,12 @@
 - char: "1 month"
-  num_ref: 158
-  num_fold: 27396
+  num_ref: 183
+  num_fold: 30580
 - char: "2-3 months"
-  num_ref: 36
-  num_fold: 3980
+  num_ref: 51
+  num_fold: 4766
 - char: "4-6 months"
-  num_ref: 24
-  num_fold: 1760
+  num_ref: 34
+  num_fold: 2364
 - char: "&gt;6 months"
-  num_ref: 17
-  num_fold: 609
+  num_ref: 25
+  num_fold: 1228

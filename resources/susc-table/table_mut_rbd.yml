@@ -1,56 +1,56 @@
 - mut_name: K417N
   domain: RBD
-  num_ref: 28
-  num_fold: 668
+  num_ref: 30
+  num_fold: 672
 - mut_name: N439K
   domain: RBD
-  num_ref: 21
-  num_fold: 295
+  num_ref: 24
+  num_fold: 430
 - mut_name: N440K
   domain: RBD
-  num_ref: 10
-  num_fold: 194
+  num_ref: 12
+  num_fold: 196
 - mut_name: G446V
   domain: RBD
-  num_ref: 15
-  num_fold: 144
+  num_ref: 16
+  num_fold: 146
 - mut_name: L452R
   domain: RBD
-  num_ref: 22
-  num_fold: 381
+  num_ref: 24
+  num_fold: 385
 - mut_name: Y453F
   domain: RBD
-  num_ref: 17
-  num_fold: 287
+  num_ref: 18
+  num_fold: 290
 - mut_name: A475V
   domain: RBD
-  num_ref: 12
-  num_fold: 182
+  num_ref: 13
+  num_fold: 190
 - mut_name: S477N
   domain: RBD
-  num_ref: 22
-  num_fold: 343
+  num_ref: 24
+  num_fold: 345
 - mut_name: T478K
   domain: RBD
-  num_ref: 10
-  num_fold: 133
+  num_ref: 12
+  num_fold: 136
 - mut_name: E484Q
   domain: RBD
-  num_ref: 15
-  num_fold: 221
+  num_ref: 17
+  num_fold: 234
 - mut_name: E484K
   domain: RBD
-  num_ref: 45
-  num_fold: 829
+  num_ref: 49
+  num_fold: 922
 - mut_name: F490S
   domain: RBD
   num_ref: 15
-  num_fold: 148
+  num_fold: 149
 - mut_name: N501Y
   domain: RBD
-  num_ref: 38
-  num_fold: 955
+  num_ref: 45
+  num_fold: 1074
 - mut_name: other
   domain: RBD
-  num_ref: 44
-  num_fold: 6573
+  num_ref: 53
+  num_fold: 6935
