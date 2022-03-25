@@ -1,70 +1,120 @@
 - mab: Bamlanivimab
-  num_ref: 32
-  num_fold: 243
+  synonyms: LY-CoV555;LY3819253
+  num_ref_name: 46
+  num_fold: 346
   avail: EUA
+  target: RBD
   class: RBM Class II
   pdb: 7KMG
   institute: Eli Lilly
+  origin: CP
 - mab: Etesevimab
-  num_ref: 35
-  num_fold: 380
+  synonyms: CB6;JS-016;LY-CoV016;LY3832479
+  num_ref_name: 49
+  num_fold: 470
   avail: EUA
+  target: RBD
   class: RBM Class I
   pdb: 7C01
   institute: Eli Lilly
+  origin: CP
 - mab: Casirivimab
-  num_ref: 47
-  num_fold: 432
+  synonyms: REGN10933
+  num_ref_name: 65
+  num_fold: 547
   avail: EUA
+  target: RBD
   class: RBM Class I
   pdb: 6XDG
   institute: Regeneron
+  origin: Transgenic mice
 - mab: Imdevimab
-  num_ref: 47
-  num_fold: 431
+  synonyms: REGN10987
+  num_ref_name: 66
+  num_fold: 587
   avail: EUA
+  target: RBD
   class: RBD Core Cluster I
   pdb: 6XDG
   institute: Regeneron
+  origin: Transgenic mice
 - mab: Sotrovimab
-  num_ref: 29
-  num_fold: 369
+  synonyms: GSK4182136;S309;Vir-7831
+  num_ref_name: 47
+  num_fold: 469
   avail: EUA
+  target: RBD
   class: RBD Core Cluster I
   pdb: 6WPS
-  institute: Vir Biotechnol / GlaxoSmithKline
+  institute: Vir Biotechnol
+  origin: SARS-CoV CP
 - mab: Cilgavimab
-  num_ref: 22
-  num_fold: 127
-  avail: Completed phase III
+  synonyms: COV2-2130;AZD1061
+  num_ref_name: 35
+  num_fold: 207
+  avail: EUA
+  target: RBD
   class: RBM Class II
   pdb: 7L7E
-  institute: AstraZeneca / Vanderbilt
+  institute: AstraZeneca
+  origin: CP
 - mab: Tixagevimab
-  num_ref: 21
-  num_fold: 108
-  avail: Completed phase III
+  synonyms: COV2-2196;AZD8895
+  num_ref_name: 34
+  num_fold: 192
+  avail: EUA
+  target: RBD
   class: RBM Class I
   pdb: 7L7E
-  institute: AstraZeneca / Vanderbilt
+  institute: AstraZeneca
+  origin: CP
 - mab: Amubarvimab
-  num_ref: 7
-  num_fold: 198
-  avail: Approved in China
+  synonyms: BRII-196;P2C-1F11
+  num_ref_name: 11
+  num_fold: 216
+  avail: CN-Approved
+  target: RBD
   class: RBM Class I
   pdb: 7CDI
-  institute: BRII Biosciences
+  institute: Brii Biosciences
+  origin: ''
 - mab: Romlusevimab
-  num_ref: 4
-  num_fold: 94
-  avail: Approved in China
+  synonyms: BRII-198;P2B-1G5
+  num_ref_name: 7
+  num_fold: 110
+  avail: CN-Approved
+  target: RBD
   class: RBD Core Cluster II
   pdb: ''
-  institute: BRII Biosciences
+  institute: Brii Biosciences
+  origin: ''
+- mab: Bebtelovimab
+  synonyms: LY-CoV1404;LY3853113
+  num_ref_name: 4
+  num_fold: 224
+  avail: EUA
+  target: RBD
+  class: RBM Class II
+  pdb: 7MMO
+  institute: Eli Lilly
+  origin: CP
+- mab: Adintrevimab
+  synonyms: ADG20;ADG-2
+  num_ref_name: 15
+  num_fold: 90
+  avail: Phase 3
+  target: RBD
+  class: RBD Core Cluster I
+  pdb: 7U2D
+  institute: Adagio Therapeutics
+  origin: CP
 - mab: Regdanvimab
-  num_ref: 10
-  num_fold: 31
-  avail: Appoved in South Korea
+  synonyms: CT-P59
+  num_ref_name: 12
+  num_fold: 35
+  avail: KR-Approved
+  target: RBD
   class: RBM Class I
   pdb: 7CM4
   institute: Celltrion
+  origin: Phage display library

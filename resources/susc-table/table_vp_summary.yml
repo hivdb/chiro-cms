@@ -219,12 +219,12 @@
     vp_num_i_fold: 1
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 67
-    vp_num_fold: 2528
-    vp_s_fold: 55%
-    vp_i_fold: 33%
-    vp_r_fold: 12%
-    vp_num_s_fold: 1402
+    vp_studies: 69
+    vp_num_fold: 2682
+    vp_s_fold: 58%
+    vp_i_fold: 31%
+    vp_r_fold: 11%
+    vp_num_s_fold: 1556
     vp_num_i_fold: 832
     vp_num_r_fold: 294
   - name: CoronaVac
@@ -502,12 +502,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 42
-    vp_num_fold: 1639
-    vp_s_fold: 80%
+    vp_studies: 43
+    vp_num_fold: 1683
+    vp_s_fold: 81%
     vp_i_fold: 16%
-    vp_r_fold: 4%
-    vp_num_s_fold: 1315
+    vp_r_fold: 3%
+    vp_num_s_fold: 1359
     vp_num_i_fold: 263
     vp_num_r_fold: 61
   - name: CoronaVac
@@ -639,13 +639,13 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 40
   - name: BNT162b2
-    vp_studies: 27
-    vp_num_fold: 1327
-    vp_s_fold: 16%
-    vp_i_fold: 39%
-    vp_r_fold: 45%
-    vp_num_s_fold: 211
-    vp_num_i_fold: 524
+    vp_studies: 29
+    vp_num_fold: 1481
+    vp_s_fold: 17%
+    vp_i_fold: 43%
+    vp_r_fold: 40%
+    vp_num_s_fold: 255
+    vp_num_i_fold: 634
     vp_num_r_fold: 592
   - name: BNT162b2 + mRNA-1273
     vp_studies: 2
@@ -742,22 +742,49 @@
 - variant: Iota
   vaccine:
   - name: BNT162b2
-    vp_studies: 1
-    vp_num_fold: 15
-    vp_s_fold: 87%
-    vp_i_fold: 13%
+    vp_studies: 8
+    vp_num_fold: 151
+    vp_s_fold: 91%
+    vp_i_fold: 9%
     vp_r_fold: 0
-    vp_num_s_fold: 13
-    vp_num_i_fold: 2
+    vp_num_s_fold: 138
+    vp_num_i_fold: 13
+    vp_num_r_fold: 0
+  - name: CoronaVac
+    vp_studies: 1
+    vp_num_fold: 93
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 93
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
+  - name: KCONVAC
+    vp_studies: 1
+    vp_num_fold: 20
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 20
+    vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: mRNA-1273
+    vp_studies: 10
+    vp_num_fold: 268
+    vp_s_fold: 93%
+    vp_i_fold: 7%
+    vp_r_fold: 0
+    vp_num_s_fold: 249
+    vp_num_i_fold: 18
+    vp_num_r_fold: 1
+  - name: mRNA-1273 + mRNA-1273.211
     vp_studies: 1
-    vp_num_fold: 13
-    vp_s_fold: 77%
-    vp_i_fold: 23%
+    vp_num_fold: 11
+    vp_s_fold: 91%
+    vp_i_fold: 9%
     vp_r_fold: 0
     vp_num_s_fold: 10
-    vp_num_i_fold: 3
+    vp_num_i_fold: 1
     vp_num_r_fold: 0
 - variant: Epsilon
   vaccine:

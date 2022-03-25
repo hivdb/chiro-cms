@@ -36,13 +36,13 @@
   cp_num_r_fold: 37
 - variant: Omicron/BA.1
   cp_studies: 18
-  cp_num_fold: 503
+  cp_num_fold: 500
   cp_s_fold: 6%
   cp_i_fold: 31%
   cp_r_fold: 63%
   cp_num_s_fold: 28
   cp_num_i_fold: 157
-  cp_num_r_fold: 318
+  cp_num_r_fold: 315
 - variant: Omicron/BA.2
   cp_studies: 1
   cp_num_fold: 10
@@ -53,14 +53,14 @@
   cp_num_i_fold: 10
   cp_num_r_fold: 0
 - variant: Iota
-  cp_studies: 0
-  cp_num_fold: 0
-  cp_s_fold: 0
-  cp_i_fold: 0
-  cp_r_fold: 0
-  cp_num_s_fold: 0
-  cp_num_i_fold: 0
-  cp_num_r_fold: 0
+  cp_studies: 6
+  cp_num_fold: 159
+  cp_s_fold: 86%
+  cp_i_fold: 12%
+  cp_r_fold: 2%
+  cp_num_s_fold: 136
+  cp_num_i_fold: 19
+  cp_num_r_fold: 4
 - variant: Epsilon
   cp_studies: 7
   cp_num_fold: 109
