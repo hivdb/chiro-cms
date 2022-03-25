@@ -11,6 +11,13 @@ projectSections:
       image: home/susc-summary.png
     - title: >-
         <span style="font-size:1.7rem;">
+        SARS-CoV-2 Selection data
+        </span>
+      description: in vivo & in vitro selection data
+      link: /search-drdb/selection-data/
+      image: home/selection-data.png
+    - title: >-
+        <span style="font-size:1.7rem;">
         SARS-CoV-2 analysis program
         </span>
       description: Susceptibility data, genes, mutations, and lineage
