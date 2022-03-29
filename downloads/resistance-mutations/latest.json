@@ -623,6 +623,16 @@
     {
       "gene": "S",
       "position": 487,
+      "aa": "D"
+    },
+    {
+      "gene": "S",
+      "position": 487,
+      "aa": "K"
+    },
+    {
+      "gene": "S",
+      "position": 487,
       "aa": "R"
     },
     {
@@ -703,11 +713,6 @@
     {
       "gene": "S",
       "position": 496,
-      "aa": "R"
-    },
-    {
-      "gene": "S",
-      "position": 496,
       "aa": "S"
     },
     {
@@ -719,6 +724,11 @@
       "gene": "S",
       "position": 498,
       "aa": "R"
+    },
+    {
+      "gene": "S",
+      "position": 499,
+      "aa": "H"
     },
     {
       "gene": "S",
