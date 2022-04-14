@@ -30,10 +30,11 @@ projectSections:
       image: home/webinar-cme.png
   - title: Educational Materials
     items:
-    - title: Spike structures
-      description: Figures of SARS-COV-2 Spike structures
-      link: /page/spike-structures/
-      image: home/edumat-spike-structures.png
+    - title: Antiviral compounds
+      description: >-
+        In vitro experiments, animal model and clinical studies
+      link: /antiviral-portal/
+      image: home/edumat-compounds.png
     - title: Vaccine efficacy
       description: Vaccine efficacy at preventing symptomatic SARS-CoV-2 infection with variants
       link: /page/susceptibility-data/#table.4.vaccine.efficacy.at.preventing.symptomatic.sars-cov-2.infection.with.variants
