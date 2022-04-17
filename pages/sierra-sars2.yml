@@ -53,7 +53,7 @@ seqReadsDefaultParams:
   strain: SARS2
   maxMixtureRate: 0.0005 # ≤0.05%
   minPrevalence: 0.1  # ≥10%
-  minCodonReads: 10
+  minCodonReads: 5
   minPositionReads: 1
 seqReadsMaxMixtureRate:
   - value: 0.0
