@@ -13,6 +13,36 @@
   Casirivimab/Imdevimab: 0.001
   Imdevimab: 0.002
   Sotrovimab: 0.048
+- mut_aa: K
+  ref_aa: R
+  pos: 346
+  Cilgavimab/Tixagevimab: 0.007
+  C135: 0.82
+  C144: 0.002
+  Cilgavimab: 0.002
+  Tixagevimab: 0.015
+  Etesevimab: 0.013
+  Bamlanivimab: 0.002
+  Bamlanivimab/Etesevimab: 0.001
+  Casirivimab: 0.001
+  Casirivimab/Imdevimab: 0.002
+  Imdevimab: 0.002
+  Sotrovimab: 0.038
+- mut_aa: F
+  ref_aa: S
+  pos: 371
+  Cilgavimab/Tixagevimab: 0.003
+  C135: 0.002
+  C144: 0.002
+  Cilgavimab: 0.002
+  Tixagevimab: 0.021
+  Etesevimab: 0.001
+  Bamlanivimab: 0.002
+  Bamlanivimab/Etesevimab: 0.001
+  Casirivimab: 0.005
+  Casirivimab/Imdevimab: 0.001
+  Imdevimab: 0.003
+  Sotrovimab: 0.051
 - mut_aa: L
   ref_aa: S
   pos: 371
@@ -43,21 +73,36 @@
   Casirivimab/Imdevimab: 0.002
   Imdevimab: 0.002
   Sotrovimab: 0.046
-- mut_aa: F
-  ref_aa: S
-  pos: 375
-  Cilgavimab/Tixagevimab: "-"
-  C135: "-"
-  C144: "-"
-  Cilgavimab: "-"
-  Tixagevimab: "-"
-  Etesevimab: "-"
-  Bamlanivimab: "-"
-  Bamlanivimab/Etesevimab: "-"
-  Casirivimab: "-"
-  Casirivimab/Imdevimab: "-"
-  Imdevimab: "-"
-  Sotrovimab: "-"
+- mut_aa: N
+  ref_aa: D
+  pos: 405
+  Cilgavimab/Tixagevimab: 0.002
+  C135: 0.002
+  C144: 0.001
+  Cilgavimab: 0.001
+  Tixagevimab: 0.023
+  Etesevimab: 0.273
+  Bamlanivimab: 0.002
+  Bamlanivimab/Etesevimab: 0.001
+  Casirivimab: 0.001
+  Casirivimab/Imdevimab: 0.001
+  Imdevimab: 0.002
+  Sotrovimab: 0.033
+- mut_aa: S
+  ref_aa: R
+  pos: 408
+  Cilgavimab/Tixagevimab: 0.003
+  C135: 0.002
+  C144: 0.002
+  Cilgavimab: 0.001
+  Tixagevimab: 0.02
+  Etesevimab: 0.001
+  Bamlanivimab: 0.002
+  Bamlanivimab/Etesevimab: 0.001
+  Casirivimab: 0.001
+  Casirivimab/Imdevimab: 0.001
+  Imdevimab: 0.002
+  Sotrovimab: 0.04
 - mut_aa: N
   ref_aa: K
   pos: 417
@@ -148,6 +193,21 @@
   Casirivimab/Imdevimab: 0.002
   Imdevimab: 0.001
   Sotrovimab: 0.05
+- mut_aa: K
+  ref_aa: Q
+  pos: 493
+  Cilgavimab/Tixagevimab: 0.005
+  C135: 0.002
+  C144: 0.996
+  Cilgavimab: 0.003
+  Tixagevimab: 0.021
+  Etesevimab: 0.378
+  Bamlanivimab: 0.983
+  Bamlanivimab/Etesevimab: 0.482
+  Casirivimab: 0.628
+  Casirivimab/Imdevimab: 0.002
+  Imdevimab: 0.002
+  Sotrovimab: 0.033
 - mut_aa: R
   ref_aa: Q
   pos: 493
