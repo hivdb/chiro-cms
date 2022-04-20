@@ -19,7 +19,20 @@ SELECT
     WHEN 'del' THEN '-'
     WHEN 'stop' THEN '*'
     ELSE im.amino_acid
-  END AS aa
+  END AS aa,
+  CASE EXISTS (
+    SELECT 1 FROM invivo_selection_results ir, subjects sbj
+    WHERE
+      ir.ref_name = sbj.ref_name AND
+      ir.subject_name = sbj.subject_name AND
+      sbj.subject_species = 'Human' AND
+      ir.gene = im.gene AND
+      ir.position = im.position AND
+      ir.amino_acid = im.amino_acid
+  )
+    WHEN 1 THEN 'TRUE'
+    ELSE 'FALSE'
+  END AS invivo_selected
 FROM isolate_mutations im
   JOIN isolates iso ON
     im.iso_name = iso.iso_name
@@ -90,6 +103,7 @@ with open('downloads/resistance-mutations/latest.tsv') as fp:
     rows = []
     for row in csv.DictReader(fp, delimiter='\t'):
         row['position'] = int(row['position'])
+        row['invivo_selected'] = row['invivo_selected'] == 'TRUE'
         rows.append(row)
 
 with open('downloads/resistance-mutations/latest.json', 'w') as fp:

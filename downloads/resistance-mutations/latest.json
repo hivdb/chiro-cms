@@ -3,797 +3,956 @@
     {
       "gene": "S",
       "position": 211,
-      "aa": "-"
+      "aa": "-",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 234,
-      "aa": "Q"
+      "aa": "Q",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 337,
-      "aa": "H"
+      "aa": "H",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 337,
-      "aa": "L"
+      "aa": "L",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 337,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 337,
-      "aa": "S"
+      "aa": "S",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 337,
-      "aa": "T"
+      "aa": "T",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 340,
-      "aa": "A"
+      "aa": "A",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 340,
-      "aa": "D"
+      "aa": "D",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 340,
-      "aa": "G"
+      "aa": "G",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 340,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 340,
-      "aa": "Q"
+      "aa": "Q",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 340,
-      "aa": "V"
+      "aa": "V",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 346,
-      "aa": "G"
+      "aa": "G",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 346,
-      "aa": "I"
+      "aa": "I",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 346,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 346,
-      "aa": "S"
+      "aa": "S",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 346,
-      "aa": "T"
+      "aa": "T",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 356,
-      "aa": "Q"
+      "aa": "Q",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 356,
-      "aa": "T"
+      "aa": "T",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 371,
-      "aa": "F"
+      "aa": "F",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 371,
-      "aa": "L"
+      "aa": "L",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 373,
-      "aa": "P"
+      "aa": "P",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 375,
-      "aa": "F"
+      "aa": "F",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 377,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 405,
-      "aa": "N"
+      "aa": "N",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 406,
-      "aa": "D"
+      "aa": "D",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 406,
-      "aa": "W"
+      "aa": "W",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 408,
-      "aa": "S"
+      "aa": "S",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 417,
-      "aa": "E"
+      "aa": "E",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 417,
-      "aa": "N"
+      "aa": "N",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 417,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 417,
-      "aa": "T"
+      "aa": "T",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 417,
-      "aa": "V"
+      "aa": "V",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 420,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 420,
-      "aa": "N"
+      "aa": "N",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 420,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 439,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 440,
-      "aa": "D"
+      "aa": "D",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 440,
-      "aa": "E"
+      "aa": "E",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 440,
-      "aa": "F"
+      "aa": "F",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 440,
-      "aa": "I"
+      "aa": "I",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 440,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 440,
-      "aa": "T"
+      "aa": "T",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 440,
-      "aa": "Y"
+      "aa": "Y",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 444,
-      "aa": "A"
+      "aa": "A",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 444,
-      "aa": "E"
+      "aa": "E",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 444,
-      "aa": "L"
+      "aa": "L",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 444,
-      "aa": "M"
+      "aa": "M",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 444,
-      "aa": "N"
+      "aa": "N",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 444,
-      "aa": "Q"
+      "aa": "Q",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 444,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 444,
-      "aa": "S"
+      "aa": "S",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 444,
-      "aa": "T"
+      "aa": "T",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 445,
-      "aa": "A"
+      "aa": "A",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 445,
-      "aa": "E"
+      "aa": "E",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 445,
-      "aa": "F"
+      "aa": "F",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 445,
-      "aa": "G"
+      "aa": "G",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 445,
-      "aa": "I"
+      "aa": "I",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 445,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 445,
-      "aa": "L"
+      "aa": "L",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 445,
-      "aa": "M"
+      "aa": "M",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 445,
-      "aa": "Q"
+      "aa": "Q",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 445,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 445,
-      "aa": "S"
+      "aa": "S",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 445,
-      "aa": "T"
+      "aa": "T",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 446,
-      "aa": "D"
+      "aa": "D",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 446,
-      "aa": "P"
+      "aa": "P",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 446,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 446,
-      "aa": "S"
+      "aa": "S",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 446,
-      "aa": "T"
+      "aa": "T",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 446,
-      "aa": "V"
+      "aa": "V",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 449,
-      "aa": "N"
+      "aa": "N",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 450,
-      "aa": "D"
+      "aa": "D",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 450,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 452,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 452,
-      "aa": "Q"
+      "aa": "Q",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 452,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 453,
-      "aa": "F"
+      "aa": "F",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 453,
-      "aa": "H"
+      "aa": "H",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 455,
-      "aa": "F"
+      "aa": "F",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 455,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 455,
-      "aa": "S"
+      "aa": "S",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 455,
-      "aa": "W"
+      "aa": "W",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 455,
-      "aa": "Y"
+      "aa": "Y",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 456,
-      "aa": "A"
+      "aa": "A",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 456,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 456,
-      "aa": "L"
+      "aa": "L",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 456,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 456,
-      "aa": "V"
+      "aa": "V",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 460,
-      "aa": "H"
+      "aa": "H",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 460,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 460,
-      "aa": "S"
+      "aa": "S",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 460,
-      "aa": "T"
+      "aa": "T",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 460,
-      "aa": "Y"
+      "aa": "Y",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 472,
-      "aa": "P"
+      "aa": "P",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 475,
-      "aa": "D"
+      "aa": "D",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 475,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 475,
-      "aa": "V"
+      "aa": "V",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 476,
-      "aa": "D"
+      "aa": "D",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 476,
-      "aa": "S"
+      "aa": "S",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 478,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 482,
-      "aa": "P"
+      "aa": "P",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 483,
-      "aa": "A"
+      "aa": "A",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 483,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 483,
-      "aa": "Q"
+      "aa": "Q",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 484,
-      "aa": "A"
+      "aa": "A",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 484,
-      "aa": "D"
+      "aa": "D",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 484,
-      "aa": "G"
+      "aa": "G",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 484,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 484,
-      "aa": "P"
+      "aa": "P",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 484,
-      "aa": "Q"
+      "aa": "Q",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 484,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 484,
-      "aa": "T"
+      "aa": "T",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 484,
-      "aa": "V"
+      "aa": "V",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 485,
-      "aa": "D"
+      "aa": "D",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 485,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 486,
-      "aa": "A"
+      "aa": "A",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 486,
-      "aa": "I"
+      "aa": "I",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 486,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 486,
-      "aa": "L"
+      "aa": "L",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 486,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 486,
-      "aa": "S"
+      "aa": "S",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 486,
-      "aa": "V"
+      "aa": "V",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 487,
-      "aa": "D"
+      "aa": "D",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 487,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 487,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 489,
-      "aa": "H"
+      "aa": "H",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 490,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 490,
-      "aa": "L"
+      "aa": "L",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 490,
-      "aa": "P"
+      "aa": "P",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 490,
-      "aa": "S"
+      "aa": "S",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 490,
-      "aa": "V"
+      "aa": "V",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 490,
-      "aa": "Y"
+      "aa": "Y",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 493,
-      "aa": "E"
+      "aa": "E",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 493,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 493,
-      "aa": "L"
+      "aa": "L",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 493,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 493,
-      "aa": "Y"
+      "aa": "Y",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 494,
-      "aa": "D"
+      "aa": "D",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 494,
-      "aa": "P"
+      "aa": "P",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 494,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 496,
-      "aa": "S"
+      "aa": "S",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 498,
-      "aa": "H"
+      "aa": "H",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 498,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 499,
-      "aa": "H"
+      "aa": "H",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 499,
-      "aa": "R"
+      "aa": "R",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 499,
-      "aa": "S"
+      "aa": "S",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 499,
-      "aa": "T"
+      "aa": "T",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 501,
-      "aa": "T"
+      "aa": "T",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 501,
-      "aa": "Y"
+      "aa": "Y",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 504,
-      "aa": "D"
+      "aa": "D",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 504,
-      "aa": "N"
+      "aa": "N",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 505,
-      "aa": "H"
+      "aa": "H",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 655,
-      "aa": "Y"
+      "aa": "Y",
+      "invivo_selected": true
     },
     {
       "gene": "S",
       "position": 856,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 969,
-      "aa": "K"
+      "aa": "K",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 990,
-      "aa": "A"
+      "aa": "A",
+      "invivo_selected": false
     },
     {
       "gene": "S",
       "position": 1009,
-      "aa": "I"
+      "aa": "I",
+      "invivo_selected": false
     }
   ]
 }
