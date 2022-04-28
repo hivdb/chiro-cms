@@ -823,6 +823,71 @@ ba-2
 
 </section>
 
+<!-- BA.3-->
+<section id="sec_ba-3" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [BA.3](#sec_ba-3)
+
+[Outbreak.info BA.3 Lineage Report](https://outbreak.info/situation-reports?pango=BA.3) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ba-3
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- BA.4-->
+<section id="sec_ba-4" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [BA.4](#sec_ba-4)
+
+[Outbreak.info BA.4 Lineage Report](https://outbreak.info/situation-reports?pango=BA.4) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ba-4
+[/genomemap]
+
+</div>
+
+</section>
+
+
+<!-- BA.5-->
+<section id="sec_ba-5" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [BA.5](#sec_ba-5)
+
+[Outbreak.info BA.5 Lineage Report](https://outbreak.info/situation-reports?pango=BA.5) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ba-5
+[/genomemap]
+
+</div>
+
+</section>
+
 
 <!-- Eta -->
 ### Eta
