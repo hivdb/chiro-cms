@@ -130,6 +130,12 @@ genomeMaps:
     positionGroups:
     - _resource: mutation-viewer/position-groups/variant-clusters/ba-2.yml
     <<: *common-props
+  ba-2-12-1:
+    name: ba-2-12-1
+    height: 250
+    positionGroups:
+    - _resource: mutation-viewer/position-groups/variant-clusters/ba-2-12-1.yml
+    <<: *common-props
   ba-3:
     name: ba-3
     height: 250

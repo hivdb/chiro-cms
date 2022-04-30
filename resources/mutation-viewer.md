@@ -823,6 +823,27 @@ ba-2
 
 </section>
 
+<!-- BA.2.12.1-->
+<section id="sec_ba-2-12-1" class="figure-section compact">
+
+<div class="figure-caption">
+
+#### [BA.2.12.1](#sec_ba-2-12-1)
+
+[Outbreak.info BA.2.12.1 Lineage Report](https://outbreak.info/situation-reports?pango=BA.2.12.1) [^Outbreak20]
+
+</div>
+
+<div class="figure-image" style="min-width: 61.8%;">
+
+[genomemap]
+ba-2-12-1
+[/genomemap]
+
+</div>
+
+</section>
+
 <!-- BA.3-->
 <section id="sec_ba-3" class="figure-section compact">
 
