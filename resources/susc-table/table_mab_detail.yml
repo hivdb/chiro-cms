@@ -10,8 +10,8 @@
   origin: CP
 - mab: C144
   synonyms: BMS-986413
-  num_ref_name: 11
-  num_fold: 135
+  num_ref_name: 12
+  num_fold: 144
   avail: Phase 2/3
   target: RBD
   class: RBM Class III
@@ -20,8 +20,8 @@
   origin: CP
 - mab: C135
   synonyms: BMS-986414
-  num_ref_name: 7
-  num_fold: 82
+  num_ref_name: 8
+  num_fold: 84
   avail: Phase 2/3
   target: RBD
   class: RBD Core Cluster I
@@ -30,8 +30,8 @@
   origin: CP
 - mab: DXP-604
   synonyms: BD-604
-  num_ref_name: 2
-  num_fold: 11
+  num_ref_name: 3
+  num_fold: 21
   avail: Phase 1
   target: RBD
   class: RBM Class I

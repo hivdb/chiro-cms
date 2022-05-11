@@ -463,7 +463,7 @@ tables:
       label: 'BEB'
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
       exportRaw: True
-    - name: Adintrevimab
+    - name: adi
       label: ADI
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
       exportRaw: True

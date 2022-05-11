@@ -1,47 +1,47 @@
 - variant: Alpha
-  cp_studies: 62
-  cp_num_fold: 2098
+  cp_studies: 60
+  cp_num_fold: 2072
   cp_s_fold: 90%
   cp_i_fold: 3%
   cp_r_fold: 7%
-  cp_num_s_fold: 1892
-  cp_num_i_fold: 73
-  cp_num_r_fold: 133
+  cp_num_s_fold: 1872
+  cp_num_i_fold: 69
+  cp_num_r_fold: 131
 - variant: Beta
-  cp_studies: 69
-  cp_num_fold: 2207
+  cp_studies: 67
+  cp_num_fold: 2209
   cp_s_fold: 43%
   cp_i_fold: 36%
   cp_r_fold: 21%
-  cp_num_s_fold: 953
+  cp_num_s_fold: 956
   cp_num_i_fold: 792
-  cp_num_r_fold: 462
+  cp_num_r_fold: 461
 - variant: Gamma
   cp_studies: 33
-  cp_num_fold: 1224
+  cp_num_fold: 1241
   cp_s_fold: 79%
   cp_i_fold: 15%
   cp_r_fold: 6%
-  cp_num_s_fold: 964
+  cp_num_s_fold: 981
   cp_num_i_fold: 184
   cp_num_r_fold: 76
 - variant: Delta
-  cp_studies: 26
-  cp_num_fold: 547
-  cp_s_fold: 85%
-  cp_i_fold: 8%
-  cp_r_fold: 7%
-  cp_num_s_fold: 467
+  cp_studies: 28
+  cp_num_fold: 730
+  cp_s_fold: 89%
+  cp_i_fold: 6%
+  cp_r_fold: 5%
+  cp_num_s_fold: 651
   cp_num_i_fold: 43
-  cp_num_r_fold: 37
+  cp_num_r_fold: 36
 - variant: Omicron/BA.1
-  cp_studies: 18
-  cp_num_fold: 500
-  cp_s_fold: 6%
-  cp_i_fold: 31%
-  cp_r_fold: 63%
+  cp_studies: 21
+  cp_num_fold: 691
+  cp_s_fold: 4%
+  cp_i_fold: 50%
+  cp_r_fold: 46%
   cp_num_s_fold: 28
-  cp_num_i_fold: 157
+  cp_num_i_fold: 348
   cp_num_r_fold: 315
 - variant: Omicron/BA.2
   cp_studies: 1
@@ -89,13 +89,13 @@
   cp_num_i_fold: 1
   cp_num_r_fold: 5
 - variant: E484K
-  cp_studies: 21
-  cp_num_fold: 283
-  cp_s_fold: 76%
+  cp_studies: 20
+  cp_num_fold: 275
+  cp_s_fold: 75%
   cp_i_fold: 13%
-  cp_r_fold: 11%
-  cp_num_s_fold: 214
-  cp_num_i_fold: 36
+  cp_r_fold: 12%
+  cp_num_s_fold: 207
+  cp_num_i_fold: 35
   cp_num_r_fold: 33
 - variant: K417N
   cp_studies: 11
@@ -107,12 +107,12 @@
   cp_num_i_fold: 1
   cp_num_r_fold: 0
 - variant: L452R
-  cp_studies: 11
-  cp_num_fold: 86
-  cp_s_fold: 86%
-  cp_i_fold: 7%
+  cp_studies: 10
+  cp_num_fold: 78
+  cp_s_fold: 85%
+  cp_i_fold: 8%
   cp_r_fold: 7%
-  cp_num_s_fold: 74
+  cp_num_s_fold: 66
   cp_num_i_fold: 6
   cp_num_r_fold: 6
 - variant: N439K
