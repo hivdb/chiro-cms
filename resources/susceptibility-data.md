@@ -27,7 +27,7 @@
 
 ### Table 1. Virus Variants and Spike Mutations vs Monoclonal Antibodies
 
-#### Fold reduced neutralizing susceptibility to monoclonal antibodies under Emergency Use Authorization(EUA)
+#### Fold reduced neutralizing susceptibility to monoclonal antibodies under Emergency Use Authorization (EUA)
 
 [table compact, lastCompact]
 table_mab
@@ -248,7 +248,7 @@ table_vp
 
 ### Table 9. Omicron Spike Mutations vs Monoclonal Antibodies
 
-#### Fold reduced neutralizing susceptibility to monoclonal antibodies under Emergency Use Authorization(EUA)
+#### Fold reduced neutralizing susceptibility to monoclonal antibodies under Emergency Use Authorization (EUA)
 
 [table compact, lastCompact]
 table_omicron_mab
