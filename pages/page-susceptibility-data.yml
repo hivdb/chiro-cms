@@ -58,15 +58,11 @@ tables:
       label: "SOT"
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
       exportRaw: True
-    - name: reg
-      label: "REG"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
-      exportRaw: True
     - name: beb
       label: 'BEB'
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
       exportRaw: True
-    - name: Adintrevimab
+    - name: adi
       label: ADI
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
       exportRaw: True
@@ -78,6 +74,10 @@ tables:
     columnDefs:
     - name: variant
       label: " "
+    - name: reg
+      label: "REG"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      exportRaw: True
     - name: b_196
       label: AMU
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
@@ -161,23 +161,6 @@ tables:
       multiCells: true
     data:
       _resource: susc-table/table_vp_summary.yml
-  table_ve:
-    tableScrollStyle:
-      maxHeight: none
-    columnDefs:
-    - name: Vaccine
-      label: ""
-    - name: Variant.name
-      label: Variant
-      multiCells: true
-    - name: Variant.efficacy
-      label: Efficacy
-      multiCells: true
-    - name: Variant.reference
-      label: Reference
-      multiCells: true
-    data:
-      _resource: susc-table/table_vp_efficacy.yml
   table_variants_of_concern:
     tableScrollStyle:
       maxHeight: none

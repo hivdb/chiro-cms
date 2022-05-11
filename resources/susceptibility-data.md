@@ -2,19 +2,20 @@
 
 - [Summaries](#summaries)
   - [Table 1. Virus Variants and Spike Mutations vs Monoclonal Antibodies](#table.1.virus.variants.and.spike.mutations.vs.monoclonal.antibodies)
-  - [Table 2. Virus Variants and Spike Mutations vs Convalescent Plasma](#table.2.virus.variants.and.spike.mutations.vs.convalescent.plasma)
-  - [Table 3. Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons](#table.3.virus.variants.and.spike.mutations.vs.plasma.from.vaccinated.persons)
-  - [Table 4. Variants of Concern, Variants of Interest, and Other Variants for which Neutralization Data are Available in CoV-RDB](#table.4.variants.of.concern.variants.of.interest.and.other.variants.for.which.neutralization.data.are.available.in.cov-rdb)
-  - [Table 5. Individual SARS-CoV-2 Spike Mutations for which Data are Available in CoV-RDB Receptor-binding domain (RBD)](#table.5.individual.sars-cov-2.spike.mutations.for.which.data.are.available.in.cov-rdb)
-  - [Table 6. Monoclonal Antibodies (mAbs) with Emergency Use Authorization (EUA) or in Advanced Clinical Trials](#table.6.monoclonal.antibodies.mabs.with.emergency.use.authorization.eua.or.in.advanced.clinical.trials)
-  - [Table 7. Numbers of Convalescent Plasma (CP) Neutralization Experiments in CoV-RDB According to the Infecting Virus, Time Since Infection, and SARS-CoV-2 Variant Tested](#table.7.numbers.of.convalescent.plasma.cp.neutralization.experiments.in.cov-rdb.according.to.the.infecting.virus.time.since.infection.and.sars-cov-2.variant.tested)
-  - [Table 8. Numbers of Vaccinee Plasma (VP) Neutralization Experiments in CoV-RDB According to the Vaccine, History of Previous Infection, Time Since Infection, and SARS- CoV-2 Variant Tested](#table.8.numbers.of.vaccinee.plasma.vp.neutralization.experiments.in.cov-rdb.according.to.the.vaccine.history.of.previous.infection.time.since.infection.and.sars-.cov-2.variant.tested)
+  - [Table 2. Variants of Concern, Variants of Interest, and Other Variants for which Neutralization Data are Available](#table.2.variants.of.concern.variants.of.interest.and.other.variants.for.which.neutralization.data.are.available)
+  - [Table 3. Individual SARS-CoV-2 Spike Mutations for which Data are Available](#table.3.individual.sars-cov-2.spike.mutations.for.which.data.are.available)
+  - [Table 4. Monoclonal Antibodies (mAbs) with Emergency Use Authorization (EUA) or in Advanced Clinical Trials](#table.4.monoclonal.antibodies.mabs.with.emergency.use.authorization.eua.or.in.advanced.clinical.trials)
+  - [Table 5. Numbers of Vaccinee Plasma (VP) Neutralization Experiments According to the Vaccine, History of Previous Infection, Time Since Infection, and SARS-CoV-2 Variant Tested](#table.5.numbers.of.vaccinee.plasma.vp.neutralization.experiments.according.to.the.vaccine.history.of.previous.infection.time.since.infection.and.sars-cov-2.variant.tested)
+  - [Table 6. Numbers of Convalescent Plasma (CP) Neutralization Experiments According to the Infecting Virus, Time Since Infection, and SARS-CoV-2 Variant Tested](#table.6.numbers.of.convalescent.plasma.cp.neutralization.experiments.according.to.the.infecting.virus.time.since.infection.and.sars-cov-2.variant.tested)
+  <!-- - [Document 1] -->
+  - [Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the five variants of concern (VOC)](#figure.1.distribution.of.fold-reduction.in.susceptibilities.a.and.of.absolute.neutralizing.titers.b.of.vaccinee.plasma.vp.associated.with.eight.vaccines.to.the.five.variants.of.concern.voc.)
+  - [Figure 2: Monoclonal antibodies (mAbs) with EUAs or in advanced clinical development: receptor binding domain (RBD) epitopes and immune escape positions.](#figure.2.monoclonal.antibodies.mabs.with.euas.or.in.advanced.clinical.development.receptor.binding.domain.rbd.epitopes.and.immune.escape.positions.)
+
+  - [Table 7. Virus Variants and Spike Mutations vs Convalescent Plasma](#table.7.virus.variants.and.spike.mutations.vs.convalescent.plasma)
+  - [Table 8. Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons](#table.8.virus.variants.and.spike.mutations.vs.plasma.from.vaccinated.persons)
   - [Table 9. Omicron Spike Mutations vs Monoclonal Antibodies](#table.9.omicron.spike.mutations.vs.monoclonal.antibodies)
   - [Table 10. Omicron Spike Mutations DMS Score](#table.10.omicron.spike.mutations.dms.score)
-  <!-- - [Table 4: Vaccine Efficacy at Preventing Symptomatic SARS-CoV-2 Infection With Variants](#table.4.vaccine.efficacy.at.preventing.symptomatic.sars-cov-2.infection.with.variants) -->
-  <!-- - [Figure: Virus Variants and Spike Mutations vs Convalescent Plasma and Plasma from Vaccinated Persons](/page/susceptibility-data/figure/#figure.virus.variants.and.spike.mutations.vs.convalescent.plasma.and.plasma.from.vaccinated.persons) -->
-  - [Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the four variants of concern (VOC): Alpha, Beta, Gamma, and Delta.](#figure.1.distribution.of.fold-reduction.in.susceptibilities.a.and.of.absolute.neutralizing.titers.b.of.vaccinee.plasma.vp.associated.with.eight.vaccines.to.the.four.variants.of.concern.voc.alpha.beta.gamma.and.delta.)
-  - [Figure 2: Monoclonal antibodies (mAbs) with EUAs or in advanced clinical development: receptor binding domain (RBD) epitopes and immune escape positions.](#figure.2.monoclonal.antibodies.mabs.with.euas.or.in.advanced.clinical.development.receptor.binding.domain.rbd.epitopes.and.immune.escape.positions.)
+
 - Lookup tables
   - [mAb (monoclonal antibody) synonyms](/page/mab-synonyms)
   - [Wildtype mutations](/page/wildtype)
@@ -38,17 +39,20 @@ table_mab
 table_mab_non_eua
 [/table]
 
-- The fold change is the median value of samples, the subscript is the number of samples. “-” indicates absence of susceptibility data. “\*” indicates conflict between two research groups, with one showing high-level of reduced susceptibility especially using IC80 rather than IC50.
+- The fold reduction in susceptibility is the median value of results, the subscript is the number of samples. “-” indicates absence of susceptibility data.
 - Spike mutations:
-  - **Alpha, B.1.1.7**: ∆69/70, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H.
+  - **Alpha, B.1.1.7**: HV69-70∆, ∆144, N501Y, A570D, D614G, P681H, T716I, S982A, and D1118H.
   - **Beta, B.1.351**: L18F, D80A, D215G, ∆242-244, R246I, K417N, E484K, N501Y, D614G, and A701V.
   - **Gamma, P.1**: L18F, T20N, P26S, D138Y, R190S, K417T, E484K, N501Y, D614G, H655Y, T1027I, and V1176F.
-  - **Delta, B.1.617.2**: T19R, FR1570158∆, L452R, T478K, D614G, P681R, D950N.
+  - **Delta, B.1.617.2**: T19R, FR157-158∆, L452R, T478K, D614G, P681R, D950N.
   - **Iota, B.1.526**: L5F, T95I, D253G, E484K, D614G, A701V.
   - **Epsilon, B.1.427/9**: S13I, W152C, L452R, D614G.
   - **Kappa, B.1.617.1**: T95I, L452R, E484Q, D614G, P681R, Q1071H.
   - **Omicron/BA.1**: A67V, HV69-70∆, T95I, G142D, VYY143-145∆, N211∆, L212I, R214EPEins, G339D, S371L, S373P, S375F, K417N, N440K, G446S, S477N, T478K, E484A, Q493R, G496S, Q498R, N501Y, Y505H, T547K, H655Y, N679K, P681H, N764K, D796Y, N856K, Q954H, N969K, L981F
   - **Omicron/BA.2**: T19I, L24S, PPA25-27∆, G142D, V213G, G339D, S371F, S373P, S375F, T376A, D405N, R408S, K417N, N440K, S477N, T478K, E484A, Q493R, Q498R, N501Y, Y505H, D614G, H655Y, N679K, P681H, N764K, D796Y, Q954H, N969K
+  - **Omicron/BA.4**: T19I, L24S, PPA25-27∆, HV69-70∆, G142D, V213G, G339D, S371F, S373P, S375F, T376A, D405N, R408S, K417N, N440K, L452R, S477N, T478K, E484A, F486V, Q498R, N501Y, Y505H, D614G, H655Y, N679K, P681H, N764K, D796Y, Q954H, N969K
+  - **Omicron/BA.5**: T19I, L24S, PPA25-27∆, HV69-70∆, G142D, V213G, G339D, S371F, S373P, S375F, T376A, D405N, R408S, K417N, N440K, L452R, S477N, T478K, E484A, F486V, Q498R, N501Y, Y505H, D614G, H655Y, N679K, P681H, N764K, D796Y, Q954H, N969K
+  - **Omicron/BA.2.12.1**: T19I, L24S, PPA25-27∆, G142D, V213G, G339D, S371F, S373P, S375F, T376A, D405N, R408S, K417N, N440K, L452R, S477N, T478K, E484A, Q493R, Q498R, N501Y, Y505H, D614G, H655Y, N679K, P681H, N764K, D796Y, Q954H, N969K
 - Monoclonal antibody(mAb) abbreviations:
   **BAM**: Bamlanivimab/LY-CoV555/LY3819253,
   **ETE**: Etesevimab/LY-CoV016/JS016/CB6,
@@ -57,50 +61,18 @@ table_mab_non_eua
   **CIL**: Cilgavimab/COV2-2130/AZD1061,
   **TIX**: Tixagevimab/COV2-2196/AZD8895,
   **SOT**: Sotrovimab/Vir-7831/S309,
+  **BEB**: Bebtelovimab/LY-CoV1404/LY3853113,
   **REG**: Regdanvimab/CT-P59,
   **AMU**: Amubarvimab/BRII-196/P2C-1f11,
   **ROM**: Romlusevimab/BRII-198/P2B-1G5,
-  **ADI**: Adintrevimab/ADG20/ADG-2,
-  **BEB**: Bebtelovimab/LY-CoV1404/LY3853113.
+  **ADI**: Adintrevimab/ADG20/ADG-2.
 - The color scheme indicates the fold-reduction in neutralization: <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #ffffff; color: black;">absence of color</span> – &lt;5-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #7fcbee; color: black;">light blue</span> – 5 to 24.9-fold reduced susceptibility; <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span> – ≥25-fold reduced susceptibility.
 
 
 ***
 
 
-### Table 2. Virus Variants and Spike Mutations vs Convalescent Plasma
-
-[table compact,lastCompact]
-table_cp
-[/table]
-
-- Convalescent plasma in all studies is presumed likely to have been obtained from persons infected with spike variants lacking mutations associated with reduced neutralization susceptibility.
-
-***
-
-
-### Table 3. Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons
-
-[table compact,lastCompact]
-table_vp
-[/table]
-
-
-***
-<!-- ### Table 4: Vaccine Efficacy at Preventing Symptomatic SARS-CoV-2 Infection With Variants
-
-[table compact,lastCompact]
-table_ve
-[/table]
-
-- Includes persons receiving a full course of vaccination: 1 to 2 weeks following two vaccine doses for BNT162b, AZD1222, mRNA-1273, NVX-2373, and Coronavac; 4 weeks after one vaccine dose for AD26.CoV2.
-- AZD1222 efficacy data includes some patients receiving the standard vaccine dose at both time points and others receiving a lower vaccine dose at the first time point.
-- AD26.CoV2 efficacy data based on preventing moderate to severe disease; pre-variant efficacy based on U.S. data.
-- Coronovac efficacy against data against pre-variant isolates may include some persons infected with the VOC gamma and the VOI zeta. The test-negative case control study of vaccine efficacy against gamma was performed in persons 70 years or older.
-Abbreviations: Trial – post hoc analysis of clinical trial data; TNCC – test negative case control study
- -->
-
-### Table 4. Variants of Concern, Variants of Interest, and Other Variants for which Neutralization Data are Available in CoV-RDB
+### Table 2. Variants of Concern, Variants of Interest, and Other Variants for which Neutralization Data are Available
 
 #### Variants of concern
 
@@ -120,12 +92,11 @@ table_variants_of_interest
 table_variants_other_rbd
 [/table]
 
-The most common ancestral variants lacking immune escape mutations used as controls include A
-variants (n=4440), B variants (Wuhan consensus; n=27045), B.1 variants (Wuhan consensus + D614G; n=25213).
 
 ***
 
-### Table 5. Individual SARS-CoV-2 Spike Mutations for which Data are Available in CoV-RDB
+
+### Table 3. Individual SARS-CoV-2 Spike Mutations for which Data are Available
 
 #### Receptor-binding domain (RBD)
 
@@ -151,12 +122,10 @@ table_mut_ctd
 table_mut_s2
 [/table]
 
-The most commonly studied mutation combinations that are not VOCs or VOIs included K417N+E484K+N501Y (n=25 studies; 975 results), E484K+N501Y (n=5 studies; 189 results), ∆69/70+N501Y (n=8 studies; 158 results), ∆69/70+Y453F (n=3 studies; 77 results), L452R+E484Q+P681R (n=3 studies; 55 results) K417N+N501Y (n=2 studies; 75 results), K417N+E484K (n=2 studies; 75 results), and L452R+E484Q (n=8 studies; 129 results)
-
 ***
 
 
-### Table 6. Monoclonal Antibodies (mAbs) with Emergency Use Authorization (EUA) or in Advanced Clinical Trials
+### Table 4. Monoclonal Antibodies (mAbs) with Emergency Use Authorization (EUA) or in Advanced Clinical Trials
 
 [table compact,lastCompact]
 table_mab_detail
@@ -164,33 +133,11 @@ table_mab_detail
 
 RBM (receptor binding motif) is the part of the receptor binding domain (RBD) that contains the spike ACE2 binding residues. RBM class 1 mAbs bind epitopes dominated by ACE2-binding residues and as a result bind solely when the RBD is in the up/open position. RBM class 2 mAbs have a smaller ACE2-binding footprint and can often bind the RBD in down/closed position. RBD core mAbs target a surface accessible part of the RBD that is separate from the RBM. 2The publications and results include those describing both in vitro selection and neutralization experiments.
 
-***
-
-
-### Table 7. Numbers of Convalescent Plasma (CP) Neutralization Experiments in CoV-RDB According to the Infecting Virus, Time Since Infection, and SARS-CoV-2 Variant Tested
-
-#### Infecting virus
-
-[table compact,lastCompact]
-table_cp_infection
-[/table]
-
-#### Time since infection
-
-[table compact,lastCompact]
-table_cp_time
-[/table]
-
-#### Variant / mutations undergoing neutralization
-
-[table compact,lastCompact]
-table_cp_variant
-[/table]
 
 ***
 
 
-### Table 8. Numbers of Vaccinee Plasma (VP) Neutralization Experiments in CoV-RDB According to the Vaccine, History of Previous Infection, Time Since Infection, and SARS- CoV-2 Variant Tested
+### Table 5. Numbers of Vaccinee Plasma (VP) Neutralization Experiments According to the Vaccine, History of Previous Infection, Time Since Infection, and SARS-CoV-2 Variant Tested
 
 #### Vaccine
 
@@ -227,33 +174,31 @@ The numbers of references and results obtained from persons receiving uncommonly
 
 ***
 
-### Table 9. Omicron Spike Mutations vs Monoclonal Antibodies
 
-#### Fold reduced neutralizing susceptibility to monoclonal antibodies under Emergency Use Authorization(EUA)
+### Table 6. Numbers of Convalescent Plasma (CP) Neutralization Experiments According to the Infecting Virus, Time Since Infection, and SARS-CoV-2 Variant Tested
 
-[table compact, lastCompact]
-table_omicron_mab
-[/table]
-
-#### Fold reduced neutralizing susceptibility to monoclonal antibodies in other clinical trials
+#### Infecting virus
 
 [table compact,lastCompact]
-table_omicron_mab_non_eua
+table_cp_infection
+[/table]
+
+#### Time since infection
+
+[table compact,lastCompact]
+table_cp_time
+[/table]
+
+#### Variant / mutations undergoing neutralization
+
+[table compact,lastCompact]
+table_cp_variant
 [/table]
 
 ***
 
-### Table 10. Omicron Spike Mutations DMS Score
 
-[table compact,lastCompact]
-table_omicron_dms
-[/table]
-
-- Escape scores are from [jbloomlab/SARS2_RBD_Ab_escape_maps](https://github.com/jbloomlab/SARS2_RBD_Ab_escape_maps)
-
-***
-
-### Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the four variants of concern (VOC): Alpha, Beta, Gamma, and Delta.
+### Figure 1: Distribution of fold-reduction in susceptibilities (A) and of absolute neutralizing titers (B) of vaccinee plasma (VP) associated with eight vaccines to the five variants of concern (VOC)
 
 <div class="figure-image">
 
@@ -278,10 +223,61 @@ For each mAb, the top of the RBD and two side views are depicted using coordinat
 </div>
 
 
+
+### Table 7. Virus Variants and Spike Mutations vs Convalescent Plasma
+
+[table compact,lastCompact]
+table_cp
+[/table]
+
+- Convalescent plasma in all studies is presumed likely to have been obtained from persons infected with spike variants lacking mutations associated with reduced neutralization susceptibility.
+
+***
+
+
+### Table 8. Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons
+
+[table compact,lastCompact]
+table_vp
+[/table]
+
+
+***
+
+
+
+### Table 9. Omicron Spike Mutations vs Monoclonal Antibodies
+
+#### Fold reduced neutralizing susceptibility to monoclonal antibodies under Emergency Use Authorization(EUA)
+
+[table compact, lastCompact]
+table_omicron_mab
+[/table]
+
+#### Fold reduced neutralizing susceptibility to monoclonal antibodies in other clinical trials
+
+[table compact,lastCompact]
+table_omicron_mab_non_eua
+[/table]
+
+
+***
+
+
+### Table 10. Omicron Spike Mutations DMS Score
+
+[table compact,lastCompact]
+table_omicron_dms
+[/table]
+
+- Escape scores are from [jbloomlab/SARS2_RBD_Ab_escape_maps](https://github.com/jbloomlab/SARS2_RBD_Ab_escape_maps)
+
+***
+
+
 <section>
 
 <div class="figure-caption">
-
 
 ## References
 
