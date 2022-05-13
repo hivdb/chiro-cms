@@ -31,7 +31,7 @@ find . -type f | while read file; do
   fi
   mkdir -p ../build_gz/$(dirname $file)
   ln ../build/$file ../build_gz/$file
-  pigz -9 ../build_gz/$file
+  pigz -9 -f ../build_gz/$file
   echo "compress: build_gz/$file"
   mv ../build_gz/$file.gz ../build_gz/$file
 done

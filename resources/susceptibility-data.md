@@ -171,6 +171,9 @@ table_vp_time
 table_vp_variant
 [/table]
 
+- The number of references and results of a variant includes the data from both the variant and it's sublineages which share the same WHO/Pango name.
+
+
 <!-- #### Number of vaccinations
 
 [table compact,lastCompact]
@@ -202,6 +205,8 @@ table_cp_time
 [table compact,lastCompact]
 table_cp_variant
 [/table]
+
+- The number of references and results of a variant includes the data from both the variant and it's sublineages which share the same WHO/Pango name.
 
 ***
 
