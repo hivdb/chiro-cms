@@ -3,7 +3,7 @@
 FOLDER=./resources/susc-table
 # rm -rf "$FOLDER"/*
 
-cp ../covid-drdb-reports/report_tables/*.json "$FOLDER"
+cp ../covid-drdb-reports/report_tables/table_*.json "$FOLDER"
 cp ../covid-drdb-reports/report_tables/variant/wildtype.json "$FOLDER"
 cp ../covid-drdb-reports/report_tables/mab/mab_synonyms.json "$FOLDER"
 

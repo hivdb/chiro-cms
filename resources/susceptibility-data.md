@@ -74,7 +74,11 @@ table_mab_non_eua
 
 ### Table 2. Variants of Concern, Variants of Interest, and Other Variants for which Neutralization Data are Available
 
-#### Variants of concern
+[table compact,lastCompact]
+table_variants
+[/table]
+
+<!-- #### Variants of concern
 
 [table compact,lastCompact]
 table_variants_of_concern
@@ -90,7 +94,7 @@ table_variants_of_interest
 
 [table compact,lastCompact]
 table_variants_other_rbd
-[/table]
+[/table] -->
 
 
 ***
@@ -98,7 +102,11 @@ table_variants_other_rbd
 
 ### Table 3. Individual SARS-CoV-2 Spike Mutations for which Data are Available
 
-#### Receptor-binding domain (RBD)
+[table compact,lastCompact]
+table_single_mut
+[/table]
+
+<!-- #### Receptor-binding domain (RBD)
 
 [table compact,lastCompact]
 table_mut_rbd
@@ -120,7 +128,7 @@ table_mut_ctd
 
 [table compact,lastCompact]
 table_mut_s2
-[/table]
+[/table] -->
 
 ***
 
@@ -145,11 +153,11 @@ RBM (receptor binding motif) is the part of the receptor binding domain (RBD) th
 table_vp_vaccine
 [/table]
 
-#### Previously SARS-CoV-2 infected
+<!-- #### Previously SARS-CoV-2 infected
 
 [table compact,lastCompact]
 table_vp_infection
-[/table]
+[/table] -->
 
 #### Time since vaccination
 
@@ -163,11 +171,11 @@ table_vp_time
 table_vp_variant
 [/table]
 
-#### Number of vaccinations
+<!-- #### Number of vaccinations
 
 [table compact,lastCompact]
 table_vp_dosage
-[/table]
+[/table] -->
 
 
 The numbers of references and results obtained from persons receiving uncommonly studied vaccines or vaccine combinations are not shown.

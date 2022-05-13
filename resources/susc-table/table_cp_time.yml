@@ -1,12 +1,12 @@
-- char: "1 month"
-  num_ref: 112
-  num_fold: 12861
-- char: "2-3 months"
-  num_ref: 52
-  num_fold: 3802
-- char: "4-6 months"
-  num_ref: 27
-  num_fold: 1528
-- char: "&gt;6 months"
-  num_ref: 20
-  num_fold: 1105
+- timing: 1 month
+  num_ref_name: 115
+  num_fold: 13025
+- timing: 2-3 months
+  num_ref_name: 58
+  num_fold: 4359
+- timing: 4-6 months
+  num_ref_name: 29
+  num_fold: 1732
+- timing: '&gt;6 months'
+  num_ref_name: 23
+  num_fold: 1334

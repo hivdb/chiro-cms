@@ -173,6 +173,20 @@ tables:
       label: Results
     data:
       _resource: susc-table/table_var_voc.yml
+  table_variants:
+    tableScrollStyle:
+      maxHeight: none
+    columnDefs:
+    - name: var_name
+      label: Virus
+    - name: var_type
+      lable: Virus type
+    - name: num_ref_name
+      label: References
+    - name: num_exp
+      label: Results
+    data:
+      _resource: susc-table/table_variants.yml
   table_variants_of_interest:
     tableScrollStyle:
       maxHeight: none
@@ -209,6 +223,20 @@ tables:
       label: Results
     data:
       _resource: susc-table/table_mut_ntd.yml
+  table_single_mut:
+    tableScrollStyle:
+      maxHeight: none
+    columnDefs:
+    - name: pattern
+      label: Mutation
+    - name: domain
+      label: Domain
+    - name: num_ref_name
+      label: References
+    - name: num_exp
+      label: Results
+    data:
+      _resource: susc-table/table_single_mut.yml
   table_mut_rbd:
     tableScrollStyle:
       maxHeight: none
@@ -269,9 +297,9 @@ tables:
     tableScrollStyle:
       maxHeight: none
     columnDefs:
-    - name: char
-      label: Characteristic
-    - name: num_ref
+    - name: variant
+      label: Variant
+    - name: num_ref_name
       label: References
     - name: num_fold
       label: Results
@@ -281,9 +309,9 @@ tables:
     tableScrollStyle:
       maxHeight: none
     columnDefs:
-    - name: char
-      label: Characteristic
-    - name: num_ref
+    - name: timing
+      label: Time since infection
+    - name: num_ref_name
       label: References
     - name: num_fold
       label: Results
@@ -293,9 +321,9 @@ tables:
     tableScrollStyle:
       maxHeight: none
     columnDefs:
-    - name: char
-      label: Characteristic
-    - name: num_ref
+    - name: var_name
+      label: Variant
+    - name: num_ref_name
       label: References
     - name: num_fold
       label: Results
@@ -305,9 +333,13 @@ tables:
     tableScrollStyle:
       maxHeight: none
     columnDefs:
-    - name: char
-      label: Characteristic
-    - name: num_ref
+    - name: vaccine
+      label: Vaccine
+    - name: dosage
+      label: Dosage
+    - name: infection
+      label: Infection
+    - name: num_ref_name
       label: References
     - name: num_fold
       label: Results
@@ -317,9 +349,9 @@ tables:
     tableScrollStyle:
       maxHeight: none
     columnDefs:
-    - name: char
-      label: Characteristic
-    - name: num_ref
+    - name: infection
+      label: Infection
+    - name: num_ref_name
       label: References
     - name: num_fold
       label: Results
@@ -329,9 +361,9 @@ tables:
     tableScrollStyle:
       maxHeight: none
     columnDefs:
-    - name: char
-      label: Characteristic
-    - name: num_ref
+    - name: timing
+      label: Time since vaccination
+    - name: num_ref_name
       label: References
     - name: num_fold
       label: Results
@@ -341,9 +373,9 @@ tables:
     tableScrollStyle:
       maxHeight: none
     columnDefs:
-    - name: char
-      label: Characteristic
-    - name: num_ref
+    - name: var_name
+      label: Variant
+    - name: num_ref_name
       label: References
     - name: num_fold
       label: Results
