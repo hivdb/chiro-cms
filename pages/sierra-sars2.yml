@@ -45,8 +45,7 @@ geneReferences:
 geneValidatorDefs:
   _resource: sierra-sars2/gene-validators.yml
 mutationDefaultGene: S
-mutationSuggestions:
-  _resource: sierra-sars2/mutation-suggestions.yml
+mutationSuggestions: null
 mutationPrefills:
   _resource: sierra-sars2/mutation-prefills.yml
 seqReadsDefaultParams:
