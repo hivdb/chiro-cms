@@ -20,6 +20,7 @@ genomeMaps:
       paddingRight: 60
       paddingTop: 0
       hidePositionAxis: true
+      positionExtendSize: 30
       .:
         _resource: mutation-viewer/sars2-regions.yml
   b-1-617-2:

@@ -133,3 +133,13 @@ mutation-popup: >-
   Search:
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=SARS+${uriGene}+${uriMutation}) |
   [Google Scholar](https://scholar.google.com/scholar?q=SARS+${uriGene}+${uriMutation})
+mut-input-error-invalid-mutation: >- # no markdown
+  Invalid mutation: a mutation must consist of the gene (optional), a reference
+  amino acid (optional), the position and mutation amino acid. For examples,
+  S:E484K, RdRP:323L, or just "510Y" for any spike mutations.
+mut-input-error-invalid-gene: >- # no markdown
+  Unable to identify input gene "$$GENE$$".
+mut-input-error-pos-is-zero: >- # no markdown
+  Position cannot be zero.
+mut-input-error-pos-out-of-bounds: >- # no markdown
+  Position cannot be greater than $$MAX_POS$$.

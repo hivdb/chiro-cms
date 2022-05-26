@@ -1,5 +1,4 @@
-species: SARS2
-drdbVersion: "20220524-140454-slim"
+drdbVersion: "20220525-162547-slim"
 cmtVersion: "20220202"
 allGenes: &allGenes [
   nsp1, nsp2, PLpro, nsp4, _3CLpro, nsp6, nsp7, nsp8, nsp9,
@@ -29,6 +28,7 @@ regionPresets:
           paddingLeft: 60
           paddingRight: 20
           paddingTop: 20
+        positionExtendSize: 30
         .:
           _resource: mutation-viewer/sars2-regions.yml
     - name: evenly-distributed

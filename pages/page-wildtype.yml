@@ -1,18 +1,7 @@
 pageTitle: SARS-CoV-2 Wildtype List
+redirect: /susceptibility-data/wildtype/
 introHeader: |-
   SARS-CoV-2 Wildtype List
 toc: false
 escapeHtml: false
-content:
-  _resource: wildtype.md
-tables:
-  table_wildtype:
-    tableScrollStyle:
-      maxHeight: none
-    columnDefs:
-    - name: var_name
-      label: "PANGO name"
-    - name: pattern
-      label: "Spike Mutations"
-    data:
-      _resource: susc-table/wildtype.yml
+content: ''

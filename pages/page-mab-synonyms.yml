@@ -1,18 +1,7 @@
 pageTitle: SARS-CoV-2 monoclonal antibody synonyms
+redirect: /susceptibility-data/mab-synonyms/
 introHeader: |-
   SARS-CoV-2 monoclonal antibody synonyms
 toc: false
 escapeHtml: false
-content:
-  _resource: mab_synonyms.md
-tables:
-  table_mab_synonyms:
-    tableScrollStyle:
-      maxHeight: none
-    columnDefs:
-    - name: ab_name
-      label: "mAb name"
-    - name: synonyms
-      label: "Synonyms"
-    data:
-      _resource: susc-table/mab_synonyms.yml
+content: ''
