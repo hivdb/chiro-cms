@@ -73,7 +73,7 @@ positions:
   pos: 22811
 - name: N440K
   pos: 22880
-- name: L452R
+- name: L452Q
   pos: 22916
 - name: S477N
   pos: 22991
@@ -97,6 +97,8 @@ positions:
   pos: 23597
 - name: P681H
   pos: 23603
+- name: S704L
+  pos: 23672
 - name: N764K
   pos: 23852
 - name: D796Y
