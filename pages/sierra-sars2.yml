@@ -6,6 +6,10 @@ allGenes: &allGenes [
   ORF6, ORF7a, ORF7b, ORF8, N, ORF10
 ]
 highlightGenes: &hlGenes [S]
+listReadDepthByGene:
+  - _3CLpro
+  - RdRP
+  - S
 geneDisplay:
   _3CLpro: 3CLpro
   S: Spike
@@ -52,11 +56,10 @@ seqReadsDefaultParams:
   strain: SARS2
   maxMixtureRate: 0.0005 # ≤0.05%
   minPrevalence: 0.1  # ≥10%
-  minCodonReads: 5
-  minPositionReads: 1
+  minPositionReads: 5
 seqReadsMaxMixtureRate:
   - value: 0.0
-    label: only cons
+    label: "(no mixture)"
   - value: 0.0005
     label: ≤0.05%
   - value: 0.001
@@ -67,6 +70,8 @@ seqReadsMaxMixtureRate:
     label: ≤0.5%
   - value: 0.01
     label: ≤1%
+  - value: 1
+    label: "(don't apply)"
 seqReadsMinPrevalenceOptions:
   - value: 0.01
     label: ≥1%
@@ -80,15 +85,15 @@ seqReadsMinPrevalenceOptions:
     label: ≥20%
   - value: 0.50
     label: ≥50%
-seqReadsMinCodonReadsOptions:
+seqReadsMinPositionReadsOptions:
   - value: 1
-    label: (all)
+    label: "(don't apply)"
   - value: 5
     label: ≥5
-  - value: 10
-    label: ≥10
-  - value: 20
-    label: ≥20
+  - value: 25
+    label: ≥25
+  - value: 50
+    label: ≥50
 messages:
   .:
     _resource: sierra-sars2/messages.yml
@@ -140,3 +145,5 @@ seqReadsExamples:
 outbreakInfo:
   lineages:
     _resource: sierra-sars2/outbreak.info/lineages.json
+highlightUnusualMutation: false
+highlightDRM: true

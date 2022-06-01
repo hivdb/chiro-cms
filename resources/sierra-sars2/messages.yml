@@ -130,9 +130,26 @@ mab-footnote: |-
   - **C135**, **C144**: developed by The Rockefeller University
 
 mutation-popup: >-
+  ${isUnusual}
+  
+
+  ${isDRM}
+
+
   Search:
   [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=SARS+${uriGene}+${uriMutation}) |
   [Google Scholar](https://scholar.google.com/scholar?q=SARS+${uriGene}+${uriMutation})
+
+mutation-is-unusual: >-
+  ${mutation} is an unusual mutation as having a global prevalence below 0.01%.
+
+mutation-is-drm: >-
+  ${mutation} is a reported resistance mutation against ${drugClassFullName}
+  (${drugClass}).
+
+mutation-is-drm-MAB: >-
+  ${mutation} is a monoclonal antibody (mAb) resistance mutation.
+
 mut-input-error-invalid-mutation: >- # no markdown
   Invalid mutation: a mutation must consist of the gene (optional), a reference
   amino acid (optional), the position and mutation amino acid. For examples,
@@ -143,3 +160,19 @@ mut-input-error-pos-is-zero: >- # no markdown
   Position cannot be zero.
 mut-input-error-pos-out-of-bounds: >- # no markdown
   Position cannot be greater than $$MAX_POS$$.
+
+min-position-reads-dropdown-label: Minimum read depth
+min-position-reads-dropdown-desc: >-
+  Regions containing fewer reads are ignored. The default is a minimum of 5
+  reads per position.
+
+min-prevalence-dropdown-label: Mutation detection threshold
+min-prevalence-dropdown-desc: >-
+  Choose a threshold above which mutations are considered to be valid once the
+  nucleotide mixture threshold is satisfied.
+
+max-mixture-rate-dropdown-label: Nucleotide mixture threshold
+max-mixture-rate-dropdown-desc: >-
+  Choose a threshold that limits the proportion of allowed nucleotide mixtures
+  across the genome (after the minimum read depth is applied). The default
+  threshold is 0.05% (~15 mixtures across a complete genome). 
