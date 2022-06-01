@@ -3,23 +3,22 @@ missionStatement:
   _resource: mission-statement.md
 projectSections:
   - title: Highlights
+    compact: true
     displayTitle: false
     items:
-    - title: Susceptibility of variants
+    - title: Susceptibility summaries
       description: mAbs, convalescent plasma, and vaccinee plasma
       link: /susceptibility-data/
       image: home/susc-summary.png
-    - title: >-
-        <span style="font-size:1.7rem;">
-        SARS-CoV-2 Selection data
-        </span>
+    - title: Search database
+      description: mAbs, convalescent plasma, and vaccinee plasma
+      link: /search-drdb/
+      image: home/search-drdb.png
+    - title: SARS-CoV-2 selection data
       description: in vivo & in vitro selection data
       link: /search-drdb/selection-data/
       image: home/selection-data.png
-    - title: >-
-        <span style="font-size:1.7rem;">
-        SARS-CoV-2 analysis program
-        </span>
+    - title: SARS-CoV-2 analysis program
       description: Susceptibility data, genes, mutations, and lineage
       link: /sierra/sars2/by-patterns/
       image: home/edumat-sierra-sars2.png
@@ -114,6 +113,7 @@ projectSections:
       link: https://www.mdpi.com/1999-4915/12/9/1006
       image: home/pub-dbpaper.png
   - title: Archive
+    compact: true
     displayTitle: true
     items:
     - title: Archive pages
