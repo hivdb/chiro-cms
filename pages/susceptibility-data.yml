@@ -78,30 +78,30 @@ sections:
       escape positions
     content:
       _resource: susceptibility-data/figure-epitope.md
-  - title: Table 7
-    name: table-cp-susc
-    shortDesc: CP vs variants/mutations
-    desc: Virus Variants and Spike Mutations vs Convalescent Plasma
-    content:
-      _resource: susceptibility-data/table-cp-susc.md
-  - title: Table 8
-    name: table-vp-susc
-    shortDesc: VP vs variants/mutations
-    desc: Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons
-    content:
-      _resource: susceptibility-data/table-vp-susc.md
-  - title: Table 9
-    name: table-omicron-mab
-    shortDesc: Omicron Mutations vs MAbs
-    desc: Omicron Spike Mutations vs Monoclonal Antibodies
-    content:
-      _resource: susceptibility-data/table-omicron-mab.md
-  - title: Table 10
-    name: table-omicron-dms
-    shortDesc: DMS Omicron Mutations
-    desc: Omicron Spike Mutations DMS Score
-    content:
-      _resource: susceptibility-data/table-omicron-dms.md
+  # - title: Table 7
+  #   name: table-cp-susc
+  #   shortDesc: CP vs variants/mutations
+  #   desc: Virus Variants and Spike Mutations vs Convalescent Plasma
+  #   content:
+  #     _resource: susceptibility-data/table-cp-susc.md
+  # - title: Table 8
+  #   name: table-vp-susc
+  #   shortDesc: VP vs variants/mutations
+  #   desc: Virus Variants and Spike Mutations vs Plasma from Vaccinated Persons
+  #   content:
+  #     _resource: susceptibility-data/table-vp-susc.md
+  # - title: Table 9
+  #   name: table-omicron-mab
+  #   shortDesc: Omicron Mutations vs MAbs
+  #   desc: Omicron Spike Mutations vs Monoclonal Antibodies
+  #   content:
+  #     _resource: susceptibility-data/table-omicron-mab.md
+  # - title: Table 10
+  #   name: table-omicron-dms
+  #   shortDesc: DMS Omicron Mutations
+  #   desc: Omicron Spike Mutations DMS Score
+  #   content:
+  #     _resource: susceptibility-data/table-omicron-dms.md
   - title: Appendix Table 1
     name: table-mab-synonyms
     shortDesc: MAb synonyms
