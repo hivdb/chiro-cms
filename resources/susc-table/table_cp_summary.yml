@@ -1,57 +1,57 @@
 - variant: Alpha
-  cp_studies: 60
-  cp_num_fold: 2072
-  cp_s_fold: 90%
+  cp_studies: 63
+  cp_num_fold: 2107
+  cp_s_fold: 91%
   cp_i_fold: 3%
-  cp_r_fold: 7%
-  cp_num_s_fold: 1872
+  cp_r_fold: 6%
+  cp_num_s_fold: 1907
   cp_num_i_fold: 69
   cp_num_r_fold: 131
 - variant: Beta
-  cp_studies: 67
-  cp_num_fold: 2209
+  cp_studies: 70
+  cp_num_fold: 2244
   cp_s_fold: 43%
   cp_i_fold: 36%
   cp_r_fold: 21%
-  cp_num_s_fold: 956
-  cp_num_i_fold: 792
-  cp_num_r_fold: 461
+  cp_num_s_fold: 968
+  cp_num_i_fold: 806
+  cp_num_r_fold: 470
 - variant: Gamma
-  cp_studies: 33
-  cp_num_fold: 1241
+  cp_studies: 34
+  cp_num_fold: 1245
   cp_s_fold: 79%
   cp_i_fold: 15%
   cp_r_fold: 6%
-  cp_num_s_fold: 981
+  cp_num_s_fold: 985
   cp_num_i_fold: 184
   cp_num_r_fold: 76
 - variant: Delta
-  cp_studies: 28
-  cp_num_fold: 730
-  cp_s_fold: 89%
-  cp_i_fold: 6%
+  cp_studies: 32
+  cp_num_fold: 716
+  cp_s_fold: 88%
+  cp_i_fold: 7%
   cp_r_fold: 5%
-  cp_num_s_fold: 651
-  cp_num_i_fold: 43
-  cp_num_r_fold: 36
+  cp_num_s_fold: 631
+  cp_num_i_fold: 48
+  cp_num_r_fold: 37
 - variant: Omicron/BA.1
-  cp_studies: 21
-  cp_num_fold: 691
+  cp_studies: 25
+  cp_num_fold: 675
   cp_s_fold: 4%
-  cp_i_fold: 50%
-  cp_r_fold: 46%
+  cp_i_fold: 46%
+  cp_r_fold: 50%
   cp_num_s_fold: 28
-  cp_num_i_fold: 348
-  cp_num_r_fold: 315
+  cp_num_i_fold: 310
+  cp_num_r_fold: 337
 - variant: Omicron/BA.2
-  cp_studies: 1
-  cp_num_fold: 10
+  cp_studies: 4
+  cp_num_fold: 52
   cp_s_fold: 0
-  cp_i_fold: 100%
-  cp_r_fold: 0
+  cp_i_fold: 75%
+  cp_r_fold: 25%
   cp_num_s_fold: 0
-  cp_num_i_fold: 10
-  cp_num_r_fold: 0
+  cp_num_i_fold: 39
+  cp_num_r_fold: 13
 - variant: Iota
   cp_studies: 6
   cp_num_fold: 159
@@ -71,12 +71,12 @@
   cp_num_i_fold: 7
   cp_num_r_fold: 14
 - variant: Kappa
-  cp_studies: 9
-  cp_num_fold: 149
-  cp_s_fold: 64%
-  cp_i_fold: 22%
-  cp_r_fold: 14%
-  cp_num_s_fold: 96
+  cp_studies: 10
+  cp_num_fold: 157
+  cp_s_fold: 66%
+  cp_i_fold: 21%
+  cp_r_fold: 13%
+  cp_num_s_fold: 104
   cp_num_i_fold: 33
   cp_num_r_fold: 20
 - variant: N501Y

@@ -60,6 +60,13 @@ sections:
       tested
     content:
       _resource: susceptibility-data/table-cp-stats.md
+  - title: Table 7
+    name: table-cross-neutral
+    shortDesc: "Inf and cross neutral"
+    desc: >-
+      Convalescent plasma after SARS-CoV-2 variants infection and their cross neutralization
+    content:
+      _resource: susceptibility-data/table-cross-neutral.md
   - title: Figure 1
     name: figure-vp-susc
     shortDesc: VP vs VOCs
@@ -670,3 +677,32 @@ tables:
       label: "Spike Mutations"
     data:
       _resource: susc-table/wildtype.yml
+  table_cross_neutral:
+    tableScrollStyle:
+      maxHeight: none
+    columnDefs:
+    - name: test
+      label: ''
+    - name: WT
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
+      exportRaw: True
+    - name: Alpha
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
+      exportRaw: True
+    - name: Beta
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
+      exportRaw: True
+    - name: Gamma
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
+      exportRaw: True
+    - name: Delta
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
+      exportRaw: True
+    - name: Omicron/BA.1
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
+      exportRaw: True
+    - name: Omicron/BA.2
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
+      exportRaw: True
+    data:
+      _resource: susc-table/table_cross_neutral.yml

@@ -268,45 +268,51 @@
     fold: '-'
 - variant: ∆69/70
   cas:
-    fold: '1.2'
+    fold: '1'
     fold_cmp: ''
-    num: 5
+    num: 6
   ete:
     fold: '0.7'
     fold_cmp: ''
-    num: 4
+    num: 5
   tix:
-    fold: '1.3'
-    fold_cmp: ''
-    num: 2
-  bam:
-    fold: '0.9'
+    fold: '1'
     fold_cmp: ''
     num: 3
+  bam:
+    fold: '0.7'
+    fold_cmp: ''
+    num: 4
   cil:
+    fold: '1.3'
+    fold_cmp: ''
+    num: 3
+  imd:
+    fold: '1'
+    fold_cmp: ''
+    num: 7
+  sot:
     fold: '1.4'
     fold_cmp: ''
-    num: 2
-  imd:
-    fold: '1.1'
-    fold_cmp: ''
     num: 6
-  sot:
-    fold: '1.1'
-    fold_cmp: ''
-    num: 5
   reg:
     fold: '-'
   beb:
-    fold: '0.7'
+    fold: '1.4'
+    fold_cmp: ''
+    num: 2
+  cas_imd:
+    fold: '2'
     fold_cmp: ''
     num: 1
-  cas_imd:
-    fold: '-'
   cil_tix:
-    fold: '-'
+    fold: '1.5'
+    fold_cmp: ''
+    num: 1
   bam_ete:
-    fold: '-'
+    fold: '1'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '0.6'
     fold_cmp: ''
@@ -316,21 +322,23 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '1'
+    fold: '1.1'
     fold_cmp: ''
-    num: 3
+    num: 4
   b_198:
-    fold: '2.3'
+    fold: '1.8'
     fold_cmp: ''
-    num: 3
+    num: 4
   b_196_198:
-    fold: '-'
+    fold: '0.7'
+    fold_cmp: ''
+    num: 1
   JMB2002:
     fold: '-'
   adi:
     fold: '1.4'
     fold_cmp: ''
-    num: 1
+    num: 2
   Vir7832:
     fold: '-'
   DXP604:
