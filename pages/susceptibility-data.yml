@@ -26,6 +26,13 @@ sections:
       Convalescent plasma and variant cross neutralization
     content:
       _resource: susceptibility-data/table-cross-neutral.md
+  # - title: Table 3
+  #   name: table-vacc-neutral
+  #   shortDesc: "Vacc and cross neutral"
+  #   desc: >-
+  #     Vaccinee plasma and variant cross neutralization
+  #   content:
+  #     _resource: susceptibility-data/table-vacc-neutral.md
   - title: Table 3
     name: table-variant-stats
     shortDesc: "Variants and #"
@@ -726,3 +733,168 @@ tables:
       exportRaw: True
     data:
       _resource: susc-table/table_cross_neutral.yml
+  table_vacc_neutral_2dose:
+    tableScrollStyle:
+      maxHeight: none
+    columnDefs:
+    - name: test
+      label: 'Test &#10189; Vaccine'
+    - name: BNT162b2
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: mRNA-1273
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: AZD1222
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: Ad26.COV2.S
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+    - name: BBV152
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: CoronaVac
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: BBIBP-CorV
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: Sputnik V
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    data:
+      _resource: susc-table/table_vaccine_neutral_2dose.yml
+  table_vacc_neutral_3dose:
+    tableScrollStyle:
+      maxHeight: none
+    columnDefs:
+    - name: test
+      label: 'Test &#10189; Vaccine'
+    - name: BNT162b2
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: mRNA-1273
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: AZD1222
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: Ad26.COV2.S
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+    - name: BBV152
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: CoronaVac
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: BBIBP-CorV
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: Sputnik V
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    data:
+      _resource: susc-table/table_vaccine_neutral_3dose.yml
+  table_vacc_neutral_inf:
+    tableScrollStyle:
+      maxHeight: none
+    columnDefs:
+    - name: test
+      label: 'Test &#10189; Vaccine'
+    - name: BNT162b2
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: mRNA-1273
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: AZD1222
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: Ad26.COV2.S
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+    - name: BBV152
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: CoronaVac
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: BBIBP-CorV
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    - name: Sputnik V
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+      exportRaw: True
+    data:
+      _resource: susc-table/table_vaccine_neutral_inf.yml
