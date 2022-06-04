@@ -20,6 +20,13 @@ sections:
     content:
       _resource: susceptibility-data/table-mab-susc.md
   - title: Table 2
+    name: table-cross-neutral
+    shortDesc: "Inf and cross neutral"
+    desc: >-
+      Convalescent plasma and variant cross neutralization
+    content:
+      _resource: susceptibility-data/table-cross-neutral.md
+  - title: Table 3
     name: table-variant-stats
     shortDesc: "Variants and #"
     desc: >-
@@ -27,14 +34,14 @@ sections:
       neutralization data are available
     content:
       _resource: susceptibility-data/table-variant-stats.md
-  - title: Table 3
+  - title: Table 4
     name: table-single-mut-stats
     shortDesc: "Mutations and #"
     desc: >-
       Individual SARS-CoV-2 spike mutations for which data are available
     content:
       _resource: susceptibility-data/table-single-mut-stats.md
-  - title: Table 4
+  - title: Table 5
     name: table-mab-stats
     shortDesc: "MAbs and #"
     desc: >-
@@ -42,7 +49,7 @@ sections:
       advanced clinical trials
     content:
       _resource: susceptibility-data/table-mab-stats.md
-  - title: Table 5
+  - title: Table 6
     name: table-vp-stats
     shortDesc: "Vaccines and #"
     desc: >-
@@ -51,7 +58,7 @@ sections:
       SARS-CoV-2 variant tested
     content:
       _resource: susceptibility-data/table-vp-stats.md
-  - title: Table 6
+  - title: Table 7
     name: table-cp-stats
     shortDesc: "CP and #"
     desc: >-
@@ -60,13 +67,6 @@ sections:
       tested
     content:
       _resource: susceptibility-data/table-cp-stats.md
-  - title: Table 7
-    name: table-cross-neutral
-    shortDesc: "Inf and cross neutral"
-    desc: >-
-      Convalescent plasma after SARS-CoV-2 variants infection and their cross neutralization
-    content:
-      _resource: susceptibility-data/table-cross-neutral.md
   - title: Figure 1
     name: figure-vp-susc
     shortDesc: VP vs VOCs
@@ -682,27 +682,47 @@ tables:
       maxHeight: none
     columnDefs:
     - name: test
-      label: ''
+      label: 'Test &#10189; Infection'
     - name: WT
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
       exportRaw: True
     - name: Alpha
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
       exportRaw: True
     - name: Beta
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
       exportRaw: True
     - name: Gamma
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
-      exportRaw: True
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
     - name: Delta
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
       exportRaw: True
     - name: Omicron/BA.1
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
       exportRaw: True
     - name: Omicron/BA.2
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem;\"> ${cellData.geomean} <sub>${cellData.num_ref_name > 1? cellData.num_ref_name : ''}</sub> </span>"
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
       exportRaw: True
     data:
       _resource: susc-table/table_cross_neutral.yml
