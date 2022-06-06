@@ -1,780 +1,876 @@
 - test: WT
-  BNT162b2:
-    geomean_1: 3037.0
-    num_ref_name_1: 27
-    geomean_2: 1396.0
-    num_ref_name_2: 6
-    geomean_3: 1015.0
-    num_ref_name_3: 3
-    has_results: 1
-  mRNA-1273:
-    geomean_1: 1987.0
-    num_ref_name_1: 5
-    geomean_2: 1035.0
-    num_ref_name_2: 1
-    geomean_3: 770.0
-    num_ref_name_3: 2
-    has_results: 1
-  AZD1222:
-    geomean_1: 1433.0
-    num_ref_name_1: 5
-    geomean_2: 2712.0
-    num_ref_name_2: 2
-    geomean_3: 144.0
-    num_ref_name_3: 1
-    has_results: 1
-  Ad26.COV2.S:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBV152:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: 795.0
-    num_ref_name_3: 1
-    has_results: 1
-  CoronaVac:
-    geomean_1: 1171.0
-    num_ref_name_1: 2
-    geomean_2: 1762.0
-    num_ref_name_2: 2
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  BBIBP-CorV:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Sputnik V:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: 135.0
-    num_ref_name_2: 1
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
+  BNT162b2_1:
+    geomean: 3037.0
+    num_ref_name: 27
+  BNT162b2_2:
+    geomean: 1396.0
+    num_ref_name: 6
+  BNT162b2_3:
+    geomean: 1015.0
+    num_ref_name: 3
+  mRNA-1273_1:
+    geomean: 1987.0
+    num_ref_name: 5
+  mRNA-1273_2:
+    geomean: 1035.0
+    num_ref_name: 1
+  mRNA-1273_3:
+    geomean: 770.0
+    num_ref_name: 2
+  AZD1222_1:
+    geomean: 1433.0
+    num_ref_name: 5
+  AZD1222_2:
+    geomean: 2712.0
+    num_ref_name: 2
+  AZD1222_3:
+    geomean: 144.0
+    num_ref_name: 1
+  Ad26.COV2.S_1:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_2:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_3:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_1:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_2:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_3:
+    geomean: 795.0
+    num_ref_name: 1
+  CoronaVac_1:
+    geomean: 1171.0
+    num_ref_name: 2
+  CoronaVac_2:
+    geomean: 1762.0
+    num_ref_name: 2
+  CoronaVac_3:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_1:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_2:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_3:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_1:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_2:
+    geomean: 135.0
+    num_ref_name: 1
+  Sputnik V_3:
+    geomean: ''
+    num_ref_name: 0
 - test: Alpha
-  BNT162b2:
-    geomean_1: 2483.0
-    num_ref_name_1: 7
-    geomean_2: 3708.0
-    num_ref_name_2: 1
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  mRNA-1273:
-    geomean_1: 201.0
-    num_ref_name_1: 1
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  AZD1222:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: 5174.0
-    num_ref_name_2: 1
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  Ad26.COV2.S:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBV152:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  CoronaVac:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBIBP-CorV:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Sputnik V:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
+  BNT162b2_1:
+    geomean: 2483.0
+    num_ref_name: 7
+  BNT162b2_2:
+    geomean: 3708.0
+    num_ref_name: 1
+  BNT162b2_3:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_1:
+    geomean: 201.0
+    num_ref_name: 1
+  mRNA-1273_2:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_3:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_1:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_2:
+    geomean: 5174.0
+    num_ref_name: 1
+  AZD1222_3:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_1:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_2:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_3:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_1:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_2:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_3:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_1:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_2:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_3:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_1:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_2:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_3:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_1:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_2:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_3:
+    geomean: ''
+    num_ref_name: 0
 - test: Beta
-  BNT162b2:
-    geomean_1: 635.0
-    num_ref_name_1: 16
-    geomean_2: 587.0
-    num_ref_name_2: 3
-    geomean_3: 1023.0
-    num_ref_name_3: 1
-    has_results: 1
-  mRNA-1273:
-    geomean_1: 151.0
-    num_ref_name_1: 3
-    geomean_2: 483.0
-    num_ref_name_2: 1
-    geomean_3: 311.0
-    num_ref_name_3: 1
-    has_results: 1
-  AZD1222:
-    geomean_1: 524.0
-    num_ref_name_1: 1
-    geomean_2: 4470.0
-    num_ref_name_2: 1
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  Ad26.COV2.S:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBV152:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  CoronaVac:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: 328.0
-    num_ref_name_2: 1
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  BBIBP-CorV:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Sputnik V:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
+  BNT162b2_1:
+    geomean: 635.0
+    num_ref_name: 16
+  BNT162b2_2:
+    geomean: 587.0
+    num_ref_name: 3
+  BNT162b2_3:
+    geomean: 1023.0
+    num_ref_name: 1
+  mRNA-1273_1:
+    geomean: 151.0
+    num_ref_name: 3
+  mRNA-1273_2:
+    geomean: 483.0
+    num_ref_name: 1
+  mRNA-1273_3:
+    geomean: 311.0
+    num_ref_name: 1
+  AZD1222_1:
+    geomean: 524.0
+    num_ref_name: 1
+  AZD1222_2:
+    geomean: 4470.0
+    num_ref_name: 1
+  AZD1222_3:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_1:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_2:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_3:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_1:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_2:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_3:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_1:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_2:
+    geomean: 328.0
+    num_ref_name: 1
+  CoronaVac_3:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_1:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_2:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_3:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_1:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_2:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_3:
+    geomean: ''
+    num_ref_name: 0
 - test: Gamma
-  BNT162b2:
-    geomean_1: 1050.0
-    num_ref_name_1: 4
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  mRNA-1273:
-    geomean_1: 63.0
-    num_ref_name_1: 1
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  AZD1222:
-    geomean_1: 924.0
-    num_ref_name_1: 1
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  Ad26.COV2.S:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBV152:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  CoronaVac:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBIBP-CorV:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Sputnik V:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
+  BNT162b2_1:
+    geomean: 1050.0
+    num_ref_name: 4
+  BNT162b2_2:
+    geomean: ''
+    num_ref_name: 0
+  BNT162b2_3:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_1:
+    geomean: 63.0
+    num_ref_name: 1
+  mRNA-1273_2:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_3:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_1:
+    geomean: 924.0
+    num_ref_name: 1
+  AZD1222_2:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_3:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_1:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_2:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_3:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_1:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_2:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_3:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_1:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_2:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_3:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_1:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_2:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_3:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_1:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_2:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_3:
+    geomean: ''
+    num_ref_name: 0
 - test: Delta
-  BNT162b2:
-    geomean_1: 1586.0
-    num_ref_name_1: 9
-    geomean_2: 428.0
-    num_ref_name_2: 4
-    geomean_3: 348.0
-    num_ref_name_3: 2
-    has_results: 1
-  mRNA-1273:
-    geomean_1: 120.0
-    num_ref_name_1: 1
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: 308.0
-    num_ref_name_3: 1
-    has_results: 1
-  AZD1222:
-    geomean_1: 802.0
-    num_ref_name_1: 3
-    geomean_2: 4717.0
-    num_ref_name_2: 1
-    geomean_3: 451.0
-    num_ref_name_3: 1
-    has_results: 1
-  Ad26.COV2.S:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBV152:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: 1380.0
-    num_ref_name_2: 1
-    geomean_3: 390.0
-    num_ref_name_3: 2
-    has_results: 1
-  CoronaVac:
-    geomean_1: 1332.0
-    num_ref_name_1: 1
-    geomean_2: 1223.0
-    num_ref_name_2: 1
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  BBIBP-CorV:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Sputnik V:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-- test: Omicron/BA.1
-  BNT162b2:
-    geomean_1: 313.0
-    num_ref_name_1: 14
-    geomean_2: 42.0
-    num_ref_name_2: 5
-    geomean_3: 80.0
-    num_ref_name_3: 3
-    has_results: 1
-  mRNA-1273:
-    geomean_1: 585.0
-    num_ref_name_1: 3
-    geomean_2: 37.0
-    num_ref_name_2: 1
-    geomean_3: 84.0
-    num_ref_name_3: 2
-    has_results: 1
-  AZD1222:
-    geomean_1: 118.0
-    num_ref_name_1: 4
-    geomean_2: 199.0
-    num_ref_name_2: 1
-    geomean_3: 26.0
-    num_ref_name_3: 1
-    has_results: 1
-  Ad26.COV2.S:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBV152:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: 14.0
-    num_ref_name_3: 1
-    has_results: 1
-  CoronaVac:
-    geomean_1: 419.0
-    num_ref_name_1: 3
-    geomean_2: 41.0
-    num_ref_name_2: 2
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  BBIBP-CorV:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Sputnik V:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: 24.0
-    num_ref_name_2: 1
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-- test: Omicron/BA.1.1
-  BNT162b2:
-    geomean_1: 72.0
-    num_ref_name_1: 2
-    geomean_2: 414.0
-    num_ref_name_2: 1
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  mRNA-1273:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  AZD1222:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Ad26.COV2.S:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBV152:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  CoronaVac:
-    geomean_1: 784.0
-    num_ref_name_1: 1
-    geomean_2: 14.0
-    num_ref_name_2: 1
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  BBIBP-CorV:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Sputnik V:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-- test: Omicron/BA.2
-  BNT162b2:
-    geomean_1: 832.0
-    num_ref_name_1: 3
-    geomean_2: 471.0
-    num_ref_name_2: 1
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  mRNA-1273:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  AZD1222:
-    geomean_1: 40.0
-    num_ref_name_1: 1
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  Ad26.COV2.S:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBV152:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  CoronaVac:
-    geomean_1: 387.0
-    num_ref_name_1: 2
-    geomean_2: 11.0
-    num_ref_name_2: 1
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  BBIBP-CorV:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Sputnik V:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-- test: Omicron/BA.2.12.1
-  BNT162b2:
-    geomean_1: 859.0
-    num_ref_name_1: 1
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  mRNA-1273:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  AZD1222:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Ad26.COV2.S:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBV152:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  CoronaVac:
-    geomean_1: 223.0
-    num_ref_name_1: 1
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  BBIBP-CorV:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Sputnik V:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-- test: Omicron/BA.3
-  BNT162b2:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  mRNA-1273:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  AZD1222:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Ad26.COV2.S:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBV152:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  CoronaVac:
-    geomean_1: 504.0
-    num_ref_name_1: 1
-    geomean_2: 14.0
-    num_ref_name_2: 1
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  BBIBP-CorV:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Sputnik V:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-- test: Omicron/BA.4
-  BNT162b2:
-    geomean_1: 1003.0
-    num_ref_name_1: 1
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  mRNA-1273:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  AZD1222:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Ad26.COV2.S:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBV152:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  CoronaVac:
-    geomean_1: 104.0
-    num_ref_name_1: 1
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 1
-  BBIBP-CorV:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Sputnik V:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-- test: Omicron/BA.5
-  BNT162b2:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  mRNA-1273:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  AZD1222:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Ad26.COV2.S:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBV152:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  CoronaVac:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  BBIBP-CorV:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
-  Sputnik V:
-    geomean_1: ''
-    num_ref_name_1: 0
-    geomean_2: ''
-    num_ref_name_2: 0
-    geomean_3: ''
-    num_ref_name_3: 0
-    has_results: 0
+  BNT162b2_1:
+    geomean: 1586.0
+    num_ref_name: 9
+  BNT162b2_2:
+    geomean: 428.0
+    num_ref_name: 4
+  BNT162b2_3:
+    geomean: 348.0
+    num_ref_name: 2
+  mRNA-1273_1:
+    geomean: 120.0
+    num_ref_name: 1
+  mRNA-1273_2:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_3:
+    geomean: 308.0
+    num_ref_name: 1
+  AZD1222_1:
+    geomean: 802.0
+    num_ref_name: 3
+  AZD1222_2:
+    geomean: 4717.0
+    num_ref_name: 1
+  AZD1222_3:
+    geomean: 451.0
+    num_ref_name: 1
+  Ad26.COV2.S_1:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_2:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_3:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_1:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_2:
+    geomean: 1380.0
+    num_ref_name: 1
+  BBV152_3:
+    geomean: 390.0
+    num_ref_name: 2
+  CoronaVac_1:
+    geomean: 1332.0
+    num_ref_name: 1
+  CoronaVac_2:
+    geomean: 1223.0
+    num_ref_name: 1
+  CoronaVac_3:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_1:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_2:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_3:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_1:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_2:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_3:
+    geomean: ''
+    num_ref_name: 0
+- test: BA.1
+  BNT162b2_1:
+    geomean: 313.0
+    num_ref_name: 14
+  BNT162b2_2:
+    geomean: 42.0
+    num_ref_name: 5
+  BNT162b2_3:
+    geomean: 80.0
+    num_ref_name: 3
+  mRNA-1273_1:
+    geomean: 585.0
+    num_ref_name: 3
+  mRNA-1273_2:
+    geomean: 37.0
+    num_ref_name: 1
+  mRNA-1273_3:
+    geomean: 84.0
+    num_ref_name: 2
+  AZD1222_1:
+    geomean: 118.0
+    num_ref_name: 4
+  AZD1222_2:
+    geomean: 199.0
+    num_ref_name: 1
+  AZD1222_3:
+    geomean: 26.0
+    num_ref_name: 1
+  Ad26.COV2.S_1:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_2:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_3:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_1:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_2:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_3:
+    geomean: 14.0
+    num_ref_name: 1
+  CoronaVac_1:
+    geomean: 419.0
+    num_ref_name: 3
+  CoronaVac_2:
+    geomean: 41.0
+    num_ref_name: 2
+  CoronaVac_3:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_1:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_2:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_3:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_1:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_2:
+    geomean: 24.0
+    num_ref_name: 1
+  Sputnik V_3:
+    geomean: ''
+    num_ref_name: 0
+- test: BA.1.1
+  BNT162b2_1:
+    geomean: 72.0
+    num_ref_name: 2
+  BNT162b2_2:
+    geomean: 414.0
+    num_ref_name: 1
+  BNT162b2_3:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_1:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_2:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_3:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_1:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_2:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_3:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_1:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_2:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_3:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_1:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_2:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_3:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_1:
+    geomean: 784.0
+    num_ref_name: 1
+  CoronaVac_2:
+    geomean: 14.0
+    num_ref_name: 1
+  CoronaVac_3:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_1:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_2:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_3:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_1:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_2:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_3:
+    geomean: ''
+    num_ref_name: 0
+- test: BA.2
+  BNT162b2_1:
+    geomean: 832.0
+    num_ref_name: 3
+  BNT162b2_2:
+    geomean: 471.0
+    num_ref_name: 1
+  BNT162b2_3:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_1:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_2:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_3:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_1:
+    geomean: 40.0
+    num_ref_name: 1
+  AZD1222_2:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_3:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_1:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_2:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_3:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_1:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_2:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_3:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_1:
+    geomean: 387.0
+    num_ref_name: 2
+  CoronaVac_2:
+    geomean: 11.0
+    num_ref_name: 1
+  CoronaVac_3:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_1:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_2:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_3:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_1:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_2:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_3:
+    geomean: ''
+    num_ref_name: 0
+- test: BA.2.12.1
+  BNT162b2_1:
+    geomean: 859.0
+    num_ref_name: 1
+  BNT162b2_2:
+    geomean: ''
+    num_ref_name: 0
+  BNT162b2_3:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_1:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_2:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_3:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_1:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_2:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_3:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_1:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_2:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_3:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_1:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_2:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_3:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_1:
+    geomean: 223.0
+    num_ref_name: 1
+  CoronaVac_2:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_3:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_1:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_2:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_3:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_1:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_2:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_3:
+    geomean: ''
+    num_ref_name: 0
+- test: BA.3
+  BNT162b2_1:
+    geomean: ''
+    num_ref_name: 0
+  BNT162b2_2:
+    geomean: ''
+    num_ref_name: 0
+  BNT162b2_3:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_1:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_2:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_3:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_1:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_2:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_3:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_1:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_2:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_3:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_1:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_2:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_3:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_1:
+    geomean: 504.0
+    num_ref_name: 1
+  CoronaVac_2:
+    geomean: 14.0
+    num_ref_name: 1
+  CoronaVac_3:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_1:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_2:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_3:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_1:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_2:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_3:
+    geomean: ''
+    num_ref_name: 0
+- test: BA.4
+  BNT162b2_1:
+    geomean: 1003.0
+    num_ref_name: 1
+  BNT162b2_2:
+    geomean: ''
+    num_ref_name: 0
+  BNT162b2_3:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_1:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_2:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_3:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_1:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_2:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_3:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_1:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_2:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_3:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_1:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_2:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_3:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_1:
+    geomean: 104.0
+    num_ref_name: 1
+  CoronaVac_2:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_3:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_1:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_2:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_3:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_1:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_2:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_3:
+    geomean: ''
+    num_ref_name: 0
+- test: BA.5
+  BNT162b2_1:
+    geomean: ''
+    num_ref_name: 0
+  BNT162b2_2:
+    geomean: ''
+    num_ref_name: 0
+  BNT162b2_3:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_1:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_2:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_3:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_1:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_2:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_3:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_1:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_2:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_3:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_1:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_2:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_3:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_1:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_2:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_3:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_1:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_2:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_3:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_1:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_2:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_3:
+    geomean: ''
+    num_ref_name: 0

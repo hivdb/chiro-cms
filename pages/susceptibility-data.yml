@@ -23,17 +23,53 @@ sections:
     name: table-cross-neutral
     shortDesc: "Inf and cross neutral"
     desc: >-
-      Convalescent plasma and variant cross neutralization
+      Convalescent plasma and variant cross neutralization titer
     content:
       _resource: susceptibility-data/table-cross-neutral.md
-  # - title: Table 3
-  #   name: table-vacc-neutral
-  #   shortDesc: "Vacc and cross neutral"
-  #   desc: >-
-  #     Vaccinee plasma and variant cross neutralization
-  #   content:
-  #     _resource: susceptibility-data/table-vacc-neutral.md
   - title: Table 3
+    name: table-vacc-neutral
+    shortDesc: "Vacc and cross neutral"
+    desc: >-
+      Vaccinee plasma and variant neutralization titer
+    content:
+      _resource: susceptibility-data/table-vacc-neutral.md
+  # - title: Figure 1
+  #   name: figure-vp-susc
+  #   shortDesc: VP vs VOCs
+  #   desc: >-
+  #     Distribution of fold-reduction in susceptibilities (A) and of absolute
+  #     neutralizing titers (B) of vaccinee plasma (VP) associated with eight
+  #     vaccines to the five variants of concern (VOC)
+  #   content:
+  #     _resource: susceptibility-data/figure-vp-susc.md
+  - title: Figure 1
+    name: figure-vp-2dose-no-inf
+    shortDesc: VP 2dose variant no inf
+    desc: >-
+      Distribution of absolute neutralizing titers of 2 dose, no history of
+      infection vaccinee plasma (VP) associated with vaccines to the variants
+      of concern (VOC)
+    content:
+      _resource: susceptibility-data/figure-vp-2dose-no-inf.md
+  - title: Figure 2
+    name: figure-vp-3dose-no-inf
+    shortDesc: VP 2dose variant no inf
+    desc: >-
+      Distribution of absolute neutralizing titers of 3 dose, no history of
+      infection vaccinee plasma (VP) associated with vaccines
+      to the variants of concern (VOC)
+    content:
+      _resource: susceptibility-data/figure-vp-3dose-no-inf.md
+  - title: Figure 3
+    name: figure-vp-gteq-2dose-inf
+    shortDesc: VP 2dose and more variant inf
+    desc: >-
+      Distribution of absolute neutralizing titers of 2 dose or more, with
+      history of infection vaccinee plasma (VP) associated with vaccines
+      to the variants of concern (VOC)
+    content:
+      _resource: susceptibility-data/figure-vp-2dose-w-inf.md
+  - title: Table 4
     name: table-variant-stats
     shortDesc: "Variants and #"
     desc: >-
@@ -41,14 +77,14 @@ sections:
       neutralization data are available
     content:
       _resource: susceptibility-data/table-variant-stats.md
-  - title: Table 4
+  - title: Table 5
     name: table-single-mut-stats
     shortDesc: "Mutations and #"
     desc: >-
       Individual SARS-CoV-2 spike mutations for which data are available
     content:
       _resource: susceptibility-data/table-single-mut-stats.md
-  - title: Table 5
+  - title: Table 6
     name: table-mab-stats
     shortDesc: "MAbs and #"
     desc: >-
@@ -56,7 +92,7 @@ sections:
       advanced clinical trials
     content:
       _resource: susceptibility-data/table-mab-stats.md
-  - title: Table 6
+  - title: Table 7
     name: table-vp-stats
     shortDesc: "Vaccines and #"
     desc: >-
@@ -65,7 +101,7 @@ sections:
       SARS-CoV-2 variant tested
     content:
       _resource: susceptibility-data/table-vp-stats.md
-  - title: Table 7
+  - title: Table 8
     name: table-cp-stats
     shortDesc: "CP and #"
     desc: >-
@@ -74,16 +110,7 @@ sections:
       tested
     content:
       _resource: susceptibility-data/table-cp-stats.md
-  - title: Figure 1
-    name: figure-vp-susc
-    shortDesc: VP vs VOCs
-    desc: >-
-      Distribution of fold-reduction in susceptibilities (A) and of absolute
-      neutralizing titers (B) of vaccinee plasma (VP) associated with eight
-      vaccines to the five variants of concern (VOC)
-    content:
-      _resource: susceptibility-data/figure-vp-susc.md
-  - title: Figure 2
+  - title: Figure 4
     name: figure-epitope
     shortDesc: MAb epitopes and escape positions
     desc: >-
@@ -689,48 +716,132 @@ tables:
       maxHeight: none
     columnDefs:
     - name: test
-      label: 'Test &#10189; Infection'
-    - name: WT
+      label: 'Test&#10189;Infection'
+      sortable: False
+    - name: WT_1
+      label: WT 1M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: Alpha
+      sortable: False
+    - name: WT_2
+      label: WT 2~6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      sortable: False
+    - name: WT_3
+      label: WT &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: Beta
+      sortable: False
+    - name: Alpha_1
+      label: Alpha 1M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: Gamma
+      sortable: False
+    - name: Alpha_2
+      label: Alpha 2~6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
-    - name: Delta
-      renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: Omicron/BA.1
+      sortable: False
+    - name: Alpha_3
+      label: Alpha &gt;6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: Omicron/BA.2
+      sortable: False
+    - name: Beta_1
+      label: Beta 1M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
+      sortable: False
+    - name: Beta_2
+      label: Beta 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Beta_3
+      label: Beta &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Gamma_1
+      label: Gamma 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Gamma_2
+      label: Gamma 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Gamma_3
+      label: Gamma &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Delta_1
+      label: Delta 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Delta_2
+      label: Delta 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      sortable: False
+    - name: Delta_3
+      label: Delta &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Omicron/BA.1_1
+      label: BA.1 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Omicron/BA.1_2
+      label: BA.1 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Omicron/BA.1_3
+      label: BA.1 &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Omicron/BA.2_1
+      label: BA.2 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Omicron/BA.2_2
+      label: BA.2 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Omicron/BA.2_3
+      label: BA.2 &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
     data:
       _resource: susc-table/table_cross_neutral.yml
   table_vacc_neutral_2dose:
@@ -738,54 +849,151 @@ tables:
       maxHeight: none
     columnDefs:
     - name: test
-      label: 'Test &#10189; Vaccine'
-    - name: BNT162b2
+      label: 'Test&#10189;Vaccine'
+    - name: BNT162b2_1
+      label: BNT 1M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: mRNA-1273
+      sortable: False
+    - name: BNT162b2_2
+      label: BNT 2~6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: AZD1222
+      sortable: False
+    - name: BNT162b2_3
+      label: BNT &gt;6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: Ad26.COV2.S
+      sortable: False
+    - name: mRNA-1273_1
+      label: MOD 1M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
-    - name: BBV152
-      renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: CoronaVac
+      sortable: False
+    - name: mRNA-1273_2
+      label: MOD 2~6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: BBIBP-CorV
+      sortable: False
+    - name: mRNA-1273_3
+      label: MOD &gt;6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: Sputnik V
+      sortable: False
+    - name: AZD1222_1
+      label: AZD 1M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
+      sortable: False
+    - name: AZD1222_2
+      label: AZD 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: AZD1222_3
+      label: AZD &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Ad26.COV2.S_1
+      label: J&amp;J 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Ad26.COV2.S_2
+      label: J&amp;J 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Ad26.COV2.S_3
+      label: J&amp;J &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBV152_1
+      label: BBV 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBV152_2
+      label: BBV 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBV152_3
+      label: BBV &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: CoronaVac_1
+      label: CRV 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: CoronaVac_2
+      label: CRV 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: CoronaVac_3
+      label: CRV &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBIBP-CorV_1
+      label: BIBP 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBIBP-CorV_2
+      label: BIBP 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBIBP-CorV_3
+      label: BIBP &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Sputnik V_1
+      label: SPV 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Sputnik V_2
+      label: SPV 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Sputnik V_3
+      label: SPV &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
     data:
       _resource: susc-table/table_vaccine_neutral_2dose.yml
   table_vacc_neutral_3dose:
@@ -793,54 +1001,151 @@ tables:
       maxHeight: none
     columnDefs:
     - name: test
-      label: 'Test &#10189; Vaccine'
-    - name: BNT162b2
+      label: 'Test&#10189;Vaccine'
+    - name: BNT162b2_1
+      label: BNT 1M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: mRNA-1273
+      sortable: False
+    - name: BNT162b2_2
+      label: BNT 2~6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: AZD1222
+      sortable: False
+    - name: BNT162b2_3
+      label: BNT &gt;6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: Ad26.COV2.S
+      sortable: False
+    - name: mRNA-1273_1
+      label: MOD 1M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
-    - name: BBV152
-      renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: CoronaVac
+      sortable: False
+    - name: mRNA-1273_2
+      label: MOD 2~6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: BBIBP-CorV
+      sortable: False
+    - name: mRNA-1273_3
+      label: MOD &gt;6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: Sputnik V
+      sortable: False
+    - name: AZD1222_1
+      label: AZD 1M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
+      sortable: False
+    - name: AZD1222_2
+      label: AZD 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: AZD1222_3
+      label: AZD &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Ad26.COV2.S_1
+      label: J&amp;J 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Ad26.COV2.S_2
+      label: J&amp;J 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Ad26.COV2.S_3
+      label: J&amp;J &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBV152_1
+      label: BBV 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBV152_2
+      label: BBV 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBV152_3
+      label: BBV &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: CoronaVac_1
+      label: CRV 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: CoronaVac_2
+      label: CRV 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: CoronaVac_3
+      label: CRV &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBIBP-CorV_1
+      label: BIBP 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBIBP-CorV_2
+      label: BIBP 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBIBP-CorV_3
+      label: BIBP &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Sputnik V_1
+      label: SPV 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Sputnik V_2
+      label: SPV 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Sputnik V_3
+      label: SPV &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
     data:
       _resource: susc-table/table_vaccine_neutral_3dose.yml
   table_vacc_neutral_inf:
@@ -848,53 +1153,150 @@ tables:
       maxHeight: none
     columnDefs:
     - name: test
-      label: 'Test &#10189; Vaccine'
-    - name: BNT162b2
+      label: 'Test&#10189;Vaccine'
+    - name: BNT162b2_1
+      label: BNT 1M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: mRNA-1273
+      sortable: False
+    - name: BNT162b2_2
+      label: BNT 2~6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: AZD1222
+      sortable: False
+    - name: BNT162b2_3
+      label: BNT &gt;6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: Ad26.COV2.S
+      sortable: False
+    - name: mRNA-1273_1
+      label: MOD 1M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
-    - name: BBV152
-      renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: CoronaVac
+      sortable: False
+    - name: mRNA-1273_2
+      label: MOD 2~6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: BBIBP-CorV
+      sortable: False
+    - name: mRNA-1273_3
+      label: MOD &gt;6M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
-    - name: Sputnik V
+      sortable: False
+    - name: AZD1222_1
+      label: AZD 1M
       renderTpl: >-
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_1} <sub>${cellData.num_ref_name_1 > 1? cellData.num_ref_name_1 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_2}<sub>${cellData.num_ref_name_2 > 1? cellData.num_ref_name_2 : ''}</sub> </span> ${cellData.has_results == 1? '|': ''}
-        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0;\"> ${cellData.geomean_3} <sub>${cellData.num_ref_name_3 > 1? cellData.num_ref_name_3 : ''}</sub> </span>
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
+      sortable: False
+    - name: AZD1222_2
+      label: AZD 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: AZD1222_3
+      label: AZD &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Ad26.COV2.S_1
+      label: J&amp;J 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Ad26.COV2.S_2
+      label: J&amp;J 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Ad26.COV2.S_3
+      label: J&amp;J &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBV152_1
+      label: BBV 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBV152_2
+      label: BBV 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBV152_3
+      label: BBV &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: CoronaVac_1
+      label: CRV 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: CoronaVac_2
+      label: CRV 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: CoronaVac_3
+      label: CRV &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBIBP-CorV_1
+      label: BIBP 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBIBP-CorV_2
+      label: BIBP 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: BBIBP-CorV_3
+      label: BIBP &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Sputnik V_1
+      label: SPV 1M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Sputnik V_2
+      label: SPV 2~6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
+    - name: Sputnik V_3
+      label: SPV &gt;6M
+      renderTpl: >-
+        <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+      exportRaw: True
+      sortable: False
     data:
       _resource: susc-table/table_vaccine_neutral_inf.yml
