@@ -25,6 +25,6 @@ Abbreviations of vaccines
 - AZD, AZD1222
 - J&J, Ad26.COV2.S
 - BBV, BBV152
-- CRV, CoronaVac
+- CRNV, CoronaVac
 - BIBP, BBIBP-CorV
-- SPV, Sputnik V
+- SPTV, Sputnik V

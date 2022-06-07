@@ -941,19 +941,19 @@ tables:
       exportRaw: True
       sortable: False
     - name: CoronaVac_1
-      label: CRV 1M
+      label: CRNV 1M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
       sortable: False
     - name: CoronaVac_2
-      label: CRV 2~6M
+      label: CRNV 2~6M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
       sortable: False
     - name: CoronaVac_3
-      label: CRV &gt;6M
+      label: CRNV &gt;6M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
@@ -977,19 +977,19 @@ tables:
       exportRaw: True
       sortable: False
     - name: Sputnik V_1
-      label: SPV 1M
+      label: SPTV 1M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
       sortable: False
     - name: Sputnik V_2
-      label: SPV 2~6M
+      label: SPTV 2~6M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
       sortable: False
     - name: Sputnik V_3
-      label: SPV &gt;6M
+      label: SPTV &gt;6M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
@@ -1093,19 +1093,19 @@ tables:
       exportRaw: True
       sortable: False
     - name: CoronaVac_1
-      label: CRV 1M
+      label: CRNV 1M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
       sortable: False
     - name: CoronaVac_2
-      label: CRV 2~6M
+      label: CRNV 2~6M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
       sortable: False
     - name: CoronaVac_3
-      label: CRV &gt;6M
+      label: CRNV &gt;6M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
@@ -1129,19 +1129,19 @@ tables:
       exportRaw: True
       sortable: False
     - name: Sputnik V_1
-      label: SPV 1M
+      label: SPTV 1M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
       sortable: False
     - name: Sputnik V_2
-      label: SPV 2~6M
+      label: SPTV 2~6M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
       sortable: False
     - name: Sputnik V_3
-      label: SPV &gt;6M
+      label: SPTV &gt;6M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
@@ -1245,19 +1245,19 @@ tables:
       exportRaw: True
       sortable: False
     - name: CoronaVac_1
-      label: CRV 1M
+      label: CRNV 1M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
       sortable: False
     - name: CoronaVac_2
-      label: CRV 2~6M
+      label: CRNV 2~6M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
       sortable: False
     - name: CoronaVac_3
-      label: CRV &gt;6M
+      label: CRNV &gt;6M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
@@ -1281,19 +1281,19 @@ tables:
       exportRaw: True
       sortable: False
     - name: Sputnik V_1
-      label: SPV 1M
+      label: SPTV 1M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
       sortable: False
     - name: Sputnik V_2
-      label: SPV 2~6M
+      label: SPTV 2~6M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
       sortable: False
     - name: Sputnik V_3
-      label: SPV &gt;6M
+      label: SPTV &gt;6M
       renderTpl: >-
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
