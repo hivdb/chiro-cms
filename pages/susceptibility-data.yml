@@ -170,51 +170,51 @@ tables:
       label: " "
     - name: bam
       label: "BAM"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: ete
       label: "ETE"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: bam_ete
       label: "BAM/ETE"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: cas
       label: "CAS"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: imd
       label: "IMD"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: cas_imd
       label: "CAS/IMD"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: cil
       label: "CIL"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: tix
       label: "TIX"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: cil_tix
       label: "CIL/TIX"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: sot
       label: "SOT"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: beb
       label: 'BEB'
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: adi
       label: ADI
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     data:
       _resource: susc-table/table_mab.yml
@@ -226,43 +226,43 @@ tables:
       label: " "
     - name: reg
       label: "REG"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: b_196
       label: AMU
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: b_198
       label: ROM
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: b_196_198
       label: AMU/ROM
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: C135
       label: C135
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: C144
       label: C144
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: c_135_144
       label: C135/C144
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: JMB2002
       label: JMB2002
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: Vir7832
       label: Vir-7832
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: DXP604
       label: "DXP-604"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     data:
       _resource: susc-table/table_mab.yml
@@ -599,55 +599,55 @@ tables:
       label: " "
     - name: bam
       label: "BAM"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: ete
       label: "ETE"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: bam_ete
       label: "BAM/ETE"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: cas
       label: "CAS"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: imd
       label: "IMD"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: cas_imd
       label: "CAS/IMD"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: cil
       label: "CIL"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: tix
       label: "TIX"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: cil_tix
       label: "CIL/TIX"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: sot
       label: "SOT"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: reg
       label: "REG"
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: beb
       label: 'BEB'
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: adi
       label: ADI
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     data:
       _resource: susc-table/table_omicron_mab.yml
@@ -659,35 +659,35 @@ tables:
       label: " "
     - name: b_196
       label: AMU
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: b_198
       label: ROM
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: b_196_198
       label: AMU/ROM
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: C135
       label: C135
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: C144
       label: C144
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: c_135_144
       label: C135/C144
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: JMB2002
       label: JMB2002
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: Vir7832
       label: Vir-7832
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold} <sub>${cellData.num > 1? cellData.num : ''}</sub>   </span>"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     data:
       _resource: susc-table/table_omicron_mab.yml
