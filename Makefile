@@ -55,7 +55,7 @@ deploy-dev2: build_gz
 		aws s3 sync /app/build_gz s3://cms.hivdb.org/chiro-dev2 --delete --content-encoding gzip
 
 deploy-prod: build_gz
-	@scripts/only-stable.sh make deploy-prod
+	@scripts/only-main.sh make deploy-prod
 	@docker run \
 		--mount type=bind,source=$(HOME)/.aws,target=/root/.aws,readonly \
 		--mount type=bind,source=$(PWD),target=/app,readonly \
