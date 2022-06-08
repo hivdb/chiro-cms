@@ -1,4 +1,5 @@
-Stanford Coronavirus Antiviral & Resistance Database (CoVDB) contains in vitro,
-animal model, and clinical trial data for candidate anti-SARS-CoV-2 compounds &
-experimental results on SARS-CoV-2 variants including their susceptibility to
-monoclonal antibodies, convalescent plasma, and vaccinee plasma.
+Stanford Coronavirus Antiviral & Resistance Database houses comprehensively
+curated published data on the susceptibility of SARS-CoV-2 variants to
+monoclonal antibodies and the plasma from previously infected and vaccinated
+persons. It also records the spike mutations that are selected by monoclonal
+antibodies and that emerge in persons experiencing prolonged infection.
