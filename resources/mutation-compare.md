@@ -37,12 +37,12 @@ Other spike mutations (mutations occurring in >=2 listed variants)
 [table compact, lastCompact]
 table_voc_non_s1
 [/table]
-Non-spike mutations (mutations occurring in >=3 listed variants)
+Non-spike mutations (mutations occurring in >=2 listed variants)
 
 [table compact, lastCompact]
 table_voc_non_s2
 [/table]
-Non-spike mutations (mutations occurring in >=3 listed variants)
+Non-spike mutations (mutations occurring in >=2 listed variants)
 
 ## SARS-COV-2 Variants Tracking sites
 
