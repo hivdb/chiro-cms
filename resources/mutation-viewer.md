@@ -1,5 +1,4 @@
 [toc]
-- [Variants surveillance](/page/mutation-compare/#variants.surveillance)
 - [Variants mutation comparison](/page/mutation-compare/#variants.mutation.comparison)
 - [Variants genome viewer](#variants.genome.viewer)
   - [Alpha, aka B.1.1.7, 501Y.V1, 20I/501Y.V1, and UK COVID variant](#alpha)

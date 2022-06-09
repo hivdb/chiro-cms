@@ -1,5 +1,4 @@
 [toc]
-- [Variants surveillance](#variants.surveillance)
 - [Variants mutation comparison](#variants.mutation.comparison)
 - [Variants genome viewer](/page/mutation-viewer/#variants.genome.viewer)
   - [Alpha, aka B.1.1.7, 501Y.V1, 20I/501Y.V1, and UK COVID variant](/page/mutation-viewer/#alpha)
@@ -16,12 +15,6 @@
 [/toc]
 
 <div style="clear: both; height: 0;" />
-
-## Variants surveillance
-
-[table compact, lastCompact]
-table_voc_compare
-[/table]
 
 ## Variants Mutation comparison
 
@@ -42,7 +35,12 @@ Other spike mutations (mutations occurring in >=2 listed variants)
 
 
 [table compact, lastCompact]
-table_voc_non_s
+table_voc_non_s1
+[/table]
+Non-spike mutations (mutations occurring in >=3 listed variants)
+
+[table compact, lastCompact]
+table_voc_non_s2
 [/table]
 Non-spike mutations (mutations occurring in >=3 listed variants)
 

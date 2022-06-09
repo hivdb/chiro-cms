@@ -21,12 +21,9 @@ positions:
   name: PLpro:A1502V  # ORF1a:A2320V
   pos: 7223
 - <<: *non-spike
-  name: nsp6:S106K  # ORF1a:S3675K
-  pos: 11288
-- <<: *non-spike
-  name: nsp6:del107-109  # ORF1a:del3676/3678
+  name: nsp6:del106-108  # ORF1a:del3675/3677
   pos: 11291
-  label: nsp6:Δ107-109
+  label: nsp6:Δ106-108
 - <<: *non-spike
   name: nsp8:Q24R  # ORF1a:Q3966R
   pos: 12161

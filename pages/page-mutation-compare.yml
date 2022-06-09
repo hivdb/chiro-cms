@@ -35,9 +35,16 @@ tables:
     - name: name
       label: Variant
     - name: F306
+    - name: G339
     - name: R346
     - name: V367
+    - name: S371
+    - name: S373
+    - name: S375
+    - name: T376
     - name: P384
+    - name: D405
+    - name: R408
     - name: Q414
     - name: K417
     - name: N439
@@ -50,8 +57,12 @@ tables:
     - name: V483
     - name: E484
     - name: F490
+    - name: Q493
     - name: S494
+    - name: G496
+    - name: Q498
     - name: N501
+    - name: Y505
     - name: E516
     data:
       _resource: mutation-viewer/voc_mut_align.yml
@@ -64,6 +75,7 @@ tables:
     - name: L18
     - name: T19
     - name: P26
+    - name: A67
     - name: H69
     - name: D80
     - name: T95
@@ -72,6 +84,9 @@ tables:
     - name: E156
     - name: F157
     - name: R190
+    - name: N211
+    - name: L212
+    - name: R214
     - name: D215
     data:
       _resource: mutation-viewer/voc_mut_align.yml
@@ -81,41 +96,70 @@ tables:
     columnDefs:
     - name: name
       label: Variant
+    - name: T547
     - name: Q613
     - name: D614
     - name: H655
     - name: Q677
+    - name: N679
     - name: P681
     - name: A701
     - name: T716
+    - name: N764
+    - name: D796
+    - name: N856
     - name: T859
     - name: D950
+    - name: Q954
+    - name: N969
+    - name: L981
     - name: T1027
     - name: D1118
     - name: V1176
     data:
       _resource: mutation-viewer/voc_mut_align.yml
-  table_voc_non_s:
+  table_voc_non_s1:
     tableScrollStyle:
       maxHeight: none
     columnDefs:
     - name: name
       label: Variant
+    - name: E:T9
+    - name: M:D3
+    - name: M:Q19
+    - name: M:A63
     - name: M:I82
     - name: N:D3
+    - name: N:P13
+    - name: N:E31
     - name: N:R203
     - name: N:G204
     - name: N:T205
     - name: N:D377
     - name: ORF3a:Q57
     - name: ORF7a:V82
+    data:
+      _resource: mutation-viewer/voc_mut_align.yml
+  table_voc_non_s2:
+    tableScrollStyle:
+      maxHeight: none
+    columnDefs:
+    - name: name
+      label: Variant
+    - name: 3CL:P132
+    - name: PLpro:K38
+    - name: PLpro:S1265
+    - name: PLpro:L1266
     - name: PLpro:P1469
+    - name: PLpro:A1892
     - name: RdRP:P323
     - name: nsp2:T85
     - name: nsp4:L438
     - name: nsp4:T492
-    - name: nsp6:G107
-      label: nsp6:∆106-107
+    - name: nsp6:G106
+      label: nsp6:∆106-108
+    - name: nsp6:I189
+    - name: nsp14:I42
     data:
       _resource: mutation-viewer/voc_mut_align.yml
 genomeMaps:

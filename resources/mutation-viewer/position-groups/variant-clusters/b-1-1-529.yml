@@ -25,9 +25,9 @@ positions:
   name: 3CLpro:P132H
   pos: 10448
 - <<: *non-spike
-  name: nsp6:del105-107
+  name: nsp6:del106-108
   pos: 11285
-  label: nsp6:Δ105-107
+  label: nsp6:Δ106-108
 - <<: *non-spike
   name: nsp6:I189V
   pos: 11537
