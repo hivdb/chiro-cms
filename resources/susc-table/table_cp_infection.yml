@@ -1,21 +1,24 @@
 - variant: Alpha
   num_ref_name: 20
-  num_fold: 154272
+  num_fold: 154752
 - variant: Beta
-  num_ref_name: 15
-  num_fold: 39128
+  num_ref_name: 14
+  num_fold: 36448
+- variant: D.2
+  num_ref_name: 2
+  num_fold: 125
 - variant: Delta
-  num_ref_name: 20
-  num_fold: 98904
+  num_ref_name: 21
+  num_fold: 104416
 - variant: Gamma
   num_ref_name: 7
-  num_fold: 8304
+  num_fold: 8208
 - variant: Mu
   num_ref_name: 2
   num_fold: 1568
 - variant: Omicron/BA.1
-  num_ref_name: 9
-  num_fold: 32807
+  num_ref_name: 10
+  num_fold: 35046
 - variant: Omicron/BA.1.1
   num_ref_name: 1
   num_fold: 400

@@ -1,12 +1,9 @@
 - timing: 1 month
-  num_ref_name: 124
-  num_fold: 14582
-- timing: 2-3 months
-  num_ref_name: 59
-  num_fold: 4177
-- timing: 4-6 months
-  num_ref_name: 30
-  num_fold: 1739
+  num_ref_name: 126
+  num_fold: 14817
+- timing: 2-6 months
+  num_ref_name: 74
+  num_fold: 5898
 - timing: '&gt;6 months'
-  num_ref_name: 25
-  num_fold: 1378
+  num_ref_name: 24
+  num_fold: 1309

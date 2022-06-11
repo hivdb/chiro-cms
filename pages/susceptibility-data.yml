@@ -167,7 +167,7 @@ tables:
       maxHeight: none
     columnDefs:
     - name: variant
-      label: " "
+      label: "Test&#10189;mAb"
     - name: bam
       label: "BAM"
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
@@ -223,7 +223,7 @@ tables:
       maxHeight: none
     columnDefs:
     - name: variant
-      label: " "
+      label: "Test&#10189;mAb"
     - name: reg
       label: "REG"
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
@@ -850,6 +850,7 @@ tables:
     columnDefs:
     - name: test
       label: 'Test&#10189;Vaccine'
+      sortable: False
     - name: BNT162b2_1
       label: BNT 1M
       renderTpl: >-
@@ -1002,6 +1003,7 @@ tables:
     columnDefs:
     - name: test
       label: 'Test&#10189;Vaccine'
+      sortable: False
     - name: BNT162b2_1
       label: BNT 1M
       renderTpl: >-
@@ -1154,6 +1156,7 @@ tables:
     columnDefs:
     - name: test
       label: 'Test&#10189;Vaccine'
+      sortable: False
     - name: BNT162b2_1
       label: BNT 1M
       renderTpl: >-
