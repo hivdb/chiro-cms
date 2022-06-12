@@ -356,12 +356,6 @@
     },
     {
       "gene": "S",
-      "position": 362,
-      "aa": "N",
-      "invivo_selected": false
-    },
-    {
-      "gene": "S",
       "position": 363,
       "aa": "L",
       "invivo_selected": false
@@ -1372,6 +1366,12 @@
       "gene": "S",
       "position": 452,
       "aa": "K",
+      "invivo_selected": false
+    },
+    {
+      "gene": "S",
+      "position": 452,
+      "aa": "M",
       "invivo_selected": false
     },
     {
@@ -2687,12 +2687,6 @@
       "position": 498,
       "aa": "H",
       "invivo_selected": false
-    },
-    {
-      "gene": "S",
-      "position": 498,
-      "aa": "R",
-      "invivo_selected": true
     },
     {
       "gene": "S",
