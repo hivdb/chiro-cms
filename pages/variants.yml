@@ -1,0 +1,553 @@
+---
+pageTitle: SARS-CoV-2 Variants
+introHeader: |-
+  SARS-CoV-2 Variants
+drdbVersion: "20220613-133643-slim"
+regionPresets:
+  presets:
+    - name: spike
+      label: Spike protein
+      highlightGenes: [S]
+      preset:
+        <<: &presetCommon
+          width: 1720
+          minHeight: 170
+          paddingLeft: 60
+          paddingRight: 20
+          paddingTop: 20
+        positionExtendSize: 30
+        .:
+          _resource: mutation-viewer/sars2-regions.yml
+    - name: evenly-distributed
+      label: Whole genome
+      highlightGenes: [S]
+      preset:
+        <<: *presetCommon
+        .:
+          _resource: mutation-viewer/alt-regions/even-dist.yml
+  genes:
+    _resource: mutation-viewer/sars2-genes.yml
+resistanceMutations:
+  _resource: resistance-mutations.json
+sections:
+  - title: Omicron
+    name: omicron
+    shortDesc: Variant of Concern
+    desc:
+      _resource: variant-description.yml
+      _resource_key: variant-desc_Omicron
+    attrlist:
+      _resource: variant-description.yml
+      _resource_key: variant-attrlist_Omicron
+    autoGenomeMaps:
+      - title: BA.1
+        varName: Omicron/BA.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.1)
+      - title: BA.2
+        varName: Omicron/BA.2
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.2)
+      - title: BA.2.12.1
+        varName: Omicron/BA.2.12.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.2.12.1)
+      - title: BA.3
+        varName: Omicron/BA.3
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.3)
+      - title: BA.4
+        varName: Omicron/BA.4
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.4)
+      - title: BA.5
+        varName: Omicron/BA.5
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.5)
+  - title: Delta
+    name: delta
+    shortDesc: Variant of Concern
+    desc:
+      _resource: variant-description.yml
+      _resource_key: variant-desc_Delta
+    attrlist:
+      _resource: variant-description.yml
+      _resource_key: variant-attrlist_Delta
+    autoGenomeMaps:
+      - title: B.1.617.2
+        varName: _Delta/B.1.617.2
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.617.2)
+      - title: AY.1
+        varName: _Delta/AY.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.1)
+      - title: AY.2
+        varName: _Delta/AY.2
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.2)
+      - title: AY.3
+        varName: _Delta/AY.3
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.3)
+      - title: AY.4
+        varName: _Delta/AY.4
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.4)
+      - title: AY.5
+        varName: _Delta/AY.5
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.5)
+      - title: AY.6
+        varName: _Delta/AY.6
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.6)
+      - title: AY.7
+        varName: _Delta/AY.7
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.7)
+      - title: AY.8
+        varName: _Delta/AY.8
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.8)
+      - title: AY.9
+        varName: _Delta/AY.9
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.9)
+      - title: AY.10
+        varName: _Delta/AY.10
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.10)
+      - title: AY.11
+        varName: _Delta/AY.11
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.11)
+
+# 
+# 
+# content:
+#   _resource: mutation-viewer.md
+# genomeMaps:
+#   b-1-1-7:
+#     name: b-1-1-7
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-7.yml
+#     <<: &common-props
+#       label: ""
+#       width: 1520
+#       paddingLeft: 60
+#       paddingRight: 60
+#       paddingTop: 0
+#       hidePositionAxis: true
+#       positionExtendSize: 30
+#       .:
+#         _resource: mutation-viewer/sars2-regions.yml
+#   b-1-617-2:
+#     name: b-1-617-2
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-2.yml
+#     <<: *common-props
+#   ay-4:
+#     name: ay-4
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ay-4.yml
+#     <<: *common-props
+#   p-1:
+#     name: p-1
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/p-1.yml
+#     <<: *common-props
+#   ay-12:
+#     name: ay-12
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ay-12.yml
+#     <<: *common-props
+#   b-1-429:
+#     name: b-1-429
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-429.yml
+#     <<: *common-props
+#   b-1-351:
+#     name: b-1-351
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351.yml
+#     <<: *common-props
+#   b-1-526:
+#     name: b-1-526
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-526.yml
+#     <<: *common-props
+#   b-1-1-519:
+#     name: b-1-1-519
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-519.yml
+#     <<: *common-props
+#   ay-3:
+#     name: ay-3
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ay-3.yml
+#     <<: *common-props
+#   b-1-427:
+#     name: b-1-427
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-427.yml
+#     <<: *common-props
+#   ay-9:
+#     name: ay-9
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ay-9.yml
+#     <<: *common-props
+#   ay-5:
+#     name: ay-5
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ay-5.yml
+#     <<: *common-props
+#   ay-6:
+#     name: ay-6
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ay-6.yml
+#     <<: *common-props
+#   r-1:
+#     name: r-1
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/r-1.yml
+#     <<: *common-props
+#   q-1:
+#     name: q-1
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/q-1.yml
+#     <<: *common-props
+#   b-1-1-529:
+#     name: b-1-1-529
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-529.yml
+#     <<: *common-props
+#   ba-1:
+#     name: ba-1
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ba-1.yml
+#     <<: *common-props
+#   ba-2:
+#     name: ba-2
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ba-2.yml
+#     <<: *common-props
+#   ba-2-12-1:
+#     name: ba-2-12-1
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ba-2-12-1.yml
+#     <<: *common-props
+#   ba-3:
+#     name: ba-3
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ba-3.yml
+#     <<: *common-props
+#   ba-4:
+#     name: ba-4
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ba-4.yml
+#     <<: *common-props
+#   ba-5:
+#     name: ba-5
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ba-5.yml
+#     <<: *common-props
+#   b-1-525:
+#     name: b-1-525
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-525.yml
+#     <<: *common-props
+#   ay-7:
+#     name: ay-7
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ay-7.yml
+#     <<: *common-props
+#   q-3:
+#     name: q-3
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/q-3.yml
+#     <<: *common-props
+#   b-1-617-1:
+#     name: b-1-617-1
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-1.yml
+#     <<: *common-props
+#   p-1-1:
+#     name: p-1-1
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/p-1-1.yml
+#     <<: *common-props
+#   c-37:
+#     name: c-37
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/c-37.yml
+#     <<: *common-props
+#   p-2:
+#     name: p-2
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/p-2.yml
+#     <<: *common-props
+#   b-1-621:
+#     name: b-1-621
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-621.yml
+#     <<: *common-props
+#   ay-11:
+#     name: ay-11
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ay-11.yml
+#     <<: *common-props
+#   b-1-351-2:
+#     name: b-1-351-2
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351-2.yml
+#     <<: *common-props
+#   b-1-1-318:
+#     name: b-1-1-318
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-318.yml
+#     <<: *common-props
+#   b-1-466-2:
+#     name: b-1-466-2
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-466-2.yml
+#     <<: *common-props
+#   ay-2:
+#     name: ay-2
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ay-2.yml
+#     <<: *common-props
+#   ay-10:
+#     name: ay-10
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ay-10.yml
+#     <<: *common-props
+#   c-36-3:
+#     name: c-36-3
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/c-36-3.yml
+#     <<: *common-props
+#   p-1-2:
+#     name: p-1-2
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/p-1-2.yml
+#     <<: *common-props
+#   q-2:
+#     name: q-2
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/q-2.yml
+#     <<: *common-props
+#   b-1-214-2:
+#     name: b-1-214-2
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-214-2.yml
+#     <<: *common-props
+#   b-1-351-3:
+#     name: b-1-351-3
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351-3.yml
+#     <<: *common-props
+#   b-1-620:
+#     name: b-1-620
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-620.yml
+#     <<: *common-props
+#   b-1-619:
+#     name: b-1-619
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-619.yml
+#     <<: *common-props
+#   ay-1:
+#     name: ay-1
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ay-1.yml
+#     <<: *common-props
+#   c-16:
+#     name: c-16
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/c-16.yml
+#     <<: *common-props
+#   ay-8:
+#     name: ay-8
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/ay-8.yml
+#     <<: *common-props
+#   b-1-1-523:
+#     name: b-1-1-523
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-523.yml
+#     <<: *common-props
+#   a-27:
+#     name: a-27
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/a-27.yml
+#     <<: *common-props
+#   a-28:
+#     name: a-28
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/a-28.yml
+#     <<: *common-props
+#   p-3:
+#     name: p-3
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/p-3.yml
+#     <<: *common-props
+#   b-1-617-3:
+#     name: b-1-617-3
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-3.yml
+#     <<: *common-props
+#   at-1:
+#     name: at-1
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/at-1.yml
+#     <<: *common-props
+#   av-1:
+#     name: av-1
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/av-1.yml
+#     <<: *common-props
+#   c-1-2:
+#     name: c-1-2
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/c-1-2.yml
+#     <<: *common-props
+#   b-1-616:
+#     name: b-1-616
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-616.yml
+#     <<: *common-props
+#   q-4:
+#     name: q-4
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/q-4.yml
+#     <<: *common-props
+#   a-23-1-e484k:
+#     name: a-23-1-e484k
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/a-23-1-e484k.yml
+#     <<: *common-props
+#   b-1-1-7-l452r:
+#     name: b-1-1-7-l452r
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-7-l452r.yml
+#     <<: *common-props
+#   b-1-1-7-e484k:
+#     name: b-1-1-7-e484k
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-7-e484k.yml
+#     <<: *common-props
+#   b-1-1-7-s494p:
+#     name: b-1-1-7-s494p
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-1-7-s494p.yml
+#     <<: *common-props
+#   b-1-351-p384l:
+#     name: b-1-351-p384l
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351-p384l.yml
+#     <<: *common-props
+#   b-1-351-e516q:
+#     name: b-1-351-e516q
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351-e516q.yml
+#     <<: *common-props
+#   b-1-351-l18f:
+#     name: b-1-351-l18f
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-351-l18f.yml
+#     <<: *common-props
+#   b-1-617-2-k417n:
+#     name: b-1-617-2-k417n
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-2-k417n.yml
+#     <<: *common-props
+#   b-1-617-2-e484q:
+#     name: b-1-617-2-e484q
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-2-e484q.yml
+#     <<: *common-props
+#   b-1-617-2-q613h:
+#     name: b-1-617-2-q613h
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/b-1-617-2-q613h.yml
+#     <<: *common-props
+#   c-36-l452r:
+#     name: c-36-l452r
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/c-36-l452r.yml
+#     <<: *common-props
+#   p-1-p681h:
+#     name: p-1-p681h
+#     height: 250
+#     positionGroups:
+#     - _resource: mutation-viewer/position-groups/variant-clusters/p-1-p681h.yml
+#     <<: *common-props

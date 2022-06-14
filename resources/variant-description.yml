@@ -310,6 +310,34 @@ variant-attrlist_Mu:
     [CoVariants](https://covariants.org/variants/21H.Mu),
     [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Mu_variant)
 
+variant-desc_Omicron: |-
+  The **Omicron variant** is a variant of SARS-CoV-2 (the virus that causes
+  COVID-19) that was first reported to the World Health Organization (WHO) from
+  South Africa on November 24, 2021. It was designated by the WHO as a variant
+  of concern on November 26, 2021.
+ 
+  The Omicron variant is the most mutated SARS-CoV-2 variant, and its high
+  transmissibility and immune evasion ability have raised global concerns.
+  Owing to its enhanced transmissibility, Omicron has rapidly replaced Delta as
+  the dominant variant in several regions.  However, recent studies have shown
+  that the Omicron variant exhibits reduced pathogenicity due to altered cell
+  tropism.
+  (©[Wikipedia][Wikipedia], CC BY-SA 3.0, ©[Fan Y, et al.][Fan22], CC BY 4.0)
+
+  [Wikipedia]: https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant
+  [Fan22]: https://doi.org/10.1038/s41392-022-00997-x
+
+variant-attrlist_Omicron:
+  - |-
+    **Sub lineages**: BA.x
+  - "**First appearance**: South Africa and Botswana"
+  - |-
+    **Links**:
+    [Outbreak.Info](https://outbreak.info/situation-reports/omicron),
+    [CoV-Lineages](https://cov-lineages.org/lineage.html?lineage=BA.1),
+    [CoVariants](https://covariants.org/variants/21K.Omicron),
+    [Wikipedia](https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant)
+
 variant-desc_Omicron/BA.1: |-
   The **Omicron variant** is a variant of SARS-CoV-2 (the virus that causes
   COVID-19) that was first reported to the World Health Organization (WHO) from
