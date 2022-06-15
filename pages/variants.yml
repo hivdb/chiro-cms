@@ -2,7 +2,7 @@
 pageTitle: SARS-CoV-2 Variants
 introHeader: |-
   SARS-CoV-2 Variants
-drdbVersion: "20220614-150304-slim"
+drdbVersion: "20220615-slim"
 regionPresets:
   presets:
     - name: spike
@@ -575,7 +575,7 @@ contentAfter: |-
 
   [![Creative Commons
   License](CC-BY-SA_icon.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
-  
+
   All figures on this page are licensed under a [Creative Commons
   Attribution-ShareAlike 4.0 International
   License](http://creativecommons.org/licenses/by-sa/4.0/).

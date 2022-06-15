@@ -1,4 +1,4 @@
-drdbVersion: "20220613-133643-slim"
+drdbVersion: "20220615-slim"
 cmtVersion: "20220606"
 allGenes: &allGenes [
   nsp1, nsp2, PLpro, nsp4, _3CLpro, nsp6, nsp7, nsp8, nsp9,

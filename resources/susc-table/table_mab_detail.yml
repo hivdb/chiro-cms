@@ -30,8 +30,8 @@
   origin: CP
 - mab: DXP-604
   synonyms: BD-604
-  num_ref_name: 2
-  num_fold: 11
+  num_ref_name: 3
+  num_fold: 21
   avail: Phase 1
   target: RBD
   class: RBM Class I
@@ -111,7 +111,7 @@
 - mab: Bebtelovimab
   synonyms: LY-CoV1404;LY3853113
   num_ref_name: 12
-  num_fold: 354
+  num_fold: 358
   avail: EUA
   target: RBD
   class: RBM Class II

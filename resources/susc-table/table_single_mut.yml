@@ -355,11 +355,11 @@
   num_ref_name: 52
   cp: 2033
   vp: 1742
-  mAbs phase3: 756
+  mAbs phase3: 758
   mAbs structure: 529
   other mAbs: 1281
-  all mAbs: 2566
-  num_exp: 6341
+  all mAbs: 2568
+  num_exp: 6343
 - pattern: L18F
   ref: L
   position: 18
@@ -593,11 +593,11 @@
 - pattern: other
   position: 10000
   domain: S2
-  num_ref_name: 20
-  cp: 247
-  vp: 74
+  num_ref_name: 21
+  cp: 271
+  vp: 89
   mAbs phase3: 208
   mAbs structure: 168
   other mAbs: 179
   all mAbs: 555
-  num_exp: 876
+  num_exp: 915

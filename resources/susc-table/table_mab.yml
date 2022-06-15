@@ -368,9 +368,9 @@
     fold_cmp: '>'
     num: 10
   beb:
-    fold: '1.0'
+    fold: '1'
     fold_cmp: ''
-    num: 14
+    num: 15
   cas_imd:
     fold: '1000'
     fold_cmp: '>'
@@ -416,9 +416,9 @@
     fold_cmp: ''
     num: 1
   DXP604:
-    fold: '19'
+    fold: '26'
     fold_cmp: ''
-    num: 2
+    num: 3
 - variant: Omicron/BA.2
   cas:
     fold: '1000'
@@ -499,7 +499,9 @@
   Vir7832:
     fold: '-'
   DXP604:
-    fold: '-'
+    fold: '17'
+    fold_cmp: ''
+    num: 2
 - variant: Omicron/BA.2.12.1
   cas:
     fold: '1000'
@@ -578,7 +580,9 @@
   Vir7832:
     fold: '-'
   DXP604:
-    fold: '-'
+    fold: '18'
+    fold_cmp: ''
+    num: 1
 - variant: Omicron/BA.4
   cas:
     fold: '1000'
@@ -655,7 +659,9 @@
   Vir7832:
     fold: '-'
   DXP604:
-    fold: '-'
+    fold: '569'
+    fold_cmp: ''
+    num: 1
 - variant: Iota
   cas:
     fold: '9.3'

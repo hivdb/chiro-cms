@@ -1,24 +1,27 @@
 - infection: uninfected
-  num_ref_name: 245
-  num_fold: 44828
+  num_ref_name: 252
+  num_fold: 47147
 - infection: infected
-  num_ref_name: 65
-  num_fold: 481377
+  num_ref_name: 68
+  num_fold: 529161
 - infection: wt
   num_ref_name: 41
   num_fold: 266938
 - infection: Delta
-  num_ref_name: 19
-  num_fold: 102960
+  num_ref_name: 22
+  num_fold: 138600
 - infection: Omicron/BA.1
-  num_ref_name: 16
-  num_fold: 77166
+  num_ref_name: 18
+  num_fold: 88236
+- infection: SARS-CoV-1
+  num_ref_name: 1
+  num_fold: 448
 - infection: Omicron/BA.2
-  num_ref_name: 3
-  num_fold: 3196
+  num_ref_name: 4
+  num_fold: 4028
 - infection: Alpha
   num_ref_name: 4
-  num_fold: 23232
+  num_fold: 23474
 - infection: Beta
   num_ref_name: 3
   num_fold: 7437
