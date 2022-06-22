@@ -1,7 +1,7 @@
 - test: WT
   BNT162b2_1:
-    geomean: 501.0
-    num_ref_name: 120
+    geomean: 523.0
+    num_ref_name: 122
   BNT162b2_2:
     geomean: 146.0
     num_ref_name: 31
@@ -9,17 +9,17 @@
     geomean: 104.0
     num_ref_name: 8
   mRNA-1273_1:
-    geomean: 1219.0
-    num_ref_name: 46
+    geomean: 1190.0
+    num_ref_name: 48
   mRNA-1273_2:
     geomean: 243.0
     num_ref_name: 12
   mRNA-1273_3:
-    geomean: 192.0
-    num_ref_name: 1
+    geomean: 108.0
+    num_ref_name: 2
   AZD1222_1:
-    geomean: 216.0
-    num_ref_name: 21
+    geomean: 231.0
+    num_ref_name: 23
   AZD1222_2:
     geomean: 215.0
     num_ref_name: 3
@@ -57,8 +57,8 @@
     geomean: 73.0
     num_ref_name: 5
   BBIBP-CorV_2:
-    geomean: 32.0
-    num_ref_name: 2
+    geomean: 54.0
+    num_ref_name: 3
   BBIBP-CorV_3:
     geomean: ''
     num_ref_name: 0
@@ -67,7 +67,7 @@
     num_ref_name: 4
   Sputnik V_2:
     geomean: 155.0
-    num_ref_name: 3
+    num_ref_name: 4
   Sputnik V_3:
     geomean: ''
     num_ref_name: 0
@@ -146,8 +146,8 @@
     num_ref_name: 0
 - test: Beta
   BNT162b2_1:
-    geomean: 112.0
-    num_ref_name: 68
+    geomean: 119.0
+    num_ref_name: 69
   BNT162b2_2:
     geomean: 23.0
     num_ref_name: 12
@@ -155,17 +155,17 @@
     geomean: 42.0
     num_ref_name: 3
   mRNA-1273_1:
-    geomean: 216.0
-    num_ref_name: 27
+    geomean: 178.0
+    num_ref_name: 28
   mRNA-1273_2:
     geomean: 49.0
     num_ref_name: 9
   mRNA-1273_3:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 26.0
+    num_ref_name: 1
   AZD1222_1:
-    geomean: 34.0
-    num_ref_name: 11
+    geomean: 40.0
+    num_ref_name: 12
   AZD1222_2:
     geomean: 34.0
     num_ref_name: 1
@@ -292,8 +292,8 @@
     num_ref_name: 0
 - test: Delta
   BNT162b2_1:
-    geomean: 257.0
-    num_ref_name: 43
+    geomean: 273.0
+    num_ref_name: 44
   BNT162b2_2:
     geomean: 46.0
     num_ref_name: 22
@@ -307,11 +307,11 @@
     geomean: 89.0
     num_ref_name: 6
   mRNA-1273_3:
-    geomean: 37.0
-    num_ref_name: 1
+    geomean: 50.0
+    num_ref_name: 2
   AZD1222_1:
-    geomean: 56.0
-    num_ref_name: 14
+    geomean: 60.0
+    num_ref_name: 15
   AZD1222_2:
     geomean: 51.0
     num_ref_name: 2
@@ -366,7 +366,7 @@
 - test: BA.1
   BNT162b2_1:
     geomean: 21.0
-    num_ref_name: 33
+    num_ref_name: 34
   BNT162b2_2:
     geomean: 9.3
     num_ref_name: 19
@@ -374,17 +374,17 @@
     geomean: 24.0
     num_ref_name: 7
   mRNA-1273_1:
-    geomean: 53.0
-    num_ref_name: 13
+    geomean: 51.0
+    num_ref_name: 14
   mRNA-1273_2:
     geomean: 14.0
     num_ref_name: 6
   mRNA-1273_3:
-    geomean: 23.0
-    num_ref_name: 1
+    geomean: 38.0
+    num_ref_name: 2
   AZD1222_1:
     geomean: 11.0
-    num_ref_name: 8
+    num_ref_name: 9
   AZD1222_2:
     geomean: 20.0
     num_ref_name: 2
@@ -422,8 +422,8 @@
     geomean: 12.0
     num_ref_name: 3
   BBIBP-CorV_2:
-    geomean: 9.8
-    num_ref_name: 2
+    geomean: 11.0
+    num_ref_name: 3
   BBIBP-CorV_3:
     geomean: ''
     num_ref_name: 0
@@ -431,8 +431,8 @@
     geomean: 4.1
     num_ref_name: 1
   Sputnik V_2:
-    geomean: 6.8
-    num_ref_name: 1
+    geomean: 8.1
+    num_ref_name: 2
   Sputnik V_3:
     geomean: 4.0
     num_ref_name: 1
@@ -511,8 +511,8 @@
     num_ref_name: 0
 - test: BA.2
   BNT162b2_1:
-    geomean: 58.0
-    num_ref_name: 5
+    geomean: 54.0
+    num_ref_name: 6
   BNT162b2_2:
     geomean: 19.0
     num_ref_name: 2
@@ -520,8 +520,8 @@
     geomean: 25.0
     num_ref_name: 1
   mRNA-1273_1:
-    geomean: 235.0
-    num_ref_name: 2
+    geomean: 122.0
+    num_ref_name: 3
   mRNA-1273_2:
     geomean: ''
     num_ref_name: 0
@@ -529,8 +529,8 @@
     geomean: ''
     num_ref_name: 0
   AZD1222_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 31.0
+    num_ref_name: 1
   AZD1222_2:
     geomean: 11.0
     num_ref_name: 1
@@ -568,8 +568,8 @@
     geomean: ''
     num_ref_name: 0
   BBIBP-CorV_2:
-    geomean: 10.0
-    num_ref_name: 1
+    geomean: 18.0
+    num_ref_name: 2
   BBIBP-CorV_3:
     geomean: ''
     num_ref_name: 0
@@ -577,8 +577,8 @@
     geomean: ''
     num_ref_name: 0
   Sputnik V_2:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 22.0
+    num_ref_name: 1
   Sputnik V_3:
     geomean: ''
     num_ref_name: 0

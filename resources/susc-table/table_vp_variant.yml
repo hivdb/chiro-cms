@@ -1,59 +1,59 @@
 - pattern: Alpha
   var_name: Alpha
   median_fold: 1.5
-  num_ref_name: 109
-  num_fold: 6599
-  S: 5995
-  I: 494
-  R: 108
+  num_ref_name: 111
+  num_fold: 6806
+  S: 6190
+  I: 505
+  R: 109
 - pattern: Beta
   var_name: Beta
-  median_fold: 4.0
-  num_ref_name: 136
-  num_fold: 8954
-  S: 5397
-  I: 3045
-  R: 509
+  median_fold: 3.9
+  num_ref_name: 141
+  num_fold: 13857
+  S: 9537
+  I: 3795
+  R: 522
 - pattern: Delta
   var_name: Delta
-  median_fold: 2.2
-  num_ref_name: 106
-  num_fold: 7874
-  S: 6518
-  I: 1258
-  R: 95
+  median_fold: 2.1
+  num_ref_name: 112
+  num_fold: 10964
+  S: 9465
+  I: 1399
+  R: 96
 - pattern: Gamma
   var_name: Gamma
   median_fold: 2.4
-  num_ref_name: 67
-  num_fold: 3634
-  S: 3011
-  I: 457
+  num_ref_name: 69
+  num_fold: 3841
+  S: 3176
+  I: 499
   R: 166
 - pattern: Omicron/BA.1
   var_name: Omicron/BA.1
-  median_fold: 8.0
-  num_ref_name: 91
-  num_fold: 8357
-  S: 2687
-  I: 4353
-  R: 1317
+  median_fold: 5.5
+  num_ref_name: 99
+  num_fold: 11702
+  S: 5391
+  I: 4809
+  R: 1502
 - pattern: Omicron/BA.1.1
   var_name: Omicron/BA.1.1
-  median_fold: 5.7
-  num_ref_name: 12
-  num_fold: 844
+  median_fold: 5.8
+  num_ref_name: 13
+  num_fold: 860
   S: 345
-  I: 351
-  R: 148
+  I: 361
+  R: 154
 - pattern: Omicron/BA.2
   var_name: Omicron/BA.2
   median_fold: 5.5
-  num_ref_name: 23
-  num_fold: 1677
-  S: 708
-  I: 904
-  R: 65
+  num_ref_name: 26
+  num_fold: 1948
+  S: 828
+  I: 1052
+  R: 68
 - pattern: Omicron/BA.2.12.1
   var_name: Omicron/BA.2.12.1
   median_fold: 6.6
@@ -129,18 +129,18 @@
 - pattern: VOIs (Kappa, Iota, Epsilon, Lambda, Eta, Mu)
   var_name: VOIs (Kappa, Iota, Epsilon, Lambda, Eta, Mu)
   median_fold: 1.9
-  num_ref_name: 44
-  num_fold: 2087
-  S: 1767
-  I: 275
+  num_ref_name: 45
+  num_fold: 2119
+  S: 1797
+  I: 277
   R: 45
 - pattern: other variants
   var_name: other variants
   median_fold: 1.8
-  num_ref_name: 54
-  num_fold: 3881
-  S: 3261
-  I: 511
+  num_ref_name: 56
+  num_fold: 4068
+  S: 3396
+  I: 563
   R: 108
 - pattern: Individual mutations and mutation combinations
   var_name: Individual mutations and mutation combinations

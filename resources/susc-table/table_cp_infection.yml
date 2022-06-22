@@ -1,33 +1,33 @@
 - variant: Alpha
-  num_ref_name: 22
-  num_fold: 170623
+  num_ref_name: 23
+  num_fold: 189779
 - variant: Beta
   num_ref_name: 16
-  num_fold: 39664
+  num_fold: 40256
 - variant: D.2
   num_ref_name: 2
   num_fold: 125
 - variant: Delta
-  num_ref_name: 25
-  num_fold: 120855
+  num_ref_name: 27
+  num_fold: 149990
 - variant: Gamma
   num_ref_name: 7
-  num_fold: 8550
+  num_fold: 8892
 - variant: Mu
   num_ref_name: 2
   num_fold: 1568
 - variant: Omicron/BA.1
-  num_ref_name: 14
-  num_fold: 62910
+  num_ref_name: 15
+  num_fold: 110957
 - variant: Omicron/BA.1.1
   num_ref_name: 1
-  num_fold: 400
+  num_fold: 920
 - variant: Omicron/BA.2
   num_ref_name: 5
-  num_fold: 3800
+  num_fold: 5600
 - variant: Unknown variant
-  num_ref_name: 18
-  num_fold: 3154
+  num_ref_name: 19
+  num_fold: 3212
 - variant: Zeta
   num_ref_name: 1
   num_fold: 616

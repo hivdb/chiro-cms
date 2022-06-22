@@ -1,59 +1,59 @@
 - pattern: Alpha
   var_name: Alpha
   median_fold: 1.4
-  num_ref_name: 82
-  num_fold: 3747
-  S: 3454
-  I: 254
+  num_ref_name: 84
+  num_fold: 3897
+  S: 3591
+  I: 264
   R: 27
 - pattern: Beta
   var_name: Beta
   median_fold: 4.0
-  num_ref_name: 92
-  num_fold: 3972
-  S: 2429
-  I: 1320
-  R: 217
+  num_ref_name: 95
+  num_fold: 4158
+  S: 2538
+  I: 1353
+  R: 261
 - pattern: Delta
   var_name: Delta
-  median_fold: 2.1
-  num_ref_name: 52
-  num_fold: 2039
-  S: 1747
-  I: 266
-  R: 11
+  median_fold: 2.0
+  num_ref_name: 55
+  num_fold: 2264
+  S: 1948
+  I: 286
+  R: 15
 - pattern: Gamma
   var_name: Gamma
   median_fold: 2.4
-  num_ref_name: 41
-  num_fold: 1746
-  S: 1456
-  I: 274
-  R: 16
+  num_ref_name: 43
+  num_fold: 1896
+  S: 1589
+  I: 290
+  R: 17
 - pattern: Omicron/BA.1
   var_name: Omicron/BA.1
-  median_fold: 10.0
-  num_ref_name: 50
-  num_fold: 2088
-  S: 558
-  I: 1111
-  R: 368
+  median_fold: 11.0
+  num_ref_name: 55
+  num_fold: 2315
+  S: 621
+  I: 1206
+  R: 434
 - pattern: Omicron/BA.1.1
   var_name: Omicron/BA.1.1
-  median_fold: 21.0
-  num_ref_name: 4
-  num_fold: 112
-  S: 42
-  I: 22
-  R: 48
+  median_fold: 14.0
+  num_ref_name: 5
+  num_fold: 158
+  S: 61
+  I: 35
+  R: 56
 - pattern: Omicron/BA.2
   var_name: Omicron/BA.2
   median_fold: 1.6
-  num_ref_name: 15
-  num_fold: 379
-  S: 250
-  I: 92
-  R: 29
+  num_ref_name: 17
+  num_fold: 439
+  S: 272
+  I: 119
+  R: 40
 - pattern: Omicron/BA.2.12.1
   var_name: Omicron/BA.2.12.1
   median_fold: 0.7
@@ -105,18 +105,18 @@
 - pattern: VOIs (Kappa, Iota, Epsilon, Lambda, Eta, Mu)
   var_name: VOIs (Kappa, Iota, Epsilon, Lambda, Eta, Mu)
   median_fold: 2.0
-  num_ref_name: 20
-  num_fold: 475
-  S: 373
-  I: 99
-  R: 3
+  num_ref_name: 21
+  num_fold: 567
+  S: 462
+  I: 101
+  R: 4
 - pattern: other variants
   var_name: other variants
-  median_fold: 3.1
-  num_ref_name: 30
-  num_fold: 1547
-  S: 1006
-  I: 358
+  median_fold: 2.9
+  num_ref_name: 31
+  num_fold: 1639
+  S: 1094
+  I: 362
   R: 180
 - pattern: Individual mutations and mutation combinations
   var_name: Individual mutations and mutation combinations
