@@ -1,4 +1,4 @@
-drdbVersion: "20220615-slim"
+drdbVersion: "20220622-slim"
 cmtVersion: "20220606"
 allGenes: &allGenes [
   nsp1, nsp2, PLpro, nsp4, _3CLpro, nsp6, nsp7, nsp8, nsp9,
@@ -145,5 +145,5 @@ seqReadsExamples:
 outbreakInfo:
   lineages:
     _resource: sierra-sars2/outbreak.info/lineages.json
-highlightUnusualMutation: false
+highlightUnusualMutation: true
 highlightDRM: true
