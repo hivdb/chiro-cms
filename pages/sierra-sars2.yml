@@ -139,9 +139,10 @@ sequenceExamples:
   # - url: downloads/fasta-examples/a-voi-v2.fas
   #   title: A.VOI.V2 (N=1)
 seqReadsExamples:
-  - downloads/codfreq-examples/B.1.1.7_CAMC-C471A4_ERR5026962.codfreq.txt
+  - downloads/codfreq-examples/BA.2_COG-UK-QEUH-3A56132-ERR9366834.codfreq.txt
+  - downloads/codfreq-examples/BA.1.1_Portugal_PT29821_2022_ERR9356361.codfreq.txt
   - downloads/codfreq-examples/B.1.351_KRISP-K005325_SRR13620320.codfreq.txt
-  - downloads/codfreq-examples/B.1.1.529_CERI-KRISP-K032221_SRR17051909.codfreq.txt
+  - downloads/codfreq-examples/B.1.1.7_CAMC-C471A4_ERR5026962.codfreq.txt
 outbreakInfo:
   lineages:
     _resource: sierra-sars2/outbreak.info/lineages.json
