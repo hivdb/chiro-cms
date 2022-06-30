@@ -1298,7 +1298,7 @@
   cas:
     fold: '13'
     fold_cmp: ''
-    num: 11
+    num: 12
   ete:
     fold: '630'
     fold_cmp: ''
@@ -1316,9 +1316,9 @@
     fold_cmp: ''
     num: 7
   imd:
-    fold: '0.8'
+    fold: '0.7'
     fold_cmp: ''
-    num: 12
+    num: 13
   sot:
     fold: '0.7'
     fold_cmp: ''
@@ -1539,9 +1539,9 @@
     fold: '-'
 - variant: S477N
   cas:
-    fold: '2.8'
+    fold: '2.4'
     fold_cmp: ''
-    num: 6
+    num: 7
   ete:
     fold: '0.8'
     fold_cmp: ''
@@ -1559,9 +1559,9 @@
     fold_cmp: ''
     num: 3
   imd:
-    fold: '1.1'
+    fold: '1'
     fold_cmp: ''
-    num: 7
+    num: 8
   sot:
     fold: '1.5'
     fold_cmp: ''
@@ -1614,9 +1614,9 @@
     fold: '-'
 - variant: T478K
   cas:
-    fold: '1.6'
+    fold: '1.2'
     fold_cmp: ''
-    num: 3
+    num: 4
   ete:
     fold: '0.8'
     fold_cmp: ''
@@ -1634,9 +1634,9 @@
     fold_cmp: ''
     num: 3
   imd:
-    fold: '1.5'
+    fold: '1.4'
     fold_cmp: ''
-    num: 4
+    num: 5
   sot:
     fold: '1.4'
     fold_cmp: ''
@@ -1772,9 +1772,9 @@
     fold: '-'
 - variant: Q493R
   cas:
-    fold: '49'
+    fold: '42'
     fold_cmp: ''
-    num: 4
+    num: 5
   ete:
     fold: '45'
     fold_cmp: ''
@@ -1794,7 +1794,7 @@
   imd:
     fold: '1.5'
     fold_cmp: ''
-    num: 5
+    num: 6
   sot:
     fold: '1.2'
     fold_cmp: ''
@@ -1999,9 +1999,9 @@
     fold: '-'
 - variant: N501Y
   cas:
-    fold: '1.2'
+    fold: '1'
     fold_cmp: ''
-    num: 12
+    num: 13
   ete:
     fold: '5.3'
     fold_cmp: ''
@@ -2019,9 +2019,9 @@
     fold_cmp: ''
     num: 9
   imd:
-    fold: '1'
+    fold: '1.0'
     fold_cmp: ''
-    num: 13
+    num: 14
   sot:
     fold: '1.6'
     fold_cmp: ''

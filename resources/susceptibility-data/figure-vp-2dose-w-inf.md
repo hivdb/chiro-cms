@@ -1,7 +1,7 @@
 <section class="figure-section wrap">
 <div class="figure-image">
 
-![fold titer](susceptibility-data/vp-titer-2dose-w-inf.png)
+![fold titer](susceptibility-data/vp-titer-2dose-w-inf.svg)
 
 </div>
 

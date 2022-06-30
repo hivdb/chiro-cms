@@ -1,27 +1,27 @@
 - pattern: Alpha
   var_name: Alpha
   median_fold: 1.5
-  num_ref_name: 111
-  num_fold: 6806
-  S: 6190
+  num_ref_name: 114
+  num_fold: 7030
+  S: 6414
   I: 505
   R: 109
 - pattern: Beta
   var_name: Beta
   median_fold: 3.9
-  num_ref_name: 141
-  num_fold: 13857
-  S: 9537
-  I: 3795
+  num_ref_name: 148
+  num_fold: 14487
+  S: 9852
+  I: 4110
   R: 522
 - pattern: Delta
   var_name: Delta
   median_fold: 2.1
-  num_ref_name: 112
-  num_fold: 10964
-  S: 9465
-  I: 1399
-  R: 96
+  num_ref_name: 119
+  num_fold: 11668
+  S: 10075
+  I: 1487
+  R: 102
 - pattern: Gamma
   var_name: Gamma
   median_fold: 2.4
@@ -32,26 +32,26 @@
   R: 166
 - pattern: Omicron/BA.1
   var_name: Omicron/BA.1
-  median_fold: 5.5
-  num_ref_name: 99
-  num_fold: 11702
-  S: 5391
-  I: 4809
-  R: 1502
+  median_fold: 5.4
+  num_ref_name: 105
+  num_fold: 12090
+  S: 5613
+  I: 4939
+  R: 1535
 - pattern: Omicron/BA.1.1
   var_name: Omicron/BA.1.1
-  median_fold: 5.8
-  num_ref_name: 13
-  num_fold: 860
-  S: 345
-  I: 361
-  R: 154
+  median_fold: 6.4
+  num_ref_name: 14
+  num_fold: 932
+  S: 363
+  I: 397
+  R: 172
 - pattern: Omicron/BA.2
   var_name: Omicron/BA.2
-  median_fold: 5.5
-  num_ref_name: 26
-  num_fold: 1948
-  S: 828
+  median_fold: 5.4
+  num_ref_name: 27
+  num_fold: 1966
+  S: 846
   I: 1052
   R: 68
 - pattern: Omicron/BA.2.12.1
@@ -129,24 +129,24 @@
 - pattern: VOIs (Kappa, Iota, Epsilon, Lambda, Eta, Mu)
   var_name: VOIs (Kappa, Iota, Epsilon, Lambda, Eta, Mu)
   median_fold: 1.9
-  num_ref_name: 45
-  num_fold: 2119
-  S: 1797
+  num_ref_name: 46
+  num_fold: 2142
+  S: 1820
   I: 277
   R: 45
 - pattern: other variants
   var_name: other variants
   median_fold: 1.8
-  num_ref_name: 56
-  num_fold: 4068
-  S: 3396
-  I: 563
-  R: 108
+  num_ref_name: 59
+  num_fold: 4135
+  S: 3444
+  I: 581
+  R: 109
 - pattern: Individual mutations and mutation combinations
   var_name: Individual mutations and mutation combinations
   median_fold: ''
-  num_ref_name: 39
-  num_fold: 5387
+  num_ref_name: 43
+  num_fold: 5653
   S: ''
   I: ''
   R: ''

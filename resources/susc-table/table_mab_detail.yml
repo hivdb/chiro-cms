@@ -60,8 +60,8 @@
   origin: Phage display library
 - mab: Imdevimab
   synonyms: REGN10987
-  num_ref_name: 79
-  num_fold: 692
+  num_ref_name: 81
+  num_fold: 711
   avail: EUA
   target: RBD
   class: RBD Core Cluster I
@@ -70,8 +70,8 @@
   origin: Transgenic mice
 - mab: Casirivimab
   synonyms: REGN10933
-  num_ref_name: 77
-  num_fold: 645
+  num_ref_name: 79
+  num_fold: 670
   avail: EUA
   target: RBD
   class: RBM Class I
@@ -90,8 +90,8 @@
   origin: SARS-CoV CP
 - mab: Etesevimab
   synonyms: CB6;Shi-CB6;JS-016;LY-CoV016;LY3832479
-  num_ref_name: 61
-  num_fold: 577
+  num_ref_name: 62
+  num_fold: 586
   avail: EUA
   target: RBD
   class: RBM Class I
@@ -100,8 +100,8 @@
   origin: CP
 - mab: Bamlanivimab
   synonyms: LY-CoV555;LY3819253
-  num_ref_name: 57
-  num_fold: 447
+  num_ref_name: 58
+  num_fold: 452
   avail: EUA
   target: RBD
   class: RBM Class II
