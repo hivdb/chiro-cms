@@ -35,6 +35,17 @@ projectSections:
     displayTitle: true
     items:
     - title: >-
+        <div style="font-size:1.2rem;line-height:1.5rem;">
+        Sierra SARS-CoV-2 Sequence and Antiviral Resistance Analysis Program
+        </div>
+      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4160017
+      extLink: true
+      description: >-
+        <div style="font-size:1rem;color:rgba(0,0,0,.4);">
+        *SSRN* (pre-print), 2022
+        </div>
+      image: home/pub-sierrapaper.png
+    - title: >-
         <div style="font-size:1.1rem;line-height:1.3rem;">
         Susceptibility of SARS-CoV-2 Omicron Variants to Therapeutic Monoclonal
         Antibodies: Systematic Review and Meta-analysis
