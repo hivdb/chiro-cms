@@ -2,7 +2,7 @@
 pageTitle: SARS-CoV-2 Variants
 introHeader: |-
   SARS-CoV-2 Variants
-drdbVersion: "20220629-slim"
+drdbVersion: "20220718-131703-slim"
 regionPresets:
   presets:
     - name: spike
@@ -52,6 +52,10 @@ sections:
         varName: Omicron/BA.2.12.1
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.2.12.1)
+      - title: BA.2.75
+        varName: Omicron/BA.2.75
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.2.75)
       - title: BA.3
         varName: Omicron/BA.3
         source: >-
