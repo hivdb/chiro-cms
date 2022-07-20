@@ -1,6 +1,6 @@
 - infection: uninfected
-  num_ref_name: 271
-  num_fold: 61103
+  num_ref_name: 277
+  num_fold: 64596
 - infection: infected
   num_ref_name: 75
   num_fold: 800654
@@ -13,6 +13,9 @@
 - infection: Omicron/BA.1
   num_ref_name: 23
   num_fold: 155314
+- infection: SARS-CoV-1
+  num_ref_name: 1
+  num_fold: 448
 - infection: Beta
   num_ref_name: 4
   num_fold: 12444

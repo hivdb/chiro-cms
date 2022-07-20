@@ -1,7 +1,7 @@
 - test: WT
   BNT162b2_1:
-    geomean: 2485.0
-    num_ref_name: 44
+    geomean: 2404.0
+    num_ref_name: 45
   BNT162b2_2:
     geomean: 881.0
     num_ref_name: 3
@@ -146,8 +146,8 @@
     num_ref_name: 0
 - test: Beta
   BNT162b2_1:
-    geomean: 2150.0
-    num_ref_name: 12
+    geomean: 1736.0
+    num_ref_name: 13
   BNT162b2_2:
     geomean: 78.0
     num_ref_name: 1
@@ -292,8 +292,8 @@
     num_ref_name: 0
 - test: Delta
   BNT162b2_1:
-    geomean: 2073.0
-    num_ref_name: 25
+    geomean: 1838.0
+    num_ref_name: 26
   BNT162b2_2:
     geomean: 143.0
     num_ref_name: 3
@@ -365,8 +365,8 @@
     num_ref_name: 0
 - test: BA.1
   BNT162b2_1:
-    geomean: 364.0
-    num_ref_name: 43
+    geomean: 343.0
+    num_ref_name: 44
   BNT162b2_2:
     geomean: 39.0
     num_ref_name: 4
