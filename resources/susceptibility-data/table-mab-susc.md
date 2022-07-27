@@ -43,6 +43,10 @@ table_mab_non_eua
     S373P, S375F, T376A, D405N, R408S, K417N, N440K, L452R, S477N, T478K, E484A,
     Q493R, Q498R, N501Y, Y505H, D614G, H655Y, N679K, P681H, N764K, D796Y, Q954H,
     N969K
+  - **Omicron/BA.2.75**: T19I, L24S, PPA25-27∆, G142D, K147E, W152R, F157L,
+    I210V, V213G, G257S, G339H, S371F, S373P, S375F, T376A, D405N, R408S,
+    K417N, N440K, G446S, N460K, S477N, T478K, E484A, Q498R, N501Y, Y505H,
+    D614G, H655Y, N679K, P681H, N764K, D796Y, Q954H, N969K
 - Monoclonal antibody(mAb) abbreviations: **BAM**:
   Bamlanivimab/LY-CoV555/LY3819253, **ETE**: Etesevimab/LY-CoV016/JS016/CB6,
   **CAS**: Casirivimab/REGN10933, **IMD**: Imdevimab/REGN10987, **CIL**:
@@ -55,5 +59,5 @@ table_mab_non_eua
   – &lt;5-fold reduced susceptibility;
   <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #7fcbee; color: black;">light blue</span>
   – 5 to 24.9-fold reduced susceptibility;
-  <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span> 
+  <span style="padding: .1rem .2rem; margin: 0 .2rem; border: 1px solid black; background-color: #146aa8; color: white;">dark blue</span>
   – ≥25-fold reduced susceptibility.
