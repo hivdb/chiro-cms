@@ -1,145 +1,145 @@
 - pattern: A372S+N439K+L452R+E484K+F490S+S494P+N501Y
   var_name: Alpha
-  num_ref_name: 188
-  cp: 3910
-  vp: 7270
-  mAbs phase3: 270
-  mAbs structure: 87
-  other mAbs: 290
-  all mAbs: 647
-  num_exp: 11827
-  var_type: VOC
-- pattern: K417K+K417N+K444E+G446V+L452R+E484K+E484Q+N501Y
-  var_name: Beta
-  num_ref_name: 225
-  cp: 4281
-  vp: 15361
+  num_ref_name: 194
+  cp: 4001
+  vp: 7571
   mAbs phase3: 274
-  mAbs structure: 84
-  other mAbs: 175
-  all mAbs: 533
-  num_exp: 20175
+  mAbs structure: 95
+  other mAbs: 300
+  all mAbs: 669
+  num_exp: 12241
   var_type: VOC
-- pattern: K417N+K444T+G446V+L452R+G476D+T478K+E484K+E484Q+F486S+N487D+N487K
+- pattern: K417N+K417K+K444E+G446V+L452R+E484K+E484Q+N501Y
+  var_name: Beta
+  num_ref_name: 234
+  cp: 4383
+  vp: 17514
+  mAbs phase3: 278
+  mAbs structure: 92
+  other mAbs: 185
+  all mAbs: 555
+  num_exp: 22452
+  var_type: VOC
+- pattern: K417N+K444T+G446V+L452R+G476D+T478K+E484K+E484Q+F486S+N487K+N487D
   var_name: Delta
-  num_ref_name: 170
-  cp: 2393
-  vp: 12806
-  mAbs phase3: 225
-  mAbs structure: 35
-  other mAbs: 102
-  all mAbs: 362
-  num_exp: 15561
+  num_ref_name: 178
+  cp: 2499
+  vp: 14703
+  mAbs phase3: 229
+  mAbs structure: 43
+  other mAbs: 112
+  all mAbs: 384
+  num_exp: 17586
   var_type: VOC
 - pattern: N354K+K417T+E484K+N501Y
   var_name: Gamma
-  num_ref_name: 121
-  cp: 1934
-  vp: 3916
-  mAbs phase3: 189
-  mAbs structure: 45
-  other mAbs: 119
-  all mAbs: 353
-  num_exp: 6203
+  num_ref_name: 125
+  cp: 2016
+  vp: 4002
+  mAbs phase3: 193
+  mAbs structure: 53
+  other mAbs: 129
+  all mAbs: 375
+  num_exp: 6393
   var_type: VOC
-- pattern: G339G+G339H+G339D+R346K+S371L+S371F+S371S+S373S+S373P+S375S+S375F+S375P+T376A+D405N+R408S+K417K+K417N+N440K+N440N+G446G+G446S+L452Q+L452R+L452M+N460K+S477S+S477N+T478K+T478T+E484E+E484A+F486V+Q493R+Q493K+Q493Q+G496S+G496G+Q498R+N501Y+Y505H
+- pattern: G339G+G339D+G339H+R346K+S371L+S371S+S371F+S373P+S373S+S375P+S375S+S375F+T376A+D405N+R408S+K417K+K417N+N440N+N440K+G446G+G446S+L452R+L452M+L452Q+N460K+S477N+S477S+T478K+T478T+E484A+E484E+F486V+Q493R+Q493Q+Q493K+G496S+G496G+Q498R+N501Y+Y505H
   var_name: Omicron
-  num_ref_name: 158
-  cp: 3264
-  vp: 17671
-  mAbs phase3: 1151
-  mAbs structure: 833
-  other mAbs: 7861
-  all mAbs: 9845
-  num_exp: 30780
+  num_ref_name: 167
+  cp: 3674
+  vp: 22904
+  mAbs phase3: 1184
+  mAbs structure: 843
+  other mAbs: 7872
+  all mAbs: 9899
+  num_exp: 36477
   var_type: VOC
 - pattern: L452R+E484K
   var_name: Epsilon
-  num_ref_name: 39
-  cp: 152
-  vp: 1025
-  mAbs phase3: 74
-  mAbs structure: 16
-  other mAbs: 63
-  all mAbs: 153
-  num_exp: 1330
+  num_ref_name: 42
+  cp: 234
+  vp: 1045
+  mAbs phase3: 76
+  mAbs structure: 20
+  other mAbs: 68
+  all mAbs: 164
+  num_exp: 1443
   var_type: VOI
 - pattern: E484K
   var_name: Eta
-  num_ref_name: 16
+  num_ref_name: 17
   cp: 92
-  vp: 243
+  vp: 263
   mAbs phase3: 8
   mAbs structure: 0
   other mAbs: 16
   all mAbs: 24
-  num_exp: 359
+  num_exp: 379
   var_type: VOI
-- pattern: S477N+E484K
+- pattern: L452R+S477N+E484K
   var_name: Iota
-  num_ref_name: 31
-  cp: 244
-  vp: 805
-  mAbs phase3: 91
-  mAbs structure: 16
-  other mAbs: 46
-  all mAbs: 153
-  num_exp: 1202
+  num_ref_name: 34
+  cp: 326
+  vp: 845
+  mAbs phase3: 93
+  mAbs structure: 20
+  other mAbs: 51
+  all mAbs: 164
+  num_exp: 1335
   var_type: VOI
 - pattern: V382L+L452R+E484Q
   var_name: Kappa
-  num_ref_name: 46
+  num_ref_name: 49
   cp: 329
-  vp: 1258
-  mAbs phase3: 64
-  mAbs structure: 6
-  other mAbs: 51
-  all mAbs: 121
-  num_exp: 1708
+  vp: 1332
+  mAbs phase3: 66
+  mAbs structure: 10
+  other mAbs: 56
+  all mAbs: 132
+  num_exp: 1793
   var_type: VOI
 - pattern: L452Q+E471Q+F490S
   var_name: Lambda
-  num_ref_name: 29
-  cp: 187
-  vp: 507
-  mAbs phase3: 23
-  mAbs structure: 2
-  other mAbs: 17
-  all mAbs: 42
-  num_exp: 736
+  num_ref_name: 32
+  cp: 269
+  vp: 547
+  mAbs phase3: 27
+  mAbs structure: 10
+  other mAbs: 27
+  all mAbs: 64
+  num_exp: 880
   var_type: VOI
 - pattern: R346K+K417N+L455F+L455L+E484K+N501Y
   var_name: Mu
-  num_ref_name: 27
-  cp: 180
-  vp: 431
-  mAbs phase3: 38
-  mAbs structure: 13
-  other mAbs: 2
-  all mAbs: 53
-  num_exp: 664
+  num_ref_name: 30
+  cp: 262
+  vp: 585
+  mAbs phase3: 42
+  mAbs structure: 21
+  other mAbs: 12
+  all mAbs: 75
+  num_exp: 922
   var_type: VOI
 - pattern: E484K+N501Y
   var_name: Theta
-  num_ref_name: 1
+  num_ref_name: 2
   cp: 0
-  vp: 27
+  vp: 47
   mAbs phase3: 0
   mAbs structure: 0
   other mAbs: 0
   all mAbs: 0
-  num_exp: 27
+  num_exp: 47
   var_type: VOI
 - pattern: E484K+E484Q
   var_name: Zeta
-  num_ref_name: 11
+  num_ref_name: 12
   cp: 219
-  vp: 185
+  vp: 205
   mAbs phase3: 11
   mAbs structure: 2
   other mAbs: 19
   all mAbs: 32
-  num_exp: 436
+  num_exp: 456
   var_type: VOI
 - pattern: L452R
   var_name: A.2.5(L452R)
@@ -319,14 +319,14 @@
   var_type: Other variants containing >=1 RBD mutation
 - pattern: N439K
   var_name: B.1.258(N439K)
-  num_ref_name: 1
+  num_ref_name: 2
   cp: 0
-  vp: 24
+  vp: 85
   mAbs phase3: 0
   mAbs structure: 0
   other mAbs: 0
   all mAbs: 0
-  num_exp: 24
+  num_exp: 85
   var_type: Other variants containing >=1 RBD mutation
 - pattern: P384L
   var_name: B.1.463(P384L)
@@ -374,14 +374,14 @@
   var_type: Other variants containing >=1 RBD mutation
 - pattern: L452R+T478Q+E484Q
   var_name: B.1.617.3(L452R+T478Q+E484Q)
-  num_ref_name: 4
+  num_ref_name: 6
   cp: 0
-  vp: 133
+  vp: 269
   mAbs phase3: 0
   mAbs structure: 0
   other mAbs: 0
   all mAbs: 0
-  num_exp: 133
+  num_exp: 269
   var_type: Other variants containing >=1 RBD mutation
 - pattern: E484K
   var_name: B.1.618(E484K)
@@ -460,16 +460,27 @@
   all mAbs: 1
   num_exp: 28
   var_type: Other variants containing >=1 RBD mutation
+- pattern: T307E+V308I+E309D+Q321S+T323S+E324K+S325E+I326V+R346T+A348P+N354E+A372T+P384A+T385I+T393S+I402V+R403K+E406D+K417V+T430M+I434L+S438T+N439R+L441I+S443A+K444T+V445S+G446S+Y449F+L452K+L455S+F456L+K458H+S459G+N460K+K462R+T470N+E471V+I472P+Y473F+Q474S+A475P+G476D+S477G+T478K+N481T+G482∆+V483P+E484P+G485A+F490W+Q493N+S494D+Q498Y+P499T+V503I+H519N+K529L+N532D+V534I
+  var_name: LYRa11(T307E+V308I+E309D+Q321S+T323S+E324K+S325E+I326V+R346T+A348P+N354E+A372T+P384A+T385I+T393S+I402V+R403K+E406D+K417V+T430M+I434L+S438T+N439R+L441I+S443A+K444T+V445S+G446S+Y449F+L452K+L455S+F456L+K458H+S459G+N460K+K462R+T470N+E471V+I472P+Y473F+Q474S+A475P+G476D+S477G+T478K+N481T+G482∆+V483P+E484P+G485A+F490W+Q493N+S494D+Q498Y+P499T+V503I+H519N+K529L+N532D+V534I)
+  num_ref_name: 1
+  cp: 0
+  vp: 0
+  mAbs phase3: 2
+  mAbs structure: 4
+  other mAbs: 5
+  all mAbs: 11
+  num_exp: 11
+  var_type: Other variants containing >=1 RBD mutation
 - pattern: E484K
   var_name: R.1(E484K)
-  num_ref_name: 6
+  num_ref_name: 8
   cp: 0
-  vp: 271
-  mAbs phase3: 3
-  mAbs structure: 0
-  other mAbs: 1
-  all mAbs: 4
-  num_exp: 275
+  vp: 305
+  mAbs phase3: 5
+  mAbs structure: 4
+  other mAbs: 6
+  all mAbs: 15
+  num_exp: 320
   var_type: Other variants containing >=1 RBD mutation
 - pattern: E484K
   var_name: R.2(E484K)
@@ -481,4 +492,48 @@
   other mAbs: 0
   all mAbs: 1
   num_exp: 1
+  var_type: Other variants containing >=1 RBD mutation
+- pattern: T307E+V308I+E309D+Q321A+T323S+E324K+S325E+I326V+R346T+A348P+N354E+V367I+A372T+P384A+T393S+I402V+R403K+E406D+K417V+T430L+I434L+S438T+N440S+L441K+K444S+V445T+G446S+L455W+F456V+K458R+N460K+K462N+F464Y+I468L+T470N+E471D+Q474S+A475P+S477G+T478Q+P479S+N481S+G482A+E484∆+F486P+F490N+Q493R+S494P+Q498F+P499T+N501A+Y505H+H519N+K529L+N532D+V534I
+  var_name: Rs4084(T307E+V308I+E309D+Q321A+T323S+E324K+S325E+I326V+R346T+A348P+N354E+V367I+A372T+P384A+T393S+I402V+R403K+E406D+K417V+T430L+I434L+S438T+N440S+L441K+K444S+V445T+G446S+L455W+F456V+K458R+N460K+K462N+F464Y+I468L+T470N+E471D+Q474S+A475P+S477G+T478Q+P479S+N481S+G482A+E484∆+F486P+F490N+Q493R+S494P+Q498F+P499T+N501A+Y505H+H519N+K529L+N532D+V534I)
+  num_ref_name: 1
+  cp: 0
+  vp: 0
+  mAbs phase3: 2
+  mAbs structure: 4
+  other mAbs: 5
+  all mAbs: 11
+  num_exp: 11
+  var_type: Other variants containing >=1 RBD mutation
+- pattern: T307E+V308I+E309D+Q321A+T323S+E324K+S325E+I326V+R346T+A348P+N354E+A372T+P384A+T393S+I402V+R403K+E406D+K417V+T430L+I434L+S438T+N440S+L441K+K444S+V445T+G446S+L455W+F456V+K458R+N460K+K462N+F464Y+I468L+T470N+E471D+Q474S+A475P+S477G+T478Q+P479S+N481S+G482A+V483I+E484∆+F486P+F490N+Q493R+S494P+Q498F+P499T+N501A+Y505H+H519N+K529L+N532D+V534I
+  var_name: Rs4231(T307E+V308I+E309D+Q321A+T323S+E324K+S325E+I326V+R346T+A348P+N354E+A372T+P384A+T393S+I402V+R403K+E406D+K417V+T430L+I434L+S438T+N440S+L441K+K444S+V445T+G446S+L455W+F456V+K458R+N460K+K462N+F464Y+I468L+T470N+E471D+Q474S+A475P+S477G+T478Q+P479S+N481S+G482A+V483I+E484∆+F486P+F490N+Q493R+S494P+Q498F+P499T+N501A+Y505H+H519N+K529L+N532D+V534I)
+  num_ref_name: 1
+  cp: 0
+  vp: 0
+  mAbs phase3: 2
+  mAbs structure: 4
+  other mAbs: 5
+  all mAbs: 11
+  num_exp: 11
+  var_type: Other variants containing >=1 RBD mutation
+- pattern: T307E+V308I+E309D+Q321A+T323S+E324K+S325E+I326V+R346T+A348P+N354E+A372T+P384A+T393S+I402V+R403K+E406D+K417V+T430M+I434L+S438T+N439R+L441I+S443A+K444T+V445S+G446T+L452K+L455S+F456L+K458H+S459G+N460K+K462R+T470N+E471V+I472P+Y473F+Q474S+A475P+G476D+S477G+T478K+N481T+G482∆+V483P+E484P+G485A+F490W+Q493N+S494D+Q498F+P499T+V503I+H519N+K529L+N532D+V534I
+  var_name: Rs7327(T307E+V308I+E309D+Q321A+T323S+E324K+S325E+I326V+R346T+A348P+N354E+A372T+P384A+T393S+I402V+R403K+E406D+K417V+T430M+I434L+S438T+N439R+L441I+S443A+K444T+V445S+G446T+L452K+L455S+F456L+K458H+S459G+N460K+K462R+T470N+E471V+I472P+Y473F+Q474S+A475P+G476D+S477G+T478K+N481T+G482∆+V483P+E484P+G485A+F490W+Q493N+S494D+Q498F+P499T+V503I+H519N+K529L+N532D+V534I)
+  num_ref_name: 1
+  cp: 0
+  vp: 0
+  mAbs phase3: 2
+  mAbs structure: 4
+  other mAbs: 5
+  all mAbs: 11
+  num_exp: 11
+  var_type: Other variants containing >=1 RBD mutation
+- pattern: T307E+V308I+E309D+Q321A+T323S+E324K+S325E+I326V+R346T+A348P+N354E+A372T+P384A+T393S+I402V+R403K+E406D+K417V+T430L+I434L+S438T+N440S+L441K+K444S+V445T+G446S+L455W+F456V+K458R+N460K+K462N+F464Y+I468L+T470N+E471D+Q474S+A475P+S477G+T478Q+P479S+N481S+G482A+E484∆+F486P+F490N+Q493R+S494P+Q498F+P499T+N501A+Y505H+H519N+K529L+N532D+V534I
+  var_name: SHC014(T307E+V308I+E309D+Q321A+T323S+E324K+S325E+I326V+R346T+A348P+N354E+A372T+P384A+T393S+I402V+R403K+E406D+K417V+T430L+I434L+S438T+N440S+L441K+K444S+V445T+G446S+L455W+F456V+K458R+N460K+K462N+F464Y+I468L+T470N+E471D+Q474S+A475P+S477G+T478Q+P479S+N481S+G482A+E484∆+F486P+F490N+Q493R+S494P+Q498F+P499T+N501A+Y505H+H519N+K529L+N532D+V534I)
+  num_ref_name: 1
+  cp: 0
+  vp: 0
+  mAbs phase3: 2
+  mAbs structure: 4
+  other mAbs: 5
+  all mAbs: 11
+  num_exp: 11
   var_type: Other variants containing >=1 RBD mutation

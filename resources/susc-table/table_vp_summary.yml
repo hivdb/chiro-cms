@@ -54,6 +54,15 @@
     vp_num_s_fold: 73
     vp_num_i_fold: 3
     vp_num_r_fold: 4
+  - name: Ad26.COV2.S + BNT162b2
+    vp_studies: 1
+    vp_num_fold: 82
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 82
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
   - name: BBIBP-CorV
     vp_studies: 1
     vp_num_fold: 19
@@ -73,12 +82,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: BNT162b2
-    vp_studies: 55
-    vp_num_fold: 1978
+    vp_studies: 58
+    vp_num_fold: 2137
     vp_s_fold: 97%
     vp_i_fold: 3%
     vp_r_fold: 0
-    vp_num_s_fold: 1913
+    vp_num_s_fold: 2072
     vp_num_i_fold: 59
     vp_num_r_fold: 6
   - name: CoronaVac
@@ -154,12 +163,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: mRNA
-    vp_studies: 9
-    vp_num_fold: 343
+    vp_studies: 10
+    vp_num_fold: 383
     vp_s_fold: 100%
     vp_i_fold: 0
     vp_r_fold: 0
-    vp_num_s_fold: 342
+    vp_num_s_fold: 382
     vp_num_i_fold: 1
     vp_num_r_fold: 0
   - name: mRNA-1273
@@ -227,6 +236,15 @@
     vp_num_s_fold: 151
     vp_num_i_fold: 49
     vp_num_r_fold: 64
+  - name: Ad26.COV2.S + BNT162b2
+    vp_studies: 1
+    vp_num_fold: 164
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 164
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
   - name: Ad26.COV2.S + mRNA-1273
     vp_studies: 1
     vp_num_fold: 38
@@ -264,13 +282,13 @@
     vp_num_i_fold: 1
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 86
-    vp_num_fold: 3719
-    vp_s_fold: 63%
-    vp_i_fold: 28%
+    vp_studies: 89
+    vp_num_fold: 4093
+    vp_s_fold: 65%
+    vp_i_fold: 26%
     vp_r_fold: 9%
-    vp_num_s_fold: 2339
-    vp_num_i_fold: 1026
+    vp_num_s_fold: 2662
+    vp_num_i_fold: 1077
     vp_num_r_fold: 354
   - name: BNT162b2 + MVB.1.351
     vp_studies: 1
@@ -309,14 +327,14 @@
     vp_num_i_fold: 20
     vp_num_r_fold: 0
   - name: CoronaVac
-    vp_studies: 6
-    vp_num_fold: 203
-    vp_s_fold: 17%
-    vp_i_fold: 75%
+    vp_studies: 7
+    vp_num_fold: 223
+    vp_s_fold: 22%
+    vp_i_fold: 70%
     vp_r_fold: 8%
-    vp_num_s_fold: 34
-    vp_num_i_fold: 153
-    vp_num_r_fold: 16
+    vp_num_s_fold: 48
+    vp_num_i_fold: 157
+    vp_num_r_fold: 18
   - name: INO-4800
     vp_studies: 1
     vp_num_fold: 13
@@ -345,13 +363,13 @@
     vp_num_i_fold: 18
     vp_num_r_fold: 11
   - name: NVX-CoV2373
-    vp_studies: 1
-    vp_num_fold: 23
-    vp_s_fold: 4%
-    vp_i_fold: 65%
-    vp_r_fold: 31%
+    vp_studies: 2
+    vp_num_fold: 100
+    vp_s_fold: 1%
+    vp_i_fold: 92%
+    vp_r_fold: 7%
     vp_num_s_fold: 1
-    vp_num_i_fold: 15
+    vp_num_i_fold: 92
     vp_num_r_fold: 7
   - name: Sputnik V
     vp_studies: 3
@@ -372,23 +390,68 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: ZF2001
+    vp_studies: 2
+    vp_num_fold: 64
+    vp_s_fold: 94%
+    vp_i_fold: 3%
+    vp_r_fold: 3%
+    vp_num_s_fold: 60
+    vp_num_i_fold: 2
+    vp_num_r_fold: 2
+  - name: mRNA
+    vp_studies: 14
+    vp_num_fold: 563
+    vp_s_fold: 63%
+    vp_i_fold: 36%
+    vp_r_fold: 1%
+    vp_num_s_fold: 354
+    vp_num_i_fold: 202
+    vp_num_r_fold: 7
+  - name: mRNA + mRNA-1273
     vp_studies: 1
-    vp_num_fold: 24
+    vp_num_fold: 194
     vp_s_fold: 100%
     vp_i_fold: 0
     vp_r_fold: 0
-    vp_num_s_fold: 24
+    vp_num_s_fold: 194
     vp_num_i_fold: 0
     vp_num_r_fold: 0
-  - name: mRNA
-    vp_studies: 13
-    vp_num_fold: 503
-    vp_s_fold: 66%
-    vp_i_fold: 32%
-    vp_r_fold: 2%
-    vp_num_s_fold: 334
-    vp_num_i_fold: 162
-    vp_num_r_fold: 7
+  - name: mRNA + mRNA-1273 + mRNA-1273.529
+    vp_studies: 1
+    vp_num_fold: 192
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 192
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
+  - name: mRNA + mRNA-1273.351 + mRNA-1273.529
+    vp_studies: 1
+    vp_num_fold: 396
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 396
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
+  - name: mRNA + mRNA-1273.529
+    vp_studies: 1
+    vp_num_fold: 192
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 192
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
+  - name: mRNA + mRNA-1273.617.2 + mRNA-1273.529
+    vp_studies: 1
+    vp_num_fold: 198
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 198
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
   - name: mRNA-1273
     vp_studies: 38
     vp_num_fold: 3615
@@ -446,12 +509,12 @@
     vp_num_i_fold: 5
     vp_num_r_fold: 10
   - name: BNT162b2
-    vp_studies: 35
-    vp_num_fold: 1123
+    vp_studies: 37
+    vp_num_fold: 1169
     vp_s_fold: 87%
     vp_i_fold: 12%
     vp_r_fold: 1%
-    vp_num_s_fold: 972
+    vp_num_s_fold: 1018
     vp_num_i_fold: 136
     vp_num_r_fold: 15
   - name: CoronaVac
@@ -500,12 +563,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: mRNA
-    vp_studies: 5
-    vp_num_fold: 136
-    vp_s_fold: 87%
-    vp_i_fold: 12%
-    vp_r_fold: 1%
-    vp_num_s_fold: 118
+    vp_studies: 6
+    vp_num_fold: 176
+    vp_s_fold: 90%
+    vp_i_fold: 10%
+    vp_r_fold: 0
+    vp_num_s_fold: 158
     vp_num_i_fold: 17
     vp_num_r_fold: 1
   - name: mRNA-1273
@@ -592,12 +655,12 @@
     vp_num_i_fold: 40
     vp_num_r_fold: 29
   - name: Ad26.COV2.S + BNT162b2
-    vp_studies: 1
-    vp_num_fold: 12
+    vp_studies: 2
+    vp_num_fold: 94
     vp_s_fold: 100%
     vp_i_fold: 0
     vp_r_fold: 0
-    vp_num_s_fold: 12
+    vp_num_s_fold: 94
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: Ad26.COV2.S + mRNA-1273
@@ -637,13 +700,13 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 65
-    vp_num_fold: 3205
-    vp_s_fold: 85%
-    vp_i_fold: 13%
-    vp_r_fold: 2%
-    vp_num_s_fold: 2725
-    vp_num_i_fold: 421
+    vp_studies: 69
+    vp_num_fold: 3617
+    vp_s_fold: 84%
+    vp_i_fold: 15%
+    vp_r_fold: 1%
+    vp_num_s_fold: 3024
+    vp_num_i_fold: 534
     vp_num_r_fold: 59
   - name: BNT162b2 + CoronaVac
     vp_studies: 1
@@ -736,14 +799,59 @@
     vp_num_i_fold: 37
     vp_num_r_fold: 54
   - name: mRNA
-    vp_studies: 16
-    vp_num_fold: 667
-    vp_s_fold: 84%
-    vp_i_fold: 16%
-    vp_r_fold: 0
-    vp_num_s_fold: 557
+    vp_studies: 18
+    vp_num_fold: 735
+    vp_s_fold: 85%
+    vp_i_fold: 14%
+    vp_r_fold: 1%
+    vp_num_s_fold: 625
     vp_num_i_fold: 105
     vp_num_r_fold: 5
+  - name: mRNA + mRNA-1273
+    vp_studies: 1
+    vp_num_fold: 194
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 194
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
+  - name: mRNA + mRNA-1273 + mRNA-1273.529
+    vp_studies: 1
+    vp_num_fold: 192
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 192
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
+  - name: mRNA + mRNA-1273.351 + mRNA-1273.529
+    vp_studies: 1
+    vp_num_fold: 396
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 396
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
+  - name: mRNA + mRNA-1273.529
+    vp_studies: 1
+    vp_num_fold: 192
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 192
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
+  - name: mRNA + mRNA-1273.617.2 + mRNA-1273.529
+    vp_studies: 1
+    vp_num_fold: 198
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 198
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
   - name: mRNA-1273
     vp_studies: 27
     vp_num_fold: 1608
@@ -882,14 +990,14 @@
     vp_num_i_fold: 13
     vp_num_r_fold: 40
   - name: BNT162b2
-    vp_studies: 56
-    vp_num_fold: 3228
+    vp_studies: 58
+    vp_num_fold: 3519
     vp_s_fold: 24%
-    vp_i_fold: 47%
-    vp_r_fold: 29%
-    vp_num_s_fold: 781
-    vp_num_i_fold: 1505
-    vp_num_r_fold: 942
+    vp_i_fold: 49%
+    vp_r_fold: 27%
+    vp_num_s_fold: 836
+    vp_num_i_fold: 1729
+    vp_num_r_fold: 954
   - name: BNT162b2 + CoronaVac
     vp_studies: 6
     vp_num_fold: 258
@@ -954,14 +1062,14 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: NVX-CoV2373
-    vp_studies: 1
-    vp_num_fold: 9
+    vp_studies: 2
+    vp_num_fold: 86
     vp_s_fold: 0
-    vp_i_fold: 0
-    vp_r_fold: 100%
+    vp_i_fold: 56%
+    vp_r_fold: 44%
     vp_num_s_fold: 0
-    vp_num_i_fold: 0
-    vp_num_r_fold: 9
+    vp_num_i_fold: 48
+    vp_num_r_fold: 38
   - name: Sputnik Light + Sputnik V
     vp_studies: 1
     vp_num_fold: 6
@@ -999,21 +1107,66 @@
     vp_num_i_fold: 12
     vp_num_r_fold: 0
   - name: mRNA
-    vp_studies: 17
-    vp_num_fold: 550
-    vp_s_fold: 34%
-    vp_i_fold: 47%
-    vp_r_fold: 19%
+    vp_studies: 18
+    vp_num_fold: 590
+    vp_s_fold: 31%
+    vp_i_fold: 46%
+    vp_r_fold: 23%
     vp_num_s_fold: 185
-    vp_num_i_fold: 259
-    vp_num_r_fold: 106
+    vp_num_i_fold: 269
+    vp_num_r_fold: 136
+  - name: mRNA + mRNA-1273
+    vp_studies: 1
+    vp_num_fold: 214
+    vp_s_fold: 9%
+    vp_i_fold: 91%
+    vp_r_fold: 0
+    vp_num_s_fold: 20
+    vp_num_i_fold: 194
+    vp_num_r_fold: 0
+  - name: mRNA + mRNA-1273 + mRNA-1273.529
+    vp_studies: 1
+    vp_num_fold: 214
+    vp_s_fold: 20%
+    vp_i_fold: 80%
+    vp_r_fold: 0
+    vp_num_s_fold: 42
+    vp_num_i_fold: 172
+    vp_num_r_fold: 0
+  - name: mRNA + mRNA-1273.351 + mRNA-1273.529
+    vp_studies: 1
+    vp_num_fold: 417
+    vp_s_fold: 53%
+    vp_i_fold: 47%
+    vp_r_fold: 0
+    vp_num_s_fold: 219
+    vp_num_i_fold: 198
+    vp_num_r_fold: 0
+  - name: mRNA + mRNA-1273.529
+    vp_studies: 1
+    vp_num_fold: 192
+    vp_s_fold: 50%
+    vp_i_fold: 50%
+    vp_r_fold: 0
+    vp_num_s_fold: 96
+    vp_num_i_fold: 96
+    vp_num_r_fold: 0
+  - name: mRNA + mRNA-1273.617.2 + mRNA-1273.529
+    vp_studies: 1
+    vp_num_fold: 222
+    vp_s_fold: 18%
+    vp_i_fold: 82%
+    vp_r_fold: 0
+    vp_num_s_fold: 40
+    vp_num_i_fold: 182
+    vp_num_r_fold: 0
   - name: mRNA-1273
-    vp_studies: 20
-    vp_num_fold: 1611
-    vp_s_fold: 65%
-    vp_i_fold: 23%
-    vp_r_fold: 12%
-    vp_num_s_fold: 1045
+    vp_studies: 21
+    vp_num_fold: 2755
+    vp_s_fold: 79%
+    vp_i_fold: 14%
+    vp_r_fold: 7%
+    vp_num_s_fold: 2189
     vp_num_i_fold: 372
     vp_num_r_fold: 194
   - name: mRNA-1273 + mRNA-1273.211
@@ -1023,6 +1176,15 @@
     vp_i_fold: 0
     vp_r_fold: 0
     vp_num_s_fold: 1184
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
+  - name: mRNA-1273 + mRNA-1273.214
+    vp_studies: 1
+    vp_num_fold: 428
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 428
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: mRNA-1273.529
@@ -1109,13 +1271,13 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 18
   - name: BNT162b2
-    vp_studies: 14
-    vp_num_fold: 524
-    vp_s_fold: 32%
-    vp_i_fold: 60%
-    vp_r_fold: 8%
-    vp_num_s_fold: 167
-    vp_num_i_fold: 315
+    vp_studies: 16
+    vp_num_fold: 727
+    vp_s_fold: 35%
+    vp_i_fold: 59%
+    vp_r_fold: 6%
+    vp_num_s_fold: 257
+    vp_num_i_fold: 428
     vp_num_r_fold: 42
   - name: BNT162b2 + CoronaVac
     vp_studies: 1
@@ -1228,12 +1390,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: mRNA
-    vp_studies: 1
-    vp_num_fold: 15
-    vp_s_fold: 87%
-    vp_i_fold: 7%
-    vp_r_fold: 6%
-    vp_num_s_fold: 13
+    vp_studies: 2
+    vp_num_fold: 55
+    vp_s_fold: 96%
+    vp_i_fold: 2%
+    vp_r_fold: 2%
+    vp_num_s_fold: 53
     vp_num_i_fold: 1
     vp_num_r_fold: 1
   - name: mRNA-1273
@@ -1301,6 +1463,15 @@
     vp_num_s_fold: 19
     vp_num_i_fold: 4
     vp_num_r_fold: 0
+  - name: mRNA
+    vp_studies: 1
+    vp_num_fold: 20
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 20
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
   - name: mRNA-1273
     vp_studies: 11
     vp_num_fold: 299
@@ -1349,12 +1520,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: BNT162b2
-    vp_studies: 10
-    vp_num_fold: 222
-    vp_s_fold: 68%
-    vp_i_fold: 32%
-    vp_r_fold: 0
-    vp_num_s_fold: 150
+    vp_studies: 11
+    vp_num_fold: 256
+    vp_s_fold: 72%
+    vp_i_fold: 27%
+    vp_r_fold: 1%
+    vp_num_s_fold: 184
     vp_num_i_fold: 70
     vp_num_r_fold: 2
   - name: CoronaVac
@@ -1376,12 +1547,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 5
   - name: mRNA
-    vp_studies: 1
-    vp_num_fold: 15
-    vp_s_fold: 87%
-    vp_i_fold: 7%
-    vp_r_fold: 6%
-    vp_num_s_fold: 13
+    vp_studies: 2
+    vp_num_fold: 55
+    vp_s_fold: 96%
+    vp_i_fold: 2%
+    vp_r_fold: 2%
+    vp_num_s_fold: 53
     vp_num_i_fold: 1
     vp_num_r_fold: 1
   - name: mRNA-1273
@@ -1413,6 +1584,15 @@
     vp_num_s_fold: 63
     vp_num_i_fold: 0
     vp_num_r_fold: 0
+  - name: CoronaVac
+    vp_studies: 1
+    vp_num_fold: 10
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 10
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
   - name: Inactivated
     vp_studies: 1
     vp_num_fold: 30
@@ -1429,6 +1609,15 @@
     vp_i_fold: 0
     vp_r_fold: 0
     vp_num_s_fold: 10
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
+  - name: ZF2001
+    vp_studies: 1
+    vp_num_fold: 20
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 20
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: mRNA
@@ -1460,6 +1649,15 @@
     vp_num_s_fold: 85
     vp_num_i_fold: 14
     vp_num_r_fold: 1
+  - name: CoronaVac
+    vp_studies: 1
+    vp_num_fold: 10
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 10
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
   - name: KCONVAC
     vp_studies: 1
     vp_num_fold: 10
@@ -1478,6 +1676,15 @@
     vp_num_s_fold: 3
     vp_num_i_fold: 1
     vp_num_r_fold: 3
+  - name: ZF2001
+    vp_studies: 1
+    vp_num_fold: 20
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 20
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
   - name: mRNA
     vp_studies: 1
     vp_num_fold: 40
@@ -1488,12 +1695,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: mRNA-1273
-    vp_studies: 5
-    vp_num_fold: 93
+    vp_studies: 6
+    vp_num_fold: 99
     vp_s_fold: 98%
     vp_i_fold: 2%
     vp_r_fold: 0
-    vp_num_s_fold: 91
+    vp_num_s_fold: 97
     vp_num_i_fold: 2
     vp_num_r_fold: 0
 - variant: K417N
@@ -1505,6 +1712,15 @@
     vp_i_fold: 0
     vp_r_fold: 0
     vp_num_s_fold: 78
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
+  - name: CoronaVac
+    vp_studies: 1
+    vp_num_fold: 10
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 10
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: Inactivated
@@ -1525,13 +1741,22 @@
     vp_num_s_fold: 10
     vp_num_i_fold: 0
     vp_num_r_fold: 0
-  - name: mRNA-1273
-    vp_studies: 5
-    vp_num_fold: 49
+  - name: ZF2001
+    vp_studies: 1
+    vp_num_fold: 20
     vp_s_fold: 100%
     vp_i_fold: 0
     vp_r_fold: 0
-    vp_num_s_fold: 49
+    vp_num_s_fold: 20
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
+  - name: mRNA-1273
+    vp_studies: 6
+    vp_num_fold: 55
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 55
     vp_num_i_fold: 0
     vp_num_r_fold: 0
 - variant: L452R
