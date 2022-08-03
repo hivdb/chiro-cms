@@ -34,9 +34,12 @@
 - variant: Omicron/BA.2
   num_ref_name: 5
   num_fold: 6200
+- variant: Omicron/BA.4
+  num_ref_name: 1
+  num_fold: 130
 - variant: Unknown variant
-  num_ref_name: 23
-  num_fold: 3510
+  num_ref_name: 24
+  num_fold: 3530
 - variant: Zeta
   num_ref_name: 1
   num_fold: 616

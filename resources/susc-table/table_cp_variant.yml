@@ -9,17 +9,17 @@
 - pattern: Beta
   var_name: Beta
   median_fold: 4.0
-  num_ref_name: 103
-  num_fold: 4383
-  S: 2653
+  num_ref_name: 104
+  num_fold: 4396
+  S: 2666
   I: 1463
   R: 261
 - pattern: Delta
   var_name: Delta
   median_fold: 2.0
-  num_ref_name: 62
-  num_fold: 2499
-  S: 2167
+  num_ref_name: 63
+  num_fold: 2512
+  S: 2180
   I: 301
   R: 16
 - pattern: Gamma
@@ -33,11 +33,11 @@
 - pattern: Omicron/BA.1
   var_name: Omicron/BA.1
   median_fold: 11.0
-  num_ref_name: 60
-  num_fold: 2476
-  S: 631
+  num_ref_name: 62
+  num_fold: 2499
+  S: 644
   I: 1296
-  R: 493
+  R: 503
 - pattern: Omicron/BA.1.1
   var_name: Omicron/BA.1.1
   median_fold: 21.0
@@ -48,10 +48,10 @@
   R: 110
 - pattern: Omicron/BA.2
   var_name: Omicron/BA.2
-  median_fold: 3.7
-  num_ref_name: 18
-  num_fold: 521
-  S: 278
+  median_fold: 3.5
+  num_ref_name: 19
+  num_fold: 534
+  S: 291
   I: 154
   R: 81
 - pattern: Omicron/BA.2.12.1
@@ -89,9 +89,9 @@
 - pattern: Omicron/BA.4
   var_name: Omicron/BA.4
   median_fold: 7.6
-  num_ref_name: 5
-  num_fold: 180
-  S: 78
+  num_ref_name: 6
+  num_fold: 193
+  S: 91
   I: 50
   R: 51
 - pattern: Omicron/BA.5
@@ -113,9 +113,9 @@
 - pattern: other variants
   var_name: other variants
   median_fold: 2.7
-  num_ref_name: 37
-  num_fold: 1840
-  S: 1265
+  num_ref_name: 38
+  num_fold: 1850
+  S: 1275
   I: 382
   R: 190
 - pattern: Individual mutations and mutation combinations
