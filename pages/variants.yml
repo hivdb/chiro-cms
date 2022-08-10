@@ -2,7 +2,7 @@
 pageTitle: SARS-CoV-2 Variants
 introHeader: |-
   SARS-CoV-2 Variants
-drdbVersion: "20220803-slim"
+drdbVersion: "20220810-slim"
 regionPresets:
   presets:
     - name: spike
