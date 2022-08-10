@@ -1,7 +1,7 @@
 - test: WT
   BNT162b2_1:
-    geomean: 2498.0
-    num_ref_name: 50
+    geomean: 2525.0
+    num_ref_name: 52
   BNT162b2_2:
     geomean: 881.0
     num_ref_name: 3
@@ -365,8 +365,8 @@
     num_ref_name: 0
 - test: BA.1
   BNT162b2_1:
-    geomean: 330.0
-    num_ref_name: 48
+    geomean: 331.0
+    num_ref_name: 50
   BNT162b2_2:
     geomean: 58.0
     num_ref_name: 5
@@ -511,8 +511,8 @@
     num_ref_name: 0
 - test: BA.2
   BNT162b2_1:
-    geomean: 345.0
-    num_ref_name: 14
+    geomean: 344.0
+    num_ref_name: 16
   BNT162b2_2:
     geomean: ''
     num_ref_name: 0
@@ -584,8 +584,8 @@
     num_ref_name: 0
 - test: BA.2.12.1
   BNT162b2_1:
-    geomean: 406.0
-    num_ref_name: 4
+    geomean: 396.0
+    num_ref_name: 5
   BNT162b2_2:
     geomean: ''
     num_ref_name: 0
@@ -730,8 +730,8 @@
     num_ref_name: 0
 - test: BA.4/5
   BNT162b2_1:
-    geomean: 271.0
-    num_ref_name: 6
+    geomean: 268.0
+    num_ref_name: 7
   BNT162b2_2:
     geomean: 667.0
     num_ref_name: 1

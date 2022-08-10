@@ -32,11 +32,11 @@
   num_ref_name: 3
   cp: 0
   vp: 0
-  mAbs phase3: 32
+  mAbs phase3: 33
   mAbs structure: 12
   other mAbs: 5
-  all mAbs: 49
-  num_exp: 49
+  all mAbs: 50
+  num_exp: 50
 - pattern: S371L
   ref: S
   position: 371
@@ -84,11 +84,11 @@
   num_ref_name: 3
   cp: 0
   vp: 0
-  mAbs phase3: 32
+  mAbs phase3: 33
   mAbs structure: 12
   other mAbs: 5
-  all mAbs: 49
-  num_exp: 49
+  all mAbs: 50
+  num_exp: 50
 - pattern: D405N
   ref: D
   position: 405
@@ -97,11 +97,11 @@
   num_ref_name: 3
   cp: 0
   vp: 0
-  mAbs phase3: 31
+  mAbs phase3: 32
   mAbs structure: 12
   other mAbs: 5
-  all mAbs: 48
-  num_exp: 48
+  all mAbs: 49
+  num_exp: 49
 - pattern: R408S
   ref: R
   position: 408
@@ -110,24 +110,24 @@
   num_ref_name: 3
   cp: 0
   vp: 0
-  mAbs phase3: 32
+  mAbs phase3: 33
   mAbs structure: 12
   other mAbs: 5
-  all mAbs: 49
-  num_exp: 49
+  all mAbs: 50
+  num_exp: 50
 - pattern: K417N
   ref: K
   position: 417
   aa: N
   domain: RBD
-  num_ref_name: 34
+  num_ref_name: 35
   cp: 216
   vp: 237
-  mAbs phase3: 106
+  mAbs phase3: 109
   mAbs structure: 62
   other mAbs: 153
-  all mAbs: 321
-  num_exp: 774
+  all mAbs: 324
+  num_exp: 777
 - pattern: N439K
   ref: N
   position: 439
@@ -276,14 +276,14 @@
   position: 484
   aa: K
   domain: RBD
-  num_ref_name: 52
+  num_ref_name: 53
   cp: 358
   vp: 316
-  mAbs phase3: 101
+  mAbs phase3: 104
   mAbs structure: 61
   other mAbs: 163
-  all mAbs: 325
-  num_exp: 999
+  all mAbs: 328
+  num_exp: 1002
 - pattern: F486V
   ref: F
   position: 486
@@ -341,14 +341,14 @@
   position: 501
   aa: Y
   domain: RBD
-  num_ref_name: 47
+  num_ref_name: 48
   cp: 404
   vp: 372
-  mAbs phase3: 126
+  mAbs phase3: 129
   mAbs structure: 67
   other mAbs: 189
-  all mAbs: 382
-  num_exp: 1158
+  all mAbs: 385
+  num_exp: 1161
 - pattern: other
   position: 10000
   domain: RBD

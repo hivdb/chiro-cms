@@ -1,57 +1,57 @@
 - pattern: A372S+N439K+L452R+E484K+F490S+S494P+N501Y
   var_name: Alpha
-  num_ref_name: 194
-  cp: 4001
-  vp: 7590
-  mAbs phase3: 274
+  num_ref_name: 196
+  cp: 4047
+  vp: 8038
+  mAbs phase3: 277
   mAbs structure: 95
   other mAbs: 300
-  all mAbs: 669
-  num_exp: 12260
+  all mAbs: 672
+  num_exp: 12757
   var_type: VOC
-- pattern: K417K+K417N+K444E+G446V+L452R+E484K+E484Q+N501Y
+- pattern: K417N+K417K+K444E+G446V+L452R+E484Q+E484K+N501Y
   var_name: Beta
-  num_ref_name: 236
-  cp: 4396
-  vp: 17577
+  num_ref_name: 237
+  cp: 4412
+  vp: 18047
   mAbs phase3: 308
   mAbs structure: 92
   other mAbs: 191
   all mAbs: 591
-  num_exp: 22564
+  num_exp: 23050
   var_type: VOC
-- pattern: K417N+K444T+G446V+L452R+G476D+T478K+E484K+E484Q+F486S+N487K+N487D
+- pattern: K417N+K444T+G446V+L452R+G476D+T478K+E484Q+E484K+F486S+N487K+N487D
   var_name: Delta
-  num_ref_name: 183
-  cp: 2512
-  vp: 14992
-  mAbs phase3: 269
+  num_ref_name: 185
+  cp: 2558
+  vp: 15320
+  mAbs phase3: 270
   mAbs structure: 78
   other mAbs: 122
-  all mAbs: 469
-  num_exp: 17973
+  all mAbs: 470
+  num_exp: 18348
   var_type: VOC
 - pattern: N354K+K417T+E484K+N501Y
   var_name: Gamma
-  num_ref_name: 125
-  cp: 2016
-  vp: 4002
+  num_ref_name: 126
+  cp: 2062
+  vp: 4448
   mAbs phase3: 193
   mAbs structure: 53
   other mAbs: 129
   all mAbs: 375
-  num_exp: 6393
+  num_exp: 6885
   var_type: VOC
-- pattern: G339D+G339G+G339H+R346K+S371L+S371S+S371F+S373S+S373P+S375F+S375P+S375S+T376A+D405N+R408S+K417K+K417T+K417N+N440N+N440K+G446G+G446S+L452R+L452M+L452Q+N460K+S477N+S477S+T478K+T478T+E484A+E484E+F486V+Q493R+Q493Q+Q493K+G496S+G496G+Q498R+N501Y+Y505H
+- pattern: G339D+G339G+G339H+R346K+S371L+S371F+S371S+S373S+S373P+S375F+S375S+S375P+T376A+D405N+R408S+K417K+K417T+K417N+N440N+N440K+G446S+G446G+L452R+L452M+L452Q+N460K+S477S+S477N+T478K+T478T+E484A+E484E+F486V+Q493Q+Q493K+Q493R+G496S+G496G+Q498R+N501Y+Y505H
   var_name: Omicron
-  num_ref_name: 178
-  cp: 3723
-  vp: 26125
-  mAbs phase3: 1469
-  mAbs structure: 1018
+  num_ref_name: 180
+  cp: 3763
+  vp: 26268
+  mAbs phase3: 1531
+  mAbs structure: 1024
   other mAbs: 7932
-  all mAbs: 10419
-  num_exp: 40267
+  all mAbs: 10487
+  num_exp: 40518
   var_type: VOC
 - pattern: L452R+E484K
   var_name: Epsilon
@@ -77,14 +77,14 @@
   var_type: VOI
 - pattern: L452R+S477N+E484K
   var_name: Iota
-  num_ref_name: 34
-  cp: 326
-  vp: 845
+  num_ref_name: 35
+  cp: 342
+  vp: 1315
   mAbs phase3: 93
   mAbs structure: 20
   other mAbs: 51
   all mAbs: 164
-  num_exp: 1335
+  num_exp: 1821
   var_type: VOI
 - pattern: V382L+L452R+E484Q
   var_name: Kappa
@@ -100,13 +100,13 @@
 - pattern: L452Q+E471Q+F490S
   var_name: Lambda
   num_ref_name: 32
-  cp: 269
-  vp: 547
+  cp: 299
+  vp: 523
   mAbs phase3: 27
   mAbs structure: 10
   other mAbs: 27
   all mAbs: 64
-  num_exp: 880
+  num_exp: 886
   var_type: VOI
 - pattern: R346K+K417N+L455F+L455L+E484K+N501Y
   var_name: Mu
@@ -130,7 +130,7 @@
   all mAbs: 0
   num_exp: 47
   var_type: VOI
-- pattern: E484Q+E484K
+- pattern: E484K+E484Q
   var_name: Zeta
   num_ref_name: 12
   cp: 219

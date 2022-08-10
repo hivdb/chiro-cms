@@ -64,14 +64,14 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: BBIBP-CorV
-    vp_studies: 1
-    vp_num_fold: 19
-    vp_s_fold: 84%
-    vp_i_fold: 0
+    vp_studies: 2
+    vp_num_fold: 489
+    vp_s_fold: 67%
+    vp_i_fold: 17%
     vp_r_fold: 16%
-    vp_num_s_fold: 16
-    vp_num_i_fold: 0
-    vp_num_r_fold: 3
+    vp_num_s_fold: 329
+    vp_num_i_fold: 82
+    vp_num_r_fold: 78
   - name: BBV152
     vp_studies: 3
     vp_num_fold: 106
@@ -87,18 +87,18 @@
     vp_s_fold: 97%
     vp_i_fold: 3%
     vp_r_fold: 0
-    vp_num_s_fold: 2072
-    vp_num_i_fold: 59
+    vp_num_s_fold: 2071
+    vp_num_i_fold: 60
     vp_num_r_fold: 6
   - name: CoronaVac
     vp_studies: 7
-    vp_num_fold: 318
-    vp_s_fold: 83%
-    vp_i_fold: 14%
+    vp_num_fold: 295
+    vp_s_fold: 84%
+    vp_i_fold: 13%
     vp_r_fold: 3%
-    vp_num_s_fold: 264
-    vp_num_i_fold: 44
-    vp_num_r_fold: 10
+    vp_num_s_fold: 247
+    vp_num_i_fold: 39
+    vp_num_r_fold: 9
   - name: INO-4800
     vp_studies: 1
     vp_num_fold: 13
@@ -255,14 +255,14 @@
     vp_num_i_fold: 38
     vp_num_r_fold: 0
   - name: BBIBP-CorV
-    vp_studies: 3
-    vp_num_fold: 93
-    vp_s_fold: 75%
-    vp_i_fold: 11%
-    vp_r_fold: 14%
-    vp_num_s_fold: 70
-    vp_num_i_fold: 10
-    vp_num_r_fold: 13
+    vp_studies: 4
+    vp_num_fold: 563
+    vp_s_fold: 28%
+    vp_i_fold: 17%
+    vp_r_fold: 55%
+    vp_num_s_fold: 156
+    vp_num_i_fold: 94
+    vp_num_r_fold: 313
   - name: BBIBP-CorV + ZF2001
     vp_studies: 1
     vp_num_fold: 20
@@ -508,24 +508,33 @@
     vp_num_s_fold: 106
     vp_num_i_fold: 5
     vp_num_r_fold: 10
+  - name: BBIBP-CorV
+    vp_studies: 1
+    vp_num_fold: 470
+    vp_s_fold: 58%
+    vp_i_fold: 16%
+    vp_r_fold: 26%
+    vp_num_s_fold: 272
+    vp_num_i_fold: 74
+    vp_num_r_fold: 124
   - name: BNT162b2
     vp_studies: 37
-    vp_num_fold: 1169
+    vp_num_fold: 1167
     vp_s_fold: 87%
     vp_i_fold: 12%
     vp_r_fold: 1%
-    vp_num_s_fold: 1018
-    vp_num_i_fold: 136
+    vp_num_s_fold: 1013
+    vp_num_i_fold: 139
     vp_num_r_fold: 15
   - name: CoronaVac
     vp_studies: 6
-    vp_num_fold: 320
-    vp_s_fold: 68%
+    vp_num_fold: 297
+    vp_s_fold: 66%
     vp_i_fold: 18%
-    vp_r_fold: 14%
-    vp_num_s_fold: 217
-    vp_num_i_fold: 58
-    vp_num_r_fold: 45
+    vp_r_fold: 16%
+    vp_num_s_fold: 196
+    vp_num_i_fold: 53
+    vp_num_r_fold: 48
   - name: INO-4800
     vp_studies: 1
     vp_num_fold: 13
@@ -673,14 +682,14 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: BBIBP-CorV
-    vp_studies: 1
-    vp_num_fold: 50
-    vp_s_fold: 100%
-    vp_i_fold: 0
-    vp_r_fold: 0
-    vp_num_s_fold: 50
-    vp_num_i_fold: 0
-    vp_num_r_fold: 0
+    vp_studies: 2
+    vp_num_fold: 270
+    vp_s_fold: 41%
+    vp_i_fold: 8%
+    vp_r_fold: 51%
+    vp_num_s_fold: 110
+    vp_num_i_fold: 21
+    vp_num_r_fold: 139
   - name: BBIBP-CorV + ZF2001
     vp_studies: 1
     vp_num_fold: 20
@@ -692,21 +701,21 @@
     vp_num_r_fold: 0
   - name: BBV152
     vp_studies: 4
-    vp_num_fold: 110
+    vp_num_fold: 109
     vp_s_fold: 96%
     vp_i_fold: 0
     vp_r_fold: 4%
-    vp_num_s_fold: 106
+    vp_num_s_fold: 105
     vp_num_i_fold: 0
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 72
-    vp_num_fold: 3742
+    vp_studies: 73
+    vp_num_fold: 3798
     vp_s_fold: 84%
     vp_i_fold: 14%
     vp_r_fold: 2%
-    vp_num_s_fold: 3149
-    vp_num_i_fold: 534
+    vp_num_s_fold: 3193
+    vp_num_i_fold: 546
     vp_num_r_fold: 59
   - name: BNT162b2 + CoronaVac
     vp_studies: 1
@@ -754,14 +763,14 @@
     vp_num_i_fold: 20
     vp_num_r_fold: 0
   - name: CoronaVac
-    vp_studies: 6
-    vp_num_fold: 369
-    vp_s_fold: 73%
+    vp_studies: 7
+    vp_num_fold: 421
+    vp_s_fold: 71%
     vp_i_fold: 27%
-    vp_r_fold: 0
-    vp_num_s_fold: 269
-    vp_num_i_fold: 100
-    vp_num_r_fold: 0
+    vp_r_fold: 2%
+    vp_num_s_fold: 298
+    vp_num_i_fold: 114
+    vp_num_r_fold: 9
   - name: CoronaVac or BBIBP-CorV
     vp_studies: 1
     vp_num_fold: 200
@@ -885,11 +894,11 @@
     vp_studies: 15
     vp_num_fold: 336
     vp_s_fold: 3%
-    vp_i_fold: 74%
-    vp_r_fold: 23%
+    vp_i_fold: 68%
+    vp_r_fold: 29%
     vp_num_s_fold: 10
-    vp_num_i_fold: 249
-    vp_num_r_fold: 77
+    vp_num_i_fold: 229
+    vp_num_r_fold: 97
   - name: AZD1222 + BNT162b2
     vp_studies: 8
     vp_num_fold: 262
@@ -982,22 +991,22 @@
     vp_num_r_fold: 0
   - name: BBV152
     vp_studies: 2
-    vp_num_fold: 53
+    vp_num_fold: 52
     vp_s_fold: 0
     vp_i_fold: 25%
     vp_r_fold: 75%
     vp_num_s_fold: 0
     vp_num_i_fold: 13
-    vp_num_r_fold: 40
+    vp_num_r_fold: 39
   - name: BNT162b2
-    vp_studies: 62
-    vp_num_fold: 3664
+    vp_studies: 64
+    vp_num_fold: 3716
     vp_s_fold: 23%
     vp_i_fold: 49%
     vp_r_fold: 28%
-    vp_num_s_fold: 845
-    vp_num_i_fold: 1806
-    vp_num_r_fold: 1013
+    vp_num_s_fold: 866
+    vp_num_i_fold: 1826
+    vp_num_r_fold: 1024
   - name: BNT162b2 + CoronaVac
     vp_studies: 6
     vp_num_fold: 258
@@ -1298,14 +1307,14 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 18
   - name: BNT162b2
-    vp_studies: 17
-    vp_num_fold: 736
+    vp_studies: 19
+    vp_num_fold: 788
     vp_s_fold: 36%
-    vp_i_fold: 58%
-    vp_r_fold: 6%
-    vp_num_s_fold: 266
-    vp_num_i_fold: 428
-    vp_num_r_fold: 42
+    vp_i_fold: 57%
+    vp_r_fold: 7%
+    vp_num_s_fold: 286
+    vp_num_i_fold: 446
+    vp_num_r_fold: 56
   - name: BNT162b2 + CoronaVac
     vp_studies: 2
     vp_num_fold: 161
@@ -1425,6 +1434,15 @@
     vp_num_r_fold: 0
 - variant: Iota
   vaccine:
+  - name: BBIBP-CorV
+    vp_studies: 1
+    vp_num_fold: 470
+    vp_s_fold: 45%
+    vp_i_fold: 26%
+    vp_r_fold: 29%
+    vp_num_s_fold: 211
+    vp_num_i_fold: 122
+    vp_num_r_fold: 137
   - name: BNT162b2
     vp_studies: 8
     vp_num_fold: 151
