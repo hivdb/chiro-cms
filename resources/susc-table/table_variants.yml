@@ -1,57 +1,57 @@
 - pattern: A372S+N439K+L452R+E484K+F490S+S494P+N501Y
   var_name: Alpha
-  num_ref_name: 196
-  cp: 4047
-  vp: 8038
-  mAbs phase3: 277
+  num_ref_name: 197
+  cp: 4049
+  vp: 8143
+  mAbs phase3: 274
   mAbs structure: 95
   other mAbs: 300
-  all mAbs: 672
-  num_exp: 12757
+  all mAbs: 669
+  num_exp: 12861
   var_type: VOC
 - pattern: K417N+K417K+K444E+G446V+L452R+E484Q+E484K+N501Y
   var_name: Beta
-  num_ref_name: 237
-  cp: 4412
-  vp: 18047
+  num_ref_name: 238
+  cp: 4478
+  vp: 18786
   mAbs phase3: 308
   mAbs structure: 92
-  other mAbs: 191
-  all mAbs: 591
-  num_exp: 23050
+  other mAbs: 192
+  all mAbs: 592
+  num_exp: 23856
   var_type: VOC
-- pattern: K417N+K444T+G446V+L452R+G476D+T478K+E484Q+E484K+F486S+N487K+N487D
+- pattern: K417N+K444T+G446V+L452R+G476D+T478K+E484Q+E484K+F486S+N487D+N487K
   var_name: Delta
-  num_ref_name: 185
-  cp: 2558
-  vp: 15320
-  mAbs phase3: 270
+  num_ref_name: 192
+  cp: 2742
+  vp: 15811
+  mAbs phase3: 273
   mAbs structure: 78
   other mAbs: 122
-  all mAbs: 470
-  num_exp: 18348
+  all mAbs: 473
+  num_exp: 19026
   var_type: VOC
 - pattern: N354K+K417T+E484K+N501Y
   var_name: Gamma
   num_ref_name: 126
   cp: 2062
-  vp: 4448
+  vp: 4420
   mAbs phase3: 193
   mAbs structure: 53
   other mAbs: 129
   all mAbs: 375
-  num_exp: 6885
+  num_exp: 6857
   var_type: VOC
-- pattern: G339D+G339G+G339H+R346K+S371L+S371F+S371S+S373S+S373P+S375F+S375S+S375P+T376A+D405N+R408S+K417K+K417T+K417N+N440N+N440K+G446S+G446G+L452R+L452M+L452Q+N460K+S477S+S477N+T478K+T478T+E484A+E484E+F486V+Q493Q+Q493K+Q493R+G496S+G496G+Q498R+N501Y+Y505H
+- pattern: G339G+G339D+G339H+R346K+S371F+S371L+S371S+S373P+S373S+S375F+S375P+S375S+T376A+D405N+R408S+K417T+K417N+K417K+N440N+N440K+G446S+G446G+L452M+L452R+L452Q+N460K+S477S+S477N+T478T+T478K+E484A+E484E+F486V+Q493Q+Q493R+Q493K+G496S+G496G+Q498R+N501Y+Y505H
   var_name: Omicron
-  num_ref_name: 180
-  cp: 3763
-  vp: 26268
-  mAbs phase3: 1531
-  mAbs structure: 1024
-  other mAbs: 7932
-  all mAbs: 10487
-  num_exp: 40518
+  num_ref_name: 186
+  cp: 3889
+  vp: 29060
+  mAbs phase3: 1830
+  mAbs structure: 1041
+  other mAbs: 8083
+  all mAbs: 10954
+  num_exp: 43903
   var_type: VOC
 - pattern: L452R+E484K
   var_name: Epsilon
@@ -75,62 +75,62 @@
   all mAbs: 24
   num_exp: 379
   var_type: VOI
-- pattern: L452R+S477N+E484K
+- pattern: S477N+E484K
   var_name: Iota
   num_ref_name: 35
   cp: 342
-  vp: 1315
+  vp: 1295
   mAbs phase3: 93
   mAbs structure: 20
   other mAbs: 51
   all mAbs: 164
-  num_exp: 1821
+  num_exp: 1801
   var_type: VOI
 - pattern: V382L+L452R+E484Q
   var_name: Kappa
-  num_ref_name: 49
-  cp: 329
-  vp: 1332
-  mAbs phase3: 66
+  num_ref_name: 50
+  cp: 410
+  vp: 1349
+  mAbs phase3: 69
   mAbs structure: 10
   other mAbs: 56
-  all mAbs: 132
-  num_exp: 1793
+  all mAbs: 135
+  num_exp: 1894
   var_type: VOI
 - pattern: L452Q+E471Q+F490S
   var_name: Lambda
   num_ref_name: 32
   cp: 299
-  vp: 523
+  vp: 529
   mAbs phase3: 27
   mAbs structure: 10
   other mAbs: 27
   all mAbs: 64
-  num_exp: 886
+  num_exp: 892
   var_type: VOI
-- pattern: R346K+K417N+L455F+L455L+E484K+N501Y
+- pattern: R346K+K417N+L455L+L455F+E484K+N501Y
   var_name: Mu
-  num_ref_name: 30
+  num_ref_name: 31
   cp: 262
-  vp: 585
+  vp: 627
   mAbs phase3: 42
   mAbs structure: 21
   other mAbs: 12
   all mAbs: 75
-  num_exp: 922
+  num_exp: 964
   var_type: VOI
 - pattern: E484K+N501Y
   var_name: Theta
-  num_ref_name: 2
+  num_ref_name: 3
   cp: 0
-  vp: 47
+  vp: 67
   mAbs phase3: 0
   mAbs structure: 0
   other mAbs: 0
   all mAbs: 0
-  num_exp: 47
+  num_exp: 67
   var_type: VOI
-- pattern: E484K+E484Q
+- pattern: E484Q+E484K
   var_name: Zeta
   num_ref_name: 12
   cp: 219
@@ -374,14 +374,14 @@
   var_type: Other variants containing >=1 RBD mutation
 - pattern: L452R+T478Q+E484Q
   var_name: B.1.617.3(L452R+T478Q+E484Q)
-  num_ref_name: 6
+  num_ref_name: 5
   cp: 0
-  vp: 269
+  vp: 229
   mAbs phase3: 0
   mAbs structure: 0
   other mAbs: 0
   all mAbs: 0
-  num_exp: 269
+  num_exp: 229
   var_type: Other variants containing >=1 RBD mutation
 - pattern: E484K
   var_name: B.1.618(E484K)
@@ -418,14 +418,14 @@
   var_type: Other variants containing >=1 RBD mutation
 - pattern: S477N+E484K
   var_name: B.1.620(S477N+E484K)
-  num_ref_name: 1
-  cp: 0
+  num_ref_name: 2
+  cp: 16
   vp: 27
   mAbs phase3: 0
   mAbs structure: 0
   other mAbs: 0
   all mAbs: 0
-  num_exp: 27
+  num_exp: 43
   var_type: Other variants containing >=1 RBD mutation
 - pattern: P384L+N440K+Y453F+N460K+A475V+E484K
   var_name: B.1.638(P384L+N440K+Y453F+N460K+A475V+E484K)
