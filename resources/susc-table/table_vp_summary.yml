@@ -82,12 +82,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: BNT162b2
-    vp_studies: 60
-    vp_num_fold: 2243
+    vp_studies: 61
+    vp_num_fold: 2393
     vp_s_fold: 97%
     vp_i_fold: 3%
     vp_r_fold: 0
-    vp_num_s_fold: 2176
+    vp_num_s_fold: 2326
     vp_num_i_fold: 61
     vp_num_r_fold: 6
   - name: BNT162b2 + mRNA-1273
@@ -300,13 +300,13 @@
     vp_num_i_fold: 1
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 93
-    vp_num_fold: 4546
+    vp_studies: 94
+    vp_num_fold: 4695
     vp_s_fold: 63%
     vp_i_fold: 29%
     vp_r_fold: 8%
-    vp_num_s_fold: 2861
-    vp_num_i_fold: 1333
+    vp_num_s_fold: 2979
+    vp_num_i_fold: 1364
     vp_num_r_fold: 352
   - name: BNT162b2 + MVB.1.351
     vp_studies: 1
@@ -745,12 +745,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 78
-    vp_num_fold: 3948
-    vp_s_fold: 84%
+    vp_studies: 79
+    vp_num_fold: 4098
+    vp_s_fold: 85%
     vp_i_fold: 14%
-    vp_r_fold: 2%
-    vp_num_s_fold: 3326
+    vp_r_fold: 1%
+    vp_num_s_fold: 3476
     vp_num_i_fold: 563
     vp_num_r_fold: 59
   - name: BNT162b2 + CoronaVac
@@ -799,12 +799,12 @@
     vp_num_i_fold: 20
     vp_num_r_fold: 0
   - name: CoronaVac
-    vp_studies: 7
-    vp_num_fold: 421
-    vp_s_fold: 71%
-    vp_i_fold: 27%
+    vp_studies: 9
+    vp_num_fold: 625
+    vp_s_fold: 80%
+    vp_i_fold: 18%
     vp_r_fold: 2%
-    vp_num_s_fold: 298
+    vp_num_s_fold: 502
     vp_num_i_fold: 114
     vp_num_r_fold: 9
   - name: CoronaVac or BBIBP-CorV
@@ -844,12 +844,12 @@
     vp_num_i_fold: 37
     vp_num_r_fold: 54
   - name: mRNA
-    vp_studies: 17
-    vp_num_fold: 675
-    vp_s_fold: 84%
-    vp_i_fold: 16%
-    vp_r_fold: 0
-    vp_num_s_fold: 565
+    vp_studies: 18
+    vp_num_fold: 848
+    vp_s_fold: 87%
+    vp_i_fold: 12%
+    vp_r_fold: 1%
+    vp_num_s_fold: 738
     vp_num_i_fold: 105
     vp_num_r_fold: 5
   - name: mRNA + mRNA-1273
@@ -1035,22 +1035,22 @@
     vp_num_i_fold: 13
     vp_num_r_fold: 39
   - name: BNT162b2
-    vp_studies: 67
-    vp_num_fold: 3981
-    vp_s_fold: 24%
-    vp_i_fold: 50%
+    vp_studies: 70
+    vp_num_fold: 4203
+    vp_s_fold: 25%
+    vp_i_fold: 49%
     vp_r_fold: 26%
-    vp_num_s_fold: 943
-    vp_num_i_fold: 1993
-    vp_num_r_fold: 1045
+    vp_num_s_fold: 1070
+    vp_num_i_fold: 2073
+    vp_num_r_fold: 1060
   - name: BNT162b2 + CoronaVac
-    vp_studies: 6
-    vp_num_fold: 258
-    vp_s_fold: 60%
-    vp_i_fold: 38%
+    vp_studies: 7
+    vp_num_fold: 298
+    vp_s_fold: 52%
+    vp_i_fold: 46%
     vp_r_fold: 2%
     vp_num_s_fold: 156
-    vp_num_i_fold: 98
+    vp_num_i_fold: 138
     vp_num_r_fold: 4
   - name: BNT162b2 + MVB.1.351
     vp_studies: 1
@@ -1089,13 +1089,13 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: CoronaVac
-    vp_studies: 12
-    vp_num_fold: 695
-    vp_s_fold: 36%
-    vp_i_fold: 60%
-    vp_r_fold: 4%
-    vp_num_s_fold: 249
-    vp_num_i_fold: 419
+    vp_studies: 15
+    vp_num_fold: 919
+    vp_s_fold: 30%
+    vp_i_fold: 67%
+    vp_r_fold: 3%
+    vp_num_s_fold: 279
+    vp_num_i_fold: 613
     vp_num_r_fold: 27
   - name: CoronaVac + ZF2001
     vp_studies: 1
@@ -1179,14 +1179,14 @@
     vp_num_i_fold: 73
     vp_num_r_fold: 0
   - name: mRNA
-    vp_studies: 17
-    vp_num_fold: 550
-    vp_s_fold: 34%
-    vp_i_fold: 47%
-    vp_r_fold: 19%
-    vp_num_s_fold: 185
-    vp_num_i_fold: 259
-    vp_num_r_fold: 106
+    vp_studies: 20
+    vp_num_fold: 955
+    vp_s_fold: 54%
+    vp_i_fold: 33%
+    vp_r_fold: 13%
+    vp_num_s_fold: 511
+    vp_num_i_fold: 313
+    vp_num_r_fold: 131
   - name: mRNA + mRNA-1273
     vp_studies: 1
     vp_num_fold: 214
@@ -1343,22 +1343,22 @@
     vp_num_i_fold: 40
     vp_num_r_fold: 18
   - name: BNT162b2
-    vp_studies: 23
-    vp_num_fold: 945
-    vp_s_fold: 40%
-    vp_i_fold: 51%
-    vp_r_fold: 9%
-    vp_num_s_fold: 379
-    vp_num_i_fold: 481
-    vp_num_r_fold: 85
+    vp_studies: 25
+    vp_num_fold: 1013
+    vp_s_fold: 42%
+    vp_i_fold: 50%
+    vp_r_fold: 8%
+    vp_num_s_fold: 425
+    vp_num_i_fold: 502
+    vp_num_r_fold: 86
   - name: BNT162b2 + CoronaVac
-    vp_studies: 2
-    vp_num_fold: 161
-    vp_s_fold: 39%
-    vp_i_fold: 61%
+    vp_studies: 3
+    vp_num_fold: 201
+    vp_s_fold: 31%
+    vp_i_fold: 69%
     vp_r_fold: 0
     vp_num_s_fold: 63
-    vp_num_i_fold: 98
+    vp_num_i_fold: 138
     vp_num_r_fold: 0
   - name: BNT162b2 + mRNA-1273
     vp_studies: 2
@@ -1379,13 +1379,13 @@
     vp_num_i_fold: 50
     vp_num_r_fold: 0
   - name: CoronaVac
-    vp_studies: 5
-    vp_num_fold: 390
-    vp_s_fold: 61%
-    vp_i_fold: 36%
+    vp_studies: 6
+    vp_num_fold: 410
+    vp_s_fold: 58%
+    vp_i_fold: 39%
     vp_r_fold: 3%
     vp_num_s_fold: 238
-    vp_num_i_fold: 141
+    vp_num_i_fold: 161
     vp_num_r_fold: 11
   - name: CoronaVac + ZF2001
     vp_studies: 1
@@ -1451,14 +1451,14 @@
     vp_num_i_fold: 106
     vp_num_r_fold: 0
   - name: mRNA
-    vp_studies: 12
-    vp_num_fold: 540
-    vp_s_fold: 55%
-    vp_i_fold: 43%
-    vp_r_fold: 2%
-    vp_num_s_fold: 297
-    vp_num_i_fold: 231
-    vp_num_r_fold: 12
+    vp_studies: 14
+    vp_num_fold: 759
+    vp_s_fold: 62%
+    vp_i_fold: 33%
+    vp_r_fold: 5%
+    vp_num_s_fold: 474
+    vp_num_i_fold: 248
+    vp_num_r_fold: 37
   - name: mRNA-1273
     vp_studies: 7
     vp_num_fold: 131
