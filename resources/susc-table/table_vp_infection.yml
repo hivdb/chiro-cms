@@ -1,24 +1,24 @@
 - infection: uninfected
-  num_ref_name: 310
-  num_fold: 84990
+  num_ref_name: 313
+  num_fold: 85651
 - infection: infected
-  num_ref_name: 93
-  num_fold: 1051051
+  num_ref_name: 95
+  num_fold: 1078233
 - infection: wt
-  num_ref_name: 45
-  num_fold: 447308
+  num_ref_name: 46
+  num_fold: 465394
 - infection: Delta
   num_ref_name: 31
   num_fold: 246776
 - infection: Omicron/BA.1
-  num_ref_name: 34
-  num_fold: 275274
+  num_ref_name: 35
+  num_fold: 282900
 - infection: SARS-CoV-1
   num_ref_name: 1
   num_fold: 448
 - infection: Omicron/BA.2
-  num_ref_name: 8
-  num_fold: 32060
+  num_ref_name: 9
+  num_fold: 33530
 - infection: Beta
   num_ref_name: 4
   num_fold: 12627

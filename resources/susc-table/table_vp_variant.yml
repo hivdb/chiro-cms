@@ -1,25 +1,25 @@
 - pattern: Alpha
   var_name: Alpha
   median_fold: 1.5
-  num_ref_name: 122
-  num_fold: 8321
-  S: 7562
+  num_ref_name: 123
+  num_fold: 8598
+  S: 7839
   I: 609
   R: 146
 - pattern: Beta
   var_name: Beta
-  median_fold: 3.6
-  num_ref_name: 165
-  num_fold: 18963
-  S: 13427
-  I: 4820
-  R: 712
+  median_fold: 3.7
+  num_ref_name: 166
+  num_fold: 19288
+  S: 13594
+  I: 4981
+  R: 709
 - pattern: Delta
   var_name: Delta
-  median_fold: 2.0
-  num_ref_name: 146
-  num_fold: 16366
-  S: 14352
+  median_fold: 2.1
+  num_ref_name: 147
+  num_fold: 16643
+  S: 14629
   I: 1833
   R: 177
 - pattern: Gamma
@@ -32,12 +32,12 @@
   R: 210
 - pattern: Omicron/BA.1
   var_name: Omicron/BA.1
-  median_fold: 5.3
-  num_ref_name: 133
-  num_fold: 19303
-  S: 9165
-  I: 8072
-  R: 2063
+  median_fold: 5.4
+  num_ref_name: 135
+  num_fold: 19612
+  S: 9233
+  I: 8308
+  R: 2068
 - pattern: Omicron/BA.1.1
   var_name: Omicron/BA.1.1
   median_fold: 7.5
@@ -49,9 +49,9 @@
 - pattern: Omicron/BA.2
   var_name: Omicron/BA.2
   median_fold: 4.2
-  num_ref_name: 50
-  num_fold: 4453
-  S: 2465
+  num_ref_name: 51
+  num_fold: 4528
+  S: 2540
   I: 1829
   R: 159
 - pattern: Omicron/BA.2.12.1
@@ -64,11 +64,11 @@
   R: 45
 - pattern: Omicron/BA.2.75
   var_name: Omicron/BA.2.75
-  median_fold: 5.7
-  num_ref_name: 5
-  num_fold: 337
-  S: 106
-  I: 216
+  median_fold: 5.6
+  num_ref_name: 6
+  num_fold: 412
+  S: 166
+  I: 231
   R: 15
 - pattern: Omicron/BA.2.75/H339D
   var_name: Omicron/BA.2.75/H339D
@@ -224,20 +224,20 @@
   R: 30
 - pattern: Omicron/BA.4
   var_name: Omicron/BA.4
-  median_fold: 8.7
-  num_ref_name: 26
-  num_fold: 2735
-  S: 448
-  I: 2164
-  R: 123
+  median_fold: 8.5
+  num_ref_name: 27
+  num_fold: 2843
+  S: 477
+  I: 2235
+  R: 131
 - pattern: Omicron/BA.5
   var_name: Omicron/BA.5
   median_fold: 7.9
   num_ref_name: 2
-  num_fold: 81
-  S: 15
-  I: 56
-  R: 10
+  num_fold: 114
+  S: 16
+  I: 80
+  R: 18
 - pattern: VOIs (Kappa, Iota, Epsilon, Lambda, Eta, Mu)
   var_name: VOIs (Kappa, Iota, Epsilon, Lambda, Eta, Mu)
   median_fold: 2.0

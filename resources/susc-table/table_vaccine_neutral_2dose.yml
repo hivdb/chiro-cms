@@ -1,7 +1,7 @@
 - test: WT
   BNT162b2_1:
-    geomean: 491.0
-    num_ref_name: 139
+    geomean: 489.0
+    num_ref_name: 140
   BNT162b2_2:
     geomean: 115.0
     num_ref_name: 39
@@ -45,8 +45,8 @@
     geomean: 380.0
     num_ref_name: 1
   CoronaVac_1:
-    geomean: 74.0
-    num_ref_name: 10
+    geomean: 72.0
+    num_ref_name: 11
   CoronaVac_2:
     geomean: 40.0
     num_ref_name: 6
@@ -54,8 +54,8 @@
     geomean: ''
     num_ref_name: 0
   BBIBP-CorV_1:
-    geomean: 70.0
-    num_ref_name: 6
+    geomean: 68.0
+    num_ref_name: 7
   BBIBP-CorV_2:
     geomean: 43.0
     num_ref_name: 4
@@ -118,8 +118,8 @@
     geomean: ''
     num_ref_name: 0
   CoronaVac_1:
-    geomean: 53.0
-    num_ref_name: 3
+    geomean: 50.0
+    num_ref_name: 4
   CoronaVac_2:
     geomean: 35.0
     num_ref_name: 2
@@ -127,8 +127,8 @@
     geomean: ''
     num_ref_name: 0
   BBIBP-CorV_1:
-    geomean: 25.0
-    num_ref_name: 2
+    geomean: 24.0
+    num_ref_name: 3
   BBIBP-CorV_2:
     geomean: ''
     num_ref_name: 0
@@ -191,8 +191,8 @@
     geomean: ''
     num_ref_name: 0
   CoronaVac_1:
-    geomean: 37.0
-    num_ref_name: 4
+    geomean: 32.0
+    num_ref_name: 5
   CoronaVac_2:
     geomean: ''
     num_ref_name: 0
@@ -200,8 +200,8 @@
     geomean: ''
     num_ref_name: 0
   BBIBP-CorV_1:
-    geomean: 6.7
-    num_ref_name: 4
+    geomean: 7.0
+    num_ref_name: 5
   BBIBP-CorV_2:
     geomean: 15.0
     num_ref_name: 1
@@ -338,7 +338,7 @@
     num_ref_name: 1
   CoronaVac_1:
     geomean: 18.0
-    num_ref_name: 4
+    num_ref_name: 5
   CoronaVac_2:
     geomean: 23.0
     num_ref_name: 1
@@ -346,8 +346,8 @@
     geomean: ''
     num_ref_name: 0
   BBIBP-CorV_1:
-    geomean: 35.0
-    num_ref_name: 1
+    geomean: 20.0
+    num_ref_name: 2
   BBIBP-CorV_2:
     geomean: 7.1
     num_ref_name: 2
@@ -410,8 +410,8 @@
     geomean: 14.0
     num_ref_name: 1
   CoronaVac_1:
-    geomean: 8.6
-    num_ref_name: 5
+    geomean: 9.0
+    num_ref_name: 6
   CoronaVac_2:
     geomean: 2.4
     num_ref_name: 2
@@ -419,8 +419,8 @@
     geomean: ''
     num_ref_name: 0
   BBIBP-CorV_1:
-    geomean: 12.0
-    num_ref_name: 3
+    geomean: 13.0
+    num_ref_name: 4
   BBIBP-CorV_2:
     geomean: 11.0
     num_ref_name: 3
@@ -511,8 +511,8 @@
     num_ref_name: 0
 - test: BA.2
   BNT162b2_1:
-    geomean: 36.0
-    num_ref_name: 9
+    geomean: 40.0
+    num_ref_name: 10
   BNT162b2_2:
     geomean: 14.0
     num_ref_name: 3
@@ -730,8 +730,8 @@
     num_ref_name: 0
 - test: BA.4/5
   BNT162b2_1:
-    geomean: 22.0
-    num_ref_name: 2
+    geomean: 32.0
+    num_ref_name: 3
   BNT162b2_2:
     geomean: 17.0
     num_ref_name: 2
@@ -803,8 +803,8 @@
     num_ref_name: 0
 - test: BA.2.75
   BNT162b2_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 120.0
+    num_ref_name: 1
   BNT162b2_2:
     geomean: ''
     num_ref_name: 0
