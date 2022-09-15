@@ -1,7 +1,7 @@
 - mab: Adintrevimab
   synonyms: ADG20;ADG-2
-  num_ref_name: 27
-  num_fold: 218
+  num_ref_name: 28
+  num_fold: 223
   avail: Phase 3
   target: RBD
   class: RBD Core Cluster I
@@ -11,7 +11,7 @@
 - mab: C144
   synonyms: BMS-986413
   num_ref_name: 14
-  num_fold: 154
+  num_fold: 156
   avail: Phase 2/3
   target: RBD
   class: RBM Class III
@@ -21,7 +21,7 @@
 - mab: C135
   synonyms: BMS-986414
   num_ref_name: 10
-  num_fold: 94
+  num_fold: 96
   avail: Phase 2/3
   target: RBD
   class: RBD Core Cluster I
@@ -31,7 +31,7 @@
 - mab: DXP-604
   synonyms: BD-604
   num_ref_name: 5
-  num_fold: 33
+  num_fold: 34
   avail: Phase 1
   target: RBD
   class: RBM Class I
@@ -41,7 +41,7 @@
 - mab: ABBV-47D11
   synonyms: 47D11
   num_ref_name: 3
-  num_fold: 17
+  num_fold: 19
   avail: Phase 1
   target: RBD
   class: RBD Core Cluster I
@@ -50,8 +50,8 @@
   origin: Transgenic mice
 - mab: Regdanvimab
   synonyms: CT-P59
-  num_ref_name: 19
-  num_fold: 111
+  num_ref_name: 20
+  num_fold: 135
   avail: KR-Approved
   target: RBD
   class: RBM Class I
@@ -61,7 +61,7 @@
 - mab: Imdevimab
   synonyms: REGN10987
   num_ref_name: 93
-  num_fold: 789
+  num_fold: 793
   avail: EUA
   target: RBD
   class: RBD Core Cluster I
@@ -71,7 +71,7 @@
 - mab: Casirivimab
   synonyms: REGN10933
   num_ref_name: 91
-  num_fold: 748
+  num_fold: 751
   avail: EUA
   target: RBD
   class: RBM Class I
@@ -80,8 +80,8 @@
   origin: Transgenic mice
 - mab: Sotrovimab
   synonyms: GSK4182136;S309;Vir-7831;Xevudy
-  num_ref_name: 72
-  num_fold: 704
+  num_ref_name: 73
+  num_fold: 729
   avail: EUA
   target: RBD
   class: RBD Core Cluster I
@@ -90,8 +90,8 @@
   origin: SARS-CoV CP
 - mab: Etesevimab
   synonyms: CB6;Shi-CB6;JS-016;LY-CoV016;LY3832479
-  num_ref_name: 72
-  num_fold: 652
+  num_ref_name: 73
+  num_fold: 685
   avail: EUA
   target: RBD
   class: RBM Class I
@@ -100,8 +100,8 @@
   origin: CP
 - mab: Bamlanivimab
   synonyms: LY-CoV555;LY3819253
-  num_ref_name: 68
-  num_fold: 518
+  num_ref_name: 69
+  num_fold: 551
   avail: EUA
   target: RBD
   class: RBM Class II
@@ -110,8 +110,8 @@
   origin: CP
 - mab: Bebtelovimab
   synonyms: LY-CoV1404;LY3853113
-  num_ref_name: 22
-  num_fold: 428
+  num_ref_name: 24
+  num_fold: 438
   avail: EUA
   target: RBD
   class: RBM Class II
@@ -121,7 +121,7 @@
 - mab: Cilgavimab
   synonyms: COV2-2130;AZD1061
   num_ref_name: 58
-  num_fold: 399
+  num_fold: 402
   avail: EUA
   target: RBD
   class: RBM Class II
@@ -131,7 +131,7 @@
 - mab: Tixagevimab
   synonyms: COV2-2196;AZD8895
   num_ref_name: 57
-  num_fold: 388
+  num_fold: 392
   avail: EUA
   target: RBD
   class: RBM Class I
@@ -141,7 +141,7 @@
 - mab: Amubarvimab
   synonyms: BRII-196;P2C-1F11
   num_ref_name: 21
-  num_fold: 334
+  num_fold: 337
   avail: CN-Approved
   target: RBD
   class: RBM Class I

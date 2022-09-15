@@ -120,27 +120,27 @@
   position: 417
   aa: N
   domain: RBD
-  num_ref_name: 35
+  num_ref_name: 36
   cp: 216
   vp: 237
-  mAbs phase3: 109
+  mAbs phase3: 111
   mAbs structure: 62
   other mAbs: 153
-  all mAbs: 324
-  num_exp: 777
+  all mAbs: 326
+  num_exp: 779
 - pattern: N439K
   ref: N
   position: 439
   aa: K
   domain: RBD
-  num_ref_name: 23
+  num_ref_name: 24
   cp: 77
   vp: 105
-  mAbs phase3: 69
+  mAbs phase3: 71
   mAbs structure: 50
   other mAbs: 127
-  all mAbs: 246
-  num_exp: 428
+  all mAbs: 248
+  num_exp: 430
 - pattern: N440K
   ref: N
   position: 440
@@ -224,14 +224,14 @@
   position: 477
   aa: N
   domain: RBD
-  num_ref_name: 26
+  num_ref_name: 27
   cp: 171
   vp: 72
-  mAbs phase3: 59
+  mAbs phase3: 61
   mAbs structure: 18
   other mAbs: 41
-  all mAbs: 118
-  num_exp: 361
+  all mAbs: 120
+  num_exp: 363
 - pattern: T478K
   ref: T
   position: 478
@@ -263,27 +263,27 @@
   position: 484
   aa: Q
   domain: RBD
-  num_ref_name: 18
+  num_ref_name: 19
   cp: 80
   vp: 120
-  mAbs phase3: 25
+  mAbs phase3: 27
   mAbs structure: 9
   other mAbs: 18
-  all mAbs: 52
-  num_exp: 252
+  all mAbs: 54
+  num_exp: 254
 - pattern: E484K
   ref: E
   position: 484
   aa: K
   domain: RBD
-  num_ref_name: 53
+  num_ref_name: 54
   cp: 360
   vp: 329
-  mAbs phase3: 104
+  mAbs phase3: 106
   mAbs structure: 61
   other mAbs: 163
-  all mAbs: 328
-  num_exp: 1017
+  all mAbs: 330
+  num_exp: 1019
 - pattern: F486V
   ref: F
   position: 486
@@ -302,27 +302,27 @@
   position: 490
   aa: S
   domain: RBD
-  num_ref_name: 16
+  num_ref_name: 17
   cp: 43
   vp: 83
-  mAbs phase3: 25
+  mAbs phase3: 27
   mAbs structure: 9
   other mAbs: 39
-  all mAbs: 73
-  num_exp: 199
+  all mAbs: 75
+  num_exp: 201
 - pattern: Q493R
   ref: Q
   position: 493
   aa: R
   domain: RBD
-  num_ref_name: 15
+  num_ref_name: 16
   cp: 4
   vp: 0
-  mAbs phase3: 45
+  mAbs phase3: 47
   mAbs structure: 26
   other mAbs: 81
-  all mAbs: 152
-  num_exp: 156
+  all mAbs: 154
+  num_exp: 158
 - pattern: Q498R
   ref: Q
   position: 498
@@ -341,25 +341,25 @@
   position: 501
   aa: Y
   domain: RBD
-  num_ref_name: 48
+  num_ref_name: 49
   cp: 404
   vp: 372
-  mAbs phase3: 129
+  mAbs phase3: 131
   mAbs structure: 67
   other mAbs: 189
-  all mAbs: 385
-  num_exp: 1161
+  all mAbs: 387
+  num_exp: 1163
 - pattern: other
   position: 10000
   domain: RBD
-  num_ref_name: 54
+  num_ref_name: 55
   cp: 2047
   vp: 1765
-  mAbs phase3: 789
+  mAbs phase3: 821
   mAbs structure: 531
   other mAbs: 1314
-  all mAbs: 2634
-  num_exp: 6446
+  all mAbs: 2666
+  num_exp: 6478
 - pattern: L18F
   ref: L
   position: 18
@@ -454,14 +454,14 @@
 - pattern: other
   position: 10000
   domain: NTD
-  num_ref_name: 30
+  num_ref_name: 31
   cp: 349
   vp: 214
-  mAbs phase3: 349
+  mAbs phase3: 357
   mAbs structure: 213
   other mAbs: 286
-  all mAbs: 848
-  num_exp: 1411
+  all mAbs: 856
+  num_exp: 1419
 - pattern: A570D
   ref: A
   position: 570
@@ -593,11 +593,11 @@
 - pattern: other
   position: 10000
   domain: S2
-  num_ref_name: 23
+  num_ref_name: 24
   cp: 285
   vp: 130
-  mAbs phase3: 209
+  mAbs phase3: 211
   mAbs structure: 168
   other mAbs: 190
-  all mAbs: 567
-  num_exp: 982
+  all mAbs: 569
+  num_exp: 984

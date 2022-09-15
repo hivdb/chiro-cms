@@ -1,7 +1,7 @@
 - test: WT
   BNT162b2_1:
-    geomean: 2289.0
-    num_ref_name: 59
+    geomean: 2315.0
+    num_ref_name: 61
   BNT162b2_2:
     geomean: 780.0
     num_ref_name: 7
@@ -9,7 +9,7 @@
     geomean: ''
     num_ref_name: 0
   mRNA-1273_1:
-    geomean: 1970.0
+    geomean: 1978.0
     num_ref_name: 15
   mRNA-1273_2:
     geomean: 1081.0
@@ -73,8 +73,8 @@
     num_ref_name: 0
 - test: Alpha
   BNT162b2_1:
-    geomean: 1241.0
-    num_ref_name: 5
+    geomean: 986.0
+    num_ref_name: 6
   BNT162b2_2:
     geomean: ''
     num_ref_name: 0
@@ -146,8 +146,8 @@
     num_ref_name: 0
 - test: Beta
   BNT162b2_1:
-    geomean: 1626.0
-    num_ref_name: 18
+    geomean: 1508.0
+    num_ref_name: 19
   BNT162b2_2:
     geomean: 78.0
     num_ref_name: 1
@@ -219,8 +219,8 @@
     num_ref_name: 0
 - test: Gamma
   BNT162b2_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 152.0
+    num_ref_name: 1
   BNT162b2_2:
     geomean: ''
     num_ref_name: 0
@@ -292,8 +292,8 @@
     num_ref_name: 0
 - test: Delta
   BNT162b2_1:
-    geomean: 1401.0
-    num_ref_name: 33
+    geomean: 1356.0
+    num_ref_name: 34
   BNT162b2_2:
     geomean: 143.0
     num_ref_name: 3
@@ -301,7 +301,7 @@
     geomean: ''
     num_ref_name: 0
   mRNA-1273_1:
-    geomean: 652.0
+    geomean: 655.0
     num_ref_name: 11
   mRNA-1273_2:
     geomean: 402.0
@@ -365,8 +365,8 @@
     num_ref_name: 0
 - test: BA.1
   BNT162b2_1:
-    geomean: 306.0
-    num_ref_name: 55
+    geomean: 297.0
+    num_ref_name: 57
   BNT162b2_2:
     geomean: 77.0
     num_ref_name: 8
@@ -438,8 +438,8 @@
     num_ref_name: 0
 - test: BA.1.1
   BNT162b2_1:
-    geomean: 230.0
-    num_ref_name: 5
+    geomean: 281.0
+    num_ref_name: 6
   BNT162b2_2:
     geomean: ''
     num_ref_name: 0
@@ -511,8 +511,8 @@
     num_ref_name: 0
 - test: BA.2
   BNT162b2_1:
-    geomean: 329.0
-    num_ref_name: 22
+    geomean: 339.0
+    num_ref_name: 23
   BNT162b2_2:
     geomean: 171.0
     num_ref_name: 2
@@ -584,8 +584,8 @@
     num_ref_name: 0
 - test: BA.2.12.1
   BNT162b2_1:
-    geomean: 408.0
-    num_ref_name: 8
+    geomean: 417.0
+    num_ref_name: 9
   BNT162b2_2:
     geomean: 24.0
     num_ref_name: 1
@@ -730,8 +730,8 @@
     num_ref_name: 0
 - test: BA.4/5
   BNT162b2_1:
-    geomean: 218.0
-    num_ref_name: 12
+    geomean: 227.0
+    num_ref_name: 13
   BNT162b2_2:
     geomean: 203.0
     num_ref_name: 4

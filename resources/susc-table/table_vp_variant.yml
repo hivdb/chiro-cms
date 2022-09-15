@@ -1,67 +1,67 @@
 - pattern: Alpha
   var_name: Alpha
-  median_fold: 1.5
-  num_ref_name: 123
-  num_fold: 8598
-  S: 7839
-  I: 609
-  R: 146
+  median_fold: 1.6
+  num_ref_name: 125
+  num_fold: 9321
+  S: 7955
+  I: 876
+  R: 486
 - pattern: Beta
   var_name: Beta
-  median_fold: 3.7
-  num_ref_name: 166
-  num_fold: 19288
-  S: 13594
-  I: 4981
-  R: 709
+  median_fold: 3.9
+  num_ref_name: 168
+  num_fold: 20011
+  S: 13637
+  I: 5083
+  R: 1287
 - pattern: Delta
   var_name: Delta
   median_fold: 2.1
-  num_ref_name: 147
-  num_fold: 16643
-  S: 14629
-  I: 1833
-  R: 177
+  num_ref_name: 150
+  num_fold: 17448
+  S: 15033
+  I: 2101
+  R: 310
 - pattern: Gamma
   var_name: Gamma
-  median_fold: 2.4
-  num_ref_name: 74
-  num_fold: 4420
-  S: 3551
-  I: 659
-  R: 210
+  median_fold: 2.9
+  num_ref_name: 76
+  num_fold: 5143
+  S: 3608
+  I: 784
+  R: 751
 - pattern: Omicron/BA.1
   var_name: Omicron/BA.1
-  median_fold: 5.4
-  num_ref_name: 135
-  num_fold: 19612
-  S: 9233
-  I: 8308
-  R: 2068
+  median_fold: 5.6
+  num_ref_name: 139
+  num_fold: 20237
+  S: 9341
+  I: 8407
+  R: 2480
 - pattern: Omicron/BA.1.1
   var_name: Omicron/BA.1.1
-  median_fold: 7.5
-  num_ref_name: 19
-  num_fold: 1185
+  median_fold: 7.6
+  num_ref_name: 20
+  num_fold: 1265
   S: 386
-  I: 612
-  R: 187
+  I: 662
+  R: 217
 - pattern: Omicron/BA.2
   var_name: Omicron/BA.2
   median_fold: 4.2
-  num_ref_name: 51
-  num_fold: 4528
-  S: 2540
-  I: 1829
-  R: 159
+  num_ref_name: 53
+  num_fold: 4690
+  S: 2622
+  I: 1879
+  R: 189
 - pattern: Omicron/BA.2.12.1
   var_name: Omicron/BA.2.12.1
-  median_fold: 6.3
-  num_ref_name: 18
-  num_fold: 1343
+  median_fold: 6.4
+  num_ref_name: 19
+  num_fold: 1423
   S: 423
-  I: 875
-  R: 45
+  I: 925
+  R: 75
 - pattern: Omicron/BA.2.75
   var_name: Omicron/BA.2.75
   median_fold: 5.6
@@ -224,12 +224,12 @@
   R: 30
 - pattern: Omicron/BA.4
   var_name: Omicron/BA.4
-  median_fold: 8.5
-  num_ref_name: 27
-  num_fold: 2843
+  median_fold: 8.7
+  num_ref_name: 28
+  num_fold: 2923
   S: 477
-  I: 2235
-  R: 131
+  I: 2285
+  R: 161
 - pattern: Omicron/BA.5
   var_name: Omicron/BA.5
   median_fold: 7.9
@@ -241,17 +241,17 @@
 - pattern: VOIs (Kappa, Iota, Epsilon, Lambda, Eta, Mu)
   var_name: VOIs (Kappa, Iota, Epsilon, Lambda, Eta, Mu)
   median_fold: 2.0
-  num_ref_name: 51
-  num_fold: 2510
-  S: 2145
+  num_ref_name: 52
+  num_fold: 2540
+  S: 2175
   I: 311
   R: 54
 - pattern: other variants
   var_name: other variants
   median_fold: 2.1
-  num_ref_name: 68
-  num_fold: 5208
-  S: 4056
+  num_ref_name: 69
+  num_fold: 5253
+  S: 4101
   I: 881
   R: 270
 - pattern: Individual mutations and mutation combinations
