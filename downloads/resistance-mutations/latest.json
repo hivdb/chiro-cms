@@ -1,150 +1,6 @@
 {
   "MAB": [
     {
-      "gene": "_3CLpro",
-      "position": 15,
-      "aa": "S",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 50,
-      "aa": "F",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 135,
-      "aa": "I",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 144,
-      "aa": "A",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 144,
-      "aa": "F",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 144,
-      "aa": "G",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 144,
-      "aa": "M",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 144,
-      "aa": "Y",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 164,
-      "aa": "N",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 165,
-      "aa": "T",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 166,
-      "aa": "A",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 166,
-      "aa": "V",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 166,
-      "aa": "Q",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 172,
-      "aa": "Y",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 172,
-      "aa": "Q",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 189,
-      "aa": "K",
-      "invivo_selected": false
-    },
-    {
-      "gene": "_3CLpro",
-      "position": 248,
-      "aa": "E",
-      "invivo_selected": false
-    },
-    {
-      "gene": "RdRP",
-      "position": 166,
-      "aa": "L",
-      "invivo_selected": false
-    },
-    {
-      "gene": "RdRP",
-      "position": 480,
-      "aa": "L",
-      "invivo_selected": false
-    },
-    {
-      "gene": "RdRP",
-      "position": 557,
-      "aa": "L",
-      "invivo_selected": false
-    },
-    {
-      "gene": "RdRP",
-      "position": 759,
-      "aa": "A",
-      "invivo_selected": false
-    },
-    {
-      "gene": "RdRP",
-      "position": 792,
-      "aa": "I",
-      "invivo_selected": false
-    },
-    {
-      "gene": "RdRP",
-      "position": 802,
-      "aa": "A",
-      "invivo_selected": false
-    },
-    {
-      "gene": "RdRP",
-      "position": 802,
-      "aa": "D",
-      "invivo_selected": false
-    },
-    {
       "gene": "S",
       "position": 234,
       "aa": "Q",
@@ -3472,6 +3328,154 @@
       "gene": "S",
       "position": 1009,
       "aa": "I",
+      "invivo_selected": false
+    }
+  ],
+  "_3CLPI": [
+    {
+      "gene": "_3CLpro",
+      "position": 15,
+      "aa": "S",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 50,
+      "aa": "F",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 135,
+      "aa": "I",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "A",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "F",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "G",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "M",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "Y",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 164,
+      "aa": "N",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 165,
+      "aa": "T",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 166,
+      "aa": "A",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 166,
+      "aa": "V",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 166,
+      "aa": "Q",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "Y",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "Q",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 189,
+      "aa": "K",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 248,
+      "aa": "E",
+      "invivo_selected": false
+    }
+  ],
+  "RdRPI": [
+    {
+      "gene": "RdRP",
+      "position": 166,
+      "aa": "L",
+      "invivo_selected": false
+    },
+    {
+      "gene": "RdRP",
+      "position": 480,
+      "aa": "L",
+      "invivo_selected": false
+    },
+    {
+      "gene": "RdRP",
+      "position": 557,
+      "aa": "L",
+      "invivo_selected": false
+    },
+    {
+      "gene": "RdRP",
+      "position": 759,
+      "aa": "A",
+      "invivo_selected": false
+    },
+    {
+      "gene": "RdRP",
+      "position": 792,
+      "aa": "I",
+      "invivo_selected": false
+    },
+    {
+      "gene": "RdRP",
+      "position": 802,
+      "aa": "A",
+      "invivo_selected": false
+    },
+    {
+      "gene": "RdRP",
+      "position": 802,
+      "aa": "D",
       "invivo_selected": false
     }
   ]

@@ -147,6 +147,14 @@ mutation-is-drm: >-
   ${mutation} is a reported resistance mutation against ${drugClassFullName}
   (${drugClass}).
 
+mutation-is-drm-_3CLPI: >-
+  ${mutation} is a reported resistance mutation against 3C-like protease
+  inhibitor, i.e. nirmatrelvir.
+
+mutation-is-drm-RdRPI: >-
+  ${mutation} is a reported resistance mutation against RNA-dependent RNA
+  polymerase inhibitors, i.e. remdesivir and molnupiravir.
+
 mutation-is-drm-MAB: >-
   ${mutation} is a monoclonal antibody (mAb) resistance mutation.
 

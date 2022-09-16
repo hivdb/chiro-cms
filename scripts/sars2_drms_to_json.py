@@ -12,6 +12,10 @@ with open('downloads/resistance-mutations/latest.tsv') as fp:
         rows.append(row)
 
 with open('downloads/resistance-mutations/latest.json', 'w') as fp:
-    json.dump({'MAB': rows}, fp, indent=2)
+    json.dump({
+        'MAB': [row for row in rows if row['gene'] == 'S'],
+        '_3CLPI': [row for row in rows if row['gene'] == '_3CLpro'],
+        'RdRPI': [row for row in rows if row['gene'] == 'RdRP']
+    }, fp, indent=2)
 
 print("Create: downloads/resistance-mutations/latest.json")
