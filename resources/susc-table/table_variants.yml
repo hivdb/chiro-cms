@@ -9,7 +9,7 @@
   all mAbs: 675
   num_exp: 14229
   var_type: VOC
-- pattern: K417K+K417N+K444E+G446V+L452R+E484Q+E484K+N501Y
+- pattern: K417N+K417K+K444E+G446V+L452R+E484K+E484Q+N501Y
   var_name: Beta
   num_ref_name: 245
   cp: 4662
@@ -20,16 +20,16 @@
   all mAbs: 836
   num_exp: 25509
   var_type: VOC
-- pattern: K417N+K444T+G446V+L452R+G476D+T478K+E484Q+E484K+F486S+N487D+N487K
+- pattern: K417N+K444T+G446V+L452R+G476D+T478K+E484K+E484Q+F486S+N487D+N487K
   var_name: Delta
-  num_ref_name: 204
+  num_ref_name: 205
   cp: 3133
-  vp: 17448
+  vp: 17658
   mAbs phase3: 285
   mAbs structure: 78
   other mAbs: 129
   all mAbs: 492
-  num_exp: 21073
+  num_exp: 21283
   var_type: VOC
 - pattern: N354K+K417T+E484K+N501Y
   var_name: Gamma
@@ -42,16 +42,16 @@
   all mAbs: 381
   num_exp: 7599
   var_type: VOC
-- pattern: G339H+G339D+G339G+R346K+S371S+S371L+S371F+S373S+S373P+S375S+S375P+S375F+T376A+D405N+R408S+K417N+K417K+K417T+N440N+N440K+G446G+G446S+L452Q+L452R+L452M+N460K+N460N+S477S+S477N+T478T+T478K+E484A+E484E+F486V+Q493R+Q493K+Q493Q+G496S+G496G+Q498R+N501Y+Y505H
+- pattern: G339D+G339H+G339G+R346K+R346T+R346I+R346S+S371L+S371F+S371S+S373P+S373S+S375F+S375S+S375P+T376A+D405N+R408S+K417N+K417T+K417K+N440K+N440N+G446S+G446G+L452Q+L452R+L452M+N460K+N460N+S477N+S477S+T478T+T478K+E484A+E484E+F486V+Q493R+Q493Q+Q493K+G496S+G496G+Q498R+N501Y+Y505H
   var_name: Omicron
-  num_ref_name: 200
+  num_ref_name: 202
   cp: 4858
-  vp: 32776
-  mAbs phase3: 1890
-  mAbs structure: 1125
-  other mAbs: 8545
-  all mAbs: 11560
-  num_exp: 49194
+  vp: 33098
+  mAbs phase3: 1954
+  mAbs structure: 1149
+  other mAbs: 8657
+  all mAbs: 11760
+  num_exp: 49716
   var_type: VOC
 - pattern: L452R+E484K
   var_name: Epsilon
@@ -108,7 +108,7 @@
   all mAbs: 67
   num_exp: 895
   var_type: VOI
-- pattern: R346K+K417N+L455F+L455L+E484K+N501Y
+- pattern: R346K+K417N+L455L+L455F+E484K+N501Y
   var_name: Mu
   num_ref_name: 36
   cp: 275
@@ -130,7 +130,7 @@
   all mAbs: 0
   num_exp: 67
   var_type: VOI
-- pattern: E484Q+E484K
+- pattern: E484K+E484Q
   var_name: Zeta
   num_ref_name: 15
   cp: 232

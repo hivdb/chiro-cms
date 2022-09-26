@@ -816,14 +816,32 @@
     vp_num_s_fold: 114
     vp_num_i_fold: 20
     vp_num_r_fold: 0
+  - name: Convidecia + CoronaVac
+    vp_studies: 1
+    vp_num_fold: 120
+    vp_s_fold: 25%
+    vp_i_fold: 75%
+    vp_r_fold: 0
+    vp_num_s_fold: 30
+    vp_num_i_fold: 90
+    vp_num_r_fold: 0
+  - name: Convidecia + ZF2001
+    vp_studies: 1
+    vp_num_fold: 30
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 30
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
   - name: CoronaVac
-    vp_studies: 10
-    vp_num_fold: 648
-    vp_s_fold: 81%
-    vp_i_fold: 18%
-    vp_r_fold: 1%
-    vp_num_s_fold: 525
-    vp_num_i_fold: 114
+    vp_studies: 11
+    vp_num_fold: 708
+    vp_s_fold: 78%
+    vp_i_fold: 20%
+    vp_r_fold: 2%
+    vp_num_s_fold: 555
+    vp_num_i_fold: 144
     vp_num_r_fold: 9
   - name: CoronaVac or BBIBP-CorV
     vp_studies: 2
@@ -1115,14 +1133,32 @@
     vp_num_s_fold: 117
     vp_num_i_fold: 0
     vp_num_r_fold: 0
+  - name: Convidecia + CoronaVac
+    vp_studies: 1
+    vp_num_fold: 120
+    vp_s_fold: 0
+    vp_i_fold: 100%
+    vp_r_fold: 0
+    vp_num_s_fold: 0
+    vp_num_i_fold: 120
+    vp_num_r_fold: 0
+  - name: Convidecia + ZF2001
+    vp_studies: 1
+    vp_num_fold: 30
+    vp_s_fold: 0
+    vp_i_fold: 100%
+    vp_r_fold: 0
+    vp_num_s_fold: 0
+    vp_num_i_fold: 30
+    vp_num_r_fold: 0
   - name: CoronaVac
-    vp_studies: 16
-    vp_num_fold: 942
-    vp_s_fold: 32%
-    vp_i_fold: 65%
+    vp_studies: 17
+    vp_num_fold: 1002
+    vp_s_fold: 30%
+    vp_i_fold: 67%
     vp_r_fold: 3%
     vp_num_s_fold: 302
-    vp_num_i_fold: 613
+    vp_num_i_fold: 673
     vp_num_r_fold: 27
   - name: CoronaVac + ZF2001
     vp_studies: 1
@@ -1478,13 +1514,13 @@
     vp_num_i_fold: 106
     vp_num_r_fold: 0
   - name: mRNA
-    vp_studies: 16
-    vp_num_fold: 828
-    vp_s_fold: 66%
-    vp_i_fold: 30%
-    vp_r_fold: 4%
+    vp_studies: 17
+    vp_num_fold: 842
+    vp_s_fold: 64%
+    vp_i_fold: 31%
+    vp_r_fold: 5%
     vp_num_s_fold: 543
-    vp_num_i_fold: 248
+    vp_num_i_fold: 262
     vp_num_r_fold: 37
   - name: mRNA-1273
     vp_studies: 7

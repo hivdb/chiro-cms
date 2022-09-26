@@ -431,9 +431,9 @@
     fold_cmp: ''
     num: 23
   tix:
-    fold: '641'
+    fold: '608'
     fold_cmp: ''
-    num: 26
+    num: 27
   bam:
     fold: '1000'
     fold_cmp: '>'
@@ -441,7 +441,7 @@
   cil:
     fold: '2.1'
     fold_cmp: ''
-    num: 27
+    num: 28
   imd:
     fold: '259'
     fold_cmp: ''
@@ -449,7 +449,7 @@
   sot:
     fold: '23'
     fold_cmp: ''
-    num: 37
+    num: 38
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -457,15 +457,15 @@
   beb:
     fold: '1.1'
     fold_cmp: ''
-    num: 23
+    num: 24
   cas_imd:
     fold: '387'
     fold_cmp: ''
     num: 16
   cil_tix:
-    fold: '7.5'
+    fold: '7.8'
     fold_cmp: ''
-    num: 23
+    num: 24
   bam_ete:
     fold: '794'
     fold_cmp: ''
@@ -481,17 +481,17 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '150'
+    fold: '149'
     fold_cmp: ''
-    num: 14
+    num: 15
   b_198:
-    fold: '8.1'
+    fold: '7.7'
     fold_cmp: ''
-    num: 9
+    num: 10
   b_196_198:
-    fold: '74'
+    fold: '87'
     fold_cmp: ''
-    num: 6
+    num: 7
   JMB2002:
     fold: '1'
     fold_cmp: ''
@@ -603,23 +603,23 @@
   tix:
     fold: '1000'
     fold_cmp: '>'
-    num: 15
+    num: 22
   bam:
     fold: '853'
     fold_cmp: ''
     num: 12
   cil:
-    fold: '9.2'
+    fold: '9.7'
     fold_cmp: ''
-    num: 15
+    num: 22
   imd:
     fold: '488'
     fold_cmp: ''
     num: 15
   sot:
-    fold: '21'
+    fold: '26'
     fold_cmp: ''
-    num: 17
+    num: 24
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -627,15 +627,15 @@
   beb:
     fold: '1'
     fold_cmp: ''
-    num: 13
+    num: 20
   cas_imd:
     fold: '387'
     fold_cmp: ''
     num: 9
   cil_tix:
-    fold: '25'
+    fold: '33'
     fold_cmp: ''
-    num: 11
+    num: 18
   bam_ete:
     fold: '554'
     fold_cmp: ''
@@ -651,17 +651,17 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '116'
+    fold: '38'
     fold_cmp: ''
-    num: 6
+    num: 13
   b_198:
-    fold: '34'
+    fold: '23'
     fold_cmp: ''
-    num: 4
+    num: 11
   b_196_198:
-    fold: '111'
+    fold: '48'
     fold_cmp: ''
-    num: 3
+    num: 10
   JMB2002:
     fold: '369'
     fold_cmp: ''

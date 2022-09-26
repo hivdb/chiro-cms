@@ -201,16 +201,16 @@
 - pattern: other variants
   var_name: other variants
   median_fold: 2.8
-  num_ref_name: 42
-  num_fold: 2002
-  S: 1383
+  num_ref_name: 43
+  num_fold: 2064
+  S: 1445
   I: 428
   R: 190
 - pattern: Individual mutations and mutation combinations
   var_name: Individual mutations and mutation combinations
   median_fold: ''
-  num_ref_name: 55
-  num_fold: 6609
+  num_ref_name: 56
+  num_fold: 6702
   S: ''
   I: ''
   R: ''

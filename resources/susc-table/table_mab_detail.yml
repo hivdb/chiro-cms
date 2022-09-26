@@ -80,8 +80,8 @@
   origin: Transgenic mice
 - mab: Sotrovimab
   synonyms: GSK4182136;S309;Vir-7831;Xevudy
-  num_ref_name: 73
-  num_fold: 729
+  num_ref_name: 74
+  num_fold: 737
   avail: EUA
   target: RBD
   class: RBD Core Cluster I
@@ -110,8 +110,8 @@
   origin: CP
 - mab: Bebtelovimab
   synonyms: LY-CoV1404;LY3853113
-  num_ref_name: 24
-  num_fold: 438
+  num_ref_name: 25
+  num_fold: 446
   avail: EUA
   target: RBD
   class: RBM Class II
@@ -120,8 +120,8 @@
   origin: CP
 - mab: Cilgavimab
   synonyms: COV2-2130;AZD1061
-  num_ref_name: 58
-  num_fold: 402
+  num_ref_name: 59
+  num_fold: 410
   avail: EUA
   target: RBD
   class: RBM Class II
@@ -130,8 +130,8 @@
   origin: CP
 - mab: Tixagevimab
   synonyms: COV2-2196;AZD8895
-  num_ref_name: 57
-  num_fold: 392
+  num_ref_name: 58
+  num_fold: 400
   avail: EUA
   target: RBD
   class: RBM Class I
@@ -140,8 +140,8 @@
   origin: CP
 - mab: Amubarvimab
   synonyms: BRII-196;P2C-1F11
-  num_ref_name: 21
-  num_fold: 337
+  num_ref_name: 22
+  num_fold: 345
   avail: CN-Approved
   target: RBD
   class: RBM Class I
@@ -150,8 +150,8 @@
   origin: ''
 - mab: Romlusevimab
   synonyms: BRII-198;P2B-1G5
-  num_ref_name: 13
-  num_fold: 170
+  num_ref_name: 14
+  num_fold: 178
   avail: CN-Approved
   target: RBD
   class: RBD Core Cluster II
