@@ -148,3 +148,4 @@ outbreakInfo:
     _resource: sierra-sars2/outbreak.info/lineages.json
 highlightUnusualMutation: true
 highlightDRM: true
+refSequencePath: downloads/NC_045512.2.fas

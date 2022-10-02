@@ -43,7 +43,11 @@ sequence-analysis-form-desc: |-
   entered.  Sequences must be entered using the FASTA format if multiple
   sequences are entered. Sequences can be pasted in the text box or uploaded
   using the File Upload option. The upper limit is currently 100 sequences
-  containing ~30000 nucleotides per sequence.
+  containing ~30000 nucleotides per sequence. The input sequences will be
+  aligned to the reference sequence Wuhan-Hu-1
+  ([NC_045512.2](https://s3-us-west-2.amazonaws.com/cms.hivdb.org/chiro-prod/downloads/NC_045512.2.fas)).
+  The report provides lineage/variant, mutations, quality assessment, drug
+  resistance comments and susceptibility summary.
 
 seqreads-analysis-form-title: >- # Warning: title doesn't support markdown
   SARS-CoV-2 Sequence Reads (NGS) Analysis
@@ -76,6 +80,11 @@ ngs2codfreq-form-desc: |-
   SARS-CoV-2 NGS Pipeline **converts FASTQ files into codon frequency tables
   (CodFreq files)**. The pipeline first aligns FASTQ files using MINIMAP2. It
   then extracts codon frequency tables from the output SAM files.
+
+ngs2codfreq-primer-bed-input-desc: |-
+  Please upload a SARS-CoV-2 primer BED file or enter SARS-CoV-2 primer
+  locations between 1 to 29903 according to the reference sequence Wuhan-Hu-1
+  ([NC_045512.2](https://www.ncbi.nlm.nih.gov/nuccore/1798174254)).
 
 codfreq-example: |-
   Example of a CodFreq file. Two additional columns "aminoAcid" and "percent"
