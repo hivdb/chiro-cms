@@ -91,8 +91,10 @@ ngs2codfreq-primer-fasta-input-desc: |-
   - Others are identified as 5′ and 3’ end
 
 ngs2codfreq-primer-bed-input-desc: |-
-  Please upload a SARS-CoV-2 primer BED file or enter SARS-CoV-2 primer
-  locations between 1 to 29903 according to the numbering system of Wuhan-Hu-1
+  Please upload a SARS-CoV-2 primer BED file or enter
+  [zero-based](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/bedtools/BEDTools-User-Manual.v4.pdf)
+  SARS-CoV-2 primer locations between 0 to 29903 according to the numbering
+  system of Wuhan-Hu-1
   ([NC_045512.2](https://www.ncbi.nlm.nih.gov/nuccore/1798174254)).
 
 codfreq-example: |-
