@@ -148,4 +148,5 @@ outbreakInfo:
     _resource: sierra-sars2/outbreak.info/lineages.json
 highlightUnusualMutation: true
 highlightDRM: true
-refSequencePath: downloads/NC_045512.2.fas
+refSequencePath: "downloads/NC_045512.2.fas"
+refSequenceName: "Wuhan-Hu-1::NC_045512.2"
