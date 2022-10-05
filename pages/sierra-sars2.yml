@@ -56,7 +56,7 @@ seqReadsDefaultParams:
   strain: SARS2
   maxMixtureRate: 0.0005 # ≤0.05%
   minPrevalence: 0.1  # ≥10%
-  minPositionReads: 5
+  minPositionReads: 10
 seqReadsMaxMixtureRate:
   - value: 0.0
     label: "(no mixture)"
@@ -90,10 +90,14 @@ seqReadsMinPositionReadsOptions:
     label: "(don't apply)"
   - value: 5
     label: ≥5
+  - value: 10
+    label: ≥10
   - value: 25
     label: ≥25
   - value: 50
     label: ≥50
+  - value: 100
+    label: ≥100
 messages:
   .:
     _resource: sierra-sars2/messages.yml
