@@ -2,7 +2,7 @@
 pageTitle: SARS-CoV-2 Variants
 introHeader: |-
   SARS-CoV-2 Variants
-drdbVersion: "20220928-141333-variants"
+drdbVersion: "20221006-165248-variants"
 regionPresets:
   presets:
     - name: spike
@@ -30,8 +30,124 @@ regionPresets:
 resistanceMutations:
   _resource: resistance-mutations.json
 sections:
-  - title: Omicron
-    name: omicron
+  - title: Omicron/BA.2
+    name: omicron_ba_2
+    subTitle: Variant of Concern (VOC)
+    contentBefore:
+      _resource: variant-description.yml
+      _resource_key: variant-desc_Omicron
+    attrlist:
+      _resource: variant-description.yml
+      _resource_key: variant-attrlist_Omicron
+    autoGenomeMaps:
+      - title: BA.2
+        varName: Omicron/BA.2
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.2)
+      - title: BA.2.12.1
+        varName: Omicron/BA.2.12.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.2.12.1)
+      - title: BA.2.3.20
+        varName: Omicron/BA.2.3.20
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.2.3.20)
+      - title: BA.2.10.4
+        varName: Omicron/BA.2.10.4
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.2.10.4)
+      - title: BJ.1
+        varName: Omicron/BJ.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BJ.1)
+      - title: XBB
+        varName: Omicron/XBB
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=XBB)
+      - title: BA.2.75
+        varName: Omicron/BA.2.75
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.2.75)
+      - title: BA.2.75.2
+        varName: Omicron/BA.2.75.2
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.2.75.2)
+      - title: BL.1
+        varName: Omicron/BL.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BL.1)
+      - title: BR.1
+        varName: Omicron/BR.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BR.1)
+      - title: BN.1
+        varName: Omicron/BN.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BN.1)
+      - title: BN.2.1
+        varName: Omicron/BN.2.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BN.2.1)
+      - title: BM.1.1
+        varName: Omicron/BM.1.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BM.1.1)
+      - title: BM.1.1.1
+        varName: Omicron/BM.1.1.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BM.1.1.1)
+      - title: BR.2
+        varName: Omicron/BR.2
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BR.2)
+      - title: CA.1
+        varName: Omicron/CA.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=CA.1)
+  - title: Omicron/BA.4/5
+    name: omicron_ba_4_5
+    subTitle: Variant of Concern (VOC)
+    contentBefore:
+      _resource: variant-description.yml
+      _resource_key: variant-desc_Omicron
+    attrlist:
+      _resource: variant-description.yml
+      _resource_key: variant-attrlist_Omicron
+    autoGenomeMaps:
+      - title: BA.4
+        varName: Omicron/BA.4
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.4)
+      - title: BA.5
+        varName: Omicron/BA.5
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.5)
+      - title: BA.4.6
+        varName: Omicron/BA.4.6
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.4.6)
+      - title: BA.4.6.1
+        varName: Omicron/BA.4.6.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.4.6.1)
+      - title: BA.5.6.2
+        varName: Omicron/BA.5.6.2
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.5.6.2)
+      - title: BQ.1
+        varName: Omicron/BQ.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BQ.1)
+      - title: BQ.1.1
+        varName: Omicron/BQ.1.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BQ.1.1)
+      - title: BU.1
+        varName: Omicron/BU.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BU.1)
+  - title: Omicron/BA.1/3
+    name: omicron_ba_1_3
     subTitle: Variant of Concern (VOC)
     contentBefore:
       _resource: variant-description.yml
@@ -44,34 +160,14 @@ sections:
         varName: Omicron/BA.1
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.1)
-      - title: BA.2
-        varName: Omicron/BA.2
+      - title: BA.1.1
+        varName: Omicron/BA.1.1
         source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.2)
-      - title: BA.2.12.1
-        varName: Omicron/BA.2.12.1
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.2.12.1)
-      - title: BA.2.75
-        varName: Omicron/BA.2.75
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.2.75)
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.1.1)
       - title: BA.3
         varName: Omicron/BA.3
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.3)
-      - title: BA.4
-        varName: Omicron/BA.4
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.4)
-      - title: BA.5
-        varName: Omicron/BA.5
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.5)
-      - title: XE
-        varName: Omicron/XE
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=XE)
   - title: Alpha
     name: alpha
     subTitle: Previous Variant of Concern
