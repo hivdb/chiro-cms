@@ -13,19 +13,19 @@ table_voc_ntd
 ### Other spike mutations (mutations occurring in >=2 listed variants)
 
 [table]
-table_voc_other_s
+table_voc_ctd
 [/table]
 
 ### Non-spike mutations (mutations occurring in >=2 listed variants)
 
 [table]
-table_voc_non_s1
+table_voc_pre_s
 [/table]
 
 ### Non-spike mutations (mutations occurring in >=2 listed variants)
 
 [table]
-table_voc_non_s2
+table_voc_post_s
 [/table]
 
 ### SARS-COV-2 Variants Tracking sites

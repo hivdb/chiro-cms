@@ -2,7 +2,7 @@
 pageTitle: SARS-CoV-2 Variants
 introHeader: |-
   SARS-CoV-2 Variants
-drdbVersion: "20221006-165248-variants"
+drdbVersion: "20221007-155254-variants"
 regionPresets:
   presets:
     - name: spike
@@ -134,6 +134,10 @@ sections:
         varName: Omicron/BA.5.6.2
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.5.6.2)
+      - title: BF.1
+        varName: Omicron/BF.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BF.1)
       - title: BQ.1
         varName: Omicron/BQ.1
         source: >-
@@ -418,258 +422,579 @@ sections:
         varName: B.1.640.2
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.640.2)
-  - title: Variants Consensus Comparison
-    subTitle: Table of variants and their consensus mutations
-    name: comparison-table
+  - title: Omicron Comparison
+    subTitle: compare omicron variants' mutations
+    name: omicron-comp-table
     contentAfter:
-      _resource: mutation-compare.md
+      _resource: mutation-omicron-compare.md
+  - title: VOC Comparison
+    subTitle: compare voc variants' mutations
+    name: voc-comp-table
+    contentAfter:
+      _resource: mutation-variants-compare.md
 tables:
-  table_voc_compare:
+  table_omicron_ctd:
+    columnDefs:
+    - label: Variant
+      name: name
+    - label: T 547
+      name: T547
+    - label: H 655
+      name: H655
+    - label: N 658
+      name: N658
+    - label: N 679
+      name: N679
+    - label: P 681
+      name: P681
+    - label: N 764
+      name: N764
+    - label: D 796
+      name: D796
+    - label: N 856
+      name: N856
+    - label: Q 954
+      name: Q954
+    - label: N 969
+      name: N969
+    - label: L 981
+      name: L981
+    - label: D 1199
+      name: D1199
+    data:
+      _resource: mutation-viewer/omicron_mut_align.yml
     tableScrollStyle:
       maxHeight: none
+  table_omicron_ntd:
     columnDefs:
-    - name: name
-      label: Variant
-    - name: who_name
-      label: "WHO name"
-    - name: who
-      label: WHO
-    - name: cdc
-      label: CDC
-    - name: cog_uk
-      label: COG-UK
-    - name: ecdc
-      label: ECDC
-    - name: url
-      label: Link
+    - label: Variant
+      name: name
+    - label: T 19
+      name: T19
+    - label: L 24
+      name: L24
+    - label: P 25
+      name: P25
+    - label: P 26
+      name: P26
+    - label: A 27
+      name: A27
+    - label: A 67
+      name: A67
+    - label: H 69
+      name: H69
+    - label: V 70
+      name: V70
+    - label: V 83
+      name: V83
+    - label: T 95
+      name: T95
+    - label: G 142
+      name: G142
+    - label: V 143
+      name: V143
+    - label: Y 144
+      name: Y144
+    - label: Y 145
+      name: Y145
+    - label: H 146
+      name: H146
+    - label: K 147
+      name: K147
+    - label: W 152
+      name: W152
+    - label: F 157
+      name: F157
+    - label: Q 183
+      name: Q183
+    - label: I 210
+      name: I210
+    - label: N 211
+      name: N211
+    - label: L 212
+      name: L212
+    - label: V 213
+      name: V213
+    - label: G 257
+      name: G257
+    data:
+      _resource: mutation-viewer/omicron_mut_align.yml
+    tableScrollStyle:
+      maxHeight: none
+  table_omicron_post_s:
+    columnDefs:
+    - label: Variant
+      name: name
+    - label: E:T 11
+      name: E:T11
+    - label: E:T 9
+      name: E:T9
+    - label: M:A 63
+      name: M:A63
+    - label: M:D 3
+      name: M:D3
+    - label: M:Q 19
+      name: M:Q19
+    - label: N:E 136
+      name: N:E136
+    - label: N:E 31
+      name: N:E31
+    - label: N:G 204
+      name: N:G204
+    - label: N:P 13
+      name: N:P13
+    - label: N:P 151
+      name: N:P151
+    - label: N:R 203
+      name: N:R203
+    - label: N:R 32
+      name: N:R32
+    - label: N:S 33
+      name: N:S33
+    - label: N:S 413
+      name: N:S413
+    - label: N:T 334
+      name: N:T334
+    - label: ORF6:D 61
+      name: ORF6:D61
+    data:
+      _resource: mutation-viewer/omicron_mut_align.yml
+    tableScrollStyle:
+      maxHeight: none
+  table_omicron_pre_s:
+    columnDefs:
+    - label: Variant
+      name: name
+    - label: ORF3a:T 223
+      name: ORF3a:T223
+    - label: ORF7b:L 11
+      name: ORF7b:L11
+    - label: PLpro:A 1892
+      name: PLpro:A1892
+    - label: PLpro:G 489
+      name: PLpro:G489
+    - label: PLpro:K 38
+      name: PLpro:K38
+    - label: PLpro:L 1266
+      name: PLpro:L1266
+    - label: PLpro:P 822
+      name: PLpro:P822
+    - label: PLpro:S 1265
+      name: PLpro:S1265
+    - label: PLpro:S 403
+      name: PLpro:S403
+    - label: PLpro:T 24
+      name: PLpro:T24
+    - label: RdRP:G 671
+      name: RdRP:G671
+    - label: RdRP:P 323
+      name: RdRP:P323
+    - label: RdRP:Y 273
+      name: RdRP:Y273
+    - label: _3CLpro:P 132
+      name: _3CLpro:P132
+    - label: nsp13:M 233
+      name: nsp13:M233
+    - label: nsp13:R 392
+      name: nsp13:R392
+    - label: nsp13:S 36
+      name: nsp13:S36
+    - label: nsp13:V 484
+      name: nsp13:V484
+    - label: nsp14:I 42
+      name: nsp14:I42
+    - label: nsp14:V 182
+      name: nsp14:V182
+    - label: nsp15:T 112
+      name: nsp15:T112
+    - label: nsp1:F 143
+      name: nsp1:F143
+    - label: nsp1:K 141
+      name: nsp1:K141
+    - label: nsp1:K 47
+      name: nsp1:K47
+    - label: nsp1:S 135
+      name: nsp1:S135
+    - label: nsp1:S 142
+      name: nsp1:S142
+    - label: nsp2:Q 376
+      name: nsp2:Q376
+    - label: nsp4:L 264
+      name: nsp4:L264
+    - label: nsp4:L 438
+      name: nsp4:L438
+    - label: nsp4:T 327
+      name: nsp4:T327
+    - label: nsp4:T 492
+      name: nsp4:T492
+    - label: nsp6:F 108
+      name: nsp6:F108
+    - label: nsp6:G 107
+      name: nsp6:G107
+    - label: nsp6:I 189
+      name: nsp6:I189
+    - label: nsp6:L 105
+      name: nsp6:L105
+    - label: nsp6:L 260
+      name: nsp6:L260
+    - label: nsp6:S 106
+      name: nsp6:S106
+    - label: nsp8:N 118
+      name: nsp8:N118
+    data:
+      _resource: mutation-viewer/omicron_mut_align.yml
+    tableScrollStyle:
+      maxHeight: none
+  table_omicron_rbd:
+    columnDefs:
+    - label: Variant
+      name: name
+    - label: G 339
+      name: G339
+    - label: R 346
+      name: R346
+    - label: K 356
+      name: K356
+    - label: L 368
+      name: L368
+    - label: S 371
+      name: S371
+    - label: S 373
+      name: S373
+    - label: S 375
+      name: S375
+    - label: T 376
+      name: T376
+    - label: D 405
+      name: D405
+    - label: R 408
+      name: R408
+    - label: K 417
+      name: K417
+    - label: N 440
+      name: N440
+    - label: K 444
+      name: K444
+    - label: V 445
+      name: V445
+    - label: G 446
+      name: G446
+    - label: L 452
+      name: L452
+    - label: N 460
+      name: N460
+    - label: S 477
+      name: S477
+    - label: T 478
+      name: T478
+    - label: E 484
+      name: E484
+    - label: F 486
+      name: F486
+    - label: F 490
+      name: F490
+    - label: Q 493
+      name: Q493
+    - label: G 496
+      name: G496
+    - label: Q 498
+      name: Q498
+    - label: N 501
+      name: N501
+    - label: Y 505
+      name: Y505
+    data:
+      _resource: mutation-viewer/omicron_mut_align.yml
+    tableScrollStyle:
+      maxHeight: none
+  table_voc_compare:
+    columnDefs:
+    - label: Variant
+      name: name
+    - label: WHO name
+      name: who_name
+    - label: WHO
+      name: who
+    - label: CDC
+      name: cdc
+    - label: COG-UK
+      name: cog_uk
+    - label: ECDC
+      name: ecdc
+    - label: Link
+      name: url
     data:
       _resource: mutation-viewer/compare.yml
-  table_voc_rbd:
     tableScrollStyle:
       maxHeight: none
+  table_voc_ctd:
     columnDefs:
-    - name: name
-      label: Variant
-    - name: F306
-      label: F306
-    - name: G339
-      label: G339
-    - name: R346
-      label: R346
-    - name: V367
-      label: V367
-    - name: S371
-      label: S371
-    - name: S373
-      label: S373
-    - name: S375
-      label: S375
-    - name: T376
-      label: T376
-    - name: P384
-      label: P384
-    - name: D405
-      label: D405
-    - name: R408
-      label: R408
-    - name: Q414
-      label: Q414
-    - name: K417
-      label: K417
-    - name: N439
-      label: N439
-    - name: N440
-      label: N440
-    - name: Y449
-      label: Y449
-    - name: N450
-      label: N450
-    - name: L452
-      label: L452
-    - name: S477
-      label: S477
-    - name: T478
-      label: T478
-    - name: V483
-      label: V483
-    - name: E484
-      label: E484
-    - name: F490
-      label: F490
-    - name: Q493
-      label: Q493
-    - name: S494
-      label: S494
-    - name: G496
-      label: G496
-    - name: Q498
-      label: Q498
-    - name: N501
-      label: N501
-    - name: Y505
-      label: Y505
-    - name: E516
-      label: E516
+    - label: Variant
+      name: name
+    - label: A 570
+      name: A570
+    - label: Q 613
+      name: Q613
+    - label: H 655
+      name: H655
+    - label: Q 677
+      name: Q677
+    - label: P 681
+      name: P681
+    - label: A 701
+      name: A701
+    - label: T 716
+      name: T716
+    - label: E 780
+      name: E780
+    - label: D 796
+      name: D796
+    - label: T 859
+      name: T859
+    - label: D 950
+      name: D950
+    - label: S 982
+      name: S982
+    - label: T 1027
+      name: T1027
+    - label: D 1118
+      name: D1118
+    - label: V 1176
+      name: V1176
     data:
       _resource: mutation-viewer/voc_mut_align.yml
+    tableScrollStyle:
+      maxHeight: none
   table_voc_ntd:
-    tableScrollStyle:
-      maxHeight: none
     columnDefs:
-    - name: name
-      label: Variant
-    - name: L18
-      label: L18
-    - name: T19
-      label: T19
-    - name: P26
-      label: P26
-    - name: A67
-      label: A67
-    - name: H69
-      label: H69
-    - name: D80
-      label: D80
-    - name: T95
-      label: T95
-    - name: G142
-      label: G142
-    - name: Y144
-      label: Y144
-    - name: E156
-      label: E156
-    - name: F157
-      label: F157
-    - name: R190
-      label: R190
-    - name: N211
-      label: N211
-    - name: L212
-      label: L212
-    - name: R214
-      label: R214
-    - name: D215
-      label: D215
+    - label: Variant
+      name: name
+    - label: P 9
+      name: P9
+    - label: S 13
+      name: S13
+    - label: L 18
+      name: L18
+    - label: T 19
+      name: T19
+    - label: T 20
+      name: T20
+    - label: P 26
+      name: P26
+    - label: H 69
+      name: H69
+    - label: D 80
+      name: D80
+    - label: T 95
+      name: T95
+    - label: C 136
+      name: C136
+    - label: D 138
+      name: D138
+    - label: G 142
+      name: G142
+    - label: Y 144
+      name: Y144
+    - label: W 152
+      name: W152
+    - label: E 156
+      name: E156
+    - label: F 157
+      name: F157
+    - label: R 190
+      name: R190
+    - label: D 215
+      name: D215
+    - label: A 222
+      name: A222
+    - label: L 241
+      name: L241
     data:
       _resource: mutation-viewer/voc_mut_align.yml
-  table_voc_other_s:
     tableScrollStyle:
       maxHeight: none
+  table_voc_post_s:
     columnDefs:
-    - name: name
-      label: Variant
-    - name: T547
-      label: T547
-    - name: Q613
-      label: Q613
-    - name: D614
-      label: D614
-    - name: H655
-      label: H655
-    - name: Q677
-      label: Q677
-    - name: N679
-      label: N679
-    - name: P681
-      label: P681
-    - name: A701
-      label: A701
-    - name: T716
-      label: T716
-    - name: N764
-      label: N764
-    - name: D796
-      label: D796
-    - name: N856
-      label: N856
-    - name: T859
-      label: T859
-    - name: D950
-      label: D950
-    - name: Q954
-      label: Q954
-    - name: N969
-      label: N969
-    - name: L981
-      label: L981
-    - name: T1027
-      label: T1027
-    - name: D1118
-      label: D1118
-    - name: V1176
-      label: V1176
+    - label: Variant
+      name: name
+    - label: E:L 21
+      name: E:L21
+    - label: E:P 71
+      name: E:P71
+    - label: M:H 125
+      name: M:H125
+    - label: M:I 82
+      name: M:I82
+    - label: N:D 3
+      name: N:D3
+    - label: N:D 377
+      name: N:D377
+    - label: N:D 63
+      name: N:D63
+    - label: N:G 204
+      name: N:G204
+    - label: N:G 212
+      name: N:G212
+    - label: N:G 215
+      name: N:G215
+    - label: N:M 234
+      name: N:M234
+    - label: N:P 13
+      name: N:P13
+    - label: N:P 80
+      name: N:P80
+    - label: N:R 203
+      name: N:R203
+    - label: N:S 202
+      name: N:S202
+    - label: N:S 235
+      name: N:S235
+    - label: N:T 205
+      name: N:T205
+    - label: ORF8:D 119
+      name: ORF8:D119
+    - label: ORF8:E 92
+      name: ORF8:E92
+    - label: ORF8:F 120
+      name: ORF8:F120
+    - label: ORF8:L 84
+      name: ORF8:L84
+    - label: ORF8:Q 27
+      name: ORF8:Q27
+    - label: ORF8:R 52
+      name: ORF8:R52
+    - label: ORF8:T 11
+      name: ORF8:T11
+    - label: ORF8:Y 73
+      name: ORF8:Y73
     data:
       _resource: mutation-viewer/voc_mut_align.yml
-  table_voc_non_s1:
     tableScrollStyle:
       maxHeight: none
+  table_voc_pre_s:
     columnDefs:
-    - name: name
-      label: Variant
-    - name: E:T9
-      label: E:T9
-    - name: M:D3
-      label: M:D3
-    - name: M:Q19
-      label: M:Q19
-    - name: M:A63
-      label: M:A63
-    - name: M:I82
-      label: M:I82
-    - name: N:D3
-      label: N:D3
-    - name: N:P13
-      label: N:P13
-    - name: N:E31
-      label: N:E31
-    - name: N:R203
-      label: N:R203
-    - name: N:G204
-      label: N:G204
-    - name: N:T205
-      label: N:T205
-    - name: N:D377
-      label: N:D377
-    - name: ORF3a:Q57
-      label: ORF3a:Q57
-    - name: ORF7a:V82
-      label: ORF7a:V82
+    - label: Variant
+      name: name
+    - label: 3CL:G 15
+      name: 3CL:G15
+    - label: 3CL:K 90
+      name: 3CL:K90
+    - label: ORF3a:N 257
+      name: ORF3a:N257
+    - label: ORF3a:Q 57
+      name: ORF3a:Q57
+    - label: ORF3a:S 171
+      name: ORF3a:S171
+    - label: ORF3a:S 253
+      name: ORF3a:S253
+    - label: ORF3a:S 26
+      name: ORF3a:S26
+    - label: ORF7a:T 120
+      name: ORF7a:T120
+    - label: ORF7a:V 82
+      name: ORF7a:V82
+    - label: ORF7b:T 40
+      name: ORF7b:T40
+    - label: PLpro:A 488
+      name: PLpro:A488
+    - label: PLpro:A 890
+      name: PLpro:A890
+    - label: PLpro:I 1412
+      name: PLpro:I1412
+    - label: PLpro:K 837
+      name: PLpro:K837
+    - label: PLpro:K 977
+      name: PLpro:K977
+    - label: PLpro:N 1778
+      name: PLpro:N1778
+    - label: PLpro:P 1228
+      name: PLpro:P1228
+    - label: PLpro:P 1469
+      name: PLpro:P1469
+    - label: PLpro:P 822
+      name: PLpro:P822
+    - label: PLpro:S 370
+      name: PLpro:S370
+    - label: PLpro:T 183
+      name: PLpro:T183
+    - label: PLpro:T 428
+      name: PLpro:T428
+    - label: PLpro:T 749
+      name: PLpro:T749
+    - label: RdRP:G 671
+      name: RdRP:G671
+    - label: RdRP:P 323
+      name: RdRP:P323
+    - label: nsp13:D 260
+      name: nsp13:D260
+    - label: nsp13:E 341
+      name: nsp13:E341
+    - label: nsp13:K 460
+      name: nsp13:K460
+    - label: nsp13:P 77
+      name: nsp13:P77
+    - label: nsp14:A 394
+      name: nsp14:A394
+    - label: nsp1:E 102
+      name: nsp1:E102
+    - label: nsp2:T 85
+      name: nsp2:T85
+    - label: nsp4:A 446
+      name: nsp4:A446
+    - label: nsp4:D 217
+      name: nsp4:D217
+    - label: nsp4:L 438
+      name: nsp4:L438
+    - label: nsp4:T 492
+      name: nsp4:T492
+    - label: nsp4:V 167
+      name: nsp4:V167
+    - label: nsp6:M 183
+      name: nsp6:M183
+    - label: nsp6:Q 160
+      name: nsp6:Q160
+    - label: nsp6:S 106
+      name: nsp6:S106
+    - label: nsp6:T 181
+      name: nsp6:T181
+    - label: nsp6:T 77
+      name: nsp6:T77
+    - label: nsp6:V 149
+      name: nsp6:V149
+    - label: nsp7:L 71
+      name: nsp7:L71
+    - label: nsp8:T 148
+      name: nsp8:T148
+    - label: nsp9:T 35
+      name: nsp9:T35
     data:
       _resource: mutation-viewer/voc_mut_align.yml
-  table_voc_non_s2:
     tableScrollStyle:
       maxHeight: none
+  table_voc_rbd:
     columnDefs:
-    - name: name
-      label: Variant
-    - name: 3CL:P132
-      label: 3CL:P132
-    - name: PLpro:K38
-      label: PLpro:K38
-    - name: PLpro:S1265
-      label: PLpro:S1265
-    - name: PLpro:L1266
-      label: PLpro:L1266
-    - name: PLpro:P1469
-      label: PLpro:P1469
-    - name: PLpro:A1892
-      label: PLpro:A1892
-    - name: RdRP:P323
-      label: RdRP:P323
-    - name: nsp2:T85
-      label: nsp2:T85
-    - name: nsp4:L438
-      label: nsp4:L438
-    - name: nsp4:T492
-      label: nsp4:T492
-    - name: nsp6:S106
-      label: nsp6:∆106-108
-    - name: nsp6:I189
-      label: nsp6:I189
-    - name: nsp14:I42
-      label: nsp14:I42
+    - label: Variant
+      name: name
+    - label: R 346
+      name: R346
+    - label: K 417
+      name: K417
+    - label: N 439
+      name: N439
+    - label: L 452
+      name: L452
+    - label: T 478
+      name: T478
+    - label: E 484
+      name: E484
+    - label: S 494
+      name: S494
+    - label: N 501
+      name: N501
     data:
       _resource: mutation-viewer/voc_mut_align.yml
+    tableScrollStyle:
+      maxHeight: none
 contentAfter: |-
   <div style="text-align: center;">
 
