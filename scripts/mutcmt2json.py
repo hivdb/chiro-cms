@@ -19,7 +19,7 @@ def mutcmt2json(input_file, output_file, version):
     for idx, row in enumerate(csv.DictReader(input_file)):
         row['position'] = int(row['position'])
         last_update = datetime.strptime(
-            row['date_added'] or row['date_updated'],
+            row['date_updated'] or row['date_added'],
             '%Y-%m-%d'
         ).strftime('%b %-d, %Y')
         row['comment'] = (
