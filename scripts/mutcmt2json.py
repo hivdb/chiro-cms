@@ -3,6 +3,7 @@
 import csv
 import json
 import click
+from datetime import datetime
 # import textwrap
 # import ruamel.yaml
 # from ruamel.yaml.comments import CommentedSeq
@@ -17,6 +18,15 @@ def mutcmt2json(input_file, output_file, version):
     rows = []  # CommentedSeq()
     for idx, row in enumerate(csv.DictReader(input_file)):
         row['position'] = int(row['position'])
+        last_update = datetime.strptime(
+            row['date_added'] or row['date_updated'],
+            '%Y-%m-%d'
+        ).strftime('%b %-d, %Y')
+        row['comment'] = (
+            '{} ({})'
+            .format(row['comment'], last_update)
+            .replace('  ', ' ')
+        )
         # row['comments'] = LiteralScalarString(
         #     '\n'.join(textwrap.wrap(
         #         row['comments'],
