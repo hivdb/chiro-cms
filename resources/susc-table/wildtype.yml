@@ -1,19 +1,27 @@
 - var_name: A
   pattern: ''
 - var_name: A
-  pattern: V367F
+  pattern: N74K+H655Y+S686G
+- var_name: A
+  pattern: D614G
+- var_name: A
+  pattern: N74K+D80N+H655Y+R682L+S686G
+- var_name: A
+  pattern: N74K+S686G
 - var_name: A.2.2
   pattern: ''
 - var_name: B
-  pattern: H49Y
+  pattern: S247R
 - var_name: B
   pattern: ''
 - var_name: B
-  pattern: S247R
+  pattern: H49Y
+- var_name: B.1
+  pattern: D614G
 - var_name: B.1
   pattern: D215Y+D614G
 - var_name: B.1
-  pattern: D614G
+  pattern: S13I+S50L+D614G+V620I
 - var_name: B.1.1
   pattern: D614G
 - var_name: B.1.1.1

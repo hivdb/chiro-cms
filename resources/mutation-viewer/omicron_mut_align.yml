@@ -1659,6 +1659,7 @@
   nsp6:G107: del
   nsp6:S106: del
 - A27: del
+  D178: E
   D405: N
   D614: G
   D796: Y
@@ -1682,10 +1683,10 @@
   N969: K
   N:E31: del
   N:G204: R
+  N:G30: del
   N:P13: L
   N:R203: K
   N:R32: del
-  N:S33: del
   N:S413: R
   ORF3a:T223: I
   P25: del
@@ -1695,6 +1696,7 @@
   PLpro:T24: I
   Q498: R
   Q954: H
+  R346: T
   R408: S
   RdRP:P323: L
   S371: F
@@ -1708,11 +1710,10 @@
   V70: del
   Y505: H
   _3CLpro:P132: H
-  name: BF.1
+  name: BF.7
   nsp13:R392: C
   nsp14:I42: V
   nsp15:T112: I
-  nsp16:V288: F
   nsp1:S135: R
   nsp4:L264: F
   nsp4:T327: I

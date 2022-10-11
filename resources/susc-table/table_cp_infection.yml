@@ -9,7 +9,7 @@
   num_fold: 125
 - variant: Delta
   num_ref_name: 35
-  num_fold: 237865
+  num_fold: 246285
 - variant: Epsilon
   num_ref_name: 1
   num_fold: 1105
@@ -24,19 +24,19 @@
   num_fold: 468
 - variant: Mu
   num_ref_name: 2
-  num_fold: 1792
+  num_fold: 1904
 - variant: Omicron/BA.1
   num_ref_name: 22
   num_fold: 147060
 - variant: Omicron/BA.1.1
   num_ref_name: 2
-  num_fold: 5428
+  num_fold: 5192
 - variant: Omicron/BA.2
   num_ref_name: 8
-  num_fold: 13283
+  num_fold: 12565
 - variant: Omicron/BA.4
   num_ref_name: 1
-  num_fold: 585
+  num_fold: 325
 - variant: Omicron/BA.5
   num_ref_name: 1
   num_fold: 468
