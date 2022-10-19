@@ -18,7 +18,7 @@
   cil:
     fold: '0.6'
     fold_cmp: ''
-    num: 13
+    num: 14
   imd:
     fold: '0.6'
     fold_cmp: ''
@@ -103,7 +103,7 @@
   cil:
     fold: '1.1'
     fold_cmp: ''
-    num: 13
+    num: 14
   imd:
     fold: '0.6'
     fold_cmp: ''
@@ -188,7 +188,7 @@
   cil:
     fold: '0.5'
     fold_cmp: ''
-    num: 11
+    num: 12
   imd:
     fold: '0.4'
     fold_cmp: ''
@@ -362,9 +362,9 @@
     fold_cmp: '>'
     num: 45
   sot:
-    fold: '3.8'
+    fold: '3.9'
     fold_cmp: ''
-    num: 51
+    num: 52
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -447,9 +447,9 @@
     fold_cmp: ''
     num: 25
   sot:
-    fold: '25'
+    fold: '26'
     fold_cmp: ''
-    num: 35
+    num: 36
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -625,7 +625,7 @@
     fold_cmp: ''
     num: 2
   beb:
-    fold: '3.8'
+    fold: '5.2'
     fold_cmp: ''
     num: 6
   cas_imd:
@@ -915,9 +915,9 @@
     fold_cmp: '>'
     num: 10
   cil:
-    fold: '0.7'
+    fold: '0.8'
     fold_cmp: ''
-    num: 4
+    num: 5
   imd:
     fold: '1.4'
     fold_cmp: ''
@@ -990,7 +990,7 @@
   cil:
     fold: '2.7'
     fold_cmp: ''
-    num: 3
+    num: 5
   imd:
     fold: '1.7'
     fold_cmp: ''
@@ -1284,7 +1284,7 @@
   cil:
     fold: '1.3'
     fold_cmp: ''
-    num: 9
+    num: 10
   imd:
     fold: '1'
     fold_cmp: ''
@@ -1365,9 +1365,9 @@
     fold_cmp: '>'
     num: 6
   cil:
-    fold: '1.4'
+    fold: '1.2'
     fold_cmp: ''
-    num: 3
+    num: 4
   imd:
     fold: '1'
     fold_cmp: ''
@@ -1444,9 +1444,9 @@
     fold_cmp: ''
     num: 7
   cil:
-    fold: '0.7'
+    fold: '0.6'
     fold_cmp: ''
-    num: 7
+    num: 8
   imd:
     fold: '0.8'
     fold_cmp: ''
@@ -1527,9 +1527,9 @@
     fold_cmp: '>'
     num: 3
   cil:
-    fold: '3.7'
+    fold: '5.7'
     fold_cmp: ''
-    num: 2
+    num: 3
   imd:
     fold: '2.1'
     fold_cmp: ''
@@ -1827,7 +1827,9 @@
     fold_cmp: ''
     num: 5
   cil:
-    fold: '-'
+    fold: '1.2'
+    fold_cmp: ''
+    num: 1
   imd:
     fold: '30'
     fold_cmp: ''
@@ -2060,7 +2062,9 @@
     fold_cmp: ''
     num: 2
   cil:
-    fold: '-'
+    fold: '0.8'
+    fold_cmp: ''
+    num: 1
   imd:
     fold: '1.4'
     fold_cmp: ''
@@ -2287,9 +2291,9 @@
     fold_cmp: '>'
     num: 3
   cil:
-    fold: '3.7'
+    fold: '5.7'
     fold_cmp: ''
-    num: 2
+    num: 3
   imd:
     fold: '2.1'
     fold_cmp: ''
@@ -2362,7 +2366,9 @@
     fold_cmp: ''
     num: 3
   cil:
-    fold: '-'
+    fold: '1.1'
+    fold_cmp: ''
+    num: 1
   imd:
     fold: '1.2'
     fold_cmp: ''
@@ -2431,7 +2437,9 @@
     fold_cmp: ''
     num: 3
   cil:
-    fold: '-'
+    fold: '1.2'
+    fold_cmp: ''
+    num: 1
   imd:
     fold: '1.2'
     fold_cmp: ''

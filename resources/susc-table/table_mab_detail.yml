@@ -28,6 +28,16 @@
   pdb: 7K8Z
   institute: Rockefeller University
   origin: CP
+- mab: STI-2020
+  synonyms: COVI-AMG
+  num_ref_name: 1
+  num_fold: 1
+  avail: Phase 2
+  target: ''
+  class: ''
+  pdb: ''
+  institute: Sorrento Therapeutics
+  origin: Phage display library
 - mab: DXP-604
   synonyms: BD-604
   num_ref_name: 6
@@ -70,8 +80,8 @@
   origin: Transgenic mice
 - mab: Sotrovimab
   synonyms: GSK4182136;S309;Vir-7831;Xevudy
-  num_ref_name: 77
-  num_fold: 796
+  num_ref_name: 78
+  num_fold: 809
   avail: EUA
   target: RBD
   class: RBD Core Cluster I
@@ -108,6 +118,16 @@
   pdb: 7KMG
   institute: Eli Lilly
   origin: CP
+- mab: Cilgavimab
+  synonyms: COV2-2130;AZD1061
+  num_ref_name: 63
+  num_fold: 508
+  avail: EUA
+  target: RBD
+  class: RBM Class II
+  pdb: 7L7E
+  institute: AstraZeneca
+  origin: CP
 - mab: Bebtelovimab
   synonyms: LY-CoV1404;LY3853113
   num_ref_name: 28
@@ -117,16 +137,6 @@
   class: RBM Class II
   pdb: 7MMO
   institute: Eli Lilly
-  origin: CP
-- mab: Cilgavimab
-  synonyms: COV2-2130;AZD1061
-  num_ref_name: 62
-  num_fold: 453
-  avail: EUA
-  target: RBD
-  class: RBM Class II
-  pdb: 7L7E
-  institute: AstraZeneca
   origin: CP
 - mab: Tixagevimab
   synonyms: COV2-2196;AZD8895

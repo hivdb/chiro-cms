@@ -2,24 +2,24 @@
   var_name: Alpha
   median_fold: 1.5
   num_ref_name: 126
-  num_fold: 9471
-  S: 8105
+  num_fold: 9483
+  S: 8117
   I: 876
   R: 486
 - pattern: Beta
   var_name: Beta
-  median_fold: 3.9
+  median_fold: 3.8
   num_ref_name: 169
-  num_fold: 20161
-  S: 13787
+  num_fold: 20173
+  S: 13799
   I: 5083
   R: 1287
 - pattern: Delta
   var_name: Delta
   median_fold: 2.1
   num_ref_name: 154
-  num_fold: 18007
-  S: 15465
+  num_fold: 18019
+  S: 15477
   I: 2227
   R: 310
 - pattern: Gamma
@@ -34,10 +34,10 @@
   var_name: Omicron/BA.1
   median_fold: 5.6
   num_ref_name: 143
-  num_fold: 20913
-  S: 9551
-  I: 8826
-  R: 2509
+  num_fold: 20845
+  S: 9487
+  I: 8821
+  R: 2510
 - pattern: Omicron/BA.1.1
   var_name: Omicron/BA.1.1
   median_fold: 7.0
@@ -48,10 +48,10 @@
   R: 217
 - pattern: Omicron/BA.2
   var_name: Omicron/BA.2
-  median_fold: 4.2
+  median_fold: 4.1
   num_ref_name: 55
-  num_fold: 4513
-  S: 2549
+  num_fold: 4525
+  S: 2561
   I: 1768
   R: 196
 - pattern: Omicron/BA.2.10.4
@@ -64,11 +64,11 @@
   R: 0
 - pattern: Omicron/BA.2.12.1
   var_name: Omicron/BA.2.12.1
-  median_fold: 6.3
+  median_fold: 6.4
   num_ref_name: 20
-  num_fold: 1573
-  S: 483
-  I: 1015
+  num_fold: 1493
+  S: 490
+  I: 928
   R: 75
 - pattern: Omicron/BA.2.13
   var_name: Omicron/BA.2.13
@@ -400,11 +400,11 @@
   R: 30
 - pattern: Omicron/BA.4
   var_name: Omicron/BA.4
-  median_fold: 8.5
+  median_fold: 8.1
   num_ref_name: 2
-  num_fold: 93
-  S: 35
-  I: 49
+  num_fold: 99
+  S: 40
+  I: 50
   R: 9
 - pattern: Omicron/BA.4.6
   var_name: Omicron/BA.4.6
@@ -432,11 +432,11 @@
   R: 0
 - pattern: Omicron/BA.5
   var_name: Omicron/BA.5
-  median_fold: 8.5
+  median_fold: 9.1
   num_ref_name: 32
-  num_fold: 3356
-  S: 583
-  I: 2539
+  num_fold: 3992
+  S: 587
+  I: 3171
   R: 210
 - pattern: Omicron/BA.5.1.12
   var_name: Omicron/BA.5.1.12
@@ -682,10 +682,10 @@
   var_name: other variants
   median_fold: 2.3
   num_ref_name: 74
-  num_fold: 5721
+  num_fold: 5727
   S: 4281
-  I: 1087
-  R: 348
+  I: 1092
+  R: 349
 - pattern: Individual mutations and mutation combinations
   var_name: Individual mutations and mutation combinations
   median_fold: ''
