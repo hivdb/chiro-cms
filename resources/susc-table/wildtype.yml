@@ -1,36 +1,50 @@
 - var_name: A
   pattern: ''
 - var_name: A
-  pattern: N74K+H655Y+S686G
+  pattern: N74K+D80N+H655Y+R682L+S686G
+- var_name: A
+  pattern: V367F
+- var_name: A
+  pattern: N74K+S686G
 - var_name: A
   pattern: D614G
 - var_name: A
-  pattern: N74K+D80N+H655Y+R682L+S686G
-- var_name: A
-  pattern: N74K+S686G
+  pattern: N74K+H655Y+S686G
 - var_name: A.2.2
   pattern: ''
 - var_name: B
-  pattern: S247R
-- var_name: B
   pattern: ''
+- var_name: B
+  pattern: N74K+T76I+T76N+T76S+T76T+E484D+E484E+D614G
+- var_name: B
+  pattern: S247R
 - var_name: B
   pattern: H49Y
 - var_name: B.1
-  pattern: D614G
+  pattern: L249S+E484K+D614G
 - var_name: B.1
   pattern: D215Y+D614G
+- var_name: B.1
+  pattern: D614G
 - var_name: B.1
   pattern: S13I+S50L+D614G+V620I
 - var_name: B.1.1
   pattern: D614G
+- var_name: B.1.1
+  pattern: V320G+V320V+D614G+N709D+N709N+A1020V
 - var_name: B.1.1.1
   pattern: D614G
 - var_name: B.1.1.117
   pattern: D614G+A688V
+- var_name: B.1.1.273
+  pattern: E484K+D614G+A1078V
+- var_name: B.1.1.273
+  pattern: E484K+D614G
 - var_name: B.1.1.50
   pattern: D614G
 - var_name: B.1.177
   pattern: A222V+D614G
 - var_name: B.1.319
   pattern: D614G
+- var_name: B.38
+  pattern: D215H+E484D+S686G

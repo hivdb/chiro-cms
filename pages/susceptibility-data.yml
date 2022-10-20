@@ -14,19 +14,26 @@ githubTitle: Download this database from GitHub
 sections:
   - title: Table 1
     name: table-mab-susc
-    shortDesc: MAb vs variants/mutations
+    shortDesc: MAb vs variants/mutations wt
     desc: >-
       Virus variants and spike mutations vs monoclonal antibodies
     content:
       _resource: susceptibility-data/table-mab-susc.md
   - title: Table 2
+    name: table-mab-ba2
+    shortDesc: MAb vs variants/mutations omicron
+    desc: >-
+      Omicron variants vs monoclonal antibodies
+    content:
+      _resource: susceptibility-data/table-mab-ba2.md
+  - title: Table 3
     name: table-cross-neutral
     shortDesc: "Inf and cross neutral"
     desc: >-
       Convalescent plasma and variant cross neutralization titer
     content:
       _resource: susceptibility-data/table-cross-neutral.md
-  - title: Table 3
+  - title: Table 4
     name: table-vacc-neutral
     shortDesc: "Vacc and cross neutral"
     desc: >-
@@ -69,7 +76,7 @@ sections:
       to the variants of concern (VOC)
     content:
       _resource: susceptibility-data/figure-vp-2dose-w-inf.md
-  - title: Table 4
+  - title: Table 5
     name: table-variant-stats
     shortDesc: "Variants and #"
     desc: >-
@@ -77,14 +84,14 @@ sections:
       neutralization data are available
     content:
       _resource: susceptibility-data/table-variant-stats.md
-  - title: Table 5
+  - title: Table 6
     name: table-single-mut-stats
     shortDesc: "Mutations and #"
     desc: >-
       Individual SARS-CoV-2 spike mutations for which data are available
     content:
       _resource: susceptibility-data/table-single-mut-stats.md
-  - title: Table 6
+  - title: Table 7
     name: table-mab-stats
     shortDesc: "MAbs and #"
     desc: >-
@@ -92,7 +99,7 @@ sections:
       advanced clinical trials
     content:
       _resource: susceptibility-data/table-mab-stats.md
-  - title: Table 7
+  - title: Table 8
     name: table-vp-stats
     shortDesc: "Vaccines and #"
     desc: >-
@@ -101,7 +108,7 @@ sections:
       SARS-CoV-2 variant tested
     content:
       _resource: susceptibility-data/table-vp-stats.md
-  - title: Table 8
+  - title: Table 9
     name: table-cp-stats
     shortDesc: "CP and #"
     desc: >-
@@ -1303,3 +1310,107 @@ tables:
       sortable: False
     data:
       _resource: susc-table/table_vaccine_neutral_inf.yml
+  table_mab_ba2:
+    tableScrollStyle:
+      maxHeight: none
+    columnDefs:
+    - name: variant
+      label: "Test&#10189;mAb"
+    - name: bam
+      label: "BAM"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: ete
+      label: "ETE"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: bam_ete
+      label: "BAM/ETE"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: cas
+      label: "CAS"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: imd
+      label: "IMD"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: cas_imd
+      label: "CAS/IMD"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: cil
+      label: "CIL"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: tix
+      label: "TIX"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: cil_tix
+      label: "CIL/TIX"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: sot
+      label: "SOT"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: beb
+      label: 'BEB'
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: adi
+      label: ADI
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    data:
+      _resource: susc-table/table_mab_ba2.yml
+  table_mab_ba2_non_eua:
+    tableScrollStyle:
+      maxHeight: none
+    columnDefs:
+    - name: variant
+      label: "Test&#10189;mAb"
+    - name: reg
+      label: "REG"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: b_196
+      label: AMU
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: b_198
+      label: ROM
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: b_196_198
+      label: AMU/ROM
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: C135
+      label: C135
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: C144
+      label: C144
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: c_135_144
+      label: C135/C144
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: JMB2002
+      label: JMB2002
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: Vir7832
+      label: Vir-7832
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: DXP604
+      label: "DXP-604"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    data:
+      _resource: susc-table/table_mab_ba2.yml

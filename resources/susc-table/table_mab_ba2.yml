@@ -1,0 +1,415 @@
+- variant: Omicron/BA.2.75
+  cas:
+    fold: '-'
+  ete:
+    fold: '-'
+  tix:
+    fold: '-'
+  bam:
+    fold: '-'
+  cil:
+    fold: '56'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '1.7'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '0.8'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  beb:
+    fold: '2.4'
+    fold_cmp: ''
+    num: 1
+  cas_imd:
+    fold: '0.5'
+    fold_cmp: ''
+    num: 1
+  cil_tix:
+    fold: '15'
+    fold_cmp: ''
+    num: 1
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '-'
+  b_198:
+    fold: '-'
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  adi:
+    fold: '-'
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '27'
+    fold_cmp: ''
+    num: 1
+- variant: Omicron/BA.2.75.2
+  cas:
+    fold: '-'
+  ete:
+    fold: '-'
+  tix:
+    fold: '-'
+  bam:
+    fold: '-'
+  cil:
+    fold: '159'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '1.7'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '1'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  beb:
+    fold: '3.3'
+    fold_cmp: ''
+    num: 1
+  cas_imd:
+    fold: '1.2'
+    fold_cmp: ''
+    num: 1
+  cil_tix:
+    fold: '122'
+    fold_cmp: ''
+    num: 1
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '-'
+  b_198:
+    fold: '-'
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  adi:
+    fold: '-'
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '4.6'
+    fold_cmp: ''
+    num: 1
+- variant: Omicron/BA.4/5
+  cas:
+    fold: '-'
+  ete:
+    fold: '-'
+  tix:
+    fold: '6'
+    fold_cmp: ''
+    num: 1
+  bam:
+    fold: '-'
+  cil:
+    fold: '3.7'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '1.5'
+    fold_cmp: ''
+    num: 2
+  sot:
+    fold: '1.2'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  beb:
+    fold: '1.0'
+    fold_cmp: ''
+    num: 2
+  cas_imd:
+    fold: '0.9'
+    fold_cmp: ''
+    num: 1
+  cil_tix:
+    fold: '4.9'
+    fold_cmp: ''
+    num: 1
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '-'
+  b_198:
+    fold: '-'
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  adi:
+    fold: '-'
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '29'
+    fold_cmp: ''
+    num: 1
+- variant: Omicron/BA.4.6
+  cas:
+    fold: '-'
+  ete:
+    fold: '-'
+  tix:
+    fold: '-'
+  bam:
+    fold: '-'
+  cil:
+    fold: '159'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '3.7'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '4.2'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  beb:
+    fold: '1.1'
+    fold_cmp: ''
+    num: 1
+  cas_imd:
+    fold: '5.3'
+    fold_cmp: ''
+    num: 1
+  cil_tix:
+    fold: '122'
+    fold_cmp: ''
+    num: 1
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '-'
+  b_198:
+    fold: '-'
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  adi:
+    fold: '-'
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '19'
+    fold_cmp: ''
+    num: 1
+- variant: Omicron/XBB
+  cas:
+    fold: '-'
+  ete:
+    fold: '-'
+  tix:
+    fold: '-'
+  bam:
+    fold: '-'
+  cil:
+    fold: '159'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '1.7'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '1.1'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  beb:
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
+  cas_imd:
+    fold: '1.2'
+    fold_cmp: ''
+    num: 1
+  cil_tix:
+    fold: '122'
+    fold_cmp: ''
+    num: 1
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '-'
+  b_198:
+    fold: '-'
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  adi:
+    fold: '-'
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '4.6'
+    fold_cmp: ''
+    num: 1
+- variant: Omicron/BQ.1
+  cas:
+    fold: '-'
+  ete:
+    fold: '-'
+  tix:
+    fold: '-'
+  bam:
+    fold: '-'
+  cil:
+    fold: '159'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '1.7'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '2'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  beb:
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
+  cas_imd:
+    fold: '1.2'
+    fold_cmp: ''
+    num: 1
+  cil_tix:
+    fold: '122'
+    fold_cmp: ''
+    num: 1
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '-'
+  b_198:
+    fold: '-'
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  adi:
+    fold: '-'
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '4.6'
+    fold_cmp: ''
+    num: 1
+- variant: Omicron/BQ.1.1
+  cas:
+    fold: '-'
+  ete:
+    fold: '-'
+  tix:
+    fold: '-'
+  bam:
+    fold: '-'
+  cil:
+    fold: '159'
+    fold_cmp: ''
+    num: 1
+  imd:
+    fold: '1.7'
+    fold_cmp: ''
+    num: 1
+  sot:
+    fold: '6.6'
+    fold_cmp: ''
+    num: 1
+  reg:
+    fold: '-'
+  beb:
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
+  cas_imd:
+    fold: '1.2'
+    fold_cmp: ''
+    num: 1
+  cil_tix:
+    fold: '122'
+    fold_cmp: ''
+    num: 1
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '-'
+  b_198:
+    fold: '-'
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  adi:
+    fold: '-'
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '4.6'
+    fold_cmp: ''
+    num: 1
