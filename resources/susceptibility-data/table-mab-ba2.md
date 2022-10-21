@@ -1,10 +1,10 @@
-### Fold reduced neutralizing susceptibility (compared with Omicron/BA.2) to monoclonal antibodies under Emergency Use Authorization (EUA)
+### Fold reduced neutralizing susceptibility (compared to Omicron/BA.2) to monoclonal antibodies under Emergency Use Authorization (EUA)
 
 [table noHeaderOverlapping]
 table_mab_ba2
 [/table]
 
-### Fold reduced neutralizing susceptibility (compared with Omicron/BA.2) to monoclonal antibodies in other clinical trials
+### Fold reduced neutralizing susceptibility (compared to Omicron/BA.2) to monoclonal antibodies in other clinical trials
 
 [table noHeaderOverlapping]
 table_mab_ba2_non_eua

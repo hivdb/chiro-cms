@@ -14,16 +14,16 @@ githubTitle: Download this database from GitHub
 sections:
   - title: Table 1
     name: table-mab-susc
-    shortDesc: MAb vs variants/mutations wt
+    shortDesc: mAb vs variants/mutations wt
     desc: >-
       Virus variants and spike mutations vs monoclonal antibodies
     content:
       _resource: susceptibility-data/table-mab-susc.md
   - title: Table 2
     name: table-mab-ba2
-    shortDesc: MAb vs variants/mutations omicron
+    shortDesc: mAb vs variants/mutations omicron
     desc: >-
-      Omicron variants vs monoclonal antibodies
+      Omicron variants vs monoclonal antibodies -- fold reduced neutralizing susceptibity compared to BA.2
     content:
       _resource: susceptibility-data/table-mab-ba2.md
   - title: Table 3
