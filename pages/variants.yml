@@ -173,6 +173,10 @@ sections:
     name: omicron-comp-table
     contentAfter:
       _resource: mutation-omicron-compare.md
+  - title: External Resources
+    name: external-resources
+    contentAfter:
+      _resource: variants-external-resources.md
   - title: Alpha
     name: alpha
     contentBefore:
