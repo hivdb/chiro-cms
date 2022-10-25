@@ -30,9 +30,29 @@ regionPresets:
 resistanceMutations:
   _resource: resistance-mutations.json
 sections:
-  - title: Omicron/BA.2
+  - title: Omicron BA.1
+    name: omicron_ba_1_3
+    contentBefore:
+      _resource: variant-description.yml
+      _resource_key: variant-desc_Omicron
+    attrlist:
+      _resource: variant-description.yml
+      _resource_key: variant-attrlist_Omicron
+    autoGenomeMaps:
+      - title: BA.1
+        varName: Omicron/BA.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.1)
+      - title: BA.1.1
+        varName: Omicron/BA.1.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.1.1)
+      - title: BA.3
+        varName: Omicron/BA.3
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.3)
+  - title: Omicron BA.2
     name: omicron_ba_2
-    subTitle: Variant of Concern (VOC)
     contentBefore:
       _resource: variant-description.yml
       _resource_key: variant-desc_Omicron
@@ -104,9 +124,8 @@ sections:
         varName: Omicron/CA.1
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=CA.1)
-  - title: Omicron/BA.4/5
+  - title: Omicron BA.4/5
     name: omicron_ba_4_5
-    subTitle: Variant of Concern (VOC)
     contentBefore:
       _resource: variant-description.yml
       _resource_key: variant-desc_Omicron
@@ -150,31 +169,12 @@ sections:
         varName: Omicron/BU.1
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=BU.1)
-  - title: Omicron/BA.1/3
-    name: omicron_ba_1_3
-    subTitle: Variant of Concern (VOC)
-    contentBefore:
-      _resource: variant-description.yml
-      _resource_key: variant-desc_Omicron
-    attrlist:
-      _resource: variant-description.yml
-      _resource_key: variant-attrlist_Omicron
-    autoGenomeMaps:
-      - title: BA.1
-        varName: Omicron/BA.1
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.1)
-      - title: BA.1.1
-        varName: Omicron/BA.1.1
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.1.1)
-      - title: BA.3
-        varName: Omicron/BA.3
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=BA.3)
+  - title: Omicron Mutation Chart
+    name: omicron-comp-table
+    contentAfter:
+      _resource: mutation-omicron-compare.md
   - title: Alpha
     name: alpha
-    subTitle: Previous Variant of Concern
     contentBefore:
       _resource: variant-description.yml
       _resource_key: variant-desc_Alpha
@@ -204,7 +204,6 @@ sections:
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=Q.4)
   - title: Beta
     name: beta
-    subTitle: Previous Variant of Concern
     contentBefore:
       _resource: variant-description.yml
       _resource_key: variant-desc_Beta
@@ -226,7 +225,6 @@ sections:
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.351.3)
   - title: Gamma
     name: gamma
-    subTitle: Previous Variant of Concern
     contentBefore:
       _resource: variant-description.yml
       _resource_key: variant-desc_Gamma
@@ -248,7 +246,6 @@ sections:
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.1.2)
   - title: Delta
     name: delta
-    subTitle: Previous Variant of Concern
     contentBefore:
       _resource: variant-description.yml
       _resource_key: variant-desc_Delta
@@ -304,16 +301,8 @@ sections:
         varName: _Delta/AY.11
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.11)
-  - title: Variants of Interest (VOI)
-    subTitle: and Previous VOI
-    name: voi
-    contentBefore: >-
-      Following depicts the consensus of previously circulating variants of
-      interest listed by [WHO page "Tracking SARS-CoV-2 variants"][WHO21] (last
-      update: June 7, 2022). The WHO page states that there is no currently
-      circulating variant of interest.
-
-      [WHO21]: https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/
+  - title: Other variants
+    name: other
     autoGenomeMaps:
       - title: Epsilon/B.1.427 (previous VOI)
         varName: _Epsilon/B.1.427
@@ -351,17 +340,6 @@ sections:
         varName: Mu
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.621)
-  - title: Variants under monitoring (VUM)
-    subTitle: and Formerly Monitored Variants (FMV)
-    name: vum
-    contentBefore: >-
-      Following depicts the consensus of previous variants of interest listed
-      by [WHO page "Tracking SARS-CoV-2 variants"][WHO21] (last update: June 7,
-      2022). The WHO page states that there is currently no variant under
-      monitoring.
-
-      [WHO21]: https://www.who.int/en/activities/tracking-SARS-CoV-2-variants/
-    autoGenomeMaps:
       - title: AV.1 (FMV)
         varName: AV.1
         source: >-
@@ -422,13 +400,7 @@ sections:
         varName: B.1.640.2
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.640.2)
-  - title: Omicron Comparison
-    subTitle: compare omicron variants' mutations
-    name: omicron-comp-table
-    contentAfter:
-      _resource: mutation-omicron-compare.md
-  - title: VOC Comparison
-    subTitle: compare voc variants' mutations
+  - title: Non-Omicron Mutation Chart
     name: voc-comp-table
     contentAfter:
       _resource: mutation-variants-compare.md

@@ -20,20 +20,13 @@ sections:
     content:
       _resource: susceptibility-data/table-mab-susc.md
   - title: Table 2
-    name: table-mab-ba2
-    shortDesc: mAb vs variants/mutations omicron
-    desc: >-
-      Omicron variants vs monoclonal antibodies -- fold reduced neutralizing susceptibity compared to BA.2
-    content:
-      _resource: susceptibility-data/table-mab-ba2.md
-  - title: Table 3
     name: table-cross-neutral
     shortDesc: "Inf and cross neutral"
     desc: >-
       Convalescent plasma and variant cross neutralization titer
     content:
       _resource: susceptibility-data/table-cross-neutral.md
-  - title: Table 4
+  - title: Table 3
     name: table-vacc-neutral
     shortDesc: "Vacc and cross neutral"
     desc: >-
@@ -76,7 +69,7 @@ sections:
       to the variants of concern (VOC)
     content:
       _resource: susceptibility-data/figure-vp-2dose-w-inf.md
-  - title: Table 5
+  - title: Table 4
     name: table-variant-stats
     shortDesc: "Variants and #"
     desc: >-
@@ -84,14 +77,14 @@ sections:
       neutralization data are available
     content:
       _resource: susceptibility-data/table-variant-stats.md
-  - title: Table 6
+  - title: Table 5
     name: table-single-mut-stats
     shortDesc: "Mutations and #"
     desc: >-
       Individual SARS-CoV-2 spike mutations for which data are available
     content:
       _resource: susceptibility-data/table-single-mut-stats.md
-  - title: Table 7
+  - title: Table 6
     name: table-mab-stats
     shortDesc: "MAbs and #"
     desc: >-
@@ -99,7 +92,7 @@ sections:
       advanced clinical trials
     content:
       _resource: susceptibility-data/table-mab-stats.md
-  - title: Table 8
+  - title: Table 7
     name: table-vp-stats
     shortDesc: "Vaccines and #"
     desc: >-
@@ -108,7 +101,7 @@ sections:
       SARS-CoV-2 variant tested
     content:
       _resource: susceptibility-data/table-vp-stats.md
-  - title: Table 9
+  - title: Table 8
     name: table-cp-stats
     shortDesc: "CP and #"
     desc: >-
