@@ -1118,6 +1118,51 @@
     fold: '91'
     fold_cmp: ''
     num: 1
+- variant: Omicron/BF.7
+  cas:
+    fold: '-'
+  ete:
+    fold: '-'
+  tix:
+    fold: '-'
+  bam:
+    fold: '-'
+  cil:
+    fold: '-'
+  imd:
+    fold: '-'
+  sot:
+    fold: '-'
+  reg:
+    fold: '-'
+  beb:
+    fold: '-'
+  cas_imd:
+    fold: '-'
+  cil_tix:
+    fold: '-'
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '-'
+  b_198:
+    fold: '-'
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  adi:
+    fold: '-'
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '-'
 - variant: Iota
   cas:
     fold: '9.3'
