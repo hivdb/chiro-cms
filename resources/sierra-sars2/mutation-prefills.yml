@@ -1,4 +1,141 @@
-- name: VOC Alpha
+- name: Omicron/BA.1
+  mutations:
+  - S:67V
+  - S:69del
+  - S:70del
+  - S:95I
+  - S:142D
+  - S:143del
+  - S:144del
+  - S:145del
+  - S:211I
+  - S:212del
+  - S:214ins
+  - S:339D
+  - S:371L
+  - S:373P
+  - S:375F
+  - S:417N
+  - S:440K
+  - S:446S
+  - S:477N
+  - S:478K
+  - S:484A
+  - S:493R
+  - S:496S
+  - S:498R
+  - S:501Y
+  - S:505H
+  - S:547K
+  - S:614G
+  - S:655Y
+  - S:679K
+  - S:681H
+  - S:764K
+  - S:796Y
+  - S:856K
+  - S:954H
+  - S:969K
+  - S:981F
+- name: Omicron/BA.2
+  mutations:
+  - S:19I
+  - S:24S
+  - S:25del
+  - S:26del
+  - S:27del
+  - S:142D
+  - S:213G
+  - S:339D
+  - S:371F
+  - S:373P
+  - S:375F
+  - S:376A
+  - S:405N
+  - S:408S
+  - S:417N
+  - S:440K
+  - S:477N
+  - S:478K
+  - S:484A
+  - S:493R
+  - S:498R
+  - S:501Y
+  - S:505H
+  - S:614G
+  - S:655Y
+  - S:679K
+  - S:681H
+  - S:764K
+  - S:796Y
+  - S:954H
+  - S:969K
+- name: Omicron/BA.3
+  mutations:
+  - S:67V
+  - S:69del
+  - S:70del
+  - S:95I
+  - S:142D
+  - S:143del
+  - S:144del
+  - S:145del
+  - S:211I
+  - S:212del
+  - S:339D
+  - S:440K
+  - S:477N
+  - S:478K
+  - S:484A
+  - S:493R
+  - S:498R
+  - S:501Y
+  - S:505H
+  - S:614G
+  - S:655Y
+  - S:679K
+  - S:681H
+  - S:764K
+  - S:796Y
+  - S:954H
+  - S:969K
+- name: Omicron/BA.4/5
+  mutations:
+  - S:19I
+  - S:24S
+  - S:25del
+  - S:26del
+  - S:27del
+  - S:69del
+  - S:70del
+  - S:142D
+  - S:213G
+  - S:339D
+  - S:371F
+  - S:373P
+  - S:375F
+  - S:376A
+  - S:405N
+  - S:408S
+  - S:417N
+  - S:440K
+  - S:452R
+  - S:477N
+  - S:478K
+  - S:484A
+  - S:486V
+  - S:498R
+  - S:501Y
+  - S:505H
+  - S:614G
+  - S:655Y
+  - S:679K
+  - S:681H
+  - S:764K
+  - S:796Y
+  - S:954H
+  - S:969K
+- name: Alpha
   mutations:
   - S:H69del
   - S:V70del
@@ -10,7 +147,7 @@
   - S:T716I
   - S:S982A
   - S:D1118H
-- name: VOC Beta
+- name: Beta
   mutations:
   - S:L18F
   - S:D80A
@@ -24,7 +161,7 @@
   - S:N501Y
   - S:D614G
   - S:A701V
-- name: VOC Gamma
+- name: Gamma
   mutations:
   - S:L18F
   - S:T20N
@@ -38,7 +175,7 @@
   - S:H655Y
   - S:T1027I
   - S:V1176F
-- name: VOC Delta
+- name: Delta
   mutations:
   - S:T19R
   - S:F157del
@@ -48,47 +185,7 @@
   - S:D614G
   - S:P681R
   - S:D950N
-- name: VOC Omicron
-  mutations:
-  - S:A67V
-  - S:H69del
-  - S:V70del
-  - S:T95I
-  - S:G142D
-  - S:V143del
-  - S:Y144del
-  - S:Y145del
-  - S:N211I
-  - S:L212del
-  - S:R214ins
-  - S:G339D
-  - S:S371L
-  - S:S373P
-  - S:S375F
-  - S:K417N
-  - S:N440K
-  - S:G446S
-  - S:S477N
-  - S:T478K
-  - S:E484A
-  - S:Q493R
-  - S:G496S
-  - S:Q498R
-  - S:N501Y
-  - S:Y505H
-  - S:T547K
-  - S:D614G
-  - S:H655Y
-  - S:N679K
-  - S:P681H
-  - S:A701V
-  - S:N764K
-  - S:D796Y
-  - S:N856K
-  - S:Q954H
-  - S:N969K
-  - S:L981F
-- name: VOI Lambda (C.37)
+- name: Lambda (C.37)
   mutations:
   - S:G75V
   - S:T76I
@@ -103,7 +200,7 @@
   - S:F490S
   - S:D614G
   - S:T859N
-- name: VOI Mu (B.1.621)
+- name: Mu (B.1.621)
   mutations:
   - S:T95I
   - S:Y144S
@@ -114,7 +211,7 @@
   - S:D614G
   - S:P681H
   - S:D950N
-- name: VUM B.1.525 (former VOI Eta)
+- name: Eta (B.1.525)
   mutations:
   - S:Q52R
   - S:A67V
@@ -125,7 +222,7 @@
   - S:D614G
   - S:Q677H
   - S:F888L
-- name: VUM B.1.526 (former VOI Iota)
+- name: Iota (B.1.526)
   mutations:
   - S:L5F
   - S:T95I
@@ -133,7 +230,7 @@
   - S:E484K
   - S:D614G
   - S:A701V
-- name: VUM B.1.617.1 (former VOI Kappa)
+- name: Kappa (B.1.617.1)
   mutations:
   - S:T95I
   - S:G142D
@@ -143,18 +240,18 @@
   - S:D614G
   - S:P681R
   - S:Q1071H
-- name: Former VUM B.1.427/9 (former VOI Epsilon)
+- name: Epsilon (B.1.427/9)
   mutations:
   - S:S13I
   - S:W152C
   - S:L452R
   - S:D614G
-- name: Former VUM P.2 (former VOI Zeta)
+- name: Zeta (P.2)
   mutations:
   - S:E484K
   - S:D614G
   - S:V1176F
-- name: Former VUM P.3 (former VOI Theta)
+- name: Theta (P.3)
   mutations:
   - S:141del
   - S:142del
