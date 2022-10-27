@@ -7,7 +7,7 @@ regionPresets:
   presets:
     - name: spike
       label: Spike protein
-      highlightGenes: [S]
+      highlightGenes: [_3CLpro, RdRP, S]
       preset:
         <<: &presetCommon
           width: 1720
@@ -20,7 +20,7 @@ regionPresets:
           _resource: mutation-viewer/sars2-regions.yml
     - name: evenly-distributed
       label: Whole genome
-      highlightGenes: [S]
+      highlightGenes: [_3CLpro, RdRP, S]
       preset:
         <<: *presetCommon
         .:
@@ -38,6 +38,18 @@ sections:
     attrlist:
       _resource: variant-description.yml
       _resource_key: variant-attrlist_Omicron
+    defaultParentVariant: Omicron/BA.1
+    parentVariants:
+      - title: BA.1
+        varName: Omicron/BA.1
+      - title: BA.2
+        varName: Omicron/BA.2
+      - title: BA.3
+        varName: Omicron/BA.3
+      - title: BA.4
+        varName: Omicron/BA.4
+      - title: BA.5
+        varName: Omicron/BA.5
     autoGenomeMaps:
       - title: BA.1
         varName: Omicron/BA.1
@@ -59,6 +71,18 @@ sections:
     attrlist:
       _resource: variant-description.yml
       _resource_key: variant-attrlist_Omicron
+    defaultParentVariant: Omicron/BA.2
+    parentVariants:
+      - title: BA.1
+        varName: Omicron/BA.1
+      - title: BA.2
+        varName: Omicron/BA.2
+      - title: BA.3
+        varName: Omicron/BA.3
+      - title: BA.4
+        varName: Omicron/BA.4
+      - title: BA.5
+        varName: Omicron/BA.5
     autoGenomeMaps:
       - title: BA.2
         varName: Omicron/BA.2
@@ -132,6 +156,18 @@ sections:
     attrlist:
       _resource: variant-description.yml
       _resource_key: variant-attrlist_Omicron
+    defaultParentVariant: Omicron/BA.4
+    parentVariants:
+      - title: BA.1
+        varName: Omicron/BA.1
+      - title: BA.2
+        varName: Omicron/BA.2
+      - title: BA.3
+        varName: Omicron/BA.3
+      - title: BA.4
+        varName: Omicron/BA.4
+      - title: BA.5
+        varName: Omicron/BA.5
     autoGenomeMaps:
       - title: BA.4
         varName: Omicron/BA.4
