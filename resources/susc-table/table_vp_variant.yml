@@ -9,18 +9,18 @@
 - pattern: Beta
   var_name: Beta
   median_fold: 3.8
-  num_ref_name: 169
-  num_fold: 20173
-  S: 13799
-  I: 5083
-  R: 1287
+  num_ref_name: 170
+  num_fold: 20230
+  S: 13835
+  I: 5098
+  R: 1293
 - pattern: Delta
   var_name: Delta
   median_fold: 2.1
-  num_ref_name: 156
-  num_fold: 18145
-  S: 15584
-  I: 2246
+  num_ref_name: 157
+  num_fold: 18202
+  S: 15640
+  I: 2247
   R: 310
 - pattern: Gamma
   var_name: Gamma
@@ -33,11 +33,11 @@
 - pattern: Omicron/BA.1
   var_name: Omicron/BA.1
   median_fold: 5.6
-  num_ref_name: 148
-  num_fold: 21020
-  S: 9586
-  I: 8897
-  R: 2510
+  num_ref_name: 149
+  num_fold: 21077
+  S: 9589
+  I: 8949
+  R: 2512
 - pattern: Omicron/BA.1.1
   var_name: Omicron/BA.1.1
   median_fold: 7.0
@@ -73,11 +73,11 @@
 - pattern: Omicron/BA.2
   var_name: Omicron/BA.2
   median_fold: 4.1
-  num_ref_name: 59
-  num_fold: 4710
-  S: 2674
-  I: 1824
-  R: 212
+  num_ref_name: 60
+  num_fold: 4767
+  S: 2686
+  I: 1866
+  R: 215
 - pattern: Omicron/BA.2.10.4
   var_name: Omicron/BA.2.10.4
   median_fold: 11.0
@@ -465,11 +465,11 @@
 - pattern: Omicron/BA.5
   var_name: Omicron/BA.5
   median_fold: 9.1
-  num_ref_name: 37
-  num_fold: 4225
-  S: 625
-  I: 3315
-  R: 261
+  num_ref_name: 39
+  num_fold: 4388
+  S: 636
+  I: 3464
+  R: 264
 - pattern: Omicron/BA.5.1.12
   var_name: Omicron/BA.5.1.12
   median_fold: 14.0
@@ -558,21 +558,29 @@
   S: 30
   I: 29
   R: 0
+- pattern: Omicron/BA.5/R346I
+  var_name: Omicron/BA.5/R346I
+  median_fold: 14.0
+  num_ref_name: 1
+  num_fold: 145
+  S: 8
+  I: 137
+  R: 0
 - pattern: Omicron/BA.5/R346S
   var_name: Omicron/BA.5/R346S
-  median_fold: 12.0
-  num_ref_name: 1
-  num_fold: 14
-  S: 0
-  I: 14
+  median_fold: 15.0
+  num_ref_name: 2
+  num_fold: 159
+  S: 8
+  I: 151
   R: 0
 - pattern: Omicron/BA.5/R346T
   var_name: Omicron/BA.5/R346T
-  median_fold: 12.0
-  num_ref_name: 1
-  num_fold: 14
-  S: 0
-  I: 14
+  median_fold: 14.0
+  num_ref_name: 2
+  num_fold: 159
+  S: 8
+  I: 151
   R: 0
 - pattern: Omicron/BA.5/R346T+K356T+K417T+K444N+N460K
   var_name: Omicron/BA.5/R346T+K356T+K417T+K444N+N460K

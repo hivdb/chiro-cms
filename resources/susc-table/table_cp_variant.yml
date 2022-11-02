@@ -9,18 +9,18 @@
 - pattern: Beta
   var_name: Beta
   median_fold: 4.0
-  num_ref_name: 108
-  num_fold: 4662
-  S: 2726
-  I: 1672
+  num_ref_name: 109
+  num_fold: 4667
+  S: 2730
+  I: 1673
   R: 252
 - pattern: Delta
   var_name: Delta
   median_fold: 2.2
-  num_ref_name: 75
-  num_fold: 3196
-  S: 2624
-  I: 532
+  num_ref_name: 76
+  num_fold: 3201
+  S: 2628
+  I: 533
   R: 23
 - pattern: Gamma
   var_name: Gamma
@@ -33,10 +33,10 @@
 - pattern: Omicron/BA.1
   var_name: Omicron/BA.1
   median_fold: 9.6
-  num_ref_name: 71
-  num_fold: 2975
-  S: 776
-  I: 1583
+  num_ref_name: 72
+  num_fold: 2980
+  S: 777
+  I: 1587
   R: 553
 - pattern: Omicron/BA.1.1
   var_name: Omicron/BA.1.1
@@ -49,11 +49,11 @@
 - pattern: Omicron/BA.2
   var_name: Omicron/BA.2
   median_fold: 3.7
-  num_ref_name: 28
-  num_fold: 903
-  S: 539
-  I: 236
-  R: 110
+  num_ref_name: 29
+  num_fold: 908
+  S: 541
+  I: 238
+  R: 111
 - pattern: Omicron/BA.2.12.1
   var_name: Omicron/BA.2.12.1
   median_fold: 22.0
@@ -185,10 +185,10 @@
 - pattern: Omicron/BA.5
   var_name: Omicron/BA.5
   median_fold: 5.2
-  num_ref_name: 12
-  num_fold: 320
+  num_ref_name: 13
+  num_fold: 325
   S: 154
-  I: 109
+  I: 114
   R: 56
 - pattern: VOIs (Kappa, Iota, Epsilon, Lambda, Eta, Mu)
   var_name: VOIs (Kappa, Iota, Epsilon, Lambda, Eta, Mu)
