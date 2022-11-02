@@ -38,11 +38,11 @@ projectSections:
         <div style="font-size:1.2rem;line-height:1.5rem;">
         Sierra SARS-CoV-2 Sequence and Antiviral Resistance Analysis Program
         </div>
-      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4160017
+      link: https://doi.org/10.1016/j.jcv.2022.105323
       extLink: true
       description: >-
         <div style="font-size:1rem;color:rgba(0,0,0,.4);">
-        *SSRN* (pre-print), 2022
+        <em>Journal of Clinical Virology</em>, 2022
         </div>
       image: home/pub-sierrapaper.png
     - title: >-
@@ -54,7 +54,7 @@ projectSections:
       extLink: true
       description: >-
         <div style="font-size:1rem;color:rgba(0,0,0,.4);">
-        *Microbiology Spectrum*, 2022
+        <em>Microbiology Spectrum</em>, 2022
         </div>
       image: home/pub-omicronpaper.png
     - title: >-
@@ -67,7 +67,7 @@ projectSections:
       extLink: true
       description: >-
         <div style="font-size:1rem;color:rgba(0,0,0,.4);">
-        *PLOS ONE*, 2022
+        <em>PLOS ONE</em>, 2022
         </div>
       image: home/pub-drdbpaper.png
     - title: >-
@@ -79,7 +79,7 @@ projectSections:
       extLink: true
       description: >-
         <div style="font-size:1rem;color:rgba(0,0,0,.4);">
-        *Nature Reviews genetics*, 2021
+        <em>Nature Reviews genetics</em>, 2021
         </div>
       image: home/pub-var-resistance.png
     - title: >-
@@ -90,7 +90,7 @@ projectSections:
       extLink: true
       description: >-
         <div style="font-size:1rem;color:rgba(0,0,0,.4);">
-        *Clinical Microbiology Reviews*, 2021
+        <em>Clinical Microbiology Reviews</em>, 2021
         </div>
       image: home/pub-av-therapy.png
     - title: >-
@@ -100,7 +100,7 @@ projectSections:
       extLink: true
       description: >-
         <div style="font-size:1rem;color:rgba(0,0,0,.4);">
-        *Global Health & Medicine*, 2020
+        <em>Global Health & Medicine</em>, 2020
         </div>
       link: https://www.jstage.jst.go.jp/article/ghm/advpub/0/advpub_2020.01082/_article
       image: home/pub-editorial.png
@@ -113,7 +113,7 @@ projectSections:
       extLink: true
       description: >-
         <div style="font-size:1rem;color:rgba(0,0,0,.4);">
-        *Virus*, 2020
+        <em>Virus</em>, 2020
         </div>
       link: https://www.mdpi.com/1999-4915/12/9/1006
       image: home/pub-dbpaper.png
