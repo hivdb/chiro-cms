@@ -1,3 +1,138 @@
+- variant: Omicron/BA.1
+  cas:
+    fold: '-'
+  ete:
+    fold: '-'
+  tix:
+    fold: '-'
+  bam:
+    fold: '-'
+  cil:
+    fold: '-'
+  imd:
+    fold: '-'
+  sot:
+    fold: '-'
+  reg:
+    fold: '-'
+  beb:
+    fold: '-'
+  cas_imd:
+    fold: '-'
+  cil_tix:
+    fold: '-'
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '-'
+  b_198:
+    fold: '-'
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  adi:
+    fold: '-'
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '-'
+- variant: Omicron/BA.1.1
+  cas:
+    fold: '-'
+  ete:
+    fold: '-'
+  tix:
+    fold: '-'
+  bam:
+    fold: '-'
+  cil:
+    fold: '-'
+  imd:
+    fold: '-'
+  sot:
+    fold: '-'
+  reg:
+    fold: '-'
+  beb:
+    fold: '-'
+  cas_imd:
+    fold: '-'
+  cil_tix:
+    fold: '-'
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '-'
+  b_198:
+    fold: '-'
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  adi:
+    fold: '-'
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '-'
+- variant: Omicron/BA.2.12.1
+  cas:
+    fold: '-'
+  ete:
+    fold: '-'
+  tix:
+    fold: '-'
+  bam:
+    fold: '-'
+  cil:
+    fold: '-'
+  imd:
+    fold: '-'
+  sot:
+    fold: '-'
+  reg:
+    fold: '-'
+  beb:
+    fold: '-'
+  cas_imd:
+    fold: '-'
+  cil_tix:
+    fold: '-'
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '-'
+  b_198:
+    fold: '-'
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  adi:
+    fold: '-'
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '-'
 - variant: Omicron/BA.2.75
   cas:
     fold: '0.3'
@@ -427,3 +562,48 @@
     fold: '4.6'
     fold_cmp: ''
     num: 1
+- variant: Omicron/BF.7
+  cas:
+    fold: '-'
+  ete:
+    fold: '-'
+  tix:
+    fold: '-'
+  bam:
+    fold: '-'
+  cil:
+    fold: '-'
+  imd:
+    fold: '-'
+  sot:
+    fold: '-'
+  reg:
+    fold: '-'
+  beb:
+    fold: '-'
+  cas_imd:
+    fold: '-'
+  cil_tix:
+    fold: '-'
+  bam_ete:
+    fold: '-'
+  C135:
+    fold: '-'
+  C144:
+    fold: '-'
+  c_135_144:
+    fold: '-'
+  b_196:
+    fold: '-'
+  b_198:
+    fold: '-'
+  b_196_198:
+    fold: '-'
+  JMB2002:
+    fold: '-'
+  adi:
+    fold: '-'
+  Vir7832:
+    fold: '-'
+  DXP604:
+    fold: '-'

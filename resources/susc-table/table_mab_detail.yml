@@ -38,16 +38,6 @@
   pdb: ''
   institute: Sorrento Therapeutics
   origin: Phage display library
-- mab: DXP-604
-  synonyms: BD-604
-  num_ref_name: 6
-  num_fold: 107
-  avail: Phase 1
-  target: RBD
-  class: RBM Class I
-  pdb: 7CH4
-  institute: Singlomics Biopharmaceuticals
-  origin: CP
 - mab: ABBV-47D11
   synonyms: 47D11
   num_ref_name: 3
@@ -111,7 +101,7 @@
 - mab: Bebtelovimab
   synonyms: LY-CoV1404;LY3853113
   num_ref_name: 30
-  num_fold: 567
+  num_fold: 568
   avail: EUA
   target: RBD
   class: RBM Class II
@@ -121,7 +111,7 @@
 - mab: Cilgavimab
   synonyms: COV2-2130;AZD1061
   num_ref_name: 66
-  num_fold: 559
+  num_fold: 560
   avail: EUA
   target: RBD
   class: RBM Class II
@@ -141,7 +131,7 @@
 - mab: Tixagevimab
   synonyms: COV2-2196;AZD8895
   num_ref_name: 63
-  num_fold: 455
+  num_fold: 456
   avail: EUA
   target: RBD
   class: RBM Class I
@@ -168,3 +158,13 @@
   pdb: ''
   institute: Brii Biosciences
   origin: ''
+- mab: DXP-604
+  synonyms: BD-604
+  num_ref_name: 6
+  num_fold: 107
+  avail: CN-Approved
+  target: RBD
+  class: RBM Class I
+  pdb: 7CH4
+  institute: Singlomics Biopharmaceuticals
+  origin: CP
