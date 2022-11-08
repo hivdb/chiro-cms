@@ -33,42 +33,42 @@ sections:
       Vaccinee plasma and variant neutralization titer
     content:
       _resource: susceptibility-data/table-vacc-neutral.md
-  # - title: Figure 1
-  #   name: figure-vp-susc
-  #   shortDesc: VP vs VOCs
-  #   desc: >-
-  #     Distribution of fold-reduction in susceptibilities (A) and of absolute
-  #     neutralizing titers (B) of vaccinee plasma (VP) associated with eight
-  #     vaccines to the five variants of concern (VOC)
-  #   content:
-  #     _resource: susceptibility-data/figure-vp-susc.md
   - title: Figure 1
-    name: figure-vp-2dose-no-inf
-    shortDesc: VP 2dose variant no inf
+    name: fig-plasma_nt_pre_omi_vacc_2
+    shortDesc: Plasma NT pre omicron 2dose no inf
     desc: >-
-      Distribution of absolute neutralizing titers of 2 dose, no history of
-      infection vaccinee plasma (VP) associated with vaccines to the variants
-      of concern (VOC)
+      Distribution of absolute neutralizing Ab titers in persons with no
+      history of infection who received 2 vaccine doses. Each panel indicates
+      the neutralizing titers against different pre-omicron variants according to vaccine history.
     content:
-      _resource: susceptibility-data/figure-vp-2dose-no-inf.md
+      _resource: susceptibility-data/figure-plasma_nt_pre_omi_vacc_2.md
   - title: Figure 2
-    name: figure-vp-3dose-no-inf
-    shortDesc: VP 2dose variant no inf
+    name: fig-plasma_nt_omi_vacc_gteq3
+    shortDesc: Plasma NT omicron 2dose or more no inf
     desc: >-
-      Distribution of absolute neutralizing titers of 3 dose, no history of
-      infection vaccinee plasma (VP) associated with vaccines
-      to the variants of concern (VOC)
+      Distribution of absolute neutralizing Ab titers in persons with no
+      history of infection who received >= 2 vaccine doses. Each panel
+      indicates the neutralizing titers against different omicron variants according to vaccine history.
     content:
-      _resource: susceptibility-data/figure-vp-3dose-no-inf.md
+      _resource: susceptibility-data/figure-plasma_nt_omi_vacc_gteq2.md
   - title: Figure 3
-    name: figure-vp-gteq-2dose-inf
+    name: fig-plasma_nt_pre_omi_inf_vacc_gteq2
     shortDesc: VP 2dose and more variant inf
     desc: >-
-      Distribution of absolute neutralizing titers of 2 dose or more, with
-      history of infection vaccinee plasma (VP) associated with vaccines
-      to the variants of concern (VOC)
+      Distribution of absolute neutralizing Ab titers in persons with a
+      history of infection who received >= 2 vaccine doses. Each panel
+      indicates the neutralizing titers against different pre-omicron variants according to antigen exposure history.
     content:
-      _resource: susceptibility-data/figure-vp-2dose-w-inf.md
+      _resource: susceptibility-data/figure-plasma_nt_pre_omi_inf_vacc_gteq2.md
+  - title: Figure 4
+    name: fig-plasma_nt_omi_inf_vacc_gteq2
+    shortDesc: VP 2dose and more variant inf
+    desc: >-
+      Distribution of absolute neutralizing Ab titers in persons with a
+      history of infection who received >= 2 vaccine doses. Each panel
+      indicates the neutralizing titers against different omicron variants according to antigen exposure history.
+    content:
+      _resource: susceptibility-data/figure-plasma_nt_omi_inf_vacc_gteq2.md
   - title: Table 4
     name: table-variant-stats
     shortDesc: "Variants and #"
@@ -237,7 +237,11 @@ tables:
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: b_196_198
-      label: AMU/ROM
+      label: "AMU/ROM"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: DXP604
+      label: "DXP-604"
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: C135
@@ -258,10 +262,6 @@ tables:
       exportRaw: True
     - name: Vir7832
       label: Vir-7832
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
-      exportRaw: True
-    - name: DXP604
-      label: "DXP-604"
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     data:
@@ -330,7 +330,7 @@ tables:
     - name: var_name
       label: Virus
     - name: var_type
-      lable: Virus type
+      label: Virus type
     - name: num_ref_name
       label: References
     - name: num_exp
