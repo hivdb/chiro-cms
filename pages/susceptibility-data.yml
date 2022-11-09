@@ -37,36 +37,36 @@ sections:
     name: fig-plasma_nt_pre_omi_vacc_2
     shortDesc: Plasma NT pre omicron 2dose no inf
     desc: >-
-      Distribution of absolute neutralizing Ab titers in persons with no
-      history of infection who received 2 vaccine doses. Each panel indicates
-      the neutralizing titers against different pre-omicron variants according to vaccine history.
+      Distribution of neutralizing Ab titers in persons with no
+      history of infection who received >=2 vaccine doses. Panels indicate
+      titers against PRE-OMICRON variants.
     content:
       _resource: susceptibility-data/figure-plasma_nt_pre_omi_vacc_2.md
   - title: Figure 2
     name: fig-plasma_nt_omi_vacc_gteq3
     shortDesc: Plasma NT omicron 2dose or more no inf
     desc: >-
-      Distribution of absolute neutralizing Ab titers in persons with no
-      history of infection who received >= 2 vaccine doses. Each panel
-      indicates the neutralizing titers against different omicron variants according to vaccine history.
+      Distribution of neutralizing Ab titers in persons with no
+      history of infection who received >= 2 vaccine doses. Panels indicate
+      titers against OMICRON variants.
     content:
       _resource: susceptibility-data/figure-plasma_nt_omi_vacc_gteq2.md
   - title: Figure 3
     name: fig-plasma_nt_pre_omi_inf_vacc_gteq2
     shortDesc: VP 2dose and more variant inf
     desc: >-
-      Distribution of absolute neutralizing Ab titers in persons with a
-      history of infection who received >= 2 vaccine doses. Each panel
-      indicates the neutralizing titers against different pre-omicron variants according to antigen exposure history.
+      Distribution of neutralizing Ab titers in persons with a
+      history of infection who received >= 2 vaccine doses. Panels indicate
+      titers against PRE-OMICRON variants.
     content:
       _resource: susceptibility-data/figure-plasma_nt_pre_omi_inf_vacc_gteq2.md
   - title: Figure 4
     name: fig-plasma_nt_omi_inf_vacc_gteq2
     shortDesc: VP 2dose and more variant inf
     desc: >-
-      Distribution of absolute neutralizing Ab titers in persons with a
-      history of infection who received >= 2 vaccine doses. Each panel
-      indicates the neutralizing titers against different omicron variants according to antigen exposure history.
+      Distribution of neutralizing Ab titers in persons with a
+      history of infection who received >= 2 vaccine doses. Panels indicate
+      titers against OMICRON variants.
     content:
       _resource: susceptibility-data/figure-plasma_nt_omi_inf_vacc_gteq2.md
   - title: Table 4
