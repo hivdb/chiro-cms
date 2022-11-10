@@ -41,7 +41,7 @@ sections:
       history of infection who received >=2 vaccine doses. Panels indicate
       titers against PRE-OMICRON variants.
     content:
-      _resource: susceptibility-data/figure-plasma_nt_pre_omi_vacc_2.md
+      _resource: susceptibility-data/figure1-plasma_nt_pre_omi_vacc.md
   - title: Figure 2
     name: fig-plasma_nt_omi_vacc_gteq3
     shortDesc: Plasma NT omicron 2dose or more no inf
@@ -50,7 +50,7 @@ sections:
       history of infection who received >= 2 vaccine doses. Panels indicate
       titers against OMICRON variants.
     content:
-      _resource: susceptibility-data/figure-plasma_nt_omi_vacc_gteq2.md
+      _resource: susceptibility-data/figure2-plasma_nt_omi_vacc.md
   - title: Figure 3
     name: fig-plasma_nt_pre_omi_inf_vacc_gteq2
     shortDesc: VP 2dose and more variant inf
@@ -59,7 +59,7 @@ sections:
       history of infection who received >= 2 vaccine doses. Panels indicate
       titers against PRE-OMICRON variants.
     content:
-      _resource: susceptibility-data/figure-plasma_nt_pre_omi_inf_vacc_gteq2.md
+      _resource: susceptibility-data/figure3-plasma_nt_pre_omi_inf_vacc.md
   - title: Figure 4
     name: fig-plasma_nt_omi_inf_vacc_gteq2
     shortDesc: VP 2dose and more variant inf
@@ -68,7 +68,7 @@ sections:
       history of infection who received >= 2 vaccine doses. Panels indicate
       titers against OMICRON variants.
     content:
-      _resource: susceptibility-data/figure-plasma_nt_omi_inf_vacc_gteq2.md
+      _resource: susceptibility-data/figure4-plasma_nt_omi_inf_vacc.md
   - title: Table 4
     name: table-variant-stats
     shortDesc: "Variants and #"
@@ -842,6 +842,24 @@ tables:
         <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
       exportRaw: True
       sortable: False
+    # - name: Omicron/BA.4/5_1
+    #   label: BA.4/5 1M
+    #   renderTpl: >-
+    #     <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+    #   exportRaw: True
+    #   sortable: False
+    # - name: Omicron/BA.4/5_2
+    #   label: BA.4/5 2~6M
+    #   renderTpl: >-
+    #     <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+    #   exportRaw: True
+    #   sortable: False
+    # - name: Omicron/BA.4/5_3
+    #   label: BA.4/5 &gt;6M
+    #   renderTpl: >-
+    #     <span style=\"font-size: 13px; padding: 0 0;margin: 0 0; ${cellData.geomean <=40 ? 'background-color:#a82f14;color:white;' : (cellData.geomean <= 100 ? 'background-color:#ee8e7f;': '')} \"> ${cellData.geomean}<sub>${cellData.num_ref_name > 0? cellData.num_ref_name : ''}</sub> </span>
+    #   exportRaw: True
+    #   sortable: False
     data:
       _resource: susc-table/table_cross_neutral.yml
   table_vacc_neutral_2dose:

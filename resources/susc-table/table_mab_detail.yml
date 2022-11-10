@@ -1,7 +1,7 @@
 - mab: Adintrevimab
   synonyms: ADG20;ADG-2
-  num_ref_name: 29
-  num_fold: 227
+  num_ref_name: 30
+  num_fold: 230
   avail: Phase 3
   target: RBD
   class: RBD Core Cluster I
@@ -50,8 +50,8 @@
   origin: Transgenic mice
 - mab: Regdanvimab
   synonyms: CT-P59
-  num_ref_name: 21
-  num_fold: 141
+  num_ref_name: 22
+  num_fold: 154
   avail: KR-Approved
   target: RBD
   class: RBM Class I
@@ -60,8 +60,8 @@
   origin: Phage display library
 - mab: Sotrovimab
   synonyms: GSK4182136;S309;Vir-7831;Xevudy
-  num_ref_name: 82
-  num_fold: 897
+  num_ref_name: 83
+  num_fold: 910
   avail: EUA
   target: RBD
   class: RBD Core Cluster I
@@ -70,8 +70,8 @@
   origin: SARS-CoV CP
 - mab: Imdevimab
   synonyms: REGN10987
-  num_ref_name: 98
-  num_fold: 886
+  num_ref_name: 99
+  num_fold: 889
   avail: EUA
   target: RBD
   class: RBD Core Cluster I
@@ -80,8 +80,8 @@
   origin: Transgenic mice
 - mab: Casirivimab
   synonyms: REGN10933
-  num_ref_name: 95
-  num_fold: 841
+  num_ref_name: 96
+  num_fold: 844
   avail: EUA
   target: RBD
   class: RBM Class I
@@ -90,8 +90,8 @@
   origin: Transgenic mice
 - mab: Etesevimab
   synonyms: CB6;Shi-CB6;JS-016;LY-CoV016;LY3832479
-  num_ref_name: 74
-  num_fold: 689
+  num_ref_name: 75
+  num_fold: 692
   avail: EUA
   target: RBD
   class: RBM Class I
@@ -100,8 +100,8 @@
   origin: CP
 - mab: Bebtelovimab
   synonyms: LY-CoV1404;LY3853113
-  num_ref_name: 30
-  num_fold: 568
+  num_ref_name: 31
+  num_fold: 581
   avail: EUA
   target: RBD
   class: RBM Class II
@@ -110,8 +110,8 @@
   origin: CP
 - mab: Cilgavimab
   synonyms: COV2-2130;AZD1061
-  num_ref_name: 66
-  num_fold: 560
+  num_ref_name: 67
+  num_fold: 573
   avail: EUA
   target: RBD
   class: RBM Class II
@@ -120,8 +120,8 @@
   origin: CP
 - mab: Bamlanivimab
   synonyms: LY-CoV555;LY3819253
-  num_ref_name: 70
-  num_fold: 555
+  num_ref_name: 71
+  num_fold: 558
   avail: EUA
   target: RBD
   class: RBM Class II
@@ -130,8 +130,8 @@
   origin: CP
 - mab: Tixagevimab
   synonyms: COV2-2196;AZD8895
-  num_ref_name: 63
-  num_fold: 456
+  num_ref_name: 64
+  num_fold: 469
   avail: EUA
   target: RBD
   class: RBM Class I

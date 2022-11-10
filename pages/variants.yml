@@ -2,7 +2,7 @@
 pageTitle: SARS-CoV-2 Variants
 introHeader: |-
   SARS-CoV-2 Variants
-drdbVersion: "20221108-115409-variants"
+drdbVersion: "20221110-103525-variants"
 regionPresets:
   presets:
     - name: spike
@@ -108,6 +108,10 @@ sections:
         varName: Omicron/XBB
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=XBB)
+      - title: XBB.1
+        varName: Omicron/XBB.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=XBB.1)
       - title: BA.2.75
         varName: Omicron/BA.2.75
         source: >-

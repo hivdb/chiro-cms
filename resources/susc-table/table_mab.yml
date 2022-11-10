@@ -340,11 +340,11 @@
   cas:
     fold: '1000'
     fold_cmp: '>'
-    num: 44
+    num: 45
   ete:
-    fold: '428'
+    fold: '414'
     fold_cmp: ''
-    num: 37
+    num: 38
   tix:
     fold: '290'
     fold_cmp: ''
@@ -352,7 +352,7 @@
   bam:
     fold: '1000'
     fold_cmp: '>'
-    num: 37
+    num: 38
   cil:
     fold: '272'
     fold_cmp: ''
@@ -360,7 +360,7 @@
   imd:
     fold: '1000'
     fold_cmp: '>'
-    num: 45
+    num: 46
   sot:
     fold: '3.8'
     fold_cmp: ''
@@ -425,51 +425,51 @@
   cas:
     fold: '1000'
     fold_cmp: '>'
-    num: 27
-  ete:
-    fold: '504'
-    fold_cmp: ''
-    num: 19
-  tix:
-    fold: '749'
-    fold_cmp: ''
     num: 28
+  ete:
+    fold: '495'
+    fold_cmp: ''
+    num: 20
+  tix:
+    fold: '824'
+    fold_cmp: ''
+    num: 29
   bam:
     fold: '1000'
     fold_cmp: '>'
-    num: 19
+    num: 20
   cil:
     fold: '2.1'
     fold_cmp: ''
-    num: 29
+    num: 30
   imd:
     fold: '220'
     fold_cmp: ''
-    num: 26
+    num: 27
   sot:
-    fold: '23'
+    fold: '24'
     fold_cmp: ''
-    num: 41
+    num: 42
   reg:
     fold: '1000'
     fold_cmp: '>'
-    num: 8
+    num: 9
   beb:
     fold: '1'
     fold_cmp: ''
-    num: 24
+    num: 25
   cas_imd:
     fold: '387'
     fold_cmp: ''
-    num: 19
+    num: 20
   cil_tix:
-    fold: '7.5'
+    fold: '7.8'
     fold_cmp: ''
-    num: 27
+    num: 28
   bam_ete:
-    fold: '744'
+    fold: '666'
     fold_cmp: ''
-    num: 13
+    num: 14
   C135:
     fold: '1000'
     fold_cmp: '>'
@@ -499,7 +499,7 @@
   adi:
     fold: '1000'
     fold_cmp: '>'
-    num: 12
+    num: 13
   Vir7832:
     fold: '-'
   DXP604:
@@ -593,53 +593,53 @@
     num: 2
 - variant: Omicron/BA.2.75
   cas:
-    fold: '221'
+    fold: '227'
     fold_cmp: ''
-    num: 7
+    num: 8
   ete:
-    fold: '333'
+    fold: '358'
     fold_cmp: ''
-    num: 5
+    num: 6
   tix:
     fold: '30'
     fold_cmp: ''
-    num: 8
+    num: 9
   bam:
     fold: '705'
     fold_cmp: ''
-    num: 5
+    num: 6
   cil:
     fold: '19'
     fold_cmp: ''
-    num: 8
+    num: 9
   imd:
-    fold: '1000'
-    fold_cmp: '>'
-    num: 7
-  sot:
-    fold: '12'
+    fold: '813'
     fold_cmp: ''
     num: 8
+  sot:
+    fold: '10'
+    fold_cmp: ''
+    num: 9
   reg:
     fold: '42'
     fold_cmp: ''
-    num: 3
-  beb:
-    fold: '3.8'
-    fold_cmp: ''
-    num: 8
-  cas_imd:
-    fold: '907'
-    fold_cmp: ''
-    num: 6
-  cil_tix:
-    fold: '26'
-    fold_cmp: ''
-    num: 6
-  bam_ete:
-    fold: '571'
-    fold_cmp: ''
     num: 4
+  beb:
+    fold: '4.4'
+    fold_cmp: ''
+    num: 9
+  cas_imd:
+    fold: '1000'
+    fold_cmp: '>'
+    num: 7
+  cil_tix:
+    fold: '25'
+    fold_cmp: ''
+    num: 7
+  bam_ete:
+    fold: '554'
+    fold_cmp: ''
+    num: 5
   C135:
     fold: '1000'
     fold_cmp: '>'
@@ -667,9 +667,9 @@
     fold_cmp: ''
     num: 1
   adi:
-    fold: '673'
+    fold: '437'
     fold_cmp: ''
-    num: 4
+    num: 5
   Vir7832:
     fold: '-'
   DXP604:
@@ -824,51 +824,51 @@
   cas:
     fold: '1000'
     fold_cmp: '>'
-    num: 18
+    num: 19
   ete:
     fold: '383'
     fold_cmp: ''
-    num: 13
+    num: 14
   tix:
     fold: '1000'
     fold_cmp: '>'
-    num: 21
+    num: 22
   bam:
     fold: '705'
     fold_cmp: ''
-    num: 13
+    num: 14
   cil:
     fold: '9.2'
     fold_cmp: ''
-    num: 21
+    num: 22
   imd:
-    fold: '277'
+    fold: '410'
     fold_cmp: ''
-    num: 18
+    num: 19
   sot:
-    fold: '23'
+    fold: '24'
     fold_cmp: ''
-    num: 27
+    num: 28
   reg:
     fold: '1000'
     fold_cmp: '>'
-    num: 6
+    num: 7
   beb:
     fold: '1'
     fold_cmp: ''
-    num: 18
+    num: 19
   cas_imd:
-    fold: '355'
+    fold: '387'
     fold_cmp: ''
-    num: 12
+    num: 13
   cil_tix:
-    fold: '21'
+    fold: '23'
     fold_cmp: ''
-    num: 17
+    num: 18
   bam_ete:
-    fold: '571'
+    fold: '554'
     fold_cmp: ''
-    num: 8
+    num: 9
   C135:
     fold: '1000'
     fold_cmp: '>'
@@ -896,9 +896,9 @@
     fold_cmp: ''
     num: 1
   adi:
-    fold: '935'
+    fold: '922'
     fold_cmp: ''
-    num: 9
+    num: 10
   Vir7832:
     fold: '-'
   DXP604:

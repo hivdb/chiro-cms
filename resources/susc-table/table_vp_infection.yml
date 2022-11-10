@@ -1,42 +1,45 @@
-- infection: uninfected
-  num_ref_name: 328
-  num_fold: 89378
-- infection: infected
-  num_ref_name: 127
-  num_fold: 29717
-- infection: wt
-  num_ref_name: 51
-  num_fold: 4327
-- infection: D.2
-  num_ref_name: 1
-  num_fold: 36
 - infection: Alpha
   num_ref_name: 5
   num_fold: 277
-- infection: Omicron/BA.1
-  num_ref_name: 44
-  num_fold: 7758
-- infection: Unknown variant
-  num_ref_name: 30
-  num_fold: 6179
-- infection: Delta
-  num_ref_name: 34
-  num_fold: 2453
-- infection: SARS-CoV-1
-  num_ref_name: 1
-  num_fold: 224
-- infection: Omicron/BA.2
-  num_ref_name: 14
-  num_fold: 5971
-- infection: Omicron/BA.5
-  num_ref_name: 4
-  num_fold: 1770
 - infection: Beta
   num_ref_name: 4
   num_fold: 183
+- infection: D.2
+  num_ref_name: 1
+  num_fold: 36
+- infection: Delta
+  num_ref_name: 34
+  num_fold: 2453
+- infection: Omicron/BA.1
+  num_ref_name: 46
+  num_fold: 7930
 - infection: Omicron/BA.1.1
   num_ref_name: 1
   num_fold: 494
+- infection: Omicron/BA.2
+  num_ref_name: 14
+  num_fold: 5971
 - infection: Omicron/BA.4
   num_ref_name: 1
   num_fold: 45
+- infection: Omicron/BA.5
+  num_ref_name: 6
+  num_fold: 2134
+- infection: SARS-CoV-1
+  num_ref_name: 1
+  num_fold: 224
+- infection: Unknown Omicron
+  num_ref_name: 1
+  num_fold: 264
+- infection: Unknown variant
+  num_ref_name: 31
+  num_fold: 6317
+- infection: Wiletype
+  num_ref_name: 52
+  num_fold: 4783
+- infection: infected
+  num_ref_name: 132
+  num_fold: 31111
+- infection: uninfected
+  num_ref_name: 333
+  num_fold: 90985

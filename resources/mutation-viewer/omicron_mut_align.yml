@@ -266,7 +266,7 @@
   K417: N
   L141: del
   L24: S
-  L242: del
+  L244: del
   M:A63: T
   M:Q19: E
   N440: K
@@ -316,7 +316,6 @@
   nsp14:I42: V
   nsp15:T112: I
   nsp1:S135: R
-  nsp2:Q182: L
   nsp4:L264: F
   nsp4:L438: F
   nsp4:T327: I
@@ -403,7 +402,6 @@
   L368: I
   M:A63: T
   M:D3: Y
-  M:H155: Y
   M:Q19: E
   N440: K
   N501: Y
@@ -495,7 +493,6 @@
   N:R32: del
   N:S33: del
   N:S413: R
-  N:T49: I
   ORF3a:T223: I
   ORF6:D61: L
   P25: del
@@ -527,6 +524,7 @@
   nsp13:R392: C
   nsp13:S36: P
   nsp14:I42: V
+  nsp14:I474: V
   nsp15:T112: I
   nsp1:G82: D
   nsp1:K47: R
@@ -535,11 +533,9 @@
   nsp4:L438: F
   nsp4:T327: I
   nsp4:T492: I
-  nsp4:V103: M
   nsp6:F108: del
   nsp6:G107: del
   nsp6:S106: del
-  nsp6:V182: F
 - A27: del
   D405: N
   D614: G
@@ -692,6 +688,7 @@
   E:T11: A
   E:T9: I
   F157: L
+  G142: D
   G257: S
   G339: H
   G446: S
@@ -713,7 +710,6 @@
   N:P13: L
   N:R203: K
   N:R32: del
-  N:S26: N
   N:S33: del
   N:S413: R
   ORF3a:T223: I
@@ -763,6 +759,7 @@
   E:T11: A
   E:T9: I
   F157: L
+  G142: D
   G257: S
   G339: H
   G446: S
@@ -935,12 +932,10 @@
   N:S33: del
   N:S413: R
   ORF3a:T223: I
-  ORF3a:T229: I
   ORF6:D61: L
   P25: del
   P26: del
   P681: H
-  PLpro:A1120: S
   PLpro:G489: S
   PLpro:P822: S
   PLpro:S403: L
@@ -966,7 +961,6 @@
   nsp13:R392: C
   nsp14:I42: V
   nsp15:T112: I
-  nsp1:H110: Y
   nsp1:S135: R
   nsp4:L264: F
   nsp4:L438: F
@@ -974,7 +968,6 @@
   nsp4:T492: I
   nsp6:F108: del
   nsp6:G107: del
-  nsp6:M58: I
   nsp6:S106: del
   nsp8:N118: S
 - A27: del
@@ -1061,6 +1054,7 @@
   F157: L
   F486: S
   F490: S
+  G142: D
   G257: S
   G339: H
   G446: S
@@ -1086,8 +1080,6 @@
   N:S413: R
   ORF3a:T223: I
   ORF6:D61: L
-  ORF8:F16: Y
-  ORF8:Y31: Y
   P25: del
   P26: del
   P681: H
@@ -1162,6 +1154,7 @@
   N:S413: R
   ORF3a:T223: I
   ORF6:D61: L
+  ORF8:S67: F
   P25: del
   P26: del
   P681: H
@@ -1190,8 +1183,10 @@
   nsp13:R392: C
   nsp14:I42: V
   nsp15:T112: I
+  nsp1:M1: del
   nsp1:S135: R
   nsp4:L264: F
+  nsp4:L438: F
   nsp4:T327: I
   nsp4:T492: I
   nsp6:F108: del
@@ -1240,7 +1235,6 @@
   P26: del
   P681: H
   PLpro:G489: S
-  PLpro:N276: D
   PLpro:P822: S
   PLpro:S1206: L
   PLpro:S403: L
@@ -1259,6 +1253,7 @@
   T19: I
   T376: A
   T478: K
+  T604: I
   V213: G
   W152: R
   Y505: H
@@ -1277,14 +1272,17 @@
   nsp6:S106: del
   nsp8:N118: S
 - A67: V
+  D405: N
   D614: G
   D796: Y
   E484: A
   E:T9: I
   G142: D
   G339: D
+  G446: S
   H655: Y
   H69: del
+  K417: N
   L212: del
   M:A63: T
   M:Q19: E
@@ -1302,14 +1300,15 @@
   N:S33: del
   N:S413: R
   ORF3a:T223: I
-  ORF6:D61: L
   P681: H
   PLpro:G489: S
-  PLpro:T24: I
   Q493: R
   Q498: R
   Q954: H
   RdRP:P323: L
+  S371: F
+  S373: P
+  S375: F
   S477: N
   T478: K
   T95: I
@@ -1322,9 +1321,9 @@
   name: BA.3
   nsp14:I42: V
   nsp1:S135: R
-  nsp4:L264: F
   nsp4:T327: I
   nsp4:T492: I
+  nsp6:A88: V
   nsp6:F108: del
   nsp6:G107: del
   nsp6:S106: del
@@ -1514,7 +1513,7 @@
   T478: K
   V213: G
   V70: del
-  W152: R
+  W152: L
   Y505: H
   _3CLpro:P132: H
   name: BA.4.6.1
@@ -1618,13 +1617,11 @@
   N:E31: del
   N:G204: R
   N:P13: L
-  N:P80: S
   N:R203: K
   N:R32: del
   N:S33: del
   N:S413: R
   ORF3a:T223: I
-  ORF3a:T32: I
   P25: del
   P26: del
   P681: H
@@ -1659,7 +1656,6 @@
   nsp6:G107: del
   nsp6:S106: del
 - A27: del
-  D178: E
   D405: N
   D614: G
   D796: Y
@@ -1687,6 +1683,7 @@
   N:P13: L
   N:R203: K
   N:R32: del
+  N:S33: F
   N:S413: R
   ORF3a:T223: I
   P25: del
@@ -1753,7 +1750,6 @@
   N:R32: del
   N:S33: del
   N:S413: R
-  N:T334: I
   ORF3a:T223: I
   P25: del
   P26: del
@@ -1779,7 +1775,6 @@
   name: BQ.1
   nsp13:M233: I
   nsp13:R392: C
-  nsp13:V484: I
   nsp14:I42: V
   nsp15:T112: I
   nsp1:S135: R
@@ -1851,7 +1846,6 @@
   nsp14:I42: V
   nsp15:T112: I
   nsp1:S135: R
-  nsp2:G260: G
   nsp4:L264: F
   nsp4:T327: I
   nsp4:T492: I
@@ -1891,7 +1885,6 @@
   N:R32: del
   N:S33: del
   N:S413: R
-  N:T334: I
   ORF3a:T223: I
   P25: del
   P26: del
@@ -1917,8 +1910,8 @@
   _3CLpro:P132: H
   name: BQ.1.1
   nsp13:M233: I
+  nsp13:N268: S
   nsp13:R392: C
-  nsp13:V484: I
   nsp14:I42: V
   nsp15:T112: I
   nsp1:S135: R

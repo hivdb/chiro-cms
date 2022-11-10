@@ -3,7 +3,7 @@
 <div class="figure-image">
 
 
-![titer](susceptibility-data/plasma_nt_pre_omi_inf_vacc_gteq2.svg)
+![titer](susceptibility-data/3_plasma_nt_pre_omi_inf_vacc.svg)
 
 </div>
 
