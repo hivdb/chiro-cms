@@ -23,7 +23,7 @@ sections:
     name: table-cross-neutral
     shortDesc: "Inf and cross neutral"
     desc: >-
-      Convalescent plasma and variant cross neutralization titer
+      Convalescent plasma and variant cross neutralization titer (no vaccination)
     content:
       _resource: susceptibility-data/table-cross-neutral.md
   - title: Table 3
