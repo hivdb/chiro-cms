@@ -163,8 +163,7 @@ sections:
       _resource: susceptibility-data/references.md
 tables:
   table_mab:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: variant
       label: "Test&#10189;mAb"
@@ -219,8 +218,7 @@ tables:
     data:
       _resource: susc-table/table_mab.yml
   table_mab_non_eua:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: variant
       label: "Test&#10189;mAb"
@@ -267,8 +265,7 @@ tables:
     data:
       _resource: susc-table/table_mab.yml
   table_cp:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: variant
       label: " "
@@ -286,8 +283,7 @@ tables:
     data:
       _resource: susc-table/table_cp_summary.yml
   table_vp:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: variant
       label: " "
@@ -312,8 +308,7 @@ tables:
     data:
       _resource: susc-table/table_vp_summary.yml
   table_variants_of_concern:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: var_name
       label: Virus types
@@ -324,8 +319,7 @@ tables:
     data:
       _resource: susc-table/table_var_voc.yml
   table_variants:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: var_name
       label: Virus
@@ -338,8 +332,7 @@ tables:
     data:
       _resource: susc-table/table_variants.yml
   table_variants_of_interest:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: var_name
       label: Virus types
@@ -350,8 +343,7 @@ tables:
     data:
       _resource: susc-table/table_var_voi.yml
   table_variants_other_rbd:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: var_name
       label: Virus types
@@ -362,8 +354,7 @@ tables:
     data:
       _resource: susc-table/table_var_other_rbd.yml
   table_mut_ntd:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: mut_name
       label: Virus types
@@ -374,8 +365,7 @@ tables:
     data:
       _resource: susc-table/table_mut_ntd.yml
   table_single_mut:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: pattern
       label: Mutation
@@ -388,8 +378,7 @@ tables:
     data:
       _resource: susc-table/table_single_mut.yml
   table_mut_rbd:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: mut_name
       label: Virus types
@@ -400,8 +389,7 @@ tables:
     data:
       _resource: susc-table/table_mut_rbd.yml
   table_mut_ctd:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: mut_name
       label: Virus types
@@ -412,8 +400,7 @@ tables:
     data:
       _resource: susc-table/table_mut_ctd.yml
   table_mut_s2:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: mut_name
       label: Virus types
@@ -424,8 +411,7 @@ tables:
     data:
       _resource: susc-table/table_mut_s2.yml
   table_mab_detail:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: mab
       label: mAb
@@ -444,8 +430,7 @@ tables:
     data:
       _resource: susc-table/table_mab_detail.yml
   table_cp_infection:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: variant
       label: Variant
@@ -456,8 +441,7 @@ tables:
     data:
       _resource: susc-table/table_cp_infection.yml
   table_cp_time:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: timing
       label: Time since infection
@@ -468,8 +452,7 @@ tables:
     data:
       _resource: susc-table/table_cp_time.yml
   table_cp_variant:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: var_name
       label: Variant
@@ -480,8 +463,7 @@ tables:
     data:
       _resource: susc-table/table_cp_variant.yml
   table_vp_vaccine:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: vaccine
       label: Vaccine
@@ -496,8 +478,7 @@ tables:
     data:
       _resource: susc-table/table_vp_vaccine.yml
   table_vp_infection:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: infection
       label: Infection
@@ -508,8 +489,7 @@ tables:
     data:
       _resource: susc-table/table_vp_infection.yml
   table_vp_time:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: timing
       label: Time since vaccination
@@ -520,8 +500,7 @@ tables:
     data:
       _resource: susc-table/table_vp_time.yml
   table_vp_variant:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: var_name
       label: Variant
@@ -532,8 +511,7 @@ tables:
     data:
       _resource: susc-table/table_vp_variant.yml
   table_vp_dosage:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: char
       label: Characteristic
@@ -544,8 +522,7 @@ tables:
     data:
       _resource: susc-table/table_vp_dosage.yml
   table_omicron_dms:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: ref_aa
       label: Ref
@@ -592,8 +569,7 @@ tables:
     data:
       _resource: susc-table/table_omicron_dms.yml
   table_omicron_mab:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: variant
       label: " "
@@ -652,8 +628,7 @@ tables:
     data:
       _resource: susc-table/table_omicron_mab.yml
   table_omicron_mab_non_eua:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: variant
       label: " "
@@ -692,8 +667,7 @@ tables:
     data:
       _resource: susc-table/table_omicron_mab.yml
   table_mab_synonyms:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: ab_name
       label: "mAb name"
@@ -702,8 +676,7 @@ tables:
     data:
       _resource: susc-table/mab_synonyms.yml
   table_wildtype:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: var_name
       label: "PANGO name"
@@ -712,8 +685,7 @@ tables:
     data:
       _resource: susc-table/wildtype.yml
   table_cross_neutral:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: test
       label: 'Test&#10189;Infection'
@@ -863,8 +835,7 @@ tables:
     data:
       _resource: susc-table/table_cross_neutral.yml
   table_vacc_neutral_2dose:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: test
       label: 'Test&#10189;Vaccine'
@@ -1016,8 +987,7 @@ tables:
     data:
       _resource: susc-table/table_vaccine_neutral_2dose.yml
   table_vacc_neutral_3dose:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: test
       label: 'Test&#10189;Vaccine'
@@ -1169,8 +1139,7 @@ tables:
     data:
       _resource: susc-table/table_vaccine_neutral_3dose.yml
   table_vacc_neutral_inf:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: test
       label: 'Test&#10189;Vaccine'
@@ -1322,8 +1291,7 @@ tables:
     data:
       _resource: susc-table/table_vaccine_neutral_inf.yml
   table_mab_ba2:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: variant
       label: "Test&#10189;mAb"
@@ -1378,8 +1346,7 @@ tables:
     data:
       _resource: susc-table/table_mab_ba2.yml
   table_mab_ba2_non_eua:
-    tableScrollStyle:
-      maxHeight: none
+    windowScroll: true
     columnDefs:
     - name: variant
       label: "Test&#10189;mAb"
