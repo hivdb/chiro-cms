@@ -3,9 +3,10 @@ resistance mutations. The RdRP resistance mutations are selected met one or more
 of the following criteria:
 
 1. having a ≥2.5-fold reduction in susceptibility to a clinical stage mAb;
-2. having been selected in vitro by an mAb; or
-3. having been selected in vivo in a patient receiving an mAb or experiencing
-   prolonged infection.
+2. having been selected in vitro by an mAb and reported by two or more studies;
+   or
+3. having been selected in vivo in two or more patients receiving an mAb or
+   experiencing prolonged infection.
 
 A
 <span style="border-radius:.3rem;background-color:#146aa8;color:white;display:inline-block;padding:0 .4rem;">dark blue cell</span>
