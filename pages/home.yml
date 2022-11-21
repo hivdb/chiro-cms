@@ -14,10 +14,10 @@ projectSections:
       description: mAbs, convalescent plasma, and vaccinee plasma
       link: /search-drdb/
       image: home/search-drdb.png
-    - title: SARS-CoV-2 selection data
-      description: in vivo & in vitro selection data
-      link: /search-drdb/selection-data/
-      image: home/selection-data.png
+    - title: SARS-CoV-2 resistance mutations
+      description: mAbs, 3CLpro inhibitors, and RdRP inhibitors
+      link: /drms/spike/
+      image: home/edumat-sars2-drms.png
     - title: SARS-CoV-2 analysis program
       description: Susceptibility data, genes, mutations, and lineage
       link: /sierra/sars2/by-patterns/
@@ -26,6 +26,10 @@ projectSections:
       description: SARS-CoV-2 variants and their associated mutations
       link: /variants/
       image: home/edumat-mutation-viewer.png
+    - title: SARS-CoV-2 selection data
+      description: in vivo & in vitro selection data
+      link: /search-drdb/selection-data/
+      image: home/selection-data.png
     - title: Spike viewer
       description: A mutation annotation viewer of Spike gene
       link: /mut-annot-viewer/SARS2S/
