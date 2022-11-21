@@ -2,12 +2,12 @@
 pageTitle: SARS-CoV-2 Resistance Mutations
 introHeader: |-
   SARS-CoV-2 Resistance Mutations
-drdbVersion: "20221116-174534-drms"
+drdbVersion: "20221121-125752-drms"
 sections:
   - title: Spike mAbs
     name: spike
     gene: S
-    contentBefore:
+    contentAfter:
       _resource: spike-drms-desc.md
     displayMAbs:
       - Bamlanivimab
@@ -27,7 +27,7 @@ sections:
   - title: 3CLpro inhibitors
     name: 3clpro
     gene: _3CLpro
-    contentBefore:
+    contentAfter:
       _resource: 3clpro-drms-desc.md
     displayDrugs:
       - Nirmatrelvir
@@ -35,7 +35,7 @@ sections:
   - title: RdRP inhibitors
     name: rdrp
     gene: RdRP
-    contentBefore:
+    contentAfter:
       _resource: rdrp-drms-desc.md
     displayDrugs:
       - Remdesivir
