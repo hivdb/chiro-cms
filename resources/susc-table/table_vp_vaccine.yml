@@ -7,7 +7,7 @@
   I: 742
   R: 184
   median_fold: 2.0
-  percent: 3.3
+  percent: 3.2
   priority: 1
 - vaccine: BNT162b2
   dosage: 1.0
@@ -18,18 +18,18 @@
   I: 346
   R: 36
   median_fold: 3.0
-  percent: 1.0
+  percent: 0.99
   priority: 1
 - vaccine: BNT162b2
   dosage: 2.0
   infection: ''
   num_ref_name: 182
-  num_fold: 22091
-  S: 15363
-  I: 4965
-  R: 1763
+  num_fold: 22186
+  S: 15373
+  I: 5021
+  R: 1792
   median_fold: 2.9
-  percent: 18.0
+  percent: 17.0
   priority: 1
 - vaccine: BNT162b2
   dosage: 2.0
@@ -40,26 +40,26 @@
   I: 1061
   R: 115
   median_fold: 3.2
-  percent: 2.7
+  percent: 2.6
   priority: 1
 - vaccine: BNT162b2
   dosage: 3.0
   infection: ''
-  num_ref_name: 78
-  num_fold: 6829
-  S: 3895
-  I: 2419
-  R: 515
-  median_fold: 4.1
-  percent: 5.6
+  num_ref_name: 79
+  num_fold: 7099
+  S: 3923
+  I: 2617
+  R: 559
+  median_fold: 4.2
+  percent: 5.5
   priority: 1
 - vaccine: BNT162b2
   dosage: 3.0
   infection: infected
-  num_ref_name: 16
-  num_fold: 1283
-  S: 923
-  I: 287
+  num_ref_name: 17
+  num_fold: 1327
+  S: 956
+  I: 298
   R: 73
   median_fold: 2.5
   percent: 1.0
@@ -73,7 +73,7 @@
   I: 68
   R: 128
   median_fold: 40.0
-  percent: 0.16
+  percent: 0.15
   priority: 1
 - vaccine: mRNA-1273
   dosage: 1.0
@@ -84,7 +84,7 @@
   I: 24
   R: 0
   median_fold: 1.5
-  percent: 0.13
+  percent: 0.12
   priority: 2
 - vaccine: mRNA-1273
   dosage: 1.0
@@ -106,7 +106,7 @@
   I: 2538
   R: 549
   median_fold: 3.9
-  percent: 7.6
+  percent: 7.2
   priority: 2
 - vaccine: mRNA-1273
   dosage: 2.0
@@ -117,7 +117,7 @@
   I: 101
   R: 24
   median_fold: 3.1
-  percent: 0.32
+  percent: 0.31
   priority: 2
 - vaccine: mRNA-1273
   dosage: 3.0
@@ -128,7 +128,7 @@
   I: 1437
   R: 76
   median_fold: 4.3
-  percent: 3.6
+  percent: 3.5
   priority: 2
 - vaccine: mRNA-1273
   dosage: 3.0
@@ -139,7 +139,7 @@
   I: 215
   R: 4
   median_fold: 3.0
-  percent: 0.36
+  percent: 0.35
   priority: 2
 - vaccine: mRNA-1273
   dosage: 4.0
@@ -150,217 +150,8 @@
   I: 263
   R: 3
   median_fold: 12.0
-  percent: 0.43
+  percent: 0.41
   priority: 2
-- vaccine: AZD1222
-  dosage: 1.0
-  infection: ''
-  num_ref_name: 9
-  num_fold: 1346
-  S: 515
-  I: 327
-  R: 504
-  median_fold: 11.0
-  percent: 1.1
-  priority: 3
-- vaccine: AZD1222
-  dosage: 1.0
-  infection: infected
-  num_ref_name: 3
-  num_fold: 43
-  S: 41
-  I: 2
-  R: 0
-  median_fold: 2.1
-  percent: 0.035
-  priority: 3
-- vaccine: AZD1222
-  dosage: 2.0
-  infection: ''
-  num_ref_name: 39
-  num_fold: 2787
-  S: 1547
-  I: 754
-  R: 486
-  median_fold: 4.2
-  percent: 2.3
-  priority: 3
-- vaccine: AZD1222
-  dosage: 2.0
-  infection: infected
-  num_ref_name: 13
-  num_fold: 573
-  S: 484
-  I: 64
-  R: 25
-  median_fold: 1.7
-  percent: 0.47
-  priority: 3
-- vaccine: AZD1222
-  dosage: 3.0
-  infection: ''
-  num_ref_name: 6
-  num_fold: 799
-  S: 266
-  I: 533
-  R: 0
-  median_fold: 6.8
-  percent: 0.65
-  priority: 3
-- vaccine: BBIBP-CorV
-  dosage: 2.0
-  infection: ''
-  num_ref_name: 10
-  num_fold: 2542
-  S: 1384
-  I: 823
-  R: 335
-  median_fold: 4.1
-  percent: 2.1
-  priority: 5
-- vaccine: BBIBP-CorV
-  dosage: 3.0
-  infection: ''
-  num_ref_name: 6
-  num_fold: 609
-  S: 170
-  I: 438
-  R: 1
-  median_fold: 9.4
-  percent: 0.5
-  priority: 5
-- vaccine: BBV152
-  dosage: 2.0
-  infection: ''
-  num_ref_name: 7
-  num_fold: 477
-  S: 449
-  I: 7
-  R: 21
-  median_fold: 1.4
-  percent: 0.39
-  priority: 6
-- vaccine: BBV152
-  dosage: 2.0
-  infection: infected
-  num_ref_name: 2
-  num_fold: 170
-  S: 151
-  I: 0
-  R: 19
-  median_fold: 2.4
-  percent: 0.14
-  priority: 6
-- vaccine: CoronaVac
-  dosage: 1.0
-  infection: ''
-  num_ref_name: 2
-  num_fold: 134
-  S: 134
-  I: 0
-  R: 0
-  median_fold: 4.3
-  percent: 0.11
-  priority: 7
-- vaccine: CoronaVac
-  dosage: 1.0
-  infection: infected
-  num_ref_name: 3
-  num_fold: 390
-  S: 242
-  I: 148
-  R: 0
-  median_fold: 3.3
-  percent: 0.32
-  priority: 7
-- vaccine: CoronaVac
-  dosage: 2.0
-  infection: ''
-  num_ref_name: 19
-  num_fold: 2050
-  S: 1440
-  I: 590
-  R: 20
-  median_fold: 2.8
-  percent: 1.7
-  priority: 7
-- vaccine: CoronaVac
-  dosage: 2.0
-  infection: infected
-  num_ref_name: 7
-  num_fold: 250
-  S: 136
-  I: 74
-  R: 40
-  median_fold: 4.7
-  percent: 0.2
-  priority: 7
-- vaccine: CoronaVac
-  dosage: 3.0
-  infection: ''
-  num_ref_name: 14
-  num_fold: 4306
-  S: 762
-  I: 2704
-  R: 840
-  median_fold: 12.0
-  percent: 3.5
-  priority: 7
-- vaccine: CoronaVac
-  dosage: 3.0
-  infection: infected
-  num_ref_name: 5
-  num_fold: 10528
-  S: 2303
-  I: 5176
-  R: 3049
-  median_fold: 14.0
-  percent: 8.6
-  priority: 7
-- vaccine: NVX-CoV2373
-  dosage: 2.0
-  infection: ''
-  num_ref_name: 4
-  num_fold: 275
-  S: 110
-  I: 103
-  R: 62
-  median_fold: 8.1
-  percent: 0.22
-  priority: 8
-- vaccine: NVX-CoV2373
-  dosage: 3.0
-  infection: ''
-  num_ref_name: 2
-  num_fold: 212
-  S: 48
-  I: 164
-  R: 0
-  median_fold: 8.2
-  percent: 0.17
-  priority: 8
-- vaccine: ZF2001
-  dosage: 3.0
-  infection: ''
-  num_ref_name: 6
-  num_fold: 611
-  S: 172
-  I: 399
-  R: 40
-  median_fold: 8.1
-  percent: 0.5
-  priority: 10
-- vaccine: Sputnik V
-  dosage: 2.0
-  infection: ''
-  num_ref_name: 8
-  num_fold: 592
-  S: 408
-  I: 142
-  R: 42
-  median_fold: 4.0
-  percent: 0.48
-  priority: 11
 - vaccine: Ad26.COV2.S
   dosage: 1.0
   infection: ''
@@ -371,7 +162,7 @@
   R: 68
   median_fold: 2.9
   percent: 1.2
-  priority: 12
+  priority: 3
 - vaccine: Ad26.COV2.S
   dosage: 1.0
   infection: infected
@@ -381,8 +172,8 @@
   I: 48
   R: 9
   median_fold: 2.6
-  percent: 0.16
-  priority: 12
+  percent: 0.15
+  priority: 3
 - vaccine: Ad26.COV2.S
   dosage: 2.0
   infection: ''
@@ -392,52 +183,206 @@
   I: 253
   R: 16
   median_fold: 4.6
-  percent: 0.45
-  priority: 12
-- vaccine: KCONVAC
+  percent: 0.43
+  priority: 3
+- vaccine: AZD1222
+  dosage: 1.0
+  infection: ''
+  num_ref_name: 10
+  num_fold: 1752
+  S: 689
+  I: 559
+  R: 504
+  median_fold: 6.0
+  percent: 1.4
+  priority: 4
+- vaccine: AZD1222
+  dosage: 1.0
+  infection: infected
+  num_ref_name: 4
+  num_fold: 680
+  S: 587
+  I: 93
+  R: 0
+  median_fold: 3.3
+  percent: 0.53
+  priority: 4
+- vaccine: AZD1222
+  dosage: 2.0
+  infection: ''
+  num_ref_name: 40
+  num_fold: 3599
+  S: 1953
+  I: 1044
+  R: 602
+  median_fold: 4.4
+  percent: 2.8
+  priority: 4
+- vaccine: AZD1222
+  dosage: 2.0
+  infection: infected
+  num_ref_name: 14
+  num_fold: 1847
+  S: 1212
+  I: 519
+  R: 116
+  median_fold: 3.6
+  percent: 1.4
+  priority: 4
+- vaccine: AZD1222
   dosage: 3.0
   infection: ''
-  num_ref_name: 2
-  num_fold: 251
-  S: 241
-  I: 10
+  num_ref_name: 6
+  num_fold: 799
+  S: 266
+  I: 533
   R: 0
-  median_fold: 1.2
-  percent: 0.2
-  priority: 21
-- vaccine: Convidecia
+  median_fold: 6.8
+  percent: 0.62
+  priority: 4
+- vaccine: BBIBP-CorV
+  dosage: 2.0
+  infection: ''
+  num_ref_name: 11
+  num_fold: 2692
+  S: 1504
+  I: 853
+  R: 335
+  median_fold: 4.2
+  percent: 2.1
+  priority: 6
+- vaccine: BBIBP-CorV
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 6
+  num_fold: 609
+  S: 170
+  I: 438
+  R: 1
+  median_fold: 9.4
+  percent: 0.47
+  priority: 6
+- vaccine: BBV152
+  dosage: 2.0
+  infection: ''
+  num_ref_name: 7
+  num_fold: 477
+  S: 449
+  I: 7
+  R: 21
+  median_fold: 1.4
+  percent: 0.37
+  priority: 7
+- vaccine: BBV152
+  dosage: 2.0
+  infection: infected
+  num_ref_name: 2
+  num_fold: 170
+  S: 151
+  I: 0
+  R: 19
+  median_fold: 2.4
+  percent: 0.13
+  priority: 7
+- vaccine: CoronaVac
   dosage: 1.0
   infection: ''
   num_ref_name: 2
-  num_fold: 215
-  S: 215
+  num_fold: 134
+  S: 134
   I: 0
   R: 0
-  median_fold: 1.4
-  percent: 0.18
-  priority: 22
-- vaccine: BNT162b2 + mRNA-1273
-  dosage: 3.0
-  infection: ''
-  num_ref_name: 5
-  num_fold: 423
-  S: 170
-  I: 250
-  R: 3
-  median_fold: 7.4
-  percent: 0.34
-  priority: 29
-- vaccine: BNT162b2 + mRNA-1273
-  dosage: 3.0
+  median_fold: 4.3
+  percent: 0.1
+  priority: 8
+- vaccine: CoronaVac
+  dosage: 1.0
   infection: infected
   num_ref_name: 3
-  num_fold: 284
+  num_fold: 390
   S: 242
-  I: 34
-  R: 8
-  median_fold: 2.6
-  percent: 0.23
-  priority: 29
+  I: 148
+  R: 0
+  median_fold: 3.3
+  percent: 0.3
+  priority: 8
+- vaccine: CoronaVac
+  dosage: 2.0
+  infection: ''
+  num_ref_name: 19
+  num_fold: 2050
+  S: 1440
+  I: 590
+  R: 20
+  median_fold: 2.8
+  percent: 1.6
+  priority: 8
+- vaccine: CoronaVac
+  dosage: 2.0
+  infection: infected
+  num_ref_name: 7
+  num_fold: 250
+  S: 136
+  I: 74
+  R: 40
+  median_fold: 4.7
+  percent: 0.19
+  priority: 8
+- vaccine: CoronaVac
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 14
+  num_fold: 4306
+  S: 762
+  I: 2704
+  R: 840
+  median_fold: 12.0
+  percent: 3.4
+  priority: 8
+- vaccine: CoronaVac
+  dosage: 3.0
+  infection: infected
+  num_ref_name: 5
+  num_fold: 10528
+  S: 2303
+  I: 5176
+  R: 3049
+  median_fold: 14.0
+  percent: 8.2
+  priority: 8
+- vaccine: NVX-CoV2373
+  dosage: 2.0
+  infection: ''
+  num_ref_name: 4
+  num_fold: 275
+  S: 110
+  I: 103
+  R: 62
+  median_fold: 8.1
+  percent: 0.21
+  priority: 9
+- vaccine: NVX-CoV2373
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 2
+  num_fold: 212
+  S: 48
+  I: 164
+  R: 0
+  median_fold: 8.2
+  percent: 0.17
+  priority: 9
+- vaccine: ZF2001
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 6
+  num_fold: 611
+  S: 172
+  I: 399
+  R: 40
+  median_fold: 8.1
+  percent: 0.48
+  priority: 10
 - vaccine: mRNA-1273 + mRNA-1273.211
   dosage: 3.0
   infection: ''
@@ -447,195 +392,63 @@
   I: 32
   R: 0
   median_fold: 2.3
-  percent: 4.0
-  priority: 32
-- vaccine: AZD1222 + Sputnik V
+  percent: 3.8
+  priority: 24
+- vaccine: BNT162b2 + mRNA-1273
   dosage: 3.0
   infection: ''
+  num_ref_name: 5
+  num_fold: 423
+  S: 170
+  I: 250
+  R: 3
+  median_fold: 7.4
+  percent: 0.33
+  priority: 34
+- vaccine: BNT162b2 + mRNA-1273
+  dosage: 3.0
+  infection: infected
+  num_ref_name: 3
+  num_fold: 284
+  S: 242
+  I: 34
+  R: 8
+  median_fold: 2.6
+  percent: 0.22
+  priority: 34
+- vaccine: mRNA-monovalent
+  dosage: 3.0
+  infection: infected
   num_ref_name: 2
-  num_fold: 104
-  S: 28
-  I: 76
-  R: 0
-  median_fold: 9.5
-  percent: 0.085
-  priority: 35
-- vaccine: CoronaVac or BBIBP-CorV
-  dosage: 3.0
-  infection: ''
+  num_fold: 532
+  S: 320
+  I: 67
+  R: 145
+  median_fold: 3.0
+  percent: 0.41
+  priority: 47
+- vaccine: mRNA-monovalent
+  dosage: 4.0
+  infection: infected
   num_ref_name: 2
-  num_fold: 588
-  S: 541
-  I: 47
-  R: 0
-  median_fold: 4.2
-  percent: 0.48
-  priority: 36
-- vaccine: BBIBP-CorV + ZF2001
-  dosage: 3.0
-  infection: ''
-  num_ref_name: 4
-  num_fold: 252
-  S: 52
-  I: 182
-  R: 18
-  median_fold: 7.8
-  percent: 0.21
-  priority: 37
-- vaccine: Ad26.COV2.S + mRNA-1273
-  dosage: 2.0
+  num_fold: 260
+  S: 120
+  I: 70
+  R: 70
+  median_fold: 7.6
+  percent: 0.2
+  priority: 47
+- vaccine: mRNA-bivalent + mRNA-monovalent
+  dosage: 4.0
   infection: ''
   num_ref_name: 2
   num_fold: 270
-  S: 135
-  I: 135
-  R: 0
-  median_fold: 5.4
-  percent: 0.22
-  priority: 38
-- vaccine: BNT162b2 + CoronaVac
-  dosage: 3.0
-  infection: ''
-  num_ref_name: 9
-  num_fold: 649
-  S: 372
-  I: 271
-  R: 6
-  median_fold: 4.7
-  percent: 0.53
-  priority: 39
-- vaccine: BNT162b2 + CoronaVac
-  dosage: 3.0
-  infection: infected
-  num_ref_name: 2
-  num_fold: 92
-  S: 68
-  I: 24
-  R: 0
-  median_fold: 2.0
-  percent: 0.075
-  priority: 39
-- vaccine: Ad26.COV2.S + BNT162b2
-  dosage: 2.0
-  infection: ''
-  num_ref_name: 3
-  num_fold: 225
-  S: 98
-  I: 107
-  R: 20
-  median_fold: 7.5
-  percent: 0.18
-  priority: 41
-- vaccine: Ad26.COV2.S + BNT162b2
-  dosage: 2.0
-  infection: infected
-  num_ref_name: 2
-  num_fold: 6
-  S: 6
-  I: 0
-  R: 0
-  median_fold: 0.65
-  percent: 0.0049
-  priority: 41
-- vaccine: Ad26.COV2.S + BNT162b2
-  dosage: 3.0
-  infection: ''
-  num_ref_name: 4
-  num_fold: 552
-  S: 425
-  I: 127
-  R: 0
-  median_fold: 2.6
-  percent: 0.45
-  priority: 41
-- vaccine: AZD1222 + CoronaVac
-  dosage: 2.0
-  infection: ''
-  num_ref_name: 2
-  num_fold: 209
-  S: 120
-  I: 29
-  R: 60
-  median_fold: 3.3
-  percent: 0.17
-  priority: 42
-- vaccine: AZD1222 + BNT162b2 + CoronaVac
-  dosage: 3.0
-  infection: ''
-  num_ref_name: 2
-  num_fold: 89
-  S: 89
-  I: 0
-  R: 0
-  median_fold: 2.6
-  percent: 0.072
-  priority: 43
-- vaccine: AZD1222 + BNT162b2
-  dosage: 2.0
-  infection: ''
-  num_ref_name: 12
-  num_fold: 1792
-  S: 511
-  I: 457
-  R: 824
-  median_fold: 12.0
-  percent: 1.5
-  priority: 46
-- vaccine: AZD1222 + BNT162b2
-  dosage: 2.0
-  infection: infected
-  num_ref_name: 2
-  num_fold: 12
-  S: 6
-  I: 5
-  R: 1
-  median_fold: 4.9
-  percent: 0.0098
-  priority: 46
-- vaccine: AZD1222 + BNT162b2
-  dosage: 3.0
-  infection: ''
-  num_ref_name: 9
-  num_fold: 1187
-  S: 459
-  I: 482
-  R: 246
-  median_fold: 7.9
-  percent: 0.97
-  priority: 46
-- vaccine: AZD1222 + mRNA-1273
-  dosage: 2.0
-  infection: ''
-  num_ref_name: 3
-  num_fold: 177
-  S: 166
-  I: 11
-  R: 0
-  median_fold: 2.5
-  percent: 0.14
-  priority: 47
-- vaccine: AZD1222 + mRNA-1273
-  dosage: 3.0
-  infection: ''
-  num_ref_name: 2
-  num_fold: 680
-  S: 560
-  I: 120
-  R: 0
-  median_fold: 1.8
-  percent: 0.55
-  priority: 47
-- vaccine: BBIBP-CorV + BNT162b2
-  dosage: 3.0
-  infection: ''
-  num_ref_name: 2
-  num_fold: 149
-  S: 113
-  I: 36
-  R: 0
-  median_fold: 3.5
-  percent: 0.12
-  priority: 50
+  S: 70
+  I: 133
+  R: 67
+  median_fold: 7.7
+  percent: 0.21
+  priority: 48
 - vaccine: mRNA-bivalent + mRNA-monovalent
   dosage: 4.0
   infection: infected
@@ -646,7 +459,227 @@
   R: 56
   median_fold: 17.0
   percent: 0.11
-  priority: 58
+  priority: 48
+- vaccine: Convidecia
+  dosage: 1.0
+  infection: ''
+  num_ref_name: 2
+  num_fold: 215
+  S: 215
+  I: 0
+  R: 0
+  median_fold: 1.4
+  percent: 0.17
+  priority: 50
+- vaccine: Sputnik V
+  dosage: 2.0
+  infection: ''
+  num_ref_name: 8
+  num_fold: 592
+  S: 408
+  I: 142
+  R: 42
+  median_fold: 4.0
+  percent: 0.46
+  priority: 52
+- vaccine: AZD1222 + Sputnik V
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 2
+  num_fold: 104
+  S: 28
+  I: 76
+  R: 0
+  median_fold: 9.5
+  percent: 0.081
+  priority: 54
+- vaccine: KCONVAC
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 2
+  num_fold: 251
+  S: 241
+  I: 10
+  R: 0
+  median_fold: 1.2
+  percent: 0.2
+  priority: 56
+- vaccine: CoronaVac or BBIBP-CorV
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 2
+  num_fold: 588
+  S: 541
+  I: 47
+  R: 0
+  median_fold: 4.2
+  percent: 0.46
+  priority: 57
+- vaccine: Ad26.COV2.S + BNT162b2
+  dosage: 2.0
+  infection: ''
+  num_ref_name: 3
+  num_fold: 225
+  S: 98
+  I: 107
+  R: 20
+  median_fold: 7.5
+  percent: 0.18
+  priority: 64
+- vaccine: Ad26.COV2.S + BNT162b2
+  dosage: 2.0
+  infection: infected
+  num_ref_name: 2
+  num_fold: 6
+  S: 6
+  I: 0
+  R: 0
+  median_fold: 0.65
+  percent: 0.0047
+  priority: 64
+- vaccine: Ad26.COV2.S + BNT162b2
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 4
+  num_fold: 552
+  S: 425
+  I: 127
+  R: 0
+  median_fold: 2.6
+  percent: 0.43
+  priority: 64
+- vaccine: Ad26.COV2.S + mRNA-1273
+  dosage: 2.0
+  infection: ''
+  num_ref_name: 2
+  num_fold: 270
+  S: 135
+  I: 135
+  R: 0
+  median_fold: 5.4
+  percent: 0.21
+  priority: 65
+- vaccine: AZD1222 + BNT162b2
+  dosage: 2.0
+  infection: ''
+  num_ref_name: 12
+  num_fold: 1792
+  S: 511
+  I: 457
+  R: 824
+  median_fold: 12.0
+  percent: 1.4
+  priority: 68
+- vaccine: AZD1222 + BNT162b2
+  dosage: 2.0
+  infection: infected
+  num_ref_name: 2
+  num_fold: 12
+  S: 6
+  I: 5
+  R: 1
+  median_fold: 4.9
+  percent: 0.0093
+  priority: 68
+- vaccine: AZD1222 + BNT162b2
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 9
+  num_fold: 1187
+  S: 459
+  I: 482
+  R: 246
+  median_fold: 7.9
+  percent: 0.92
+  priority: 68
+- vaccine: AZD1222 + BNT162b2 + CoronaVac
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 2
+  num_fold: 89
+  S: 89
+  I: 0
+  R: 0
+  median_fold: 2.6
+  percent: 0.069
+  priority: 69
+- vaccine: AZD1222 + CoronaVac
+  dosage: 2.0
+  infection: ''
+  num_ref_name: 2
+  num_fold: 209
+  S: 120
+  I: 29
+  R: 60
+  median_fold: 3.3
+  percent: 0.16
+  priority: 70
+- vaccine: AZD1222 + mRNA-1273
+  dosage: 2.0
+  infection: ''
+  num_ref_name: 3
+  num_fold: 177
+  S: 166
+  I: 11
+  R: 0
+  median_fold: 2.5
+  percent: 0.14
+  priority: 73
+- vaccine: AZD1222 + mRNA-1273
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 2
+  num_fold: 680
+  S: 560
+  I: 120
+  R: 0
+  median_fold: 1.8
+  percent: 0.53
+  priority: 73
+- vaccine: BBIBP-CorV + BNT162b2
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 2
+  num_fold: 149
+  S: 113
+  I: 36
+  R: 0
+  median_fold: 3.5
+  percent: 0.12
+  priority: 76
+- vaccine: BBIBP-CorV + ZF2001
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 4
+  num_fold: 252
+  S: 52
+  I: 182
+  R: 18
+  median_fold: 7.8
+  percent: 0.2
+  priority: 78
+- vaccine: BNT162b2 + CoronaVac
+  dosage: 3.0
+  infection: ''
+  num_ref_name: 9
+  num_fold: 649
+  S: 372
+  I: 271
+  R: 6
+  median_fold: 4.7
+  percent: 0.51
+  priority: 79
+- vaccine: BNT162b2 + CoronaVac
+  dosage: 3.0
+  infection: infected
+  num_ref_name: 2
+  num_fold: 92
+  S: 68
+  I: 24
+  R: 0
+  median_fold: 2.0
+  percent: 0.072
+  priority: 79
 - vaccine: Unknown vaccine
   dosage: 2.0
   infection: ''
@@ -656,8 +689,8 @@
   I: 177
   R: 31
   median_fold: 3.2
-  percent: 0.43
-  priority: 1000
+  percent: 0.41
+  priority: 92
 - vaccine: Unknown vaccine
   dosage: 2.0
   infection: infected
@@ -667,8 +700,8 @@
   I: 264
   R: 61
   median_fold: 3.0
-  percent: 0.99
-  priority: 1000
+  percent: 0.95
+  priority: 92
 - vaccine: Unknown vaccine
   dosage: 3.0
   infection: ''
@@ -678,16 +711,16 @@
   I: 43
   R: 3
   median_fold: 7.2
-  percent: 0.063
-  priority: 1000
+  percent: 0.061
+  priority: 92
 - vaccine: Unknown vaccine
   dosage: 3.0
   infection: infected
-  num_ref_name: 8
-  num_fold: 830
+  num_ref_name: 9
+  num_fold: 929
   S: 574
-  I: 242
-  R: 14
-  median_fold: 3.3
-  percent: 0.68
-  priority: 1000
+  I: 308
+  R: 47
+  median_fold: 3.5
+  percent: 0.72
+  priority: 92

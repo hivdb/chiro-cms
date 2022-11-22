@@ -1,10 +1,10 @@
 - test: WT
   WT_1:
-    geomean: 434.0
-    num_ref_name: 104
+    geomean: 438.0
+    num_ref_name: 105
   WT_2:
-    geomean: 199.0
-    num_ref_name: 49
+    geomean: 203.0
+    num_ref_name: 50
   WT_3:
     geomean: 142.0
     num_ref_name: 22
@@ -82,11 +82,11 @@
     num_ref_name: 0
 - test: Alpha
   WT_1:
-    geomean: 177.0
-    num_ref_name: 49
-  WT_2:
     geomean: 181.0
-    num_ref_name: 23
+    num_ref_name: 50
+  WT_2:
+    geomean: 186.0
+    num_ref_name: 24
   WT_3:
     geomean: 60.0
     num_ref_name: 10
@@ -164,11 +164,11 @@
     num_ref_name: 0
 - test: Beta
   WT_1:
-    geomean: 67.0
-    num_ref_name: 52
+    geomean: 69.0
+    num_ref_name: 53
   WT_2:
-    geomean: 64.0
-    num_ref_name: 23
+    geomean: 67.0
+    num_ref_name: 24
   WT_3:
     geomean: 35.0
     num_ref_name: 13
@@ -246,11 +246,11 @@
     num_ref_name: 0
 - test: Gamma
   WT_1:
-    geomean: 197.0
-    num_ref_name: 26
+    geomean: 206.0
+    num_ref_name: 27
   WT_2:
-    geomean: 88.0
-    num_ref_name: 11
+    geomean: 93.0
+    num_ref_name: 12
   WT_3:
     geomean: 200.0
     num_ref_name: 4
@@ -328,11 +328,11 @@
     num_ref_name: 0
 - test: Delta
   WT_1:
-    geomean: 155.0
-    num_ref_name: 32
+    geomean: 163.0
+    num_ref_name: 33
   WT_2:
-    geomean: 40.0
-    num_ref_name: 8
+    geomean: 47.0
+    num_ref_name: 9
   WT_3:
     geomean: 37.0
     num_ref_name: 8
@@ -410,11 +410,11 @@
     num_ref_name: 0
 - test: BA.1
   WT_1:
-    geomean: 22.0
-    num_ref_name: 24
+    geomean: 24.0
+    num_ref_name: 25
   WT_2:
-    geomean: 6.8
-    num_ref_name: 9
+    geomean: 8.6
+    num_ref_name: 10
   WT_3:
     geomean: 23.0
     num_ref_name: 8

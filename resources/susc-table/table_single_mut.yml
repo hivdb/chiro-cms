@@ -133,14 +133,14 @@
   position: 439
   aa: K
   domain: RBD
-  num_ref_name: 26
+  num_ref_name: 27
   cp: 77
   vp: 105
   mAbs phase3: 73
-  mAbs structure: 50
-  other mAbs: 129
-  all mAbs: 252
-  num_exp: 434
+  mAbs structure: 51
+  other mAbs: 130
+  all mAbs: 254
+  num_exp: 436
 - pattern: N440K
   ref: N
   position: 440
@@ -276,14 +276,14 @@
   position: 484
   aa: K
   domain: RBD
-  num_ref_name: 55
+  num_ref_name: 56
   cp: 360
   vp: 329
   mAbs phase3: 108
-  mAbs structure: 61
-  other mAbs: 164
-  all mAbs: 333
-  num_exp: 1022
+  mAbs structure: 62
+  other mAbs: 165
+  all mAbs: 335
+  num_exp: 1024
 - pattern: F486V
   ref: F
   position: 486
@@ -352,14 +352,14 @@
 - pattern: other
   position: 10000
   domain: RBD
-  num_ref_name: 59
+  num_ref_name: 60
   cp: 2052
   vp: 1765
   mAbs phase3: 850
-  mAbs structure: 532
-  other mAbs: 1347
-  all mAbs: 2729
-  num_exp: 6546
+  mAbs structure: 533
+  other mAbs: 1348
+  all mAbs: 2731
+  num_exp: 6548
 - pattern: L18F
   ref: L
   position: 18
