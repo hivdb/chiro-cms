@@ -250,7 +250,7 @@
       "gene": "S",
       "position": 346,
       "aa": "K",
-      "invivo_selected": false
+      "invivo_selected": true
     },
     {
       "gene": "S",
@@ -382,6 +382,12 @@
       "gene": "S",
       "position": 365,
       "aa": "P",
+      "invivo_selected": false
+    },
+    {
+      "gene": "S",
+      "position": 368,
+      "aa": "D",
       "invivo_selected": false
     },
     {
@@ -850,7 +856,7 @@
       "gene": "S",
       "position": 444,
       "aa": "T",
-      "invivo_selected": false
+      "invivo_selected": true
     },
     {
       "gene": "S",
@@ -874,7 +880,7 @@
       "gene": "S",
       "position": 445,
       "aa": "A",
-      "invivo_selected": false
+      "invivo_selected": true
     },
     {
       "gene": "S",
@@ -1000,7 +1006,7 @@
       "gene": "S",
       "position": 446,
       "aa": "D",
-      "invivo_selected": false
+      "invivo_selected": true
     },
     {
       "gene": "S",
@@ -1072,7 +1078,7 @@
       "gene": "S",
       "position": 446,
       "aa": "S",
-      "invivo_selected": false
+      "invivo_selected": true
     },
     {
       "gene": "S",
@@ -1600,6 +1606,12 @@
       "gene": "S",
       "position": 456,
       "aa": "Y",
+      "invivo_selected": false
+    },
+    {
+      "gene": "S",
+      "position": 457,
+      "aa": "N",
       "invivo_selected": false
     },
     {
@@ -2050,7 +2062,7 @@
       "gene": "S",
       "position": 484,
       "aa": "D",
-      "invivo_selected": true
+      "invivo_selected": false
     },
     {
       "gene": "S",
@@ -2278,7 +2290,7 @@
       "gene": "S",
       "position": 486,
       "aa": "S",
-      "invivo_selected": false
+      "invivo_selected": true
     },
     {
       "gene": "S",
@@ -2537,6 +2549,12 @@
       "position": 490,
       "aa": "Y",
       "invivo_selected": true
+    },
+    {
+      "gene": "S",
+      "position": 492,
+      "aa": "N",
+      "invivo_selected": false
     },
     {
       "gene": "S",
@@ -2721,6 +2739,12 @@
     {
       "gene": "S",
       "position": 499,
+      "aa": "F",
+      "invivo_selected": false
+    },
+    {
+      "gene": "S",
+      "position": 499,
       "aa": "G",
       "invivo_selected": false
     },
@@ -2728,6 +2752,12 @@
       "gene": "S",
       "position": 499,
       "aa": "H",
+      "invivo_selected": false
+    },
+    {
+      "gene": "S",
+      "position": 499,
+      "aa": "K",
       "invivo_selected": false
     },
     {
@@ -2764,6 +2794,12 @@
       "gene": "S",
       "position": 499,
       "aa": "T",
+      "invivo_selected": false
+    },
+    {
+      "gene": "S",
+      "position": 499,
+      "aa": "W",
       "invivo_selected": false
     },
     {
@@ -2975,13 +3011,31 @@
     {
       "gene": "_3CLpro",
       "position": 54,
+      "aa": "A",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 54,
       "aa": "C",
       "invivo_selected": false
     },
     {
       "gene": "_3CLpro",
-      "position": 135,
-      "aa": "I",
+      "position": 138,
+      "aa": "S",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 140,
+      "aa": "A",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 140,
+      "aa": "L",
       "invivo_selected": false
     },
     {
@@ -2993,13 +3047,13 @@
     {
       "gene": "_3CLpro",
       "position": 142,
-      "aa": "S",
+      "aa": "L",
       "invivo_selected": false
     },
     {
       "gene": "_3CLpro",
       "position": 142,
-      "aa": "L",
+      "aa": "S",
       "invivo_selected": false
     },
     {
@@ -3017,13 +3071,139 @@
     {
       "gene": "_3CLpro",
       "position": 144,
+      "aa": "D",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "E",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "F",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
       "aa": "G",
       "invivo_selected": false
     },
     {
       "gene": "_3CLpro",
-      "position": 164,
-      "aa": "N",
+      "position": 144,
+      "aa": "H",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "K",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "L",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "M",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "P",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "Q",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "R",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "T",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "V",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "W",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 144,
+      "aa": "Y",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 160,
+      "aa": "F",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 165,
+      "aa": "D",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 165,
+      "aa": "F",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 165,
+      "aa": "G",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 165,
+      "aa": "H",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 165,
+      "aa": "K",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 165,
+      "aa": "P",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 165,
+      "aa": "R",
       "invivo_selected": false
     },
     {
@@ -3035,14 +3215,14 @@
     {
       "gene": "_3CLpro",
       "position": 165,
-      "aa": "Y",
+      "aa": "W",
       "invivo_selected": false
     },
     {
       "gene": "_3CLpro",
-      "position": 166,
-      "aa": "V",
-      "invivo_selected": true
+      "position": 165,
+      "aa": "Y",
+      "invivo_selected": false
     },
     {
       "gene": "_3CLpro",
@@ -3053,7 +3233,7 @@
     {
       "gene": "_3CLpro",
       "position": 166,
-      "aa": "Q",
+      "aa": "G",
       "invivo_selected": false
     },
     {
@@ -3065,13 +3245,49 @@
     {
       "gene": "_3CLpro",
       "position": 166,
+      "aa": "I",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 166,
+      "aa": "K",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 166,
+      "aa": "L",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 166,
       "aa": "M",
       "invivo_selected": false
     },
     {
       "gene": "_3CLpro",
       "position": 166,
+      "aa": "Q",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 166,
       "aa": "R",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 166,
+      "aa": "V",
+      "invivo_selected": true
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 166,
+      "aa": "Y",
       "invivo_selected": false
     },
     {
@@ -3089,7 +3305,25 @@
     {
       "gene": "_3CLpro",
       "position": 172,
-      "aa": "Q",
+      "aa": "A",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "C",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "D",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "E",
       "invivo_selected": false
     },
     {
@@ -3100,8 +3334,74 @@
     },
     {
       "gene": "_3CLpro",
-      "position": 173,
+      "position": 172,
+      "aa": "G",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "I",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "K",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "L",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "M",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "N",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "Q",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "R",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "S",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "T",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
       "aa": "V",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 172,
+      "aa": "Y",
       "invivo_selected": false
     },
     {
@@ -3112,8 +3412,14 @@
     },
     {
       "gene": "_3CLpro",
+      "position": 173,
+      "aa": "V",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
       "position": 186,
-      "aa": "A",
+      "aa": "G",
       "invivo_selected": false
     },
     {
@@ -3125,13 +3431,13 @@
     {
       "gene": "_3CLpro",
       "position": 189,
-      "aa": "K",
+      "aa": "I",
       "invivo_selected": false
     },
     {
       "gene": "_3CLpro",
       "position": 189,
-      "aa": "I",
+      "aa": "K",
       "invivo_selected": false
     },
     {
@@ -3155,7 +3461,49 @@
     {
       "gene": "_3CLpro",
       "position": 192,
-      "aa": "R",
+      "aa": "A",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "C",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "D",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "E",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "F",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "G",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "H",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "I",
       "invivo_selected": false
     },
     {
@@ -3166,8 +3514,62 @@
     },
     {
       "gene": "_3CLpro",
-      "position": 193,
+      "position": 192,
+      "aa": "L",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "N",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "P",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "R",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "S",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
       "aa": "T",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "V",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "W",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 192,
+      "aa": "Y",
+      "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 194,
+      "aa": "S",
       "invivo_selected": false
     },
     {
@@ -3187,32 +3589,26 @@
       "position": 304,
       "aa": "I",
       "invivo_selected": false
+    },
+    {
+      "gene": "_3CLpro",
+      "position": 305,
+      "aa": "L",
+      "invivo_selected": false
     }
   ],
   "RdRPI": [
     {
       "gene": "RdRP",
-      "position": 166,
-      "aa": "A",
-      "invivo_selected": false
+      "position": 285,
+      "aa": "C",
+      "invivo_selected": true
     },
     {
       "gene": "RdRP",
-      "position": 166,
-      "aa": "L",
-      "invivo_selected": false
-    },
-    {
-      "gene": "RdRP",
-      "position": 198,
-      "aa": "S",
-      "invivo_selected": false
-    },
-    {
-      "gene": "RdRP",
-      "position": 480,
-      "aa": "L",
-      "invivo_selected": false
+      "position": 449,
+      "aa": "V",
+      "invivo_selected": true
     },
     {
       "gene": "RdRP",
@@ -3240,8 +3636,26 @@
     },
     {
       "gene": "RdRP",
+      "position": 796,
+      "aa": "G",
+      "invivo_selected": false
+    },
+    {
+      "gene": "RdRP",
+      "position": 799,
+      "aa": "F",
+      "invivo_selected": false
+    },
+    {
+      "gene": "RdRP",
       "position": 799,
       "aa": "R",
+      "invivo_selected": false
+    },
+    {
+      "gene": "RdRP",
+      "position": 802,
+      "aa": "A",
       "invivo_selected": false
     },
     {
@@ -3252,9 +3666,9 @@
     },
     {
       "gene": "RdRP",
-      "position": 802,
-      "aa": "A",
-      "invivo_selected": false
+      "position": 924,
+      "aa": "R",
+      "invivo_selected": true
     }
   ]
 }

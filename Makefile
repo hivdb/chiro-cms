@@ -37,8 +37,12 @@ resources/sierra-sars2/outbreak.info/lineages.json: % : local/timestamp/%.$(shel
 build: $(shell find . -type f -not -path "./.git*" -a -not -path "*.swp" -a -not -path "*.swo" -a -not -path "*/.DS_Store" -a -not -path "*/.gradle/*" -a -not -path "*/build/*" -a -not -path "*/build_gz/*" -a -not -path "*.log" -a -not -path "*/local/*" | sed 's#\([| ]\)#\\\1#g') build.py build_plugins/*.py resources/sierra-sars2/outbreak.info/lineages.json
 	@test -e $(shell which pipenv) && make _fast-build || make _docker-build
 
-downloads/resistance-mutations/latest.json: downloads/resistance-mutations/3cl.tsv downloads/resistance-mutations/rdrp.tsv downloads/resistance-mutations/latest.tsv scripts/sars2_drms_to_json.py
-	@scripts/sars2_drms_to_json.py
+downloads/resistance-mutations/latest.json: pages/sars2-drms.yml scripts/import_resistance_mutations.py
+	@docker run \
+		--mount type=bind,source=$(PWD),target=/app \
+		--workdir /app --rm -it \
+		hivdb/chiro-cms-builder:latest \
+		python scripts/import_resistance_mutations.py
 
 build_gz: build
 	@scripts/build_gz.sh
