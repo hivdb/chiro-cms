@@ -27,16 +27,16 @@ def build_mutannots_comments(resource_dir, download_dir, buildres_dir, **kw):
 
     for resname, payload, geneconfig in yield_mutannots_json(resource_dir):
         gene = payload['gene']
-        gene_comments = []
+        gene_comments = {}
         for comment in all_comments['payload']:
             if comment['gene'] != gene:
                 continue
             for pos, aas in parse_mutations(comment['mutations']):
-                gene_comments.append({
-                    'position': pos,
-                    'triggeredAAs': aas,
-                    'comment': comment['comment']
-                })
+                gene_comments.setdefault(pos, []).append(comment['comment'])
+        gene_comments = [{
+            'position': pos,
+            'comment': '\n'.join(cmts)
+        } for pos, cmts in gene_comments.items()]
         dest_json = os.path.join(
             buildres_dir, '{}-comments.json'.format(resname))
         with open(dest_json, 'w') as fp:
