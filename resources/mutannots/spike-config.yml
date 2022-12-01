@@ -29,272 +29,61 @@ annotCategories:
   defaultAnnots: []
   multiSelect: true
   annotStyle: underscore
-  annotNames:
-  - Bamlanivimab epitope
-  - Etesevimab epitope
-  - Casirivimab epitope
-  - Imdevimab epitope
-  - Cilgavimab epitope
-  - Tixagevimab epitope
-  - Sotrovimab epitope
-  - Bebtelovimab epitope
-  - Regdanvimab epitope
-  - Amubarvimab epitope
-  - C135 epitope
-  - C144 epitope
-# - name: polymorphism
-#   dropdown: true
-#   defaultAnnot: var2000
-#   multiSelect: false
-#   annotStyle: aminoAcids
-#   color: '#999'
-#   annotNames:
-#   - var2000
-#   - var1000
+  epitopeQuery: |-
+    SELECT ab_name FROM antibodies ab
+    WHERE
+      availability in ('EUA', 'KR-Approved', 'CN-Approved') AND
+      EXISTS (
+        SELECT 1 FROM antibody_epitopes abe
+        WHERE ab.ab_name = abe.ab_name
+      )
+    ORDER BY priority
 - name: variants
   display: variants
   dropdown: true
   multiSelect: false
   annotStyle: aminoAcids
   color: '#483d8b'
-  annotNames:
-  - "Variant Alpha"
-  - "Variant Beta"
-  - "Variant Gamma"
-  - "Variant Delta"
-  - "Variant Omicron/BA.1"
-  - "Variant Omicron/BA.2"
-  - "Variant Lambda"
-  - "Variant Mu"
-# - name: resistance
-#   display: mAb DRMs
-#   dropdown: true
-#   defaultAnnots: []
-#   multiSelect: true
-#   annotStyle: aminoAcids
-#   color: '#d23b6f'
-#   annotNames:
-#   - resistance 1-20
-#   - resistance 157
-#   - resistance 1B07
-#   - resistance 2-15
-#   - resistance 2-4
-#   - resistance 247
-#   - resistance 261-262
-#   - resistance 2B04
-#   - resistance 2H04
-#   - resistance 4-20
-#   - resistance AB35
-#   - resistance B38
-#   - resistance C121
-#   - resistance C135
-#   - resistance C144
-#   - resistance CA1
-#   - resistance Etesevimab
-#   - resistance COV2-2082
-#   - resistance COV2-2165
-#   - resistance COV2-2479
-#   - resistance COV2-2832
-#   - resistance H00S022
-#   - resistance H014
-#   - resistance H4
-#   - resistance LY-CoV2016
-#   - resistance P2B-2F6
-#   - resistance Amubarvimab
-#   - resistance REGN-COV2
-#   - resistance Casirivimab
-#   - resistance REGN10934
-#   - resistance Imdevimab
-#   - resistance REGN10989
-#   - resistance REGN10989/10934
-#   - resistance REGN10989/10987
-#   - resistance S2M11
-#   - resistance SARS2-01
-#   - resistance SARS2-02
-#   - resistance SARS2-07
-#   - resistance SARS2-16
-#   - resistance SARS2-19
-#   - resistance SARS2-21
-#   - resistance SARS2-22
-#   - resistance SARS2-23
-#   - resistance SARS2-31
-#   - resistance SARS2-32
-#   - resistance SARS2-34
-#   - resistance SARS2-55
-#   - resistance SARS2-58
-#   - resistance SARS2-66
-#   - resistance SARS2-71
-#   - resistance X593
-- name: _hide
-  display: false
+  variantQuery:
+  - "Omicron/BQ.1.1"
+  - "Omicron/BQ.1"
+  - "Omicron/BA.5"
+  - "Omicron/BF.7"
+  - "Omicron/BA.4.6"
+  - "Omicron/XBB"
+  - "Omicron/BN.1"
+  - "Omicron/BA.2.75"
+  - "Omicron/BA.4"
+  - "Omicron/BA.2"
+  - "Omicron/BA.1"
+  - "Alpha"
+  - "Beta"
+  - "Gamma"
+  - "Delta"
+  - "Epsilon"
+  - "Zeta"
+  - "Eta"
+  - "Theta"
+  - "Iota"
+  - "Kappa"
+  - "Lambda"
+  - "Mu"
+- name: drms
+  display: mAb resist. mutations >0.0001%
   dropdown: false
-  defaultAnnot:
-  multiSelect: false
-  annotStyle: hide
-  annotNames:
-  - secondary structure
-  - glycan
-  - cysteine
-  - cleavage
-  - subdomain RBM
-  - neutralizing sera resistance
-conditionalComments:
-- commentName: subdomain
-  rank: 1  # highest: 1
-  requireOtherComment: true  # only include when there's another comment
-  condition:
-    func: hasAnnotExceptSubgroups
-    args: [subdomain, S1/S2, "S2'"]
-  prefix:
-    func: position
-  template: >-
-    located in subdomain $SUBDOMAIN
-  variables:
-    SUBDOMAIN:
-      func: getSubgroup
-      args: [subdomain]
-  triggeredAAs: "*"
-- commentName: cleavage
-  rank: 2  # highest: 1
-  condition:
-    func: hasAnnot
-    args: [cleavage]
-  prefix:
-    func: position
-  template: >-
-    located in cleavage site $CLEAVAGE
-  variables:
-    CLEAVAGE:
-      func: getSubgroup
-      args: [cleavage]
-  triggeredAAs: "*"
-- commentName: ace2
-  rank: 3
-  condition:
-    func: hasAnnot
-    args: [ACE2]
-  prefix:
-    func: position
-  template: >-
-    involved in ACE2 binding
-  footnote: ${FN}
-  variables:
-    FN:
-      func: getCitations
-      args: [ACE2]
-  triggeredAAs: "*"
-- commentName: glycan
-  rank: 4
-  condition:
-    func: hasAnnot
-    args: [glycan]
-  prefix:
-    func: position
-  template: >-
-    the position of a N-linked glycosylation sequon
-  triggeredAAs: "*"
-- commentName: epitopes
-  rank: 5
-  condition:
-    func: hasAnnotCategory
-    args: [epitopes]
-  prefix:
-    func: position
-  template: >-
-    an epitope binding to $ANTIBODIES
-  variables:
-    ANTIBODIES:
-      func: joinSubgroupOfAnnotCat
-      args: [epitopes]
-      keywords:
-        singular_prefix: mAb
-        plural_prefix: mAbs
-        footnote: true
-  triggeredAAs: "*"
-- commentName: cysteine
-  rank: 6
-  condition:
-    func: hasAnnot
-    args: [cysteine]
-  prefix:
-    func: position
-  template: >-
-    one of the nine cysteine residues found in RBD
-  triggeredAAs: "*"
-- commentName: resistance
-  rank: 7
-  condition:
-    func: hasAnnotCategory
-    args: [resistance]
-  prefix:
-    func: mutationOfAnnotCat
-    args: [resistance]
-  templateSingular: >-
-    a mutation that escape neutralization from $ANTIBODIES
-  templatePlural: >-
-    mutations that escape neutralization from $ANTIBODIES
-  variables:
-    ANTIBODIES:
-      func: joinAnnotLabelOfAnnotCat
-      args: [resistance]
-      keywords:
-        singular_prefix: mAb
-        plural_prefix: mAbs
-        footnote: true
-  triggeredAAs:
-    func: mutationOfAnnotCat
-    args: [resistance]
-- commentName: polymorphism
-  rank: 8
-  condition:
-    func: hasAnnot
-    args: [var2000]
-  prefix:
-    func: mutation
-    args: [var2000]
-  templateSingular: >-
-    a mutation that is present in published sequences with
-    a frequency of $PCNTS$DOT
-  templatePlural: >-
-    mutations that are present in published sequences with
-    a frequency of $PCNTS, respectively$DOT
-  triggeredAAs:
-    func: mutation
-    args: [var2000]
-  footnote: ${FN}
-  variables:
-    PCNTS:
-      func: joinAminoAcidAttr
-      keywords:
-        annot_name: var2000
-        attr: prevalence
-        format: '{:.2%}'
-        last_punc: ''
-    FN:
-      func: getCitations
-      args: [var2000]
-    DOT:
-      func: getDot
-- commentName: variant
-  rank: 9
-  condition:
-    func: hasAnnotCategory
-    args: [variants]
-  prefix:
-    func: mutationOfAnnotCat
-    args: [variants]
-  templateSingular: >-
-    a mutation that observed in $VARIANTS
-  templatePlural: >-
-    mutations that observed in $VARIANTS
-  variables:
-    VARIANTS:
-      func: joinAnnotLabelOfAnnotCat
-      args: [variants]
-      keywords:
-        singular_prefix: variant
-        plural_prefix: variants
-        footnote: true
-  triggeredAAs:
-    func: mutationOfAnnotCat
-    args: [variants]
+  checkbox: true
+  annotStyle: aminoAcids
+  color: '#cc3429'
+  drmQuery: |-
+    SELECT position, amino_acid FROM resistance_mutations drm
+    WHERE
+      gene = 'S' AND
+      EXISTS (
+        SELECT 1 FROM amino_acid_prevalence pcnt
+        WHERE
+          pcnt.gene = drm.gene AND
+          pcnt.position = drm.position AND
+          pcnt.amino_acid = drm.amino_acid AND
+          pcnt.proportion > 0.000001
+      )
+    ORDER BY position, amino_acid

@@ -2,7 +2,9 @@
 pageTitle: SARS-CoV-2 Resistance Mutations
 introHeader: |-
   SARS-CoV-2 Resistance Mutations
-drdbVersion: "20221122-122350-drms"
+drdbVersion:
+  _resource: drdb-version.yml
+  _resource_key: drms
 sections:
   - title: Spike mAbs
     name: spike

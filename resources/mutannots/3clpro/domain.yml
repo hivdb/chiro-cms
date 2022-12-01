@@ -1,0 +1,19 @@
+name: domain
+level: position
+hideCitations: true
+colorRules: []
+citations:
+- doi: 10.1007/s11224-022-02089-6
+  author: Parmar
+  year: 2022
+  section: "Figure 1A"
+  positions: [1-306]
+positions:
+- subgroup: Domain I
+  positions: [1-101]
+- subgroup: Domain II
+  positions: [102-184]
+- subgroup: loop
+  positions: [185-200]
+- subgroup: Domain III
+  positions: [201-306]

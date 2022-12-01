@@ -2,10 +2,10 @@ taxonomy: SARS2
 gene: RdRP
 refSequence: SADAQSFLNRVCGVSAARLTPCGTGTSTDVVYRAFDIYNDKVAGFAKFLKTNCCRFQEKDEDDNLIDSYFVVKRHTFSNYQHEETIYNLLKDCPAVAKHDFFKFRIDGDMVPHISRQRLTKYTMADLVYALRHFDEGNCDTLKEILVTYNCCDDDYFNKKDWYDFVENPDILRVYANLGERVRQALLKTVQFCDAMRNAGIVGVLTLDNQDLNGNWYDFGDFIQTTPGSGVPVVDSYYSLLMPILTLTRALTAESHVDTDLTKPYIKWDLLKYDFTEERLKLFDRYFKYWDQTYHPNCVNCLDDRCILHCANFNVLFSTVFPPTSFGPLVRKIFVDGVPFVVSTGYHFRELGVVHNQDVNLHSSRLSFKELLVYAADPAMHAASGNLLLDKRTTCFSVAALTNNVAFQTVKPGNFNKDFYDFAVSKGFFKEGSSVELKHFFFAQDGNAAISDYDYYRYNLPTMCDIRQLLFVVEVVDKYFDCYDGGCINANQVIVNNLDKSAGFPFNKWGKARLYYDSMSYEDQDALFAYTKRNVIPTITQMNLKYAISAKNRARTVAGVSICSTMTNRQFHQKLLKSIAATRGATVVIGTSKFYGGWHNMLKTVYSDVENPHLMGWDYPKCDRAMPNMLRIMASLVLARKHTTCCSLSHRFYRLANECAQVLSEMVMCGGSLYVKPGGTSSGDATTAYANSVFNICQAVTANVNALLSTDGNKIADKYVRNLQHRLYECLYRNRDVDTDFVNEFYAYLRKHFSMMILSDDAVVCFNSTYASQGLVASIKNFKSVLYYQNNVFMSEAKCWTETDLTKGPHEFCSQHTMLVKQGDDYVYLPYPDPSRILGAGCFVDDIVKTDGTLMIERFVSLAIDAYPLTKHPNQEYADVFHLYLQYIRKLHDELTGHMLDMYSVMLTNDNTSRYWEPEFYEAMYTPHTVLQ
 fragmentOptions:
-- name: Fingers & Palm
-  seqFragment: [356, 825]
 - name: All
   seqFragment: [1, 932]
+- name: Fingers & Palm
+  seqFragment: [356, 825]
 annotCategories:
 - name: subdomain
   dropdown: false
@@ -13,40 +13,6 @@ annotCategories:
   multiSelect: false
   annotStyle: colorBox
   annotNames: [subdomain]
-- name: polymorphism
-  dropdown: true
-  defaultAnnot: var2000
-  multiSelect: false
-  annotStyle: aminoAcids
-  color: '#999'
-  annotNames: [var2000]
-- name: rdv-drm
-  dropdown: false
-  defaultAnnot: remdesivir
-  multiSelect: false
-  annotStyle: circleInBox
-  annotNames: [remdesivir]
-- name: _drm
-  display: false
-  dropdown: true
-  defaultAnnot: favipiravir
-  multiSelect: false
-  annotStyle: aminoAcids
-  annotNames: [favipiravir, 5-fluorouracil]
-- name: cov-diff
-  display: diff from other CoV
-  dropdown: true
-  defaultAnnot: sars
-  multiSelect: false
-  annotStyle: aminoAcids
-  annotNames: [sars, mers, oc43, hku1, nl63, 229e, mhv]
-- name: _hide
-  display: false
-  dropdown: false
-  defaultAnnot: null
-  multiSelect: false
-  annotStyle: hide
-  annotNames: [_hide2]
 - name: motif
   display: motifs
   dropdown: true
@@ -68,3 +34,52 @@ annotCategories:
   - Motif E
   - Motif F
   - Motif G
+- name: variants
+  display: variants
+  dropdown: true
+  multiSelect: false
+  annotStyle: aminoAcids
+  color: '#483d8b'
+  variantQuery:
+  - "Omicron/BQ.1.1"
+  - "Omicron/BQ.1"
+  - "Omicron/BA.5"
+  - "Omicron/BF.7"
+  - "Omicron/BA.4.6"
+  - "Omicron/XBB"
+  - "Omicron/BN.1"
+  - "Omicron/BA.2.75"
+  - "Omicron/BA.4"
+  - "Omicron/BA.2"
+  - "Omicron/BA.1"
+  - "Alpha"
+  - "Beta"
+  - "Gamma"
+  - "Delta"
+  - "Epsilon"
+  - "Zeta"
+  - "Eta"
+  - "Theta"
+  - "Iota"
+  - "Kappa"
+  - "Lambda"
+  - "Mu"
+- name: cov-diff
+  display: diff from other CoV
+  dropdown: true
+  multiSelect: false
+  annotStyle: aminoAcids
+  color: '#1e8d9e'
+  annotNames: [sars, mers, oc43, hku1, nl63, 229e, mhv]
+- name: drms
+  display: resistance mutations
+  defaultAnnot: drms
+  dropdown: false
+  checkbox: true
+  annotStyle: aminoAcids
+  color: '#cc3429'
+  drmQuery: |-
+    SELECT position, amino_acid FROM resistance_mutations drm
+    WHERE
+      gene = 'RdRP'
+    ORDER BY position, amino_acid

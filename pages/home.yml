@@ -30,9 +30,9 @@ projectSections:
       description: in vivo & in vitro selection data
       link: /search-drdb/selection-data/
       image: home/selection-data.png
-    - title: Spike viewer
-      description: A mutation annotation viewer of Spike gene
-      link: /mut-annot-viewer/SARS2S/
+    - title: Mutation annotation viewer
+      description: Spike, 3CLpro and RdRP
+      link: /mut-annot-viewer/
       image: home/edumat-spike-viewer.png
   - title: Publications
     compact: true

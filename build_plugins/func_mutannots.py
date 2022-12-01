@@ -3,9 +3,11 @@ import re
 import warnings
 import ruamel.yaml  # type: ignore
 
+from .drdb import open_drdb
+
 yaml = ruamel.yaml.YAML()
 
-VERSION = '20200924115632'
+VERSION = '20221130153806'
 
 
 def get_citation_id(citation, reverse_citations):
@@ -143,107 +145,358 @@ def build_aa_attrs(annotdata, citationId, sectionId):
     return grouped_by_pos
 
 
-def yield_mutannots_json(resource_dir):
-    for resname, geneconfig, annotdata_lookup in \
+def yield_gene(resource_dir):
+    for resname, geneconfig, _ in \
             load_config_and_data(resource_dir):
-        categories = []
-        annotdefs = []
-        citations = {}
-        positions = {}
-        rev_citations = {}
-        for cat in geneconfig['annotCategories']:
-            cat_annots = cat.pop('annotNames')
-            categories.append(cat)
-            for annot_name in cat_annots:
-                pos_cites = {}
-                annotdata = annotdata_lookup[annot_name]
-                level = annotdata['level']
-                annotdef = {
-                    'name': annot_name,
-                    'label': annotdata.get('label'),
-                    'level': level,
-                    'category': cat['name'],
-                    'hideCitations': bool(annotdata.get('hideCitations')),
-                    'colorRules': annotdata.get('colorRules', [])
-                }
-                if not annotdef['label']:
-                    annotdef.pop('label')
-                annotdefs.append(annotdef)
-                all_posaas = []
-                all_posaa_attrs = {}
+        yield resname, geneconfig['gene']
 
-                for cite in annotdata['citations']:
-                    cite_pos = get_positions(cite)
-                    cite_id = get_citation_id(cite, rev_citations)
-                    cite_id_str = '{citationId}.{sectionId}'.format(**cite_id)
-                    citations[cite_id_str] = {
-                        **cite_id,
-                        'author': cite['author'],
-                        'year': cite['year'],
-                        'doi': cite.get('doi'),
-                        'refID': cite.get('refID'),
-                        'section': cite['section']
-                    }
-                    for pos in cite_pos:
-                        pos_cites.setdefault(pos, []).append(cite_id_str)
-                    if level == 'aminoAcid':
-                        all_posaas.extend(get_amino_acids(cite))
-                        for pos, attrs in build_aa_attrs(cite,
-                                                         **cite_id).items():
-                            all_posaa_attrs.setdefault(pos, []).extend(attrs)
-                all_posaas = sorted(set(all_posaas))
 
-                if level == 'position':
-                    if 'positions' not in annotdata:
-                        raise KeyError(
-                            "'positions' is required for annotation {!r}"
-                            .format(annot_name)
-                        )
-                    for subgroup in annotdata['positions']:
-                        for pos in get_positions(subgroup):
-                            posdata = positions.setdefault(pos, {
-                                'position': pos,
-                                'annotations': {}
-                            })
-                            posdata['annotations'][annot_name] = {
-                                'name': annot_name,
-                                'value': subgroup['subgroup'],
-                                'description': subgroup.get('description', ''),
-                                'citationIds': pos_cites[pos]
-                            }
-                else:
-                    for pos, aa in all_posaas:
-                        posdata = positions.setdefault(pos, {
-                            'position': pos,
-                            'annotations': {}
-                        })
-                        annot = posdata['annotations'].setdefault(annot_name, {
-                            'name': annot_name,
-                            'description': '',
-                            'aminoAcids': [],
-                            'aminoAcidAttrs': [],
-                            'citationIds': pos_cites[pos]
-                        })
-                        annot['aminoAcids'].append(aa)
-                    for pos in set(pos for pos, _ in all_posaas):
-                        annot = positions[pos]['annotations'][annot_name]
-                        annot['aminoAcidAttrs'].extend(
-                            all_posaa_attrs.get(pos, [])
-                        )
-        positions = list(positions.values())
-        for posdata in positions:
-            posdata['annotations'] = list(posdata['annotations'].values())
+def annotdata_from_epitope_query(
+    cat,
+    cat_annots,
+    conn,
+    epitope_query,
+    annotdefs,
+    citations,
+    positions,
+    rev_citations
+):
+    cursor = conn.cursor()
+    cursor.execute(epitope_query)
+    ab_names = list(cursor.fetchall())
+    for ab_name, in ab_names:
+        annot_name = ab_name + ' epitope'
+        annotdefs.append({
+            'name': annot_name,
+            'label': ab_name,
+            'level': 'position',
+            'category': cat['name'],
+            'hideCitations': True,
+            'colorRules': []
+        })
+        cursor.execute("""
+            SELECT position FROM antibody_epitopes
+            WHERE ab_name = ?
+            ORDER BY position
+        """, (ab_name, ))
+        for pos, in cursor.fetchall():
+            posdata = positions.setdefault(pos, {
+                'position': pos,
+                'annotations': {}
+            })
+            posdata['annotations'][annot_name] = {
+                'name': annot_name,
+                'value': ab_name,
+                'description': '',
+                'citationIds': []
+            }
+    cursor.close()
 
-        payload = {
-            'taxonomy': geneconfig['taxonomy'],
-            'gene': geneconfig['gene'],
-            'refSequence': geneconfig['refSequence'],
-            'fragmentOptions': geneconfig['fragmentOptions'],
-            'annotCategories': categories,
-            'annotations': annotdefs,
-            'citations': citations,
-            'positions': positions,
-            'version': VERSION
+
+def annotdata_from_variant_query(
+    gene,
+    cat,
+    cat_annots,
+    conn,
+    variant_query,
+    annotdefs,
+    citations,
+    positions,
+    rev_citations
+):
+    cursor = conn.cursor()
+    for var_name in variant_query:
+        annot_name = var_name + ' variant'
+        annotdefs.append({
+            'name': annot_name,
+            'label': var_name,
+            'level': 'aminoAcid',
+            'category': cat['name'],
+            'hideCitations': True,
+            'colorRules': []
+        })
+        cursor.execute("""
+            SELECT position, amino_acid FROM variant_consensus
+            WHERE var_name = ? AND gene = ?
+            ORDER BY position, amino_acid
+        """, (var_name, gene))
+        for pos, aa in cursor.fetchall():
+            aa = (
+                aa.replace('del', 'd')
+                .replace('ins', 'i')
+                .replace('stop', '*')
+            )
+            posdata = positions.setdefault(pos, {
+                'position': pos,
+                'annotations': {}
+            })
+            annot = posdata['annotations'].setdefault(annot_name, {
+                'name': annot_name,
+                'description': '',
+                'aminoAcids': [],
+                'aminoAcidAttrs': [],
+                'citationIds': []
+            })
+            annot['aminoAcids'].append(aa)
+    cursor.close()
+
+
+def annotdata_from_drm_query(
+    cat,
+    cat_annots,
+    conn,
+    drm_query,
+    annotdefs,
+    citations,
+    positions,
+    rev_citations
+):
+    cursor = conn.cursor()
+    cursor.execute(drm_query)
+    annot_name = cat['name']
+    annotdefs.append({
+        'name': annot_name,
+        'level': 'aminoAcid',
+        'category': cat['name'],
+        'hideCitations': True,
+        'colorRules': []
+    })
+    for pos, aa in cursor.fetchall():
+        aa = (
+            aa.replace('del', 'd')
+            .replace('ins', 'i')
+            .replace('stop', '*')
+        )
+        posdata = positions.setdefault(pos, {
+            'position': pos,
+            'annotations': {}
+        })
+        annot = posdata['annotations'].setdefault(annot_name, {
+            'name': annot_name,
+            'description': '',
+            'aminoAcids': [],
+            'aminoAcidAttrs': [],
+            'citationIds': []
+        })
+        annot['aminoAcids'].append(aa)
+    cursor.close()
+
+
+def annotdata_from_pocket_query(
+    cat,
+    cat_annots,
+    conn,
+    pocket_query,
+    annotdefs,
+    citations,
+    positions,
+    rev_citations
+):
+    cursor = conn.cursor()
+    for drug in pocket_query:
+        annot_name = drug + ' pocket'
+        annotdefs.append({
+            'name': annot_name,
+            'label': drug,
+            'level': 'position',
+            'category': cat['name'],
+            'hideCitations': True,
+            'colorRules': []
+        })
+        cursor.execute("""
+            SELECT DISTINCT position FROM compound_binding_pockets
+            WHERE drug_name = ?
+            ORDER BY position
+        """, (drug, ))
+        for pos, in cursor.fetchall():
+            posdata = positions.setdefault(pos, {
+                'position': pos,
+                'annotations': {}
+            })
+            posdata['annotations'][annot_name] = {
+                'name': annot_name,
+                'value': drug,
+                'description': '',
+                'citationIds': []
+            }
+    cursor.close()
+
+
+def annotdata_from_files(
+    cat,
+    cat_annots,
+    annotdata_lookup,
+    annotdefs,
+    citations,
+    positions,
+    rev_citations
+):
+    for annot_name in cat_annots:
+        pos_cites = {}
+        annotdata = annotdata_lookup[annot_name]
+        level = annotdata['level']
+        annotdef = {
+            'name': annot_name,
+            'label': annotdata.get('label'),
+            'level': level,
+            'category': cat['name'],
+            'hideCitations': bool(annotdata.get('hideCitations')),
+            'colorRules': annotdata.get('colorRules', [])
         }
+        if not annotdef['label']:
+            annotdef.pop('label')
+        annotdefs.append(annotdef)
+        all_posaas = []
+        all_posaa_attrs = {}
 
-        yield resname, payload, geneconfig
+        for cite in annotdata['citations']:
+            cite_pos = get_positions(cite)
+            cite_id = get_citation_id(cite, rev_citations)
+            cite_id_str = '{citationId}.{sectionId}'.format(**cite_id)
+            citations[cite_id_str] = {
+                **cite_id,
+                'author': cite['author'],
+                'year': cite['year'],
+                'doi': cite.get('doi'),
+                'refID': cite.get('refID'),
+                'section': cite['section']
+            }
+            for pos in cite_pos:
+                pos_cites.setdefault(pos, []).append(cite_id_str)
+            if level == 'aminoAcid':
+                all_posaas.extend(get_amino_acids(cite))
+                for pos, attrs in build_aa_attrs(cite,
+                                                 **cite_id).items():
+                    all_posaa_attrs.setdefault(pos, []).extend(attrs)
+        all_posaas = sorted(set(all_posaas))
+
+        if level == 'position':
+            if 'positions' not in annotdata:
+                raise KeyError(
+                    "'positions' is required for annotation {!r}"
+                    .format(annot_name)
+                )
+            for subgroup in annotdata['positions']:
+                for pos in get_positions(subgroup):
+                    posdata = positions.setdefault(pos, {
+                        'position': pos,
+                        'annotations': {}
+                    })
+                    posdata['annotations'][annot_name] = {
+                        'name': annot_name,
+                        'value': subgroup['subgroup'],
+                        'description': subgroup.get('description', ''),
+                        'citationIds': pos_cites[pos]
+                    }
+        else:
+            for pos, aa in all_posaas:
+                posdata = positions.setdefault(pos, {
+                    'position': pos,
+                    'annotations': {}
+                })
+                annot = posdata['annotations'].setdefault(annot_name, {
+                    'name': annot_name,
+                    'description': '',
+                    'aminoAcids': [],
+                    'aminoAcidAttrs': [],
+                    'citationIds': pos_cites[pos]
+                })
+                annot['aminoAcids'].append(aa)
+            for pos in set(pos for pos, _ in all_posaas):
+                annot = positions[pos]['annotations'][annot_name]
+                annot['aminoAcidAttrs'].extend(
+                    all_posaa_attrs.get(pos, [])
+                )
+
+
+def yield_mutannots_json(resource_dir):
+    with open_drdb() as conn:
+        for resname, geneconfig, annotdata_lookup in \
+                load_config_and_data(resource_dir):
+            categories = []
+            annotdefs = []
+            citations = {}
+            positions = {}
+            rev_citations = {}
+            gene = geneconfig['gene']
+            for cat in geneconfig['annotCategories']:
+                cat_annots = cat.pop('annotNames', None)
+                epitope_query = cat.pop('epitopeQuery', None)
+                variant_query = cat.pop('variantQuery', None)
+                drm_query = cat.pop('drmQuery', None)
+                pocket_query = cat.pop('pocketQuery', None)
+                categories.append(cat)
+
+                if cat_annots:
+                    annotdata_from_files(
+                        cat,
+                        cat_annots,
+                        annotdata_lookup,
+                        annotdefs,
+                        citations,
+                        positions,
+                        rev_citations
+                    )
+                elif epitope_query:
+                    annotdata_from_epitope_query(
+                        cat,
+                        cat_annots,
+                        conn,
+                        epitope_query,
+                        annotdefs,
+                        citations,
+                        positions,
+                        rev_citations
+                    )
+                elif variant_query:
+                    annotdata_from_variant_query(
+                        gene,
+                        cat,
+                        cat_annots,
+                        conn,
+                        variant_query,
+                        annotdefs,
+                        citations,
+                        positions,
+                        rev_citations
+                    )
+                elif drm_query:
+                    annotdata_from_drm_query(
+                        cat,
+                        cat_annots,
+                        conn,
+                        drm_query,
+                        annotdefs,
+                        citations,
+                        positions,
+                        rev_citations
+                    )
+                elif pocket_query:
+                    annotdata_from_pocket_query(
+                        cat,
+                        cat_annots,
+                        conn,
+                        pocket_query,
+                        annotdefs,
+                        citations,
+                        positions,
+                        rev_citations
+                    )
+
+            positions = list(positions.values())
+            for posdata in positions:
+                posdata['annotations'] = list(posdata['annotations'].values())
+
+            payload = {
+                'taxonomy': geneconfig['taxonomy'],
+                'gene': gene,
+                'refSequence': geneconfig['refSequence'],
+                'fragmentOptions': geneconfig['fragmentOptions'],
+                'annotCategories': categories,
+                'annotations': annotdefs,
+                'citations': citations,
+                'positions': positions,
+                'version': VERSION
+            }
+
+            yield resname, payload, geneconfig

@@ -1,4 +1,6 @@
-drdbVersion: "20221122-122350-slim"
+drdbVersion:
+  _resource: drdb-version.yml
+  _resource_key: slim
 cmtVersion: "20221120"
 mutationDefaultGene: S
 allGenes: [

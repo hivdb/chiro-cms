@@ -2,7 +2,9 @@
 pageTitle: SARS-CoV-2 Variants
 introHeader: |-
   SARS-CoV-2 Variants
-drdbVersion: "20221122-122350-variants"
+drdbVersion:
+  _resource: drdb-version.yml
+  _resource_key: variants
 regionPresets:
   presets:
     - name: spike

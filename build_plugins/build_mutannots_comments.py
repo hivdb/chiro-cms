@@ -2,7 +2,7 @@ import re
 import os
 import json
 
-from .func_mutannots import yield_mutannots_json
+from .func_mutannots import yield_gene
 
 
 def parse_mutations(mutations_text):
@@ -25,8 +25,8 @@ def build_mutannots_comments(resource_dir, download_dir, buildres_dir, **kw):
     )) as fp:
         all_comments = json.load(fp)
 
-    for resname, payload, geneconfig in yield_mutannots_json(resource_dir):
-        gene = payload['gene']
+    for resname, gene in yield_gene(resource_dir):
+        gene = gene.lstrip('_')
         gene_comments = {}
         for comment in all_comments['payload']:
             if comment['gene'] != gene:
@@ -35,7 +35,7 @@ def build_mutannots_comments(resource_dir, download_dir, buildres_dir, **kw):
                 gene_comments.setdefault(pos, []).append(comment['comment'])
         gene_comments = [{
             'position': pos,
-            'comment': '\n'.join(cmts)
+            'comment': cmts
         } for pos, cmts in gene_comments.items()]
         dest_json = os.path.join(
             buildres_dir, '{}-comments.json'.format(resname))

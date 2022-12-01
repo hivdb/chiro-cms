@@ -12,7 +12,7 @@ from pathlib import Path
 
 
 BASE_DIR = Path(__file__).parents[1]
-SARS2_DRMS_YAML = BASE_DIR / 'pages' / 'sars2-drms.yml'
+DRDB_VERSION_YAML = BASE_DIR / 'resources' / 'drdb-version.yml'
 RESIST_MUTS_JSON = (
     BASE_DIR / 'downloads' /
     'resistance-mutations' / 'latest.json'
@@ -23,9 +23,9 @@ DRUG_CLASSES = ['MAB', '_3CLPI', 'RdRPI']
 
 @contextmanager
 def open_drdb() -> Generator[sqlite3.Connection, None, None]:
-    with SARS2_DRMS_YAML.open(encoding='UTF-8-sig') as fp:
-        drms_yaml = yaml.load(fp, Loader=yaml.Loader)
-    drdb_version: str = drms_yaml['drdbVersion']
+    with DRDB_VERSION_YAML.open(encoding='UTF-8-sig') as fp:
+        drdb_version_yaml = yaml.load(fp, Loader=yaml.Loader)
+    drdb_version: str = drdb_version_yaml['drms']
     resp = requests.get(
         'https://s3-us-west-2.amazonaws.com/cms.hivdb.org'
         '/covid-drdb/covid-drdb-{}.db'.format(drdb_version)

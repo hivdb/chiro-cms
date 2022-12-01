@@ -1,0 +1,71 @@
+taxonomy: SARS2
+gene: _3CLpro
+refSequence: SGFRKMAFPSGKVEGCMVQVTCGTTTLNGLWLDDVVYCPRHVICTSEDMLNPNYEDLLIRKSNHNFLVQAGNVQLRVIGHSMQNCVLKLKVDTANPKTPKYKFVRIQPGQTFSVLACYNGSPSGVYQCAMRPNFTIKGSFLNGSCGSVGFNIDYDCVSFCYMHHMELPTGVHAGTDLEGNFYGPFVDRQTAQAAGTDTTITVNVLAWLYAAVINGDRWFLNRFTTTLNDFNLVAMKYNYEPLTQDHVDILGPLSAQTGIAVLDMCASLKELLQNGMNGRTILGSALLEDEFTPFDVVRQCSGVTFQ
+fragmentOptions:
+- name: All
+  seqFragment: [1, 306]
+annotCategories:
+- name: domain
+  dropdown: false
+  defaultAnnot: domain
+  multiSelect: false
+  annotStyle: colorBox
+  annotNames: [domain]
+- name: binding-pockets
+  display: binding pockets
+  dropdown: true
+  defaultAnnots: [Nirmatrelvir]
+  multiSelect: true
+  annotStyle: underscore
+  pocketQuery:
+  - "Nirmatrelvir"
+- name: variants
+  display: variants
+  dropdown: true
+  multiSelect: false
+  annotStyle: aminoAcids
+  color: '#483d8b'
+  variantQuery:
+  - "Omicron/BQ.1.1"
+  - "Omicron/BQ.1"
+  - "Omicron/BA.5"
+  - "Omicron/BF.7"
+  - "Omicron/BA.4.6"
+  - "Omicron/XBB"
+  - "Omicron/BN.1"
+  - "Omicron/BA.2.75"
+  - "Omicron/BA.4"
+  - "Omicron/BA.2"
+  - "Omicron/BA.1"
+  - "Alpha"
+  - "Beta"
+  - "Gamma"
+  - "Delta"
+  - "Epsilon"
+  - "Zeta"
+  - "Eta"
+  - "Theta"
+  - "Iota"
+  - "Kappa"
+  - "Lambda"
+  - "Mu"
+- name: drms
+  display: resistance mutations
+  defaultAnnot: drms
+  dropdown: false
+  checkbox: true
+  annotStyle: aminoAcids
+  color: '#cc3429'
+  drmQuery: |-
+    SELECT position, amino_acid FROM resistance_mutations drm
+    WHERE
+      gene = '_3CLpro' AND
+      EXISTS (
+        SELECT 1 FROM amino_acid_prevalence pcnt
+        WHERE
+          pcnt.gene = drm.gene AND
+          pcnt.position = drm.position AND
+          pcnt.amino_acid = drm.amino_acid AND
+          pcnt.proportion > 0.0000001
+      )
+    ORDER BY position, amino_acid
