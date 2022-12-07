@@ -34,43 +34,43 @@ annotCategories:
   - Motif E
   - Motif F
   - Motif G
-- name: variants
-  display: variants
-  dropdown: true
-  multiSelect: false
-  annotStyle: aminoAcids
-  color: '#483d8b'
-  variantQuery:
-  - "Omicron/BQ.1.1"
-  - "Omicron/BQ.1"
-  - "Omicron/BA.5"
-  - "Omicron/BF.7"
-  - "Omicron/BA.4.6"
-  - "Omicron/XBB"
-  - "Omicron/BN.1"
-  - "Omicron/BA.2.75"
-  - "Omicron/BA.4"
-  - "Omicron/BA.2"
-  - "Omicron/BA.1"
-  - "Alpha"
-  - "Beta"
-  - "Gamma"
-  - "Delta"
-  - "Epsilon"
-  - "Zeta"
-  - "Eta"
-  - "Theta"
-  - "Iota"
-  - "Kappa"
-  - "Lambda"
-  - "Mu"
-- name: cov-diff
-  display: diff from other CoV
-  dropdown: true
-  multiSelect: false
-  annotStyle: aminoAcids
-  color: '#1e8d9e'
-  annotNames: [sars, mers, oc43, hku1, nl63, 229e, mhv]
+# - name: variants
+#   display: variants
+#   dropdown: true
+#   multiSelect: false
+#   annotStyle: aminoAcids
+#   color: '#483d8b'
+#   variantQuery:
+#   - "Omicron/BQ.1.1"
+#   - "Omicron/BQ.1"
+#   - "Omicron/BA.5"
+#   - "Omicron/BF.7"
+#   - "Omicron/BA.4.6"
+#   - "Omicron/XBB"
+#   - "Omicron/BN.1"
+#   - "Omicron/BA.2.75"
+#   - "Omicron/BA.4"
+#   - "Omicron/BA.2"
+#   - "Omicron/BA.1"
+#   - "Alpha"
+#   - "Beta"
+#   - "Gamma"
+#   - "Delta"
+#   - "Epsilon"
+#   - "Zeta"
+#   - "Eta"
+#   - "Theta"
+#   - "Iota"
+#   - "Kappa"
+#   - "Lambda"
+#   - "Mu"
+# - name: cov-diff
+#   display: diff from other CoV
+#   dropdown: true
+#   multiSelect: false
+#   annotStyle: aminoAcids
+#   color: '#1e8d9e'
+#   annotNames: [sars, mers, oc43, hku1, nl63, 229e, mhv]
 - name: drms
   display: resistance mutations
   defaultAnnot: drms
@@ -83,3 +83,10 @@ annotCategories:
     WHERE
       gene = 'RdRP'
     ORDER BY position, amino_acid
+proteinViews:
+  - name: 'RdRP (6M71)'
+    pdb: '6M71'
+    sele: ':A'
+    defaultCameraState:
+      position: [-126.9, -126.3, -114.6]
+      distance: -117.9

@@ -492,6 +492,7 @@ def yield_mutannots_json(resource_dir):
                 'gene': gene,
                 'refSequence': geneconfig['refSequence'],
                 'fragmentOptions': geneconfig['fragmentOptions'],
+                'proteinViews': geneconfig.get('proteinViews'),
                 'annotCategories': categories,
                 'annotations': annotdefs,
                 'citations': citations,

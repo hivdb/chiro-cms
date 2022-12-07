@@ -19,36 +19,36 @@ annotCategories:
   annotStyle: underscore
   pocketQuery:
   - "Nirmatrelvir"
-- name: variants
-  display: variants
-  dropdown: true
-  multiSelect: false
-  annotStyle: aminoAcids
-  color: '#483d8b'
-  variantQuery:
-  - "Omicron/BQ.1.1"
-  - "Omicron/BQ.1"
-  - "Omicron/BA.5"
-  - "Omicron/BF.7"
-  - "Omicron/BA.4.6"
-  - "Omicron/XBB"
-  - "Omicron/BN.1"
-  - "Omicron/BA.2.75"
-  - "Omicron/BA.4"
-  - "Omicron/BA.2"
-  - "Omicron/BA.1"
-  - "Alpha"
-  - "Beta"
-  - "Gamma"
-  - "Delta"
-  - "Epsilon"
-  - "Zeta"
-  - "Eta"
-  - "Theta"
-  - "Iota"
-  - "Kappa"
-  - "Lambda"
-  - "Mu"
+# - name: variants
+#   display: variants
+#   dropdown: true
+#   multiSelect: false
+#   annotStyle: aminoAcids
+#   color: '#483d8b'
+#   variantQuery:
+#   - "Omicron/BQ.1.1"
+#   - "Omicron/BQ.1"
+#   - "Omicron/BA.5"
+#   - "Omicron/BF.7"
+#   - "Omicron/BA.4.6"
+#   - "Omicron/XBB"
+#   - "Omicron/BN.1"
+#   - "Omicron/BA.2.75"
+#   - "Omicron/BA.4"
+#   - "Omicron/BA.2"
+#   - "Omicron/BA.1"
+#   - "Alpha"
+#   - "Beta"
+#   - "Gamma"
+#   - "Delta"
+#   - "Epsilon"
+#   - "Zeta"
+#   - "Eta"
+#   - "Theta"
+#   - "Iota"
+#   - "Kappa"
+#   - "Lambda"
+#   - "Mu"
 - name: drms
   display: resistance mutations
   defaultAnnot: drms
@@ -69,3 +69,11 @@ annotCategories:
           pcnt.proportion > 0.0000001
       )
     ORDER BY position, amino_acid
+proteinViews:
+  - name: '3CLpro (6LZE)'
+    pdb: '6LZE'
+    sele: ':A'
+    defaultCameraState:
+      position: [25.5, -12.9, -61.1]
+      rotation: [0.07, 0.34, 0.01, 0.94]
+      distance: -93.9

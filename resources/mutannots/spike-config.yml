@@ -87,3 +87,18 @@ annotCategories:
           pcnt.proportion > 0.000001
       )
     ORDER BY position, amino_acid
+proteinViews:
+  - name: 'RBD (6M0J)'
+    pdb: '6M0J'
+    sele: '306-534 AND :E'
+    positionOffset: 0
+    defaultCameraState:
+      position: [35.6, -32.7, -22.5]
+      rotation: [0.17, 0.56, 0.08, 0.81]
+      distance: -82.6
+  - name: 'Spike (6VXX)'
+    pdb: '6VXX'
+    sele: '1-1273 AND :A'
+    positionOffset: 0
+    defaultCameraState:
+      rotation: [-0.62, 0.43, 0.34, 0.57]
