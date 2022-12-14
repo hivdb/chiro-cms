@@ -60,8 +60,8 @@
   origin: Phage display library
 - mab: Sotrovimab
   synonyms: GSK4182136;S309;Vir-7831;Xevudy
-  num_ref_name: 84
-  num_fold: 917
+  num_ref_name: 85
+  num_fold: 922
   avail: EUA
   target: RBD
   class: RBD Core Cluster I
@@ -70,8 +70,8 @@
   origin: SARS-CoV CP
 - mab: Imdevimab
   synonyms: REGN10987
-  num_ref_name: 100
-  num_fold: 896
+  num_ref_name: 101
+  num_fold: 901
   avail: EUA
   target: RBD
   class: RBD Core Cluster I
@@ -80,8 +80,8 @@
   origin: Transgenic mice
 - mab: Casirivimab
   synonyms: REGN10933
-  num_ref_name: 97
-  num_fold: 851
+  num_ref_name: 98
+  num_fold: 856
   avail: EUA
   target: RBD
   class: RBM Class I
@@ -100,8 +100,8 @@
   origin: CP
 - mab: Bebtelovimab
   synonyms: LY-CoV1404;LY3853113
-  num_ref_name: 31
-  num_fold: 581
+  num_ref_name: 32
+  num_fold: 586
   avail: EUA
   target: RBD
   class: RBM Class II
@@ -110,8 +110,8 @@
   origin: CP
 - mab: Cilgavimab
   synonyms: COV2-2130;AZD1061
-  num_ref_name: 68
-  num_fold: 580
+  num_ref_name: 69
+  num_fold: 585
   avail: EUA
   target: RBD
   class: RBM Class II
@@ -130,8 +130,8 @@
   origin: CP
 - mab: Tixagevimab
   synonyms: COV2-2196;AZD8895
-  num_ref_name: 65
-  num_fold: 476
+  num_ref_name: 66
+  num_fold: 481
   avail: EUA
   target: RBD
   class: RBM Class I

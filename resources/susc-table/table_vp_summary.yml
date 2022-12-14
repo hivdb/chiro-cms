@@ -1134,13 +1134,13 @@
     vp_num_i_fold: 13
     vp_num_r_fold: 39
   - name: BNT162b2
-    vp_studies: 83
-    vp_num_fold: 4975
+    vp_studies: 84
+    vp_num_fold: 5047
     vp_s_fold: 26%
-    vp_i_fold: 48%
-    vp_r_fold: 26%
-    vp_num_s_fold: 1296
-    vp_num_i_fold: 2408
+    vp_i_fold: 49%
+    vp_r_fold: 25%
+    vp_num_s_fold: 1325
+    vp_num_i_fold: 2451
     vp_num_r_fold: 1271
   - name: BNT162b2 + BNT162b2_BA.1_bivalent
     vp_studies: 1
@@ -1377,13 +1377,13 @@
     vp_num_i_fold: 73
     vp_num_r_fold: 0
   - name: mRNA
-    vp_studies: 25
-    vp_num_fold: 995
-    vp_s_fold: 52%
-    vp_i_fold: 34%
+    vp_studies: 24
+    vp_num_fold: 976
+    vp_s_fold: 53%
+    vp_i_fold: 33%
     vp_r_fold: 14%
     vp_num_s_fold: 521
-    vp_num_i_fold: 342
+    vp_num_i_fold: 323
     vp_num_r_fold: 132
   - name: mRNA + mRNA-1273
     vp_studies: 2
@@ -1666,15 +1666,6 @@
     vp_num_s_fold: 54
     vp_num_i_fold: 0
     vp_num_r_fold: 0
-  - name: BNT162b2 bivalent + Unknown vaccine
-    vp_studies: 1
-    vp_num_fold: 8
-    vp_s_fold: 0
-    vp_i_fold: 100%
-    vp_r_fold: 0
-    vp_num_s_fold: 0
-    vp_num_i_fold: 8
-    vp_num_r_fold: 0
   - name: BNT162b2 or mRNA-1273
     vp_studies: 1
     vp_num_fold: 117
@@ -1757,13 +1748,13 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: Unknown vaccine
-    vp_studies: 10
-    vp_num_fold: 215
-    vp_s_fold: 77%
-    vp_i_fold: 20%
+    vp_studies: 9
+    vp_num_fold: 182
+    vp_s_fold: 91%
+    vp_i_fold: 6%
     vp_r_fold: 3%
     vp_num_s_fold: 165
-    vp_num_i_fold: 44
+    vp_num_i_fold: 11
     vp_num_r_fold: 6
   - name: ZF2001
     vp_studies: 1
@@ -1775,13 +1766,13 @@
     vp_num_i_fold: 106
     vp_num_r_fold: 0
   - name: mRNA
-    vp_studies: 22
-    vp_num_fold: 952
-    vp_s_fold: 71%
-    vp_i_fold: 25%
+    vp_studies: 21
+    vp_num_fold: 933
+    vp_s_fold: 73%
+    vp_i_fold: 23%
     vp_r_fold: 4%
     vp_num_s_fold: 679
-    vp_num_i_fold: 235
+    vp_num_i_fold: 216
     vp_num_r_fold: 38
   - name: mRNA-1273
     vp_studies: 10
@@ -1792,15 +1783,6 @@
     vp_num_s_fold: 18
     vp_num_i_fold: 161
     vp_num_r_fold: 33
-  - name: mRNA-1273 bivalent + Unknown vaccine
-    vp_studies: 1
-    vp_num_fold: 10
-    vp_s_fold: 0
-    vp_i_fold: 0
-    vp_r_fold: 100%
-    vp_num_s_fold: 0
-    vp_num_i_fold: 0
-    vp_num_r_fold: 10
   - name: mRNA-bivalent + mRNA-monovalent
     vp_studies: 1
     vp_num_fold: 21
@@ -1818,15 +1800,6 @@
     vp_r_fold: 0
     vp_num_s_fold: 153
     vp_num_i_fold: 0
-    vp_num_r_fold: 0
-  - name: mRNA-monovalent + Unknown vaccine
-    vp_studies: 1
-    vp_num_fold: 15
-    vp_s_fold: 0
-    vp_i_fold: 100%
-    vp_r_fold: 0
-    vp_num_s_fold: 0
-    vp_num_i_fold: 15
     vp_num_r_fold: 0
 - variant: Iota
   vaccine:

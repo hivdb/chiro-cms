@@ -18,62 +18,73 @@
   I: 346
   R: 36
   median_fold: 3.0
-  percent: 0.99
+  percent: 0.98
   priority: 1
 - vaccine: BNT162b2
   dosage: 2.0
   infection: ''
-  num_ref_name: 182
-  num_fold: 22186
-  S: 15373
-  I: 5021
-  R: 1792
+  num_ref_name: 183
+  num_fold: 22376
+  S: 15398
+  I: 5132
+  R: 1846
   median_fold: 2.9
   percent: 17.0
   priority: 1
 - vaccine: BNT162b2
   dosage: 2.0
   infection: infected
-  num_ref_name: 48
-  num_fold: 3334
-  S: 2158
-  I: 1061
-  R: 115
-  median_fold: 3.2
-  percent: 2.6
+  num_ref_name: 49
+  num_fold: 3529
+  S: 2184
+  I: 1155
+  R: 190
+  median_fold: 3.5
+  percent: 2.7
   priority: 1
 - vaccine: BNT162b2
   dosage: 3.0
   infection: ''
-  num_ref_name: 79
-  num_fold: 7099
+  num_ref_name: 80
+  num_fold: 7239
   S: 3923
-  I: 2617
-  R: 559
-  median_fold: 4.2
-  percent: 5.5
+  I: 2691
+  R: 625
+  median_fold: 4.3
+  percent: 5.6
   priority: 1
 - vaccine: BNT162b2
   dosage: 3.0
   infection: infected
-  num_ref_name: 17
-  num_fold: 1327
-  S: 956
-  I: 298
-  R: 73
-  median_fold: 2.5
-  percent: 1.0
+  num_ref_name: 18
+  num_fold: 1547
+  S: 1015
+  I: 386
+  R: 146
+  median_fold: 3.2
+  percent: 1.2
   priority: 1
 - vaccine: BNT162b2
   dosage: 4.0
   infection: ''
-  num_ref_name: 3
-  num_fold: 198
-  S: 2
+  num_ref_name: 4
+  num_fold: 298
+  S: 3
+  I: 110
+  R: 185
+  median_fold: 32.0
+  percent: 0.23
+  priority: 1
+- vaccine: BNT162b2
+  dosage: 4.0
+  infection: infected
+  num_ref_name: 2
+  num_fold: 160
+  S: 24
   I: 68
-  R: 128
-  median_fold: 40.0
-  percent: 0.15
+  R: 68
+  median_fold: 16.0
+  percent: 0.12
   priority: 1
 - vaccine: mRNA-1273
   dosage: 1.0
@@ -117,7 +128,7 @@
   I: 101
   R: 24
   median_fold: 3.1
-  percent: 0.31
+  percent: 0.3
   priority: 2
 - vaccine: mRNA-1273
   dosage: 3.0
@@ -139,7 +150,7 @@
   I: 215
   R: 4
   median_fold: 3.0
-  percent: 0.35
+  percent: 0.34
   priority: 2
 - vaccine: mRNA-1273
   dosage: 4.0
@@ -337,7 +348,7 @@
   I: 2704
   R: 840
   median_fold: 12.0
-  percent: 3.4
+  percent: 3.3
   priority: 8
 - vaccine: CoronaVac
   dosage: 3.0
@@ -348,7 +359,7 @@
   I: 5176
   R: 3049
   median_fold: 14.0
-  percent: 8.2
+  percent: 8.1
   priority: 8
 - vaccine: NVX-CoV2373
   dosage: 2.0
@@ -370,7 +381,7 @@
   I: 164
   R: 0
   median_fold: 8.2
-  percent: 0.17
+  percent: 0.16
   priority: 9
 - vaccine: ZF2001
   dosage: 3.0
@@ -381,7 +392,7 @@
   I: 399
   R: 40
   median_fold: 8.1
-  percent: 0.48
+  percent: 0.47
   priority: 10
 - vaccine: mRNA-1273 + mRNA-1273.211
   dosage: 3.0
@@ -491,7 +502,7 @@
   I: 76
   R: 0
   median_fold: 9.5
-  percent: 0.081
+  percent: 0.08
   priority: 54
 - vaccine: KCONVAC
   dosage: 3.0
@@ -502,7 +513,7 @@
   I: 10
   R: 0
   median_fold: 1.2
-  percent: 0.2
+  percent: 0.19
   priority: 56
 - vaccine: CoronaVac or BBIBP-CorV
   dosage: 3.0
@@ -513,7 +524,7 @@
   I: 47
   R: 0
   median_fold: 4.2
-  percent: 0.46
+  percent: 0.45
   priority: 57
 - vaccine: Ad26.COV2.S + BNT162b2
   dosage: 2.0
@@ -524,7 +535,7 @@
   I: 107
   R: 20
   median_fold: 7.5
-  percent: 0.18
+  percent: 0.17
   priority: 64
 - vaccine: Ad26.COV2.S + BNT162b2
   dosage: 2.0
@@ -535,7 +546,7 @@
   I: 0
   R: 0
   median_fold: 0.65
-  percent: 0.0047
+  percent: 0.0046
   priority: 64
 - vaccine: Ad26.COV2.S + BNT162b2
   dosage: 3.0
@@ -656,7 +667,7 @@
   I: 182
   R: 18
   median_fold: 7.8
-  percent: 0.2
+  percent: 0.19
   priority: 78
 - vaccine: BNT162b2 + CoronaVac
   dosage: 3.0
@@ -667,7 +678,7 @@
   I: 271
   R: 6
   median_fold: 4.7
-  percent: 0.51
+  percent: 0.5
   priority: 79
 - vaccine: BNT162b2 + CoronaVac
   dosage: 3.0
@@ -678,7 +689,7 @@
   I: 24
   R: 0
   median_fold: 2.0
-  percent: 0.072
+  percent: 0.071
   priority: 79
 - vaccine: Unknown vaccine
   dosage: 2.0
@@ -700,7 +711,7 @@
   I: 264
   R: 61
   median_fold: 3.0
-  percent: 0.95
+  percent: 0.94
   priority: 92
 - vaccine: Unknown vaccine
   dosage: 3.0
@@ -711,16 +722,16 @@
   I: 43
   R: 3
   median_fold: 7.2
-  percent: 0.061
+  percent: 0.06
   priority: 92
 - vaccine: Unknown vaccine
   dosage: 3.0
   infection: infected
-  num_ref_name: 9
-  num_fold: 929
+  num_ref_name: 8
+  num_fold: 830
   S: 574
-  I: 308
-  R: 47
-  median_fold: 3.5
-  percent: 0.72
+  I: 242
+  R: 14
+  median_fold: 3.3
+  percent: 0.64
   priority: 92
