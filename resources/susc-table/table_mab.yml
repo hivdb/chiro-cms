@@ -340,51 +340,51 @@
   cas:
     fold: '1000'
     fold_cmp: '>'
-    num: 47
+    num: 48
   ete:
-    fold: '428'
+    fold: '430'
     fold_cmp: ''
-    num: 39
+    num: 40
   tix:
-    fold: '290'
+    fold: '273'
     fold_cmp: ''
-    num: 46
+    num: 47
   bam:
     fold: '1000'
     fold_cmp: '>'
-    num: 39
+    num: 40
   cil:
-    fold: '272'
+    fold: '268'
     fold_cmp: ''
-    num: 44
+    num: 45
   imd:
     fold: '1000'
     fold_cmp: '>'
-    num: 48
+    num: 49
   sot:
     fold: '3.8'
     fold_cmp: ''
-    num: 59
+    num: 60
   reg:
     fold: '1000'
     fold_cmp: '>'
-    num: 13
+    num: 14
   beb:
     fold: '1'
     fold_cmp: ''
-    num: 23
+    num: 24
   cas_imd:
     fold: '1000'
     fold_cmp: '>'
-    num: 22
+    num: 23
   cil_tix:
-    fold: '60'
+    fold: '56'
     fold_cmp: ''
-    num: 32
+    num: 33
   bam_ete:
-    fold: '887'
+    fold: '980'
     fold_cmp: ''
-    num: 16
+    num: 17
   C135:
     fold: '1000'
     fold_cmp: '>'
@@ -396,23 +396,23 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '136'
+    fold: '134'
     fold_cmp: ''
-    num: 14
+    num: 15
   b_198:
-    fold: '0.8'
+    fold: '0.9'
     fold_cmp: ''
-    num: 9
+    num: 10
   b_196_198:
-    fold: '13'
+    fold: '12'
     fold_cmp: ''
-    num: 4
+    num: 5
   JMB2002:
     fold: '-'
   adi:
-    fold: '110'
+    fold: '108'
     fold_cmp: ''
-    num: 17
+    num: 18
   Vir7832:
     fold: '3.1'
     fold_cmp: ''
@@ -678,49 +678,53 @@
     num: 2
 - variant: Omicron/BA.2.75.2
   cas:
-    fold: '177'
+    fold: '589'
     fold_cmp: ''
-    num: 3
+    num: 4
   ete:
-    fold: '35'
-    fold_cmp: ''
-    num: 1
-  tix:
-    fold: '637'
-    fold_cmp: ''
-    num: 3
-  bam:
-    fold: '111'
-    fold_cmp: ''
-    num: 1
-  cil:
-    fold: '400'
-    fold_cmp: ''
-    num: 3
-  imd:
-    fold: '175'
-    fold_cmp: ''
-    num: 3
-  sot:
-    fold: '12'
-    fold_cmp: ''
-    num: 3
-  reg:
-    fold: '-'
-  beb:
-    fold: '3.1'
-    fold_cmp: ''
-    num: 3
-  cas_imd:
-    fold: '600'
+    fold: '489'
     fold_cmp: ''
     num: 2
-  cil_tix:
-    fold: '476'
+  tix:
+    fold: '819'
     fold_cmp: ''
+    num: 4
+  bam:
+    fold: '556'
+    fold_cmp: ''
+    num: 2
+  cil:
+    fold: '700'
+    fold_cmp: ''
+    num: 4
+  imd:
+    fold: '588'
+    fold_cmp: ''
+    num: 4
+  sot:
+    fold: '17'
+    fold_cmp: ''
+    num: 4
+  reg:
+    fold: '905'
+    fold_cmp: ''
+    num: 1
+  beb:
+    fold: '3.0'
+    fold_cmp: ''
+    num: 4
+  cas_imd:
+    fold: '1000'
+    fold_cmp: '>'
     num: 3
+  cil_tix:
+    fold: '738'
+    fold_cmp: ''
+    num: 4
   bam_ete:
-    fold: '-'
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
   C135:
     fold: '-'
   C144:
@@ -728,23 +732,23 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '19'
+    fold: '481'
     fold_cmp: ''
-    num: 1
+    num: 2
   b_198:
-    fold: '0.8'
+    fold: '30'
     fold_cmp: ''
-    num: 1
+    num: 2
   b_196_198:
-    fold: '12'
+    fold: '397'
     fold_cmp: ''
-    num: 1
+    num: 2
   JMB2002:
     fold: '-'
   adi:
-    fold: '18'
+    fold: '509'
     fold_cmp: ''
-    num: 1
+    num: 2
   Vir7832:
     fold: '-'
   DXP604:
@@ -824,51 +828,51 @@
   cas:
     fold: '1000'
     fold_cmp: '>'
-    num: 21
+    num: 22
   ete:
-    fold: '383'
+    fold: '408'
     fold_cmp: ''
-    num: 15
+    num: 16
   tix:
     fold: '1000'
     fold_cmp: '>'
-    num: 24
+    num: 25
   bam:
-    fold: '705'
+    fold: '853'
     fold_cmp: ''
-    num: 15
+    num: 16
   cil:
     fold: '9.2'
     fold_cmp: ''
-    num: 24
+    num: 25
   imd:
-    fold: '143'
+    fold: '122'
     fold_cmp: ''
-    num: 21
+    num: 22
   sot:
-    fold: '22'
+    fold: '23'
     fold_cmp: ''
-    num: 30
+    num: 31
   reg:
     fold: '1000'
     fold_cmp: '>'
-    num: 7
+    num: 8
   beb:
     fold: '1'
     fold_cmp: ''
-    num: 20
+    num: 21
   cas_imd:
-    fold: '387'
+    fold: '379'
     fold_cmp: ''
-    num: 15
+    num: 16
   cil_tix:
-    fold: '23'
+    fold: '22'
     fold_cmp: ''
-    num: 20
+    num: 21
   bam_ete:
-    fold: '571'
+    fold: '588'
     fold_cmp: ''
-    num: 10
+    num: 11
   C135:
     fold: '1000'
     fold_cmp: '>'
@@ -880,25 +884,25 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '116'
+    fold: '103'
     fold_cmp: ''
-    num: 8
+    num: 9
   b_198:
-    fold: '16'
+    fold: '9.7'
+    fold_cmp: ''
+    num: 7
+  b_196_198:
+    fold: '58'
     fold_cmp: ''
     num: 6
-  b_196_198:
-    fold: '64'
-    fold_cmp: ''
-    num: 5
   JMB2002:
     fold: '369'
     fold_cmp: ''
     num: 1
   adi:
-    fold: '922'
+    fold: '935'
     fold_cmp: ''
-    num: 10
+    num: 11
   Vir7832:
     fold: '-'
   DXP604:
@@ -907,49 +911,53 @@
     num: 3
 - variant: Omicron/BA.4.6
   cas:
-    fold: '177'
-    fold_cmp: ''
-    num: 3
-  ete:
-    fold: '35'
-    fold_cmp: ''
-    num: 1
-  tix:
-    fold: '637'
-    fold_cmp: ''
-    num: 5
-  bam:
-    fold: '111'
-    fold_cmp: ''
-    num: 1
-  cil:
-    fold: '400'
-    fold_cmp: ''
-    num: 5
-  imd:
-    fold: '235'
-    fold_cmp: ''
-    num: 3
-  sot:
-    fold: '43'
+    fold: '589'
     fold_cmp: ''
     num: 4
-  reg:
-    fold: '-'
-  beb:
-    fold: '0.8'
-    fold_cmp: ''
-    num: 5
-  cas_imd:
-    fold: '808'
+  ete:
+    fold: '489'
     fold_cmp: ''
     num: 2
-  cil_tix:
-    fold: '476'
+  tix:
+    fold: '819'
+    fold_cmp: ''
+    num: 6
+  bam:
+    fold: '556'
+    fold_cmp: ''
+    num: 2
+  cil:
+    fold: '527'
+    fold_cmp: ''
+    num: 6
+  imd:
+    fold: '173'
+    fold_cmp: ''
+    num: 4
+  sot:
+    fold: '44'
     fold_cmp: ''
     num: 5
+  reg:
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
+  beb:
+    fold: '1.1'
+    fold_cmp: ''
+    num: 6
+  cas_imd:
+    fold: '738'
+    fold_cmp: ''
+    num: 3
+  cil_tix:
+    fold: '738'
+    fold_cmp: ''
+    num: 6
   bam_ete:
-    fold: '-'
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
   C135:
     fold: '-'
   C144:
@@ -957,23 +965,23 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '60'
+    fold: '38'
     fold_cmp: ''
-    num: 2
+    num: 3
   b_198:
-    fold: '12'
+    fold: '23'
     fold_cmp: ''
-    num: 2
+    num: 3
   b_196_198:
-    fold: '83'
+    fold: '62'
     fold_cmp: ''
-    num: 2
+    num: 3
   JMB2002:
     fold: '-'
   adi:
-    fold: '18'
+    fold: '509'
     fold_cmp: ''
-    num: 1
+    num: 2
   Vir7832:
     fold: '-'
   DXP604:
@@ -1051,45 +1059,53 @@
     num: 1
 - variant: Omicron/BQ.1.1
   cas:
-    fold: '589'
-    fold_cmp: ''
-    num: 2
+    fold: '1000'
+    fold_cmp: '>'
+    num: 3
   ete:
-    fold: '-'
+    fold: '943'
+    fold_cmp: ''
+    num: 1
   tix:
-    fold: '819'
-    fold_cmp: ''
-    num: 2
+    fold: '1000'
+    fold_cmp: '>'
+    num: 3
   bam:
-    fold: '-'
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
   cil:
-    fold: '700'
-    fold_cmp: ''
-    num: 2
+    fold: '1000'
+    fold_cmp: '>'
+    num: 3
   imd:
-    fold: '588'
-    fold_cmp: ''
-    num: 2
+    fold: '1000'
+    fold_cmp: '>'
+    num: 3
   sot:
-    fold: '97'
+    fold: '118'
     fold_cmp: ''
-    num: 2
+    num: 3
   reg:
-    fold: '-'
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
   beb:
     fold: '1000'
     fold_cmp: '>'
-    num: 2
+    num: 3
   cas_imd:
-    fold: '600'
-    fold_cmp: ''
-    num: 2
+    fold: '1000'
+    fold_cmp: '>'
+    num: 3
   cil_tix:
-    fold: '738'
-    fold_cmp: ''
-    num: 2
+    fold: '1000'
+    fold_cmp: '>'
+    num: 3
   bam_ete:
-    fold: '-'
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
   C135:
     fold: '-'
   C144:
@@ -1097,21 +1113,23 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '19'
+    fold: '481'
     fold_cmp: ''
-    num: 1
+    num: 2
   b_198:
-    fold: '0.8'
+    fold: '30'
     fold_cmp: ''
-    num: 1
+    num: 2
   b_196_198:
-    fold: '12'
+    fold: '397'
     fold_cmp: ''
-    num: 1
+    num: 2
   JMB2002:
     fold: '-'
   adi:
-    fold: '-'
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
   Vir7832:
     fold: '-'
   DXP604:
