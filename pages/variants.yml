@@ -114,6 +114,10 @@ sections:
         varName: Omicron/XBB.1
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=XBB.1)
+      - title: XBB.1.5
+        varName: Omicron/XBB.1.5
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=XBB.1.5)
       - title: BA.2.75
         varName: Omicron/BA.2.75
         source: >-
