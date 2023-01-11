@@ -1017,12 +1017,12 @@
 - variant: Omicron/BA.1
   vaccine:
   - name: AZD1222
-    vp_studies: 20
-    vp_num_fold: 735
-    vp_s_fold: 22%
-    vp_i_fold: 41%
-    vp_r_fold: 37%
-    vp_num_s_fold: 159
+    vp_studies: 21
+    vp_num_fold: 824
+    vp_s_fold: 30%
+    vp_i_fold: 37%
+    vp_r_fold: 33%
+    vp_num_s_fold: 248
     vp_num_i_fold: 304
     vp_num_r_fold: 272
   - name: AZD1222 + BNT162b2
@@ -1134,12 +1134,12 @@
     vp_num_i_fold: 13
     vp_num_r_fold: 39
   - name: BNT162b2
-    vp_studies: 84
-    vp_num_fold: 5047
-    vp_s_fold: 26%
-    vp_i_fold: 49%
-    vp_r_fold: 25%
-    vp_num_s_fold: 1325
+    vp_studies: 85
+    vp_num_fold: 6120
+    vp_s_fold: 39%
+    vp_i_fold: 40%
+    vp_r_fold: 21%
+    vp_num_s_fold: 2398
     vp_num_i_fold: 2451
     vp_num_r_fold: 1271
   - name: BNT162b2 + BNT162b2_BA.1_bivalent
@@ -1523,12 +1523,12 @@
 - variant: Omicron/BA.2
   vaccine:
   - name: AZD1222
-    vp_studies: 7
-    vp_num_fold: 125
-    vp_s_fold: 1%
-    vp_i_fold: 93%
-    vp_r_fold: 6%
-    vp_num_s_fold: 1
+    vp_studies: 8
+    vp_num_fold: 201
+    vp_s_fold: 38%
+    vp_i_fold: 58%
+    vp_r_fold: 4%
+    vp_num_s_fold: 77
     vp_num_i_fold: 116
     vp_num_r_fold: 8
   - name: AZD1222 + BNT162b2
@@ -1604,12 +1604,12 @@
     vp_num_i_fold: 30
     vp_num_r_fold: 18
   - name: BNT162b2
-    vp_studies: 36
-    vp_num_fold: 1577
-    vp_s_fold: 47%
-    vp_i_fold: 44%
-    vp_r_fold: 9%
-    vp_num_s_fold: 739
+    vp_studies: 37
+    vp_num_fold: 2608
+    vp_s_fold: 68%
+    vp_i_fold: 27%
+    vp_r_fold: 5%
+    vp_num_s_fold: 1770
     vp_num_i_fold: 697
     vp_num_r_fold: 141
   - name: BNT162b2 + BNT162b2_BA.1_bivalent
@@ -1784,22 +1784,22 @@
     vp_num_i_fold: 161
     vp_num_r_fold: 33
   - name: mRNA-bivalent + mRNA-monovalent
-    vp_studies: 1
-    vp_num_fold: 21
-    vp_s_fold: 100%
-    vp_i_fold: 0
+    vp_studies: 2
+    vp_num_fold: 42
+    vp_s_fold: 50%
+    vp_i_fold: 50%
     vp_r_fold: 0
     vp_num_s_fold: 21
-    vp_num_i_fold: 0
+    vp_num_i_fold: 21
     vp_num_r_fold: 0
   - name: mRNA-monovalent
-    vp_studies: 2
-    vp_num_fold: 153
-    vp_s_fold: 100%
-    vp_i_fold: 0
+    vp_studies: 3
+    vp_num_fold: 220
+    vp_s_fold: 85%
+    vp_i_fold: 15%
     vp_r_fold: 0
-    vp_num_s_fold: 153
-    vp_num_i_fold: 0
+    vp_num_s_fold: 187
+    vp_num_i_fold: 33
     vp_num_r_fold: 0
 - variant: Iota
   vaccine:

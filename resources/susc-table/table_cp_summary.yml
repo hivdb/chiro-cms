@@ -1,55 +1,55 @@
 - variant: Alpha
-  cp_studies: 72
-  cp_num_fold: 2544
-  cp_s_fold: 91%
-  cp_i_fold: 3%
-  cp_r_fold: 6%
-  cp_num_s_fold: 2322
+  cp_studies: 73
+  cp_num_fold: 3197
+  cp_s_fold: 93%
+  cp_i_fold: 2%
+  cp_r_fold: 5%
+  cp_num_s_fold: 2975
   cp_num_i_fold: 72
   cp_num_r_fold: 150
 - variant: Beta
-  cp_studies: 80
-  cp_num_fold: 2709
-  cp_s_fold: 40%
-  cp_i_fold: 41%
-  cp_r_fold: 19%
-  cp_num_s_fold: 1091
+  cp_studies: 81
+  cp_num_fold: 2796
+  cp_s_fold: 42%
+  cp_i_fold: 40%
+  cp_r_fold: 18%
+  cp_num_s_fold: 1178
   cp_num_i_fold: 1119
   cp_num_r_fold: 499
 - variant: Gamma
-  cp_studies: 40
-  cp_num_fold: 1477
-  cp_s_fold: 78%
-  cp_i_fold: 17%
+  cp_studies: 41
+  cp_num_fold: 1654
+  cp_s_fold: 80%
+  cp_i_fold: 15%
   cp_r_fold: 5%
-  cp_num_s_fold: 1148
+  cp_num_s_fold: 1325
   cp_num_i_fold: 252
   cp_num_r_fold: 77
 - variant: Delta
-  cp_studies: 46
-  cp_num_fold: 1337
-  cp_s_fold: 73%
-  cp_i_fold: 22%
-  cp_r_fold: 5%
-  cp_num_s_fold: 971
+  cp_studies: 47
+  cp_num_fold: 1825
+  cp_s_fold: 80%
+  cp_i_fold: 16%
+  cp_r_fold: 4%
+  cp_num_s_fold: 1459
   cp_num_i_fold: 295
   cp_num_r_fold: 71
 - variant: Omicron/BA.1
-  cp_studies: 38
-  cp_num_fold: 1199
-  cp_s_fold: 9%
-  cp_i_fold: 57%
+  cp_studies: 39
+  cp_num_fold: 1219
+  cp_s_fold: 10%
+  cp_i_fold: 56%
   cp_r_fold: 34%
-  cp_num_s_fold: 106
+  cp_num_s_fold: 126
   cp_num_i_fold: 678
   cp_num_r_fold: 415
 - variant: Omicron/BA.2
-  cp_studies: 9
-  cp_num_fold: 156
-  cp_s_fold: 15%
-  cp_i_fold: 60%
-  cp_r_fold: 25%
-  cp_num_s_fold: 24
+  cp_studies: 10
+  cp_num_fold: 223
+  cp_s_fold: 41%
+  cp_i_fold: 42%
+  cp_r_fold: 17%
+  cp_num_s_fold: 91
   cp_num_i_fold: 94
   cp_num_r_fold: 38
 - variant: Iota

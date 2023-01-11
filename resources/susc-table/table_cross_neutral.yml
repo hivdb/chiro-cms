@@ -1,7 +1,7 @@
 - test: WT
   WT_1:
-    geomean: 438.0
-    num_ref_name: 105
+    geomean: 440.0
+    num_ref_name: 106
   WT_2:
     geomean: 203.0
     num_ref_name: 50
@@ -9,8 +9,8 @@
     geomean: 142.0
     num_ref_name: 22
   Alpha_1:
-    geomean: 466.0
-    num_ref_name: 17
+    geomean: 476.0
+    num_ref_name: 18
   Alpha_2:
     geomean: 1778.0
     num_ref_name: 1
@@ -18,8 +18,8 @@
     geomean: ''
     num_ref_name: 0
   Beta_1:
-    geomean: 322.0
-    num_ref_name: 13
+    geomean: 328.0
+    num_ref_name: 14
   Beta_2:
     geomean: ''
     num_ref_name: 0
@@ -27,8 +27,8 @@
     geomean: ''
     num_ref_name: 0
   Gamma_1:
-    geomean: 90.0
-    num_ref_name: 6
+    geomean: 96.0
+    num_ref_name: 7
   Gamma_2:
     geomean: ''
     num_ref_name: 0
@@ -36,8 +36,8 @@
     geomean: ''
     num_ref_name: 0
   Delta_1:
-    geomean: 415.0
-    num_ref_name: 21
+    geomean: 414.0
+    num_ref_name: 22
   Delta_2:
     geomean: 350.0
     num_ref_name: 3
@@ -45,8 +45,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.1_1:
-    geomean: 41.0
-    num_ref_name: 17
+    geomean: 56.0
+    num_ref_name: 18
   Omicron/BA.1_2:
     geomean: 17.0
     num_ref_name: 2
@@ -63,8 +63,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.2_1:
-    geomean: 14.0
-    num_ref_name: 4
+    geomean: 104.0
+    num_ref_name: 5
   Omicron/BA.2_2:
     geomean: 20.0
     num_ref_name: 1
@@ -82,8 +82,8 @@
     num_ref_name: 0
 - test: Alpha
   WT_1:
-    geomean: 181.0
-    num_ref_name: 50
+    geomean: 183.0
+    num_ref_name: 51
   WT_2:
     geomean: 186.0
     num_ref_name: 24
@@ -91,8 +91,8 @@
     geomean: 60.0
     num_ref_name: 10
   Alpha_1:
-    geomean: 519.0
-    num_ref_name: 14
+    geomean: 542.0
+    num_ref_name: 15
   Alpha_2:
     geomean: ''
     num_ref_name: 0
@@ -100,8 +100,8 @@
     geomean: ''
     num_ref_name: 0
   Beta_1:
-    geomean: 161.0
-    num_ref_name: 7
+    geomean: 191.0
+    num_ref_name: 8
   Beta_2:
     geomean: ''
     num_ref_name: 0
@@ -109,8 +109,8 @@
     geomean: ''
     num_ref_name: 0
   Gamma_1:
-    geomean: 42.0
-    num_ref_name: 3
+    geomean: 62.0
+    num_ref_name: 4
   Gamma_2:
     geomean: ''
     num_ref_name: 0
@@ -118,8 +118,8 @@
     geomean: ''
     num_ref_name: 0
   Delta_1:
-    geomean: 304.0
-    num_ref_name: 10
+    geomean: 299.0
+    num_ref_name: 11
   Delta_2:
     geomean: 62.0
     num_ref_name: 1
@@ -164,8 +164,8 @@
     num_ref_name: 0
 - test: Beta
   WT_1:
-    geomean: 69.0
-    num_ref_name: 53
+    geomean: 70.0
+    num_ref_name: 54
   WT_2:
     geomean: 67.0
     num_ref_name: 24
@@ -173,8 +173,8 @@
     geomean: 35.0
     num_ref_name: 13
   Alpha_1:
-    geomean: 97.0
-    num_ref_name: 9
+    geomean: 103.0
+    num_ref_name: 10
   Alpha_2:
     geomean: ''
     num_ref_name: 0
@@ -182,8 +182,8 @@
     geomean: ''
     num_ref_name: 0
   Beta_1:
-    geomean: 612.0
-    num_ref_name: 11
+    geomean: 614.0
+    num_ref_name: 12
   Beta_2:
     geomean: ''
     num_ref_name: 0
@@ -191,8 +191,8 @@
     geomean: ''
     num_ref_name: 0
   Gamma_1:
-    geomean: 515.0
-    num_ref_name: 3
+    geomean: 513.0
+    num_ref_name: 4
   Gamma_2:
     geomean: ''
     num_ref_name: 0
@@ -200,8 +200,8 @@
     geomean: ''
     num_ref_name: 0
   Delta_1:
-    geomean: 117.0
-    num_ref_name: 12
+    geomean: 111.0
+    num_ref_name: 13
   Delta_2:
     geomean: 11.0
     num_ref_name: 1
@@ -247,7 +247,7 @@
 - test: Gamma
   WT_1:
     geomean: 206.0
-    num_ref_name: 27
+    num_ref_name: 28
   WT_2:
     geomean: 93.0
     num_ref_name: 12
@@ -255,8 +255,8 @@
     geomean: 200.0
     num_ref_name: 4
   Alpha_1:
-    geomean: 875.0
-    num_ref_name: 5
+    geomean: 859.0
+    num_ref_name: 6
   Alpha_2:
     geomean: ''
     num_ref_name: 0
@@ -264,8 +264,8 @@
     geomean: ''
     num_ref_name: 0
   Beta_1:
-    geomean: 1119.0
-    num_ref_name: 3
+    geomean: 922.0
+    num_ref_name: 4
   Beta_2:
     geomean: ''
     num_ref_name: 0
@@ -273,8 +273,8 @@
     geomean: ''
     num_ref_name: 0
   Gamma_1:
-    geomean: 258.0
-    num_ref_name: 5
+    geomean: 272.0
+    num_ref_name: 6
   Gamma_2:
     geomean: ''
     num_ref_name: 0
@@ -282,8 +282,8 @@
     geomean: ''
     num_ref_name: 0
   Delta_1:
-    geomean: 47.0
-    num_ref_name: 3
+    geomean: 44.0
+    num_ref_name: 4
   Delta_2:
     geomean: 40.0
     num_ref_name: 1
@@ -328,8 +328,8 @@
     num_ref_name: 0
 - test: Delta
   WT_1:
-    geomean: 163.0
-    num_ref_name: 33
+    geomean: 166.0
+    num_ref_name: 34
   WT_2:
     geomean: 47.0
     num_ref_name: 9
@@ -337,8 +337,8 @@
     geomean: 37.0
     num_ref_name: 8
   Alpha_1:
-    geomean: 206.0
-    num_ref_name: 11
+    geomean: 229.0
+    num_ref_name: 12
   Alpha_2:
     geomean: ''
     num_ref_name: 0
@@ -346,8 +346,8 @@
     geomean: ''
     num_ref_name: 0
   Beta_1:
-    geomean: 69.0
-    num_ref_name: 9
+    geomean: 78.0
+    num_ref_name: 10
   Beta_2:
     geomean: ''
     num_ref_name: 0
@@ -355,8 +355,8 @@
     geomean: ''
     num_ref_name: 0
   Gamma_1:
-    geomean: 76.0
-    num_ref_name: 4
+    geomean: 90.0
+    num_ref_name: 5
   Gamma_2:
     geomean: ''
     num_ref_name: 0
@@ -364,8 +364,8 @@
     geomean: ''
     num_ref_name: 0
   Delta_1:
-    geomean: 1801.0
-    num_ref_name: 23
+    geomean: 1794.0
+    num_ref_name: 24
   Delta_2:
     geomean: 88.0
     num_ref_name: 1
@@ -411,7 +411,7 @@
 - test: BA.1
   WT_1:
     geomean: 24.0
-    num_ref_name: 25
+    num_ref_name: 26
   WT_2:
     geomean: 8.6
     num_ref_name: 10
@@ -419,8 +419,8 @@
     geomean: 23.0
     num_ref_name: 8
   Alpha_1:
-    geomean: 14.0
-    num_ref_name: 8
+    geomean: 15.0
+    num_ref_name: 9
   Alpha_2:
     geomean: 39.0
     num_ref_name: 1
@@ -428,8 +428,8 @@
     geomean: ''
     num_ref_name: 0
   Beta_1:
-    geomean: 10.0
-    num_ref_name: 6
+    geomean: 12.0
+    num_ref_name: 7
   Beta_2:
     geomean: ''
     num_ref_name: 0
@@ -437,8 +437,8 @@
     geomean: ''
     num_ref_name: 0
   Gamma_1:
-    geomean: 44.0
-    num_ref_name: 3
+    geomean: 45.0
+    num_ref_name: 4
   Gamma_2:
     geomean: ''
     num_ref_name: 0
@@ -446,8 +446,8 @@
     geomean: ''
     num_ref_name: 0
   Delta_1:
-    geomean: 36.0
-    num_ref_name: 18
+    geomean: 35.0
+    num_ref_name: 19
   Delta_2:
     geomean: 19.0
     num_ref_name: 3
@@ -455,8 +455,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.1_1:
-    geomean: 179.0
-    num_ref_name: 18
+    geomean: 207.0
+    num_ref_name: 19
   Omicron/BA.1_2:
     geomean: 587.0
     num_ref_name: 2
@@ -473,8 +473,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.2_1:
-    geomean: 19.0
-    num_ref_name: 6
+    geomean: 69.0
+    num_ref_name: 7
   Omicron/BA.2_2:
     geomean: 106.0
     num_ref_name: 1
@@ -493,7 +493,7 @@
 - test: BA.1.1
   WT_1:
     geomean: 15.0
-    num_ref_name: 6
+    num_ref_name: 7
   WT_2:
     geomean: ''
     num_ref_name: 0
@@ -501,8 +501,8 @@
     geomean: ''
     num_ref_name: 0
   Alpha_1:
-    geomean: 9.5
-    num_ref_name: 2
+    geomean: 12.0
+    num_ref_name: 3
   Alpha_2:
     geomean: ''
     num_ref_name: 0
@@ -510,8 +510,8 @@
     geomean: ''
     num_ref_name: 0
   Beta_1:
-    geomean: 112.0
-    num_ref_name: 1
+    geomean: 29.0
+    num_ref_name: 2
   Beta_2:
     geomean: ''
     num_ref_name: 0
@@ -519,8 +519,8 @@
     geomean: ''
     num_ref_name: 0
   Gamma_1:
-    geomean: 62.0
-    num_ref_name: 1
+    geomean: 47.0
+    num_ref_name: 2
   Gamma_2:
     geomean: ''
     num_ref_name: 0
@@ -528,8 +528,8 @@
     geomean: ''
     num_ref_name: 0
   Delta_1:
-    geomean: 166.0
-    num_ref_name: 3
+    geomean: 102.0
+    num_ref_name: 4
   Delta_2:
     geomean: 6.1
     num_ref_name: 1
@@ -537,8 +537,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.1_1:
-    geomean: 97.0
-    num_ref_name: 3
+    geomean: 211.0
+    num_ref_name: 4
   Omicron/BA.1_2:
     geomean: ''
     num_ref_name: 0
@@ -555,8 +555,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.2_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 1652.0
+    num_ref_name: 1
   Omicron/BA.2_2:
     geomean: ''
     num_ref_name: 0
@@ -574,8 +574,8 @@
     num_ref_name: 0
 - test: BA.2
   WT_1:
-    geomean: 23.0
-    num_ref_name: 6
+    geomean: 25.0
+    num_ref_name: 7
   WT_2:
     geomean: 13.0
     num_ref_name: 2
@@ -583,8 +583,8 @@
     geomean: 30.0
     num_ref_name: 1
   Alpha_1:
-    geomean: 15.0
-    num_ref_name: 2
+    geomean: 21.0
+    num_ref_name: 3
   Alpha_2:
     geomean: ''
     num_ref_name: 0
@@ -592,8 +592,8 @@
     geomean: ''
     num_ref_name: 0
   Beta_1:
-    geomean: 57.0
-    num_ref_name: 1
+    geomean: 34.0
+    num_ref_name: 2
   Beta_2:
     geomean: ''
     num_ref_name: 0
@@ -601,8 +601,8 @@
     geomean: ''
     num_ref_name: 0
   Gamma_1:
-    geomean: 82.0
-    num_ref_name: 1
+    geomean: 90.0
+    num_ref_name: 2
   Gamma_2:
     geomean: ''
     num_ref_name: 0
@@ -610,8 +610,8 @@
     geomean: ''
     num_ref_name: 0
   Delta_1:
-    geomean: 45.0
-    num_ref_name: 6
+    geomean: 41.0
+    num_ref_name: 7
   Delta_2:
     geomean: 3.9
     num_ref_name: 1
@@ -619,8 +619,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.1_1:
-    geomean: 76.0
-    num_ref_name: 16
+    geomean: 95.0
+    num_ref_name: 17
   Omicron/BA.1_2:
     geomean: 320.0
     num_ref_name: 2
@@ -637,8 +637,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.2_1:
-    geomean: 60.0
-    num_ref_name: 6
+    geomean: 152.0
+    num_ref_name: 7
   Omicron/BA.2_2:
     geomean: 35.0
     num_ref_name: 1
@@ -701,8 +701,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.1_1:
-    geomean: 161.0
-    num_ref_name: 4
+    geomean: 296.0
+    num_ref_name: 5
   Omicron/BA.1_2:
     geomean: 135.0
     num_ref_name: 1
@@ -719,8 +719,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.2_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 1080.0
+    num_ref_name: 1
   Omicron/BA.2_2:
     geomean: ''
     num_ref_name: 0
@@ -738,8 +738,8 @@
     num_ref_name: 0
 - test: BA.2.75
   WT_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 30.0
+    num_ref_name: 1
   WT_2:
     geomean: ''
     num_ref_name: 0
@@ -747,8 +747,8 @@
     geomean: ''
     num_ref_name: 0
   Alpha_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 48.0
+    num_ref_name: 1
   Alpha_2:
     geomean: ''
     num_ref_name: 0
@@ -756,8 +756,8 @@
     geomean: ''
     num_ref_name: 0
   Beta_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 21.0
+    num_ref_name: 1
   Beta_2:
     geomean: ''
     num_ref_name: 0
@@ -765,8 +765,8 @@
     geomean: ''
     num_ref_name: 0
   Gamma_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 39.0
+    num_ref_name: 1
   Gamma_2:
     geomean: ''
     num_ref_name: 0
@@ -774,8 +774,8 @@
     geomean: ''
     num_ref_name: 0
   Delta_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 11.0
+    num_ref_name: 1
   Delta_2:
     geomean: ''
     num_ref_name: 0
@@ -783,8 +783,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.1_1:
-    geomean: 177.0
-    num_ref_name: 1
+    geomean: 694.0
+    num_ref_name: 2
   Omicron/BA.1_2:
     geomean: ''
     num_ref_name: 0
@@ -801,8 +801,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.2_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 1090.0
+    num_ref_name: 1
   Omicron/BA.2_2:
     geomean: ''
     num_ref_name: 0
@@ -984,8 +984,8 @@
     num_ref_name: 0
 - test: BA.4/5
   WT_1:
-    geomean: 14.0
-    num_ref_name: 3
+    geomean: 17.0
+    num_ref_name: 4
   WT_2:
     geomean: ''
     num_ref_name: 0
@@ -993,8 +993,8 @@
     geomean: ''
     num_ref_name: 0
   Alpha_1:
-    geomean: 94.0
-    num_ref_name: 1
+    geomean: 58.0
+    num_ref_name: 2
   Alpha_2:
     geomean: ''
     num_ref_name: 0
@@ -1002,8 +1002,8 @@
     geomean: ''
     num_ref_name: 0
   Beta_1:
-    geomean: 61.0
-    num_ref_name: 1
+    geomean: 63.0
+    num_ref_name: 2
   Beta_2:
     geomean: ''
     num_ref_name: 0
@@ -1011,8 +1011,8 @@
     geomean: ''
     num_ref_name: 0
   Gamma_1:
-    geomean: 91.0
-    num_ref_name: 1
+    geomean: 76.0
+    num_ref_name: 2
   Gamma_2:
     geomean: ''
     num_ref_name: 0
@@ -1020,8 +1020,8 @@
     geomean: ''
     num_ref_name: 0
   Delta_1:
-    geomean: 61.0
-    num_ref_name: 3
+    geomean: 50.0
+    num_ref_name: 4
   Delta_2:
     geomean: ''
     num_ref_name: 0
@@ -1029,8 +1029,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.1_1:
-    geomean: 34.0
-    num_ref_name: 9
+    geomean: 47.0
+    num_ref_name: 10
   Omicron/BA.1_2:
     geomean: 12.0
     num_ref_name: 1
@@ -1047,8 +1047,8 @@
     geomean: ''
     num_ref_name: 0
   Omicron/BA.2_1:
-    geomean: 91.0
-    num_ref_name: 2
+    geomean: 514.0
+    num_ref_name: 3
   Omicron/BA.2_2:
     geomean: 18.0
     num_ref_name: 1
