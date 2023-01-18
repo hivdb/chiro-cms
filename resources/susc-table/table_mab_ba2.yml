@@ -564,7 +564,9 @@
     num: 1
 - variant: Omicron/BF.7
   cas:
-    fold: '-'
+    fold: '10'
+    fold_cmp: ''
+    num: 1
   ete:
     fold: '-'
   tix:
@@ -572,19 +574,31 @@
   bam:
     fold: '-'
   cil:
-    fold: '-'
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
   imd:
-    fold: '-'
+    fold: '3.7'
+    fold_cmp: ''
+    num: 1
   sot:
-    fold: '-'
+    fold: '4.2'
+    fold_cmp: ''
+    num: 1
   reg:
     fold: '-'
   beb:
-    fold: '-'
+    fold: '1.1'
+    fold_cmp: ''
+    num: 1
   cas_imd:
-    fold: '-'
+    fold: '5.3'
+    fold_cmp: ''
+    num: 1
   cil_tix:
-    fold: '-'
+    fold: '1000'
+    fold_cmp: '>'
+    num: 1
   bam_ete:
     fold: '-'
   C135:
@@ -606,4 +620,6 @@
   Vir7832:
     fold: '-'
   DXP604:
-    fold: '-'
+    fold: '19'
+    fold_cmp: ''
+    num: 1

@@ -1018,12 +1018,12 @@
   vaccine:
   - name: AZD1222
     vp_studies: 21
-    vp_num_fold: 824
-    vp_s_fold: 30%
-    vp_i_fold: 37%
-    vp_r_fold: 33%
-    vp_num_s_fold: 248
-    vp_num_i_fold: 304
+    vp_num_fold: 776
+    vp_s_fold: 20%
+    vp_i_fold: 44%
+    vp_r_fold: 36%
+    vp_num_s_fold: 159
+    vp_num_i_fold: 345
     vp_num_r_fold: 272
   - name: AZD1222 + BNT162b2
     vp_studies: 10
@@ -1135,11 +1135,11 @@
     vp_num_r_fold: 39
   - name: BNT162b2
     vp_studies: 85
-    vp_num_fold: 6120
-    vp_s_fold: 39%
-    vp_i_fold: 40%
-    vp_r_fold: 21%
-    vp_num_s_fold: 2398
+    vp_num_fold: 5069
+    vp_s_fold: 27%
+    vp_i_fold: 48%
+    vp_r_fold: 25%
+    vp_num_s_fold: 1347
     vp_num_i_fold: 2451
     vp_num_r_fold: 1271
   - name: BNT162b2 + BNT162b2_BA.1_bivalent
@@ -1524,12 +1524,12 @@
   vaccine:
   - name: AZD1222
     vp_studies: 8
-    vp_num_fold: 201
-    vp_s_fold: 38%
-    vp_i_fold: 58%
+    vp_num_fold: 166
+    vp_s_fold: 1%
+    vp_i_fold: 95%
     vp_r_fold: 4%
-    vp_num_s_fold: 77
-    vp_num_i_fold: 116
+    vp_num_s_fold: 1
+    vp_num_i_fold: 157
     vp_num_r_fold: 8
   - name: AZD1222 + BNT162b2
     vp_studies: 3
@@ -1605,11 +1605,11 @@
     vp_num_r_fold: 18
   - name: BNT162b2
     vp_studies: 37
-    vp_num_fold: 2608
-    vp_s_fold: 68%
-    vp_i_fold: 27%
-    vp_r_fold: 5%
-    vp_num_s_fold: 1770
+    vp_num_fold: 1599
+    vp_s_fold: 48%
+    vp_i_fold: 44%
+    vp_r_fold: 8%
+    vp_num_s_fold: 761
     vp_num_i_fold: 697
     vp_num_r_fold: 141
   - name: BNT162b2 + BNT162b2_BA.1_bivalent

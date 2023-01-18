@@ -60,8 +60,8 @@
   origin: Phage display library
 - mab: Sotrovimab
   synonyms: GSK4182136;S309;Vir-7831;Xevudy
-  num_ref_name: 90
-  num_fold: 965
+  num_ref_name: 92
+  num_fold: 988
   avail: EUA
   target: RBD
   class: RBD Core Cluster I
@@ -70,8 +70,8 @@
   origin: SARS-CoV CP
 - mab: Imdevimab
   synonyms: REGN10987
-  num_ref_name: 104
-  num_fold: 919
+  num_ref_name: 105
+  num_fold: 935
   avail: EUA
   target: RBD
   class: RBD Core Cluster I
@@ -80,8 +80,8 @@
   origin: Transgenic mice
 - mab: Casirivimab
   synonyms: REGN10933
-  num_ref_name: 101
-  num_fold: 874
+  num_ref_name: 102
+  num_fold: 890
   avail: EUA
   target: RBD
   class: RBM Class I
@@ -98,25 +98,25 @@
   pdb: 7C01
   institute: Eli Lilly
   origin: CP
-- mab: Bebtelovimab
-  synonyms: LY-CoV1404;LY3853113
-  num_ref_name: 36
-  num_fold: 628
-  avail: EUA
-  target: RBD
-  class: RBM Class II
-  pdb: 7MMO
-  institute: Eli Lilly
-  origin: CP
 - mab: Cilgavimab
   synonyms: COV2-2130;AZD1061
-  num_ref_name: 73
-  num_fold: 627
+  num_ref_name: 75
+  num_fold: 650
   avail: EUA
   target: RBD
   class: RBM Class II
   pdb: 7L7E
   institute: AstraZeneca
+  origin: CP
+- mab: Bebtelovimab
+  synonyms: LY-CoV1404;LY3853113
+  num_ref_name: 37
+  num_fold: 644
+  avail: EUA
+  target: RBD
+  class: RBM Class II
+  pdb: 7MMO
+  institute: Eli Lilly
   origin: CP
 - mab: Bamlanivimab
   synonyms: LY-CoV555;LY3819253
@@ -130,8 +130,8 @@
   origin: CP
 - mab: Tixagevimab
   synonyms: COV2-2196;AZD8895
-  num_ref_name: 70
-  num_fold: 523
+  num_ref_name: 72
+  num_fold: 539
   avail: EUA
   target: RBD
   class: RBM Class I
@@ -141,7 +141,7 @@
 - mab: Amubarvimab
   synonyms: BRII-196;P2C-1F11
   num_ref_name: 25
-  num_fold: 391
+  num_fold: 397
   avail: CN-Approved
   target: RBD
   class: RBM Class I
@@ -151,7 +151,7 @@
 - mab: Romlusevimab
   synonyms: BRII-198;P2B-1G5
   num_ref_name: 16
-  num_fold: 221
+  num_fold: 227
   avail: CN-Approved
   target: RBD
   class: RBD Core Cluster II
@@ -161,7 +161,7 @@
 - mab: DXP-604
   synonyms: BD-604
   num_ref_name: 6
-  num_fold: 107
+  num_fold: 120
   avail: CN-Approved
   target: RBD
   class: RBM Class I
