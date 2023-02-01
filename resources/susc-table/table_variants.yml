@@ -166,6 +166,18 @@
   all mAbs: 23
   num_exp: 212
   var_type: Omicron
+- pattern: G339D+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+S477N+T478K+E484A+Q493R+Q498R+N501Y+Y505H
+  pattern_length: 16
+  var_name: Omicron/BA.2.68
+  num_ref_name: 1
+  cp: 0
+  vp: 455
+  mAbs phase3: 0
+  mAbs structure: 0
+  other mAbs: 0
+  all mAbs: 0
+  num_exp: 455
+  var_type: Omicron
 - pattern: G339D+R346T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+L452M+S477N+T478K+E484A+Q493R+Q498R+N501Y+Y505H
   pattern_length: 18
   var_name: Omicron/BA.2.74

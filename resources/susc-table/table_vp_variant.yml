@@ -134,6 +134,14 @@
   S: 39
   I: 150
   R: 0
+- pattern: Omicron/BA.2.68
+  var_name: Omicron/BA.2.68
+  median_fold: 1.1
+  num_ref_name: 1
+  num_fold: 455
+  S: 429
+  I: 26
+  R: 0
 - pattern: Omicron/BA.2.74
   var_name: Omicron/BA.2.74
   median_fold: 4.1

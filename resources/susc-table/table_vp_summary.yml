@@ -871,12 +871,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: CoronaVac
-    vp_studies: 12
-    vp_num_fold: 858
-    vp_s_fold: 82%
-    vp_i_fold: 17%
+    vp_studies: 13
+    vp_num_fold: 944
+    vp_s_fold: 84%
+    vp_i_fold: 15%
     vp_r_fold: 1%
-    vp_num_s_fold: 705
+    vp_num_s_fold: 791
     vp_num_i_fold: 144
     vp_num_r_fold: 9
   - name: CoronaVac or BBIBP-CorV
