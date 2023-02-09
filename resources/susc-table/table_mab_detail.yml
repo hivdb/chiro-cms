@@ -60,8 +60,8 @@
   origin: Phage display library
 - mab: Sotrovimab
   synonyms: GSK4182136;S309;Vir-7831;Xevudy
-  num_ref_name: 92
-  num_fold: 988
+  num_ref_name: 94
+  num_fold: 1019
   avail: EUA
   target: RBD
   class: RBD Core Cluster I
@@ -98,25 +98,25 @@
   pdb: 7C01
   institute: Eli Lilly
   origin: CP
-- mab: Cilgavimab
-  synonyms: COV2-2130;AZD1061
-  num_ref_name: 75
-  num_fold: 650
-  avail: EUA
-  target: RBD
-  class: RBM Class II
-  pdb: 7L7E
-  institute: AstraZeneca
-  origin: CP
 - mab: Bebtelovimab
   synonyms: LY-CoV1404;LY3853113
-  num_ref_name: 37
-  num_fold: 644
+  num_ref_name: 39
+  num_fold: 683
   avail: EUA
   target: RBD
   class: RBM Class II
   pdb: 7MMO
   institute: Eli Lilly
+  origin: CP
+- mab: Cilgavimab
+  synonyms: COV2-2130;AZD1061
+  num_ref_name: 76
+  num_fold: 674
+  avail: EUA
+  target: RBD
+  class: RBM Class II
+  pdb: 7L7E
+  institute: AstraZeneca
   origin: CP
 - mab: Bamlanivimab
   synonyms: LY-CoV555;LY3819253
@@ -130,8 +130,8 @@
   origin: CP
 - mab: Tixagevimab
   synonyms: COV2-2196;AZD8895
-  num_ref_name: 72
-  num_fold: 539
+  num_ref_name: 73
+  num_fold: 563
   avail: EUA
   target: RBD
   class: RBM Class I

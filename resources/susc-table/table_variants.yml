@@ -22,17 +22,17 @@
   all mAbs: 889
   num_exp: 26624
   var_type: VOC
-- pattern: E406D+E406Q+K417N+K444T+G446S+G446V+L452R+Y453F+L455F+L455S+G476D+T478K+E484K+E484Q+F486S+N487D+N487K+F490S+N501Y+T523N
-  pattern_length: 20
+- pattern: E406D+E406Q+K417N+K444T+G446S+G446V+L452R+Y453F+L455F+L455S+G476D+T478K+E484K+E484Q+F486S+N487D+N487K+F490S+G496Y+N501Y+T523N
+  pattern_length: 21
   var_name: Delta
-  num_ref_name: 224
+  num_ref_name: 226
   cp: 3298
-  vp: 19107
-  mAbs phase3: 336
+  vp: 19228
+  mAbs phase3: 337
   mAbs structure: 83
-  other mAbs: 159
-  all mAbs: 578
-  num_exp: 22983
+  other mAbs: 169
+  all mAbs: 589
+  num_exp: 23115
   var_type: VOC
 - pattern: N354K+K417T+E484K+N501Y
   pattern_length: 4
@@ -49,14 +49,14 @@
 - pattern: P337R+P337S+G339D+G339G+E340A+E340D+E340K+E340V+R346K+K356T+S371L+S371S+S373P+S373S+S375F+S375P+S375S+T376A+D405N+R408S+K417K+K417N+N440K+N440N+K444D+K444E+K444M+K444N+K444R+K444T+V445A+V445D+V445F+V445T+G446G+G446S+N450D+L452R+S477N+S477S+T478K+T478T+E484A+E484E+F486V+Q493K+Q493Q+Q493R+G496G+G496S+Q498R+N501Y+Y505H
   pattern_length: 53
   var_name: Omicron/BA.1
-  num_ref_name: 207
+  num_ref_name: 210
   cp: 3120
-  vp: 22611
-  mAbs phase3: 622
+  vp: 22793
+  mAbs phase3: 623
   mAbs structure: 303
-  other mAbs: 1584
-  all mAbs: 2509
-  num_exp: 28240
+  other mAbs: 1594
+  all mAbs: 2520
+  num_exp: 28433
   var_type: Omicron
 - pattern: G339D+R346K+S371L+S373P+S375F+K417N+N440K+G446S+S477N+T478K+E484A+Q493R+G496S+Q498R+N501Y+Y505H
   pattern_length: 16
@@ -73,14 +73,14 @@
 - pattern: P337S+G339D+G339H+E340D+E340K+E340V+R346K+R346T+L368I+S371F+S371L+S373P+S375F+T376A+D405N+R408S+K417N+N440D+N440K+N440Y+K444D+K444E+K444M+K444N+K444R+K444T+V445A+V445D+V445F+V445P+V445T+G446I+G446S+G446V+G447S+N448K+Y449N+N450D+L452Q+N460K+S477N+T478K+E484A+F486S+F486V+F490S+Q493Q+Q493R+G496S+Q498R+P499H+P499S+N501T+N501Y+V503I+Y505H
   pattern_length: 56
   var_name: Omicron/BA.2
-  num_ref_name: 103
+  num_ref_name: 107
   cp: 1046
-  vp: 7288
-  mAbs phase3: 837
-  mAbs structure: 306
-  other mAbs: 1830
-  all mAbs: 2973
-  num_exp: 11307
+  vp: 7391
+  mAbs phase3: 919
+  mAbs structure: 338
+  other mAbs: 2112
+  all mAbs: 3369
+  num_exp: 11806
   var_type: Omicron
 - pattern: G339D+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+G446S+S477N+T478K+E484A+F486P+S494P+Q498R+N501Y+Y505H
   pattern_length: 18
@@ -133,14 +133,14 @@
 - pattern: G339D+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+K444R+N450D+L452M+N460K+S477N+T478K+E484R+Q498R+N501Y+Y505H
   pattern_length: 19
   var_name: Omicron/BA.2.3.20
-  num_ref_name: 1
+  num_ref_name: 2
   cp: 0
   vp: 189
-  mAbs phase3: 21
+  mAbs phase3: 22
   mAbs structure: 0
-  other mAbs: 2
-  all mAbs: 23
-  num_exp: 212
+  other mAbs: 12
+  all mAbs: 34
+  num_exp: 223
   var_type: Omicron
 - pattern: G339D+S371F+S373P+S375F+T376A+D405N+R408S+K417T+N440K+S477N+T478K+E484A+Q493R+Q498R+N501Y+Y505H
   pattern_length: 16
@@ -193,26 +193,26 @@
 - pattern: G339D+G339H+R346T+K356T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+K417T+N440K+K444M+K444T+G446G+G446S+L452R+N460K+S477N+T478K+E484A+F486V+Q493R+Q498R+N501Y+Y505H
   pattern_length: 27
   var_name: Omicron/BA.2.75
-  num_ref_name: 18
+  num_ref_name: 21
   cp: 113
-  vp: 2604
-  mAbs phase3: 208
+  vp: 2675
+  mAbs phase3: 209
   mAbs structure: 6
-  other mAbs: 51
-  all mAbs: 265
-  num_exp: 2982
+  other mAbs: 61
+  all mAbs: 276
+  num_exp: 3064
   var_type: Omicron
 - pattern: G339H+R346T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+G446S+N460K+S477N+T478K+E484A+F486S+Q498R+N501Y+Y505H
   pattern_length: 19
   var_name: Omicron/BA.2.75.2
-  num_ref_name: 11
+  num_ref_name: 15
   cp: 0
-  vp: 709
-  mAbs phase3: 66
+  vp: 841
+  mAbs phase3: 68
   mAbs structure: 2
-  other mAbs: 3
-  all mAbs: 71
-  num_exp: 780
+  other mAbs: 13
+  all mAbs: 83
+  num_exp: 924
   var_type: Omicron
 - pattern: G339H+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+G446S+L452R+N460K+S477N+T478K+E484A+Q498R+N501Y+Y505H
   pattern_length: 18
@@ -325,14 +325,14 @@
 - pattern: G339D+R346T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+L452R+S477N+T478K+E484A+F486V+Q498R+N501Y+Y505H
   pattern_length: 18
   var_name: Omicron/BA.4.6
-  num_ref_name: 11
+  num_ref_name: 12
   cp: 0
   vp: 799
-  mAbs phase3: 67
+  mAbs phase3: 68
   mAbs structure: 5
-  other mAbs: 17
-  all mAbs: 89
-  num_exp: 888
+  other mAbs: 27
+  all mAbs: 100
+  num_exp: 899
   var_type: Omicron
 - pattern: G339D+R346T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+L452R+S477N+T478K+E484A+F486V+Q498R+N501Y+Y505H
   pattern_length: 18
@@ -373,14 +373,14 @@
 - pattern: G339D+G339H+R346I+R346S+R346T+K356T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+K417T+N440K+K444N+K444T+L452R+N460K+S477N+T478K+E484A+F486V+Q498R+N501Y+Y505H
   pattern_length: 26
   var_name: Omicron/BA.5
-  num_ref_name: 70
+  num_ref_name: 75
   cp: 423
-  vp: 8520
-  mAbs phase3: 466
-  mAbs structure: 109
-  other mAbs: 1297
-  all mAbs: 1872
-  num_exp: 10815
+  vp: 8725
+  mAbs phase3: 487
+  mAbs structure: 117
+  other mAbs: 1375
+  all mAbs: 1979
+  num_exp: 11127
   var_type: Omicron
 - pattern: G339D+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+V445A+L452R+S477N+T478K+E484A+F486V+Q498R+N501Y+Y505H
   pattern_length: 18
@@ -469,14 +469,14 @@
 - pattern: G339D+R346T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+L452R+S477N+T478K+E484A+F486V+Q498R+N501Y+Y505H
   pattern_length: 18
   var_name: Omicron/BF.7
-  num_ref_name: 6
+  num_ref_name: 9
   cp: 0
-  vp: 600
-  mAbs phase3: 36
+  vp: 625
+  mAbs phase3: 38
   mAbs structure: 3
-  other mAbs: 16
-  all mAbs: 55
-  num_exp: 655
+  other mAbs: 26
+  all mAbs: 67
+  num_exp: 692
   var_type: Omicron
 - pattern: G339H+R346T+L368I+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+V445P+G446S+S477N+T478K+V483A+E484A+F490V+Q493R+Q498R+N501Y+Y505H
   pattern_length: 22
@@ -541,14 +541,14 @@
 - pattern: G339H+R346T+K356T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+G446S+N460K+S477N+T478K+E484A+F490S+Q498R+N501Y+Y505H
   pattern_length: 20
   var_name: Omicron/BN.1
-  num_ref_name: 1
+  num_ref_name: 2
   cp: 0
   vp: 189
-  mAbs phase3: 21
+  mAbs phase3: 22
   mAbs structure: 0
-  other mAbs: 2
-  all mAbs: 23
-  num_exp: 212
+  other mAbs: 12
+  all mAbs: 34
+  num_exp: 223
   var_type: Omicron
 - pattern: G339H+K356T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+G446S+N460K+S477N+T478K+E484A+F490S+Q498R+N501Y+Y505H
   pattern_length: 19
@@ -565,26 +565,26 @@
 - pattern: G339D+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+K444T+L452R+N460K+S477N+T478K+E484A+F486V+Q498R+N501Y+Y505H
   pattern_length: 19
   var_name: Omicron/BQ.1
-  num_ref_name: 4
+  num_ref_name: 7
   cp: 0
-  vp: 322
-  mAbs phase3: 33
-  mAbs structure: 2
-  other mAbs: 19
-  all mAbs: 54
-  num_exp: 376
+  vp: 410
+  mAbs phase3: 40
+  mAbs structure: 4
+  other mAbs: 46
+  all mAbs: 90
+  num_exp: 500
   var_type: Omicron
 - pattern: G339D+R346T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+K444T+L452R+N460K+S477N+T478K+E484A+F486V+Q498R+N501Y+Y505H
   pattern_length: 20
   var_name: Omicron/BQ.1.1
-  num_ref_name: 10
+  num_ref_name: 15
   cp: 0
-  vp: 745
-  mAbs phase3: 61
-  mAbs structure: 2
-  other mAbs: 19
-  all mAbs: 82
-  num_exp: 827
+  vp: 997
+  mAbs phase3: 68
+  mAbs structure: 4
+  other mAbs: 46
+  all mAbs: 118
+  num_exp: 1115
   var_type: Omicron
 - pattern: G339D+R346T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+K444T+L452R+N460K+S477N+T478K+E484A+F486V+Q498R+N501Y+Y505H
   pattern_length: 20
@@ -601,14 +601,14 @@
 - pattern: G339H+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+K444M+G446S+L452R+N460K+S477N+T478K+E484A+Q498R+N501Y+Y505H
   pattern_length: 19
   var_name: Omicron/BR.1
-  num_ref_name: 1
+  num_ref_name: 2
   cp: 0
-  vp: 189
+  vp: 214
   mAbs phase3: 21
   mAbs structure: 0
   other mAbs: 2
   all mAbs: 23
-  num_exp: 212
+  num_exp: 237
   var_type: Omicron
 - pattern: G339H+R346T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+G446S+L452R+N460K+S477N+T478K+E484A+F486I+Q498R+N501Y+Y505H
   pattern_length: 20
@@ -709,38 +709,38 @@
 - pattern: G339H+R346T+L368I+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+V445P+G446S+N460K+S477N+T478K+E484A+F486S+F490S+Q498R+N501Y+Y505H
   pattern_length: 22
   var_name: Omicron/XBB
-  num_ref_name: 3
+  num_ref_name: 7
   cp: 0
-  vp: 277
-  mAbs phase3: 33
-  mAbs structure: 2
-  other mAbs: 19
-  all mAbs: 54
-  num_exp: 331
+  vp: 468
+  mAbs phase3: 39
+  mAbs structure: 4
+  other mAbs: 46
+  all mAbs: 89
+  num_exp: 557
   var_type: Omicron
 - pattern: G339H+R346T+L368I+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+V445P+G446S+N460K+S477N+T478K+E484A+F486S+F490S+Q498R+N501Y+Y505H
   pattern_length: 22
   var_name: Omicron/XBB.1
-  num_ref_name: 6
+  num_ref_name: 9
   cp: 0
-  vp: 705
-  mAbs phase3: 9
-  mAbs structure: 2
-  other mAbs: 17
-  all mAbs: 28
-  num_exp: 733
+  vp: 854
+  mAbs phase3: 16
+  mAbs structure: 4
+  other mAbs: 44
+  all mAbs: 64
+  num_exp: 918
   var_type: Omicron
 - pattern: G339H+R346T+L368I+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+V445P+G446S+N460K+S477N+T478K+E484A+F486P+F490S+Q498R+N501Y+Y505H
   pattern_length: 22
   var_name: Omicron/XBB.1.5
-  num_ref_name: 1
+  num_ref_name: 3
   cp: 0
   vp: 126
-  mAbs phase3: 2
+  mAbs phase3: 4
   mAbs structure: 0
-  other mAbs: 1
-  all mAbs: 3
-  num_exp: 129
+  other mAbs: 11
+  all mAbs: 15
+  num_exp: 141
   var_type: Omicron
 - pattern: S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+G446S+S477N+T478K+E484A+F486P+Q498R+N501Y+Y505H
   pattern_length: 16
