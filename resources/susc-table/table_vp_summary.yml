@@ -1341,12 +1341,12 @@
     vp_num_i_fold: 47
     vp_num_r_fold: 0
   - name: Inactivated
-    vp_studies: 3
-    vp_num_fold: 82
-    vp_s_fold: 34%
-    vp_i_fold: 52%
-    vp_r_fold: 14%
-    vp_num_s_fold: 28
+    vp_studies: 4
+    vp_num_fold: 111
+    vp_s_fold: 51%
+    vp_i_fold: 39%
+    vp_r_fold: 10%
+    vp_num_s_fold: 57
     vp_num_i_fold: 43
     vp_num_r_fold: 11
   - name: Inactivated + ZF2001
@@ -1357,6 +1357,15 @@
     vp_r_fold: 0
     vp_num_s_fold: 0
     vp_num_i_fold: 20
+    vp_num_r_fold: 0
+  - name: Inactivated + mRNA-monovalent
+    vp_studies: 1
+    vp_num_fold: 5
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 5
+    vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: NVX-CoV2373
     vp_studies: 2
@@ -1395,12 +1404,12 @@
     vp_num_i_fold: 22
     vp_num_r_fold: 31
   - name: Unknown vaccine
-    vp_studies: 13
-    vp_num_fold: 694
-    vp_s_fold: 33%
-    vp_i_fold: 31%
+    vp_studies: 14
+    vp_num_fold: 709
+    vp_s_fold: 34%
+    vp_i_fold: 30%
     vp_r_fold: 36%
-    vp_num_s_fold: 229
+    vp_num_s_fold: 244
     vp_num_i_fold: 212
     vp_num_r_fold: 253
   - name: ZF2001
@@ -1539,21 +1548,21 @@
     vp_num_i_fold: 4
     vp_num_r_fold: 0
   - name: mRNA-bivalent + mRNA-monovalent
-    vp_studies: 2
-    vp_num_fold: 63
-    vp_s_fold: 100%
-    vp_i_fold: 0
+    vp_studies: 3
+    vp_num_fold: 753
+    vp_s_fold: 37%
+    vp_i_fold: 63%
     vp_r_fold: 0
-    vp_num_s_fold: 63
-    vp_num_i_fold: 0
+    vp_num_s_fold: 280
+    vp_num_i_fold: 473
     vp_num_r_fold: 0
   - name: mRNA-monovalent
-    vp_studies: 4
-    vp_num_fold: 239
-    vp_s_fold: 73%
-    vp_i_fold: 27%
+    vp_studies: 5
+    vp_num_fold: 262
+    vp_s_fold: 76%
+    vp_i_fold: 24%
     vp_r_fold: 0
-    vp_num_s_fold: 175
+    vp_num_s_fold: 198
     vp_num_i_fold: 64
     vp_num_r_fold: 0
 - variant: Omicron/BA.2
@@ -1739,22 +1748,31 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: CoronaVac
-    vp_studies: 6
-    vp_num_fold: 380
-    vp_s_fold: 65%
-    vp_i_fold: 32%
+    vp_studies: 7
+    vp_num_fold: 391
+    vp_s_fold: 63%
+    vp_i_fold: 34%
     vp_r_fold: 3%
     vp_num_s_fold: 248
-    vp_num_i_fold: 121
+    vp_num_i_fold: 132
     vp_num_r_fold: 11
-  - name: Inactivated
-    vp_studies: 3
-    vp_num_fold: 122
-    vp_s_fold: 52%
-    vp_i_fold: 48%
+  - name: CoronaVac + ZF2001
+    vp_studies: 1
+    vp_num_fold: 11
+    vp_s_fold: 0
+    vp_i_fold: 100%
     vp_r_fold: 0
-    vp_num_s_fold: 64
-    vp_num_i_fold: 58
+    vp_num_s_fold: 0
+    vp_num_i_fold: 11
+    vp_num_r_fold: 0
+  - name: Inactivated
+    vp_studies: 5
+    vp_num_fold: 219
+    vp_s_fold: 68%
+    vp_i_fold: 32%
+    vp_r_fold: 0
+    vp_num_s_fold: 149
+    vp_num_i_fold: 70
     vp_num_r_fold: 0
   - name: Inactivated + ZF2001
     vp_studies: 1
@@ -1764,6 +1782,15 @@
     vp_r_fold: 0
     vp_num_s_fold: 0
     vp_num_i_fold: 40
+    vp_num_r_fold: 0
+  - name: Inactivated + mRNA-monovalent
+    vp_studies: 1
+    vp_num_fold: 5
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 5
+    vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: NVX-CoV2373
     vp_studies: 1
@@ -1784,12 +1811,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: Unknown vaccine
-    vp_studies: 10
-    vp_num_fold: 184
+    vp_studies: 11
+    vp_num_fold: 199
     vp_s_fold: 91%
     vp_i_fold: 6%
     vp_r_fold: 3%
-    vp_num_s_fold: 167
+    vp_num_s_fold: 182
     vp_num_i_fold: 11
     vp_num_r_fold: 6
   - name: ZF2001
@@ -1829,12 +1856,12 @@
     vp_num_i_fold: 51
     vp_num_r_fold: 0
   - name: mRNA-monovalent
-    vp_studies: 4
-    vp_num_fold: 250
-    vp_s_fold: 75%
-    vp_i_fold: 13%
-    vp_r_fold: 12%
-    vp_num_s_fold: 187
+    vp_studies: 5
+    vp_num_fold: 273
+    vp_s_fold: 77%
+    vp_i_fold: 12%
+    vp_r_fold: 11%
+    vp_num_s_fold: 210
     vp_num_i_fold: 33
     vp_num_r_fold: 30
 - variant: Iota
