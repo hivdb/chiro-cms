@@ -21,6 +21,8 @@
 - var_name: B.1
   pattern: D614G
 - var_name: B.1
+  pattern: R682L+R682R+R682W
+- var_name: B.1
   pattern: S13I+S50L+D614G+V620I
 - var_name: B.1.1
   pattern: D614G

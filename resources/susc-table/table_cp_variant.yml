@@ -33,11 +33,11 @@
 - pattern: Omicron/BA.1
   var_name: Omicron/BA.1
   median_fold: 9.3
-  num_ref_name: 77
-  num_fold: 3135
-  S: 884
-  I: 1599
-  R: 589
+  num_ref_name: 78
+  num_fold: 3186
+  S: 892
+  I: 1607
+  R: 624
 - pattern: Omicron/BA.1.1
   var_name: Omicron/BA.1.1
   median_fold: 21.0

@@ -98,6 +98,16 @@
   pdb: 7C01
   institute: Eli Lilly
   origin: CP
+- mab: Cilgavimab
+  synonyms: COV2-2130;AZD1061
+  num_ref_name: 78
+  num_fold: 680
+  avail: EUA
+  target: RBD
+  class: RBM Class II
+  pdb: 7L7E
+  institute: AstraZeneca
+  origin: CP
 - mab: Bebtelovimab
   synonyms: LY-CoV1404;LY3853113
   num_ref_name: 40
@@ -107,16 +117,6 @@
   class: RBM Class II
   pdb: 7MMO
   institute: Eli Lilly
-  origin: CP
-- mab: Cilgavimab
-  synonyms: COV2-2130;AZD1061
-  num_ref_name: 77
-  num_fold: 666
-  avail: EUA
-  target: RBD
-  class: RBM Class II
-  pdb: 7L7E
-  institute: AstraZeneca
   origin: CP
 - mab: Bamlanivimab
   synonyms: LY-CoV555;LY3819253
@@ -130,8 +130,8 @@
   origin: CP
 - mab: Tixagevimab
   synonyms: COV2-2196;AZD8895
-  num_ref_name: 74
-  num_fold: 555
+  num_ref_name: 75
+  num_fold: 569
   avail: EUA
   target: RBD
   class: RBM Class I
