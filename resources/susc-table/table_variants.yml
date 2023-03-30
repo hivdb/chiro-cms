@@ -577,14 +577,14 @@
 - pattern: G339D+R346T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+K444T+L452R+N460K+S477N+T478K+E484A+F486V+Q498R+N501Y+Y505H
   pattern_length: 20
   var_name: Omicron/BQ.1.1
-  num_ref_name: 20
+  num_ref_name: 21
   cp: 0
-  vp: 1501
+  vp: 1690
   mAbs phase3: 69
   mAbs structure: 5
   other mAbs: 34
   all mAbs: 108
-  num_exp: 1609
+  num_exp: 1798
   var_type: Omicron
 - pattern: G339D+R346T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+K444T+L452R+N460K+S477N+T478K+E484A+F486V+Q498R+N501Y+Y505H
   pattern_length: 20

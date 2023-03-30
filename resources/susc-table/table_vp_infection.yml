@@ -17,8 +17,8 @@
   num_ref_name: 1
   num_fold: 494
 - infection: Omicron/BA.1_or_BA.2
-  num_ref_name: 5
-  num_fold: 393
+  num_ref_name: 6
+  num_fold: 427
 - infection: Omicron/BA.2
   num_ref_name: 19
   num_fold: 7631
@@ -26,8 +26,8 @@
   num_ref_name: 1
   num_fold: 45
 - infection: Omicron/BA.4_or_BA.5
-  num_ref_name: 1
-  num_fold: 120
+  num_ref_name: 2
+  num_fold: 132
 - infection: Omicron/BA.5
   num_ref_name: 14
   num_fold: 3628
@@ -50,8 +50,8 @@
   num_ref_name: 57
   num_fold: 7876
 - infection: infected
-  num_ref_name: 156
-  num_fold: 41954
+  num_ref_name: 157
+  num_fold: 42000
 - infection: uninfected
-  num_ref_name: 359
-  num_fold: 101666
+  num_ref_name: 360
+  num_fold: 101809

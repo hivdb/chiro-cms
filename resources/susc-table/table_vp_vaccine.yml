@@ -452,24 +452,24 @@
 - vaccine: mRNA-monovalent
   dosage: 3.0
   infection: ''
-  num_ref_name: 8
-  num_fold: 661
-  S: 178
-  I: 184
+  num_ref_name: 9
+  num_fold: 770
+  S: 190
+  I: 281
   R: 299
-  median_fold: 18.0
-  percent: 0.46
+  median_fold: 14.0
+  percent: 0.54
   priority: 47
 - vaccine: mRNA-monovalent
   dosage: 3.0
   infection: infected
-  num_ref_name: 6
-  num_fold: 995
-  S: 492
+  num_ref_name: 7
+  num_fold: 1012
+  S: 509
   I: 201
   R: 302
-  median_fold: 5.7
-  percent: 0.69
+  median_fold: 4.4
+  percent: 0.7
   priority: 47
 - vaccine: mRNA-monovalent
   dosage: 4.0
@@ -513,29 +513,29 @@
   I: 55
   R: 11
   median_fold: 8.0
-  percent: 0.077
+  percent: 0.076
   priority: 48
 - vaccine: mRNA-bivalent + mRNA-monovalent
   dosage: 4.0
   infection: ''
-  num_ref_name: 5
-  num_fold: 1368
+  num_ref_name: 6
+  num_fold: 1402
   S: 182
-  I: 829
+  I: 863
   R: 357
   median_fold: 9.8
-  percent: 0.95
+  percent: 0.97
   priority: 48
 - vaccine: mRNA-bivalent + mRNA-monovalent
   dosage: 4.0
   infection: infected
-  num_ref_name: 3
-  num_fold: 1044
-  S: 299
-  I: 650
+  num_ref_name: 4
+  num_fold: 1073
+  S: 311
+  I: 667
   R: 95
   median_fold: 6.2
-  percent: 0.73
+  percent: 0.75
   priority: 48
 - vaccine: Convidecia
   dosage: 1.0
@@ -656,7 +656,7 @@
   I: 5
   R: 1
   median_fold: 4.9
-  percent: 0.0084
+  percent: 0.0083
   priority: 68
 - vaccine: AZD1222 + BNT162b2
   dosage: 3.0

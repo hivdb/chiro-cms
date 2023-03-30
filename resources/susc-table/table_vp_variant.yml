@@ -752,11 +752,11 @@
   R: 144
 - pattern: Omicron/BQ.1.1
   var_name: Omicron/BQ.1.1
-  median_fold: 24.0
-  num_ref_name: 17
-  num_fold: 1501
-  S: 137
-  I: 627
+  median_fold: 21.0
+  num_ref_name: 18
+  num_fold: 1690
+  S: 178
+  I: 775
   R: 737
 - pattern: Omicron/BQ.1.1.10
   var_name: Omicron/BQ.1.1.10
