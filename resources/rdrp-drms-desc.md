@@ -1,7 +1,7 @@
 This table lists SARS-CoV-2 RNA-dependent RNA polymerase (RdRP) inhibitor
 resistance mutations. The RdRP resistance mutations shown met one or more of the
 following criteria: (1) having a ≥2.5-fold reduction in susceptibility to an
-RdRP inhibitor; (2) reported to be selected in vitro by an RdRP inhibitor in two
+RdRP inhibitor; (2) reported to be selected in vitro by an RdRP inhibitor in one
 or more studies; and/or (3) selected in vivo in two or more patients receiving
 an RdRP inhibitor.
 
