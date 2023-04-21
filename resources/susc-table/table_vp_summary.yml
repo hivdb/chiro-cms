@@ -238,13 +238,13 @@
   vaccine:
   - name: AZD1222
     vp_studies: 18
-    vp_num_fold: 701
-    vp_s_fold: 54%
-    vp_i_fold: 26%
+    vp_num_fold: 712
+    vp_s_fold: 53%
+    vp_i_fold: 27%
     vp_r_fold: 20%
-    vp_num_s_fold: 378
-    vp_num_i_fold: 184
-    vp_num_r_fold: 139
+    vp_num_s_fold: 377
+    vp_num_i_fold: 189
+    vp_num_r_fold: 146
   - name: AZD1222 + AZD2816
     vp_studies: 1
     vp_num_fold: 12
@@ -265,13 +265,13 @@
     vp_num_r_fold: 0
   - name: AZD1222 + BNT162b2
     vp_studies: 5
-    vp_num_fold: 402
-    vp_s_fold: 6%
+    vp_num_fold: 412
+    vp_s_fold: 8%
     vp_i_fold: 14%
-    vp_r_fold: 80%
-    vp_num_s_fold: 23
-    vp_num_i_fold: 58
-    vp_num_r_fold: 321
+    vp_r_fold: 78%
+    vp_num_s_fold: 31
+    vp_num_i_fold: 56
+    vp_num_r_fold: 325
   - name: AZD1222 + NVX-CoV2373
     vp_studies: 1
     vp_num_fold: 51
@@ -283,22 +283,22 @@
     vp_num_r_fold: 0
   - name: AZD1222 + mRNA-1273
     vp_studies: 2
-    vp_num_fold: 59
-    vp_s_fold: 100%
-    vp_i_fold: 0
-    vp_r_fold: 0
-    vp_num_s_fold: 59
-    vp_num_i_fold: 0
-    vp_num_r_fold: 0
+    vp_num_fold: 72
+    vp_s_fold: 88%
+    vp_i_fold: 8%
+    vp_r_fold: 4%
+    vp_num_s_fold: 63
+    vp_num_i_fold: 6
+    vp_num_r_fold: 3
   - name: Ad26.COV2.S
     vp_studies: 14
-    vp_num_fold: 304
-    vp_s_fold: 63%
+    vp_num_fold: 306
+    vp_s_fold: 59%
     vp_i_fold: 16%
-    vp_r_fold: 21%
-    vp_num_s_fold: 191
+    vp_r_fold: 25%
+    vp_num_s_fold: 181
     vp_num_i_fold: 49
-    vp_num_r_fold: 64
+    vp_num_r_fold: 76
   - name: Ad26.COV2.S + BNT162b2
     vp_studies: 2
     vp_num_fold: 204
@@ -345,13 +345,13 @@
     vp_num_i_fold: 1
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 99
-    vp_num_fold: 5106
+    vp_studies: 98
+    vp_num_fold: 5076
     vp_s_fold: 62%
-    vp_i_fold: 28%
-    vp_r_fold: 10%
-    vp_num_s_fold: 3180
-    vp_num_i_fold: 1410
+    vp_i_fold: 27%
+    vp_r_fold: 11%
+    vp_num_s_fold: 3165
+    vp_num_i_fold: 1395
     vp_num_r_fold: 516
   - name: BNT162b2 + MVB.1.351
     vp_studies: 1
@@ -535,12 +535,12 @@
     vp_num_r_fold: 0
   - name: mRNA-1273
     vp_studies: 42
-    vp_num_fold: 3751
+    vp_num_fold: 3759
     vp_s_fold: 57%
     vp_i_fold: 38%
     vp_r_fold: 5%
-    vp_num_s_fold: 2139
-    vp_num_i_fold: 1421
+    vp_num_s_fold: 2133
+    vp_num_i_fold: 1435
     vp_num_r_fold: 191
   - name: mRNA-1273 + mRNA-1273.211
     vp_studies: 3
@@ -710,13 +710,13 @@
   vaccine:
   - name: AZD1222
     vp_studies: 22
-    vp_num_fold: 925
+    vp_num_fold: 936
     vp_s_fold: 67%
     vp_i_fold: 29%
     vp_r_fold: 4%
-    vp_num_s_fold: 616
+    vp_num_s_fold: 625
     vp_num_i_fold: 267
-    vp_num_r_fold: 42
+    vp_num_r_fold: 44
   - name: AZD1222 + AZD2816
     vp_studies: 1
     vp_num_fold: 12
@@ -737,12 +737,12 @@
     vp_num_r_fold: 0
   - name: AZD1222 + BNT162b2
     vp_studies: 7
-    vp_num_fold: 493
-    vp_s_fold: 56%
-    vp_i_fold: 31%
+    vp_num_fold: 503
+    vp_s_fold: 60%
+    vp_i_fold: 27%
     vp_r_fold: 13%
-    vp_num_s_fold: 275
-    vp_num_i_fold: 151
+    vp_num_s_fold: 300
+    vp_num_i_fold: 136
     vp_num_r_fold: 67
   - name: AZD1222 + CoronaVac
     vp_studies: 1
@@ -773,22 +773,22 @@
     vp_num_r_fold: 0
   - name: AZD1222 + mRNA-1273
     vp_studies: 3
-    vp_num_fold: 179
-    vp_s_fold: 100%
+    vp_num_fold: 192
+    vp_s_fold: 99%
     vp_i_fold: 0
-    vp_r_fold: 0
-    vp_num_s_fold: 179
+    vp_r_fold: 1%
+    vp_num_s_fold: 191
     vp_num_i_fold: 0
-    vp_num_r_fold: 0
+    vp_num_r_fold: 1
   - name: Ad26.COV2.S
     vp_studies: 16
-    vp_num_fold: 304
-    vp_s_fold: 77%
+    vp_num_fold: 306
+    vp_s_fold: 75%
     vp_i_fold: 13%
-    vp_r_fold: 10%
-    vp_num_s_fold: 235
+    vp_r_fold: 12%
+    vp_num_s_fold: 230
     vp_num_i_fold: 40
-    vp_num_r_fold: 29
+    vp_num_r_fold: 36
   - name: Ad26.COV2.S + BNT162b2
     vp_studies: 3
     vp_num_fold: 134
@@ -835,12 +835,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 88
-    vp_num_fold: 4698
+    vp_studies: 87
+    vp_num_fold: 4668
     vp_s_fold: 84%
     vp_i_fold: 14%
     vp_r_fold: 2%
-    vp_num_s_fold: 3952
+    vp_num_s_fold: 3922
     vp_num_i_fold: 649
     vp_num_r_fold: 97
   - name: BNT162b2 + CoronaVac
@@ -1007,11 +1007,11 @@
     vp_num_r_fold: 0
   - name: mRNA-1273
     vp_studies: 37
-    vp_num_fold: 1821
+    vp_num_fold: 1829
     vp_s_fold: 96%
     vp_i_fold: 3%
     vp_r_fold: 1%
-    vp_num_s_fold: 1753
+    vp_num_s_fold: 1761
     vp_num_i_fold: 58
     vp_num_r_fold: 10
   - name: mRNA-1273 + mRNA-1273.211
@@ -1063,22 +1063,22 @@
   vaccine:
   - name: AZD1222
     vp_studies: 21
-    vp_num_fold: 776
+    vp_num_fold: 787
     vp_s_fold: 20%
-    vp_i_fold: 44%
-    vp_r_fold: 36%
+    vp_i_fold: 43%
+    vp_r_fold: 37%
     vp_num_s_fold: 159
-    vp_num_i_fold: 345
-    vp_num_r_fold: 272
+    vp_num_i_fold: 338
+    vp_num_r_fold: 290
   - name: AZD1222 + BNT162b2
     vp_studies: 10
-    vp_num_fold: 527
-    vp_s_fold: 12%
+    vp_num_fold: 537
+    vp_s_fold: 11%
     vp_i_fold: 42%
-    vp_r_fold: 46%
+    vp_r_fold: 47%
     vp_num_s_fold: 61
-    vp_num_i_fold: 223
-    vp_num_r_fold: 243
+    vp_num_i_fold: 226
+    vp_num_r_fold: 250
   - name: AZD1222 + CoronaVac
     vp_studies: 1
     vp_num_fold: 216
@@ -1117,22 +1117,22 @@
     vp_num_r_fold: 8
   - name: AZD1222 + mRNA-1273
     vp_studies: 2
-    vp_num_fold: 251
-    vp_s_fold: 48%
+    vp_num_fold: 264
+    vp_s_fold: 46%
     vp_i_fold: 52%
-    vp_r_fold: 0
-    vp_num_s_fold: 120
-    vp_num_i_fold: 131
-    vp_num_r_fold: 0
+    vp_r_fold: 2%
+    vp_num_s_fold: 121
+    vp_num_i_fold: 137
+    vp_num_r_fold: 6
   - name: Ad26.COV2.S
     vp_studies: 11
-    vp_num_fold: 272
-    vp_s_fold: 72%
+    vp_num_fold: 274
+    vp_s_fold: 68%
     vp_i_fold: 12%
-    vp_r_fold: 16%
-    vp_num_s_fold: 196
-    vp_num_i_fold: 32
-    vp_num_r_fold: 44
+    vp_r_fold: 20%
+    vp_num_s_fold: 185
+    vp_num_i_fold: 33
+    vp_num_r_fold: 56
   - name: Ad26.COV2.S + BNT162b2
     vp_studies: 2
     vp_num_fold: 246
@@ -1188,14 +1188,14 @@
     vp_num_i_fold: 13
     vp_num_r_fold: 39
   - name: BNT162b2
-    vp_studies: 85
-    vp_num_fold: 5069
+    vp_studies: 84
+    vp_num_fold: 5039
     vp_s_fold: 27%
     vp_i_fold: 48%
     vp_r_fold: 25%
     vp_num_s_fold: 1347
-    vp_num_i_fold: 2451
-    vp_num_r_fold: 1271
+    vp_num_i_fold: 2436
+    vp_num_r_fold: 1256
   - name: BNT162b2 + BNT162b2_BA.1_bivalent
     vp_studies: 1
     vp_num_fold: 32
@@ -1495,13 +1495,13 @@
     vp_num_r_fold: 0
   - name: mRNA-1273
     vp_studies: 29
-    vp_num_fold: 3419
+    vp_num_fold: 3427
     vp_s_fold: 66%
-    vp_i_fold: 24%
-    vp_r_fold: 10%
+    vp_i_fold: 25%
+    vp_r_fold: 9%
     vp_num_s_fold: 2261
-    vp_num_i_fold: 836
-    vp_num_r_fold: 322
+    vp_num_i_fold: 842
+    vp_num_r_fold: 324
   - name: mRNA-1273 + mRNA-1273.211
     vp_studies: 2
     vp_num_fold: 1224
@@ -1586,23 +1586,23 @@
 - variant: Omicron/BA.2
   vaccine:
   - name: AZD1222
-    vp_studies: 8
-    vp_num_fold: 166
+    vp_studies: 9
+    vp_num_fold: 177
     vp_s_fold: 1%
-    vp_i_fold: 95%
-    vp_r_fold: 4%
-    vp_num_s_fold: 1
-    vp_num_i_fold: 157
-    vp_num_r_fold: 8
+    vp_i_fold: 90%
+    vp_r_fold: 9%
+    vp_num_s_fold: 2
+    vp_num_i_fold: 160
+    vp_num_r_fold: 15
   - name: AZD1222 + BNT162b2
-    vp_studies: 3
-    vp_num_fold: 56
-    vp_s_fold: 14%
-    vp_i_fold: 86%
-    vp_r_fold: 0
+    vp_studies: 4
+    vp_num_fold: 66
+    vp_s_fold: 12%
+    vp_i_fold: 83%
+    vp_r_fold: 5%
     vp_num_s_fold: 8
-    vp_num_i_fold: 48
-    vp_num_r_fold: 0
+    vp_num_i_fold: 55
+    vp_num_r_fold: 3
   - name: AZD1222 + Sputnik V
     vp_studies: 1
     vp_num_fold: 14
@@ -1621,15 +1621,24 @@
     vp_num_s_fold: 0
     vp_num_i_fold: 8
     vp_num_r_fold: 0
-  - name: Ad26.COV2.S
-    vp_studies: 2
-    vp_num_fold: 15
-    vp_s_fold: 13%
-    vp_i_fold: 80%
+  - name: AZD1222 + mRNA-1273
+    vp_studies: 1
+    vp_num_fold: 13
+    vp_s_fold: 8%
+    vp_i_fold: 85%
     vp_r_fold: 7%
-    vp_num_s_fold: 2
-    vp_num_i_fold: 12
+    vp_num_s_fold: 1
+    vp_num_i_fold: 11
     vp_num_r_fold: 1
+  - name: Ad26.COV2.S
+    vp_studies: 3
+    vp_num_fold: 22
+    vp_s_fold: 9%
+    vp_i_fold: 59%
+    vp_r_fold: 32%
+    vp_num_s_fold: 2
+    vp_num_i_fold: 13
+    vp_num_r_fold: 7
   - name: Ad26.COV2.S + BNT162b2
     vp_studies: 1
     vp_num_fold: 1
@@ -1856,14 +1865,14 @@
     vp_num_i_fold: 216
     vp_num_r_fold: 38
   - name: mRNA-1273
-    vp_studies: 11
-    vp_num_fold: 217
-    vp_s_fold: 11%
-    vp_i_fold: 74%
+    vp_studies: 12
+    vp_num_fold: 226
+    vp_s_fold: 10%
+    vp_i_fold: 75%
     vp_r_fold: 15%
     vp_num_s_fold: 23
-    vp_num_i_fold: 161
-    vp_num_r_fold: 33
+    vp_num_i_fold: 169
+    vp_num_r_fold: 34
   - name: mRNA-bivalent + mRNA-monovalent
     vp_studies: 3
     vp_num_fold: 102
