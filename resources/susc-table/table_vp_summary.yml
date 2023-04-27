@@ -835,12 +835,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 4
   - name: BNT162b2
-    vp_studies: 88
-    vp_num_fold: 4688
+    vp_studies: 87
+    vp_num_fold: 4668
     vp_s_fold: 84%
     vp_i_fold: 14%
     vp_r_fold: 2%
-    vp_num_s_fold: 3942
+    vp_num_s_fold: 3922
     vp_num_i_fold: 649
     vp_num_r_fold: 97
   - name: BNT162b2 + CoronaVac
@@ -1188,14 +1188,14 @@
     vp_num_i_fold: 13
     vp_num_r_fold: 39
   - name: BNT162b2
-    vp_studies: 88
-    vp_num_fold: 5288
+    vp_studies: 85
+    vp_num_fold: 5136
     vp_s_fold: 28%
-    vp_i_fold: 48%
-    vp_r_fold: 24%
-    vp_num_s_fold: 1488
-    vp_num_i_fold: 2520
-    vp_num_r_fold: 1280
+    vp_i_fold: 47%
+    vp_r_fold: 25%
+    vp_num_s_fold: 1434
+    vp_num_i_fold: 2432
+    vp_num_r_fold: 1270
   - name: BNT162b2 + BNT162b2_BA.1_bivalent
     vp_studies: 1
     vp_num_fold: 32
@@ -1566,12 +1566,12 @@
     vp_num_i_fold: 473
     vp_num_r_fold: 0
   - name: mRNA-monovalent
-    vp_studies: 6
-    vp_num_fold: 292
-    vp_s_fold: 78%
-    vp_i_fold: 22%
+    vp_studies: 5
+    vp_num_fold: 262
+    vp_s_fold: 76%
+    vp_i_fold: 24%
     vp_r_fold: 0
-    vp_num_s_fold: 228
+    vp_num_s_fold: 198
     vp_num_i_fold: 64
     vp_num_r_fold: 0
 - variant: Omicron/BA.2
@@ -1667,13 +1667,13 @@
     vp_num_i_fold: 30
     vp_num_r_fold: 18
   - name: BNT162b2
-    vp_studies: 44
-    vp_num_fold: 1858
-    vp_s_fold: 46%
-    vp_i_fold: 46%
-    vp_r_fold: 8%
+    vp_studies: 42
+    vp_num_fold: 1760
+    vp_s_fold: 48%
+    vp_i_fold: 43%
+    vp_r_fold: 9%
     vp_num_s_fold: 848
-    vp_num_i_fold: 857
+    vp_num_i_fold: 759
     vp_num_r_fold: 153
   - name: BNT162b2 + BNT162b2_BA.1_bivalent
     vp_studies: 1
@@ -1865,21 +1865,21 @@
     vp_num_i_fold: 171
     vp_num_r_fold: 35
   - name: mRNA-bivalent + mRNA-monovalent
-    vp_studies: 5
-    vp_num_fold: 144
-    vp_s_fold: 65%
-    vp_i_fold: 35%
+    vp_studies: 4
+    vp_num_fold: 130
+    vp_s_fold: 61%
+    vp_i_fold: 39%
     vp_r_fold: 0
-    vp_num_s_fold: 93
+    vp_num_s_fold: 79
     vp_num_i_fold: 51
     vp_num_r_fold: 0
   - name: mRNA-monovalent
-    vp_studies: 9
-    vp_num_fold: 373
-    vp_s_fold: 83%
-    vp_i_fold: 9%
-    vp_r_fold: 8%
-    vp_num_s_fold: 310
+    vp_studies: 6
+    vp_num_fold: 297
+    vp_s_fold: 79%
+    vp_i_fold: 11%
+    vp_r_fold: 10%
+    vp_num_s_fold: 234
     vp_num_i_fold: 33
     vp_num_r_fold: 30
 - variant: Iota

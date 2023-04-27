@@ -1,21 +1,21 @@
 - variant: Alpha
-  num_ref_name: 27
-  num_fold: 2182
+  num_ref_name: 28
+  num_fold: 2202
 - variant: Beta
-  num_ref_name: 20
-  num_fold: 788
+  num_ref_name: 21
+  num_fold: 808
 - variant: D.2
   num_ref_name: 2
   num_fold: 125
 - variant: Delta
-  num_ref_name: 36
-  num_fold: 2181
+  num_ref_name: 37
+  num_fold: 2201
 - variant: Epsilon
   num_ref_name: 1
   num_fold: 65
 - variant: Gamma
-  num_ref_name: 10
-  num_fold: 555
+  num_ref_name: 11
+  num_fold: 575
 - variant: Iota
   num_ref_name: 1
   num_fold: 130
@@ -23,11 +23,11 @@
   num_ref_name: 1
   num_fold: 39
 - variant: Mu
-  num_ref_name: 2
-  num_fold: 112
+  num_ref_name: 3
+  num_fold: 132
 - variant: Omicron/BA.1
-  num_ref_name: 26
-  num_fold: 1935
+  num_ref_name: 27
+  num_fold: 2049
 - variant: Omicron/BA.1.1
   num_ref_name: 2
   num_fold: 236
@@ -41,11 +41,14 @@
   num_ref_name: 1
   num_fold: 66
 - variant: Omicron/BA.5
+  num_ref_name: 3
+  num_fold: 407
+- variant: Omicron/XBB.1
   num_ref_name: 1
-  num_fold: 136
+  num_fold: 42
 - variant: Unknown variant
   num_ref_name: 28
   num_fold: 3909
 - variant: Zeta
-  num_ref_name: 1
-  num_fold: 88
+  num_ref_name: 2
+  num_fold: 108
