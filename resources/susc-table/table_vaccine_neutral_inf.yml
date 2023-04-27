@@ -1,19 +1,19 @@
 - test: WT
   BNT162b2_1:
-    geomean: 3282.0
-    num_ref_name: 50
+    geomean: 3264.0
+    num_ref_name: 53
   BNT162b2_2:
-    geomean: 2491.0
-    num_ref_name: 17
+    geomean: 2468.0
+    num_ref_name: 19
   BNT162b2_3:
-    geomean: 1840.0
+    geomean: 1815.0
     num_ref_name: 7
   mRNA-1273_1:
-    geomean: 4877.0
-    num_ref_name: 11
+    geomean: 4663.0
+    num_ref_name: 12
   mRNA-1273_2:
-    geomean: 3462.0
-    num_ref_name: 5
+    geomean: 3410.0
+    num_ref_name: 6
   mRNA-1273_3:
     geomean: 1012.0
     num_ref_name: 3
@@ -365,20 +365,20 @@
     num_ref_name: 0
 - test: BA.1
   BNT162b2_1:
-    geomean: 525.0
-    num_ref_name: 33
+    geomean: 565.0
+    num_ref_name: 34
   BNT162b2_2:
-    geomean: 185.0
-    num_ref_name: 14
+    geomean: 225.0
+    num_ref_name: 15
   BNT162b2_3:
-    geomean: 196.0
+    geomean: 194.0
     num_ref_name: 6
   mRNA-1273_1:
-    geomean: 1967.0
-    num_ref_name: 8
+    geomean: 1959.0
+    num_ref_name: 9
   mRNA-1273_2:
-    geomean: 1253.0
-    num_ref_name: 3
+    geomean: 1243.0
+    num_ref_name: 4
   mRNA-1273_3:
     geomean: 84.0
     num_ref_name: 2
@@ -511,20 +511,20 @@
     num_ref_name: 0
 - test: BA.2
   BNT162b2_1:
-    geomean: 876.0
-    num_ref_name: 17
+    geomean: 886.0
+    num_ref_name: 20
   BNT162b2_2:
-    geomean: 828.0
-    num_ref_name: 7
+    geomean: 768.0
+    num_ref_name: 9
   BNT162b2_3:
     geomean: 540.0
     num_ref_name: 2
   mRNA-1273_1:
-    geomean: 721.0
-    num_ref_name: 2
+    geomean: 744.0
+    num_ref_name: 3
   mRNA-1273_2:
-    geomean: 1582.0
-    num_ref_name: 2
+    geomean: 776.0
+    num_ref_name: 3
   mRNA-1273_3:
     geomean: 1595.0
     num_ref_name: 1
@@ -584,20 +584,20 @@
     num_ref_name: 0
 - test: BA.2.12.1
   BNT162b2_1:
-    geomean: 1134.0
-    num_ref_name: 4
+    geomean: 1319.0
+    num_ref_name: 5
   BNT162b2_2:
-    geomean: 732.0
-    num_ref_name: 2
+    geomean: 701.0
+    num_ref_name: 3
   BNT162b2_3:
     geomean: 266.0
     num_ref_name: 1
   mRNA-1273_1:
-    geomean: 640.0
-    num_ref_name: 1
+    geomean: 940.0
+    num_ref_name: 2
   mRNA-1273_2:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 493.0
+    num_ref_name: 1
   mRNA-1273_3:
     geomean: ''
     num_ref_name: 0
@@ -657,20 +657,20 @@
     num_ref_name: 0
 - test: BA.2.75
   BNT162b2_1:
-    geomean: 538.0
-    num_ref_name: 2
+    geomean: 655.0
+    num_ref_name: 4
   BNT162b2_2:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 614.0
+    num_ref_name: 1
   BNT162b2_3:
     geomean: ''
     num_ref_name: 0
   mRNA-1273_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 1280.0
+    num_ref_name: 1
   mRNA-1273_2:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 453.0
+    num_ref_name: 1
   mRNA-1273_3:
     geomean: ''
     num_ref_name: 0
@@ -730,13 +730,13 @@
     num_ref_name: 0
 - test: BA.2.75.2
   BNT162b2_1:
-    geomean: 446.0
-    num_ref_name: 2
+    geomean: 429.0
+    num_ref_name: 3
   BNT162b2_2:
-    geomean: 154.0
+    geomean: 156.0
     num_ref_name: 2
   BNT162b2_3:
-    geomean: 185.0
+    geomean: 177.0
     num_ref_name: 1
   mRNA-1273_1:
     geomean: ''
@@ -876,11 +876,11 @@
     num_ref_name: 0
 - test: XBB.1
   BNT162b2_1:
-    geomean: 93.0
-    num_ref_name: 3
+    geomean: 76.0
+    num_ref_name: 4
   BNT162b2_2:
-    geomean: 108.0
-    num_ref_name: 3
+    geomean: 103.0
+    num_ref_name: 4
   BNT162b2_3:
     geomean: 151.0
     num_ref_name: 1
@@ -949,11 +949,11 @@
     num_ref_name: 0
 - test: XBB.1.5
   BNT162b2_1:
-    geomean: 120.0
-    num_ref_name: 1
+    geomean: 30.0
+    num_ref_name: 2
   BNT162b2_2:
-    geomean: 213.0
-    num_ref_name: 1
+    geomean: 120.0
+    num_ref_name: 2
   BNT162b2_3:
     geomean: 156.0
     num_ref_name: 1
@@ -1020,22 +1020,95 @@
   Sputnik V_3:
     geomean: ''
     num_ref_name: 0
+- test: XBB.1.16
+  BNT162b2_1:
+    geomean: ''
+    num_ref_name: 0
+  BNT162b2_2:
+    geomean: ''
+    num_ref_name: 0
+  BNT162b2_3:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_1:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_2:
+    geomean: ''
+    num_ref_name: 0
+  mRNA-1273_3:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_1:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_2:
+    geomean: ''
+    num_ref_name: 0
+  AZD1222_3:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_1:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_2:
+    geomean: ''
+    num_ref_name: 0
+  Ad26.COV2.S_3:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_1:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_2:
+    geomean: ''
+    num_ref_name: 0
+  BBV152_3:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_1:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_2:
+    geomean: ''
+    num_ref_name: 0
+  CoronaVac_3:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_1:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_2:
+    geomean: ''
+    num_ref_name: 0
+  BBIBP-CorV_3:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_1:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_2:
+    geomean: ''
+    num_ref_name: 0
+  Sputnik V_3:
+    geomean: ''
+    num_ref_name: 0
 - test: BA.4/5
   BNT162b2_1:
-    geomean: 427.0
-    num_ref_name: 14
+    geomean: 429.0
+    num_ref_name: 16
   BNT162b2_2:
-    geomean: 626.0
-    num_ref_name: 8
+    geomean: 543.0
+    num_ref_name: 9
   BNT162b2_3:
-    geomean: 328.0
+    geomean: 318.0
     num_ref_name: 3
   mRNA-1273_1:
-    geomean: 1215.0
-    num_ref_name: 3
+    geomean: 1088.0
+    num_ref_name: 4
   mRNA-1273_2:
-    geomean: 675.0
-    num_ref_name: 3
+    geomean: 651.0
+    num_ref_name: 4
   mRNA-1273_3:
     geomean: 682.0
     num_ref_name: 1
@@ -1095,13 +1168,13 @@
     num_ref_name: 0
 - test: BA.4.6
   BNT162b2_1:
-    geomean: 1029.0
-    num_ref_name: 3
+    geomean: 954.0
+    num_ref_name: 4
   BNT162b2_2:
-    geomean: 542.0
+    geomean: 560.0
     num_ref_name: 3
   BNT162b2_3:
-    geomean: 469.0
+    geomean: 526.0
     num_ref_name: 1
   mRNA-1273_1:
     geomean: 635.0
@@ -1168,8 +1241,8 @@
     num_ref_name: 0
 - test: BQ.1
   BNT162b2_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 108.0
+    num_ref_name: 1
   BNT162b2_2:
     geomean: ''
     num_ref_name: 0
@@ -1241,13 +1314,13 @@
     num_ref_name: 0
 - test: BQ.1.1
   BNT162b2_1:
-    geomean: 355.0
-    num_ref_name: 4
+    geomean: 360.0
+    num_ref_name: 5
   BNT162b2_2:
-    geomean: 184.0
+    geomean: 178.0
     num_ref_name: 4
   BNT162b2_3:
-    geomean: 221.0
+    geomean: 207.0
     num_ref_name: 2
   mRNA-1273_1:
     geomean: 216.0
@@ -1314,8 +1387,8 @@
     num_ref_name: 0
 - test: BF.7
   BNT162b2_1:
-    geomean: ''
-    num_ref_name: 0
+    geomean: 169.0
+    num_ref_name: 1
   BNT162b2_2:
     geomean: ''
     num_ref_name: 0

@@ -26,8 +26,8 @@
   num_ref_name: 2
   num_fold: 112
 - variant: Omicron/BA.1
-  num_ref_name: 25
-  num_fold: 1887
+  num_ref_name: 26
+  num_fold: 1935
 - variant: Omicron/BA.1.1
   num_ref_name: 2
   num_fold: 236
@@ -40,6 +40,9 @@
 - variant: Omicron/BA.4_or_BA.5
   num_ref_name: 1
   num_fold: 66
+- variant: Omicron/BA.5
+  num_ref_name: 1
+  num_fold: 136
 - variant: Unknown variant
   num_ref_name: 28
   num_fold: 3909
