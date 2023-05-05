@@ -24,9 +24,9 @@
     fold_cmp: ''
     num: 33
   sot:
-    fold: '1.6'
+    fold: '1.8'
     fold_cmp: ''
-    num: 29
+    num: 30
   reg:
     fold: '1.2'
     fold_cmp: ''
@@ -109,9 +109,9 @@
     fold_cmp: ''
     num: 38
   sot:
-    fold: '1.0'
+    fold: '1'
     fold_cmp: ''
-    num: 30
+    num: 31
   reg:
     fold: '39'
     fold_cmp: ''
@@ -281,7 +281,7 @@
   sot:
     fold: '1.1'
     fold_cmp: ''
-    num: 30
+    num: 31
   reg:
     fold: '28'
     fold_cmp: ''
@@ -366,7 +366,7 @@
   sot:
     fold: '3.8'
     fold_cmp: ''
-    num: 62
+    num: 64
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -451,9 +451,9 @@
     fold_cmp: ''
     num: 33
   sot:
-    fold: '20'
+    fold: '21'
     fold_cmp: ''
-    num: 51
+    num: 52
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -536,9 +536,9 @@
     fold_cmp: ''
     num: 13
   sot:
-    fold: '19'
+    fold: '20'
     fold_cmp: ''
-    num: 17
+    num: 18
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -621,9 +621,9 @@
     fold_cmp: '>'
     num: 11
   sot:
-    fold: '11'
+    fold: '12'
     fold_cmp: ''
-    num: 14
+    num: 15
   reg:
     fold: '42'
     fold_cmp: ''
@@ -706,9 +706,9 @@
     fold_cmp: ''
     num: 4
   sot:
-    fold: '7.8'
+    fold: '8'
     fold_cmp: ''
-    num: 8
+    num: 9
   reg:
     fold: '905'
     fold_cmp: ''
@@ -787,9 +787,9 @@
     fold_cmp: ''
     num: 2
   sot:
-    fold: '13'
+    fold: '14'
     fold_cmp: ''
-    num: 3
+    num: 4
   reg:
     fold: '-'
   beb:
@@ -868,9 +868,9 @@
     fold_cmp: '>'
     num: 3
   sot:
-    fold: '12'
+    fold: '15'
     fold_cmp: ''
-    num: 7
+    num: 8
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -939,9 +939,9 @@
     fold_cmp: ''
     num: 2
   sot:
-    fold: '19'
+    fold: '18'
     fold_cmp: ''
-    num: 4
+    num: 5
   reg:
     fold: '-'
   beb:
@@ -1069,7 +1069,7 @@
   sot:
     fold: '22'
     fold_cmp: ''
-    num: 38
+    num: 39
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -1227,9 +1227,9 @@
     fold_cmp: ''
     num: 1
   sot:
-    fold: '25'
+    fold: '26'
     fold_cmp: ''
-    num: 4
+    num: 5
   reg:
     fold: '-'
   beb:
@@ -1300,9 +1300,9 @@
     fold_cmp: '>'
     num: 4
   sot:
-    fold: '106'
+    fold: '118'
     fold_cmp: ''
-    num: 8
+    num: 9
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -1381,9 +1381,9 @@
     fold_cmp: ''
     num: 1
   sot:
-    fold: '49'
+    fold: '48'
     fold_cmp: ''
-    num: 4
+    num: 5
   reg:
     fold: '-'
   beb:
@@ -1450,9 +1450,9 @@
     fold_cmp: '>'
     num: 1
   sot:
-    fold: '15'
+    fold: '16'
     fold_cmp: ''
-    num: 2
+    num: 3
   reg:
     fold: '-'
   beb:

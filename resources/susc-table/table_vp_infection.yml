@@ -45,13 +45,13 @@
   num_fold: 360
 - infection: Unknown variant
   num_ref_name: 37
-  num_fold: 7978
+  num_fold: 9272
 - infection: Wiletype
   num_ref_name: 58
   num_fold: 8006
 - infection: infected
   num_ref_name: 165
-  num_fold: 43379
+  num_fold: 44673
 - infection: uninfected
-  num_ref_name: 367
-  num_fold: 103858
+  num_ref_name: 368
+  num_fold: 103830
