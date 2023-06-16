@@ -1730,12 +1730,12 @@
     vp_num_i_fold: 30
     vp_num_r_fold: 18
   - name: BNT162b2
-    vp_studies: 44
-    vp_num_fold: 1858
+    vp_studies: 45
+    vp_num_fold: 1872
     vp_s_fold: 46%
     vp_i_fold: 46%
     vp_r_fold: 8%
-    vp_num_s_fold: 848
+    vp_num_s_fold: 862
     vp_num_i_fold: 857
     vp_num_r_fold: 153
   - name: BNT162b2 + BNT162b2_BA.1_bivalent
@@ -1784,12 +1784,12 @@
     vp_num_i_fold: 138
     vp_num_r_fold: 0
   - name: BNT162b2 + mRNA-1273
-    vp_studies: 6
-    vp_num_fold: 80
-    vp_s_fold: 84%
-    vp_i_fold: 16%
+    vp_studies: 7
+    vp_num_fold: 88
+    vp_s_fold: 85%
+    vp_i_fold: 15%
     vp_r_fold: 0
-    vp_num_s_fold: 67
+    vp_num_s_fold: 75
     vp_num_i_fold: 13
     vp_num_r_fold: 0
   - name: BNT162b2 + mRNA-1273 bivalent
@@ -1892,12 +1892,12 @@
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: Unknown vaccine
-    vp_studies: 10
-    vp_num_fold: 169
+    vp_studies: 11
+    vp_num_fold: 171
     vp_s_fold: 90%
-    vp_i_fold: 7%
-    vp_r_fold: 3%
-    vp_num_s_fold: 152
+    vp_i_fold: 6%
+    vp_r_fold: 4%
+    vp_num_s_fold: 154
     vp_num_i_fold: 11
     vp_num_r_fold: 6
   - name: ZF2001
@@ -1919,12 +1919,12 @@
     vp_num_i_fold: 216
     vp_num_r_fold: 38
   - name: mRNA-1273
-    vp_studies: 13
-    vp_num_fold: 241
-    vp_s_fold: 15%
-    vp_i_fold: 71%
+    vp_studies: 14
+    vp_num_fold: 245
+    vp_s_fold: 16%
+    vp_i_fold: 70%
     vp_r_fold: 14%
-    vp_num_s_fold: 35
+    vp_num_s_fold: 39
     vp_num_i_fold: 171
     vp_num_r_fold: 35
   - name: mRNA-bivalent + mRNA-monovalent
@@ -1937,12 +1937,12 @@
     vp_num_i_fold: 51
     vp_num_r_fold: 0
   - name: mRNA-monovalent
-    vp_studies: 9
-    vp_num_fold: 373
-    vp_s_fold: 83%
-    vp_i_fold: 9%
+    vp_studies: 8
+    vp_num_fold: 345
+    vp_s_fold: 82%
+    vp_i_fold: 10%
     vp_r_fold: 8%
-    vp_num_s_fold: 310
+    vp_num_s_fold: 282
     vp_num_i_fold: 33
     vp_num_r_fold: 30
 - variant: Iota

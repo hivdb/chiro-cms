@@ -23,6 +23,8 @@
     fold: '-'
   bam_ete:
     fold: '-'
+  AZD3152:
+    fold: '-'
   C135:
     fold: '-'
   C144:
@@ -68,6 +70,8 @@
     fold: '-'
   bam_ete:
     fold: '-'
+  AZD3152:
+    fold: '-'
   C135:
     fold: '-'
   C144:
@@ -112,6 +116,8 @@
   cil_tix:
     fold: '-'
   bam_ete:
+    fold: '-'
+  AZD3152:
     fold: '-'
   C135:
     fold: '-'
@@ -171,6 +177,8 @@
     fold_cmp: ''
     num: 1
   bam_ete:
+    fold: '-'
+  AZD3152:
     fold: '-'
   C135:
     fold: '-'
@@ -233,6 +241,8 @@
     num: 1
   bam_ete:
     fold: '-'
+  AZD3152:
+    fold: '-'
   C135:
     fold: '-'
   C144:
@@ -293,6 +303,8 @@
     fold_cmp: ''
     num: 1
   bam_ete:
+    fold: '-'
+  AZD3152:
     fold: '-'
   C135:
     fold: '-'
@@ -357,6 +369,8 @@
     num: 1
   bam_ete:
     fold: '-'
+  AZD3152:
+    fold: '-'
   C135:
     fold: '-'
   C144:
@@ -417,6 +431,8 @@
     fold_cmp: ''
     num: 1
   bam_ete:
+    fold: '-'
+  AZD3152:
     fold: '-'
   C135:
     fold: '-'
@@ -479,6 +495,8 @@
     num: 1
   bam_ete:
     fold: '-'
+  AZD3152:
+    fold: '-'
   C135:
     fold: '-'
   C144:
@@ -540,6 +558,8 @@
     num: 1
   bam_ete:
     fold: '-'
+  AZD3152:
+    fold: '-'
   C135:
     fold: '-'
   C144:
@@ -600,6 +620,8 @@
     fold_cmp: '>'
     num: 1
   bam_ete:
+    fold: '-'
+  AZD3152:
     fold: '-'
   C135:
     fold: '-'
