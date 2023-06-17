@@ -48,9 +48,9 @@
     fold_cmp: ''
     num: 9
   AZD3152:
-    fold: '0.6'
+    fold: '0.7'
     fold_cmp: ''
-    num: 1
+    num: 2
   C135:
     fold: '1.2'
     fold_cmp: ''
@@ -137,7 +137,9 @@
     fold_cmp: ''
     num: 12
   AZD3152:
-    fold: '-'
+    fold: '0.8'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '1'
     fold_cmp: ''
@@ -224,7 +226,9 @@
     fold_cmp: ''
     num: 4
   AZD3152:
-    fold: '-'
+    fold: '0.3'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '1.4'
     fold_cmp: ''
@@ -311,7 +315,7 @@
     fold_cmp: ''
     num: 9
   AZD3152:
-    fold: '0.3'
+    fold: '0.2'
     fold_cmp: ''
     num: 1
   C135:
@@ -400,9 +404,9 @@
     fold_cmp: ''
     num: 17
   AZD3152:
-    fold: '0.1'
+    fold: '0.3'
     fold_cmp: ''
-    num: 1
+    num: 2
   C135:
     fold: '1000'
     fold_cmp: '>'
@@ -491,9 +495,9 @@
     fold_cmp: ''
     num: 15
   AZD3152:
-    fold: '0.3'
+    fold: '0.6'
     fold_cmp: ''
-    num: 1
+    num: 2
   C135:
     fold: '1000'
     fold_cmp: '>'
@@ -580,9 +584,9 @@
     fold_cmp: ''
     num: 8
   AZD3152:
-    fold: '0.3'
+    fold: '0.4'
     fold_cmp: ''
-    num: 1
+    num: 2
   C135:
     fold: '1000'
     fold_cmp: '>'
@@ -669,7 +673,9 @@
     fold_cmp: ''
     num: 5
   AZD3152:
-    fold: '-'
+    fold: '1.9'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '1000'
     fold_cmp: '>'
@@ -756,7 +762,9 @@
     fold_cmp: '>'
     num: 1
   AZD3152:
-    fold: '-'
+    fold: '0.7'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '-'
   C144:
@@ -835,7 +843,9 @@
   bam_ete:
     fold: '-'
   AZD3152:
-    fold: '-'
+    fold: '0.3'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '1000'
     fold_cmp: '>'
@@ -922,7 +932,9 @@
     fold_cmp: '>'
     num: 1
   AZD3152:
-    fold: '-'
+    fold: '0.3'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '-'
   C144:
@@ -991,7 +1003,9 @@
   bam_ete:
     fold: '-'
   AZD3152:
-    fold: '-'
+    fold: '0.2'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '-'
   C144:
@@ -1129,7 +1143,7 @@
   AZD3152:
     fold: '0.2'
     fold_cmp: ''
-    num: 1
+    num: 2
   C135:
     fold: '1000'
     fold_cmp: '>'
@@ -1216,7 +1230,9 @@
     fold_cmp: '>'
     num: 1
   AZD3152:
-    fold: '-'
+    fold: '1.1'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '-'
   C144:
@@ -1289,7 +1305,9 @@
   bam_ete:
     fold: '-'
   AZD3152:
-    fold: '-'
+    fold: '0.9'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '-'
   C144:
@@ -1368,7 +1386,9 @@
     fold_cmp: '>'
     num: 1
   AZD3152:
-    fold: '-'
+    fold: '0.7'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '1000'
     fold_cmp: '>'
@@ -1447,7 +1467,9 @@
   bam_ete:
     fold: '-'
   AZD3152:
-    fold: '-'
+    fold: '0.3'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '-'
   C144:
