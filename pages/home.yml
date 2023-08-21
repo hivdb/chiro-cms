@@ -24,7 +24,7 @@ projectSections:
       image: home/edumat-sierra-sars2.png
     - title: SARS-CoV-2 variants
       description: SARS-CoV-2 variants and their associated mutations
-      link: /variants/
+      link: /variants/omicron_xbb/
       image: home/edumat-mutation-viewer.png
     - title: SARS-CoV-2 selection data
       description: in vivo & in vitro selection data

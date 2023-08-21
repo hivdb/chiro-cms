@@ -63,6 +63,10 @@ sections:
         varName: Omicron/EG.5
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=EG.5)
+      - title: FL.1.5.1
+        varName: Omicron/FL.1.5.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=FL.1.5.1)
       - title: XBB.1
         varName: Omicron/XBB.1
         source: >-
