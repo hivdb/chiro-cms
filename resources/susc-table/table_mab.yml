@@ -390,7 +390,7 @@
   beb:
     fold: '1'
     fold_cmp: ''
-    num: 27
+    num: 28
   cas_imd:
     fold: '1000'
     fold_cmp: '>'
@@ -420,7 +420,7 @@
   b_196:
     fold: '134'
     fold_cmp: ''
-    num: 16
+    num: 17
   b_198:
     fold: '0.9'
     fold_cmp: ''
@@ -442,9 +442,9 @@
     fold_cmp: ''
     num: 1
   DXP604:
-    fold: '18'
+    fold: '26'
     fold_cmp: ''
-    num: 4
+    num: 5
 - variant: Omicron/BA.2
   cas:
     fold: '1000'
@@ -481,7 +481,7 @@
   beb:
     fold: '1'
     fold_cmp: ''
-    num: 33
+    num: 34
   cas_imd:
     fold: '387'
     fold_cmp: ''
@@ -509,9 +509,9 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '156'
+    fold: '160'
     fold_cmp: ''
-    num: 14
+    num: 15
   b_198:
     fold: '7.3'
     fold_cmp: ''
@@ -533,7 +533,7 @@
   DXP604:
     fold: '20'
     fold_cmp: ''
-    num: 3
+    num: 4
 - variant: Omicron/BA.2.12.1
   cas:
     fold: '1000'
@@ -831,7 +831,7 @@
   beb:
     fold: '1000'
     fold_cmp: '>'
-    num: 4
+    num: 5
   cas_imd:
     fold: '200'
     fold_cmp: ''
@@ -857,9 +857,9 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '125'
+    fold: '188'
     fold_cmp: ''
-    num: 2
+    num: 3
   b_198:
     fold: '0.8'
     fold_cmp: ''
@@ -879,9 +879,9 @@
   Vir7832:
     fold: '-'
   DXP604:
-    fold: '91'
+    fold: '500'
     fold_cmp: ''
-    num: 1
+    num: 2
 - variant: Omicron/XBB.1
   cas:
     fold: '880'
@@ -989,9 +989,9 @@
   reg:
     fold: '-'
   beb:
-    fold: '475'
+    fold: '800'
     fold_cmp: ''
-    num: 4
+    num: 5
   cas_imd:
     fold: '751'
     fold_cmp: ''
@@ -1013,9 +1013,9 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '297'
+    fold: '243'
     fold_cmp: ''
-    num: 1
+    num: 2
   b_198:
     fold: '-'
   b_196_198:
@@ -1027,7 +1027,9 @@
   Vir7832:
     fold: '-'
   DXP604:
-    fold: '-'
+    fold: '909'
+    fold_cmp: ''
+    num: 1
 - variant: Omicron/XBB.1.16
   cas:
     fold: '420'
@@ -1125,9 +1127,9 @@
     fold_cmp: '>'
     num: 9
   beb:
-    fold: '1'
+    fold: '1.0'
     fold_cmp: ''
-    num: 29
+    num: 30
   cas_imd:
     fold: '387'
     fold_cmp: ''
@@ -1155,9 +1157,9 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '69'
+    fold: '79'
     fold_cmp: ''
-    num: 12
+    num: 13
   b_198:
     fold: '16'
     fold_cmp: ''
@@ -1179,7 +1181,7 @@
   DXP604:
     fold: '570'
     fold_cmp: ''
-    num: 3
+    num: 4
 - variant: Omicron/BA.4.6
   cas:
     fold: '589'
@@ -1372,7 +1374,7 @@
   beb:
     fold: '1000'
     fold_cmp: '>'
-    num: 7
+    num: 8
   cas_imd:
     fold: '1000'
     fold_cmp: '>'
@@ -1400,9 +1402,9 @@
   c_135_144:
     fold: '-'
   b_196:
-    fold: '177'
+    fold: '188'
     fold_cmp: ''
-    num: 4
+    num: 5
   b_198:
     fold: '30'
     fold_cmp: ''
@@ -1422,9 +1424,9 @@
   Vir7832:
     fold: '-'
   DXP604:
-    fold: '91'
+    fold: '500'
     fold_cmp: ''
-    num: 1
+    num: 2
 - variant: Omicron/BF.7
   cas:
     fold: '1000'

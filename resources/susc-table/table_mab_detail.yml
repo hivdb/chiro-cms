@@ -100,8 +100,8 @@
   origin: CP
 - mab: Bebtelovimab
   synonyms: LY-CoV1404;LY3853113
-  num_ref_name: 45
-  num_fold: 745
+  num_ref_name: 46
+  num_fold: 751
   avail: EUA
   target: RBD
   class: RBM Class II
@@ -140,8 +140,8 @@
   origin: CP
 - mab: Amubarvimab
   synonyms: BRII-196;P2C-1F11
-  num_ref_name: 29
-  num_fold: 462
+  num_ref_name: 30
+  num_fold: 468
   avail: CN-Approved
   target: RBD
   class: RBM Class I
@@ -160,8 +160,8 @@
   origin: ''
 - mab: DXP-604
   synonyms: BD-604
-  num_ref_name: 6
-  num_fold: 120
+  num_ref_name: 7
+  num_fold: 126
   avail: CN-Approved
   target: RBD
   class: RBM Class I

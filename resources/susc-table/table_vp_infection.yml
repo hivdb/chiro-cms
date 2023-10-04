@@ -8,11 +8,11 @@
   num_ref_name: 1
   num_fold: 36
 - infection: Delta
-  num_ref_name: 40
-  num_fold: 3177
+  num_ref_name: 41
+  num_fold: 3449
 - infection: Omicron/BA.1
-  num_ref_name: 56
-  num_fold: 9428
+  num_ref_name: 58
+  num_fold: 9908
 - infection: Omicron/BA.1.1
   num_ref_name: 1
   num_fold: 494
@@ -20,8 +20,8 @@
   num_ref_name: 6
   num_fold: 427
 - infection: Omicron/BA.2
-  num_ref_name: 22
-  num_fold: 7962
+  num_ref_name: 24
+  num_fold: 8105
 - infection: Omicron/BA.4
   num_ref_name: 1
   num_fold: 45
@@ -29,20 +29,29 @@
   num_ref_name: 3
   num_fold: 472
 - infection: Omicron/BA.5
-  num_ref_name: 17
-  num_fold: 3601
+  num_ref_name: 19
+  num_fold: 3669
+- infection: Omicron/BA.5/R346T
+  num_ref_name: 1
+  num_fold: 30
 - infection: Omicron/BF.7
   num_ref_name: 2
   num_fold: 420
+- infection: Omicron/XBB/F486P
+  num_ref_name: 1
+  num_fold: 108
 - infection: Omicron_BA.2_or_BA.5
   num_ref_name: 1
   num_fold: 261
+- infection: Omicron_BA.5_or_BF.7
+  num_ref_name: 2
+  num_fold: 1611
 - infection: SARS-CoV-1
   num_ref_name: 1
   num_fold: 224
 - infection: Unknown Omicron
-  num_ref_name: 2
-  num_fold: 360
+  num_ref_name: 3
+  num_fold: 374
 - infection: Unknown variant
   num_ref_name: 37
   num_fold: 9272
@@ -50,8 +59,8 @@
   num_ref_name: 58
   num_fold: 8006
 - infection: infected
-  num_ref_name: 165
-  num_fold: 44673
+  num_ref_name: 169
+  num_fold: 47399
 - infection: uninfected
-  num_ref_name: 368
-  num_fold: 103830
+  num_ref_name: 370
+  num_fold: 106670

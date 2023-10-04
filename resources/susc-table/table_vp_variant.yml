@@ -32,11 +32,11 @@
   R: 767
 - pattern: Omicron/BA.1
   var_name: Omicron/BA.1
-  median_fold: 5.5
-  num_ref_name: 171
-  num_fold: 24338
-  S: 11281
-  I: 10299
+  median_fold: 5.4
+  num_ref_name: 173
+  num_fold: 24930
+  S: 11643
+  I: 10529
   R: 2731
 - pattern: Omicron/BA.1.1
   var_name: Omicron/BA.1.1
@@ -72,11 +72,11 @@
   R: 0
 - pattern: Omicron/BA.2
   var_name: Omicron/BA.2
-  median_fold: 4.0
-  num_ref_name: 85
-  num_fold: 6711
-  S: 3991
-  I: 2446
+  median_fold: 3.8
+  num_ref_name: 87
+  num_fold: 6902
+  S: 4142
+  I: 2456
   R: 274
 - pattern: Omicron/BA.2.10.4
   var_name: Omicron/BA.2.10.4
@@ -152,19 +152,19 @@
   R: 0
 - pattern: Omicron/BA.2.75
   var_name: Omicron/BA.2.75
-  median_fold: 5.7
-  num_ref_name: 22
-  num_fold: 1562
-  S: 696
+  median_fold: 5.3
+  num_ref_name: 23
+  num_fold: 1674
+  S: 808
   I: 801
   R: 65
 - pattern: Omicron/BA.2.75.2
   var_name: Omicron/BA.2.75.2
   median_fold: 26.0
-  num_ref_name: 14
-  num_fold: 1105
+  num_ref_name: 15
+  num_fold: 1127
   S: 124
-  I: 414
+  I: 436
   R: 567
 - pattern: Omicron/BA.2.75.2/-D1199N
   var_name: Omicron/BA.2.75.2/-D1199N
@@ -382,6 +382,14 @@
   S: 99
   I: 90
   R: 0
+- pattern: Omicron/BA.2.86
+  var_name: Omicron/BA.2.86
+  median_fold: 2.7
+  num_ref_name: 1
+  num_fold: 121
+  S: 111
+  I: 0
+  R: 10
 - pattern: Omicron/BA.2/D339H
   var_name: Omicron/BA.2/D339H
   median_fold: 3.6
@@ -537,11 +545,11 @@
 - pattern: Omicron/BA.5
   var_name: Omicron/BA.5
   median_fold: 8.2
-  num_ref_name: 78
-  num_fold: 8770
-  S: 2268
-  I: 5909
-  R: 567
+  num_ref_name: 81
+  num_fold: 9382
+  S: 2674
+  I: 6021
+  R: 597
 - pattern: Omicron/BA.5.1.12
   var_name: Omicron/BA.5.1.12
   median_fold: 14.0
@@ -744,11 +752,11 @@
   R: 52
 - pattern: Omicron/BF.7
   var_name: Omicron/BF.7
-  median_fold: 13.0
-  num_ref_name: 8
-  num_fold: 741
-  S: 160
-  I: 517
+  median_fold: 11.0
+  num_ref_name: 9
+  num_fold: 883
+  S: 280
+  I: 539
   R: 64
 - pattern: Omicron/BJ.1
   var_name: Omicron/BJ.1
@@ -809,19 +817,19 @@
 - pattern: Omicron/BQ.1
   var_name: Omicron/BQ.1
   median_fold: 19.0
-  num_ref_name: 4
-  num_fold: 450
+  num_ref_name: 5
+  num_fold: 472
   S: 81
-  I: 225
+  I: 247
   R: 144
 - pattern: Omicron/BQ.1.1
   var_name: Omicron/BQ.1.1
-  median_fold: 24.0
-  num_ref_name: 23
-  num_fold: 2032
-  S: 192
-  I: 885
-  R: 955
+  median_fold: 20.0
+  num_ref_name: 26
+  num_fold: 2894
+  S: 522
+  I: 1125
+  R: 1187
 - pattern: Omicron/BQ.1.1.10
   var_name: Omicron/BQ.1.1.10
   median_fold: 44.0
@@ -830,6 +838,14 @@
   S: 0
   I: 0
   R: 189
+- pattern: Omicron/BQ.1.18
+  var_name: Omicron/BQ.1.18
+  median_fold: 14.0
+  num_ref_name: 1
+  num_fold: 480
+  S: 190
+  I: 100
+  R: 160
 - pattern: Omicron/BR.1
   var_name: Omicron/BR.1
   median_fold: 18.0
@@ -896,12 +912,36 @@
   R: 29
 - pattern: Omicron/CH.1.1
   var_name: Omicron/CH.1.1
-  median_fold: 57.0
-  num_ref_name: 3
-  num_fold: 275
-  S: 0
+  median_fold: 46.0
+  num_ref_name: 4
+  num_fold: 365
+  S: 90
   I: 3
   R: 272
+- pattern: Omicron/EG.5
+  var_name: Omicron/EG.5
+  median_fold: 1.9
+  num_ref_name: 1
+  num_fold: 81
+  S: 81
+  I: 0
+  R: 0
+- pattern: Omicron/EG.5.1
+  var_name: Omicron/EG.5.1
+  median_fold: 0.2
+  num_ref_name: 1
+  num_fold: 40
+  S: 20
+  I: 0
+  R: 10
+- pattern: Omicron/FL.1.5.1
+  var_name: Omicron/FL.1.5.1
+  median_fold: 2.0
+  num_ref_name: 1
+  num_fold: 81
+  S: 81
+  I: 0
+  R: 0
 - pattern: Omicron/XAF
   var_name: Omicron/XAF
   median_fold: 2.8
@@ -912,12 +952,12 @@
   R: 4
 - pattern: Omicron/XBB
   var_name: Omicron/XBB
-  median_fold: 54.0
-  num_ref_name: 5
-  num_fold: 412
-  S: 11
-  I: 56
-  R: 345
+  median_fold: 30.0
+  num_ref_name: 7
+  num_fold: 954
+  S: 165
+  I: 224
+  R: 535
 - pattern: Omicron/XBB.1
   var_name: Omicron/XBB.1
   median_fold: 46.0
@@ -928,20 +968,28 @@
   R: 1126
 - pattern: Omicron/XBB.1.16
   var_name: Omicron/XBB.1.16
-  median_fold: 20.0
-  num_ref_name: 1
-  num_fold: 28
-  S: 1
-  I: 14
-  R: 13
+  median_fold: 3.9
+  num_ref_name: 3
+  num_fold: 158
+  S: 85
+  I: 40
+  R: 23
 - pattern: Omicron/XBB.1.5
   var_name: Omicron/XBB.1.5
-  median_fold: 40.0
-  num_ref_name: 10
-  num_fold: 695
-  S: 37
-  I: 168
-  R: 490
+  median_fold: 38.0
+  num_ref_name: 13
+  num_fold: 1145
+  S: 188
+  I: 262
+  R: 685
+- pattern: Omicron/XBB.1.5.10
+  var_name: Omicron/XBB.1.5.10
+  median_fold: 4.4
+  num_ref_name: 1
+  num_fold: 90
+  S: 45
+  I: 45
+  R: 0
 - pattern: Omicron/XBB.1.5/-144del
   var_name: Omicron/XBB.1.5/-144del
   median_fold: 11.0
@@ -958,6 +1006,78 @@
   S: 2
   I: 10
   R: 16
+- pattern: Omicron/XBB.1.5/F456L
+  var_name: Omicron/XBB.1.5/F456L
+  median_fold: 0.2
+  num_ref_name: 1
+  num_fold: 40
+  S: 20
+  I: 0
+  R: 10
+- pattern: Omicron/XBB.1.5/K478R/F456L/H505Y
+  var_name: Omicron/XBB.1.5/K478R/F456L/H505Y
+  median_fold: 8.3
+  num_ref_name: 1
+  num_fold: 45
+  S: 0
+  I: 45
+  R: 0
+- pattern: Omicron/XBB.1.5/K478R/F456L/H505Y/R403K
+  var_name: Omicron/XBB.1.5/K478R/F456L/H505Y/R403K
+  median_fold: 8.4
+  num_ref_name: 1
+  num_fold: 45
+  S: 0
+  I: 45
+  R: 0
+- pattern: Omicron/XBB.1.5/K478R/F456L/H505Y/R403K/K444T
+  var_name: Omicron/XBB.1.5/K478R/F456L/H505Y/R403K/K444T
+  median_fold: 14.0
+  num_ref_name: 1
+  num_fold: 45
+  S: 0
+  I: 45
+  R: 0
+- pattern: Omicron/XBB.1.5/K478R/F456L/H505Y/R403K/K444T/K440N
+  var_name: Omicron/XBB.1.5/K478R/F456L/H505Y/R403K/K444T/K440N
+  median_fold: 22.0
+  num_ref_name: 1
+  num_fold: 45
+  S: 0
+  I: 45
+  R: 0
+- pattern: Omicron/XBB.1.5/K478R/F456L/H505Y/R403K/K444T/K440N/A484P
+  var_name: Omicron/XBB.1.5/K478R/F456L/H505Y/R403K/K444T/K440N/A484P
+  median_fold: 28.0
+  num_ref_name: 1
+  num_fold: 45
+  S: 0
+  I: 19
+  R: 26
+- pattern: Omicron/XBB.1.5/K478R/F456L/H505Y/R403K/K444T/K440N/A484P/Y453F
+  var_name: Omicron/XBB.1.5/K478R/F456L/H505Y/R403K/K444T/K440N/A484P/Y453F
+  median_fold: 28.0
+  num_ref_name: 1
+  num_fold: 45
+  S: 0
+  I: 19
+  R: 26
+- pattern: Omicron/XBB.1.5/K478R/F456L/H505Y/R403K/K444T/K440N/A484P/Y453F/N405K
+  var_name: Omicron/XBB.1.5/K478R/F456L/H505Y/R403K/K444T/K440N/A484P/Y453F/N405K
+  median_fold: 32.0
+  num_ref_name: 1
+  num_fold: 45
+  S: 0
+  I: 0
+  R: 45
+- pattern: Omicron/XBB.1.5/L455F/F456L
+  var_name: Omicron/XBB.1.5/L455F/F456L
+  median_fold: 2.5
+  num_ref_name: 1
+  num_fold: 121
+  S: 101
+  I: 0
+  R: 10
 - pattern: Omicron/XBB.1.5/T478R
   var_name: Omicron/XBB.1.5/T478R
   median_fold: 25.0
@@ -1016,12 +1136,12 @@
   R: 65
 - pattern: other variants
   var_name: other variants
-  median_fold: 2.5
-  num_ref_name: 80
-  num_fold: 7211
-  S: 5073
-  I: 1603
-  R: 529
+  median_fold: 2.9
+  num_ref_name: 82
+  num_fold: 7641
+  S: 5133
+  I: 1633
+  R: 869
 - pattern: Individual mutations and mutation combinations
   var_name: Individual mutations and mutation combinations
   median_fold: ''
