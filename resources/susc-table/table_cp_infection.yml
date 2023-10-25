@@ -46,6 +46,9 @@
 - variant: Omicron/XBB.1
   num_ref_name: 1
   num_fold: 42
+- variant: Omicron_BA.5_or_BF.7
+  num_ref_name: 1
+  num_fold: 372
 - variant: Unknown variant
   num_ref_name: 28
   num_fold: 3909

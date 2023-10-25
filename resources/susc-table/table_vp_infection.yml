@@ -46,6 +46,9 @@
 - infection: Omicron_BA.5_or_BF.7
   num_ref_name: 2
   num_fold: 1611
+- infection: Omicron_XBB.1.5_or_XBB.1.9_or_XBB.1.16
+  num_ref_name: 1
+  num_fold: 45
 - infection: SARS-CoV-1
   num_ref_name: 1
   num_fold: 224
@@ -59,8 +62,8 @@
   num_ref_name: 58
   num_fold: 8006
 - infection: infected
-  num_ref_name: 169
-  num_fold: 47399
+  num_ref_name: 170
+  num_fold: 47444
 - infection: uninfected
-  num_ref_name: 370
-  num_fold: 106670
+  num_ref_name: 371
+  num_fold: 106862

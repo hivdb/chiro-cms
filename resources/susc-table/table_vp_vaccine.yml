@@ -18,7 +18,7 @@
   I: 346
   R: 36
   median_fold: 3.0
-  percent: 0.83
+  percent: 0.82
   priority: 1
 - vaccine: BNT162b2
   dosage: 2.0
@@ -29,7 +29,7 @@
   I: 5148
   R: 1861
   median_fold: 2.9
-  percent: 15.0
+  percent: 14.0
   priority: 1
 - vaccine: BNT162b2
   dosage: 2.0
@@ -45,11 +45,11 @@
 - vaccine: BNT162b2
   dosage: 3.0
   infection: ''
-  num_ref_name: 86
-  num_fold: 8025
-  S: 4191
+  num_ref_name: 87
+  num_fold: 8070
+  S: 4206
   I: 3064
-  R: 770
+  R: 800
   median_fold: 4.5
   percent: 5.2
   priority: 1
@@ -67,13 +67,13 @@
 - vaccine: BNT162b2
   dosage: 4.0
   infection: ''
-  num_ref_name: 7
-  num_fold: 499
-  S: 50
+  num_ref_name: 8
+  num_fold: 544
+  S: 65
   I: 215
-  R: 234
+  R: 264
   median_fold: 23.0
-  percent: 0.32
+  percent: 0.35
   priority: 1
 - vaccine: BNT162b2
   dosage: 4.0
@@ -161,7 +161,7 @@
   I: 269
   R: 3
   median_fold: 12.0
-  percent: 0.35
+  percent: 0.34
   priority: 2
 - vaccine: mRNA-1273
   dosage: 4.0
@@ -370,7 +370,7 @@
   I: 6099
   R: 3996
   median_fold: 13.0
-  percent: 9.2
+  percent: 9.1
   priority: 8
 - vaccine: NVX-CoV2373
   dosage: 2.0
@@ -469,7 +469,7 @@
   I: 57
   R: 48
   median_fold: 16.0
-  percent: 0.092
+  percent: 0.091
   priority: 39
 - vaccine: mRNA-monovalent
   dosage: 2.0
@@ -502,7 +502,7 @@
   I: 583
   R: 474
   median_fold: 14.0
-  percent: 0.9
+  percent: 0.89
   priority: 47
 - vaccine: mRNA-monovalent
   dosage: 3.0
@@ -546,7 +546,7 @@
   I: 68
   R: 16
   median_fold: 6.9
-  percent: 0.09
+  percent: 0.089
   priority: 48
 - vaccine: mRNA-bivalent + mRNA-monovalent
   dosage: 3.0
@@ -612,7 +612,7 @@
   I: 76
   R: 0
   median_fold: 9.5
-  percent: 0.068
+  percent: 0.067
   priority: 54
 - vaccine: KCONVAC
   dosage: 3.0
@@ -678,7 +678,7 @@
   I: 135
   R: 0
   median_fold: 5.4
-  percent: 0.18
+  percent: 0.17
   priority: 65
 - vaccine: AZD1222 + BNT162b2
   dosage: 2.0

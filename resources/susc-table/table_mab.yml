@@ -455,9 +455,9 @@
     fold_cmp: ''
     num: 24
   tix:
-    fold: '928'
+    fold: '894'
     fold_cmp: ''
-    num: 38
+    num: 39
   bam:
     fold: '1000'
     fold_cmp: '>'
@@ -465,15 +465,15 @@
   cil:
     fold: '1.8'
     fold_cmp: ''
-    num: 39
+    num: 41
   imd:
     fold: '219'
     fold_cmp: ''
     num: 33
   sot:
-    fold: '21'
+    fold: '20'
     fold_cmp: ''
-    num: 52
+    num: 53
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -481,7 +481,7 @@
   beb:
     fold: '1'
     fold_cmp: ''
-    num: 34
+    num: 36
   cas_imd:
     fold: '387'
     fold_cmp: ''
@@ -489,7 +489,7 @@
   cil_tix:
     fold: '8'
     fold_cmp: ''
-    num: 35
+    num: 36
   bam_ete:
     fold: '744'
     fold_cmp: ''
@@ -641,9 +641,9 @@
     fold_cmp: '>'
     num: 9
   cil:
-    fold: '14'
+    fold: '13'
     fold_cmp: ''
-    num: 15
+    num: 16
   imd:
     fold: '1000'
     fold_cmp: '>'
@@ -659,7 +659,7 @@
   beb:
     fold: '3.1'
     fold_cmp: ''
-    num: 15
+    num: 16
   cas_imd:
     fold: '1000'
     fold_cmp: '>'
@@ -902,7 +902,7 @@
   cil:
     fold: '1000'
     fold_cmp: '>'
-    num: 6
+    num: 7
   imd:
     fold: '1000'
     fold_cmp: '>'
@@ -916,9 +916,9 @@
     fold_cmp: '>'
     num: 1
   beb:
-    fold: '900'
-    fold_cmp: ''
-    num: 6
+    fold: '1000'
+    fold_cmp: '>'
+    num: 7
   cas_imd:
     fold: '887'
     fold_cmp: ''
@@ -1113,7 +1113,7 @@
   cil:
     fold: '8.1'
     fold_cmp: ''
-    num: 33
+    num: 34
   imd:
     fold: '143'
     fold_cmp: ''
@@ -1127,9 +1127,9 @@
     fold_cmp: '>'
     num: 9
   beb:
-    fold: '1.0'
+    fold: '0.9'
     fold_cmp: ''
-    num: 30
+    num: 31
   cas_imd:
     fold: '387'
     fold_cmp: ''
@@ -1358,7 +1358,7 @@
   cil:
     fold: '1000'
     fold_cmp: '>'
-    num: 7
+    num: 8
   imd:
     fold: '1000'
     fold_cmp: '>'
@@ -1374,7 +1374,7 @@
   beb:
     fold: '1000'
     fold_cmp: '>'
-    num: 8
+    num: 9
   cas_imd:
     fold: '1000'
     fold_cmp: '>'
@@ -1516,7 +1516,7 @@
   cil:
     fold: '1000'
     fold_cmp: '>'
-    num: 2
+    num: 3
   imd:
     fold: '1000'
     fold_cmp: '>'
@@ -1530,7 +1530,7 @@
   beb:
     fold: '1000'
     fold_cmp: '>'
-    num: 2
+    num: 3
   cas_imd:
     fold: '1000'
     fold_cmp: '>'

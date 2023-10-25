@@ -1,7 +1,7 @@
 - test: WT
   BNT162b2_1:
-    geomean: 2321.0
-    num_ref_name: 72
+    geomean: 2318.0
+    num_ref_name: 73
   BNT162b2_2:
     geomean: 887.0
     num_ref_name: 15
@@ -511,8 +511,8 @@
     num_ref_name: 0
 - test: BA.2
   BNT162b2_1:
-    geomean: 315.0
-    num_ref_name: 29
+    geomean: 317.0
+    num_ref_name: 30
   BNT162b2_2:
     geomean: 124.0
     num_ref_name: 7
