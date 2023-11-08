@@ -495,9 +495,9 @@
     fold_cmp: ''
     num: 15
   AZD3152:
-    fold: '0.6'
+    fold: '0.8'
     fold_cmp: ''
-    num: 2
+    num: 3
   C135:
     fold: '1000'
     fold_cmp: '>'
@@ -1003,9 +1003,9 @@
   bam_ete:
     fold: '-'
   AZD3152:
-    fold: '0.2'
+    fold: '0.5'
     fold_cmp: ''
-    num: 1
+    num: 2
   C135:
     fold: '-'
   C144:
@@ -1072,7 +1072,9 @@
   bam_ete:
     fold: '-'
   AZD3152:
-    fold: '-'
+    fold: '0.1'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '-'
   C144:
@@ -1143,9 +1145,9 @@
     fold_cmp: ''
     num: 11
   AZD3152:
-    fold: '0.2'
+    fold: '0.3'
     fold_cmp: ''
-    num: 2
+    num: 3
   C135:
     fold: '1000'
     fold_cmp: '>'

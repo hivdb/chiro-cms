@@ -1892,22 +1892,22 @@
     vp_num_i_fold: 30
     vp_num_r_fold: 18
   - name: BNT162b2
-    vp_studies: 45
-    vp_num_fold: 1872
-    vp_s_fold: 46%
-    vp_i_fold: 46%
+    vp_studies: 46
+    vp_num_fold: 1902
+    vp_s_fold: 47%
+    vp_i_fold: 45%
     vp_r_fold: 8%
-    vp_num_s_fold: 862
+    vp_num_s_fold: 892
     vp_num_i_fold: 857
     vp_num_r_fold: 153
   - name: BNT162b2 + BNT162b2_BA.1_bivalent
-    vp_studies: 1
-    vp_num_fold: 32
-    vp_s_fold: 44%
-    vp_i_fold: 47%
-    vp_r_fold: 9%
-    vp_num_s_fold: 14
-    vp_num_i_fold: 15
+    vp_studies: 2
+    vp_num_fold: 66
+    vp_s_fold: 41%
+    vp_i_fold: 55%
+    vp_r_fold: 4%
+    vp_num_s_fold: 27
+    vp_num_i_fold: 36
     vp_num_r_fold: 3
   - name: BNT162b2 + BNT162b2_BA.4/5_bivalent
     vp_studies: 2
@@ -1961,6 +1961,15 @@
     vp_i_fold: 0
     vp_r_fold: 0
     vp_num_s_fold: 1
+    vp_num_i_fold: 0
+    vp_num_r_fold: 0
+  - name: BNT162b2 or mRNA-1273
+    vp_studies: 1
+    vp_num_fold: 15
+    vp_s_fold: 100%
+    vp_i_fold: 0
+    vp_r_fold: 0
+    vp_num_s_fold: 15
     vp_num_i_fold: 0
     vp_num_r_fold: 0
   - name: BNT162b2_BA.4/5_bivalent

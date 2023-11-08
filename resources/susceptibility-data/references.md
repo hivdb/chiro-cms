@@ -187,6 +187,7 @@
 1. **Focosi22**: [^Focosi22#inline]
 1. **Franchini22**: [^Franchini22#inline]
 1. **Francica23**: [^Francica23#inline]
+1. **Francica23b**: [^Francica23b#inline]
 1. **Francino-Urdaniz21**: [^Francino-Urdaniz21#inline]
 1. **Furukawa22**: [^Furukawa22#inline]
 1. **Gaebler22**: [^Gaebler22#inline]

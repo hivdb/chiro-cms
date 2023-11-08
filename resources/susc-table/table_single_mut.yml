@@ -352,14 +352,14 @@
 - pattern: other
   position: 10000
   domain: RBD
-  num_ref_name: 61
+  num_ref_name: 62
   cp: 2052
   vp: 1880
-  mAbs phase3: 850
+  mAbs phase3: 851
   mAbs structure: 533
   other mAbs: 1348
-  all mAbs: 2731
-  num_exp: 6663
+  all mAbs: 2732
+  num_exp: 6664
 - pattern: L18F
   ref: L
   position: 18
