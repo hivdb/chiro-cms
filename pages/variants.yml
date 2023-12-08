@@ -59,6 +59,14 @@ sections:
         varName: Omicron/XBB
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=XBB)
+      - title: HV.1
+        varName: HV.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=HV.1)
+      - title: JN.1
+        varName: JN.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=JN.1)
       - title: EG.5
         varName: Omicron/EG.5
         source: >-
