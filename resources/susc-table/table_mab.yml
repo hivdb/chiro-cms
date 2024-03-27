@@ -345,7 +345,7 @@
   adi:
     fold: '1.5'
     fold_cmp: ''
-    num: 8
+    num: 9
   Vir7832:
     fold: '0.5'
     fold_cmp: ''
@@ -382,7 +382,7 @@
   sot:
     fold: '3.8'
     fold_cmp: ''
-    num: 64
+    num: 65
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -434,9 +434,9 @@
     fold_cmp: ''
     num: 1
   adi:
-    fold: '108'
+    fold: '106'
     fold_cmp: ''
-    num: 20
+    num: 21
   Vir7832:
     fold: '3.1'
     fold_cmp: ''
@@ -473,7 +473,7 @@
   sot:
     fold: '20'
     fold_cmp: ''
-    num: 54
+    num: 55
   reg:
     fold: '1000'
     fold_cmp: '>'
@@ -525,9 +525,9 @@
     fold_cmp: ''
     num: 2
   adi:
-    fold: '1000'
-    fold_cmp: '>'
-    num: 15
+    fold: '955'
+    fold_cmp: ''
+    num: 16
   Vir7832:
     fold: '-'
   DXP604:
@@ -983,9 +983,9 @@
     fold_cmp: ''
     num: 2
   sot:
-    fold: '15'
+    fold: '11'
     fold_cmp: ''
-    num: 6
+    num: 7
   reg:
     fold: '-'
   beb:
@@ -1023,7 +1023,9 @@
   JMB2002:
     fold: '-'
   adi:
-    fold: '-'
+    fold: '12'
+    fold_cmp: ''
+    num: 1
   Vir7832:
     fold: '-'
   DXP604:
@@ -1090,7 +1092,9 @@
   JMB2002:
     fold: '-'
   adi:
-    fold: '-'
+    fold: '4.9'
+    fold_cmp: ''
+    num: 1
   Vir7832:
     fold: '-'
   DXP604:
@@ -1121,7 +1125,7 @@
     fold_cmp: ''
     num: 26
   sot:
-    fold: '22'
+    fold: '21'
     fold_cmp: ''
     num: 40
   reg:
