@@ -47,7 +47,9 @@
     fold: '1.3'
     fold_cmp: ''
     num: 9
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '0.7'
     fold_cmp: ''
     num: 2
@@ -136,7 +138,9 @@
     fold: '990'
     fold_cmp: ''
     num: 12
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '0.8'
     fold_cmp: ''
     num: 1
@@ -225,7 +229,9 @@
     fold: '404'
     fold_cmp: ''
     num: 4
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '0.3'
     fold_cmp: ''
     num: 1
@@ -314,7 +320,11 @@
     fold: '1'
     fold_cmp: ''
     num: 9
-  AZD3152:
+  Pemgarda:
+    fold: '0.5'
+    fold_cmp: ''
+    num: 1
+  Sipavibart:
     fold: '0.2'
     fold_cmp: ''
     num: 1
@@ -345,7 +355,7 @@
   adi:
     fold: '1.5'
     fold_cmp: ''
-    num: 9
+    num: 8
   Vir7832:
     fold: '0.5'
     fold_cmp: ''
@@ -403,7 +413,11 @@
     fold: '980'
     fold_cmp: ''
     num: 17
-  AZD3152:
+  Pemgarda:
+    fold: '0.6'
+    fold_cmp: ''
+    num: 1
+  Sipavibart:
     fold: '0.3'
     fold_cmp: ''
     num: 2
@@ -434,9 +448,9 @@
     fold_cmp: ''
     num: 1
   adi:
-    fold: '106'
+    fold: '108'
     fold_cmp: ''
-    num: 21
+    num: 20
   Vir7832:
     fold: '3.1'
     fold_cmp: ''
@@ -494,7 +508,11 @@
     fold: '744'
     fold_cmp: ''
     num: 15
-  AZD3152:
+  Pemgarda:
+    fold: '0.2'
+    fold_cmp: ''
+    num: 1
+  Sipavibart:
     fold: '0.8'
     fold_cmp: ''
     num: 3
@@ -525,9 +543,9 @@
     fold_cmp: ''
     num: 2
   adi:
-    fold: '955'
-    fold_cmp: ''
-    num: 16
+    fold: '1000'
+    fold_cmp: '>'
+    num: 15
   Vir7832:
     fold: '-'
   DXP604:
@@ -583,7 +601,9 @@
     fold: '794'
     fold_cmp: ''
     num: 8
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '0.4'
     fold_cmp: ''
     num: 2
@@ -672,7 +692,9 @@
     fold: '554'
     fold_cmp: ''
     num: 5
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '1.9'
     fold_cmp: ''
     num: 1
@@ -761,7 +783,9 @@
     fold: '1000'
     fold_cmp: '>'
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '0.7'
     fold_cmp: ''
     num: 1
@@ -842,7 +866,9 @@
     num: 2
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '0.3'
     fold_cmp: ''
     num: 1
@@ -931,7 +957,9 @@
     fold: '1000'
     fold_cmp: '>'
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '0.3'
     fold_cmp: ''
     num: 1
@@ -1002,7 +1030,11 @@
     num: 3
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '12'
+    fold_cmp: ''
+    num: 1
+  Sipavibart:
     fold: '0.5'
     fold_cmp: ''
     num: 2
@@ -1023,9 +1055,7 @@
   JMB2002:
     fold: '-'
   adi:
-    fold: '12'
-    fold_cmp: ''
-    num: 1
+    fold: '-'
   Vir7832:
     fold: '-'
   DXP604:
@@ -1073,7 +1103,11 @@
     num: 1
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '4.9'
+    fold_cmp: ''
+    num: 1
+  Sipavibart:
     fold: '0.1'
     fold_cmp: ''
     num: 1
@@ -1092,9 +1126,7 @@
   JMB2002:
     fold: '-'
   adi:
-    fold: '4.9'
-    fold_cmp: ''
-    num: 1
+    fold: '-'
   Vir7832:
     fold: '-'
   DXP604:
@@ -1148,7 +1180,9 @@
     fold: '588'
     fold_cmp: ''
     num: 11
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '0.3'
     fold_cmp: ''
     num: 3
@@ -1237,7 +1271,9 @@
     fold: '1000'
     fold_cmp: '>'
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '1.1'
     fold_cmp: ''
     num: 1
@@ -1312,7 +1348,9 @@
     num: 3
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '0.9'
     fold_cmp: ''
     num: 1
@@ -1393,7 +1431,9 @@
     fold: '1000'
     fold_cmp: '>'
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '0.7'
     fold_cmp: ''
     num: 1
@@ -1474,7 +1514,9 @@
     num: 3
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '0.3'
     fold_cmp: ''
     num: 1
@@ -1547,7 +1589,9 @@
     num: 2
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -1628,7 +1672,9 @@
     fold: '11'
     fold_cmp: ''
     num: 5
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -1703,7 +1749,9 @@
     fold: '8'
     fold_cmp: ''
     num: 4
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -1778,7 +1826,9 @@
     fold: '6'
     fold_cmp: ''
     num: 3
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -1851,7 +1901,9 @@
     num: 2
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -1928,7 +1980,9 @@
     fold: '40'
     fold_cmp: ''
     num: 4
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -2005,7 +2059,9 @@
     fold: '1.9'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -2080,7 +2136,9 @@
     fold: '1.3'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -2137,7 +2195,9 @@
     fold: '-'
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -2186,7 +2246,9 @@
     fold: '-'
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -2257,7 +2319,9 @@
     fold: '0.6'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -2334,7 +2398,9 @@
     fold: '0.7'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -2411,7 +2477,9 @@
     fold: '1.4'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -2488,7 +2556,9 @@
     fold: '1.7'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '0.3'
@@ -2565,7 +2635,9 @@
     fold: '-'
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '239'
@@ -2646,7 +2718,9 @@
     fold: '1.7'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '647'
@@ -2707,7 +2781,9 @@
     fold: '-'
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -2756,7 +2832,9 @@
     fold: '-'
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '1.1'
@@ -2815,7 +2893,9 @@
     fold: '-'
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '44'
@@ -2878,7 +2958,9 @@
     fold: '-'
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -2949,7 +3031,9 @@
     fold: '1.4'
     fold_cmp: ''
     num: 2
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '3.5'
@@ -3032,7 +3116,9 @@
     fold: '1'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -3109,7 +3195,9 @@
     fold: '2.6'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -3188,7 +3276,9 @@
     fold: '4.3'
     fold_cmp: ''
     num: 2
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -3259,7 +3349,9 @@
     fold: '-'
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -3336,7 +3428,9 @@
     fold: '1.7'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -3415,7 +3509,9 @@
     fold: '1.5'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -3496,7 +3592,9 @@
     fold: '48'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '1.8'
@@ -3577,7 +3675,9 @@
     fold: '24'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '0.4'
@@ -3636,7 +3736,9 @@
     fold: '-'
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -3689,7 +3791,9 @@
     fold: '-'
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -3758,7 +3862,9 @@
     fold: '140'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -3813,7 +3919,9 @@
     fold: '-'
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '-'
@@ -3876,7 +3984,9 @@
     fold: '-'
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '1.2'
@@ -3955,7 +4065,9 @@
     fold: '100'
     fold_cmp: ''
     num: 1
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '1.0'
@@ -4028,7 +4140,9 @@
     fold: '-'
   bam_ete:
     fold: '-'
-  AZD3152:
+  Pemgarda:
+    fold: '-'
+  Sipavibart:
     fold: '-'
   C135:
     fold: '0.8'

@@ -167,16 +167,16 @@ tables:
     columnDefs:
     - name: variant
       label: "Test&#10189;mAb"
-    - name: bam
-      label: "BAM"
+    - name: Sipavibart
+      label: Sipavibart
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
-    - name: ete
-      label: "ETE"
+    - name: Pemgarda
+      label: Pemgarda
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
-    - name: bam_ete
-      label: "BAM/ETE"
+    - name: adi
+      label: ADI
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: cas
@@ -211,10 +211,6 @@ tables:
       label: 'BEB'
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
-    - name: adi
-      label: ADI
-      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
-      exportRaw: True
     data:
       _resource: susc-table/table_mab.yml
   table_mab_non_eua:
@@ -222,8 +218,16 @@ tables:
     columnDefs:
     - name: variant
       label: "Test&#10189;mAb"
-    - name: AZD3152
-      label: AZD3152
+    - name: bam
+      label: "BAM"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: ete
+      label: "ETE"
+      renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
+      exportRaw: True
+    - name: bam_ete
+      label: "BAM/ETE"
       renderTpl: "<span style=\"padding: 0.1rem 0.2rem;margin: 0px 0.2rem; ${cellData.fold >= 25 ? 'background-color:#146aa8;color:white' : (cellData.fold >= 5 ? 'background-color:#7fcbee': '')} \"> ${cellData.fold_cmp}${cellData.fold}<sub>${cellData.num > 0? cellData.num : ''}</sub></span>"
       exportRaw: True
     - name: reg
