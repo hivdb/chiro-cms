@@ -1667,7 +1667,9 @@
   Pemgarda:
     fold: '-'
   Sipavibart:
-    fold: '-'
+    fold: '0.4'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '-'
   C144:
@@ -1779,7 +1781,9 @@
     fold_cmp: ''
     num: 1
   Sipavibart:
-    fold: '-'
+    fold: '6.2'
+    fold_cmp: ''
+    num: 1
   C135:
     fold: '-'
   C144:

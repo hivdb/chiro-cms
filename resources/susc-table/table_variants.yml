@@ -577,14 +577,14 @@
 - pattern: G339H+R346T+K356T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+G446S+N460K+S477N+T478K+E484A+F490S+Q498R+N501Y+Y505H
   pattern_length: 20
   var_name: Omicron/BN.1
-  num_ref_name: 4
+  num_ref_name: 5
   cp: 0
   vp: 389
-  mAbs phase3: 45
+  mAbs phase3: 46
   mAbs structure: 12
   other mAbs: 52
-  all mAbs: 109
-  num_exp: 498
+  all mAbs: 110
+  num_exp: 499
   var_type: Omicron
 - pattern: G339H+K356T+S371F+S373P+S375F+T376A+D405N+R408S+K417N+N440K+G446S+N460K+S477N+T478K+E484A+F490S+Q498R+N501Y+Y505H
   pattern_length: 19
@@ -1489,14 +1489,14 @@
 - pattern: I332V+G339H+K356T+S371F+S373P+S375F+T376A+R403K+D405N+R408S+K417N+N440K+V445H+G446S+N450D+L452W+L455S+N460K+S477N+T478K+N481K+V483∆+E484K+F486P+Q498R+N501Y+Y505H
   pattern_length: 27
   var_name: JN.1
-  num_ref_name: 1
+  num_ref_name: 2
   cp: 0
   vp: 0
-  mAbs phase3: 1
+  mAbs phase3: 2
   mAbs structure: 0
   other mAbs: 0
-  all mAbs: 1
-  num_exp: 1
+  all mAbs: 2
+  num_exp: 2
   var_type: Other variants containing >=1 RBD mutation
 - pattern: E484K
   pattern_length: 1
