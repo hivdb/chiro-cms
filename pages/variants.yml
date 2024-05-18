@@ -59,10 +59,10 @@ sections:
         varName: Omicron/XBB
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=XBB)
-      - title: HV.1
-        varName: HV.1
+      - title: KP.2
+        varName: KP.2
         source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=HV.1)
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=KP.2)
       - title: JN.1
         varName: JN.1
         source: >-
@@ -71,6 +71,10 @@ sections:
         varName: Omicron/EG.5
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=EG.5)
+      - title: HV.1
+        varName: HV.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=HV.1)
       - title: FL.1.5.1
         varName: Omicron/FL.1.5.1
         source: >-
