@@ -284,237 +284,237 @@ sections:
     name: external-resources
     contentAfter:
       _resource: variants-external-resources.md
-  - title: Alpha
-    name: alpha
-    contentBefore:
-      _resource: variant-description.yml
-      _resource_key: variant-desc_Alpha
-    attrlist:
-      _resource: variant-description.yml
-      _resource_key: variant-attrlist_Alpha
-    autoGenomeMaps:
-      - title: B.1.1.7
-        varName: _Alpha/B.1.1.7
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.7)
-      - title: Q.1
-        varName: _Alpha/Q.1
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=Q.1)
-      - title: Q.2
-        varName: _Alpha/Q.2
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=Q.2)
-      - title: Q.3
-        varName: _Alpha/Q.3
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=Q.3)
-      - title: Q.4
-        varName: _Alpha/Q.4
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=Q.4)
-  - title: Beta
-    name: beta
-    contentBefore:
-      _resource: variant-description.yml
-      _resource_key: variant-desc_Beta
-    attrlist:
-      _resource: variant-description.yml
-      _resource_key: variant-attrlist_Beta
-    autoGenomeMaps:
-      - title: B.1.351
-        varName: _Beta/B.1.351
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.351)
-      - title: B.1.351.2
-        varName: _Beta/B.1.351.2
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.351.2)
-      - title: B.1.351.3
-        varName: _Beta/B.1.351.3
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.351.3)
-  - title: Gamma
-    name: gamma
-    contentBefore:
-      _resource: variant-description.yml
-      _resource_key: variant-desc_Gamma
-    attrlist:
-      _resource: variant-description.yml
-      _resource_key: variant-attrlist_Gamma
-    autoGenomeMaps:
-      - title: P.1
-        varName: _Gamma/P.1
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.1)
-      - title: P.1.1
-        varName: _Gamma/P.1.1
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.1.1)
-      - title: P.1.2
-        varName: _Gamma/P.1.2
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.1.2)
-  - title: Delta
-    name: delta
-    contentBefore:
-      _resource: variant-description.yml
-      _resource_key: variant-desc_Delta
-    attrlist:
-      _resource: variant-description.yml
-      _resource_key: variant-attrlist_Delta
-    autoGenomeMaps:
-      - title: B.1.617.2
-        varName: _Delta/B.1.617.2
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.617.2)
-      - title: AY.1
-        varName: _Delta/AY.1
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.1)
-      - title: AY.2
-        varName: _Delta/AY.2
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.2)
-      - title: AY.3
-        varName: _Delta/AY.3
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.3)
-      - title: AY.4
-        varName: _Delta/AY.4
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.4)
-      - title: AY.5
-        varName: _Delta/AY.5
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.5)
-      - title: AY.6
-        varName: _Delta/AY.6
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.6)
-      - title: AY.7
-        varName: _Delta/AY.7
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.7)
-      - title: AY.8
-        varName: _Delta/AY.8
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.8)
-      - title: AY.9
-        varName: _Delta/AY.9
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.9)
-      - title: AY.10
-        varName: _Delta/AY.10
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.10)
-      - title: AY.11
-        varName: _Delta/AY.11
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.11)
-  - title: Other variants
-    name: other
-    autoGenomeMaps:
-      - title: Epsilon/B.1.427 (previous VOI)
-        varName: _Epsilon/B.1.427
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.427)
-      - title: Epsilon/B.1.429 (previous VOI)
-        varName: _Epsilon/B.1.429
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.429)
-      - title: Zeta/P.2 (previous VOI)
-        varName: Zeta
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.2)
-      - title: Eta/B.1.525 (previous VOI)
-        varName: Eta
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.525)
-      - title: Theta/P.3 (previous VOI)
-        varName: Theta
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.3)
-      - title: Iota/B.1.526 (previous VOI)
-        varName: Iota
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.526)
-      - title: Kappa/B.1.617.1 (previous VOI)
-        varName: Kappa
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.617.1)
-      - title: Lambda/C.37 (previous VOI)
-        varName: Lambda
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=C.37)
-      - title: Mu/B.1.621 (previous VOI)
-        varName: Mu
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.621)
-      - title: AV.1 (FMV)
-        varName: AV.1
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AV.1)
-      - title: AT.1 (FMV)
-        varName: AT.1
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=AT.1)
-      - title: R.1 (FMV)
-        varName: R.1
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=R.1)
-      - title: B.1.466.2 (FMV)
-        varName: B.1.466.2
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.466.2)
-      - title: B.1.1.519 (FMV)
-        varName: B.1.1.519
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.519)
-      - title: C.36.3 (FMV)
-        varName: C.36.3
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=C.36.3)
-      - title: B.1.214.2 (FMV)
-        varName: B.1.214.2
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.214.2)
-      - title: B.1.1.523 (FMV)
-        varName: B.1.1.523
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.523)
-      - title: B.1.619 (FMV)
-        varName: B.1.619
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.619)
-      - title: B.1.620 (FMV)
-        varName: B.1.620
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.620)
-      - title: B.1.630 (FMV)
-        varName: B.1.630
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.630)
-      - title: B.1.1.318 (FMV)
-        varName: B.1.1.318
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.318)
-      - title: C.1.2 (FMV)
-        varName: C.1.2
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=C.1.2)
-      - title: B.1.640.1 (FMV)
-        varName: B.1.640.1
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.640.1)
-      - title: B.1.640.2 (FMV)
-        varName: B.1.640.2
-        source: >-
-          [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.640.2)
-  - title: Non-Omicron Mutation Chart
-    name: voc-comp-table
-    contentAfter:
-      _resource: mutation-variants-compare.md
+  # - title: Alpha
+  #   name: alpha
+  #   contentBefore:
+  #     _resource: variant-description.yml
+  #     _resource_key: variant-desc_Alpha
+  #   attrlist:
+  #     _resource: variant-description.yml
+  #     _resource_key: variant-attrlist_Alpha
+  #   autoGenomeMaps:
+  #     - title: B.1.1.7
+  #       varName: _Alpha/B.1.1.7
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.7)
+  #     - title: Q.1
+  #       varName: _Alpha/Q.1
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=Q.1)
+  #     - title: Q.2
+  #       varName: _Alpha/Q.2
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=Q.2)
+  #     - title: Q.3
+  #       varName: _Alpha/Q.3
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=Q.3)
+  #     - title: Q.4
+  #       varName: _Alpha/Q.4
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=Q.4)
+  # - title: Beta
+  #   name: beta
+  #   contentBefore:
+  #     _resource: variant-description.yml
+  #     _resource_key: variant-desc_Beta
+  #   attrlist:
+  #     _resource: variant-description.yml
+  #     _resource_key: variant-attrlist_Beta
+  #   autoGenomeMaps:
+  #     - title: B.1.351
+  #       varName: _Beta/B.1.351
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.351)
+  #     - title: B.1.351.2
+  #       varName: _Beta/B.1.351.2
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.351.2)
+  #     - title: B.1.351.3
+  #       varName: _Beta/B.1.351.3
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.351.3)
+  # - title: Gamma
+  #   name: gamma
+  #   contentBefore:
+  #     _resource: variant-description.yml
+  #     _resource_key: variant-desc_Gamma
+  #   attrlist:
+  #     _resource: variant-description.yml
+  #     _resource_key: variant-attrlist_Gamma
+  #   autoGenomeMaps:
+  #     - title: P.1
+  #       varName: _Gamma/P.1
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.1)
+  #     - title: P.1.1
+  #       varName: _Gamma/P.1.1
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.1.1)
+  #     - title: P.1.2
+  #       varName: _Gamma/P.1.2
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.1.2)
+  # - title: Delta
+  #   name: delta
+  #   contentBefore:
+  #     _resource: variant-description.yml
+  #     _resource_key: variant-desc_Delta
+  #   attrlist:
+  #     _resource: variant-description.yml
+  #     _resource_key: variant-attrlist_Delta
+  #   autoGenomeMaps:
+  #     - title: B.1.617.2
+  #       varName: _Delta/B.1.617.2
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.617.2)
+  #     - title: AY.1
+  #       varName: _Delta/AY.1
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.1)
+  #     - title: AY.2
+  #       varName: _Delta/AY.2
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.2)
+  #     - title: AY.3
+  #       varName: _Delta/AY.3
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.3)
+  #     - title: AY.4
+  #       varName: _Delta/AY.4
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.4)
+  #     - title: AY.5
+  #       varName: _Delta/AY.5
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.5)
+  #     - title: AY.6
+  #       varName: _Delta/AY.6
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.6)
+  #     - title: AY.7
+  #       varName: _Delta/AY.7
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.7)
+  #     - title: AY.8
+  #       varName: _Delta/AY.8
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.8)
+  #     - title: AY.9
+  #       varName: _Delta/AY.9
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.9)
+  #     - title: AY.10
+  #       varName: _Delta/AY.10
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.10)
+  #     - title: AY.11
+  #       varName: _Delta/AY.11
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=AY.11)
+  # - title: Other variants
+  #   name: other
+  #   autoGenomeMaps:
+  #     - title: Epsilon/B.1.427 (previous VOI)
+  #       varName: _Epsilon/B.1.427
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.427)
+  #     - title: Epsilon/B.1.429 (previous VOI)
+  #       varName: _Epsilon/B.1.429
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.429)
+  #     - title: Zeta/P.2 (previous VOI)
+  #       varName: Zeta
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.2)
+  #     - title: Eta/B.1.525 (previous VOI)
+  #       varName: Eta
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.525)
+  #     - title: Theta/P.3 (previous VOI)
+  #       varName: Theta
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=P.3)
+  #     - title: Iota/B.1.526 (previous VOI)
+  #       varName: Iota
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.526)
+  #     - title: Kappa/B.1.617.1 (previous VOI)
+  #       varName: Kappa
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.617.1)
+  #     - title: Lambda/C.37 (previous VOI)
+  #       varName: Lambda
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=C.37)
+  #     - title: Mu/B.1.621 (previous VOI)
+  #       varName: Mu
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.621)
+  #     - title: AV.1 (FMV)
+  #       varName: AV.1
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=AV.1)
+  #     - title: AT.1 (FMV)
+  #       varName: AT.1
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=AT.1)
+  #     - title: R.1 (FMV)
+  #       varName: R.1
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=R.1)
+  #     - title: B.1.466.2 (FMV)
+  #       varName: B.1.466.2
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.466.2)
+  #     - title: B.1.1.519 (FMV)
+  #       varName: B.1.1.519
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.519)
+  #     - title: C.36.3 (FMV)
+  #       varName: C.36.3
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=C.36.3)
+  #     - title: B.1.214.2 (FMV)
+  #       varName: B.1.214.2
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.214.2)
+  #     - title: B.1.1.523 (FMV)
+  #       varName: B.1.1.523
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.523)
+  #     - title: B.1.619 (FMV)
+  #       varName: B.1.619
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.619)
+  #     - title: B.1.620 (FMV)
+  #       varName: B.1.620
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.620)
+  #     - title: B.1.630 (FMV)
+  #       varName: B.1.630
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.630)
+  #     - title: B.1.1.318 (FMV)
+  #       varName: B.1.1.318
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.1.318)
+  #     - title: C.1.2 (FMV)
+  #       varName: C.1.2
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=C.1.2)
+  #     - title: B.1.640.1 (FMV)
+  #       varName: B.1.640.1
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.640.1)
+  #     - title: B.1.640.2 (FMV)
+  #       varName: B.1.640.2
+  #       source: >-
+  #         [Outbreak.Info](https://outbreak.info/situation-reports?pango=B.1.640.2)
+  # - title: Non-Omicron Mutation Chart
+  #   name: voc-comp-table
+  #   contentAfter:
+  #     _resource: mutation-variants-compare.md
 tables:
   table_omicron_ctd:
     columnDefs:

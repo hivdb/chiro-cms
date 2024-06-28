@@ -69,14 +69,14 @@ sections:
       titers against OMICRON variants.
     content:
       _resource: susceptibility-data/figure4-plasma_nt_omi_inf_vacc.md
-  - title: Table 4
-    name: table-variant-stats
-    shortDesc: "Variants and #"
-    desc: >-
-      Variants of concern, variants of interest, and other variants for which
-      neutralization data are available
-    content:
-      _resource: susceptibility-data/table-variant-stats.md
+  # - title: Table 4
+  #   name: table-variant-stats
+  #   shortDesc: "Variants and #"
+  #   desc: >-
+  #     Variants of concern, variants of interest, and other variants for which
+  #     neutralization data are available
+  #   content:
+  #     _resource: susceptibility-data/table-variant-stats.md
   - title: Table 5
     name: table-single-mut-stats
     shortDesc: "Mutations and #"
@@ -101,15 +101,15 @@ sections:
       SARS-CoV-2 variant tested
     content:
       _resource: susceptibility-data/table-vp-stats.md
-  - title: Table 8
-    name: table-cp-stats
-    shortDesc: "CP and #"
-    desc: >-
-      Numbers of convalescent plasma (CP) neutralization experiments according
-      to the infecting virus, time since infection, and SARS-CoV-2 variant
-      tested
-    content:
-      _resource: susceptibility-data/table-cp-stats.md
+  # - title: Table 8
+  #   name: table-cp-stats
+  #   shortDesc: "CP and #"
+  #   desc: >-
+  #     Numbers of convalescent plasma (CP) neutralization experiments according
+  #     to the infecting virus, time since infection, and SARS-CoV-2 variant
+  #     tested
+  #   content:
+  #     _resource: susceptibility-data/table-cp-stats.md
   - title: Figure 4
     name: figure-epitope
     shortDesc: MAb epitopes and escape positions
@@ -149,12 +149,12 @@ sections:
     desc: mAb (Monoclonal antibody) synonyms
     content:
       _resource: susceptibility-data/table-mab-synonyms.md
-  - title: Appendix Table 2
-    name: table-wildtype
-    shortDesc: Wildtype
-    desc: Wildtype mutations
-    content:
-      _resource: susceptibility-data/table-wildtype.md
+  # - title: Appendix Table 2
+  #   name: table-wildtype
+  #   shortDesc: Wildtype
+  #   desc: Wildtype mutations
+  #   content:
+  #     _resource: susceptibility-data/table-wildtype.md
   - title: References
     name: references
     shortDesc: References
