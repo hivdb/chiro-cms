@@ -1,10 +1,9 @@
-### Fold reduced neutralizing susceptibility to monoclonal antibodies under Emergency Use Authorization (EUA)
-
+### Fold reduced neutralizing susceptibility
 [table noHeaderOverlapping]
 table_mab
 [/table]
 
-### Fold reduced neutralizing susceptibility to monoclonal antibodies in other clinical trials
+### Fold reduced neutralizing susceptibility, other monoclonal antibodies
 
 [table noHeaderOverlapping]
 table_mab_non_eua
