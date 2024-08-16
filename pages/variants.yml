@@ -63,6 +63,22 @@ sections:
         varName: KP.2
         source: >-
           [Outbreak.Info](https://outbreak.info/situation-reports?pango=KP.2)
+      - title: KP.3
+        varName: KP.3
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=KP.3)
+      - title: KP.2.3
+        varName: KP.2.3
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=KP.2.3)
+      - title: KP.3.1.1
+        varName: KP.3.1.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=KP.3.1.1)
+      - title: LB.1
+        varName: LB.1
+        source: >-
+          [Outbreak.Info](https://outbreak.info/situation-reports?pango=LB.1)
       - title: JN.1
         varName: JN.1
         source: >-

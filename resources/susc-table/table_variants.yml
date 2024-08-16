@@ -1537,18 +1537,78 @@
 - pattern: I332V+G339H+K356T+S371F+S373P+S375F+T376A+R403K+D405N+R408S+K417N+N440K+V445H+G446S+N450D+L452W+L455S+N460K+S477N+T478K+N481K+V483∆+E484K+F486P+Q498R+N501Y+Y505H
   pattern_length: 27
   var_name: JN.1
-  num_ref_name: 2
+  num_ref_name: 3
   cp: 0
   vp: 0
-  mAbs phase3: 3
+  mAbs phase3: 4
   mAbs structure: 0
   other mAbs: 0
-  all mAbs: 3
-  num_exp: 3
+  all mAbs: 4
+  num_exp: 4
   var_type: Other variants containing >=1 RBD mutation
 - pattern: I332V+G339H+K356T+S371F+S373P+S375F+T376A+R403K+D405N+R408S+K417N+N440K+V445H+G446S+N450D+L452W+L455S+F456L+N460K+S477N+T478K+N481K+V483∆+E484K+F486P+Q498R+N501Y+Y505H
   pattern_length: 28
   var_name: JN.1.11.1
+  num_ref_name: 1
+  cp: 0
+  vp: 0
+  mAbs phase3: 1
+  mAbs structure: 0
+  other mAbs: 0
+  all mAbs: 1
+  num_exp: 1
+  var_type: Other variants containing >=1 RBD mutation
+- pattern: I332V+G339H+R346T+K356T+S371F+S373P+S375F+T376A+R403K+D405N+R408S+K417N+N440K+V445H+G446S+N450D+L452W+L455S+F456L+N460K+S477N+T478K+N481K+V483∆+E484K+F486P+Q498R+N501Y+Y505H
+  pattern_length: 29
+  var_name: KP.2
+  num_ref_name: 1
+  cp: 0
+  vp: 0
+  mAbs phase3: 1
+  mAbs structure: 0
+  other mAbs: 0
+  all mAbs: 1
+  num_exp: 1
+  var_type: Other variants containing >=1 RBD mutation
+- pattern: I332V+G339H+R346T+K356T+S371F+S373P+S375F+T376A+R403K+D405N+R408S+K417N+N440K+V445H+G446S+N450∆+L452W+L455S+F456L+N460K+S477N+T478K+N481K+F486P+Q498R+N501Y+Y505H
+  pattern_length: 27
+  var_name: KP.2.3
+  num_ref_name: 1
+  cp: 0
+  vp: 0
+  mAbs phase3: 1
+  mAbs structure: 0
+  other mAbs: 0
+  all mAbs: 1
+  num_exp: 1
+  var_type: Other variants containing >=1 RBD mutation
+- pattern: I332V+G339H+K356T+S371F+S373P+S375F+T376A+R403K+D405N+R408S+K417N+N440K+V445H+G446S+N450D+L452W+L455S+F456L+N460K+S477N+T478K+N481K+V483∆+E484K+F486P+Q493E+Q498R+N501Y+Y505H
+  pattern_length: 29
+  var_name: KP.3
+  num_ref_name: 1
+  cp: 0
+  vp: 0
+  mAbs phase3: 1
+  mAbs structure: 0
+  other mAbs: 0
+  all mAbs: 1
+  num_exp: 1
+  var_type: Other variants containing >=1 RBD mutation
+- pattern: I332V+G339H+K356T+S371F+S373P+S375F+T376A+R403K+D405N+R408S+K417N+N440K+V445H+G446S+N450∆+L452W+L455S+F456L+N460K+S477N+T478K+N481K+V483∆+E484K+F486P+Q493E+Q498R+N501Y+Y505H
+  pattern_length: 29
+  var_name: KP.3.1.1
+  num_ref_name: 1
+  cp: 0
+  vp: 0
+  mAbs phase3: 1
+  mAbs structure: 0
+  other mAbs: 0
+  all mAbs: 1
+  num_exp: 1
+  var_type: Other variants containing >=1 RBD mutation
+- pattern: I332V+G339H+R346T+K356T+S371F+S373P+S375F+T376A+R403K+D405N+R408S+K417N+N440K+V445H+G446S+N450D+L452W+L455S+F456L+N460K+S477N+T478K+N481K+V483∆+E484K+F486P+Q498R+N501Y+Y505H
+  pattern_length: 29
+  var_name: LB.1
   num_ref_name: 1
   cp: 0
   vp: 0

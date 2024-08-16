@@ -3,7 +3,6 @@
 table_mab
 [/table]
 
-### Fold reduced neutralizing susceptibility, other monoclonal antibodies
 
 [table noHeaderOverlapping]
 table_mab_non_eua
