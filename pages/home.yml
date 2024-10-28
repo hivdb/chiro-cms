@@ -34,6 +34,18 @@ projectSections:
       description: Spike, 3CLpro and RdRP
       link: /mut-annot-viewer/
       image: home/edumat-spike-viewer.png
+  - title: Videos
+    compact: true
+    displayTitle: true
+    items:
+    - title: >-
+        <div style="font-size:1.5rem;line-height:1.8rem;">
+        Preventing and Managing SARS-CoV-2 Reinfections
+        </div>
+      description: by Robert Shafer, MD
+      link: https://www.youtube.com/watch?v=Z1pvx88aJiQ
+      extLink: true
+      image: home/video-preventing-reinfection.png
   - title: Publications
     compact: true
     displayTitle: true
